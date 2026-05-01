@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Build outputs
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env.local
+
+# IDEs - VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# IDEs - JetBrains
+.idea/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# Capacitor / Mobile
+# Standard practice is to keep the android/ios folders for native config, 
+# but ignore build and local properties.
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/.idea/
+android/*.iml
+
+ios/App/build/
+ios/App/Pods/
+ios/App/.bundle/
+
+# Testing
+coverage/
+
+# Vercel
+.vercel
+

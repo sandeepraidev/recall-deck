@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Recall Deck</string>
+    <string name="title_activity_main">Recall Deck</string>
+    <string name="package_name">com.recalldeck.app</string>
+    <string name="custom_url_scheme">com.recalldeck.app</string>
+</resources>

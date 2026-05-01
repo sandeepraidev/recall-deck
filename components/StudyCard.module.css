@@ -1,0 +1,57 @@
+/* Card flip animation for study mode */
+.container {
+  perspective: 1000px;
+}
+
+.inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.45s ease;
+  transform-style: preserve-3d;
+}
+
+.inner.flipped {
+  transform: rotateY(180deg);
+}
+
+.face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  overflow-y: auto;
+}
+
+.face.back {
+  transform: rotateY(180deg);
+}
+
+/* Card shine sweep animation */
+@keyframes shine-sweep {
+  0%   { transform: translateX(-100%) skewX(-15deg); }
+  100% { transform: translateX(250%) skewX(-15deg); }
+}
+
+.shine {
+  position: relative;
+}
+
+.shine::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.18) 50%,
+    transparent 100%
+  );
+  transform: translateX(-100%) skewX(-15deg);
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+.shine:hover::after {
+  animation: shine-sweep 0.7s ease forwards;
+}
