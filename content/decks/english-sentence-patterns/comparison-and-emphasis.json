@@ -1,0 +1,38 @@
+{
+ "id": "deck-60",
+ "categoryId": "cat-56",
+ "title": "Comparison & Emphasis",
+ "sub": "Patterns for contrast and stress.",
+ "cards": [
+  {
+   "id": "card-57",
+   "mode": "pattern",
+   "pattern": "No sooner ___ than ___",
+   "hint": "One event happening immediately after another",
+   "examples": [
+    "No sooner had I sat down than the phone rang.",
+    "No sooner did we leave than it started to rain."
+   ]
+  },
+  {
+   "id": "card-58",
+   "mode": "pattern",
+   "pattern": "The more ___, the more ___",
+   "hint": "Two things increasing together",
+   "examples": [
+    "The more you practice, the more confident you become.",
+    "The more he earned, the more he spent."
+   ]
+  },
+  {
+   "id": "card-59",
+   "mode": "pattern",
+   "pattern": "Not only ___ but also ___",
+   "hint": "Adding emphasis with two related facts",
+   "examples": [
+    "She not only sings but also writes her own songs.",
+    "It was not only cheap but also well made."
+   ]
+  }
+ ]
+}

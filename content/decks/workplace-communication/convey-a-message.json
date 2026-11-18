@@ -1,0 +1,1191 @@
+{
+ "id": "pack4-deck-3",
+ "categoryId": "pack4-cat-1",
+ "title": "Convey a Message",
+ "sub": "Clear, polite and direct ways to pass on information.",
+ "cards": [
+  {
+   "id": "pack4-card-209",
+   "mode": "vocab",
+   "word": "convey",
+   "pron": "",
+   "def": "to communicate an idea or feeling\nहिंदी: व्यक्त करना / पहुँचाना",
+   "examples": [
+    "He conveyed the news gently.",
+    "The letter conveys our thanks.",
+    "Her smile conveyed more than any words could.",
+    "Use simple slides to convey your main idea to the client."
+   ]
+  },
+  {
+   "id": "pack4-card-210",
+   "mode": "vocab",
+   "word": "communicate",
+   "pron": "",
+   "def": "to share information with someone\nहिंदी: संवाद करना / बताना",
+   "examples": [
+    "We communicate by email.",
+    "She communicates clearly.",
+    "Our manager communicates changes in the Monday team call.",
+    "Babies communicate by crying before they learn to talk."
+   ]
+  },
+  {
+   "id": "pack4-card-211",
+   "mode": "vocab",
+   "word": "inform",
+   "pron": "",
+   "def": "to give someone information\nहिंदी: सूचित करना",
+   "examples": [
+    "Please inform the team.",
+    "I'll inform you of the result.",
+    "The airline informed us that the flight was delayed by two hours.",
+    "Please inform HR if you will be on leave next week."
+   ]
+  },
+  {
+   "id": "pack4-card-212",
+   "mode": "vocab",
+   "word": "notify",
+   "pron": "",
+   "def": "to formally tell someone\nहिंदी: अधिसूचित करना / सूचना देना",
+   "examples": [
+    "We will notify you by SMS.",
+    "Notify the manager immediately.",
+    "The bank notified me about a large withdrawal from my account.",
+    "Students will be notified of their exam dates by email."
+   ]
+  },
+  {
+   "id": "pack4-card-213",
+   "mode": "vocab",
+   "word": "let someone know",
+   "pron": "",
+   "def": "to tell someone\nहिंदी: किसी को बता देना",
+   "examples": [
+    "Let me know when you arrive.",
+    "I'll let her know.",
+    "If you need any help with the move, just let me know.",
+    "Please let the client know that the delivery will be late."
+   ]
+  },
+  {
+   "id": "pack4-card-214",
+   "mode": "vocab",
+   "word": "pass on",
+   "pron": "",
+   "def": "to give a message to another person\nहिंदी: आगे पहुँचा देना",
+   "examples": [
+    "Please pass on my regards.",
+    "I'll pass on the message.",
+    "My mother asked me to pass on her best wishes to your family.",
+    "Could you pass on these files to the new joiner?"
+   ]
+  },
+  {
+   "id": "pack4-card-215",
+   "mode": "vocab",
+   "word": "relay",
+   "pron": "",
+   "def": "to pass information from one to another\nहिंदी: संदेश आगे प्रेषित करना",
+   "examples": [
+    "He relayed the instructions to the staff.",
+    "Can you relay this to Sam?",
+    "The captain relayed the weather update to the passengers.",
+    "I'll relay your feedback to the design team this afternoon."
+   ]
+  },
+  {
+   "id": "pack4-card-216",
+   "mode": "vocab",
+   "word": "get across",
+   "pron": "",
+   "def": "to make people understand a message\nहिंदी: बात समझा पाना",
+   "examples": [
+    "It was hard to get my point across.",
+    "She got her message across.",
+    "Use a simple example to get your idea across to the audience.",
+    "The ad gets its message across in just ten seconds."
+   ]
+  },
+  {
+   "id": "pack4-card-217",
+   "mode": "vocab",
+   "word": "come across as",
+   "pron": "",
+   "def": "to give a certain impression\nहिंदी: ऐसा प्रतीत होना",
+   "examples": [
+    "He comes across as confident.",
+    "You came across as rude.",
+    "I don't want to come across as rude in my emails.",
+    "She comes across as shy, but she's very friendly."
+   ]
+  },
+  {
+   "id": "pack4-card-218",
+   "mode": "vocab",
+   "word": "spell out",
+   "pron": "",
+   "def": "to explain in clear detail\nहिंदी: खुलकर विस्तार से बताना",
+   "examples": [
+    "Let me spell out the rules.",
+    "He spelled out the plan.",
+    "The contract spells out the payment terms clearly.",
+    "Do I need to spell out every step, or can you manage?"
+   ]
+  },
+  {
+   "id": "pack4-card-219",
+   "mode": "vocab",
+   "word": "make clear",
+   "pron": "",
+   "def": "to explain without confusion\nहिंदी: स्पष्ट करना",
+   "examples": [
+    "I made it clear that I disagreed.",
+    "Make clear what you expect.",
+    "The teacher made clear that phones are not allowed in class.",
+    "Please make clear in the email who should reply."
+   ]
+  },
+  {
+   "id": "pack4-card-220",
+   "mode": "vocab",
+   "word": "put it plainly",
+   "pron": "",
+   "def": "to say in simple, direct words\nहिंदी: सीधे शब्दों में कहना",
+   "examples": [
+    "To put it plainly, we can't afford it.",
+    "Let me put it plainly.",
+    "To put it plainly, the project is over budget.",
+    "Let me put it plainly: we need your decision today."
+   ]
+  },
+  {
+   "id": "pack4-card-221",
+   "mode": "vocab",
+   "word": "in plain words",
+   "pron": "",
+   "def": "using simple language\nहिंदी: सरल शब्दों में",
+   "examples": [
+    "Say it in plain words.",
+    "In plain words, we need more time.",
+    "The doctor explained my illness in plain words.",
+    "In plain words, the new policy means less overtime pay."
+   ]
+  },
+  {
+   "id": "pack4-card-222",
+   "mode": "vocab",
+   "word": "long story short",
+   "pron": "",
+   "def": "to give only the main point\nहिंदी: संक्षेप में कहें तो",
+   "examples": [
+    "Long story short, we lost the deal.",
+    "Long story short, I quit.",
+    "Long story short, I missed the train and took a cab.",
+    "Long story short, the client loved our proposal."
+   ]
+  },
+  {
+   "id": "pack4-card-223",
+   "mode": "vocab",
+   "word": "to cut a long story short",
+   "pron": "",
+   "def": "to skip details and summarise\nहिंदी: कहानी छोटी करूँ तो",
+   "examples": [
+    "To cut a long story short, he refused.",
+    "To cut a long story short, it failed.",
+    "To cut a long story short, we moved to Pune last year.",
+    "To cut a long story short, the meeting was cancelled."
+   ]
+  },
+  {
+   "id": "pack4-card-224",
+   "mode": "vocab",
+   "word": "in a nutshell",
+   "pron": "",
+   "def": "in very few words\nहिंदी: संक्षेप में",
+   "examples": [
+    "In a nutshell, we need funding.",
+    "That is, in a nutshell, the plan.",
+    "In a nutshell, the new phone is faster and cheaper.",
+    "Can you explain the problem in a nutshell?"
+   ]
+  },
+  {
+   "id": "pack4-card-225",
+   "mode": "vocab",
+   "word": "bottom line",
+   "pron": "",
+   "def": "the most important final point\nहिंदी: सारांश / असली बात",
+   "examples": [
+    "The bottom line is we need more staff.",
+    "The bottom line — it works.",
+    "The bottom line is that customers want faster delivery.",
+    "Forget the details; what's the bottom line?"
+   ]
+  },
+  {
+   "id": "pack4-card-226",
+   "mode": "vocab",
+   "word": "the gist",
+   "pron": "",
+   "def": "the main idea of something\nहिंदी: सार",
+   "examples": [
+    "I got the gist of the story.",
+    "Tell me the gist.",
+    "I missed the meeting, so can you give me the gist?",
+    "The gist of the article is that prices will rise."
+   ]
+  },
+  {
+   "id": "pack4-card-227",
+   "mode": "vocab",
+   "word": "the point is",
+   "pron": "",
+   "def": "introducing the main idea\nहिंदी: मुद्दा यह है कि",
+   "examples": [
+    "The point is we are late.",
+    "The point is, we can't wait.",
+    "The point is, we need to save money this year.",
+    "I know it's hard, but the point is to keep trying."
+   ]
+  },
+  {
+   "id": "pack4-card-228",
+   "mode": "vocab",
+   "word": "what I mean is",
+   "pron": "",
+   "def": "clarifying your meaning\nहिंदी: मेरा मतलब है",
+   "examples": [
+    "What I mean is we need a plan.",
+    "What I mean is, try again.",
+    "What I mean is that we should test before launching.",
+    "Sorry, that sounded wrong; what I mean is I need more time."
+   ]
+  },
+  {
+   "id": "pack4-card-229",
+   "mode": "vocab",
+   "word": "in other words",
+   "pron": "",
+   "def": "saying the same thing differently\nहिंदी: दूसरे शब्दों में",
+   "examples": [
+    "In other words, we must wait.",
+    "In other words, it's cancelled.",
+    "The shop is closed on Sundays; in other words, come on Monday.",
+    "He said he's very busy, in other words, he can't help."
+   ]
+  },
+  {
+   "id": "pack4-card-230",
+   "mode": "vocab",
+   "word": "that is to say",
+   "pron": "",
+   "def": "used to explain or restate\nहिंदी: यानी कि",
+   "examples": [
+    "That is to say, we agree.",
+    "It's free, that is to say, no charge.",
+    "The meeting is next week, that is to say, on the twelfth.",
+    "We'll work remotely, that is to say, from home."
+   ]
+  },
+  {
+   "id": "pack4-card-231",
+   "mode": "vocab",
+   "word": "to be precise",
+   "pron": "",
+   "def": "to give exact details\nहिंदी: सटीक रूप से",
+   "examples": [
+    "He arrived at six, to be precise.",
+    "To be precise, there were forty.",
+    "The flight takes two hours, forty minutes, to be precise.",
+    "To be precise, we sold 1,245 tickets yesterday."
+   ]
+  },
+  {
+   "id": "pack4-card-233",
+   "mode": "vocab",
+   "word": "frankly speaking",
+   "pron": "",
+   "def": "speaking openly and honestly\nहिंदी: साफ़ कहूँ तो",
+   "examples": [
+    "Frankly speaking, I don't like it.",
+    "Frankly speaking, it's too costly.",
+    "Frankly speaking, the food here is overpriced.",
+    "Frankly speaking, I'm not ready for a promotion yet."
+   ]
+  },
+  {
+   "id": "pack4-card-234",
+   "mode": "vocab",
+   "word": "to put it mildly",
+   "pron": "",
+   "def": "stating something less strongly than the truth\nहिंदी: नरमी से कहूँ तो",
+   "examples": [
+    "It was, to put it mildly, a disaster.",
+    "He was upset, to put it mildly.",
+    "The traffic was bad, to put it mildly.",
+    "The client was unhappy, to put it mildly, about the delay."
+   ]
+  },
+  {
+   "id": "pack4-card-235",
+   "mode": "vocab",
+   "word": "if I may say so",
+   "pron": "",
+   "def": "a polite way to give an opinion\nहिंदी: अगर मैं कह सकूँ तो",
+   "examples": [
+    "It's a great idea, if I may say so.",
+    "If I may say so, it's too long.",
+    "If I may say so, your English has improved a lot.",
+    "That colour suits you, if I may say so."
+   ]
+  },
+  {
+   "id": "pack4-card-236",
+   "mode": "vocab",
+   "word": "with all due respect",
+   "pron": "",
+   "def": "politely before disagreeing\nहिंदी: पूरे सम्मान के साथ",
+   "examples": [
+    "With all due respect, I disagree.",
+    "With all due respect, that's wrong.",
+    "With all due respect, the numbers don't support that plan.",
+    "With all due respect, sir, I think we need more time."
+   ]
+  },
+  {
+   "id": "pack4-card-237",
+   "mode": "vocab",
+   "word": "I'd like to point out",
+   "pron": "",
+   "def": "politely introducing a fact\nहिंदी: मैं ध्यान दिलाना चाहूँगा",
+   "examples": [
+    "I'd like to point out a mistake.",
+    "I'd like to point out the cost.",
+    "I'd like to point out that the deadline is tomorrow.",
+    "Before we decide, I'd like to point out one risk."
+   ]
+  },
+  {
+   "id": "pack4-card-238",
+   "mode": "vocab",
+   "word": "may I remind you",
+   "pron": "",
+   "def": "politely recalling something\nहिंदी: क्या मैं याद दिला सकता हूँ",
+   "examples": [
+    "May I remind you of the deadline?",
+    "May I remind you of our agreement?",
+    "May I remind you that phones must be switched off?",
+    "May I remind you that the payment is overdue?"
+   ]
+  },
+  {
+   "id": "pack4-card-239",
+   "mode": "vocab",
+   "word": "please note that",
+   "pron": "",
+   "def": "drawing attention to information\nहिंदी: कृपया ध्यान दें कि",
+   "examples": [
+    "Please note that the office is closed.",
+    "Please note that fees apply.",
+    "Please note that the meeting room has changed to the third floor.",
+    "Please note that late submissions will not be accepted."
+   ]
+  },
+  {
+   "id": "pack4-card-240",
+   "mode": "vocab",
+   "word": "kindly confirm",
+   "pron": "",
+   "def": "a polite request to verify\nहिंदी: कृपया पुष्टि करें",
+   "examples": [
+    "Kindly confirm your attendance.",
+    "Kindly confirm receipt.",
+    "Kindly confirm the delivery address before we ship the order.",
+    "Kindly confirm whether you can join the call at four."
+   ]
+  },
+  {
+   "id": "pack4-card-241",
+   "mode": "vocab",
+   "word": "I'm writing to",
+   "pron": "",
+   "def": "a standard opening of a formal letter\nहिंदी: मैं ... के लिए लिख रहा हूँ",
+   "examples": [
+    "I'm writing to enquire about the job.",
+    "I'm writing to confirm our meeting.",
+    "I'm writing to apply for the marketing role.",
+    "I'm writing to complain about a faulty washing machine."
+   ]
+  },
+  {
+   "id": "pack4-card-242",
+   "mode": "vocab",
+   "word": "with reference to",
+   "pron": "",
+   "def": "in connection with\nहिंदी: ... के संदर्भ में",
+   "examples": [
+    "With reference to your email, I'm replying.",
+    "With reference to our call, here's the plan.",
+    "With reference to your order, the delivery will arrive Monday.",
+    "With reference to the job ad, I'd like to apply."
+   ]
+  },
+  {
+   "id": "pack4-card-243",
+   "mode": "vocab",
+   "word": "further to",
+   "pron": "",
+   "def": "following on from\nहिंदी: ... के क्रम में",
+   "examples": [
+    "Further to our meeting, I've attached notes.",
+    "Further to your request, here is the file.",
+    "Further to my last email, here is the updated price list.",
+    "Further to our phone call, I've booked the meeting room."
+   ]
+  },
+  {
+   "id": "pack4-card-244",
+   "mode": "vocab",
+   "word": "as discussed",
+   "pron": "",
+   "def": "as we talked about earlier\nहिंदी: जैसा कि चर्चा हुई थी",
+   "examples": [
+    "As discussed, I'll send the invoice.",
+    "As discussed, the meeting is on Friday.",
+    "As discussed, I've shared the draft with the team.",
+    "As discussed in the meeting, we'll launch in March."
+   ]
+  },
+  {
+   "id": "pack4-card-245",
+   "mode": "vocab",
+   "word": "as per",
+   "pron": "",
+   "def": "according to\nहिंदी: ... के अनुसार",
+   "examples": [
+    "As per your request, I've resent it.",
+    "As per the policy, leave needs approval.",
+    "As per the schedule, the train leaves at nine.",
+    "As per our agreement, payment is due within thirty days."
+   ]
+  },
+  {
+   "id": "pack4-card-246",
+   "mode": "vocab",
+   "word": "please find attached",
+   "pron": "",
+   "def": "used when sending a file by email\nहिंदी: कृपया संलग्न देखें",
+   "examples": [
+    "Please find attached the report.",
+    "Please find attached my CV.",
+    "Please find attached the invoice for last month.",
+    "Please find attached the photos from the event."
+   ]
+  },
+  {
+   "id": "pack4-card-247",
+   "mode": "vocab",
+   "word": "I look forward to",
+   "pron": "",
+   "def": "expressing eager anticipation\nहिंदी: मैं ... की प्रतीक्षा करता हूँ",
+   "examples": [
+    "I look forward to your reply.",
+    "I look forward to meeting you.",
+    "I look forward to working with you on this project.",
+    "We look forward to welcoming you to our office."
+   ]
+  },
+  {
+   "id": "pack4-card-248",
+   "mode": "vocab",
+   "word": "at your earliest convenience",
+   "pron": "",
+   "def": "as soon as it suits you\nहिंदी: आपकी सुविधानुसार जल्द से जल्द",
+   "examples": [
+    "Please reply at your earliest convenience.",
+    "Call me at your earliest convenience.",
+    "Please sign the form and return it at your earliest convenience.",
+    "Kindly review the draft at your earliest convenience."
+   ]
+  },
+  {
+   "id": "pack4-card-249",
+   "mode": "vocab",
+   "word": "get back to me",
+   "pron": "",
+   "def": "to reply later\nहिंदी: मुझे जवाब दीजिए",
+   "examples": [
+    "Please get back to me by Friday.",
+    "Get back to me when you can.",
+    "Can you get back to me with a price by tomorrow?",
+    "I'll check with my team and get back to you."
+   ]
+  },
+  {
+   "id": "pack4-card-250",
+   "mode": "vocab",
+   "word": "drop me a line",
+   "pron": "",
+   "def": "to send a short message\nहिंदी: मुझे दो पंक्तियाँ लिख भेजिए",
+   "examples": [
+    "Drop me a line when you land.",
+    "Drop me a line sometime.",
+    "Drop me a line if you're ever in Delhi.",
+    "If you have questions, just drop me a line."
+   ]
+  },
+  {
+   "id": "pack4-card-251",
+   "mode": "vocab",
+   "word": "keep me posted",
+   "pron": "",
+   "def": "to keep updating me\nहिंदी: मुझे ख़बर देते रहिए",
+   "examples": [
+    "Keep me posted on the progress.",
+    "Keep me posted about the result.",
+    "Keep me posted on your job search.",
+    "I'll keep you posted if the plan changes."
+   ]
+  },
+  {
+   "id": "pack4-card-252",
+   "mode": "vocab",
+   "word": "keep me in the loop",
+   "pron": "",
+   "def": "to keep me informed\nहिंदी: मुझे जानकारी में रखिए",
+   "examples": [
+    "Please keep me in the loop.",
+    "Keep me in the loop on this.",
+    "Keep me in the loop on any client emails this week.",
+    "She felt left out because nobody kept her in the loop."
+   ]
+  },
+  {
+   "id": "pack4-card-253",
+   "mode": "vocab",
+   "word": "give someone a heads-up",
+   "pron": "",
+   "def": "to warn or inform in advance\nहिंदी: पहले से आगाह करना",
+   "examples": [
+    "I'll give you a heads-up before I leave.",
+    "Give them a heads-up.",
+    "Thanks for the heads-up about the traffic jam.",
+    "Give the team a heads-up before you change the schedule."
+   ]
+  },
+  {
+   "id": "pack4-card-254",
+   "mode": "vocab",
+   "word": "break the news",
+   "pron": "",
+   "def": "to tell someone important or bad news\nहिंदी: ख़बर सुनाना",
+   "examples": [
+    "I had to break the news to her.",
+    "Who will break the news?",
+    "The doctor broke the news gently to the family.",
+    "I don't know how to break the news that I'm leaving."
+   ]
+  },
+  {
+   "id": "pack4-card-255",
+   "mode": "vocab",
+   "word": "deliver the message",
+   "pron": "",
+   "def": "to pass on a message formally\nहिंदी: संदेश पहुँचाना",
+   "examples": [
+    "He delivered the message to the board.",
+    "I'll deliver your message.",
+    "The secretary delivered the message to the director in person.",
+    "Please deliver the message before the meeting starts."
+   ]
+  },
+  {
+   "id": "pack4-card-256",
+   "mode": "vocab",
+   "word": "word of mouth",
+   "pron": "",
+   "def": "information spread by people talking\nहिंदी: मुँहज़बानी प्रचार",
+   "examples": [
+    "The shop grew by word of mouth.",
+    "We heard it by word of mouth.",
+    "Most of our customers find us through word of mouth.",
+    "Good restaurants don't need ads; word of mouth is enough."
+   ]
+  },
+  {
+   "id": "pack4-card-257",
+   "mode": "vocab",
+   "word": "spread the word",
+   "pron": "",
+   "def": "to tell many people\nहिंदी: बात फैलाना",
+   "examples": [
+    "Please spread the word about the event.",
+    "Help us spread the word.",
+    "Spread the word: free coffee in the canteen today!",
+    "We need volunteers, so please spread the word."
+   ]
+  },
+  {
+   "id": "pack4-card-260",
+   "mode": "vocab",
+   "word": "make an announcement",
+   "pron": "",
+   "def": "to publicly state something\nहिंदी: घोषणा करना",
+   "examples": [
+    "The principal made an announcement.",
+    "They made an announcement at noon.",
+    "The CEO will make an announcement at the town hall.",
+    "The pilot made an announcement about the delay."
+   ]
+  },
+  {
+   "id": "pack4-card-261",
+   "mode": "vocab",
+   "word": "express",
+   "pron": "",
+   "def": "to show a feeling or opinion in words\nहिंदी: व्यक्त करना",
+   "examples": [
+    "She expressed her gratitude.",
+    "He expressed concern.",
+    "It's hard for him to express his feelings.",
+    "Please express your ideas freely in this meeting."
+   ]
+  },
+  {
+   "id": "pack4-card-262",
+   "mode": "vocab",
+   "word": "voice",
+   "pron": "",
+   "def": "to say a feeling or opinion aloud\nहिंदी: आवाज़ उठाना",
+   "examples": [
+    "He voiced his doubts.",
+    "Voice your concerns.",
+    "Several parents voiced their anger about the fee hike.",
+    "The survey lets employees voice their opinions anonymously."
+   ]
+  },
+  {
+   "id": "pack4-card-263",
+   "mode": "vocab",
+   "word": "put across",
+   "pron": "",
+   "def": "to express so others understand\nहिंदी: समझाकर कहना",
+   "examples": [
+    "He puts his ideas across well.",
+    "She put her view across clearly.",
+    "She puts complex ideas across in very simple words.",
+    "He struggled to put his point across in English."
+   ]
+  },
+  {
+   "id": "pack4-card-264",
+   "mode": "vocab",
+   "word": "get the message",
+   "pron": "",
+   "def": "to understand what is being communicated\nहिंदी: इशारा / संदेश समझना",
+   "examples": [
+    "I got the message loud and clear.",
+    "He didn't get the message.",
+    "After three reminders, he finally got the message and paid.",
+    "She didn't reply to my calls, so I got the message."
+   ]
+  },
+  {
+   "id": "pack4-card-265",
+   "mode": "vocab",
+   "word": "read between the lines",
+   "pron": "",
+   "def": "to understand the hidden meaning\nहिंदी: पंक्तियों के बीच का मतलब समझना",
+   "examples": [
+    "You have to read between the lines.",
+    "I read between the lines of his email.",
+    "Reading between the lines, the company is cutting costs.",
+    "Her reply was polite, but if you read between the lines, she was upset."
+   ]
+  },
+  {
+   "id": "pack4-card-266",
+   "mode": "vocab",
+   "word": "hint at",
+   "pron": "",
+   "def": "to suggest indirectly\nहिंदी: इशारा करना",
+   "examples": [
+    "He hinted at a promotion.",
+    "She hinted that she was leaving.",
+    "The manager hinted at changes in the team structure.",
+    "The trailer hints at a surprise ending."
+   ]
+  },
+  {
+   "id": "pack4-card-269",
+   "mode": "vocab",
+   "word": "refer to",
+   "pron": "",
+   "def": "to speak about or point to\nहिंदी: उल्लेख करना / संदर्भ देना",
+   "examples": [
+    "He referred to the report.",
+    "I'm referring to last week's event.",
+    "Please refer to the attached document for details.",
+    "Which client were you referring to in the meeting?"
+   ]
+  },
+  {
+   "id": "pack4-card-270",
+   "mode": "vocab",
+   "word": "bring up",
+   "pron": "",
+   "def": "to start talking about a topic\nहिंदी: बात छेड़ना",
+   "examples": [
+    "Don't bring up the past.",
+    "He brought up the budget.",
+    "I'll bring up the leave issue in my one-on-one.",
+    "She brought up an important point about safety."
+   ]
+  },
+  {
+   "id": "pack4-card-271",
+   "mode": "vocab",
+   "word": "touch on",
+   "pron": "",
+   "def": "to mention briefly\nहिंदी: संक्षेप में चर्चा करना",
+   "examples": [
+    "She touched on the main issues.",
+    "He touched on pricing.",
+    "The speaker touched on climate change at the end of her talk.",
+    "We only touched on the budget; we'll discuss it next week."
+   ]
+  },
+  {
+   "id": "pack4-card-272",
+   "mode": "vocab",
+   "word": "go into detail",
+   "pron": "",
+   "def": "to explain fully\nहिंदी: विस्तार से बताना",
+   "examples": [
+    "I won't go into detail.",
+    "Can you go into detail?",
+    "The report goes into detail about last year's sales.",
+    "There's no time to go into detail, so here's the summary."
+   ]
+  },
+  {
+   "id": "pack4-card-275",
+   "mode": "vocab",
+   "word": "explain",
+   "pron": "",
+   "def": "to make something understandable\nहिंदी: समझाना",
+   "examples": [
+    "Explain how it works.",
+    "She explained the rules.",
+    "Can you explain why the payment failed?",
+    "The teacher explained the maths problem twice."
+   ]
+  },
+  {
+   "id": "pack4-card-276",
+   "mode": "vocab",
+   "word": "paraphrase",
+   "pron": "",
+   "def": "to restate in different words\nहिंदी: अपने शब्दों में दोहराना",
+   "examples": [
+    "Please paraphrase the paragraph.",
+    "He paraphrased her statement.",
+    "Don't copy the article; paraphrase it in your own words.",
+    "Let me paraphrase what you said to check I understood."
+   ]
+  },
+  {
+   "id": "pack4-card-278",
+   "mode": "vocab",
+   "word": "recap",
+   "pron": "",
+   "def": "to repeat the main points\nहिंदी: सारांश दोहराना",
+   "examples": [
+    "Let me quickly recap.",
+    "A short recap of the plan.",
+    "Here's a quick recap of yesterday's meeting.",
+    "Let's recap the action items before we leave."
+   ]
+  },
+  {
+   "id": "pack4-card-281",
+   "mode": "vocab",
+   "word": "underline",
+   "pron": "",
+   "def": "to stress the importance\nहिंदी: रेखांकित करना",
+   "examples": [
+    "The incident underlines the need for caution.",
+    "He underlined the risk.",
+    "The flood underlines the need for better drainage.",
+    "The manager underlined the importance of safety rules."
+   ]
+  },
+  {
+   "id": "pack4-card-282",
+   "mode": "vocab",
+   "word": "reiterate",
+   "pron": "",
+   "def": "to repeat for emphasis\nहिंदी: दोहराना",
+   "examples": [
+    "I reiterate my position.",
+    "Let me reiterate the deadline.",
+    "The teacher reiterated that the exam starts at nine sharp.",
+    "I want to reiterate how grateful we are for your support."
+   ]
+  },
+  {
+   "id": "pack4-card-283",
+   "mode": "vocab",
+   "word": "reinforce",
+   "pron": "",
+   "def": "to strengthen a message\nहिंदी: मज़बूत करना",
+   "examples": [
+    "The speaker reinforced his point.",
+    "Examples reinforce the message.",
+    "Practice reinforces what you learn in class.",
+    "The second email reinforced the message about the deadline."
+   ]
+  },
+  {
+   "id": "pack4-card-284",
+   "mode": "vocab",
+   "word": "stay on message",
+   "pron": "",
+   "def": "to keep repeating the main point\nहिंदी: मूल संदेश पर टिके रहना",
+   "examples": [
+    "The politician stayed on message.",
+    "Stay on message during the interview.",
+    "The spokesperson stayed on message despite tough questions.",
+    "In sales calls, stay on message about the main benefit."
+   ]
+  },
+  {
+   "id": "pack4-card-285",
+   "mode": "vocab",
+   "word": "tone",
+   "pron": "",
+   "def": "the attitude conveyed by how something is said\nहिंदी: लहज़ा",
+   "examples": [
+    "His tone was polite.",
+    "Watch your tone.",
+    "The tone of her email sounded a bit angry.",
+    "Keep a friendly tone when you reply to customers."
+   ]
+  },
+  {
+   "id": "pack4-card-286",
+   "mode": "vocab",
+   "word": "body language",
+   "pron": "",
+   "def": "messages conveyed through gestures\nहिंदी: हाव-भाव / देह-भाषा",
+   "examples": [
+    "Her body language showed she was nervous.",
+    "Body language says a lot.",
+    "Crossed arms are body language that can look defensive.",
+    "Good body language helps in job interviews."
+   ]
+  },
+  {
+   "id": "pack4-card-287",
+   "mode": "vocab",
+   "word": "eye contact",
+   "pron": "",
+   "def": "looking into another's eyes while speaking\nहिंदी: आँख से आँख मिलाना",
+   "examples": [
+    "Maintain eye contact while speaking.",
+    "He avoided eye contact.",
+    "Eye contact shows you're listening.",
+    "In some cultures, too much eye contact can feel rude."
+   ]
+  },
+  {
+   "id": "pack4-card-288",
+   "mode": "vocab",
+   "word": "tone down",
+   "pron": "",
+   "def": "to make less strong\nहिंदी: नरम करना",
+   "examples": [
+    "Tone down your language.",
+    "Please tone down the message.",
+    "The editor asked him to tone down the headline.",
+    "Can you tone down the colours on this slide?"
+   ]
+  },
+  {
+   "id": "pack4-card-289",
+   "mode": "vocab",
+   "word": "soften the blow",
+   "pron": "",
+   "def": "to make bad news less shocking\nहिंदी: बुरी ख़बर को नरम बनाना",
+   "examples": [
+    "He tried to soften the blow.",
+    "A kind word softened the blow.",
+    "The company offered a good severance package to soften the blow.",
+    "She softened the blow by praising his effort first."
+   ]
+  },
+  {
+   "id": "pack4-card-290",
+   "mode": "vocab",
+   "word": "sugarcoat",
+   "pron": "",
+   "def": "to make something unpleasant seem better\nहिंदी: मीठा बनाकर कहना",
+   "examples": [
+    "Don't sugarcoat the truth.",
+    "He didn't sugarcoat the results.",
+    "My doctor doesn't sugarcoat bad news.",
+    "Please don't sugarcoat the feedback; I want to improve."
+   ]
+  },
+  {
+   "id": "pack4-card-291",
+   "mode": "vocab",
+   "word": "beat around the bush",
+   "pron": "",
+   "def": "to avoid speaking directly\nहिंदी: इधर-उधर की बात करना",
+   "examples": [
+    "Stop beating around the bush.",
+    "He beat around the bush.",
+    "Don't beat around the bush; tell me what happened.",
+    "He beat around the bush instead of asking for a raise."
+   ]
+  },
+  {
+   "id": "pack4-card-292",
+   "mode": "vocab",
+   "word": "get to the point",
+   "pron": "",
+   "def": "to say the main thing directly\nहिंदी: मुद्दे पर आना",
+   "examples": [
+    "Please get to the point.",
+    "Let me get to the point.",
+    "We have five minutes, so please get to the point.",
+    "Her emails always get to the point in the first line."
+   ]
+  },
+  {
+   "id": "pack4-card-293",
+   "mode": "vocab",
+   "word": "speak up",
+   "pron": "",
+   "def": "to say something louder or openly\nहिंदी: खुलकर बोलना / ऊँची आवाज़ में कहना",
+   "examples": [
+    "Speak up, we can't hear.",
+    "He spoke up against the plan.",
+    "If you disagree, please speak up in the meeting.",
+    "Can you speak up a little? The line is bad."
+   ]
+  },
+  {
+   "id": "pack4-card-294",
+   "mode": "vocab",
+   "word": "speak out",
+   "pron": "",
+   "def": "to say publicly what you think\nहिंदी: खुलकर सार्वजनिक रूप से बोलना",
+   "examples": [
+    "She spoke out against abuse.",
+    "Many spoke out for change.",
+    "Few employees dared to speak out against the policy.",
+    "The actor spoke out about mental health."
+   ]
+  },
+  {
+   "id": "pack4-card-295",
+   "mode": "vocab",
+   "word": "speak your mind",
+   "pron": "",
+   "def": "to say honestly what you think\nहिंदी: मन की बात कहना",
+   "examples": [
+    "Feel free to speak your mind.",
+    "He always speaks his mind.",
+    "My grandmother always speaks her mind at family dinners.",
+    "In our team, you can speak your mind without fear."
+   ]
+  },
+  {
+   "id": "pack4-card-296",
+   "mode": "vocab",
+   "word": "open up",
+   "pron": "",
+   "def": "to start talking about feelings\nहिंदी: मन खोलकर बात करना",
+   "examples": [
+    "She finally opened up to me.",
+    "He opened up about his fears.",
+    "It took months before the new joiner opened up to the team.",
+    "Children open up more when you listen without judging."
+   ]
+  },
+  {
+   "id": "pack4-card-297",
+   "mode": "vocab",
+   "word": "reach out to",
+   "pron": "",
+   "def": "to try to contact someone\nहिंदी: संपर्क साधना",
+   "examples": [
+    "I reached out to the manager.",
+    "Please reach out to us.",
+    "Reach out to IT if your laptop isn't working.",
+    "She reached out to old colleagues for job leads."
+   ]
+  },
+  {
+   "id": "pack4-card-298",
+   "mode": "vocab",
+   "word": "get in touch",
+   "pron": "",
+   "def": "to contact someone\nहिंदी: संपर्क करना",
+   "examples": [
+    "Get in touch if you have questions.",
+    "I'll get in touch soon.",
+    "How can I get in touch with customer support?",
+    "Get in touch with me after you reach Mumbai."
+   ]
+  },
+  {
+   "id": "pack4-card-299",
+   "mode": "vocab",
+   "word": "stay in touch",
+   "pron": "",
+   "def": "to keep contact regularly\nहिंदी: संपर्क बनाए रखना",
+   "examples": [
+    "Let's stay in touch.",
+    "We stayed in touch for years.",
+    "We stay in touch through a family WhatsApp group.",
+    "It's hard to stay in touch with college friends after moving."
+   ]
+  },
+  {
+   "id": "pack4-card-300",
+   "mode": "vocab",
+   "word": "lost in translation",
+   "pron": "",
+   "def": "meaning lost when changing language\nहिंदी: अनुवाद में अर्थ खो जाना",
+   "examples": [
+    "Something got lost in translation.",
+    "The joke was lost in translation.",
+    "The film's humour got lost in translation.",
+    "Some instructions got lost in translation between the two offices."
+   ]
+  },
+  {
+   "id": "pack4-card-301",
+   "mode": "vocab",
+   "word": "miscommunication",
+   "pron": "",
+   "def": "failure to communicate properly\nहिंदी: ग़लत संप्रेषण / संवादहीनता",
+   "examples": [
+    "It was a case of miscommunication.",
+    "Miscommunication caused the delay.",
+    "A small miscommunication led to two people doing the same task.",
+    "Clear emails help avoid miscommunication."
+   ]
+  },
+  {
+   "id": "pack4-card-302",
+   "mode": "vocab",
+   "word": "misunderstanding",
+   "pron": "",
+   "def": "a failure to understand correctly\nहिंदी: ग़लतफ़हमी",
+   "examples": [
+    "It was just a misunderstanding.",
+    "There was a misunderstanding.",
+    "Sorry for the misunderstanding; I thought the meeting was at four.",
+    "The misunderstanding was cleared up with a quick call."
+   ]
+  },
+  {
+   "id": "pack4-card-303",
+   "mode": "vocab",
+   "word": "on the same page",
+   "pron": "",
+   "def": "in agreement or understanding\nहिंदी: एकमत होना / एक ही समझ पर",
+   "examples": [
+    "Are we all on the same page?",
+    "We're on the same page now.",
+    "Let's get on the same page about the budget first.",
+    "The client and our team weren't on the same page about the scope."
+   ]
+  },
+  {
+   "id": "pack4-card-304",
+   "mode": "vocab",
+   "word": "loud and clear",
+   "pron": "",
+   "def": "easily and fully understood\nहिंदी: बिल्कुल साफ़-साफ़",
+   "examples": [
+    "I got the message loud and clear.",
+    "The message came through loud and clear.",
+    "Can you hear me? Yes, loud and clear.",
+    "The customers' complaints were loud and clear."
+   ]
+  },
+  {
+   "id": "pack4-card-305",
+   "mode": "vocab",
+   "word": "crystal clear",
+   "pron": "",
+   "def": "extremely easy to understand\nहिंदी: एकदम स्पष्ट",
+   "examples": [
+    "The instructions were crystal clear.",
+    "It's crystal clear to me.",
+    "She made it crystal clear that she wasn't interested.",
+    "The new rules are crystal clear: no phones at the desk."
+   ]
+  },
+  {
+   "id": "pack4-card-306",
+   "mode": "vocab",
+   "word": "sum it up",
+   "pron": "",
+   "def": "to state the main points briefly\nहिंदी: सार में कहना",
+   "examples": [
+    "Can you sum it up in one line?",
+    "Let me sum it up for you.",
+    "To sum it up, the trip was tiring but fun.",
+    "Can someone sum it up for those who joined late?"
+   ]
+  },
+  {
+   "id": "pack4-card-307",
+   "mode": "vocab",
+   "word": "straight to the point",
+   "pron": "",
+   "def": "direct without extra words\nहिंदी: सीधी बात",
+   "examples": [
+    "Her email was straight to the point.",
+    "Keep your message straight to the point.",
+    "Her answers were straight to the point, and the interviewer liked that.",
+    "His feedback was straight to the point but kind."
+   ]
+  },
+  {
+   "id": "pack4-card-308",
+   "mode": "vocab",
+   "word": "word for word",
+   "pron": "",
+   "def": "using exactly the same words\nहिंदी: शब्दशः",
+   "examples": [
+    "He repeated it word for word.",
+    "She quoted him word for word.",
+    "The student copied the answer word for word from the book.",
+    "Please write down what the customer said word for word."
+   ]
+  },
+  {
+   "id": "pack4-card-309",
+   "mode": "vocab",
+   "word": "in so many words",
+   "pron": "",
+   "def": "stating something directly\nहिंदी: साफ़ शब्दों में",
+   "examples": [
+    "He didn't say it in so many words.",
+    "She said, in so many words, no.",
+    "She didn't say it in so many words, but she wants a raise.",
+    "He told me, in so many words, that I was fired."
+   ]
+  }
+ ]
+}

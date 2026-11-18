@@ -1,0 +1,1308 @@
+{
+ "id": "pack2-deck-8",
+ "categoryId": "pack2-cat-2",
+ "title": "Speaking: Action & Reporting Verbs",
+ "sub": "Strong verbs that news reports and confident speakers rely on.",
+ "cards": [
+  {
+   "id": "pack2-card-648",
+   "mode": "vocab",
+   "word": "Announce",
+   "pron": "(verb)",
+   "def": "To make something known publicly.\nहिंदी: घोषणा करना",
+   "examples": [
+    "Present: Officials announce results at noon.",
+    "Past: The firm announced a merger.",
+    "Future: She will announce her decision.",
+    "Perfect: They have announced the dates."
+   ]
+  },
+  {
+   "id": "pack2-card-649",
+   "mode": "vocab",
+   "word": "Declare",
+   "pron": "(verb)",
+   "def": "To state something firmly and officially.\nहिंदी: घोषित करना",
+   "examples": [
+    "Present: Leaders declare a holiday.",
+    "Past: The state declared an emergency.",
+    "Future: He will declare his support.",
+    "Perfect: They have declared victory."
+   ]
+  },
+  {
+   "id": "pack2-card-650",
+   "mode": "vocab",
+   "word": "Claim",
+   "pron": "(verb)",
+   "def": "To say something is true without proof.\nहिंदी: दावा करना",
+   "examples": [
+    "Present: Ads claim amazing results.",
+    "Past: He claimed he was innocent.",
+    "Future: She will claim the prize.",
+    "Perfect: They have claimed responsibility."
+   ]
+  },
+  {
+   "id": "pack2-card-651",
+   "mode": "vocab",
+   "word": "Insist",
+   "pron": "(verb)",
+   "def": "To demand firmly.\nहिंदी: ज़ोर देना",
+   "examples": [
+    "Present: She insists on punctuality.",
+    "Past: He insisted on paying.",
+    "Future: They will insist on a guarantee.",
+    "Perfect: I have insisted many times."
+   ]
+  },
+  {
+   "id": "pack2-card-652",
+   "mode": "vocab",
+   "word": "Assert",
+   "pron": "(verb)",
+   "def": "To state confidently.\nहिंदी: दृढ़ता से कहना",
+   "examples": [
+    "Present: Experts assert that exercise helps.",
+    "Past: He asserted his innocence.",
+    "Future: She will assert her rights.",
+    "Perfect: They have asserted their authority."
+   ]
+  },
+  {
+   "id": "pack2-card-653",
+   "mode": "vocab",
+   "word": "Argue",
+   "pron": "(verb)",
+   "def": "To give reasons or quarrel.\nहिंदी: तर्क देना / बहस करना",
+   "examples": [
+    "Present: Lawyers argue cases.",
+    "Past: They argued for hours.",
+    "Future: He will argue against the plan.",
+    "Perfect: She has argued for reform."
+   ]
+  },
+  {
+   "id": "pack2-card-654",
+   "mode": "vocab",
+   "word": "Suggest",
+   "pron": "(verb)",
+   "def": "To put forward an idea.\nहिंदी: सुझाव देना",
+   "examples": [
+    "Present: Doctors suggest more sleep.",
+    "Past: She suggested a new route.",
+    "Future: He will suggest a solution.",
+    "Perfect: They have suggested a delay."
+   ]
+  },
+  {
+   "id": "pack2-card-655",
+   "mode": "vocab",
+   "word": "Recommend",
+   "pron": "(verb)",
+   "def": "To advise as a good choice.\nहिंदी: सिफ़ारिश करना",
+   "examples": [
+    "Present: Doctors recommend rest.",
+    "Past: She recommended the book.",
+    "Future: He will recommend a dentist.",
+    "Perfect: They have recommended changes."
+   ]
+  },
+  {
+   "id": "pack2-card-656",
+   "mode": "vocab",
+   "word": "Warn",
+   "pron": "(verb)",
+   "def": "To tell of possible danger.\nहिंदी: चेतावनी देना",
+   "examples": [
+    "Present: Signs warn drivers of curves.",
+    "Past: Experts warned of floods.",
+    "Future: She will warn them tomorrow.",
+    "Perfect: Doctors have warned about smoking."
+   ]
+  },
+  {
+   "id": "pack2-card-657",
+   "mode": "vocab",
+   "word": "Reveal",
+   "pron": "(verb)",
+   "def": "To make known something hidden.\nहिंदी: प्रकट करना",
+   "examples": [
+    "Present: Tests reveal hidden problems.",
+    "Past: He revealed the secret.",
+    "Future: The report will reveal the truth.",
+    "Perfect: She has revealed her plans."
+   ]
+  },
+  {
+   "id": "pack2-card-658",
+   "mode": "vocab",
+   "word": "Confirm",
+   "pron": "(verb)",
+   "def": "To state that something is true.\nहिंदी: पुष्टि करना",
+   "examples": [
+    "Present: Officials confirm the date.",
+    "Past: He confirmed the booking.",
+    "Future: They will confirm the details.",
+    "Perfect: She has confirmed her visit."
+   ]
+  },
+  {
+   "id": "pack2-card-659",
+   "mode": "vocab",
+   "word": "Deny",
+   "pron": "(verb)",
+   "def": "To say something is not true.\nहिंदी: इनकार करना",
+   "examples": [
+    "Present: Politicians deny rumours.",
+    "Past: He denied the charge.",
+    "Future: She will deny any role.",
+    "Perfect: They have denied the claim."
+   ]
+  },
+  {
+   "id": "pack2-card-660",
+   "mode": "vocab",
+   "word": "Admit",
+   "pron": "(verb)",
+   "def": "To agree that something is true.\nहिंदी: स्वीकार करना",
+   "examples": [
+    "Present: Honest people admit mistakes.",
+    "Past: He admitted his error.",
+    "Future: She will admit the truth.",
+    "Perfect: They have admitted defeat."
+   ]
+  },
+  {
+   "id": "pack2-card-661",
+   "mode": "vocab",
+   "word": "Acknowledge",
+   "pron": "(verb)",
+   "def": "To accept that something exists or is true.\nहिंदी: स्वीकार करना / मानना",
+   "examples": [
+    "Present: Leaders acknowledge problems.",
+    "Past: She acknowledged his help.",
+    "Future: The firm will acknowledge the mistake.",
+    "Perfect: They have acknowledged receipt."
+   ]
+  },
+  {
+   "id": "pack2-card-662",
+   "mode": "vocab",
+   "word": "Emphasise",
+   "pron": "(verb)",
+   "def": "To give special importance.\nहिंदी: ज़ोर देना",
+   "examples": [
+    "Present: Teachers emphasise practice.",
+    "Past: She emphasised the deadline.",
+    "Future: He will emphasise safety.",
+    "Perfect: They have emphasised teamwork."
+   ]
+  },
+  {
+   "id": "pack2-card-663",
+   "mode": "vocab",
+   "word": "Highlight",
+   "pron": "(verb)",
+   "def": "To draw attention to.\nहिंदी: उजागर करना",
+   "examples": [
+    "Present: Reports highlight key issues.",
+    "Past: The study highlighted gaps.",
+    "Future: The speech will highlight reforms.",
+    "Perfect: She has highlighted the risks."
+   ]
+  },
+  {
+   "id": "pack2-card-664",
+   "mode": "vocab",
+   "word": "Outline",
+   "pron": "(verb)",
+   "def": "To describe the main points.\nहिंदी: रूपरेखा बताना",
+   "examples": [
+    "Present: Plans outline the steps.",
+    "Past: He outlined his proposal.",
+    "Future: She will outline the schedule.",
+    "Perfect: They have outlined the budget."
+   ]
+  },
+  {
+   "id": "pack2-card-665",
+   "mode": "vocab",
+   "word": "Elaborate",
+   "pron": "(verb)",
+   "def": "To explain in more detail.\nहिंदी: विस्तार से बताना",
+   "examples": [
+    "Present: Please elaborate on your idea.",
+    "Past: He elaborated on the plan.",
+    "Future: She will elaborate tomorrow.",
+    "Perfect: They have elaborated their view."
+   ]
+  },
+  {
+   "id": "pack2-card-666",
+   "mode": "vocab",
+   "word": "Clarify",
+   "pron": "(verb)",
+   "def": "To make something clearer.\nहिंदी: स्पष्ट करना",
+   "examples": [
+    "Present: Teachers clarify doubts.",
+    "Past: She clarified the rule.",
+    "Future: He will clarify the position.",
+    "Perfect: They have clarified the facts."
+   ]
+  },
+  {
+   "id": "pack2-card-667",
+   "mode": "vocab",
+   "word": "Persuade",
+   "pron": "(verb)",
+   "def": "To convince someone to do something.\nहिंदी: मनाना",
+   "examples": [
+    "Present: Good speakers persuade audiences.",
+    "Past: She persuaded him to stay.",
+    "Future: He will persuade the board.",
+    "Perfect: They have persuaded investors."
+   ]
+  },
+  {
+   "id": "pack2-card-668",
+   "mode": "vocab",
+   "word": "Convince",
+   "pron": "(verb)",
+   "def": "To make someone believe.\nहिंदी: विश्वास दिलाना",
+   "examples": [
+    "Present: Facts convince sceptics.",
+    "Past: He convinced the jury.",
+    "Future: She will convince them.",
+    "Perfect: They have convinced voters."
+   ]
+  },
+  {
+   "id": "pack2-card-669",
+   "mode": "vocab",
+   "word": "Encourage",
+   "pron": "(verb)",
+   "def": "To give support and confidence.\nहिंदी: प्रोत्साहित करना",
+   "examples": [
+    "Present: Teachers encourage learners.",
+    "Past: She encouraged him to apply.",
+    "Future: He will encourage the team.",
+    "Perfect: They have encouraged reading."
+   ]
+  },
+  {
+   "id": "pack2-card-670",
+   "mode": "vocab",
+   "word": "Discourage",
+   "pron": "(verb)",
+   "def": "To reduce someone's confidence.\nहिंदी: हतोत्साहित करना",
+   "examples": [
+    "Present: Harsh words discourage children.",
+    "Past: The cost discouraged buyers.",
+    "Future: High fees will discourage students.",
+    "Perfect: Failure has discouraged him."
+   ]
+  },
+  {
+   "id": "pack2-card-671",
+   "mode": "vocab",
+   "word": "Inspire",
+   "pron": "(verb)",
+   "def": "To fill with the desire to do something.\nहिंदी: प्रेरित करना",
+   "examples": [
+    "Present: Great leaders inspire people.",
+    "Past: Her speech inspired the crowd.",
+    "Future: His story will inspire students.",
+    "Perfect: She has inspired millions."
+   ]
+  },
+  {
+   "id": "pack2-card-672",
+   "mode": "vocab",
+   "word": "Motivate",
+   "pron": "(verb)",
+   "def": "To give a reason to act.\nहिंदी: प्रेरित करना",
+   "examples": [
+    "Present: Rewards motivate workers.",
+    "Past: The coach motivated the team.",
+    "Future: Praise will motivate her.",
+    "Perfect: He has motivated the staff."
+   ]
+  },
+  {
+   "id": "pack2-card-673",
+   "mode": "vocab",
+   "word": "Overcome",
+   "pron": "(verb)",
+   "def": "To succeed in dealing with a problem.\nहिंदी: पार पाना",
+   "examples": [
+    "Present: People overcome fear with practice.",
+    "Past: She overcame her shyness.",
+    "Future: He will overcome the obstacle.",
+    "Perfect: They have overcome many hurdles."
+   ]
+  },
+  {
+   "id": "pack2-card-674",
+   "mode": "vocab",
+   "word": "Achieve",
+   "pron": "(verb)",
+   "def": "To succeed in reaching a goal.\nहिंदी: हासिल करना",
+   "examples": [
+    "Present: Hard workers achieve goals.",
+    "Past: She achieved top marks.",
+    "Future: He will achieve his dream.",
+    "Perfect: They have achieved their targets."
+   ]
+  },
+  {
+   "id": "pack2-card-675",
+   "mode": "vocab",
+   "word": "Accomplish",
+   "pron": "(verb)",
+   "def": "To complete successfully.\nहिंदी: पूरा करना",
+   "examples": [
+    "Present: Teams accomplish difficult tasks.",
+    "Past: He accomplished the mission.",
+    "Future: She will accomplish her goals.",
+    "Perfect: They have accomplished much."
+   ]
+  },
+  {
+   "id": "pack2-card-676",
+   "mode": "vocab",
+   "word": "Attempt",
+   "pron": "(verb)",
+   "def": "To try to do something.\nहिंदी: प्रयास करना",
+   "examples": [
+    "Present: Many attempt the climb.",
+    "Past: He attempted a record jump.",
+    "Future: She will attempt the exam again.",
+    "Perfect: They have attempted a rescue."
+   ]
+  },
+  {
+   "id": "pack2-card-677",
+   "mode": "vocab",
+   "word": "Pursue",
+   "pron": "(verb)",
+   "def": "To follow in order to achieve.\nहिंदी: पीछा करना / अपनाना",
+   "examples": [
+    "Present: Students pursue their dreams.",
+    "Past: She pursued a career in law.",
+    "Future: He will pursue higher studies.",
+    "Perfect: They have pursued the matter."
+   ]
+  },
+  {
+   "id": "pack2-card-678",
+   "mode": "vocab",
+   "word": "Strive",
+   "pron": "(verb)",
+   "def": "To try very hard.\nहिंदी: भरसक प्रयास करना",
+   "examples": [
+    "Present: We strive for excellence.",
+    "Past: He strove to win.",
+    "Future: She will strive for perfection.",
+    "Perfect: They have striven for years."
+   ]
+  },
+  {
+   "id": "pack2-card-679",
+   "mode": "vocab",
+   "word": "Struggle",
+   "pron": "(verb)",
+   "def": "To try hard against difficulty.\nहिंदी: संघर्ष करना",
+   "examples": [
+    "Present: Many students struggle with maths.",
+    "Past: He struggled to breathe.",
+    "Future: She will struggle at first.",
+    "Perfect: They have struggled for years."
+   ]
+  },
+  {
+   "id": "pack2-card-680",
+   "mode": "vocab",
+   "word": "Persist",
+   "pron": "(verb)",
+   "def": "To continue firmly despite difficulty.\nहिंदी: डटे रहना",
+   "examples": [
+    "Present: Winners persist.",
+    "Past: He persisted despite failure.",
+    "Future: She will persist until it works.",
+    "Perfect: They have persisted for years."
+   ]
+  },
+  {
+   "id": "pack2-card-681",
+   "mode": "vocab",
+   "word": "Hesitate",
+   "pron": "(verb)",
+   "def": "To pause before acting.\nहिंदी: हिचकिचाना",
+   "examples": [
+    "Present: Don't hesitate to ask.",
+    "Past: He hesitated before answering.",
+    "Future: She will hesitate to sign.",
+    "Perfect: They have hesitated too long."
+   ]
+  },
+  {
+   "id": "pack2-card-682",
+   "mode": "vocab",
+   "word": "Resist",
+   "pron": "(verb)",
+   "def": "To refuse to accept or give in to.\nहिंदी: विरोध करना / रोकना",
+   "examples": [
+    "Present: Some people resist change.",
+    "Past: He resisted the temptation.",
+    "Future: She will resist pressure.",
+    "Perfect: They have resisted the plan."
+   ]
+  },
+  {
+   "id": "pack2-card-683",
+   "mode": "vocab",
+   "word": "Surrender",
+   "pron": "(verb)",
+   "def": "To give up to an opponent.\nहिंदी: आत्मसमर्पण करना",
+   "examples": [
+    "Present: Weaker armies sometimes surrender.",
+    "Past: The rebels surrendered.",
+    "Future: He will surrender to the police.",
+    "Perfect: They have surrendered their weapons."
+   ]
+  },
+  {
+   "id": "pack2-card-684",
+   "mode": "vocab",
+   "word": "Abandon",
+   "pron": "(verb)",
+   "def": "To leave completely.\nहिंदी: त्याग देना",
+   "examples": [
+    "Present: Don't abandon your dreams.",
+    "Past: They abandoned the car.",
+    "Future: He will abandon the plan.",
+    "Perfect: She has abandoned the project."
+   ]
+  },
+  {
+   "id": "pack2-card-685",
+   "mode": "vocab",
+   "word": "Neglect",
+   "pron": "(verb)",
+   "def": "To fail to care for.\nहिंदी: उपेक्षा करना",
+   "examples": [
+    "Present: Don't neglect your health.",
+    "Past: He neglected his duties.",
+    "Future: She will neglect nothing.",
+    "Perfect: They have neglected the garden."
+   ]
+  },
+  {
+   "id": "pack2-card-686",
+   "mode": "vocab",
+   "word": "Ignore",
+   "pron": "(verb)",
+   "def": "To pay no attention.\nहिंदी: अनदेखा करना",
+   "examples": [
+    "Present: Drivers sometimes ignore signals.",
+    "Past: He ignored the warning.",
+    "Future: She will ignore the rumours.",
+    "Perfect: They have ignored the advice."
+   ]
+  },
+  {
+   "id": "pack2-card-687",
+   "mode": "vocab",
+   "word": "Observe",
+   "pron": "(verb)",
+   "def": "To watch carefully.\nहिंदी: ध्यान से देखना",
+   "examples": [
+    "Present: Scientists observe patterns.",
+    "Past: She observed the birds.",
+    "Future: He will observe the class.",
+    "Perfect: They have observed changes."
+   ]
+  },
+  {
+   "id": "pack2-card-688",
+   "mode": "vocab",
+   "word": "Examine",
+   "pron": "(verb)",
+   "def": "To inspect closely.\nहिंदी: जाँचना",
+   "examples": [
+    "Present: Doctors examine patients.",
+    "Past: He examined the evidence.",
+    "Future: She will examine the contract.",
+    "Perfect: They have examined the data."
+   ]
+  },
+  {
+   "id": "pack2-card-689",
+   "mode": "vocab",
+   "word": "Analyse",
+   "pron": "(verb)",
+   "def": "To study in detail.\nहिंदी: विश्लेषण करना",
+   "examples": [
+    "Present: Experts analyse trends.",
+    "Past: She analysed the results.",
+    "Future: He will analyse the report.",
+    "Perfect: They have analysed the cause."
+   ]
+  },
+  {
+   "id": "pack2-card-690",
+   "mode": "vocab",
+   "word": "Evaluate",
+   "pron": "(verb)",
+   "def": "To judge the value or quality of.\nहिंदी: मूल्यांकन करना",
+   "examples": [
+    "Present: Teachers evaluate essays.",
+    "Past: He evaluated the options.",
+    "Future: She will evaluate the plan.",
+    "Perfect: They have evaluated each bid."
+   ]
+  },
+  {
+   "id": "pack2-card-691",
+   "mode": "vocab",
+   "word": "Assess",
+   "pron": "(verb)",
+   "def": "To estimate the nature or quality.\nहिंदी: आकलन करना",
+   "examples": [
+    "Present: Doctors assess symptoms.",
+    "Past: She assessed the damage.",
+    "Future: He will assess the situation.",
+    "Perfect: They have assessed the risk."
+   ]
+  },
+  {
+   "id": "pack2-card-692",
+   "mode": "vocab",
+   "word": "Estimate",
+   "pron": "(verb)",
+   "def": "To roughly calculate.\nहिंदी: अनुमान लगाना",
+   "examples": [
+    "Present: Experts estimate losses.",
+    "Past: He estimated the cost.",
+    "Future: She will estimate the time.",
+    "Perfect: They have estimated the damage."
+   ]
+  },
+  {
+   "id": "pack2-card-693",
+   "mode": "vocab",
+   "word": "Predict",
+   "pron": "(verb)",
+   "def": "To say what will happen.\nहिंदी: भविष्यवाणी करना",
+   "examples": [
+    "Present: Forecasters predict rain.",
+    "Past: He predicted the result.",
+    "Future: She will predict the trend.",
+    "Perfect: They have predicted a slowdown."
+   ]
+  },
+  {
+   "id": "pack2-card-694",
+   "mode": "vocab",
+   "word": "Anticipate",
+   "pron": "(verb)",
+   "def": "To expect and prepare for.\nहिंदी: पूर्वानुमान लगाना",
+   "examples": [
+    "Present: Good planners anticipate problems.",
+    "Past: He anticipated the question.",
+    "Future: She will anticipate delays.",
+    "Perfect: They have anticipated trouble."
+   ]
+  },
+  {
+   "id": "pack2-card-695",
+   "mode": "vocab",
+   "word": "Assume",
+   "pron": "(verb)",
+   "def": "To suppose without proof.\nहिंदी: मान लेना",
+   "examples": [
+    "Present: Don't assume the worst.",
+    "Past: He assumed she knew.",
+    "Future: She will assume control.",
+    "Perfect: They have assumed too much."
+   ]
+  },
+  {
+   "id": "pack2-card-696",
+   "mode": "vocab",
+   "word": "Imply",
+   "pron": "(verb)",
+   "def": "To suggest indirectly.\nहिंदी: इशारा करना",
+   "examples": [
+    "Present: His tone implies annoyance.",
+    "Past: She implied he was lying.",
+    "Future: The memo will imply a threat.",
+    "Perfect: He has implied a change."
+   ]
+  },
+  {
+   "id": "pack2-card-697",
+   "mode": "vocab",
+   "word": "Indicate",
+   "pron": "(verb)",
+   "def": "To point to or show.\nहिंदी: संकेत देना",
+   "examples": [
+    "Present: Signs indicate progress.",
+    "Past: The data indicated a trend.",
+    "Future: Results will indicate the cause.",
+    "Perfect: Studies have indicated a link."
+   ]
+  },
+  {
+   "id": "pack2-card-698",
+   "mode": "vocab",
+   "word": "Demonstrate",
+   "pron": "(verb)",
+   "def": "To show clearly.\nहिंदी: प्रदर्शित करना",
+   "examples": [
+    "Present: Teachers demonstrate experiments.",
+    "Past: She demonstrated the app.",
+    "Future: He will demonstrate the skill.",
+    "Perfect: They have demonstrated courage."
+   ]
+  },
+  {
+   "id": "pack2-card-699",
+   "mode": "vocab",
+   "word": "Illustrate",
+   "pron": "(verb)",
+   "def": "To explain with examples.\nहिंदी: उदाहरण देकर समझाना",
+   "examples": [
+    "Present: Charts illustrate trends.",
+    "Past: He illustrated the point.",
+    "Future: She will illustrate the idea.",
+    "Perfect: They have illustrated the cost."
+   ]
+  },
+  {
+   "id": "pack2-card-700",
+   "mode": "vocab",
+   "word": "Summarise",
+   "pron": "(verb)",
+   "def": "To give a short account.\nहिंदी: सारांश देना",
+   "examples": [
+    "Present: Students summarise chapters.",
+    "Past: She summarised the report.",
+    "Future: He will summarise the meeting.",
+    "Perfect: They have summarised the facts."
+   ]
+  },
+  {
+   "id": "pack2-card-701",
+   "mode": "vocab",
+   "word": "Mention",
+   "pron": "(verb)",
+   "def": "To refer briefly.\nहिंदी: उल्लेख करना",
+   "examples": [
+    "Present: Please mention your name.",
+    "Past: He mentioned the plan.",
+    "Future: She will mention the delay.",
+    "Perfect: They have mentioned it twice."
+   ]
+  },
+  {
+   "id": "pack2-card-702",
+   "mode": "vocab",
+   "word": "Describe",
+   "pron": "(verb)",
+   "def": "To tell what something is like.\nहिंदी: वर्णन करना",
+   "examples": [
+    "Present: Writers describe scenes.",
+    "Past: She described the accident.",
+    "Future: He will describe the route.",
+    "Perfect: They have described the problem."
+   ]
+  },
+  {
+   "id": "pack2-card-703",
+   "mode": "vocab",
+   "word": "Narrate",
+   "pron": "(verb)",
+   "def": "To tell a story.\nहिंदी: कथन करना",
+   "examples": [
+    "Present: Grandmothers narrate old tales.",
+    "Past: He narrated the film.",
+    "Future: She will narrate the story.",
+    "Perfect: They have narrated the history."
+   ]
+  },
+  {
+   "id": "pack2-card-704",
+   "mode": "vocab",
+   "word": "Debate",
+   "pron": "(verb)",
+   "def": "To discuss opposing views.\nहिंदी: बहस करना",
+   "examples": [
+    "Present: Students debate topics.",
+    "Past: They debated the budget.",
+    "Future: Leaders will debate on Monday.",
+    "Perfect: Experts have debated the issue."
+   ]
+  },
+  {
+   "id": "pack2-card-705",
+   "mode": "vocab",
+   "word": "Discuss",
+   "pron": "(verb)",
+   "def": "To talk about something.\nहिंदी: चर्चा करना",
+   "examples": [
+    "Present: Teams discuss ideas.",
+    "Past: We discussed the plan.",
+    "Future: They will discuss the proposal.",
+    "Perfect: She has discussed it with him."
+   ]
+  },
+  {
+   "id": "pack2-card-706",
+   "mode": "vocab",
+   "word": "Collaborate",
+   "pron": "(verb)",
+   "def": "To work together.\nहिंदी: सहयोग करना",
+   "examples": [
+    "Present: Teams collaborate daily.",
+    "Past: They collaborated on a book.",
+    "Future: Firms will collaborate on research.",
+    "Perfect: She has collaborated with experts."
+   ]
+  },
+  {
+   "id": "pack2-card-707",
+   "mode": "vocab",
+   "word": "Coordinate",
+   "pron": "(verb)",
+   "def": "To organise so parts work together.\nहिंदी: समन्वय करना",
+   "examples": [
+    "Present: Managers coordinate teams.",
+    "Past: She coordinated the event.",
+    "Future: He will coordinate the rescue.",
+    "Perfect: They have coordinated efforts."
+   ]
+  },
+  {
+   "id": "pack2-card-708",
+   "mode": "vocab",
+   "word": "Delegate",
+   "pron": "(verb)",
+   "def": "To give tasks to others.\nहिंदी: काम सौंपना",
+   "examples": [
+    "Present: Good leaders delegate.",
+    "Past: He delegated the report.",
+    "Future: She will delegate more.",
+    "Perfect: They have delegated authority."
+   ]
+  },
+  {
+   "id": "pack2-card-709",
+   "mode": "vocab",
+   "word": "Supervise",
+   "pron": "(verb)",
+   "def": "To oversee people or work.\nहिंदी: देखरेख करना",
+   "examples": [
+    "Present: Teachers supervise exams.",
+    "Past: She supervised the project.",
+    "Future: He will supervise the team.",
+    "Perfect: They have supervised the repair."
+   ]
+  },
+  {
+   "id": "pack2-card-710",
+   "mode": "vocab",
+   "word": "Implement",
+   "pron": "(verb)",
+   "def": "To put a plan into effect.\nहिंदी: लागू करना",
+   "examples": [
+    "Present: Governments implement policies.",
+    "Past: They implemented the plan.",
+    "Future: He will implement the change.",
+    "Perfect: The firm has implemented new rules."
+   ]
+  },
+  {
+   "id": "pack2-card-711",
+   "mode": "vocab",
+   "word": "Execute",
+   "pron": "(verb)",
+   "def": "To carry out a plan.\nहिंदी: निष्पादित करना",
+   "examples": [
+    "Present: Teams execute strategies.",
+    "Past: He executed the plan perfectly.",
+    "Future: She will execute the order.",
+    "Perfect: They have executed the project."
+   ]
+  },
+  {
+   "id": "pack2-card-712",
+   "mode": "vocab",
+   "word": "Modify",
+   "pron": "(verb)",
+   "def": "To change slightly.\nहिंदी: संशोधित करना",
+   "examples": [
+    "Present: Engineers modify designs.",
+    "Past: She modified the recipe.",
+    "Future: He will modify the code.",
+    "Perfect: They have modified the rules."
+   ]
+  },
+  {
+   "id": "pack2-card-713",
+   "mode": "vocab",
+   "word": "Adapt",
+   "pron": "(verb)",
+   "def": "To adjust to new conditions.\nहिंदी: ढलना / अनुकूलित करना",
+   "examples": [
+    "Present: Animals adapt to climate.",
+    "Past: She adapted quickly.",
+    "Future: He will adapt to the change.",
+    "Perfect: They have adapted well."
+   ]
+  },
+  {
+   "id": "pack2-card-714",
+   "mode": "vocab",
+   "word": "Transform",
+   "pron": "(verb)",
+   "def": "To change completely.\nहिंदी: रूपांतरित करना",
+   "examples": [
+    "Present: Technology transforms industries.",
+    "Past: The city transformed rapidly.",
+    "Future: Education will transform lives.",
+    "Perfect: She has transformed the school."
+   ]
+  },
+  {
+   "id": "pack2-card-715",
+   "mode": "vocab",
+   "word": "Expand",
+   "pron": "(verb)",
+   "def": "To become or make larger.\nहिंदी: विस्तार करना",
+   "examples": [
+    "Present: Companies expand abroad.",
+    "Past: The firm expanded last year.",
+    "Future: The airport will expand.",
+    "Perfect: They have expanded the factory."
+   ]
+  },
+  {
+   "id": "pack2-card-716",
+   "mode": "vocab",
+   "word": "Reduce",
+   "pron": "(verb)",
+   "def": "To make smaller or less.\nहिंदी: घटाना",
+   "examples": [
+    "Present: Exercise reduces stress.",
+    "Past: They reduced prices.",
+    "Future: The state will reduce taxes.",
+    "Perfect: The firm has reduced waste."
+   ]
+  },
+  {
+   "id": "pack2-card-717",
+   "mode": "vocab",
+   "word": "Eliminate",
+   "pron": "(verb)",
+   "def": "To remove completely.\nहिंदी: समाप्त करना",
+   "examples": [
+    "Present: Vaccines eliminate diseases.",
+    "Past: They eliminated errors.",
+    "Future: The law will eliminate loopholes.",
+    "Perfect: The state has eliminated polio."
+   ]
+  },
+  {
+   "id": "pack2-card-718",
+   "mode": "vocab",
+   "word": "Prevent",
+   "pron": "(verb)",
+   "def": "To stop something from happening.\nहिंदी: रोकना",
+   "examples": [
+    "Present: Vaccines prevent illness.",
+    "Past: Fences prevented accidents.",
+    "Future: Rules will prevent misuse.",
+    "Perfect: Training has prevented errors."
+   ]
+  },
+  {
+   "id": "pack2-card-719",
+   "mode": "vocab",
+   "word": "Protect",
+   "pron": "(verb)",
+   "def": "To keep safe.\nहिंदी: रक्षा करना",
+   "examples": [
+    "Present: Helmets protect riders.",
+    "Past: She protected her child.",
+    "Future: Laws will protect workers.",
+    "Perfect: They have protected the forest."
+   ]
+  },
+  {
+   "id": "pack2-card-720",
+   "mode": "vocab",
+   "word": "Maintain",
+   "pron": "(verb)",
+   "def": "To keep in good condition.\nहिंदी: बनाए रखना",
+   "examples": [
+    "Present: Workers maintain machines.",
+    "Past: He maintained a steady pace.",
+    "Future: She will maintain the garden.",
+    "Perfect: They have maintained order."
+   ]
+  },
+  {
+   "id": "pack2-card-721",
+   "mode": "vocab",
+   "word": "Preserve",
+   "pron": "(verb)",
+   "def": "To keep from damage or decay.\nहिंदी: सुरक्षित रखना",
+   "examples": [
+    "Present: Salt preserves fish.",
+    "Past: They preserved the old fort.",
+    "Future: We will preserve the forest.",
+    "Perfect: The museum has preserved records."
+   ]
+  },
+  {
+   "id": "pack2-card-722",
+   "mode": "vocab",
+   "word": "Restore",
+   "pron": "(verb)",
+   "def": "To bring back to a former state.\nहिंदी: बहाल करना",
+   "examples": [
+    "Present: Doctors restore health.",
+    "Past: They restored the temple.",
+    "Future: Engineers will restore power.",
+    "Perfect: She has restored her confidence."
+   ]
+  },
+  {
+   "id": "pack2-card-723",
+   "mode": "vocab",
+   "word": "Rebuild",
+   "pron": "(verb)",
+   "def": "To build again.\nहिंदी: पुनर्निर्माण करना",
+   "examples": [
+    "Present: Communities rebuild after floods.",
+    "Past: They rebuilt the bridge.",
+    "Future: The state will rebuild homes.",
+    "Perfect: He has rebuilt his business."
+   ]
+  },
+  {
+   "id": "pack2-card-724",
+   "mode": "vocab",
+   "word": "Recover",
+   "pron": "(verb)",
+   "def": "To return to a normal state.\nहिंदी: ठीक होना / पुनः प्राप्त करना",
+   "examples": [
+    "Present: Patients recover with rest.",
+    "Past: She recovered from the flu.",
+    "Future: The economy will recover.",
+    "Perfect: He has recovered his health."
+   ]
+  },
+  {
+   "id": "pack2-card-725",
+   "mode": "vocab",
+   "word": "Deteriorate",
+   "pron": "(verb)",
+   "def": "To become worse.\nहिंदी: बिगड़ना",
+   "examples": [
+    "Present: Roads deteriorate in rain.",
+    "Past: His health deteriorated.",
+    "Future: Conditions will deteriorate.",
+    "Perfect: Relations have deteriorated."
+   ]
+  },
+  {
+   "id": "pack2-card-726",
+   "mode": "vocab",
+   "word": "Improve",
+   "pron": "(verb)",
+   "def": "To become or make better.\nहिंदी: सुधारना",
+   "examples": [
+    "Present: Practice improves skill.",
+    "Past: Her marks improved.",
+    "Future: Services will improve.",
+    "Perfect: He has improved a lot."
+   ]
+  },
+  {
+   "id": "pack2-card-727",
+   "mode": "vocab",
+   "word": "Enhance",
+   "pron": "(verb)",
+   "def": "To increase quality or value.\nहिंदी: बढ़ाना / निखारना",
+   "examples": [
+    "Present: Exercise enhances mood.",
+    "Past: The upgrade enhanced speed.",
+    "Future: Training will enhance skills.",
+    "Perfect: They have enhanced security."
+   ]
+  },
+  {
+   "id": "pack2-card-728",
+   "mode": "vocab",
+   "word": "Boost",
+   "pron": "(verb)",
+   "def": "To increase or improve.\nहिंदी: बढ़ावा देना",
+   "examples": [
+    "Present: Festivals boost sales.",
+    "Past: The scheme boosted exports.",
+    "Future: Tax cuts will boost demand.",
+    "Perfect: The win has boosted morale."
+   ]
+  },
+  {
+   "id": "pack2-card-729",
+   "mode": "vocab",
+   "word": "Strengthen",
+   "pron": "(verb)",
+   "def": "To make stronger.\nहिंदी: मज़बूत करना",
+   "examples": [
+    "Present: Exercise strengthens muscles.",
+    "Past: The deal strengthened ties.",
+    "Future: Reforms will strengthen the economy.",
+    "Perfect: They have strengthened security."
+   ]
+  },
+  {
+   "id": "pack2-card-730",
+   "mode": "vocab",
+   "word": "Weaken",
+   "pron": "(verb)",
+   "def": "To make less strong.\nहिंदी: कमज़ोर करना",
+   "examples": [
+    "Present: Illness weakens the body.",
+    "Past: The storm weakened the bridge.",
+    "Future: Delays will weaken morale.",
+    "Perfect: Floods have weakened the dam."
+   ]
+  },
+  {
+   "id": "pack2-card-731",
+   "mode": "vocab",
+   "word": "Threaten",
+   "pron": "(verb)",
+   "def": "To pose a danger.\nहिंदी: धमकाना / ख़तरा पैदा करना",
+   "examples": [
+    "Present: Floods threaten villages.",
+    "Past: Smoke threatened residents.",
+    "Future: Layoffs will threaten morale.",
+    "Perfect: Rising seas have threatened coasts."
+   ]
+  },
+  {
+   "id": "pack2-card-732",
+   "mode": "vocab",
+   "word": "Trigger",
+   "pron": "(verb)",
+   "def": "To cause something to begin.\nहिंदी: भड़काना / शुरू करना",
+   "examples": [
+    "Present: Smoke triggers alarms.",
+    "Past: The remark triggered anger.",
+    "Future: The news will trigger panic.",
+    "Perfect: A glitch has triggered the error."
+   ]
+  },
+  {
+   "id": "pack2-card-733",
+   "mode": "vocab",
+   "word": "Spark",
+   "pron": "(verb)",
+   "def": "To cause suddenly.\nहिंदी: चिंगारी देना / भड़काना",
+   "examples": [
+    "Present: Small incidents spark protests.",
+    "Past: The ruling sparked outrage.",
+    "Future: The speech will spark debate.",
+    "Perfect: Prices have sparked anger."
+   ]
+  },
+  {
+   "id": "pack2-card-734",
+   "mode": "vocab",
+   "word": "Provoke",
+   "pron": "(verb)",
+   "def": "To cause a strong reaction.\nहिंदी: उकसाना",
+   "examples": [
+    "Present: Insults provoke anger.",
+    "Past: The remark provoked a fight.",
+    "Future: The move will provoke criticism.",
+    "Perfect: He has provoked outrage."
+   ]
+  },
+  {
+   "id": "pack2-card-735",
+   "mode": "vocab",
+   "word": "Prompt",
+   "pron": "(verb)",
+   "def": "To cause someone to act.\nहिंदी: प्रेरित करना / उकसाना",
+   "examples": [
+    "Present: Alarms prompt evacuation.",
+    "Past: The news prompted a response.",
+    "Future: Delays will prompt complaints.",
+    "Perfect: The report has prompted action."
+   ]
+  },
+  {
+   "id": "pack2-card-736",
+   "mode": "vocab",
+   "word": "Contribute",
+   "pron": "(verb)",
+   "def": "To give towards a shared goal.\nहिंदी: योगदान देना",
+   "examples": [
+    "Present: Everyone contributes to the project.",
+    "Past: She contributed ideas.",
+    "Future: He will contribute funds.",
+    "Perfect: They have contributed greatly."
+   ]
+  },
+  {
+   "id": "pack2-card-737",
+   "mode": "vocab",
+   "word": "Participate",
+   "pron": "(verb)",
+   "def": "To take part.\nहिंदी: भाग लेना",
+   "examples": [
+    "Present: Students participate in sports.",
+    "Past: He participated in the debate.",
+    "Future: She will participate in the race.",
+    "Perfect: They have participated in surveys."
+   ]
+  },
+  {
+   "id": "pack2-card-738",
+   "mode": "vocab",
+   "word": "Attend",
+   "pron": "(verb)",
+   "def": "To be present at.\nहिंदी: उपस्थित होना",
+   "examples": [
+    "Present: Members attend meetings.",
+    "Past: He attended the wedding.",
+    "Future: She will attend the lecture.",
+    "Perfect: They have attended every class."
+   ]
+  },
+  {
+   "id": "pack2-card-739",
+   "mode": "vocab",
+   "word": "Postpone",
+   "pron": "(verb)",
+   "def": "To delay until later.\nहिंदी: स्थगित करना",
+   "examples": [
+    "Present: Rain can postpone matches.",
+    "Past: They postponed the trip.",
+    "Future: She will postpone the meeting.",
+    "Perfect: The board has postponed the vote."
+   ]
+  },
+  {
+   "id": "pack2-card-740",
+   "mode": "vocab",
+   "word": "Cancel",
+   "pron": "(verb)",
+   "def": "To call off.\nहिंदी: रद्द करना",
+   "examples": [
+    "Present: Airlines cancel flights in storms.",
+    "Past: They cancelled the event.",
+    "Future: He will cancel the order.",
+    "Perfect: She has cancelled her plans."
+   ]
+  },
+  {
+   "id": "pack2-card-741",
+   "mode": "vocab",
+   "word": "Resume",
+   "pron": "(verb)",
+   "def": "To begin again after a pause.\nहिंदी: फिर से शुरू करना",
+   "examples": [
+    "Present: Classes resume after holidays.",
+    "Past: Talks resumed on Monday.",
+    "Future: Flights will resume tomorrow.",
+    "Perfect: Work has resumed on the road."
+   ]
+  },
+  {
+   "id": "pack2-card-742",
+   "mode": "vocab",
+   "word": "Withdraw",
+   "pron": "(verb)",
+   "def": "To take back or remove.\nहिंदी: वापस लेना",
+   "examples": [
+    "Present: People withdraw cash from ATMs.",
+    "Past: He withdrew his application.",
+    "Future: She will withdraw her support.",
+    "Perfect: They have withdrawn from the race."
+   ]
+  },
+  {
+   "id": "pack2-card-743",
+   "mode": "vocab",
+   "word": "Submit",
+   "pron": "(verb)",
+   "def": "To hand in for consideration.\nहिंदी: जमा करना",
+   "examples": [
+    "Present: Students submit assignments.",
+    "Past: She submitted the report.",
+    "Future: He will submit the form.",
+    "Perfect: They have submitted their bids."
+   ]
+  },
+  {
+   "id": "pack2-card-744",
+   "mode": "vocab",
+   "word": "Approve",
+   "pron": "(verb)",
+   "def": "To officially accept.\nहिंदी: मंज़ूरी देना",
+   "examples": [
+    "Present: Boards approve budgets.",
+    "Past: The council approved the plan.",
+    "Future: He will approve the request.",
+    "Perfect: They have approved the loan."
+   ]
+  },
+  {
+   "id": "pack2-card-745",
+   "mode": "vocab",
+   "word": "Reject",
+   "pron": "(verb)",
+   "def": "To refuse to accept.\nहिंदी: अस्वीकार करना",
+   "examples": [
+    "Present: Editors reject weak drafts.",
+    "Past: The board rejected the offer.",
+    "Future: She will reject the idea.",
+    "Perfect: They have rejected the plan."
+   ]
+  },
+  {
+   "id": "pack2-card-746",
+   "mode": "vocab",
+   "word": "Authorise",
+   "pron": "(verb)",
+   "def": "To give official permission.\nहिंदी: अधिकृत करना",
+   "examples": [
+    "Present: Managers authorise payments.",
+    "Past: He authorised the transfer.",
+    "Future: She will authorise the repair.",
+    "Perfect: They have authorised the visit."
+   ]
+  },
+  {
+   "id": "pack2-card-747",
+   "mode": "vocab",
+   "word": "Prohibit",
+   "pron": "(verb)",
+   "def": "To forbid by rule or law.\nहिंदी: प्रतिबंधित करना",
+   "examples": [
+    "Present: Signs prohibit smoking.",
+    "Past: The law prohibited gambling.",
+    "Future: The city will prohibit plastic bags.",
+    "Perfect: Rules have prohibited phones."
+   ]
+  }
+ ]
+}

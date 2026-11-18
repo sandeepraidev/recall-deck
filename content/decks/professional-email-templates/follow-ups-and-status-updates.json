@@ -1,0 +1,98 @@
+{
+ "id": "pack7-deck-1",
+ "categoryId": "cat-95",
+ "title": "Follow-ups & Status Updates",
+ "sub": "Nudge politely, report progress clearly, and keep people in the loop.",
+ "cards": [
+  {
+   "id": "pack7-card-1",
+   "mode": "email",
+   "purpose": "Follow up on an unanswered request",
+   "context": "You asked a colleague for API access a week ago and haven't heard back.",
+   "subject": "Following up: API access for the reporting service",
+   "body": "Hi Ravi,\n\nJust following up on my note from last Tuesday about read access to the billing API. We'd like to start integration testing on Monday, so having access by Friday would keep us on track.\n\nIf someone else handles these requests now, could you point me to them?\n\nThanks,\nPriya",
+   "tip": "Restate the ask, give a reason and a date, and make it easy to redirect."
+  },
+  {
+   "id": "pack7-card-2",
+   "mode": "email",
+   "purpose": "Send a weekly status update",
+   "context": "Your manager wants a short Friday summary of the migration project.",
+   "subject": "Migration status — week 3",
+   "body": "Hi Meera,\n\nQuick update on the database migration:\n\n• Done: schema changes merged, staging fully migrated.\n• In progress: data backfill (about 60% complete).\n• Risk: the backfill is slower than planned; we may need one extra day.\n• Next week: production dry run on Wednesday.\n\nNo decisions needed from you right now.\n\nBest,\nArjun",
+   "tip": "Done / in progress / risks / next — and say whether you need anything."
+  },
+  {
+   "id": "pack7-card-3",
+   "mode": "email",
+   "purpose": "Share meeting notes and action items",
+   "context": "You ran a planning meeting and want everyone aligned on next steps.",
+   "subject": "Notes and action items: Q3 planning",
+   "body": "Hi all,\n\nThanks for a productive session. Here's what we agreed:\n\n1. Neha will finalise the scope document by Wednesday.\n2. Karan will estimate the search work by Thursday.\n3. I'll book a review with design for next Monday.\n\nIf I've missed anything, reply here and I'll update the list.\n\nThanks,\nSam",
+   "tip": "Owners and dates for every action; invite corrections."
+  },
+  {
+   "id": "pack7-card-4",
+   "mode": "email",
+   "purpose": "Report that a task is done",
+   "context": "You finished a feature a stakeholder was waiting for.",
+   "subject": "Done: CSV export is live",
+   "body": "Hi Laura,\n\nThe CSV export you asked for is now live for all accounts. You'll find it under Reports → Export.\n\nIt includes all invoice fields; let me know if your team needs anything else in the file.\n\nBest,\nDev",
+   "tip": "Lead with the outcome, say where to find it, offer a next step."
+  },
+  {
+   "id": "pack7-card-5",
+   "mode": "email",
+   "purpose": "Warn about a possible delay early",
+   "context": "A dependency is late and your deadline is at risk.",
+   "subject": "Heads-up: checkout release may slip by two days",
+   "body": "Hi Anil,\n\nA heads-up before it becomes a problem: the payments vendor hasn't delivered their sandbox yet, so our release on the 14th may move to the 16th.\n\nWe're testing everything we can without it, and I'll confirm the date by Wednesday.\n\nThanks,\nRiya",
+   "tip": "Flag risk early, explain the cause, and promise when you'll confirm."
+  },
+  {
+   "id": "pack7-card-6",
+   "mode": "email",
+   "purpose": "Ask for feedback on a document",
+   "context": "You wrote a design doc and need review before a deadline.",
+   "subject": "Review request: notifications design doc",
+   "body": "Hi Tom,\n\nCould you review the notifications design doc by Thursday? I'd especially value your view on the retry strategy in section 3.\n\nIt's about a 15-minute read. Comments in the doc are perfect.\n\nThanks,\nAisha",
+   "tip": "Give a deadline, point to what matters most, and estimate the effort."
+  },
+  {
+   "id": "pack7-card-7",
+   "mode": "email",
+   "purpose": "Thank a colleague for their help",
+   "context": "A teammate stayed late to help you fix a production issue.",
+   "subject": "Thank you for last night",
+   "body": "Hi Vikram,\n\nThank you for jumping in last night. Your idea to check the connection pool found the issue in minutes, and customers were back to normal before midnight.\n\nI've mentioned your help to Shalini as well.\n\nMuch appreciated,\nNikhil",
+   "tip": "Be specific about what they did and the impact it had."
+  },
+  {
+   "id": "pack7-card-8",
+   "mode": "email",
+   "purpose": "Introduce two people",
+   "context": "A new teammate needs to meet the data team lead.",
+   "subject": "Introduction: Kavya ↔ Rohan",
+   "body": "Hi Kavya and Rohan,\n\nKavya joined our team this week and is working on the analytics dashboard. Rohan leads the data platform and knows the event pipeline inside out.\n\nKavya, Rohan is the best person to ask about event schemas. Rohan, thanks in advance for helping her get started.\n\nI'll let you two take it from here.\n\nBest,\nMaya",
+   "tip": "Say who each person is, why they should talk, then step back."
+  },
+  {
+   "id": "pack7-card-9",
+   "mode": "email",
+   "purpose": "Confirm an agreement in writing",
+   "context": "You agreed on a scope change in a call and want it on record.",
+   "subject": "Confirming today's scope change",
+   "body": "Hi Daniel,\n\nThanks for the call. To confirm what we agreed:\n\n• Bulk upload moves to phase two.\n• Phase one launches on 3 June with single-file upload only.\n• Budget stays the same.\n\nPlease reply if anything here doesn't match your understanding.\n\nBest,\nSneha",
+   "tip": "Summarise decisions as bullets and ask them to flag differences."
+  },
+  {
+   "id": "pack7-card-10",
+   "mode": "email",
+   "purpose": "Hand over work before leave",
+   "context": "You're going on leave for two weeks and a colleague will cover.",
+   "subject": "Handover while I'm on leave (10–24 May)",
+   "body": "Hi Farah,\n\nThanks for covering while I'm away. The essentials:\n\n• Open ticket: the invoice rounding bug (fix is in review).\n• Weekly client call: Tuesdays at 11; notes template is in the shared folder.\n• If anything is urgent, Arun can approve releases.\n\nI've added you to all the relevant channels.\n\nThanks again,\nKiran",
+   "tip": "List open work, recurring duties and a backup contact."
+  }
+ ]
+}

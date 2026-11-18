@@ -1,0 +1,73 @@
+{
+ "id": "pack6-deck-12",
+ "categoryId": "pack6-cat-4",
+ "title": "Proverbs in Use",
+ "sub": "25 proverbs and how to drop them into work talk and IELTS answers.",
+ "cards": [
+  {
+   "id": "pack6-card-1974",
+   "mode": "vocab",
+   "word": "Two heads are better than one",
+   "pron": "(proverb)",
+   "def": "Collaboration and working together produces better results",
+   "examples": [
+    "Let's pair program on this — two heads are better than one.",
+    "In IELTS: 'Team projects encourage collaboration because two heads are better than one.'",
+    "She asked a colleague to review her design because two heads are better than one.",
+    "We brainstormed together and found a smarter solution; two heads are better than one."
+   ]
+  },
+  {
+   "id": "pack6-card-1978",
+   "mode": "vocab",
+   "word": "Where there's a will, there's a way",
+   "pron": "(proverb)",
+   "def": "If you are determined, you can find a way to achieve your goal",
+   "examples": [
+    "I didn't know Kubernetes, but where there's a will, there's a way — I learned it in a month.",
+    "In IELTS: 'Where there's a will, there's a way — motivated students overcome resource limitations.'",
+    "The team had no prior experience in blockchain, but where there's a will, there's a way.",
+    "She passed the interview despite limited preparation — where there's a will, there's a way."
+   ]
+  },
+  {
+   "id": "pack6-card-1981",
+   "mode": "vocab",
+   "word": "Don't burn your bridges",
+   "pron": "(proverb)",
+   "def": "Avoid damaging important relationships that may be useful in the future",
+   "examples": [
+    "Even if you're leaving the company, don't burn your bridges — the tech world is small.",
+    "In IELTS: 'Professional relationships matter; it's wise to never burn your bridges.'",
+    "She left her previous job gracefully because she knew not to burn her bridges.",
+    "He gave honest but respectful feedback so as not to burn his bridges."
+   ]
+  },
+  {
+   "id": "pack6-card-1989",
+   "mode": "vocab",
+   "word": "A chain is only as strong as its weakest link",
+   "pron": "(proverb)",
+   "def": "A system or team is only as effective as its least capable part",
+   "examples": [
+    "In IELTS: 'A team is only as strong as its weakest link — investing in every member's growth is vital.'",
+    "A chain is only as strong as its weakest link — that's why code quality standards apply to everyone.",
+    "She made sure even junior team members were well-supported because a chain is only as strong as its weakest link.",
+    "In security, a chain is only as strong as its weakest link — one vulnerability can compromise everything."
+   ]
+  },
+  {
+   "id": "pack6-card-1992",
+   "mode": "vocab",
+   "word": "The best time to plant a tree was 20 years ago; the second best time is now",
+   "pron": "(proverb)",
+   "def": "It's never too late to start something important — act now",
+   "examples": [
+    "In IELTS: 'The best time to plant a tree was 20 years ago; the second best time is now — start investing in education today.'",
+    "I wish I'd started learning English earlier, but the best time to plant a tree was 20 years ago — the second best is now.",
+    "Start writing tests today; the best time was when the project began, but the second best time is now.",
+    "She started her fitness journey at 35 — the best time to plant a tree was 20 years ago; the second best is now."
+   ]
+  }
+ ]
+}

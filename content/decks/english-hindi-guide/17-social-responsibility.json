@@ -1,0 +1,593 @@
+{
+ "id": "pack3-deck-17",
+ "categoryId": "pack3-cat-1",
+ "title": "17. Social Responsibility",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-801",
+   "mode": "vocab",
+   "word": "Social Responsibility",
+   "pron": "",
+   "def": "The duty to act for the benefit of society.\nहिंदी: सामाजिक उत्तरदायित्व",
+   "examples": [
+    "Social Responsibility strengthens communities.",
+    "Social Responsibility must be taught.",
+    "Social Responsibility reflects ethics.",
+    "Social Responsibility builds trust."
+   ]
+  },
+  {
+   "id": "pack3-card-802",
+   "mode": "vocab",
+   "word": "Civic Responsibility",
+   "pron": "",
+   "def": "A citizen's duty toward the community.\nहिंदी: नागरिक उत्तरदायित्व",
+   "examples": [
+    "Civic Responsibility includes voting.",
+    "Civic Responsibility must be practiced.",
+    "Civic Responsibility strengthens democracy.",
+    "Civic Responsibility reflects maturity."
+   ]
+  },
+  {
+   "id": "pack3-card-803",
+   "mode": "vocab",
+   "word": "Civic Engagement",
+   "pron": "",
+   "def": "Active individual and collective participation designed to identify and address public issues.\nहिंदी: नागरिक भागीदारी",
+   "examples": [
+    "Attending town hall meetings is a fundamental form of grassroots civic engagement.",
+    "Youth civic engagement revitalizes democracy by injecting fresh perspectives into policy.",
+    "Community clean-up drives demonstrate the power of local civic engagement.",
+    "Civic engagement bridges the gap between everyday citizens and municipal administrators."
+   ]
+  },
+  {
+   "id": "pack3-card-804",
+   "mode": "vocab",
+   "word": "Public Decorum",
+   "pron": "",
+   "def": "Behavior that is socially polite, orderly, dignified, and appropriate in shared civic spaces.\nहिंदी: सार्वजनिक शिष्टाचार",
+   "examples": [
+    "Maintaining public decorum includes speaking quietly on mobile phones inside commuter trains.",
+    "Littering and vandalism are serious violations of basic public decorum.",
+    "Elected representatives are expected to uphold the highest standards of public decorum in parliament.",
+    "Signage in libraries reminds patrons to observe quiet public decorum."
+   ]
+  },
+  {
+   "id": "pack3-card-805",
+   "mode": "vocab",
+   "word": "Community Service",
+   "pron": "",
+   "def": "Voluntary work for the community.\nहिंदी: सामुदायिक सेवा",
+   "examples": [
+    "Community Service builds empathy.",
+    "Community Service must be encouraged.",
+    "Community Service strengthens bonds.",
+    "Community Service reflects responsibility."
+   ]
+  },
+  {
+   "id": "pack3-card-806",
+   "mode": "vocab",
+   "word": "Volunteering",
+   "pron": "",
+   "def": "Giving time freely to help others.\nहिंदी: स्वयंसेवा",
+   "examples": [
+    "Volunteering builds character.",
+    "Volunteering must be promoted.",
+    "Volunteering strengthens communities.",
+    "Volunteering reflects compassion."
+   ]
+  },
+  {
+   "id": "pack3-card-807",
+   "mode": "vocab",
+   "word": "Philanthropy",
+   "pron": "",
+   "def": "Generous giving to social causes.\nहिंदी: परोपकार / लोकहित दान",
+   "examples": [
+    "Philanthropy supports development.",
+    "Philanthropy must be genuine.",
+    "Philanthropy reduces inequality.",
+    "Philanthropy strengthens society."
+   ]
+  },
+  {
+   "id": "pack3-card-808",
+   "mode": "vocab",
+   "word": "Altruistic Giving",
+   "pron": "",
+   "def": "The selfless practice of donating time, money, or resources to help others without expecting reward.\nहिंदी: निःस्वार्थ दान",
+   "examples": [
+    "The billionaire committed half his fortune to altruistic giving for global disease eradication.",
+    "Regular blood donation is a vital act of altruistic giving that saves thousands of lives.",
+    "Altruistic giving creates a ripple effect of generosity throughout local communities.",
+    "True altruistic giving focuses entirely on the needs of the recipient rather than personal glory."
+   ]
+  },
+  {
+   "id": "pack3-card-809",
+   "mode": "vocab",
+   "word": "Social Solidarity",
+   "pron": "",
+   "def": "The interdependence and mutual support that binds members of a community or nation together.\nहिंदी: सामाजिक एकजुटता",
+   "examples": [
+    "The national crisis brought forth an inspiring display of universal social solidarity.",
+    "Social solidarity ensures that the prosperous segments willingly support the vulnerable.",
+    "Universal public pensions are a practical institutional expression of social solidarity.",
+    "Labor strikes historically highlighted the transformative power of working-class social solidarity."
+   ]
+  },
+  {
+   "id": "pack3-card-810",
+   "mode": "vocab",
+   "word": "Collective Responsibility",
+   "pron": "",
+   "def": "Shared duty of a group.\nहिंदी: सामूहिक ज़िम्मेदारी",
+   "examples": [
+    "Collective Responsibility builds teamwork.",
+    "Collective Responsibility must be accepted.",
+    "Collective Responsibility strengthens society.",
+    "Collective Responsibility reflects maturity."
+   ]
+  },
+  {
+   "id": "pack3-card-811",
+   "mode": "vocab",
+   "word": "Civic Obligation",
+   "pron": "",
+   "def": "A legal or moral duty that every citizen owes to the state, community, and fellow citizens.\nहिंदी: नागरिक दायित्व",
+   "examples": [
+    "Voting in national elections is a fundamental civic obligation in any democratic republic.",
+    "Serving on a jury when summoned is an indispensable civic obligation of justice.",
+    "Paying lawful taxes faithfully is a core civic obligation that finances public infrastructure.",
+    "Protecting public property from damage is a shared civic obligation of all residents."
+   ]
+  },
+  {
+   "id": "pack3-card-812",
+   "mode": "vocab",
+   "word": "Obligation",
+   "pron": "",
+   "def": "A binding duty.\nहिंदी: दायित्व / बाध्यता",
+   "examples": [
+    "Obligation must be honored.",
+    "Obligation reflects commitment.",
+    "Obligation strengthens trust.",
+    "Obligation must be balanced."
+   ]
+  },
+  {
+   "id": "pack3-card-813",
+   "mode": "vocab",
+   "word": "Social Audit",
+   "pron": "",
+   "def": "A formal democratic process through which communities inspect and evaluate public records and spending.\nहिंदी: सामाजिक अंकेक्षण",
+   "examples": [
+    "Village assemblies conducted a social audit to verify muster rolls for rural employment projects.",
+    "A transparent social audit prevents corruption by allowing citizens to examine project receipts.",
+    "NGOs trained local youth to lead the annual school midday meal social audit.",
+    "The municipal corporation mandated an independent social audit for all public sanitation works."
+   ]
+  },
+  {
+   "id": "pack3-card-815",
+   "mode": "vocab",
+   "word": "Probity",
+   "pron": "",
+   "def": "The quality of having strong, confirmed moral principles; complete honesty and uprightness.\nहिंदी: सत्यनिष्ठा / नैतिक शुद्धता",
+   "examples": [
+    "Public administrators must exhibit unquestioned probity in disbursing government funds.",
+    "The retired judge was chosen to lead the inquiry because of his reputation for absolute probity.",
+    "Financial probity requires strict adherence to ethical accounting standards and laws.",
+    "A lack of official probity breeds public cynicism and corrodes democratic institutions."
+   ]
+  },
+  {
+   "id": "pack3-card-816",
+   "mode": "vocab",
+   "word": "Ethical Conduct",
+   "pron": "",
+   "def": "Behavior guided by moral principles.\nहिंदी: नैतिक आचरण",
+   "examples": [
+    "Ethical Conduct builds trust.",
+    "Ethical Conduct must be practiced.",
+    "Ethical Conduct strengthens society.",
+    "Ethical Conduct reflects character."
+   ]
+  },
+  {
+   "id": "pack3-card-817",
+   "mode": "vocab",
+   "word": "Stakeholder Engagement",
+   "pron": "",
+   "def": "The process by which an organization consults, communicates, and collaborates with all affected parties.\nहिंदी: हितधारकों से संवाद",
+   "examples": [
+    "The infrastructure corporation organized public meetings for active stakeholder engagement.",
+    "Effective stakeholder engagement ensures that local tribal concerns are integrated into project plans.",
+    "Sustainable business strategies depend heavily on transparent stakeholder engagement.",
+    "Neglecting stakeholder engagement often leads to protracted legal challenges and public protests."
+   ]
+  },
+  {
+   "id": "pack3-card-819",
+   "mode": "vocab",
+   "word": "Resource Stewardship",
+   "pron": "",
+   "def": "The responsible use, management, and protection of natural and communal resources for future generations.\nहिंदी: संसाधनों की देखरेख",
+   "examples": [
+    "Farmers formed a cooperative dedicated to responsible groundwater resource stewardship.",
+    "Corporate resource stewardship entails minimizing raw material waste across factories.",
+    "Indigenous traditions offer profound models of long-term ecological resource stewardship.",
+    "Municipal water utilities launched awareness campaigns promoting household resource stewardship."
+   ]
+  },
+  {
+   "id": "pack3-card-820",
+   "mode": "vocab",
+   "word": "Ecological Sensitivity",
+   "pron": "",
+   "def": "An acute awareness of and careful consideration for preserving delicate natural ecosystems.\nहिंदी: पारिस्थितिक संवेदनशीलता",
+   "examples": [
+    "Urban architects designed the eco-resort with deep ecological sensitivity to avoid tree felling.",
+    "Ecotourism guidelines require tourists to travel with strict ecological sensitivity.",
+    "Environmental impact assessments evaluate a project's ecological sensitivity before approval.",
+    "Cultivating ecological sensitivity in school children inspires a lifelong love for nature."
+   ]
+  },
+  {
+   "id": "pack3-card-821",
+   "mode": "vocab",
+   "word": "Carbon Neutrality",
+   "pron": "",
+   "def": "Achieving net-zero carbon dioxide emissions by balancing carbon emissions with carbon removal.\nहिंदी: कार्बन तटस्थता",
+   "examples": [
+    "Dozens of nations committed to reaching full carbon neutrality by the year 2050.",
+    "Tech conglomerates achieved operational carbon neutrality through massive solar investments.",
+    "Transitioning public transit fleets to electric power is crucial for municipal carbon neutrality.",
+    "Reforestation and carbon capture technologies play vital roles in attaining carbon neutrality."
+   ]
+  },
+  {
+   "id": "pack3-card-822",
+   "mode": "vocab",
+   "word": "Upcycling",
+   "pron": "",
+   "def": "The creative reuse of discarded materials or waste products into new items of higher quality.\nहिंदी: अपसाइक्लिंग / बेकार चीज़ों से बेहतर वस्तु बनाना",
+   "examples": [
+    "The fashion designer gained international acclaim for upcycling vintage denim into trendy jackets.",
+    "Upcycling old wooden shipping pallets into patio furniture diverted tons of timber from landfills.",
+    "Makerspaces teach workshops on upcycling discarded electronics into robotic toys.",
+    "Creative upcycling transforms household waste into stunning decorative art pieces."
+   ]
+  },
+  {
+   "id": "pack3-card-823",
+   "mode": "vocab",
+   "word": "Composting",
+   "pron": "",
+   "def": "The natural biological process of recycling decomposed organic matter into rich soil fertilizer.\nहिंदी: खाद बनाना",
+   "examples": [
+    "Kitchen vegetable peels and fallen garden leaves are perfect ingredients for home composting.",
+    "City sanitation departments distributed free bins to encourage community organic composting.",
+    "Composting organic waste significantly cuts down the volume of trash sent to urban landfills.",
+    "Using rich organic composting minimizes the need for synthetic chemical fertilizers on farms."
+   ]
+  },
+  {
+   "id": "pack3-card-824",
+   "mode": "vocab",
+   "word": "Biodiversity Preservation",
+   "pron": "",
+   "def": "The deliberate protection, conservation, and restoration of the variety of plant and animal species.\nहिंदी: जैव विविधता संरक्षण",
+   "examples": [
+    "National wildlife sanctuaries are established specifically for intensive biodiversity preservation.",
+    "Coral reef ecosystems require urgent international action for biodiversity preservation.",
+    "Biodiversity preservation protects genetic varieties vital for agricultural and medicinal breakthroughs.",
+    "Deforestation poses the greatest immediate threat to planetary biodiversity preservation."
+   ]
+  },
+  {
+   "id": "pack3-card-825",
+   "mode": "vocab",
+   "word": "Animal Welfare",
+   "pron": "",
+   "def": "Concern for animals' well-being.\nहिंदी: पशु कल्याण",
+   "examples": [
+    "Animal Welfare reflects compassion.",
+    "Animal Welfare must be protected.",
+    "Animal Welfare laws must be enforced.",
+    "Animal Welfare builds humane society."
+   ]
+  },
+  {
+   "id": "pack3-card-826",
+   "mode": "vocab",
+   "word": "Humanitarianism",
+   "pron": "",
+   "def": "Concern for human welfare.\nहिंदी: मानवतावाद",
+   "examples": [
+    "Humanitarianism motivates aid.",
+    "Humanitarianism must be practiced.",
+    "Humanitarianism reflects compassion.",
+    "Humanitarianism strengthens society."
+   ]
+  },
+  {
+   "id": "pack3-card-827",
+   "mode": "vocab",
+   "word": "Emergency Relief",
+   "pron": "",
+   "def": "Immediate humanitarian assistance provided to people affected by sudden disasters and crises.\nहिंदी: आपातकालीन राहत",
+   "examples": [
+    "Helicopters air-dropped emergency relief supplies to stranded flood victims across the valley.",
+    "International agencies coordinated emergency relief teams following the devastating earthquake.",
+    "Emergency relief packages included clean drinking water, high-energy food, and first aid kits.",
+    "Volunteers worked round the clock setting up temporary tents for emergency relief."
+   ]
+  },
+  {
+   "id": "pack3-card-828",
+   "mode": "vocab",
+   "word": "Disaster Relief",
+   "pron": "",
+   "def": "Help after a disaster.\nहिंदी: आपदा राहत",
+   "examples": [
+    "Disaster Relief saves lives.",
+    "Disaster Relief must be swift.",
+    "Disaster Relief needs coordination.",
+    "Disaster Relief reflects responsibility."
+   ]
+  },
+  {
+   "id": "pack3-card-829",
+   "mode": "vocab",
+   "word": "Social Welfare",
+   "pron": "",
+   "def": "Well-being of society.\nहिंदी: समाज कल्याण",
+   "examples": [
+    "Social Welfare protects the vulnerable.",
+    "Social Welfare must be funded.",
+    "Social Welfare reduces inequality.",
+    "Social Welfare strengthens society."
+   ]
+  },
+  {
+   "id": "pack3-card-830",
+   "mode": "vocab",
+   "word": "Social Integration",
+   "pron": "",
+   "def": "The process of fostering peaceful, welcoming, and equitable inclusion of all groups into society.\nहिंदी: सामाजिक एकीकरण",
+   "examples": [
+    "Language learning classes facilitate the smooth social integration of newly arrived refugees.",
+    "Sports programs have proven remarkably effective in advancing youth social integration.",
+    "Social integration breaks down cultural ghettos and fosters vibrant intercultural neighborhoods.",
+    "Policies promoting mixed-income housing actively support long-term urban social integration."
+   ]
+  },
+  {
+   "id": "pack3-card-831",
+   "mode": "vocab",
+   "word": "Multicultural Coexistence",
+   "pron": "",
+   "def": "The harmonious living together of diverse cultural communities within a shared democratic society.\nहिंदी: बहुसांस्कृतिक सह-अस्तित्व",
+   "examples": [
+    "Cosmopolitan metropolises celebrate multicultural coexistence through international festivals.",
+    "Multicultural coexistence demands mutual respect and genuine willingness to learn from others.",
+    "Schools serve as vital laboratories for cultivating the values of multicultural coexistence.",
+    "Legislation protecting civil liberties forms the legal framework for multicultural coexistence."
+   ]
+  },
+  {
+   "id": "pack3-card-832",
+   "mode": "vocab",
+   "word": "Equal Access",
+   "pron": "",
+   "def": "The principle that public services, facilities, and opportunities must be available to everyone without barrier.\nहिंदी: समान पहुँच",
+   "examples": [
+    "Building wheelchair ramps ensures equal access to public administrative buildings for all citizens.",
+    "Digital initiatives work to guarantee equal access to high-speed internet in remote villages.",
+    "Equal access to clean drinking water is recognized as an indispensable human right.",
+    "Public libraries exemplify the democratic ideal of equal access to knowledge and books."
+   ]
+  },
+  {
+   "id": "pack3-card-833",
+   "mode": "vocab",
+   "word": "Grassroots Mobilization",
+   "pron": "",
+   "def": "The bottom-up organizing of ordinary community members to campaign for collective social change.\nहिंदी: जमीनी स्तर पर जन-संगठन",
+   "examples": [
+    "The environmental protection act was passed following relentless grassroots mobilization.",
+    "Grassroots mobilization empowers marginalized citizens to challenge powerful industrial polluters.",
+    "Door-to-door voter education drives are a classic method of democratic grassroots mobilization.",
+    "Social media platforms provide affordable, rapid communication channels for grassroots mobilization."
+   ]
+  },
+  {
+   "id": "pack3-card-834",
+   "mode": "vocab",
+   "word": "Advocacy",
+   "pron": "",
+   "def": "Public support for a cause.\nहिंदी: पैरवी / वकालत",
+   "examples": [
+    "Advocacy drives change.",
+    "Advocacy must be peaceful.",
+    "Advocacy amplifies voices.",
+    "Advocacy challenges injustice."
+   ]
+  },
+  {
+   "id": "pack3-card-835",
+   "mode": "vocab",
+   "word": "Awareness",
+   "pron": "",
+   "def": "Knowledge of an issue.\nहिंदी: जागरूकता",
+   "examples": [
+    "Awareness precedes action.",
+    "Awareness must be spread.",
+    "Awareness empowers people.",
+    "Awareness drives change."
+   ]
+  },
+  {
+   "id": "pack3-card-836",
+   "mode": "vocab",
+   "word": "Sensitization",
+   "pron": "",
+   "def": "Making people aware and empathetic.\nहिंदी: संवेदनशील बनाना",
+   "examples": [
+    "Sensitization builds empathy.",
+    "Sensitization must be continuous.",
+    "Sensitization reduces prejudice.",
+    "Sensitization strengthens society."
+   ]
+  },
+  {
+   "id": "pack3-card-837",
+   "mode": "vocab",
+   "word": "Community Outreach",
+   "pron": "",
+   "def": "The practice of providing direct services, education, and resources to underserved populations.\nहिंदी: सामुदायिक संपर्क कार्यक्रम",
+   "examples": [
+    "The mobile dental van conducts free community outreach in remote farming hamlets.",
+    "Police departments hold weekly meetings to foster trusting community outreach with residents.",
+    "Public health workers expanded community outreach to raise awareness about child malnutrition.",
+    "University legal aid clinics offer vital pro bono assistance through community outreach."
+   ]
+  },
+  {
+   "id": "pack3-card-838",
+   "mode": "vocab",
+   "word": "Social Conscience",
+   "pron": "",
+   "def": "A collective moral sense of responsibility for the well-being and justice of fellow human beings.\nहिंदी: सामाजिक विवेक",
+   "examples": [
+    "Investigative documentaries awakened the nation's social conscience regarding child labor.",
+    "A functioning democracy depends on citizens possessing an active, vigilant social conscience.",
+    "Literature and cinema play a powerful role in stirring the public's social conscience.",
+    "His deep social conscience compelled him to leave corporate finance and teach in public schools."
+   ]
+  },
+  {
+   "id": "pack3-card-839",
+   "mode": "vocab",
+   "word": "Ethical Leadership",
+   "pron": "",
+   "def": "Leading with moral principles.\nहिंदी: नैतिक नेतृत्व",
+   "examples": [
+    "Ethical Leadership builds trust.",
+    "Ethical Leadership must be practiced.",
+    "Ethical Leadership inspires others.",
+    "Ethical Leadership strengthens institutions."
+   ]
+  },
+  {
+   "id": "pack3-card-840",
+   "mode": "vocab",
+   "word": "Whistleblowing",
+   "pron": "",
+   "def": "Reporting wrongdoing.\nहिंदी: भ्रष्टाचार का भंडाफोड़",
+   "examples": [
+    "Whistleblowing exposes corruption.",
+    "Whistleblowing needs protection.",
+    "Whistleblowing reflects courage.",
+    "Whistleblowing serves public interest."
+   ]
+  },
+  {
+   "id": "pack3-card-841",
+   "mode": "vocab",
+   "word": "Anti-Corruption",
+   "pron": "",
+   "def": "Efforts against corruption.\nहिंदी: भ्रष्टाचार-विरोध",
+   "examples": [
+    "Anti-Corruption strengthens governance.",
+    "Anti-Corruption must be prioritized.",
+    "Anti-Corruption needs institutions.",
+    "Anti-Corruption builds trust."
+   ]
+  },
+  {
+   "id": "pack3-card-842",
+   "mode": "vocab",
+   "word": "Good Governance",
+   "pron": "",
+   "def": "Transparent and accountable administration.\nहिंदी: सुशासन",
+   "examples": [
+    "Good Governance builds trust.",
+    "Good Governance must be ensured.",
+    "Good Governance reduces corruption.",
+    "Good Governance strengthens democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-843",
+   "mode": "vocab",
+   "word": "Public Participation",
+   "pron": "",
+   "def": "Citizens' involvement in decisions.\nहिंदी: जन भागीदारी",
+   "examples": [
+    "Public Participation strengthens democracy.",
+    "Public Participation must be encouraged.",
+    "Public Participation improves policy.",
+    "Public Participation builds trust."
+   ]
+  },
+  {
+   "id": "pack3-card-845",
+   "mode": "vocab",
+   "word": "Civil Society",
+   "pron": "",
+   "def": "Non-governmental organizations and groups.\nहिंदी: नागरिक समाज",
+   "examples": [
+    "Civil Society holds power accountable.",
+    "Civil Society must be protected.",
+    "Civil Society strengthens democracy.",
+    "Civil Society serves communities."
+   ]
+  },
+  {
+   "id": "pack3-card-846",
+   "mode": "vocab",
+   "word": "Non-Governmental Organization",
+   "pron": "",
+   "def": "A non-profit independent organization.\nहिंदी: गैर-सरकारी संगठन",
+   "examples": [
+    "NGOs serve communities.",
+    "NGOs must be transparent.",
+    "NGOs fill service gaps.",
+    "NGOs strengthen civil society."
+   ]
+  },
+  {
+   "id": "pack3-card-847",
+   "mode": "vocab",
+   "word": "Social Entrepreneur",
+   "pron": "",
+   "def": "One who solves social problems through business.\nहिंदी: सामाजिक उद्यमी",
+   "examples": [
+    "Social Entrepreneurs drive change.",
+    "Social Entrepreneurs must be encouraged.",
+    "Social Entrepreneurs solve problems.",
+    "Social Entrepreneurs build inclusion."
+   ]
+  },
+  {
+   "id": "pack3-card-850",
+   "mode": "vocab",
+   "word": "Common Good",
+   "pron": "",
+   "def": "Benefit for all of society.\nहिंदी: सामान्य हित / जनहित",
+   "examples": [
+    "Common Good must guide policy.",
+    "Common Good transcends self-interest.",
+    "Common Good strengthens society.",
+    "Common Good reflects solidarity."
+   ]
+  }
+ ]
+}

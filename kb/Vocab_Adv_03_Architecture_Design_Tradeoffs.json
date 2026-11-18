@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 03 - Architecture, Design & Trade-offs",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "architecture",
+      "definition": "The overall structure and design of a system (प्रणाली की समग्र संरचना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The architecture separates ingestion from transformation."
+    },
+    {
+      "id": "2",
+      "word": "topology",
+      "definition": "The arrangement of components and their connections (घटकों की संरचनात्मक व्यवस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The network topology limits how we can scale."
+    },
+    {
+      "id": "3",
+      "word": "monolith",
+      "definition": "A single, tightly integrated application (एकल विशाल एप्लिकेशन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We are slowly breaking the monolith into services."
+    },
+    {
+      "id": "4",
+      "word": "microservice",
+      "definition": "A small independently deployable service (छोटी स्वतंत्र सेवा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Each microservice owns its own data store."
+    },
+    {
+      "id": "5",
+      "word": "service mesh",
+      "definition": "An infrastructure layer managing service-to-service communication (सेवाओं के बीच संचार प्रबंधन परत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The service mesh handles retries and encryption."
+    },
+    {
+      "id": "6",
+      "word": "event-driven",
+      "definition": "Based on producing and reacting to events (घटना-आधारित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We moved to an event-driven design to decouple vendors."
+    },
+    {
+      "id": "7",
+      "word": "pub-sub",
+      "definition": "A pattern where publishers send messages to subscribers via a broker (प्रकाशक-ग्राहक संदेश पैटर्न)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Pub-sub lets many consumers react to the same event."
+    },
+    {
+      "id": "8",
+      "word": "message broker",
+      "definition": "Middleware that routes messages between systems (संदेशों को आगे पहुँचाने वाला मध्यस्थ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Kafka acts as our message broker."
+    },
+    {
+      "id": "9",
+      "word": "consumer lag",
+      "definition": "How far a consumer is behind the latest message (उपभोक्ता का पीछे रह जाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Rising consumer lag means we're falling behind."
+    },
+    {
+      "id": "10",
+      "word": "partition",
+      "definition": "A subset of data split for parallel processing (डेटा का हिस्सा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Messages with the same key go to the same partition."
+    },
+    {
+      "id": "11",
+      "word": "sharding",
+      "definition": "Splitting a database into smaller independent parts (डेटाबेस को टुकड़ों में बाँटना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Sharding by vendor ID spreads the load evenly."
+    },
+    {
+      "id": "12",
+      "word": "replication",
+      "definition": "Copying data across multiple nodes (डेटा की प्रतिलिपि बनाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Replication provides durability if a node fails."
+    },
+    {
+      "id": "13",
+      "word": "consistency",
+      "definition": "Guarantee that all readers see the same data (डेटा की एकरूपता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Strong consistency costs us some latency."
+    },
+    {
+      "id": "14",
+      "word": "eventual consistency",
+      "definition": "A model where data becomes consistent over time (समय के साथ एकरूप होने वाला मॉडल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Reports tolerate eventual consistency of a few seconds."
+    },
+    {
+      "id": "15",
+      "word": "durability",
+      "definition": "The guarantee that committed data persists (डेटा के बचे रहने की गारंटी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The queue offers durability even if the broker restarts."
+    },
+    {
+      "id": "16",
+      "word": "availability",
+      "definition": "The proportion of time a system is operational and accessible (उपलब्धता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The design favours availability over strict consistency."
+    },
+    {
+      "id": "17",
+      "word": "partition tolerance",
+      "definition": "The ability to function despite network splits (नेटवर्क विभाजन में भी चलने की क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Any distributed system must handle partition tolerance."
+    },
+    {
+      "id": "18",
+      "word": "CAP theorem",
+      "definition": "Principle that you cannot have all of consistency, availability and partition tolerance (कैप सिद्धांत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The CAP theorem forces trade-offs in distributed design."
+    },
+    {
+      "id": "19",
+      "word": "horizontal scaling",
+      "definition": "Adding more machines to handle load (मशीनें बढ़ाकर क्षमता बढ़ाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Horizontal scaling suits our stateless workers."
+    },
+    {
+      "id": "20",
+      "word": "vertical scaling",
+      "definition": "Adding more power to an existing machine (मशीन की शक्ति बढ़ाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Vertical scaling hits a ceiling quickly."
+    },
+    {
+      "id": "21",
+      "word": "stateless",
+      "definition": "Not retaining information between requests (पिछली स्थिति न रखने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Keep the workers stateless so they can scale freely."
+    },
+    {
+      "id": "22",
+      "word": "stateful",
+      "definition": "Retaining information between requests (स्थिति को सहेजने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Stateful services are harder to scale and recover."
+    },
+    {
+      "id": "23",
+      "word": "load balancer",
+      "definition": "A component that distributes traffic across servers (ट्रैफ़िक बाँटने वाला घटक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The load balancer removes unhealthy nodes automatically."
+    },
+    {
+      "id": "24",
+      "word": "cache",
+      "definition": "Temporary storage for fast data retrieval (तेज़ पहुँच हेतु अस्थायी भंडारण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A cache cut read latency by eighty percent."
+    },
+    {
+      "id": "25",
+      "word": "invalidate",
+      "definition": "To mark cached data as no longer valid (कैश डेटा को अमान्य करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We invalidate the cache whenever a price is corrected."
+    },
+    {
+      "id": "26",
+      "word": "eviction",
+      "definition": "Removal of items from a cache to free space (कैश से डेटा हटाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Poor eviction policy caused frequent misses."
+    },
+    {
+      "id": "27",
+      "word": "time-to-live",
+      "definition": "The duration after which data expires (डेटा की वैधता अवधि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Set the time-to-live to one hour."
+    },
+    {
+      "id": "28",
+      "word": "queue",
+      "definition": "An ordered list of tasks awaiting processing (कतार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Failed messages go to a dead-letter queue."
+    },
+    {
+      "id": "29",
+      "word": "dead-letter queue",
+      "definition": "A queue for messages that couldn't be processed (असफल संदेशों की कतार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We review the dead-letter queue every morning."
+    },
+    {
+      "id": "30",
+      "word": "backpressure",
+      "definition": "A mechanism to slow producers when consumers are overwhelmed (दबाव नियंत्रण तंत्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Backpressure prevents the queue from overflowing."
+    },
+    {
+      "id": "31",
+      "word": "batch processing",
+      "definition": "Processing data in groups at scheduled intervals (समूहों में डेटा प्रसंस्करण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Batch processing suits the nightly vendor files."
+    },
+    {
+      "id": "32",
+      "word": "stream processing",
+      "definition": "Processing data continuously as it arrives (निरंतर डेटा प्रसंस्करण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Stream processing gives us near real-time updates."
+    },
+    {
+      "id": "33",
+      "word": "pipeline",
+      "definition": "A series of connected processing stages (चरणबद्ध प्रसंस्करण शृंखला)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Each stage of the pipeline can be tested separately."
+    },
+    {
+      "id": "34",
+      "word": "workflow",
+      "definition": "A defined sequence of steps in a process (कार्य-प्रवाह)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The workflow retries failed steps automatically."
+    },
+    {
+      "id": "35",
+      "word": "idempotency key",
+      "definition": "A unique token ensuring a request is processed once (एक बार प्रसंस्करण सुनिश्चित करने वाली कुंजी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Attach an idempotency key to every payment request."
+    },
+    {
+      "id": "36",
+      "word": "exactly-once",
+      "definition": "Guaranteeing each message is processed one time only (ठीक एक बार प्रसंस्कृत)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Exactly-once delivery is hard to guarantee end to end."
+    },
+    {
+      "id": "37",
+      "word": "at-least-once",
+      "definition": "Guaranteeing delivery but allowing duplicates (कम से कम एक बार)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "At-least-once delivery requires idempotent consumers."
+    },
+    {
+      "id": "38",
+      "word": "transactional",
+      "definition": "Treated as a single all-or-nothing operation (लेन-देन आधारित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The update must be transactional to avoid partial writes."
+    },
+    {
+      "id": "39",
+      "word": "atomic",
+      "definition": "Indivisible; either fully completes or not at all (अविभाज्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The write is atomic, so no half-saved records appear."
+    },
+    {
+      "id": "40",
+      "word": "isolation",
+      "definition": "Separation of concurrent operations to avoid interference (समवर्ती कार्यों का पृथक्करण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Higher isolation reduces anomalies but costs performance."
+    },
+    {
+      "id": "41",
+      "word": "normalisation",
+      "definition": "Organising data to reduce redundancy (डेटा की अनावश्यक पुनरावृत्ति घटाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Normalisation keeps the reference data consistent."
+    },
+    {
+      "id": "42",
+      "word": "denormalise",
+      "definition": "To add redundancy to data to improve read speed (पढ़ने की गति हेतु डेटा दोहराना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We denormalised the table to avoid expensive joins."
+    },
+    {
+      "id": "43",
+      "word": "index",
+      "definition": "A structure that speeds up data lookup (खोज तेज़ करने वाली संरचना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Adding an index cut the query from minutes to seconds."
+    },
+    {
+      "id": "44",
+      "word": "query plan",
+      "definition": "The database's strategy for executing a query (क्वेरी निष्पादन योजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The query plan shows a full table scan."
+    },
+    {
+      "id": "45",
+      "word": "migration",
+      "definition": "Moving data or systems from one environment to another (एक व्यवस्था से दूसरी में स्थानांतरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The migration must finish within the weekend window."
+    },
+    {
+      "id": "46",
+      "word": "schema evolution",
+      "definition": "Changing a data structure over time without breaking consumers (डेटा संरचना में क्रमिक बदलाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Schema evolution rules prevent breaking changes."
+    },
+    {
+      "id": "47",
+      "word": "data lineage",
+      "definition": "The record of where data came from and how it changed (डेटा की उत्पत्ति और बदलाव का रिकॉर्ड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Data lineage helps auditors trace each number."
+    },
+    {
+      "id": "48",
+      "word": "data quality",
+      "definition": "The accuracy, completeness and reliability of data (डेटा की गुणवत्ता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Poor data quality undermines trust in reports."
+    },
+    {
+      "id": "49",
+      "word": "source of truth",
+      "definition": "The authoritative origin of a piece of data (प्रामाणिक डेटा स्रोत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The instrument master is the source of truth."
+    },
+    {
+      "id": "50",
+      "word": "golden record",
+      "definition": "The single, most accurate version of an entity's data (सबसे सटीक एकल रिकॉर्ड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We merge vendor data into a golden record."
+    },
+    {
+      "id": "51",
+      "word": "master data",
+      "definition": "Core business data shared across systems (मुख्य साझा व्यावसायिक डेटा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Master data management removes conflicting copies."
+    },
+    {
+      "id": "52",
+      "word": "enrichment",
+      "definition": "Adding extra information to existing data (डेटा में अतिरिक्त जानकारी जोड़ना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Enrichment adds sector and currency to each record."
+    },
+    {
+      "id": "53",
+      "word": "normalise",
+      "definition": "To convert data to a common standard format (डेटा को मानक रूप में बदलना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We normalise vendor formats into one canonical model."
+    },
+    {
+      "id": "54",
+      "word": "canonical",
+      "definition": "Standard and authoritative (मानक / प्रामाणिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "All vendors map to one canonical schema."
+    },
+    {
+      "id": "55",
+      "word": "serialise",
+      "definition": "To convert data into a format for storage or transmission (डेटा को संग्रहण योग्य रूप देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Avro is used to serialise the messages."
+    },
+    {
+      "id": "56",
+      "word": "deserialise",
+      "definition": "To convert stored data back into objects (संग्रहीत डेटा को वापस वस्तु रूप देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Deserialisation failed due to a missing field."
+    },
+    {
+      "id": "57",
+      "word": "gateway",
+      "definition": "An entry point that manages access to services (प्रवेश द्वार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "All external calls pass through the API gateway."
+    },
+    {
+      "id": "58",
+      "word": "endpoint",
+      "definition": "A URL where a service can be accessed (सेवा का पता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The endpoint returns data in JSON format."
+    },
+    {
+      "id": "59",
+      "word": "payload size",
+      "definition": "The amount of data in a request or message (संदेश में डेटा की मात्रा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Large payload sizes slow down the queue."
+    },
+    {
+      "id": "60",
+      "word": "rate limit",
+      "definition": "A cap on the number of requests allowed in a period (अनुरोधों की अधिकतम सीमा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The vendor's rate limit blocks bulk downloads."
+    },
+    {
+      "id": "61",
+      "word": "circuit breaker",
+      "definition": "A pattern that stops calls to a failing service (विफल सेवा को कॉल रोकने वाला पैटर्न)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The circuit breaker opened after five consecutive failures."
+    },
+    {
+      "id": "62",
+      "word": "bulkhead",
+      "definition": "Isolation of components so one failure doesn't spread (विफलता को फैलने से रोकने वाला पृथक्करण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A bulkhead keeps one vendor's issue from affecting others."
+    },
+    {
+      "id": "63",
+      "word": "retry",
+      "definition": "To attempt an operation again after failure (दोबारा प्रयास करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The job retries three times before alerting."
+    },
+    {
+      "id": "64",
+      "word": "timeout",
+      "definition": "A limit on how long to wait before giving up (प्रतीक्षा की अधिकतम अवधि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The timeout was too short for large files."
+    },
+    {
+      "id": "65",
+      "word": "heartbeat",
+      "definition": "A periodic signal showing a service is alive (सेवा जीवित होने का संकेत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Missing heartbeats triggered the failover."
+    },
+    {
+      "id": "66",
+      "word": "health check",
+      "definition": "A test to see if a service is functioning (सेवा की स्थिति की जाँच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The health check failed after the memory spike."
+    },
+    {
+      "id": "67",
+      "word": "graceful shutdown",
+      "definition": "Stopping a service after finishing in-progress work (चल रहे काम पूरे कर बंद करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Graceful shutdown prevents half-processed files."
+    },
+    {
+      "id": "68",
+      "word": "cold start",
+      "definition": "Delay when a function or service starts from idle (निष्क्रिय से शुरू होने में देरी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Lambda cold starts affected our response time."
+    },
+    {
+      "id": "69",
+      "word": "serverless",
+      "definition": "Running code without managing servers (सर्वरलेस)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Serverless suits spiky, unpredictable workloads."
+    },
+    {
+      "id": "70",
+      "word": "containerise",
+      "definition": "To package an application with its dependencies (कंटेनर में पैक करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We containerised the parser for consistent deployment."
+    },
+    {
+      "id": "71",
+      "word": "orchestration",
+      "definition": "Automated coordination of services and tasks (सेवाओं का स्वचालित समन्वय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Kubernetes handles container orchestration."
+    },
+    {
+      "id": "72",
+      "word": "infrastructure as code",
+      "definition": "Managing infrastructure through versioned configuration files (कोड से इन्फ्रास्ट्रक्चर प्रबंधन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Infrastructure as code makes environments reproducible."
+    },
+    {
+      "id": "73",
+      "word": "immutable",
+      "definition": "Unchangeable after creation (अपरिवर्तनीय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We deploy immutable images rather than patching servers."
+    },
+    {
+      "id": "74",
+      "word": "ephemeral",
+      "definition": "Existing only for a short time (अल्पकालिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Ephemeral environments are created for each pull request."
+    },
+    {
+      "id": "75",
+      "word": "multi-tenant",
+      "definition": "Serving multiple customers from one shared system (एक ही सिस्टम से कई ग्राहकों को सेवा देने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A multi-tenant design lowers cost per client."
+    },
+    {
+      "id": "76",
+      "word": "tenant isolation",
+      "definition": "Keeping each customer's data separate (ग्राहकों के डेटा का पृथक्करण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tenant isolation is a strict security requirement."
+    },
+    {
+      "id": "77",
+      "word": "least privilege",
+      "definition": "Granting only the minimum access required (न्यूनतम आवश्यक अधिकार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Apply least privilege to all service accounts."
+    },
+    {
+      "id": "78",
+      "word": "encryption at rest",
+      "definition": "Protecting stored data by encrypting it (संग्रहीत डेटा का एन्क्रिप्शन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Encryption at rest is mandatory for client data."
+    },
+    {
+      "id": "79",
+      "word": "authentication",
+      "definition": "Verifying who a user or system is (पहचान सत्यापन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Authentication is handled by the central identity provider."
+    },
+    {
+      "id": "80",
+      "word": "authorisation",
+      "definition": "Determining what an authenticated user may do (अनुमतियों का निर्धारण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Authorisation checks happen at every endpoint."
+    },
+    {
+      "id": "81",
+      "word": "entitlement",
+      "definition": "A right to access a particular resource or data (डेटा/संसाधन तक पहुँच का अधिकार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Vendor entitlements restrict who can view the data."
+    },
+    {
+      "id": "82",
+      "word": "audit",
+      "definition": "To formally inspect records or processes (औपचारिक जाँच करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Auditors will audit our access logs."
+    },
+    {
+      "id": "83",
+      "word": "vulnerability",
+      "definition": "A weakness that could be exploited (कमज़ोरी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The scan found a critical vulnerability in the library."
+    },
+    {
+      "id": "84",
+      "word": "attack surface",
+      "definition": "The total points where a system could be attacked (हमले के संभावित बिंदु)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Removing unused endpoints shrinks the attack surface."
+    },
+    {
+      "id": "85",
+      "word": "defence in depth",
+      "definition": "Using multiple layers of security (बहु-स्तरीय सुरक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Defence in depth means one failure doesn't expose everything."
+    },
+    {
+      "id": "86",
+      "word": "trade-off analysis",
+      "definition": "Systematic comparison of options' benefits and costs (विकल्पों के लाभ-हानि का विश्लेषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The design doc includes a full trade-off analysis."
+    },
+    {
+      "id": "87",
+      "word": "design doc",
+      "definition": "A written proposal describing a technical approach (तकनीकी योजना दस्तावेज़)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Please review the design doc before Friday."
+    },
+    {
+      "id": "88",
+      "word": "architecture review",
+      "definition": "A formal evaluation of a proposed design (आर्किटेक्चर की औपचारिक समीक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The proposal passed the architecture review."
+    },
+    {
+      "id": "89",
+      "word": "non-functional requirement",
+      "definition": "A quality attribute such as performance or security (कार्यक्षमता के अलावा गुणवत्ता संबंधी आवश्यकता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Latency is a key non-functional requirement."
+    },
+    {
+      "id": "90",
+      "word": "capacity planning",
+      "definition": "Estimating resources needed for future demand (भविष्य की मांग के अनुसार संसाधन अनुमान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Capacity planning showed we need double the storage."
+    },
+    {
+      "id": "91",
+      "word": "headroom",
+      "definition": "Spare capacity before reaching a limit (उपलब्ध अतिरिक्त क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We have plenty of headroom on the database."
+    },
+    {
+      "id": "92",
+      "word": "peak load",
+      "definition": "The highest level of demand on a system (अधिकतम भार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Peak load occurs between six and eight each morning."
+    },
+    {
+      "id": "93",
+      "word": "burst",
+      "definition": "A short, intense period of activity (अल्पकालिक तीव्र गतिविधि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The system must absorb bursts of files from many vendors."
+    },
+    {
+      "id": "94",
+      "word": "elasticity",
+      "definition": "The ability to scale resources up and down automatically (मांग के अनुसार घटने-बढ़ने की क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Cloud elasticity keeps costs aligned with usage."
+    },
+    {
+      "id": "95",
+      "word": "cost-efficient",
+      "definition": "Delivering good value for the money spent (किफ़ायती)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Spot instances are more cost-efficient for batch jobs."
+    },
+    {
+      "id": "96",
+      "word": "footprint",
+      "definition": "The amount of resources a system consumes (संसाधन उपयोग का दायरा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We reduced the memory footprint by half."
+    },
+    {
+      "id": "97",
+      "word": "overhead",
+      "definition": "Extra cost or processing required (अतिरिक्त भार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The encryption adds minimal overhead."
+    },
+    {
+      "id": "98",
+      "word": "complexity",
+      "definition": "The state of having many interconnected parts (जटिलता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Adding another service increases operational complexity."
+    },
+    {
+      "id": "99",
+      "word": "over-engineered",
+      "definition": "Designed more complexly than necessary (आवश्यकता से अधिक जटिल बनाया गया)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A custom scheduler would be over-engineered here."
+    },
+    {
+      "id": "100",
+      "word": "under-engineered",
+      "definition": "Too simple to meet the actual needs (आवश्यकता से कम विकसित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The current solution is under-engineered for our scale."
+    },
+    {
+      "id": "101",
+      "word": "future-proof",
+      "definition": "Designed to remain useful as things change (भविष्य के लिए सुरक्षित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "An open standard makes the design more future-proof."
+    },
+    {
+      "id": "102",
+      "word": "vendor lock-in",
+      "definition": "Dependence on one provider making switching costly (एक प्रदाता पर निर्भरता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Proprietary features create vendor lock-in."
+    },
+    {
+      "id": "103",
+      "word": "build versus buy",
+      "definition": "The decision whether to develop in-house or purchase (खुद बनाएँ या खरीदें का निर्णय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The build versus buy question comes up every year."
+    },
+    {
+      "id": "104",
+      "word": "total cost of ownership",
+      "definition": "The full cost of a system over its lifetime (कुल स्वामित्व लागत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Consider total cost of ownership, not just licence fees."
+    },
+    {
+      "id": "105",
+      "word": "interoperability",
+      "definition": "The ability of different systems to work together (विभिन्न प्रणालियों का साथ काम करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Interoperability with legacy systems is essential."
+    },
+    {
+      "id": "106",
+      "word": "legacy",
+      "definition": "Old but still in use (पुराना पर चालू (विरासती))",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The legacy system has no documentation."
+    },
+    {
+      "id": "107",
+      "word": "greenfield",
+      "definition": "A new project with no existing constraints (बिल्कुल नया प्रोजेक्ट)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A greenfield build gives us design freedom."
+    },
+    {
+      "id": "108",
+      "word": "brownfield",
+      "definition": "A project that must work within existing systems (मौजूदा प्रणाली के भीतर काम करने वाला प्रोजेक्ट)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "This is a brownfield integration, so compatibility matters."
+    },
+    {
+      "id": "109",
+      "word": "strangler pattern",
+      "definition": "Gradually replacing a legacy system piece by piece (धीरे-धीरे पुरानी प्रणाली बदलना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We're using the strangler pattern to retire the old platform."
+    },
+    {
+      "id": "110",
+      "word": "refactoring",
+      "definition": "Improving code structure without changing behaviour (कोड संरचना सुधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The refactoring reduced the module's complexity."
+    },
+    {
+      "id": "111",
+      "word": "coupling",
+      "definition": "The degree of dependence between components (घटकों की आपसी निर्भरता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tight coupling made the change risky."
+    },
+    {
+      "id": "112",
+      "word": "cohesion",
+      "definition": "How closely related a module's responsibilities are (मॉड्यूल की जिम्मेदारियों की निकटता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "High cohesion makes each service easier to understand."
+    },
+    {
+      "id": "113",
+      "word": "separation of concerns",
+      "definition": "Dividing a system so each part handles a distinct responsibility (ज़िम्मेदारियों का अलग-अलग विभाजन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Separation of concerns keeps parsing apart from validation."
+    },
+    {
+      "id": "114",
+      "word": "single responsibility",
+      "definition": "Each component should have one reason to change (हर घटक की एक ही ज़िम्मेदारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The class violates single responsibility by doing everything."
+    },
+    {
+      "id": "115",
+      "word": "dependency injection",
+      "definition": "Supplying a component's dependencies from outside (निर्भरताओं को बाहर से देना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Dependency injection makes the service easier to test."
+    },
+    {
+      "id": "116",
+      "word": "polymorphism",
+      "definition": "Treating different types through a common interface (एक इंटरफ़ेस से विभिन्न रूप संभालना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Polymorphism lets us add vendors without changing core logic."
+    },
+    {
+      "id": "117",
+      "word": "interface",
+      "definition": "A defined way for components to interact (घटकों के बीच संपर्क का निर्धारित तरीका)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Code against the interface, not the implementation."
+    },
+    {
+      "id": "118",
+      "word": "facade",
+      "definition": "A simplified interface to a complex subsystem (जटिल प्रणाली का सरल इंटरफ़ेस)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A facade hides the messy vendor integrations."
+    },
+    {
+      "id": "119",
+      "word": "adapter",
+      "definition": "A component that translates between incompatible interfaces (असंगत इंटरफ़ेस के बीच अनुवादक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Each vendor has its own adapter to our model."
+    },
+    {
+      "id": "120",
+      "word": "strategy pattern",
+      "definition": "Choosing an algorithm at runtime from interchangeable options (रनटाइम पर एल्गोरिदम चुनने का पैटर्न)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The strategy pattern selects the parser per vendor."
+    },
+    {
+      "id": "121",
+      "word": "factory",
+      "definition": "A component that creates objects without exposing the logic (वस्तुएँ बनाने वाला घटक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A factory returns the right parser for each file type."
+    },
+    {
+      "id": "122",
+      "word": "observer pattern",
+      "definition": "A design where objects are notified of changes (परिवर्तन की सूचना पाने वाला पैटर्न)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The observer pattern notifies subscribers of price updates."
+    },
+    {
+      "id": "123",
+      "word": "domain-driven design",
+      "definition": "Designing software around the business domain (व्यावसायिक क्षेत्र केंद्रित डिज़ाइन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Domain-driven design helped align code with business terms."
+    },
+    {
+      "id": "124",
+      "word": "bounded context",
+      "definition": "A boundary within which a domain model applies (एक मॉडल का सीमित दायरा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Each bounded context owns its definition of an instrument."
+    },
+    {
+      "id": "125",
+      "word": "ubiquitous language",
+      "definition": "Shared vocabulary between developers and business (साझा शब्दावली)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We agreed on a ubiquitous language for pricing terms."
+    },
+    {
+      "id": "126",
+      "word": "aggregate",
+      "definition": "A cluster of related objects treated as a unit (संबंधित वस्तुओं का समूह)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The order is the aggregate root for its line items."
+    },
+    {
+      "id": "127",
+      "word": "CQRS",
+      "definition": "Separating read and write models of a system (पढ़ने व लिखने के मॉडल का पृथक्करण)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "CQRS lets us optimise queries independently of writes."
+    },
+    {
+      "id": "128",
+      "word": "event sourcing",
+      "definition": "Storing state as a sequence of events (घटनाओं के क्रम के रूप में स्थिति सहेजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Event sourcing gives us a complete audit history."
+    },
+    {
+      "id": "129",
+      "word": "saga",
+      "definition": "A sequence of local transactions coordinated across services (वितरित लेन-देन की शृंखला)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A saga handles the multi-step booking process."
+    },
+    {
+      "id": "130",
+      "word": "choreography",
+      "definition": "Services coordinating through events without a central controller (बिना केंद्रीय नियंत्रक के समन्वय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Choreography reduces central coupling but is harder to trace."
+    },
+    {
+      "id": "131",
+      "word": "polling",
+      "definition": "Repeatedly checking for new data (बार-बार जाँचना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Polling every second wastes resources."
+    },
+    {
+      "id": "132",
+      "word": "webhook",
+      "definition": "A callback sent automatically when an event occurs (घटना होने पर स्वचालित सूचना कॉल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The vendor calls our webhook when a file is ready."
+    },
+    {
+      "id": "133",
+      "word": "long-running",
+      "definition": "Taking a significant time to complete (लंबे समय तक चलने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Long-running jobs should checkpoint their progress."
+    },
+    {
+      "id": "134",
+      "word": "checkpoint",
+      "definition": "A saved state from which processing can resume (पुनः आरंभ योग्य सहेजा गया बिंदु)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The job resumes from its last checkpoint after a crash."
+    },
+    {
+      "id": "135",
+      "word": "replay",
+      "definition": "To process past events again (पिछली घटनाओं को दोबारा चलाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We replayed yesterday's messages to fix the totals."
+    },
+    {
+      "id": "136",
+      "word": "backfill",
+      "definition": "To fill in missing historical data (छूटे हुए पुराने डेटा को भरना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We backfilled three months of corrected prices."
+    },
+    {
+      "id": "137",
+      "word": "reprocess",
+      "definition": "To run data through processing again (डेटा को दोबारा प्रसंस्कृत करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Reprocess the failed files once the bug is fixed."
+    },
+    {
+      "id": "138",
+      "word": "dedupe",
+      "definition": "To remove duplicate records (दोहराए गए रिकॉर्ड हटाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We dedupe on vendor ID and timestamp."
+    },
+    {
+      "id": "139",
+      "word": "watermark",
+      "definition": "A marker indicating how far processing has progressed (प्रसंस्करण की प्रगति का चिह्न)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Late events arrive after the watermark has passed."
+    },
+    {
+      "id": "140",
+      "word": "windowing",
+      "definition": "Grouping streaming data into time-based chunks (समय-आधारित खंडों में बाँटना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Windowing computes totals every five minutes."
+    },
+    {
+      "id": "141",
+      "word": "ordering guarantee",
+      "definition": "An assurance that messages are processed in sequence (क्रम बनाए रखने की गारंटी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Kafka only provides an ordering guarantee within a partition."
+    },
+    {
+      "id": "142",
+      "word": "sticky session",
+      "definition": "Routing a user's requests to the same server (एक ही सर्वर पर अनुरोध भेजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Sticky sessions complicate horizontal scaling."
+    },
+    {
+      "id": "143",
+      "word": "blue-green deployment",
+      "definition": "Switching traffic between two identical environments (दो समान वातावरणों में स्विच करने वाली तैनाती)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Blue-green deployment gave us a zero-downtime release."
+    },
+    {
+      "id": "144",
+      "word": "rolling update",
+      "definition": "Gradually replacing instances with a new version (धीरे-धीरे नया संस्करण लगाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A rolling update keeps the service available throughout."
+    },
+    {
+      "id": "145",
+      "word": "configuration",
+      "definition": "Settings that control how a system behaves (सेटिंग्स का समूह)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Keep configuration separate from code."
+    },
+    {
+      "id": "146",
+      "word": "secrets management",
+      "definition": "Securely storing and controlling sensitive credentials (गोपनीय क्रेडेंशियल्स का सुरक्षित प्रबंधन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Secrets management prevents passwords leaking into repositories."
+    },
+    {
+      "id": "147",
+      "word": "tracing",
+      "definition": "Following a request across multiple services (अनुरोध का सेवाओं के बीच अनुसरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Distributed tracing found the slow downstream call."
+    },
+    {
+      "id": "148",
+      "word": "correlation ID",
+      "definition": "A unique identifier linking related log entries (संबंधित लॉग जोड़ने वाली पहचान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Include a correlation ID in every log line."
+    },
+    {
+      "id": "149",
+      "word": "structured logging",
+      "definition": "Logging in a consistent machine-readable format (मशीन-पठनीय एकरूप लॉगिंग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Structured logging makes searching much easier."
+    },
+    {
+      "id": "150",
+      "word": "SLO",
+      "definition": "A target level of service reliability (सेवा विश्वसनीयता का लक्ष्य)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "Our SLO is 99.9 percent of files processed within an hour."
+    },
+    {
+      "id": "151",
+      "word": "error budget",
+      "definition": "The permitted amount of failure within an SLO (अनुमत विफलता की सीमा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We have used most of our error budget this month."
+    },
+    {
+      "id": "152",
+      "word": "toil",
+      "definition": "Repetitive manual operational work that can be automated (दोहराया जाने वाला हाथ का परिचालन कार्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Reducing toil frees the team for engineering work."
+    },
+    {
+      "id": "153",
+      "word": "chaos engineering",
+      "definition": "Deliberately injecting failures to test resilience (जानबूझकर विफलताएँ डालकर परीक्षण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Chaos engineering exposed a hidden dependency."
+    },
+    {
+      "id": "154",
+      "word": "disaster recovery",
+      "definition": "Plans and processes to restore systems after a major failure (आपदा के बाद पुनर्स्थापना योजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our disaster recovery plan targets a two-hour recovery."
+    },
+    {
+      "id": "155",
+      "word": "RPO",
+      "definition": "The maximum acceptable amount of data loss measured in time (अधिकतम स्वीकार्य डेटा हानि समय)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "An RPO of fifteen minutes means losing at most fifteen minutes of data."
+    },
+    {
+      "id": "156",
+      "word": "RTO",
+      "definition": "The maximum acceptable time to restore service (सेवा बहाली की अधिकतम समय-सीमा)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "The RTO for this service is one hour."
+    },
+    {
+      "id": "157",
+      "word": "API versioning",
+      "definition": "Managing changes to an API using version numbers (एपीआई संस्करण प्रबंधन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "API versioning prevents breaking existing clients."
+    },
+    {
+      "id": "158",
+      "word": "breaking change",
+      "definition": "A change that stops existing users' code from working (पुराने उपयोगकर्ताओं को तोड़ने वाला बदलाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Removing the field is a breaking change."
+    },
+    {
+      "id": "159",
+      "word": "throughput bottleneck",
+      "definition": "A limit on how much data can be processed (डेटा प्रसंस्करण की गति में अवरोध)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The parser is the throughput bottleneck."
+    },
+    {
+      "id": "160",
+      "word": "connection pool",
+      "definition": "A reusable set of database connections (पुन: उपयोग योग्य कनेक्शनों का समूह)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The connection pool ran out under heavy load."
+    },
+    {
+      "id": "161",
+      "word": "thread pool",
+      "definition": "A set of reusable threads for executing tasks (कार्य करने वाले थ्रेड्स का समूह)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tune the thread pool for CPU-bound work."
+    },
+    {
+      "id": "162",
+      "word": "memory leak",
+      "definition": "Memory that is never released after use (मेमोरी का न लौटना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A memory leak crashed the service every few days."
+    },
+    {
+      "id": "163",
+      "word": "garbage collection",
+      "definition": "Automatic reclaiming of unused memory (अनुपयोगी मेमोरी की स्वचालित सफ़ाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Long garbage collection pauses hurt latency."
+    },
+    {
+      "id": "164",
+      "word": "hot path",
+      "definition": "The most frequently executed part of code (सबसे अधिक चलने वाला कोड भाग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Avoid allocations on the hot path."
+    },
+    {
+      "id": "165",
+      "word": "hot spot",
+      "definition": "A part of a system under heavy use or load (सबसे अधिक भार वाला हिस्सा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "One partition became a hot spot."
+    },
+    {
+      "id": "166",
+      "word": "data skew",
+      "definition": "Uneven distribution of data across partitions (डेटा का असमान वितरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Data skew caused one worker to lag."
+    },
+    {
+      "id": "167",
+      "word": "cardinality",
+      "definition": "The number of distinct values in a data set (अलग-अलग मानों की संख्या)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "High cardinality makes this index expensive."
+    },
+    {
+      "id": "168",
+      "word": "lazy loading",
+      "definition": "Loading data only when it is needed (ज़रूरत पड़ने पर ही डेटा लोड करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Lazy loading improved start-up time."
+    },
+    {
+      "id": "169",
+      "word": "eager loading",
+      "definition": "Loading related data in advance (संबंधित डेटा पहले से लोड करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Eager loading avoids repeated queries."
+    },
+    {
+      "id": "170",
+      "word": "connection leak",
+      "definition": "Failure to close connections after use (कनेक्शन बंद न करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A connection leak exhausted the database limit."
+    },
+    {
+      "id": "171",
+      "word": "back-of-the-envelope",
+      "definition": "Rough and quick, as if calculated informally (मोटा और त्वरित अनुमान)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A back-of-the-envelope estimate shows ten terabytes a year."
+    },
+    {
+      "id": "172",
+      "word": "quorum",
+      "definition": "The minimum number of nodes needed to agree (सहमति के लिए न्यूनतम सदस्य संख्या)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A write needs a quorum to succeed."
+    },
+    {
+      "id": "173",
+      "word": "leader election",
+      "definition": "A process to choose one node to coordinate others (समन्वयक नोड चुनने की प्रक्रिया)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Leader election takes a few seconds after failure."
+    },
+    {
+      "id": "174",
+      "word": "split brain",
+      "definition": "A fault where two parts of a system act independently (दो हिस्सों का स्वतंत्र काम करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A network partition caused a split brain."
+    },
+    {
+      "id": "175",
+      "word": "consensus protocol",
+      "definition": "A method for nodes to agree on a value (नोड्स में सहमति का तरीका)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Raft is a widely used consensus protocol."
+    },
+    {
+      "id": "176",
+      "word": "gossip protocol",
+      "definition": "A method where nodes spread information to peers (नोड्स द्वारा जानकारी फैलाने की विधि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The cluster uses a gossip protocol for membership."
+    },
+    {
+      "id": "177",
+      "word": "tight coupling",
+      "definition": "Strong dependence between components (घटकों की कसकर निर्भरता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tight coupling made the release risky."
+    },
+    {
+      "id": "178",
+      "word": "loose coupling",
+      "definition": "Weak dependence allowing independent change (घटकों की ढीली निर्भरता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Loose coupling lets teams deploy independently."
+    },
+    {
+      "id": "179",
+      "word": "chatty",
+      "definition": "Making too many small network calls (ज़रूरत से ज़्यादा छोटे कॉल करने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The chatty API slowed the page load."
+    },
+    {
+      "id": "180",
+      "word": "fan-out",
+      "definition": "Sending one request to many downstream recipients (एक अनुरोध का कई जगह जाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fan-out to ten services increased latency."
+    },
+    {
+      "id": "181",
+      "word": "fan-in",
+      "definition": "Combining many inputs into one (कई इनपुट का एक में मिलना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fan-in aggregates results from all vendors."
+    },
+    {
+      "id": "182",
+      "word": "sidecar",
+      "definition": "A helper container deployed alongside the main service (मुख्य सेवा के साथ चलने वाला सहायक कंटेनर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A sidecar handles logging and security."
+    },
+    {
+      "id": "183",
+      "word": "reverse proxy",
+      "definition": "A server that forwards client requests to backend servers (अनुरोध आगे भेजने वाला सर्वर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The reverse proxy terminates TLS."
+    },
+    {
+      "id": "184",
+      "word": "content delivery network",
+      "definition": "A network of servers that delivers content from nearby locations (पास के सर्वर से सामग्री पहुँचाने वाला नेटवर्क)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A content delivery network cut page load time."
+    },
+    {
+      "id": "185",
+      "word": "cold storage",
+      "definition": "Low-cost storage for rarely accessed data (कम उपयोग वाले डेटा का सस्ता भंडारण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Old files move to cold storage after ninety days."
+    },
+    {
+      "id": "186",
+      "word": "hot storage",
+      "definition": "Fast storage for frequently accessed data (बार-बार उपयोग वाले डेटा का तेज़ भंडारण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Recent prices stay in hot storage."
+    },
+    {
+      "id": "187",
+      "word": "retention policy",
+      "definition": "Rules for how long data is kept (डेटा रखने की अवधि संबंधी नियम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our retention policy keeps raw files for seven years."
+    },
+    {
+      "id": "188",
+      "word": "data residency",
+      "definition": "The requirement to store data in a particular region (डेटा का निर्धारित क्षेत्र में रहना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Data residency rules limit where we host."
+    },
+    {
+      "id": "189",
+      "word": "tokenisation",
+      "definition": "Replacing sensitive data with non-sensitive tokens (संवेदनशील डेटा को टोकन से बदलना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tokenisation protects client account numbers."
+    },
+    {
+      "id": "190",
+      "word": "masking",
+      "definition": "Hiding parts of sensitive data (संवेदनशील डेटा छुपाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Masking prevents leaks in test environments."
+    },
+    {
+      "id": "191",
+      "word": "anonymisation",
+      "definition": "Removing personal identifiers from data (व्यक्तिगत पहचान हटाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Anonymisation is required before sharing datasets."
+    },
+    {
+      "id": "192",
+      "word": "zero trust",
+      "definition": "A security model that verifies every request (हर अनुरोध की पुष्टि करने वाला सुरक्षा मॉडल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Zero trust assumes no network is safe."
+    },
+    {
+      "id": "193",
+      "word": "perimeter",
+      "definition": "The boundary of a protected network (सुरक्षित नेटवर्क की सीमा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Security can't rely only on the perimeter."
+    },
+    {
+      "id": "194",
+      "word": "penetration testing",
+      "definition": "Authorised simulated attacks to find weaknesses (अधिकृत नकली हमलों से कमज़ोरियाँ खोजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Penetration testing uncovered an exposed endpoint."
+    },
+    {
+      "id": "195",
+      "word": "threat model",
+      "definition": "A structured analysis of possible attacks (संभावित हमलों का विश्लेषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We built a threat model for the new service."
+    },
+    {
+      "id": "196",
+      "word": "key rotation",
+      "definition": "Regularly replacing encryption keys (एन्क्रिप्शन कुंजियाँ नियमित बदलना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Automatic key rotation reduced our risk."
+    },
+    {
+      "id": "197",
+      "word": "principle of least astonishment",
+      "definition": "Design that behaves as users expect (उपयोगकर्ता की अपेक्षा अनुसार व्यवहार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "An API should follow the principle of least astonishment."
+    },
+    {
+      "id": "198",
+      "word": "convention over configuration",
+      "definition": "Using sensible defaults to reduce setup (सरल डिफ़ॉल्ट से सेटअप घटाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Spring Boot favours convention over configuration."
+    },
+    {
+      "id": "199",
+      "word": "declarative",
+      "definition": "Describing what is wanted rather than how to do it (क्या चाहिए बताने वाला (कैसे नहीं))",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Terraform uses a declarative style."
+    },
+    {
+      "id": "200",
+      "word": "imperative",
+      "definition": "Describing step-by-step how to do something (कदम-दर-कदम निर्देश देने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The old script was imperative and hard to follow."
+    }
+  ],
+  "id": "082c7df1-cfe1-4cda-81ce-8e499f545836",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

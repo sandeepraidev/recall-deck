@@ -1,0 +1,128 @@
+{
+ "id": "pack7-deck-4",
+ "categoryId": "cat-51",
+ "title": "Engineering & Incident Cases",
+ "sub": "Outages, slow systems, trade-offs and technical decisions under pressure.",
+ "cards": [
+  {
+   "id": "pack7-card-31",
+   "mode": "case",
+   "scenario": "Your API's response time jumped from 200 ms to 2 seconds right after a deployment.",
+   "question": "What are your first steps?",
+   "answer": [
+    "Roll back first if users are affected, then investigate",
+    "Compare the deploy diff: new queries, removed indexes, added calls",
+    "Check database, cache hit rate and downstream service latency",
+    "Add a latency alert and a load test for that path to prevent a repeat"
+   ]
+  },
+  {
+   "id": "pack7-card-32",
+   "mode": "case",
+   "scenario": "A nightly batch job that used to take 1 hour now takes 6 hours, and data grew only 20%.",
+   "question": "How would you investigate?",
+   "answer": [
+    "Profile the job to find which step got slower",
+    "Look for queries that switched to full table scans",
+    "Check for lock contention with other jobs running at night",
+    "Fix the hot spot, then add runtime monitoring with an alert"
+   ]
+  },
+  {
+   "id": "pack7-card-33",
+   "mode": "case",
+   "scenario": "Customers report being charged twice for one order, about 1 in 1,000 orders.",
+   "question": "How would you find and fix the problem?",
+   "answer": [
+    "Refund affected customers and confirm the scope from payment records",
+    "Look for client or network retries that resend the payment request",
+    "Add idempotency keys so repeated requests charge only once",
+    "Add a daily reconciliation check between orders and payments"
+   ]
+  },
+  {
+   "id": "pack7-card-34",
+   "mode": "case",
+   "scenario": "Your team must choose between building a feature in-house or buying a vendor tool.",
+   "question": "How would you decide?",
+   "answer": [
+    "Ask whether it is core to your product or a commodity",
+    "Compare total cost: build and maintain vs licence and integrate",
+    "Consider time to market, vendor lock-in and data security",
+    "Run a short proof of concept before committing"
+   ]
+  },
+  {
+   "id": "pack7-card-35",
+   "mode": "case",
+   "scenario": "A flash sale is expected to bring 10 times normal traffic next week.",
+   "question": "How would you prepare the system?",
+   "answer": [
+    "Load test the critical path: browse, cart and checkout",
+    "Scale ahead of time and add caching for product pages",
+    "Add rate limits, a queue and graceful fallbacks for non-critical features",
+    "Prepare dashboards, an on-call rota and a rollback plan"
+   ]
+  },
+  {
+   "id": "pack7-card-36",
+   "mode": "case",
+   "scenario": "Tests in your CI pipeline fail randomly about 10% of the time, and developers ignore failures.",
+   "question": "What would you do?",
+   "answer": [
+    "Measure: track which tests fail without code changes",
+    "Quarantine the flakiest tests so the pipeline is trusted again",
+    "Fix common causes: timing, shared state, test order, network calls",
+    "Make a flaky-test budget and an owner part of the team's process"
+   ]
+  },
+  {
+   "id": "pack7-card-37",
+   "mode": "case",
+   "scenario": "A database is close to its storage limit and will be full in about three weeks.",
+   "question": "How would you handle it?",
+   "answer": [
+    "Buy time immediately: increase storage or archive old data",
+    "Find what grows fastest — logs, audit tables, soft-deleted rows",
+    "Set retention policies and move cold data to cheaper storage",
+    "Add capacity alerts well before the limit next time"
+   ]
+  },
+  {
+   "id": "pack7-card-38",
+   "mode": "case",
+   "scenario": "Your team has a lot of technical debt and the product manager only wants new features.",
+   "question": "How would you make the case for fixing it?",
+   "answer": [
+    "Show the cost in business terms: slower delivery, incidents, bugs",
+    "Pick the debt that blocks upcoming features first",
+    "Propose a steady share, e.g. 20% of each sprint",
+    "Measure and report the improvement in speed and stability"
+   ]
+  },
+  {
+   "id": "pack7-card-39",
+   "mode": "case",
+   "scenario": "A security researcher reports that user emails can be seen through a public API.",
+   "question": "What are your next steps?",
+   "answer": [
+    "Confirm the issue and close the leak as fast as possible",
+    "Check logs to see whether it was exploited and which data was exposed",
+    "Inform security, legal and affected users as required",
+    "Hold a post-mortem and add access checks and tests for the API"
+   ]
+  },
+  {
+   "id": "pack7-card-40",
+   "mode": "case",
+   "scenario": "Mobile app crashes rose from 0.5% to 3% of sessions after a new release.",
+   "question": "How would you respond?",
+   "answer": [
+    "Pause the staged rollout to stop the spread",
+    "Group crash reports by stack trace, device and OS version",
+    "Ship a hotfix or turn off the feature with a flag",
+    "Add the failing case to tests and release checks"
+   ]
+  }
+ ]
+}

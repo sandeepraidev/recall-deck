@@ -1,0 +1,1191 @@
+{
+ "id": "pack2-deck-5",
+ "categoryId": "pack2-cat-1",
+ "title": "Newspaper: Society, Education & Culture",
+ "sub": "Vocabulary for features, editorials, and human-interest stories.",
+ "cards": [
+  {
+   "id": "pack2-card-375",
+   "mode": "vocab",
+   "word": "Inequality",
+   "pron": "(noun)",
+   "def": "Unfair difference in wealth, rights, or opportunity.\nहिंदी: असमानता",
+   "examples": [
+    "Present: Inequality divides societies.",
+    "Past: Inequality widened after the crisis.",
+    "Future: Inequality will grow without reform.",
+    "Perfect: Inequality has become a major issue."
+   ]
+  },
+  {
+   "id": "pack2-card-376",
+   "mode": "vocab",
+   "word": "Poverty",
+   "pron": "(noun)",
+   "def": "The state of lacking money for basic needs.\nहिंदी: ग़रीबी",
+   "examples": [
+    "Present: Poverty limits choices.",
+    "Past: Poverty fell in the last decade.",
+    "Future: Poverty will decline with jobs.",
+    "Perfect: Millions have escaped poverty."
+   ]
+  },
+  {
+   "id": "pack2-card-377",
+   "mode": "vocab",
+   "word": "Welfare",
+   "pron": "(noun)",
+   "def": "Support for people's health and wellbeing.\nहिंदी: कल्याण",
+   "examples": [
+    "Present: Welfare helps those in need.",
+    "Past: Welfare expanded in the 1990s.",
+    "Future: Welfare will cover more families.",
+    "Perfect: The state has increased welfare spending."
+   ]
+  },
+  {
+   "id": "pack2-card-378",
+   "mode": "vocab",
+   "word": "Literacy",
+   "pron": "(noun)",
+   "def": "The ability to read and write.\nहिंदी: साक्षरता",
+   "examples": [
+    "Present: Literacy opens opportunities.",
+    "Past: Literacy rose to ninety percent.",
+    "Future: Literacy will improve with new schools.",
+    "Perfect: The state has raised literacy."
+   ]
+  },
+  {
+   "id": "pack2-card-379",
+   "mode": "vocab",
+   "word": "Curriculum",
+   "pron": "(noun)",
+   "def": "The subjects taught in a school.\nहिंदी: पाठ्यक्रम",
+   "examples": [
+    "Present: A curriculum shapes learning.",
+    "Past: The curriculum changed in 2020.",
+    "Future: The curriculum will include coding.",
+    "Perfect: Schools have updated the curriculum."
+   ]
+  },
+  {
+   "id": "pack2-card-380",
+   "mode": "vocab",
+   "word": "Scholarship",
+   "pron": "(noun)",
+   "def": "Money awarded to support a student's education.\nहिंदी: छात्रवृत्ति",
+   "examples": [
+    "Present: A scholarship rewards merit.",
+    "Past: She won a scholarship to Oxford.",
+    "Future: He will apply for a scholarship.",
+    "Perfect: Many students have received scholarships."
+   ]
+  },
+  {
+   "id": "pack2-card-381",
+   "mode": "vocab",
+   "word": "Enrol",
+   "pron": "(verb)",
+   "def": "To officially join a course or school.\nहिंदी: नामांकन करना",
+   "examples": [
+    "Present: Children enrol at age six.",
+    "Past: She enrolled in a design course.",
+    "Future: Students will enrol in July.",
+    "Perfect: Thousands have enrolled online."
+   ]
+  },
+  {
+   "id": "pack2-card-382",
+   "mode": "vocab",
+   "word": "Dropout",
+   "pron": "(noun)",
+   "def": "A person who leaves school early.\nहिंदी: पढ़ाई छोड़ने वाला",
+   "examples": [
+    "Present: A dropout may struggle to find work.",
+    "Past: He became a dropout at fifteen.",
+    "Future: Dropouts will fall with free meals.",
+    "Perfect: Many girls have become dropouts."
+   ]
+  },
+  {
+   "id": "pack2-card-383",
+   "mode": "vocab",
+   "word": "Tuition",
+   "pron": "(noun)",
+   "def": "Teaching, or the fee paid for it.\nहिंदी: ट्यूशन / शिक्षण शुल्क",
+   "examples": [
+    "Present: Tuition fees are rising.",
+    "Past: He paid tuition for three years.",
+    "Future: Tuition will increase next year.",
+    "Perfect: The college has raised tuition."
+   ]
+  },
+  {
+   "id": "pack2-card-384",
+   "mode": "vocab",
+   "word": "Graduate",
+   "pron": "(verb)",
+   "def": "To complete a degree.\nहिंदी: स्नातक होना",
+   "examples": [
+    "Present: Students graduate after three years.",
+    "Past: She graduated in 2018.",
+    "Future: He will graduate in June.",
+    "Perfect: Many have graduated with honours."
+   ]
+  },
+  {
+   "id": "pack2-card-385",
+   "mode": "vocab",
+   "word": "Faculty",
+   "pron": "(noun)",
+   "def": "Teaching staff of a school or college.\nहिंदी: शिक्षक वर्ग / संकाय",
+   "examples": [
+    "Present: The faculty guides students.",
+    "Past: The faculty voted to change the exam.",
+    "Future: The faculty will meet on Friday.",
+    "Perfect: The college has hired new faculty."
+   ]
+  },
+  {
+   "id": "pack2-card-386",
+   "mode": "vocab",
+   "word": "Mentor",
+   "pron": "(noun)",
+   "def": "An experienced person who advises a younger one.\nहिंदी: मार्गदर्शक",
+   "examples": [
+    "Present: A mentor shares experience.",
+    "Past: She was my mentor for years.",
+    "Future: A mentor will guide new staff.",
+    "Perfect: He has mentored dozens of students."
+   ]
+  },
+  {
+   "id": "pack2-card-387",
+   "mode": "vocab",
+   "word": "Pedagogy",
+   "pron": "(noun)",
+   "def": "The method and practice of teaching.\nहिंदी: शिक्षण-शास्त्र",
+   "examples": [
+    "Present: Pedagogy influences classroom success.",
+    "Past: New pedagogy transformed the school.",
+    "Future: Pedagogy will emphasise creativity.",
+    "Perfect: Teachers have embraced new pedagogy."
+   ]
+  },
+  {
+   "id": "pack2-card-388",
+   "mode": "vocab",
+   "word": "Vocational",
+   "pron": "(adjective)",
+   "def": "Relating to skills for a particular job.\nहिंदी: व्यावसायिक",
+   "examples": [
+    "Present: Vocational training prepares workers.",
+    "Past: He took a vocational course.",
+    "Future: Vocational courses will expand.",
+    "Perfect: The state has promoted vocational education."
+   ]
+  },
+  {
+   "id": "pack2-card-389",
+   "mode": "vocab",
+   "word": "Gender",
+   "pron": "(noun)",
+   "def": "Social and cultural roles linked to being male or female.\nहिंदी: लिंग",
+   "examples": [
+    "Present: Gender should not limit opportunity.",
+    "Past: Gender bias shaped the policy.",
+    "Future: Gender equality will take time.",
+    "Perfect: The firm has achieved gender balance."
+   ]
+  },
+  {
+   "id": "pack2-card-390",
+   "mode": "vocab",
+   "word": "Discrimination",
+   "pron": "(noun)",
+   "def": "Unfair treatment based on identity.\nहिंदी: भेदभाव",
+   "examples": [
+    "Present: Discrimination harms society.",
+    "Past: Discrimination caused outrage.",
+    "Future: Discrimination will be punished by law.",
+    "Perfect: He has faced discrimination at work."
+   ]
+  },
+  {
+   "id": "pack2-card-391",
+   "mode": "vocab",
+   "word": "Prejudice",
+   "pron": "(noun)",
+   "def": "Opinion formed without knowledge or reason.\nहिंदी: पूर्वाग्रह",
+   "examples": [
+    "Present: Prejudice blinds judgement.",
+    "Past: Prejudice affected the hiring.",
+    "Future: Education will reduce prejudice.",
+    "Perfect: Many have overcome prejudice."
+   ]
+  },
+  {
+   "id": "pack2-card-392",
+   "mode": "vocab",
+   "word": "Stereotype",
+   "pron": "(noun)",
+   "def": "A fixed, oversimplified idea about a group.\nहिंदी: रूढ़िबद्ध धारणा",
+   "examples": [
+    "Present: A stereotype misleads people.",
+    "Past: The film challenged a stereotype.",
+    "Future: Stereotypes will fade with awareness.",
+    "Perfect: Society has long held that stereotype."
+   ]
+  },
+  {
+   "id": "pack2-card-393",
+   "mode": "vocab",
+   "word": "Diversity",
+   "pron": "(noun)",
+   "def": "A range of different people or things.\nहिंदी: विविधता",
+   "examples": [
+    "Present: Diversity enriches teams.",
+    "Past: Diversity improved the company.",
+    "Future: Diversity will strengthen the workplace.",
+    "Perfect: The school has embraced diversity."
+   ]
+  },
+  {
+   "id": "pack2-card-394",
+   "mode": "vocab",
+   "word": "Inclusive",
+   "pron": "(adjective)",
+   "def": "Including everyone.\nहिंदी: समावेशी",
+   "examples": [
+    "Present: An inclusive policy welcomes all.",
+    "Past: The event was inclusive.",
+    "Future: Inclusive growth will benefit more people.",
+    "Perfect: The school has become inclusive."
+   ]
+  },
+  {
+   "id": "pack2-card-395",
+   "mode": "vocab",
+   "word": "Marginalised",
+   "pron": "(adjective)",
+   "def": "Pushed to the edge of society.\nहिंदी: हाशिये पर रखा गया",
+   "examples": [
+    "Present: Marginalised groups need support.",
+    "Past: Villagers felt marginalised.",
+    "Future: Marginalised voices will be heard.",
+    "Perfect: The community has long been marginalised."
+   ]
+  },
+  {
+   "id": "pack2-card-396",
+   "mode": "vocab",
+   "word": "Heritage",
+   "pron": "(noun)",
+   "def": "Traditions and history passed down.\nहिंदी: विरासत",
+   "examples": [
+    "Present: Heritage connects generations.",
+    "Past: The temple became a heritage site.",
+    "Future: Heritage will attract tourists.",
+    "Perfect: The state has preserved its heritage."
+   ]
+  },
+  {
+   "id": "pack2-card-397",
+   "mode": "vocab",
+   "word": "Tradition",
+   "pron": "(noun)",
+   "def": "A custom passed down over generations.\nहिंदी: परंपरा",
+   "examples": [
+    "Present: Tradition shapes festivals.",
+    "Past: The tradition began centuries ago.",
+    "Future: The tradition will continue.",
+    "Perfect: Families have kept the tradition alive."
+   ]
+  },
+  {
+   "id": "pack2-card-398",
+   "mode": "vocab",
+   "word": "Ritual",
+   "pron": "(noun)",
+   "def": "A set of actions performed in a fixed way.\nहिंदी: अनुष्ठान / रस्म",
+   "examples": [
+    "Present: A ritual marks important moments.",
+    "Past: The ritual lasted three days.",
+    "Future: The ritual will begin at dawn.",
+    "Perfect: Families have performed the ritual for years."
+   ]
+  },
+  {
+   "id": "pack2-card-399",
+   "mode": "vocab",
+   "word": "Festival",
+   "pron": "(noun)",
+   "def": "A celebration held on a special occasion.\nहिंदी: त्योहार",
+   "examples": [
+    "Present: A festival brings communities together.",
+    "Past: The festival drew huge crowds.",
+    "Future: The festival will start tomorrow.",
+    "Perfect: The city has hosted the festival for decades."
+   ]
+  },
+  {
+   "id": "pack2-card-400",
+   "mode": "vocab",
+   "word": "Pilgrimage",
+   "pron": "(noun)",
+   "def": "A journey to a sacred place.\nहिंदी: तीर्थयात्रा",
+   "examples": [
+    "Present: A pilgrimage is deeply spiritual.",
+    "Past: She made a pilgrimage to Varanasi.",
+    "Future: Thousands will join the pilgrimage.",
+    "Perfect: Devotees have completed the pilgrimage."
+   ]
+  },
+  {
+   "id": "pack2-card-401",
+   "mode": "vocab",
+   "word": "Monument",
+   "pron": "(noun)",
+   "def": "A building or statue honouring something.\nहिंदी: स्मारक",
+   "examples": [
+    "Present: A monument recalls history.",
+    "Past: The monument was built in 1650.",
+    "Future: The monument will be restored.",
+    "Perfect: Archaeologists have protected the monument."
+   ]
+  },
+  {
+   "id": "pack2-card-402",
+   "mode": "vocab",
+   "word": "Exhibition",
+   "pron": "(noun)",
+   "def": "A public display of art or objects.\nहिंदी: प्रदर्शनी",
+   "examples": [
+    "Present: An exhibition attracts visitors.",
+    "Past: The exhibition ran for a month.",
+    "Future: The exhibition will open in May.",
+    "Perfect: The museum has organised an exhibition."
+   ]
+  },
+  {
+   "id": "pack2-card-403",
+   "mode": "vocab",
+   "word": "Premiere",
+   "pron": "(noun)",
+   "def": "The first public showing of a film or play.\nहिंदी: प्रथम प्रदर्शन",
+   "examples": [
+    "Present: A premiere draws celebrities.",
+    "Past: The premiere took place in Mumbai.",
+    "Future: The premiere will happen on Friday.",
+    "Perfect: The film has already had its premiere."
+   ]
+  },
+  {
+   "id": "pack2-card-404",
+   "mode": "vocab",
+   "word": "Acclaimed",
+   "pron": "(adjective)",
+   "def": "Praised publicly.\nहिंदी: प्रशंसित",
+   "examples": [
+    "Present: An acclaimed author draws readers.",
+    "Past: The film was critically acclaimed.",
+    "Future: The acclaimed singer will perform tonight.",
+    "Perfect: The writer has become acclaimed worldwide."
+   ]
+  },
+  {
+   "id": "pack2-card-405",
+   "mode": "vocab",
+   "word": "Blockbuster",
+   "pron": "(noun)",
+   "def": "A hugely successful film or product.\nहिंदी: सुपरहिट फ़िल्म",
+   "examples": [
+    "Present: A blockbuster earns millions.",
+    "Past: The blockbuster broke records.",
+    "Future: The blockbuster will release in summer.",
+    "Perfect: The studio has produced another blockbuster."
+   ]
+  },
+  {
+   "id": "pack2-card-406",
+   "mode": "vocab",
+   "word": "Documentary",
+   "pron": "(noun)",
+   "def": "A factual film about real events.\nहिंदी: वृत्तचित्र",
+   "examples": [
+    "Present: A documentary informs viewers.",
+    "Past: The documentary won an award.",
+    "Future: The documentary will air on Sunday.",
+    "Perfect: The director has made a documentary."
+   ]
+  },
+  {
+   "id": "pack2-card-407",
+   "mode": "vocab",
+   "word": "Critic",
+   "pron": "(noun)",
+   "def": "A person who reviews art or ideas.\nहिंदी: आलोचक",
+   "examples": [
+    "Present: A critic shares opinions.",
+    "Past: The critic praised the novel.",
+    "Future: The critic will review the play.",
+    "Perfect: Critics have loved the film."
+   ]
+  },
+  {
+   "id": "pack2-card-408",
+   "mode": "vocab",
+   "word": "Anthology",
+   "pron": "(noun)",
+   "def": "A collection of poems, stories, or songs.\nहिंदी: संकलन",
+   "examples": [
+    "Present: An anthology gathers works together.",
+    "Past: The anthology featured twenty writers.",
+    "Future: An anthology will be published next year.",
+    "Perfect: The editor has compiled an anthology."
+   ]
+  },
+  {
+   "id": "pack2-card-409",
+   "mode": "vocab",
+   "word": "Biography",
+   "pron": "(noun)",
+   "def": "An account of someone's life.\nहिंदी: जीवनी",
+   "examples": [
+    "Present: A biography tells a life story.",
+    "Past: The biography became a bestseller.",
+    "Future: A biography will be released in May.",
+    "Perfect: She has written a biography of Gandhi."
+   ]
+  },
+  {
+   "id": "pack2-card-410",
+   "mode": "vocab",
+   "word": "Editorial",
+   "pron": "(noun)",
+   "def": "An article expressing the newspaper's opinion.\nहिंदी: संपादकीय",
+   "examples": [
+    "Present: An editorial shapes public debate.",
+    "Past: The editorial criticised the plan.",
+    "Future: An editorial will appear tomorrow.",
+    "Perfect: The paper has published a strong editorial."
+   ]
+  },
+  {
+   "id": "pack2-card-411",
+   "mode": "vocab",
+   "word": "Headline",
+   "pron": "(noun)",
+   "def": "The title at the top of a news story.\nहिंदी: शीर्षक / सुर्खी",
+   "examples": [
+    "Present: A headline attracts attention.",
+    "Past: The headline shocked readers.",
+    "Future: The headline will appear on page one.",
+    "Perfect: The story has made headlines."
+   ]
+  },
+  {
+   "id": "pack2-card-412",
+   "mode": "vocab",
+   "word": "Journalist",
+   "pron": "(noun)",
+   "def": "A person who reports news.\nहिंदी: पत्रकार",
+   "examples": [
+    "Present: A journalist checks facts.",
+    "Past: The journalist exposed the fraud.",
+    "Future: The journalist will interview the minister.",
+    "Perfect: She has worked as a journalist for ten years."
+   ]
+  },
+  {
+   "id": "pack2-card-413",
+   "mode": "vocab",
+   "word": "Bias",
+   "pron": "(noun)",
+   "def": "Unfair leaning toward one side.\nहिंदी: पक्षपात",
+   "examples": [
+    "Present: Bias can affect reporting.",
+    "Past: Bias crept into the coverage.",
+    "Future: Bias will reduce trust.",
+    "Perfect: Readers have noticed bias."
+   ]
+  },
+  {
+   "id": "pack2-card-414",
+   "mode": "vocab",
+   "word": "Misinformation",
+   "pron": "(noun)",
+   "def": "False information spread without intent to deceive.\nहिंदी: ग़लत जानकारी",
+   "examples": [
+    "Present: Misinformation spreads quickly online.",
+    "Past: Misinformation caused panic.",
+    "Future: Misinformation will erode trust.",
+    "Perfect: Platforms have fought misinformation."
+   ]
+  },
+  {
+   "id": "pack2-card-415",
+   "mode": "vocab",
+   "word": "Propaganda",
+   "pron": "(noun)",
+   "def": "Information spread to promote a cause, often misleading.\nहिंदी: प्रचार",
+   "examples": [
+    "Present: Propaganda shapes opinion.",
+    "Past: Propaganda filled the airwaves.",
+    "Future: Propaganda will deepen divisions.",
+    "Perfect: The regime has used propaganda."
+   ]
+  },
+  {
+   "id": "pack2-card-416",
+   "mode": "vocab",
+   "word": "Censorship",
+   "pron": "(noun)",
+   "def": "Suppressing speech or publications.\nहिंदी: सेंसरशिप",
+   "examples": [
+    "Present: Censorship restricts free expression.",
+    "Past: Censorship banned the book.",
+    "Future: Censorship will provoke criticism.",
+    "Perfect: The state has imposed censorship."
+   ]
+  },
+  {
+   "id": "pack2-card-417",
+   "mode": "vocab",
+   "word": "Viral",
+   "pron": "(adjective)",
+   "def": "Spreading rapidly online.\nहिंदी: वायरल",
+   "examples": [
+    "Present: A viral video can make a star.",
+    "Past: The post went viral overnight.",
+    "Future: The clip will go viral.",
+    "Perfect: The meme has gone viral."
+   ]
+  },
+  {
+   "id": "pack2-card-418",
+   "mode": "vocab",
+   "word": "Influencer",
+   "pron": "(noun)",
+   "def": "A person who shapes opinions on social media.\nहिंदी: इन्फ्लुएंसर",
+   "examples": [
+    "Present: An influencer promotes brands.",
+    "Past: The influencer visited Goa.",
+    "Future: The influencer will launch a product.",
+    "Perfect: She has become a popular influencer."
+   ]
+  },
+  {
+   "id": "pack2-card-419",
+   "mode": "vocab",
+   "word": "Privacy",
+   "pron": "(noun)",
+   "def": "The right to keep personal matters private.\nहिंदी: निजता",
+   "examples": [
+    "Present: Privacy needs protection.",
+    "Past: Privacy was violated in the leak.",
+    "Future: Privacy will be central to the law.",
+    "Perfect: Users have demanded stronger privacy."
+   ]
+  },
+  {
+   "id": "pack2-card-420",
+   "mode": "vocab",
+   "word": "Urbanisation",
+   "pron": "(noun)",
+   "def": "The growth of cities and urban living.\nहिंदी: शहरीकरण",
+   "examples": [
+    "Present: Urbanisation increases traffic.",
+    "Past: Urbanisation accelerated in the 1990s.",
+    "Future: Urbanisation will strain resources.",
+    "Perfect: The region has seen rapid urbanisation."
+   ]
+  },
+  {
+   "id": "pack2-card-421",
+   "mode": "vocab",
+   "word": "Migration",
+   "pron": "(noun)",
+   "def": "Movement of people from one place to another.\nहिंदी: प्रवास",
+   "examples": [
+    "Present: Migration reshapes communities.",
+    "Past: Migration increased after the drought.",
+    "Future: Migration will continue to cities.",
+    "Perfect: Migration has changed the village."
+   ]
+  },
+  {
+   "id": "pack2-card-422",
+   "mode": "vocab",
+   "word": "Slum",
+   "pron": "(noun)",
+   "def": "A crowded, poor urban area.\nहिंदी: झुग्गी-बस्ती",
+   "examples": [
+    "Present: A slum lacks proper sanitation.",
+    "Past: The slum was cleared last year.",
+    "Future: The slum will be redeveloped.",
+    "Perfect: Residents have lived in the slum for decades."
+   ]
+  },
+  {
+   "id": "pack2-card-423",
+   "mode": "vocab",
+   "word": "Sanitation",
+   "pron": "(noun)",
+   "def": "Systems that keep places clean and healthy.\nहिंदी: स्वच्छता",
+   "examples": [
+    "Present: Sanitation prevents disease.",
+    "Past: Sanitation improved in villages.",
+    "Future: Sanitation will receive more funding.",
+    "Perfect: The city has upgraded sanitation."
+   ]
+  },
+  {
+   "id": "pack2-card-424",
+   "mode": "vocab",
+   "word": "Congestion",
+   "pron": "(noun)",
+   "def": "Overcrowding, especially of traffic.\nहिंदी: भीड़-भाड़ / जाम",
+   "examples": [
+    "Present: Congestion wastes time.",
+    "Past: Congestion worsened during rush hour.",
+    "Future: Congestion will ease with the metro.",
+    "Perfect: Congestion has grown with population."
+   ]
+  },
+  {
+   "id": "pack2-card-425",
+   "mode": "vocab",
+   "word": "Commute",
+   "pron": "(verb)",
+   "def": "To travel regularly between home and work.\nहिंदी: रोज़ आना-जाना करना",
+   "examples": [
+    "Present: Many people commute by train.",
+    "Past: He commuted two hours daily.",
+    "Future: She will commute by metro.",
+    "Perfect: I have commuted for ten years."
+   ]
+  },
+  {
+   "id": "pack2-card-426",
+   "mode": "vocab",
+   "word": "Pedestrian",
+   "pron": "(noun)",
+   "def": "A person walking, not driving.\nहिंदी: पैदल यात्री",
+   "examples": [
+    "Present: A pedestrian needs safe crossings.",
+    "Past: A pedestrian was hit by a bus.",
+    "Future: Pedestrians will get wider pavements.",
+    "Perfect: The city has built a pedestrian bridge."
+   ]
+  },
+  {
+   "id": "pack2-card-427",
+   "mode": "vocab",
+   "word": "Public transport",
+   "pron": "(noun)",
+   "def": "Buses, trains, and similar shared services.\nहिंदी: सार्वजनिक परिवहन",
+   "examples": [
+    "Present: Public transport reduces traffic.",
+    "Past: Public transport improved after the metro.",
+    "Future: Public transport will grow.",
+    "Perfect: The city has expanded public transport."
+   ]
+  },
+  {
+   "id": "pack2-card-428",
+   "mode": "vocab",
+   "word": "Affordable",
+   "pron": "(adjective)",
+   "def": "Cheap enough for most people.\nहिंदी: किफ़ायती",
+   "examples": [
+    "Present: Affordable housing helps families.",
+    "Past: Affordable flats sold quickly.",
+    "Future: Affordable healthcare will reach villages.",
+    "Perfect: The scheme has made homes affordable."
+   ]
+  },
+  {
+   "id": "pack2-card-429",
+   "mode": "vocab",
+   "word": "Tenant",
+   "pron": "(noun)",
+   "def": "A person who rents property.\nहिंदी: किरायेदार",
+   "examples": [
+    "Present: A tenant pays monthly rent.",
+    "Past: The tenant left in March.",
+    "Future: The tenant will move next week.",
+    "Perfect: The tenants have complained about repairs."
+   ]
+  },
+  {
+   "id": "pack2-card-430",
+   "mode": "vocab",
+   "word": "Landlord",
+   "pron": "(noun)",
+   "def": "A person who rents out property.\nहिंदी: मकान मालिक",
+   "examples": [
+    "Present: A landlord maintains the property.",
+    "Past: The landlord raised the rent.",
+    "Future: The landlord will inspect the flat.",
+    "Perfect: The landlord has sold the building."
+   ]
+  },
+  {
+   "id": "pack2-card-431",
+   "mode": "vocab",
+   "word": "Homeless",
+   "pron": "(adjective)",
+   "def": "Having no home.\nहिंदी: बेघर",
+   "examples": [
+    "Present: Homeless people need shelter.",
+    "Past: The flood left thousands homeless.",
+    "Future: Thousands will be homeless by winter.",
+    "Perfect: The earthquake has left many homeless."
+   ]
+  },
+  {
+   "id": "pack2-card-432",
+   "mode": "vocab",
+   "word": "Charity",
+   "pron": "(noun)",
+   "def": "An organisation helping people in need.\nहिंदी: दान-संस्था / परोपकार",
+   "examples": [
+    "Present: A charity depends on donations.",
+    "Past: The charity raised millions.",
+    "Future: The charity will build a school.",
+    "Perfect: The charity has helped thousands."
+   ]
+  },
+  {
+   "id": "pack2-card-433",
+   "mode": "vocab",
+   "word": "Volunteer",
+   "pron": "(noun)",
+   "def": "A person who works without pay.\nहिंदी: स्वयंसेवक",
+   "examples": [
+    "Present: A volunteer gives time freely.",
+    "Past: A volunteer helped the flood victims.",
+    "Future: Volunteers will clean the beach.",
+    "Perfect: She has volunteered for years."
+   ]
+  },
+  {
+   "id": "pack2-card-434",
+   "mode": "vocab",
+   "word": "Donate",
+   "pron": "(verb)",
+   "def": "To give money or goods to help.\nहिंदी: दान करना",
+   "examples": [
+    "Present: People donate to causes they care about.",
+    "Past: He donated blood.",
+    "Future: Companies will donate food.",
+    "Perfect: Citizens have donated generously."
+   ]
+  },
+  {
+   "id": "pack2-card-435",
+   "mode": "vocab",
+   "word": "Humanitarian",
+   "pron": "(adjective)",
+   "def": "Concerned with improving human welfare.\nहिंदी: मानवीय",
+   "examples": [
+    "Present: Humanitarian aid saves lives.",
+    "Past: Humanitarian groups reached the camp.",
+    "Future: Humanitarian help will arrive soon.",
+    "Perfect: Agencies have delivered humanitarian supplies."
+   ]
+  },
+  {
+   "id": "pack2-card-436",
+   "mode": "vocab",
+   "word": "Resilient",
+   "pron": "(adjective)",
+   "def": "Able to recover quickly from difficulty.\nहिंदी: लचीला / दृढ़",
+   "examples": [
+    "Present: A resilient community rebuilds quickly.",
+    "Past: The town was resilient after the storm.",
+    "Future: Resilient firms will survive the crisis.",
+    "Perfect: The village has proven resilient."
+   ]
+  },
+  {
+   "id": "pack2-card-437",
+   "mode": "vocab",
+   "word": "Vulnerable",
+   "pron": "(adjective)",
+   "def": "Easily harmed or hurt.\nहिंदी: असुरक्षित / कमज़ोर",
+   "examples": [
+    "Present: Vulnerable people need protection.",
+    "Past: Villages were vulnerable to flood.",
+    "Future: Vulnerable groups will get priority.",
+    "Perfect: The elderly have been vulnerable."
+   ]
+  },
+  {
+   "id": "pack2-card-438",
+   "mode": "vocab",
+   "word": "Grief",
+   "pron": "(noun)",
+   "def": "Deep sorrow, especially after a death.\nहिंदी: शोक",
+   "examples": [
+    "Present: Grief affects everyone differently.",
+    "Past: Grief overwhelmed the family.",
+    "Future: Grief will ease with time.",
+    "Perfect: She has endured great grief."
+   ]
+  },
+  {
+   "id": "pack2-card-439",
+   "mode": "vocab",
+   "word": "Tribute",
+   "pron": "(noun)",
+   "def": "An act showing respect or admiration.\nहिंदी: श्रद्धांजलि",
+   "examples": [
+    "Present: A tribute honours the departed.",
+    "Past: Leaders paid tribute to the soldiers.",
+    "Future: Fans will pay tribute tomorrow.",
+    "Perfect: The city has built a tribute."
+   ]
+  },
+  {
+   "id": "pack2-card-440",
+   "mode": "vocab",
+   "word": "Ceremony",
+   "pron": "(noun)",
+   "def": "A formal event marking an occasion.\nहिंदी: समारोह",
+   "examples": [
+    "Present: A ceremony marks achievements.",
+    "Past: The ceremony began at noon.",
+    "Future: The ceremony will be held in the stadium.",
+    "Perfect: The school has organised a ceremony."
+   ]
+  },
+  {
+   "id": "pack2-card-441",
+   "mode": "vocab",
+   "word": "Anniversary",
+   "pron": "(noun)",
+   "def": "The yearly date of a past event.\nहिंदी: वर्षगाँठ",
+   "examples": [
+    "Present: An anniversary reminds us of history.",
+    "Past: The anniversary was celebrated nationwide.",
+    "Future: The anniversary will be marked tomorrow.",
+    "Perfect: The country has reached its 75th anniversary."
+   ]
+  },
+  {
+   "id": "pack2-card-442",
+   "mode": "vocab",
+   "word": "Legacy",
+   "pron": "(noun)",
+   "def": "Something handed down from the past.\nहिंदी: विरासत / धरोहर",
+   "examples": [
+    "Present: A legacy outlives its creator.",
+    "Past: He left a legacy of kindness.",
+    "Future: Her legacy will inspire many.",
+    "Perfect: The leader has built a lasting legacy."
+   ]
+  },
+  {
+   "id": "pack2-card-443",
+   "mode": "vocab",
+   "word": "Icon",
+   "pron": "(noun)",
+   "def": "A widely admired person or symbol.\nहिंदी: प्रतीक / आइकन",
+   "examples": [
+    "Present: An icon inspires people.",
+    "Past: She became a cultural icon.",
+    "Future: He will remain an icon.",
+    "Perfect: The singer has become a global icon."
+   ]
+  },
+  {
+   "id": "pack2-card-444",
+   "mode": "vocab",
+   "word": "Veteran",
+   "pron": "(noun)",
+   "def": "A person with long experience, especially in the military.\nहिंदी: अनुभवी / भूतपूर्व सैनिक",
+   "examples": [
+    "Present: A veteran shares hard-won lessons.",
+    "Past: The veteran retired in 2010.",
+    "Future: The veteran will receive an award.",
+    "Perfect: He has served as a veteran journalist."
+   ]
+  },
+  {
+   "id": "pack2-card-445",
+   "mode": "vocab",
+   "word": "Prodigy",
+   "pron": "(noun)",
+   "def": "A young person with exceptional talent.\nहिंदी: अद्भुत प्रतिभा",
+   "examples": [
+    "Present: A prodigy masters skills early.",
+    "Past: He was a chess prodigy.",
+    "Future: The prodigy will perform tonight.",
+    "Perfect: She has been called a prodigy."
+   ]
+  },
+  {
+   "id": "pack2-card-446",
+   "mode": "vocab",
+   "word": "Athlete",
+   "pron": "(noun)",
+   "def": "A person trained for sports.\nहिंदी: खिलाड़ी / एथलीट",
+   "examples": [
+    "Present: An athlete trains daily.",
+    "Past: The athlete broke a record.",
+    "Future: The athlete will compete in Paris.",
+    "Perfect: She has won three medals."
+   ]
+  },
+  {
+   "id": "pack2-card-447",
+   "mode": "vocab",
+   "word": "Tournament",
+   "pron": "(noun)",
+   "def": "A series of contests to find a winner.\nहिंदी: टूर्नामेंट",
+   "examples": [
+    "Present: A tournament lasts several days.",
+    "Past: The tournament ended in a draw.",
+    "Future: The tournament will begin in June.",
+    "Perfect: The team has reached the tournament final."
+   ]
+  },
+  {
+   "id": "pack2-card-448",
+   "mode": "vocab",
+   "word": "Defeat",
+   "pron": "(noun)",
+   "def": "Failure to win.\nहिंदी: हार",
+   "examples": [
+    "Present: A defeat teaches humility.",
+    "Past: The team suffered a heavy defeat.",
+    "Future: A defeat will end their hopes.",
+    "Perfect: They have avoided defeat all season."
+   ]
+  },
+  {
+   "id": "pack2-card-449",
+   "mode": "vocab",
+   "word": "Triumph",
+   "pron": "(noun)",
+   "def": "A great victory or achievement.\nहिंदी: विजय / सफलता",
+   "examples": [
+    "Present: A triumph brings joy.",
+    "Past: The win was a triumph for the team.",
+    "Future: Success will be a triumph for the nation.",
+    "Perfect: The film has been a triumph."
+   ]
+  },
+  {
+   "id": "pack2-card-450",
+   "mode": "vocab",
+   "word": "Rival",
+   "pron": "(noun)",
+   "def": "A person or team competing with another.\nहिंदी: प्रतिद्वंद्वी",
+   "examples": [
+    "Present: A rival pushes you to improve.",
+    "Past: The rival beat him in the final.",
+    "Future: The rival will challenge her again.",
+    "Perfect: The two have been rivals for years."
+   ]
+  },
+  {
+   "id": "pack2-card-451",
+   "mode": "vocab",
+   "word": "Spectator",
+   "pron": "(noun)",
+   "def": "A person watching an event.\nहिंदी: दर्शक",
+   "examples": [
+    "Present: A spectator cheers for the team.",
+    "Past: A spectator caught the ball.",
+    "Future: Spectators will fill the stadium.",
+    "Perfect: Thousands of spectators have arrived."
+   ]
+  },
+  {
+   "id": "pack2-card-452",
+   "mode": "vocab",
+   "word": "Stadium",
+   "pron": "(noun)",
+   "def": "A large arena for sports events.\nहिंदी: स्टेडियम",
+   "examples": [
+    "Present: A stadium holds many fans.",
+    "Past: The stadium was packed.",
+    "Future: The stadium will host the final.",
+    "Perfect: The city has built a new stadium."
+   ]
+  },
+  {
+   "id": "pack2-card-453",
+   "mode": "vocab",
+   "word": "Coach",
+   "pron": "(noun)",
+   "def": "A person who trains athletes or teams.\nहिंदी: प्रशिक्षक",
+   "examples": [
+    "Present: A coach plans training.",
+    "Past: The coach resigned after the loss.",
+    "Future: The coach will announce the squad.",
+    "Perfect: The coach has led the team to victory."
+   ]
+  },
+  {
+   "id": "pack2-card-454",
+   "mode": "vocab",
+   "word": "Squad",
+   "pron": "(noun)",
+   "def": "A group selected for a team or task.\nहिंदी: दल",
+   "examples": [
+    "Present: A squad needs balance.",
+    "Past: The squad was announced last week.",
+    "Future: The squad will travel on Monday.",
+    "Perfect: The coach has picked a young squad."
+   ]
+  },
+  {
+   "id": "pack2-card-455",
+   "mode": "vocab",
+   "word": "Qualify",
+   "pron": "(verb)",
+   "def": "To meet the conditions to enter or continue.\nहिंदी: क्वालीफ़ाई करना",
+   "examples": [
+    "Present: Teams qualify through rounds.",
+    "Past: They qualified for the final.",
+    "Future: She will qualify if she wins.",
+    "Perfect: He has qualified for the Olympics."
+   ]
+  },
+  {
+   "id": "pack2-card-456",
+   "mode": "vocab",
+   "word": "Medal",
+   "pron": "(noun)",
+   "def": "A metal disc awarded for achievement.\nहिंदी: पदक",
+   "examples": [
+    "Present: A medal rewards excellence.",
+    "Past: She won a gold medal.",
+    "Future: He will compete for a medal.",
+    "Perfect: The nation has collected ten medals."
+   ]
+  },
+  {
+   "id": "pack2-card-457",
+   "mode": "vocab",
+   "word": "Record",
+   "pron": "(noun)",
+   "def": "The best performance ever achieved.\nहिंदी: रिकॉर्ड",
+   "examples": [
+    "Present: A record inspires athletes.",
+    "Past: She broke the world record.",
+    "Future: He will try to break the record.",
+    "Perfect: The team has set a new record."
+   ]
+  },
+  {
+   "id": "pack2-card-458",
+   "mode": "vocab",
+   "word": "Fitness",
+   "pron": "(noun)",
+   "def": "The condition of being physically healthy.\nहिंदी: तंदुरुस्ती",
+   "examples": [
+    "Present: Fitness needs regular exercise.",
+    "Past: Fitness improved after training.",
+    "Future: Fitness will decide the winner.",
+    "Perfect: Players have maintained high fitness."
+   ]
+  },
+  {
+   "id": "pack2-card-459",
+   "mode": "vocab",
+   "word": "Endurance",
+   "pron": "(noun)",
+   "def": "The ability to keep going despite difficulty.\nहिंदी: सहनशक्ति",
+   "examples": [
+    "Present: Endurance matters in long races.",
+    "Past: Endurance carried her through the marathon.",
+    "Future: Endurance will be tested on the climb.",
+    "Perfect: He has shown great endurance."
+   ]
+  },
+  {
+   "id": "pack2-card-460",
+   "mode": "vocab",
+   "word": "Discipline",
+   "pron": "(noun)",
+   "def": "Training oneself to follow rules and routines.\nहिंदी: अनुशासन",
+   "examples": [
+    "Present: Discipline leads to success.",
+    "Past: Discipline helped him pass the exam.",
+    "Future: Discipline will keep the team strong.",
+    "Perfect: The coach has instilled discipline."
+   ]
+  },
+  {
+   "id": "pack2-card-461",
+   "mode": "vocab",
+   "word": "Compete",
+   "pron": "(verb)",
+   "def": "To try to win against others.\nहिंदी: प्रतिस्पर्धा करना",
+   "examples": [
+    "Present: Firms compete for customers.",
+    "Past: She competed in three events.",
+    "Future: Teams will compete next month.",
+    "Perfect: He has competed at the national level."
+   ]
+  },
+  {
+   "id": "pack2-card-462",
+   "mode": "vocab",
+   "word": "Spirit",
+   "pron": "(noun)",
+   "def": "A strong feeling or mood, like team spirit.\nहिंदी: भावना / उत्साह",
+   "examples": [
+    "Present: Team spirit lifts performance.",
+    "Past: Spirit carried them through the storm.",
+    "Future: Spirit will matter in the final.",
+    "Perfect: The crowd has shown great spirit."
+   ]
+  },
+  {
+   "id": "pack2-card-463",
+   "mode": "vocab",
+   "word": "Sportsmanship",
+   "pron": "(noun)",
+   "def": "Fair and generous behaviour in sport.\nहिंदी: खेल भावना",
+   "examples": [
+    "Present: Sportsmanship earns respect.",
+    "Past: His sportsmanship impressed fans.",
+    "Future: Sportsmanship will be rewarded.",
+    "Perfect: The team has shown true sportsmanship."
+   ]
+  },
+  {
+   "id": "pack2-card-464",
+   "mode": "vocab",
+   "word": "Anthem",
+   "pron": "(noun)",
+   "def": "A song of identity for a nation or team.\nहिंदी: राष्ट्रगान / गीत",
+   "examples": [
+    "Present: An anthem unites crowds.",
+    "Past: The anthem played before the match.",
+    "Future: The anthem will be sung at the start.",
+    "Perfect: The team has learned the anthem."
+   ]
+  },
+  {
+   "id": "pack2-card-465",
+   "mode": "vocab",
+   "word": "Landmark",
+   "pron": "(noun)",
+   "def": "A major event or a well-known place.\nहिंदी: ऐतिहासिक मील का पत्थर / प्रसिद्ध स्थल",
+   "examples": [
+    "Present: A landmark guides visitors.",
+    "Past: The ruling was a landmark in law.",
+    "Future: The tower will remain a landmark.",
+    "Perfect: The building has become a city landmark."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 01 - Work & Engineering Communication",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "escalate",
+      "definition": "To raise an issue to a higher authority for resolution (मामला ऊपर के अधिकारी तक ले जाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "If the vendor doesn't respond by noon, I'll escalate it to the incident manager."
+    },
+    {
+      "id": "2",
+      "word": "mitigate",
+      "definition": "To reduce the severity or impact of a problem (प्रभाव कम करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We mitigated the outage by routing traffic to the secondary region."
+    },
+    {
+      "id": "3",
+      "word": "remediate",
+      "definition": "To fix or correct a problem, especially a vulnerability (सुधारना / उपचार करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The security team asked us to remediate the critical findings within a week."
+    },
+    {
+      "id": "4",
+      "word": "triage",
+      "definition": "To prioritise issues by urgency and impact (प्राथमिकता तय करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's triage the open bugs before planning the sprint."
+    },
+    {
+      "id": "5",
+      "word": "regression",
+      "definition": "A bug where previously working functionality breaks (पहले काम करने वाली चीज़ का फिर से ख़राब होना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The latest release introduced a regression in the file-parsing logic."
+    },
+    {
+      "id": "6",
+      "word": "workaround",
+      "definition": "A temporary way to avoid a problem without fixing the root cause (अस्थायी समाधान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We have a workaround for now, but the permanent fix is in the next sprint."
+    },
+    {
+      "id": "7",
+      "word": "root cause",
+      "definition": "The underlying reason a problem occurs (मूल कारण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The root cause was an expired certificate, not the network."
+    },
+    {
+      "id": "8",
+      "word": "postmortem",
+      "definition": "A structured review held after an incident (घटना के बाद की समीक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We will share the postmortem with all stakeholders by Friday."
+    },
+    {
+      "id": "9",
+      "word": "stakeholder",
+      "definition": "A person or group with an interest in a project's outcome (हितधारक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Every stakeholder needs to sign off before we go live."
+    },
+    {
+      "id": "10",
+      "word": "deliverable",
+      "definition": "A tangible output promised as part of a project (वितरण योग्य परिणाम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The main deliverable for this milestone is the migration runbook."
+    },
+    {
+      "id": "11",
+      "word": "milestone",
+      "definition": "A significant checkpoint in a project (मील का पत्थर / प्रमुख पड़ाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We hit the second milestone two days ahead of schedule."
+    },
+    {
+      "id": "12",
+      "word": "scope creep",
+      "definition": "Uncontrolled growth of project requirements (दायरे का अनियंत्रित बढ़ना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Adding reporting to this release is classic scope creep."
+    },
+    {
+      "id": "13",
+      "word": "bandwidth",
+      "definition": "Available capacity of a person or team to take on work (काम करने की क्षमता/समय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "I don't have the bandwidth to take on another migration this quarter."
+    },
+    {
+      "id": "14",
+      "word": "backlog",
+      "definition": "A list of pending work items (लंबित कार्यों की सूची)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The backlog has grown to over three hundred tickets."
+    },
+    {
+      "id": "15",
+      "word": "dependency",
+      "definition": "Something that must be completed or available before other work can proceed (निर्भरता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The biggest dependency is the upstream team's API release."
+    },
+    {
+      "id": "16",
+      "word": "blocker",
+      "definition": "Something that prevents progress (रुकावट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Access to the staging database is our main blocker."
+    },
+    {
+      "id": "17",
+      "word": "unblock",
+      "definition": "To remove an obstacle so work can continue (रुकावट हटाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Could you unblock me by approving the access request?"
+    },
+    {
+      "id": "18",
+      "word": "ownership",
+      "definition": "Responsibility and accountability for a piece of work (ज़िम्मेदारी लेना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The team needs clearer ownership of the ingestion pipeline."
+    },
+    {
+      "id": "19",
+      "word": "accountable",
+      "definition": "Required to explain or justify one's actions (जवाबदेह)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Each lead is accountable for the quality of their module."
+    },
+    {
+      "id": "20",
+      "word": "handover",
+      "definition": "The transfer of responsibility or knowledge to another person (कार्यभार हस्तांतरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She prepared a detailed handover document before going on leave."
+    },
+    {
+      "id": "21",
+      "word": "onboarding",
+      "definition": "The process of integrating a new person into a team (नए सदस्य को टीम से जोड़ने की प्रक्रिया)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Good onboarding cuts a new hire's ramp-up time in half."
+    },
+    {
+      "id": "22",
+      "word": "ramp up",
+      "definition": "To increase speed, output or familiarity gradually (धीरे-धीरे गति बढ़ाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "It takes about a month for new engineers to ramp up on the codebase."
+    },
+    {
+      "id": "23",
+      "word": "ballpark",
+      "definition": "A rough estimate (मोटा अनुमान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Can you give me a ballpark figure for the effort?"
+    },
+    {
+      "id": "24",
+      "word": "estimate",
+      "definition": "An approximate calculation of effort, time or cost (अनुमान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our estimate assumes the API contract doesn't change."
+    },
+    {
+      "id": "25",
+      "word": "contingency",
+      "definition": "A provision for an unexpected event (आकस्मिक योजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We built two days of contingency into the plan."
+    },
+    {
+      "id": "26",
+      "word": "timeline",
+      "definition": "A schedule showing when events are expected (समय-सीमा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The vendor delay pushes our timeline by a week."
+    },
+    {
+      "id": "27",
+      "word": "slip",
+      "definition": "To fall behind schedule (समय से पीछे खिसकना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The release date slipped because of late security approvals."
+    },
+    {
+      "id": "28",
+      "word": "prioritise",
+      "definition": "To decide which tasks are most important (प्राथमिकता देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We need to prioritise the fixes that affect clients."
+    },
+    {
+      "id": "29",
+      "word": "deprioritise",
+      "definition": "To lower the importance of a task (प्राथमिकता घटाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The dashboard work was deprioritised in favour of the outage fix."
+    },
+    {
+      "id": "30",
+      "word": "descope",
+      "definition": "To remove items from a project's scope (दायरा घटाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "To hit the date, we had to descope the reporting module."
+    },
+    {
+      "id": "31",
+      "word": "alignment",
+      "definition": "Agreement among people on goals or approach (सहमति / तालमेल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We need alignment on the definition of done before starting."
+    },
+    {
+      "id": "32",
+      "word": "sync",
+      "definition": "A short meeting to share updates and align (संक्षिप्त समन्वय बैठक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Let's have a quick sync after the standup."
+    },
+    {
+      "id": "33",
+      "word": "walkthrough",
+      "definition": "A guided, step-by-step explanation (क्रमवार समझाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "I'll record a walkthrough of the deployment process."
+    },
+    {
+      "id": "34",
+      "word": "runbook",
+      "definition": "A documented procedure for operating or recovering a system (संचालन प्रक्रिया दस्तावेज़)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Follow the runbook if the consumer lag keeps growing."
+    },
+    {
+      "id": "35",
+      "word": "playbook",
+      "definition": "A set of established steps for handling a situation (कार्य-योजना की रूपरेखा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We have a playbook for vendor file delays."
+    },
+    {
+      "id": "36",
+      "word": "SLA",
+      "definition": "A formal commitment on service levels such as response time (सेवा स्तर समझौता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We breached the SLA for file delivery twice last month."
+    },
+    {
+      "id": "37",
+      "word": "uptime",
+      "definition": "The proportion of time a system is operational (सिस्टम चालू रहने का समय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The platform maintained 99.95 percent uptime this quarter."
+    },
+    {
+      "id": "38",
+      "word": "downtime",
+      "definition": "A period when a system is unavailable (सिस्टम बंद रहने का समय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Planned downtime is scheduled for Sunday night."
+    },
+    {
+      "id": "39",
+      "word": "outage",
+      "definition": "A period when a service fails completely (सेवा का पूरी तरह बंद होना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The outage lasted forty minutes and affected two vendors."
+    },
+    {
+      "id": "40",
+      "word": "degradation",
+      "definition": "A decline in performance or quality (प्रदर्शन में गिरावट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We observed a gradual degradation in query latency."
+    },
+    {
+      "id": "41",
+      "word": "latency",
+      "definition": "The delay between a request and its response (विलंब)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The added hop increased latency by about 40 milliseconds."
+    },
+    {
+      "id": "42",
+      "word": "throughput",
+      "definition": "The amount of work processed in a given time (प्रति इकाई समय में प्रसंस्कृत कार्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Batching improved throughput without raising costs."
+    },
+    {
+      "id": "43",
+      "word": "bottleneck",
+      "definition": "A point that limits overall performance (अवरोध बिंदु)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The database writes are the bottleneck, not the parsing."
+    },
+    {
+      "id": "44",
+      "word": "spike",
+      "definition": "A sudden sharp increase (अचानक तेज़ उछाल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There was a spike in error rates right after the deploy."
+    },
+    {
+      "id": "45",
+      "word": "anomaly",
+      "definition": "Something that deviates from what is normal (असामान्य विचलन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The monitoring flagged an anomaly in the daily file counts."
+    },
+    {
+      "id": "46",
+      "word": "flaky",
+      "definition": "Unreliable and inconsistently failing (अविश्वसनीय / कभी चलने कभी न चलने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "That integration test is flaky and fails one run in ten."
+    },
+    {
+      "id": "47",
+      "word": "brittle",
+      "definition": "Easily broken by small changes (नाज़ुक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The parser is brittle and breaks whenever a vendor changes a header."
+    },
+    {
+      "id": "48",
+      "word": "robust",
+      "definition": "Strong and able to handle errors or stress (मज़बूत)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We need a more robust retry mechanism."
+    },
+    {
+      "id": "49",
+      "word": "resilient",
+      "definition": "Able to recover quickly from failure (लचीला / उबरने में सक्षम)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A resilient pipeline keeps running when one vendor feed fails."
+    },
+    {
+      "id": "50",
+      "word": "idempotent",
+      "definition": "Producing the same result however many times it runs (बार-बार चलाने पर भी समान परिणाम देने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Make the consumer idempotent so replays don't create duplicates."
+    },
+    {
+      "id": "51",
+      "word": "deterministic",
+      "definition": "Always producing the same output for the same input (निश्चित परिणाम देने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Tests should be deterministic, not dependent on timing."
+    },
+    {
+      "id": "52",
+      "word": "graceful",
+      "definition": "Handling failure without abrupt breakage (सहज रूप से संभालने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We need graceful degradation when the vendor API is down."
+    },
+    {
+      "id": "53",
+      "word": "backward compatible",
+      "definition": "Working with earlier versions without breaking (पुराने संस्करणों के साथ भी चलने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The new schema must remain backward compatible with existing consumers."
+    },
+    {
+      "id": "54",
+      "word": "deprecate",
+      "definition": "To mark something as obsolete and discourage its use (अप्रचलित घोषित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We will deprecate the v1 endpoint at the end of the year."
+    },
+    {
+      "id": "55",
+      "word": "decommission",
+      "definition": "To retire a system from service (सेवा से हटाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The legacy batch job was finally decommissioned."
+    },
+    {
+      "id": "56",
+      "word": "refactor",
+      "definition": "To restructure code without changing its behaviour (कोड की संरचना सुधारना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I'd like to refactor this module before adding more features."
+    },
+    {
+      "id": "57",
+      "word": "technical debt",
+      "definition": "Future cost of choosing a quick solution now (तकनीकी उधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We are paying interest on technical debt every sprint."
+    },
+    {
+      "id": "58",
+      "word": "boilerplate",
+      "definition": "Repetitive standard code written again and again (दोहराया जाने वाला मानक कोड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Annotations removed most of the boilerplate."
+    },
+    {
+      "id": "59",
+      "word": "abstraction",
+      "definition": "Hiding complexity behind a simpler interface (जटिलता छुपाकर सरल रूप देना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "This abstraction leaks implementation details to callers."
+    },
+    {
+      "id": "60",
+      "word": "encapsulate",
+      "definition": "To enclose details within a single unit or module (विवरण को एक इकाई में समेटना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Encapsulate the vendor-specific logic behind one interface."
+    },
+    {
+      "id": "61",
+      "word": "decouple",
+      "definition": "To reduce the dependence between components (आपसी निर्भरता घटाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Using events lets us decouple ingestion from reporting."
+    },
+    {
+      "id": "62",
+      "word": "modular",
+      "definition": "Built from independent, interchangeable parts (मॉड्यूल आधारित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A modular design makes vendor onboarding faster."
+    },
+    {
+      "id": "63",
+      "word": "maintainable",
+      "definition": "Easy to update and fix over time (आसानी से रखरखाव योग्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Readable names make the code more maintainable."
+    },
+    {
+      "id": "64",
+      "word": "scalable",
+      "definition": "Able to handle growth in load or size (विस्तार योग्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The design is scalable up to ten times the current volume."
+    },
+    {
+      "id": "65",
+      "word": "extensible",
+      "definition": "Designed to be easily extended with new features (आसानी से बढ़ाने योग्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "An extensible rule engine saves us rework later."
+    },
+    {
+      "id": "66",
+      "word": "observability",
+      "definition": "The ability to understand a system's state from its outputs (प्रणाली की स्थिति समझने की क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Better observability would have shortened this incident."
+    },
+    {
+      "id": "67",
+      "word": "telemetry",
+      "definition": "Automatically collected data about system behaviour (प्रणाली से स्वचालित रूप से एकत्र डेटा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We emit telemetry on every file processed."
+    },
+    {
+      "id": "68",
+      "word": "instrument",
+      "definition": "To add monitoring or measurement to code (निगरानी जोड़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's instrument the retry path so we can see how often it fires."
+    },
+    {
+      "id": "69",
+      "word": "alerting",
+      "definition": "Automated notification when metrics cross thresholds (चेतावनी सूचना व्यवस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our alerting is too noisy to be useful."
+    },
+    {
+      "id": "70",
+      "word": "threshold",
+      "definition": "A limit at which something changes or triggers (सीमा-स्तर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The alert fires when lag crosses the threshold for five minutes."
+    },
+    {
+      "id": "71",
+      "word": "baseline",
+      "definition": "A reference measurement used for comparison (तुलना हेतु आधार स्तर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We need a baseline before we can claim an improvement."
+    },
+    {
+      "id": "72",
+      "word": "benchmark",
+      "definition": "A standard or test used to compare performance (मानक परीक्षण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The benchmark shows a thirty percent gain in parsing speed."
+    },
+    {
+      "id": "73",
+      "word": "profiling",
+      "definition": "Analysing where a program spends time or memory (कोड के समय/मेमोरी उपयोग का विश्लेषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Profiling revealed that serialisation was the hot spot."
+    },
+    {
+      "id": "74",
+      "word": "optimise",
+      "definition": "To make something as efficient as possible (अनुकूलित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Optimise the query only after measuring it."
+    },
+    {
+      "id": "75",
+      "word": "premature optimisation",
+      "definition": "Optimising before knowing it is necessary (समय से पहले अनुकूलन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Caching everything now would be premature optimisation."
+    },
+    {
+      "id": "76",
+      "word": "trade-off",
+      "definition": "A balance between two competing benefits (समझौता / लाभ-हानि का संतुलन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Speed versus accuracy is the trade-off here."
+    },
+    {
+      "id": "77",
+      "word": "constraint",
+      "definition": "A limitation that restricts options (बाध्यता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our main constraint is the vendor's rate limit."
+    },
+    {
+      "id": "78",
+      "word": "assumption",
+      "definition": "Something accepted as true without proof (मान्यता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Let's validate that assumption before committing."
+    },
+    {
+      "id": "79",
+      "word": "validate",
+      "definition": "To check that something is correct or acceptable (सत्यापित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We validate each file against the schema on arrival."
+    },
+    {
+      "id": "80",
+      "word": "verify",
+      "definition": "To confirm that something is true (पुष्टि करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Please verify the numbers before sending the report."
+    },
+    {
+      "id": "81",
+      "word": "reconcile",
+      "definition": "To make two sets of data or accounts agree (मिलान करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We reconcile the vendor totals with our own counts every night."
+    },
+    {
+      "id": "82",
+      "word": "discrepancy",
+      "definition": "A difference between things that should match (असंगति / अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There's a discrepancy between the two price feeds."
+    },
+    {
+      "id": "83",
+      "word": "inconsistency",
+      "definition": "A lack of agreement or uniformity (असंगति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The inconsistency in date formats caused the failures."
+    },
+    {
+      "id": "84",
+      "word": "ambiguity",
+      "definition": "Uncertainty because something can be read in more than one way (अस्पष्टता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The ticket's ambiguity led to two different implementations."
+    },
+    {
+      "id": "85",
+      "word": "clarify",
+      "definition": "To make something easier to understand (स्पष्ट करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Could you clarify what you mean by real time?"
+    },
+    {
+      "id": "86",
+      "word": "elaborate",
+      "definition": "To give more detail about something (विस्तार से बताना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Could you elaborate on why that approach worries you?"
+    },
+    {
+      "id": "87",
+      "word": "articulate",
+      "definition": "To express an idea clearly and effectively (स्पष्ट रूप से व्यक्त करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She articulated the risks without sounding alarmist."
+    },
+    {
+      "id": "88",
+      "word": "concise",
+      "definition": "Brief but comprehensive (संक्षिप्त और सारगर्भित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Keep the update concise and lead with the impact."
+    },
+    {
+      "id": "89",
+      "word": "succinct",
+      "definition": "Briefly and clearly expressed (संक्षेप में कहा गया)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Her succinct summary saved the meeting ten minutes."
+    },
+    {
+      "id": "90",
+      "word": "comprehensive",
+      "definition": "Complete and covering all aspects (व्यापक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We wrote comprehensive documentation for the new service."
+    },
+    {
+      "id": "91",
+      "word": "thorough",
+      "definition": "Careful and complete (गहन / संपूर्ण)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "He did a thorough review and caught three edge cases."
+    },
+    {
+      "id": "92",
+      "word": "meticulous",
+      "definition": "Showing great attention to detail (अत्यंत सावधान / बारीकी वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Her meticulous testing prevented a costly release bug."
+    },
+    {
+      "id": "93",
+      "word": "rigorous",
+      "definition": "Strict and carefully precise (कठोर और सटीक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We apply a rigorous review process to every change."
+    },
+    {
+      "id": "94",
+      "word": "pragmatic",
+      "definition": "Practical rather than idealistic (व्यावहारिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A pragmatic fix now is better than a perfect one next quarter."
+    },
+    {
+      "id": "95",
+      "word": "diligence",
+      "definition": "Careful and persistent effort (परिश्रम और सावधानी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We completed due diligence on the vendor's data quality."
+    },
+    {
+      "id": "96",
+      "word": "due diligence",
+      "definition": "Thorough investigation before a decision or agreement (निर्णय से पहले की गहन जाँच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Please do your due diligence before adopting the library."
+    },
+    {
+      "id": "97",
+      "word": "proactive",
+      "definition": "Acting in advance to deal with expected issues (पहले से सक्रिय रहने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Being proactive with vendors avoided another late-file incident."
+    },
+    {
+      "id": "98",
+      "word": "reactive",
+      "definition": "Responding only after a problem occurs (घटना के बाद प्रतिक्रिया देने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Our support has been too reactive and needs better monitoring."
+    },
+    {
+      "id": "99",
+      "word": "streamline",
+      "definition": "To make a process simpler and more efficient (प्रक्रिया को सरल व कुशल बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The new template streamlines vendor onboarding."
+    },
+    {
+      "id": "100",
+      "word": "automate",
+      "definition": "To make a process run without manual effort (स्वचालित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We automated the daily reconciliation checks."
+    },
+    {
+      "id": "101",
+      "word": "standardise",
+      "definition": "To make things conform to a common standard (मानकीकृत करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We need to standardise how errors are logged."
+    },
+    {
+      "id": "102",
+      "word": "consolidate",
+      "definition": "To combine several things into one (एकीकृत करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We consolidated three similar jobs into one."
+    },
+    {
+      "id": "103",
+      "word": "leverage",
+      "definition": "To use something to maximum advantage (का भरपूर लाभ उठाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We can leverage the existing validation library."
+    },
+    {
+      "id": "104",
+      "word": "utilise",
+      "definition": "To make practical use of something (उपयोग में लाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The team utilises serverless functions for lightweight tasks."
+    },
+    {
+      "id": "105",
+      "word": "facilitate",
+      "definition": "To make an action or process easier (सुविधाजनक बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The new tool facilitates faster vendor onboarding."
+    },
+    {
+      "id": "106",
+      "word": "expedite",
+      "definition": "To speed up the progress of something (तेज़ी से निपटाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Can we expedite the approval given the deadline?"
+    },
+    {
+      "id": "107",
+      "word": "streamlined",
+      "definition": "Efficient and free of unnecessary steps (सुव्यवस्थित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The streamlined deploy process takes five minutes."
+    },
+    {
+      "id": "108",
+      "word": "turnaround",
+      "definition": "The time taken to complete a task after receiving it (कार्य पूरा होने में लगा समय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our turnaround on support tickets is under a day."
+    },
+    {
+      "id": "109",
+      "word": "traceability",
+      "definition": "The ability to track an item through its lifecycle (ट्रैक करने की क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Audit requirements demand full traceability of each file."
+    },
+    {
+      "id": "110",
+      "word": "audit trail",
+      "definition": "A chronological record of actions for review (कार्यों का क्रमवार रिकॉर्ड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Every manual change must leave an audit trail."
+    },
+    {
+      "id": "111",
+      "word": "compliance",
+      "definition": "Adherence to rules, laws or standards (अनुपालन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The release needs a compliance review before deployment."
+    },
+    {
+      "id": "112",
+      "word": "governance",
+      "definition": "The framework of rules and responsibilities for decisions (शासन प्रणाली)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Data governance defines who can change a dataset."
+    },
+    {
+      "id": "113",
+      "word": "mandate",
+      "definition": "An official instruction or requirement (आदेश / अनिवार्यता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The new mandate requires encryption for all stored files."
+    },
+    {
+      "id": "114",
+      "word": "sign-off",
+      "definition": "Formal approval to proceed (औपचारिक स्वीकृति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We still need sign-off from the risk team."
+    },
+    {
+      "id": "115",
+      "word": "rollout",
+      "definition": "The gradual release of a change to users (चरणबद्ध लॉन्च)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The rollout will happen region by region."
+    },
+    {
+      "id": "116",
+      "word": "rollback",
+      "definition": "Reverting a system to a previous state (पिछली स्थिति में लौटाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We triggered a rollback within ten minutes of the alert."
+    },
+    {
+      "id": "117",
+      "word": "hotfix",
+      "definition": "An urgent fix released outside the normal cycle (आपातकालीन सुधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A hotfix went out overnight to stop the data loss."
+    },
+    {
+      "id": "118",
+      "word": "cutover",
+      "definition": "The moment of switching from an old system to a new one (पुराने से नए सिस्टम में बदलाव का क्षण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The cutover is planned for the weekend."
+    },
+    {
+      "id": "119",
+      "word": "canary release",
+      "definition": "Releasing to a small group first to detect problems (पहले छोटे समूह में रिलीज़)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A canary release exposed the memory leak early."
+    },
+    {
+      "id": "120",
+      "word": "feature flag",
+      "definition": "A switch that enables or disables a feature without redeploying (फ़ीचर चालू/बंद करने वाला स्विच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Put the change behind a feature flag so we can disable it quickly."
+    },
+    {
+      "id": "121",
+      "word": "staging",
+      "definition": "A pre-production environment that mimics production (उत्पादन से पहले का परीक्षण वातावरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Please verify the fix in staging first."
+    },
+    {
+      "id": "122",
+      "word": "parity",
+      "definition": "The state of being equal or equivalent (समानता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Staging should have parity with production."
+    },
+    {
+      "id": "123",
+      "word": "drift",
+      "definition": "Gradual divergence from an intended state (धीरे-धीरे भटकाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Configuration drift caused the environments to behave differently."
+    },
+    {
+      "id": "124",
+      "word": "provision",
+      "definition": "To set up and make resources available (संसाधन उपलब्ध कराना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Terraform provisions the entire environment in minutes."
+    },
+    {
+      "id": "125",
+      "word": "orchestrate",
+      "definition": "To coordinate multiple components or tasks (कई घटकों का समन्वय करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Step Functions orchestrate the whole ingestion workflow."
+    },
+    {
+      "id": "126",
+      "word": "ingest",
+      "definition": "To take in data for processing (डेटा ग्रहण करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The platform ingests over a thousand files every day."
+    },
+    {
+      "id": "127",
+      "word": "propagate",
+      "definition": "To spread or transmit through a system (फैलना / आगे पहुँचना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The change takes a few minutes to propagate to all regions."
+    },
+    {
+      "id": "128",
+      "word": "throttle",
+      "definition": "To deliberately limit the rate of requests (गति सीमित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The API throttles us after one hundred requests per minute."
+    },
+    {
+      "id": "129",
+      "word": "backoff",
+      "definition": "A strategy of waiting longer between retries (पुनः प्रयास में बढ़ता अंतराल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Use exponential backoff to avoid overloading the vendor."
+    },
+    {
+      "id": "130",
+      "word": "failover",
+      "definition": "Automatic switch to a standby system on failure (विफलता पर स्टैंडबाय पर स्विच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Failover to the secondary region took about two minutes."
+    },
+    {
+      "id": "131",
+      "word": "redundancy",
+      "definition": "Duplicate components that provide backup (अतिरिक्त बैकअप व्यवस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Redundancy at the queue level protects against data loss."
+    },
+    {
+      "id": "132",
+      "word": "fault tolerance",
+      "definition": "A system's ability to continue despite failures (दोष सहनशीलता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Kafka gives us strong fault tolerance for event delivery."
+    },
+    {
+      "id": "133",
+      "word": "single point of failure",
+      "definition": "A component whose failure stops the whole system (एकल विफलता बिंदु)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The shared config server is a single point of failure."
+    },
+    {
+      "id": "134",
+      "word": "race condition",
+      "definition": "A bug caused by the timing of concurrent operations (समयबद्धता पर निर्भर बग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The duplicate rows came from a race condition between two consumers."
+    },
+    {
+      "id": "135",
+      "word": "deadlock",
+      "definition": "A situation where processes wait on each other forever (आपसी प्रतीक्षा में अटकना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Two transactions caused a deadlock in the database."
+    },
+    {
+      "id": "136",
+      "word": "concurrency",
+      "definition": "Multiple tasks making progress at overlapping times (समवर्तिता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Concurrency bugs are hard to reproduce."
+    },
+    {
+      "id": "137",
+      "word": "asynchronous",
+      "definition": "Not happening at the same time or in sequence (अतुल्यकालिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We process files asynchronously to keep the API responsive."
+    },
+    {
+      "id": "138",
+      "word": "payload",
+      "definition": "The actual data carried in a message or request (संदेश का मुख्य डेटा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The payload exceeded the size limit of the queue."
+    },
+    {
+      "id": "139",
+      "word": "schema",
+      "definition": "The defined structure of data (डेटा की संरचना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The vendor changed the schema without notice."
+    },
+    {
+      "id": "140",
+      "word": "contract",
+      "definition": "An agreed interface between systems or teams (सहमत इंटरफ़ेस समझौता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We must agree on the API contract before building."
+    },
+    {
+      "id": "141",
+      "word": "payload validation",
+      "definition": "Checking incoming data for correctness (आने वाले डेटा की जाँच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Payload validation rejects malformed files early."
+    },
+    {
+      "id": "142",
+      "word": "edge case",
+      "definition": "An unusual situation at the extreme of normal operation (असामान्य सीमांत स्थिति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Leap-year dates were an edge case we missed."
+    },
+    {
+      "id": "143",
+      "word": "corner case",
+      "definition": "A rare situation involving multiple extreme conditions together (दुर्लभ जटिल स्थिति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The bug only appears in a corner case with empty files and retries."
+    },
+    {
+      "id": "144",
+      "word": "reproducible",
+      "definition": "Able to be recreated consistently (दोहराने योग्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The bug is reproducible with this sample file."
+    },
+    {
+      "id": "145",
+      "word": "intermittent",
+      "definition": "Occurring at irregular intervals (रुक-रुक कर होने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The intermittent timeout is hard to diagnose."
+    },
+    {
+      "id": "146",
+      "word": "sporadic",
+      "definition": "Occurring occasionally and unpredictably (यदा-कदा होने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We saw sporadic failures during peak hours."
+    },
+    {
+      "id": "147",
+      "word": "persistent",
+      "definition": "Continuing without stopping (लगातार बना रहने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A persistent error indicates a configuration problem."
+    },
+    {
+      "id": "148",
+      "word": "pinpoint",
+      "definition": "To identify exactly the cause or location (ठीक-ठीक पहचानना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The logs helped us pinpoint the failing step."
+    },
+    {
+      "id": "149",
+      "word": "isolate",
+      "definition": "To separate something to study it independently (अलग करके जाँचना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "First, isolate the component that's producing bad output."
+    },
+    {
+      "id": "150",
+      "word": "hypothesis",
+      "definition": "A proposed explanation to be tested (परिकल्पना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "My hypothesis is that the cache is serving stale data."
+    },
+    {
+      "id": "151",
+      "word": "corroborate",
+      "definition": "To confirm with additional evidence (अतिरिक्त प्रमाण से पुष्टि करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The metrics corroborate what the customers reported."
+    },
+    {
+      "id": "152",
+      "word": "substantiate",
+      "definition": "To provide evidence supporting a claim (प्रमाण देकर सिद्ध करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Can you substantiate that estimate with historical data?"
+    },
+    {
+      "id": "153",
+      "word": "caveat",
+      "definition": "A warning or condition that qualifies a statement (चेतावनी / शर्त)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "One caveat is that this only works for files under 1 GB."
+    },
+    {
+      "id": "154",
+      "word": "disclaimer",
+      "definition": "A statement limiting responsibility or certainty (अस्वीकरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A quick disclaimer: this is based on partial data."
+    },
+    {
+      "id": "155",
+      "word": "nuance",
+      "definition": "A subtle difference in meaning or detail (सूक्ष्म अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There's a nuance in how vendors define a corrected price."
+    },
+    {
+      "id": "156",
+      "word": "implication",
+      "definition": "A likely consequence or effect (निहितार्थ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "What are the implications for downstream reports?"
+    },
+    {
+      "id": "157",
+      "word": "ramification",
+      "definition": "A complicating consequence of an action (जटिल परिणाम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The ramifications of changing the key are significant."
+    },
+    {
+      "id": "158",
+      "word": "repercussion",
+      "definition": "An unintended consequence, usually negative (दुष्परिणाम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Skipping validation had serious repercussions."
+    },
+    {
+      "id": "159",
+      "word": "mitigation",
+      "definition": "Action taken to reduce harm or risk (जोखिम घटाने की कार्रवाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The mitigation plan includes automatic retries."
+    },
+    {
+      "id": "160",
+      "word": "contingency plan",
+      "definition": "A plan for use if something goes wrong (आपात योजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We need a contingency plan if the vendor misses the deadline."
+    },
+    {
+      "id": "161",
+      "word": "fallback",
+      "definition": "An alternative to use if the main option fails (विकल्प / वैकल्पिक व्यवस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The fallback is to load yesterday's file."
+    },
+    {
+      "id": "162",
+      "word": "safeguard",
+      "definition": "A measure that protects against harm (सुरक्षा उपाय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Validation acts as a safeguard against corrupt data."
+    },
+    {
+      "id": "163",
+      "word": "pitfall",
+      "definition": "A hidden danger or common mistake (छुपा हुआ ख़तरा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A common pitfall is ignoring time zones."
+    },
+    {
+      "id": "164",
+      "word": "gotcha",
+      "definition": "An unexpected catch or hidden difficulty (अनपेक्षित अड़चन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Here's a gotcha: the vendor timestamps are in local time."
+    },
+    {
+      "id": "165",
+      "word": "heads-up",
+      "definition": "An advance warning (पूर्व सूचना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Just a heads-up that the file will arrive late tonight."
+    },
+    {
+      "id": "166",
+      "word": "FYI",
+      "definition": "For your information, a note shared without needing action (आपकी जानकारी के लिए)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "FYI, the deployment window moved to Saturday."
+    },
+    {
+      "id": "167",
+      "word": "ETA",
+      "definition": "Estimated time of arrival or completion (अनुमानित पूर्णता समय)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "What's your ETA on the bug fix?"
+    },
+    {
+      "id": "168",
+      "word": "EOD",
+      "definition": "End of day (दिन का अंत)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "I'll send the summary by EOD."
+    },
+    {
+      "id": "169",
+      "word": "TL;DR",
+      "definition": "A very short summary of a long text (संक्षेप में)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "TL;DR, we need two more weeks to finish safely."
+    },
+    {
+      "id": "170",
+      "word": "touchpoint",
+      "definition": "A point of contact or interaction (संपर्क बिंदु)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We have a weekly touchpoint with the vendor."
+    },
+    {
+      "id": "171",
+      "word": "cadence",
+      "definition": "A regular rhythm or frequency of events (नियमित अंतराल / लय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Let's set a fortnightly cadence for reviews."
+    },
+    {
+      "id": "172",
+      "word": "retrospective",
+      "definition": "A team meeting to reflect on what went well and what didn't (कार्य-समीक्षा बैठक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The retrospective surfaced the same communication gaps."
+    },
+    {
+      "id": "173",
+      "word": "action item",
+      "definition": "A specific task assigned during a meeting (बैठक में तय किया गया कार्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Please capture the action items and owners."
+    },
+    {
+      "id": "174",
+      "word": "takeaway",
+      "definition": "A key lesson or point to remember (मुख्य निष्कर्ष)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "My main takeaway is that we need earlier testing."
+    },
+    {
+      "id": "175",
+      "word": "agenda",
+      "definition": "A list of topics to be discussed (चर्चा-सूची)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Please add this to the agenda for tomorrow."
+    },
+    {
+      "id": "176",
+      "word": "parking lot",
+      "definition": "A place to note off-topic items for later discussion (बाद में चर्चा के लिए रखे गए विषय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Let's put that in the parking lot and return to it later."
+    },
+    {
+      "id": "177",
+      "word": "deep dive",
+      "definition": "An in-depth examination of a topic (गहन अध्ययन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We scheduled a deep dive into the retry logic."
+    },
+    {
+      "id": "178",
+      "word": "whiteboarding",
+      "definition": "Explaining ideas visually on a board (बोर्ड पर चित्र बनाकर समझाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The whiteboarding session clarified the data flow."
+    },
+    {
+      "id": "179",
+      "word": "sanity check",
+      "definition": "A quick test to confirm something is reasonable (त्वरित तर्कसंगतता जाँच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Run a sanity check on the totals before sending."
+    },
+    {
+      "id": "180",
+      "word": "smoke test",
+      "definition": "A basic test to confirm the system starts and works (बुनियादी कार्यक्षमता जाँच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The smoke test failed right after deployment."
+    },
+    {
+      "id": "181",
+      "word": "dry run",
+      "definition": "A rehearsal without real effects (बिना असर वाला अभ्यास)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Do a dry run of the migration first."
+    },
+    {
+      "id": "182",
+      "word": "proof of concept",
+      "definition": "A small demonstration that an idea is feasible (विचार की व्यवहार्यता का प्रदर्शन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We built a proof of concept in two days."
+    },
+    {
+      "id": "183",
+      "word": "feasibility",
+      "definition": "The degree to which something can be done (व्यवहार्यता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We are assessing the feasibility of real-time ingestion."
+    },
+    {
+      "id": "184",
+      "word": "viability",
+      "definition": "The ability to work successfully (व्यवहार्यता / टिकाऊपन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The pilot confirmed the viability of the approach."
+    },
+    {
+      "id": "185",
+      "word": "stand-up",
+      "definition": "A short daily team meeting to share progress and blockers (रोज़ की संक्षिप्त टीम बैठक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Keep your update in the stand-up under a minute."
+    },
+    {
+      "id": "186",
+      "word": "sprint",
+      "definition": "A fixed period in which a team completes planned work (निर्धारित अवधि का कार्य-चक्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We committed to twelve tickets this sprint."
+    },
+    {
+      "id": "187",
+      "word": "velocity",
+      "definition": "The amount of work a team completes in a sprint (टीम की कार्य-गति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our velocity dropped after two engineers left."
+    },
+    {
+      "id": "188",
+      "word": "story points",
+      "definition": "Units used to estimate the effort of a task (कार्य के प्रयास की अनुमान इकाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We estimated the feature at eight story points."
+    },
+    {
+      "id": "189",
+      "word": "definition of done",
+      "definition": "Agreed criteria for a task to be considered finished (कार्य पूर्ण मानने के मानदंड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tests and documentation are part of our definition of done."
+    },
+    {
+      "id": "190",
+      "word": "acceptance criteria",
+      "definition": "Conditions a feature must meet to be accepted (स्वीकृति की शर्तें)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Write clear acceptance criteria before development starts."
+    },
+    {
+      "id": "191",
+      "word": "burndown",
+      "definition": "A chart showing remaining work over time (शेष कार्य दर्शाने वाला चार्ट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The burndown shows we're behind schedule."
+    },
+    {
+      "id": "192",
+      "word": "grooming",
+      "definition": "Reviewing and refining backlog items before planning (बैकलॉग की समीक्षा व परिष्कार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Backlog grooming clarified the vague tickets."
+    },
+    {
+      "id": "193",
+      "word": "code review",
+      "definition": "Examination of code changes by colleagues (सहकर्मियों द्वारा कोड की समीक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A good code review improves both quality and learning."
+    },
+    {
+      "id": "194",
+      "word": "nitpick",
+      "definition": "To criticise minor details excessively (छोटी बातों पर टोकना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I don't want to nitpick, but the variable name is unclear."
+    },
+    {
+      "id": "195",
+      "word": "merge conflict",
+      "definition": "A clash between changes made to the same code (कोड बदलावों का टकराव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "I'll resolve the merge conflict before lunch."
+    },
+    {
+      "id": "196",
+      "word": "rebase",
+      "definition": "To reapply commits on top of another base (कमिट्स को नए आधार पर दोबारा लगाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Please rebase your branch on the latest main."
+    },
+    {
+      "id": "197",
+      "word": "pair programming",
+      "definition": "Two developers working together on the same code (दो डेवलपर्स का साथ में कोडिंग करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Pair programming helped the new joiner learn quickly."
+    },
+    {
+      "id": "198",
+      "word": "on-call",
+      "definition": "Available to respond to urgent issues outside work hours (आपात स्थिति के लिए उपलब्ध)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "I'm on-call this weekend."
+    },
+    {
+      "id": "199",
+      "word": "incident commander",
+      "definition": "The person leading the response to an incident (घटना संभालने वाला नेतृत्वकर्ता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The incident commander assigned roles within minutes."
+    },
+    {
+      "id": "200",
+      "word": "war room",
+      "definition": "A dedicated space or channel for handling a crisis (संकट संभालने का विशेष कक्ष)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We opened a war room for the production outage."
+    }
+  ],
+  "id": "0b7c499f-8cac-48c2-b92e-92df509db8f8",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

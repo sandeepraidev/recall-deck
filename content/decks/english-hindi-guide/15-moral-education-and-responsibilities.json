@@ -1,0 +1,567 @@
+{
+ "id": "pack3-deck-15",
+ "categoryId": "pack3-cat-1",
+ "title": "15. Moral Education & Responsibilities",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-701",
+   "mode": "vocab",
+   "word": "Moral Education",
+   "pron": "",
+   "def": "Teaching values of right and wrong.\nहिंदी: नैतिक शिक्षा",
+   "examples": [
+    "Moral Education builds character.",
+    "Moral Education must start early.",
+    "Moral Education guides choices.",
+    "Moral Education strengthens society."
+   ]
+  },
+  {
+   "id": "pack3-card-702",
+   "mode": "vocab",
+   "word": "Values",
+   "pron": "",
+   "def": "Principles guiding behavior.\nहिंदी: मूल्य",
+   "examples": [
+    "Values shape decisions.",
+    "Values must be nurtured.",
+    "Values differ across cultures.",
+    "Values anchor society."
+   ]
+  },
+  {
+   "id": "pack3-card-703",
+   "mode": "vocab",
+   "word": "Moral Philosophy",
+   "pron": "",
+   "def": "The branch of philosophy concerned with the theoretical principles governing right and wrong human conduct.\nहिंदी: नैतिक दर्शन",
+   "examples": [
+    "Students of moral philosophy debate utilitarianism and duty-based Kantian ethics.",
+    "Ancient moral philosophy offered practical guidance on living a virtuous and meaningful life.",
+    "Advances in artificial intelligence have revitalized urgent questions in moral philosophy.",
+    "His writings bridge the gap between abstract moral philosophy and everyday dilemmas."
+   ]
+  },
+  {
+   "id": "pack3-card-704",
+   "mode": "vocab",
+   "word": "Virtue",
+   "pron": "",
+   "def": "A morally good quality.\nहिंदी: सद्गुण",
+   "examples": [
+    "Virtue earns respect.",
+    "Virtue must be cultivated.",
+    "Virtue guides conduct.",
+    "Virtue strengthens character."
+   ]
+  },
+  {
+   "id": "pack3-card-706",
+   "mode": "vocab",
+   "word": "Honesty",
+   "pron": "",
+   "def": "The quality of being truthful.\nहिंदी: ईमानदारी",
+   "examples": [
+    "Honesty is the best policy.",
+    "Honesty builds trust.",
+    "Honesty must be practiced.",
+    "Honesty strengthens relationships."
+   ]
+  },
+  {
+   "id": "pack3-card-707",
+   "mode": "vocab",
+   "word": "Truthfulness",
+   "pron": "",
+   "def": "Habit of speaking the truth.\nहिंदी: सत्यवादिता",
+   "examples": [
+    "Truthfulness earns respect.",
+    "Truthfulness must be cultivated.",
+    "Truthfulness builds credibility.",
+    "Truthfulness strengthens society."
+   ]
+  },
+  {
+   "id": "pack3-card-708",
+   "mode": "vocab",
+   "word": "Sincerity",
+   "pron": "",
+   "def": "Genuineness in intention and action.\nहिंदी: निष्कपटता",
+   "examples": [
+    "Sincerity builds trust.",
+    "Sincerity must guide effort.",
+    "Sincerity wins hearts.",
+    "Sincerity strengthens relationships."
+   ]
+  },
+  {
+   "id": "pack3-card-711",
+   "mode": "vocab",
+   "word": "Duty",
+   "pron": "",
+   "def": "A moral or legal obligation.\nहिंदी: कर्तव्य",
+   "examples": [
+    "Duty must be fulfilled.",
+    "Duty comes before rights.",
+    "Duty strengthens society.",
+    "Duty must be taught."
+   ]
+  },
+  {
+   "id": "pack3-card-712",
+   "mode": "vocab",
+   "word": "Civic Duty",
+   "pron": "",
+   "def": "A citizen's responsibility to society.\nहिंदी: नागरिक कर्तव्य",
+   "examples": [
+    "Civic Duty includes voting.",
+    "Civic Duty must be practiced.",
+    "Civic Duty strengthens democracy.",
+    "Civic Duty includes paying taxes."
+   ]
+  },
+  {
+   "id": "pack3-card-714",
+   "mode": "vocab",
+   "word": "Self-Discipline",
+   "pron": "",
+   "def": "Control over one's own behavior.\nहिंदी: आत्म-अनुशासन",
+   "examples": [
+    "Self-Discipline drives achievement.",
+    "Self-Discipline must be practiced.",
+    "Self-Discipline builds character.",
+    "Self-Discipline resists temptation."
+   ]
+  },
+  {
+   "id": "pack3-card-715",
+   "mode": "vocab",
+   "word": "Respect",
+   "pron": "",
+   "def": "Esteem for others and their rights.\nहिंदी: आदर / सम्मान",
+   "examples": [
+    "Respect must be earned.",
+    "Respect strengthens relationships.",
+    "Respect must be mutual.",
+    "Respect builds harmony."
+   ]
+  },
+  {
+   "id": "pack3-card-716",
+   "mode": "vocab",
+   "word": "Courtesy",
+   "pron": "",
+   "def": "Polite behavior toward others.\nहिंदी: शिष्टाचार",
+   "examples": [
+    "Courtesy costs nothing.",
+    "Courtesy builds goodwill.",
+    "Courtesy must be practiced.",
+    "Courtesy strengthens bonds."
+   ]
+  },
+  {
+   "id": "pack3-card-717",
+   "mode": "vocab",
+   "word": "Modesty",
+   "pron": "",
+   "def": "The quality of being unassuming, moderate, and humble concerning one's own abilities or status.\nहिंदी: विनम्रता / शालीनता",
+   "examples": [
+    "Despite winning the international prize, she accepted the accolades with graceful modesty.",
+    "Modesty in speech and behavior earns genuine admiration from colleagues and peers.",
+    "His modesty prevented him from boasting about his extraordinary philanthropic donations.",
+    "True greatness is often accompanied by quiet dignity and unassuming modesty."
+   ]
+  },
+  {
+   "id": "pack3-card-718",
+   "mode": "vocab",
+   "word": "Thankfulness",
+   "pron": "",
+   "def": "The feeling and expression of warm appreciation for blessings, support, or kindness received.\nहिंदी: आभार",
+   "examples": [
+    "Starting each morning with a moment of thankfulness fosters mental peace and joy.",
+    "She expressed heartfelt thankfulness to the medical staff who guided her recovery.",
+    "Thankfulness transforms simple everyday meals into occasions of deep contentment.",
+    "Expressing thankfulness strengthens friendships and validates the efforts of others."
+   ]
+  },
+  {
+   "id": "pack3-card-719",
+   "mode": "vocab",
+   "word": "Benevolence",
+   "pron": "",
+   "def": "The disposition to do good and show goodwill, kindness, and charity toward all human beings.\nहिंदी: परोपकार / उदारता",
+   "examples": [
+    "The elderly doctor was renowned throughout the province for his tireless benevolence.",
+    "Acts of quiet benevolence can restore a person's faith in the goodness of humanity.",
+    "Benevolence toward strangers is the hallmark of a compassionate and civilized society.",
+    "The charitable trust was established to channel personal wealth into public benevolence."
+   ]
+  },
+  {
+   "id": "pack3-card-720",
+   "mode": "vocab",
+   "word": "Compassionate Care",
+   "pron": "",
+   "def": "The delivery of medical and emotional support characterized by profound empathy and tenderness.\nहिंदी: दयालु देखभाल",
+   "examples": [
+    "Hospice nurses provide extraordinary compassionate care to terminally ill patients.",
+    "Compassionate care involves listening attentively to a patient's fears and emotional needs.",
+    "Hospitals that prioritize compassionate care achieve superior patient recovery outcomes.",
+    "Treating aging parents with compassionate care is an honored family responsibility."
+   ]
+  },
+  {
+   "id": "pack3-card-721",
+   "mode": "vocab",
+   "word": "Kindness",
+   "pron": "",
+   "def": "Being friendly and considerate.\nहिंदी: दयालुता",
+   "examples": [
+    "Kindness costs nothing.",
+    "Kindness must be practiced.",
+    "Kindness transforms lives.",
+    "Kindness builds community."
+   ]
+  },
+  {
+   "id": "pack3-card-722",
+   "mode": "vocab",
+   "word": "Generosity",
+   "pron": "",
+   "def": "Willingness to give to others.\nहिंदी: उदारता / दानशीलता",
+   "examples": [
+    "Generosity enriches giver and receiver.",
+    "Generosity must be encouraged.",
+    "Generosity strengthens society.",
+    "Generosity reflects compassion."
+   ]
+  },
+  {
+   "id": "pack3-card-724",
+   "mode": "vocab",
+   "word": "Clemency",
+   "pron": "",
+   "def": "Leniency, mercy, or compassion shown toward an offender by an authority having power to punish.\nहिंदी: दया / नरमी",
+   "examples": [
+    "The president granted executive clemency to prisoners who had demonstrated genuine reform.",
+    "Defense counsel petitioned the appellate court for clemency based on mitigating factors.",
+    "Judicial clemency tempers the severity of strict law with humane understanding.",
+    "The monarch was celebrated in folklore for his wisdom, justice, and occasional clemency."
+   ]
+  },
+  {
+   "id": "pack3-card-725",
+   "mode": "vocab",
+   "word": "Forbearance",
+   "pron": "",
+   "def": "Patient self-control, restraint, and tolerance when provoked or placed under severe provocation.\nहिंदी: सहनशीलता / संयम",
+   "examples": [
+    "He demonstrated admirable forbearance by remaining silent during the hostile interrogation.",
+    "Maintaining domestic harmony requires daily mutual forbearance and generous understanding.",
+    "Diplomats exercised immense forbearance to keep delicate peace talks from collapsing.",
+    "Forbearance under provocation is a hallmark of mature emotional and moral character."
+   ]
+  },
+  {
+   "id": "pack3-card-728",
+   "mode": "vocab",
+   "word": "Fortitude",
+   "pron": "",
+   "def": "Mental and emotional strength in facing difficulty, adversity, danger, or pain with courage.\nहिंदी: धीरज / मानसिक मज़बूती",
+   "examples": [
+    "The earthquake survivors rebuilt their shattered village with remarkable fortitude.",
+    "Bearing chronic physical illness with quiet fortitude inspires everyone around you.",
+    "Moral fortitude allows whistleblowers to expose corruption despite personal danger.",
+    "Her steadfast fortitude during the prolonged crisis kept the family unified and hopeful."
+   ]
+  },
+  {
+   "id": "pack3-card-729",
+   "mode": "vocab",
+   "word": "Moral Uprightness",
+   "pron": "",
+   "def": "The quality of strictly adhering to honorable, principled, and virtuous moral standards.\nहिंदी: नैतिक सच्चरित्रता",
+   "examples": [
+    "The chief justice was universally respected for his lifelong moral uprightness.",
+    "Public servants must embody unquestioned moral uprightness to maintain public trust.",
+    "Parents strive to instill a lifelong commitment to moral uprightness in their children.",
+    "His unwavering moral uprightness made it impossible for dishonest contractors to bribe him."
+   ]
+  },
+  {
+   "id": "pack3-card-730",
+   "mode": "vocab",
+   "word": "Fairness",
+   "pron": "",
+   "def": "Treating all justly and equally.\nहिंदी: निष्पक्षता / न्यायपूर्णता",
+   "examples": [
+    "Fairness builds trust.",
+    "Fairness must be practiced.",
+    "Fairness strengthens society.",
+    "Fairness guides decisions."
+   ]
+  },
+  {
+   "id": "pack3-card-731",
+   "mode": "vocab",
+   "word": "Impartiality",
+   "pron": "",
+   "def": "Freedom from bias.\nहिंदी: तटस्थता",
+   "examples": [
+    "Impartiality ensures justice.",
+    "Impartiality must be maintained.",
+    "Impartiality builds trust.",
+    "Impartiality strengthens institutions."
+   ]
+  },
+  {
+   "id": "pack3-card-732",
+   "mode": "vocab",
+   "word": "Objectivity",
+   "pron": "",
+   "def": "Judgment based on facts, not feelings.\nहिंदी: वस्तुनिष्ठता",
+   "examples": [
+    "Objectivity ensures fairness.",
+    "Objectivity must be practiced.",
+    "Objectivity strengthens decisions.",
+    "Objectivity resists bias."
+   ]
+  },
+  {
+   "id": "pack3-card-733",
+   "mode": "vocab",
+   "word": "Truth",
+   "pron": "",
+   "def": "Conformity with fact or reality.\nहिंदी: सत्य",
+   "examples": [
+    "Truth must prevail.",
+    "Truth requires courage.",
+    "Truth builds trust.",
+    "Truth must be spoken."
+   ]
+  },
+  {
+   "id": "pack3-card-734",
+   "mode": "vocab",
+   "word": "Judiciousness",
+   "pron": "",
+   "def": "The quality of showing good judgment, fairness, prudence, and careful discernment in decisions.\nहिंदी: विवेकशीलता",
+   "examples": [
+    "The arbitrator handled the contentious corporate dispute with consummate judiciousness.",
+    "Judiciousness requires weighing competing evidence dispassionately before reaching a verdict.",
+    "Her financial judiciousness helped the family weather sudden economic hardships.",
+    "The governor praised the selection committee for their wisdom, transparency, and judiciousness."
+   ]
+  },
+  {
+   "id": "pack3-card-735",
+   "mode": "vocab",
+   "word": "Righteousness",
+   "pron": "",
+   "def": "Morally correct behavior.\nहिंदी: धर्मपरायणता / सदाचार",
+   "examples": [
+    "Righteousness guides conduct.",
+    "Righteousness must be practiced.",
+    "Righteousness strengthens character.",
+    "Righteousness inspires trust."
+   ]
+  },
+  {
+   "id": "pack3-card-736",
+   "mode": "vocab",
+   "word": "Scrupulousness",
+   "pron": "",
+   "def": "Extreme care, diligence, and thoroughness in acting strictly according to ethical standards.\nहिंदी: सावधानी से नैतिकता निभाना",
+   "examples": [
+    "The research scientist maintained scrupulousness in documenting all experimental data.",
+    "Financial auditors commended the treasurer for his scrupulousness in managing public funds.",
+    "Scrupulousness in honoring promises builds an unimpeachable personal reputation.",
+    "Journalistic scrupulousness ensures that allegations are thoroughly verified before publishing."
+   ]
+  },
+  {
+   "id": "pack3-card-737",
+   "mode": "vocab",
+   "word": "Repentance",
+   "pron": "",
+   "def": "Sincere regret for wrongdoing.\nहिंदी: पश्चाताप",
+   "examples": [
+    "Repentance brings peace.",
+    "Repentance must be sincere.",
+    "Repentance reflects growth.",
+    "Repentance repairs relationships."
+   ]
+  },
+  {
+   "id": "pack3-card-738",
+   "mode": "vocab",
+   "word": "Self-Reflection",
+   "pron": "",
+   "def": "Examining one's own thoughts and actions.\nहिंदी: आत्म-चिंतन",
+   "examples": [
+    "Self-Reflection builds wisdom.",
+    "Self-Reflection must be practiced.",
+    "Self-Reflection improves conduct.",
+    "Self-Reflection reduces bias."
+   ]
+  },
+  {
+   "id": "pack3-card-739",
+   "mode": "vocab",
+   "word": "Self-Restraint",
+   "pron": "",
+   "def": "The ability to control one's own desires, impulses, emotions, and actions voluntarily.\nहिंदी: आत्म-संयम",
+   "examples": [
+    "Practicing self-restraint during heated arguments prevents lasting relational damage.",
+    "Financial planners emphasize self-restraint in avoiding unnecessary luxury debts.",
+    "Leaders must exercise self-restraint when wielding immense constitutional authority.",
+    "Dietary self-restraint is essential for maintaining long-term physical health and vitality."
+   ]
+  },
+  {
+   "id": "pack3-card-740",
+   "mode": "vocab",
+   "word": "Moderation",
+   "pron": "",
+   "def": "Avoiding extremes.\nहिंदी: मर्यादा / संतुलित आचरण",
+   "examples": [
+    "Moderation brings balance.",
+    "Moderation must be practiced.",
+    "Moderation strengthens health.",
+    "Moderation guides choices."
+   ]
+  },
+  {
+   "id": "pack3-card-741",
+   "mode": "vocab",
+   "word": "Temperance",
+   "pron": "",
+   "def": "Self-restraint in habits.\nहिंदी: संयम / मिताचार",
+   "examples": [
+    "Temperance supports well-being.",
+    "Temperance must be cultivated.",
+    "Temperance resists excess.",
+    "Temperance strengthens character."
+   ]
+  },
+  {
+   "id": "pack3-card-742",
+   "mode": "vocab",
+   "word": "Chastity",
+   "pron": "",
+   "def": "Purity in conduct and thought.\nहिंदी: ब्रह्मचर्य / शुचिता",
+   "examples": [
+    "Chastity reflects discipline.",
+    "Chastity must be respected.",
+    "Chastity strengthens character.",
+    "Chastity is a moral value."
+   ]
+  },
+  {
+   "id": "pack3-card-743",
+   "mode": "vocab",
+   "word": "Chastity of Speech",
+   "pron": "",
+   "def": "Restraint in speech.\nहिंदी: वाणी की शुचिता",
+   "examples": [
+    "Speech must be truthful.",
+    "Speech must be kind.",
+    "Speech must be restrained.",
+    "Speech must build, not harm."
+   ]
+  },
+  {
+   "id": "pack3-card-744",
+   "mode": "vocab",
+   "word": "Ahimsa",
+   "pron": "",
+   "def": "The ancient ethical principle of non-injury, harmlessness, and universal reverence for all life.\nहिंदी: अहिंसा",
+   "examples": [
+    "Mahatma Gandhi elevated ahimsa into a powerful collective tool for political liberation.",
+    "Ahimsa encompasses not only avoiding physical violence, but also purging malice from thought.",
+    "Ancient Indian traditions revere ahimsa as the highest and most sacred duty.",
+    "Practicing ahimsa fosters a gentle and respectful relationship with all sentient beings."
+   ]
+  },
+  {
+   "id": "pack3-card-745",
+   "mode": "vocab",
+   "word": "Service",
+   "pron": "",
+   "def": "Helping others selflessly.\nहिंदी: सेवा",
+   "examples": [
+    "Service to others is noble.",
+    "Service must be selfless.",
+    "Service strengthens communities.",
+    "Service reflects compassion."
+   ]
+  },
+  {
+   "id": "pack3-card-746",
+   "mode": "vocab",
+   "word": "Sacrifice",
+   "pron": "",
+   "def": "Giving up something for a greater good.\nहिंदी: त्याग / बलिदान",
+   "examples": [
+    "Sacrifice reflects commitment.",
+    "Sacrifice must be meaningful.",
+    "Sacrifice strengthens society.",
+    "Sacrifice inspires others."
+   ]
+  },
+  {
+   "id": "pack3-card-747",
+   "mode": "vocab",
+   "word": "Duty to Society",
+   "pron": "",
+   "def": "Obligation toward the community.\nहिंदी: समाज के प्रति कर्तव्य",
+   "examples": [
+    "Duty to Society must be taught.",
+    "Duty to Society includes service.",
+    "Duty to Society strengthens democracy.",
+    "Duty to Society reflects responsibility."
+   ]
+  },
+  {
+   "id": "pack3-card-748",
+   "mode": "vocab",
+   "word": "Environmental Responsibility",
+   "pron": "",
+   "def": "Duty to protect nature.\nहिंदी: पर्यावरण के प्रति ज़िम्मेदारी",
+   "examples": [
+    "Environmental Responsibility protects future.",
+    "Environmental Responsibility must be taught.",
+    "Environmental Responsibility reflects morality.",
+    "Environmental Responsibility needs action."
+   ]
+  },
+  {
+   "id": "pack3-card-749",
+   "mode": "vocab",
+   "word": "Civic Sense",
+   "pron": "",
+   "def": "Awareness of public duties.\nहिंदी: नागरिक बोध",
+   "examples": [
+    "Civic Sense builds clean cities.",
+    "Civic Sense must be taught.",
+    "Civic Sense strengthens society.",
+    "Civic Sense reflects responsibility."
+   ]
+  },
+  {
+   "id": "pack3-card-750",
+   "mode": "vocab",
+   "word": "Moral Responsibility",
+   "pron": "",
+   "def": "Duty based on ethical principles.\nहिंदी: नैतिक ज़िम्मेदारी",
+   "examples": [
+    "Moral Responsibility guides action.",
+    "Moral Responsibility must be accepted.",
+    "Moral Responsibility strengthens trust.",
+    "Moral Responsibility reflects integrity."
+   ]
+  }
+ ]
+}

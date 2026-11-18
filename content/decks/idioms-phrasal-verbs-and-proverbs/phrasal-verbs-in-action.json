@@ -1,0 +1,424 @@
+{
+ "id": "pack6-deck-11",
+ "categoryId": "pack6-cat-4",
+ "title": "Phrasal Verbs in Action",
+ "sub": "50 workhorse phrasal verbs, each with five real-world examples.",
+ "cards": [
+  {
+   "id": "pack6-card-1919",
+   "mode": "vocab",
+   "word": "carry on",
+   "pron": "(phrasal verb)",
+   "def": "To continue doing something despite difficulties",
+   "examples": [
+    "Even with the server down, we carried on testing locally.",
+    "Let's carry on with the meeting — the manager will join late.",
+    "She carried on working even after the deadline was pushed back.",
+    "We need to carry on refactoring despite the pressure to ship."
+   ]
+  },
+  {
+   "id": "pack6-card-1920",
+   "mode": "vocab",
+   "word": "catch up",
+   "pron": "(phrasal verb)",
+   "def": "To reach the same level as others; to update with someone",
+   "examples": [
+    "I missed the design review — can you catch me up?",
+    "Let's catch up over coffee and talk about the project status.",
+    "I need to catch up on the tickets I missed during leave.",
+    "She caught up with the new tech stack over the weekend."
+   ]
+  },
+  {
+   "id": "pack6-card-1921",
+   "mode": "vocab",
+   "word": "check in",
+   "pron": "(phrasal verb)",
+   "def": "To briefly report on status or confirm with someone",
+   "examples": [
+    "I'll check in with the QA team to see where things stand.",
+    "Can you check in by EOD and let me know the progress?",
+    "We check in every morning to share what we're working on.",
+    "I just wanted to check in and see if you need any help."
+   ]
+  },
+  {
+   "id": "pack6-card-1922",
+   "mode": "vocab",
+   "word": "come across",
+   "pron": "(phrasal verb)",
+   "def": "To find or encounter something unexpectedly",
+   "examples": [
+    "I came across a really useful Stack Overflow answer for this bug.",
+    "You came across as very confident in the technical interview.",
+    "She came across an interesting article on AI ethics.",
+    "We came across a performance bottleneck during load testing."
+   ]
+  },
+  {
+   "id": "pack6-card-1924",
+   "mode": "vocab",
+   "word": "cut down on",
+   "pron": "(phrasal verb)",
+   "def": "To reduce the amount of something",
+   "examples": [
+    "We need to cut down on the number of unnecessary API calls.",
+    "I'm trying to cut down on meetings by using async updates.",
+    "The new linter helps us cut down on code style issues.",
+    "Let's cut down on technical debt before adding new features."
+   ]
+  },
+  {
+   "id": "pack6-card-1925",
+   "mode": "vocab",
+   "word": "deal with",
+   "pron": "(phrasal verb)",
+   "def": "To handle, manage, or take care of a problem or situation",
+   "examples": [
+    "I'll deal with the production issue right away.",
+    "She dealt with the angry client very professionally.",
+    "We need to deal with the security vulnerability before shipping.",
+    "How do you deal with conflicting priorities in your day?"
+   ]
+  },
+  {
+   "id": "pack6-card-1927",
+   "mode": "vocab",
+   "word": "figure out",
+   "pron": "(phrasal verb)",
+   "def": "To understand, solve, or find the answer to something",
+   "examples": [
+    "I finally figured out why the tests were failing intermittently.",
+    "Can you figure out the root cause before our next sync?",
+    "She figured out the algorithm in under 30 minutes.",
+    "We need to figure out the data flow before writing any code."
+   ]
+  },
+  {
+   "id": "pack6-card-1930",
+   "mode": "vocab",
+   "word": "give up",
+   "pron": "(phrasal verb)",
+   "def": "To stop trying; to abandon an effort",
+   "examples": [
+    "Don't give up on the fix — the solution is probably one line away.",
+    "She gave up trying to debug the third-party library.",
+    "We gave up on that approach after the proof of concept failed.",
+    "Never give up on writing clean code even under pressure."
+   ]
+  },
+  {
+   "id": "pack6-card-1933",
+   "mode": "vocab",
+   "word": "keep up with",
+   "pron": "(phrasal verb)",
+   "def": "To stay at the same pace; to remain informed about something",
+   "examples": [
+    "It's hard to keep up with the latest JavaScript frameworks.",
+    "She keeps up with all the sprint tickets by using a Kanban board.",
+    "How do you keep up with new developments in machine learning?",
+    "I follow a few newsletters to keep up with industry trends."
+   ]
+  },
+  {
+   "id": "pack6-card-1934",
+   "mode": "vocab",
+   "word": "lay out",
+   "pron": "(phrasal verb)",
+   "def": "To explain something clearly; to present or arrange details",
+   "examples": [
+    "Can you lay out the pros and cons of each approach?",
+    "She laid out the entire architecture before writing a single line.",
+    "Let me lay out the plan for the next two sprints.",
+    "He laid out the steps clearly so the junior engineer could follow."
+   ]
+  },
+  {
+   "id": "pack6-card-1935",
+   "mode": "vocab",
+   "word": "look into",
+   "pron": "(phrasal verb)",
+   "def": "To investigate or research a problem",
+   "examples": [
+    "I'll look into why the API is returning a 500 error.",
+    "Can you look into the performance issues in the reporting module?",
+    "She looked into the new cloud pricing before switching providers.",
+    "We need to look into this customer complaint as soon as possible."
+   ]
+  },
+  {
+   "id": "pack6-card-1938",
+   "mode": "vocab",
+   "word": "pick up",
+   "pron": "(phrasal verb)",
+   "def": "To learn casually without formal training; to collect or acquire",
+   "examples": [
+    "I picked up TypeScript by working on a side project.",
+    "She picked up a lot of soft skills during her first year at work.",
+    "Can you pick up the slack while I'm on leave?",
+    "He picked up the basics of Docker in just a few days."
+   ]
+  },
+  {
+   "id": "pack6-card-1939",
+   "mode": "vocab",
+   "word": "point out",
+   "pron": "(phrasal verb)",
+   "def": "To draw attention to something; to indicate or highlight",
+   "examples": [
+    "She pointed out a critical edge case in the code review.",
+    "I want to point out that this issue was raised two sprints ago.",
+    "He pointed out the inconsistency in the API documentation.",
+    "The linter pointed out 12 unused variables in the codebase."
+   ]
+  },
+  {
+   "id": "pack6-card-1941",
+   "mode": "vocab",
+   "word": "put off",
+   "pron": "(phrasal verb)",
+   "def": "To postpone; to cause someone to lose interest or enthusiasm",
+   "examples": [
+    "Don't put off writing tests — it creates technical debt.",
+    "She put off the difficult conversation for too long.",
+    "I keep putting off learning Kubernetes because it seems complex.",
+    "He was put off by the aggressive tone in the code review."
+   ]
+  },
+  {
+   "id": "pack6-card-1943",
+   "mode": "vocab",
+   "word": "run into",
+   "pron": "(phrasal verb)",
+   "def": "To encounter a problem or person unexpectedly",
+   "examples": [
+    "We ran into a compatibility issue after the library upgrade.",
+    "I ran into my old colleague at the tech conference.",
+    "She ran into some trouble setting up the local development environment.",
+    "We keep running into the same issue with memory leaks."
+   ]
+  },
+  {
+   "id": "pack6-card-1944",
+   "mode": "vocab",
+   "word": "run out of",
+   "pron": "(phrasal verb)",
+   "def": "To have no more of something left",
+   "examples": [
+    "We're running out of time before the demo — focus on the core feature.",
+    "The team ran out of sprint capacity midway through the cycle.",
+    "I ran out of ideas for optimizing this query.",
+    "We ran out of storage space on the server."
+   ]
+  },
+  {
+   "id": "pack6-card-1945",
+   "mode": "vocab",
+   "word": "set aside",
+   "pron": "(phrasal verb)",
+   "def": "To reserve time, money, or resources for a specific purpose",
+   "examples": [
+    "Set aside at least 20% of the sprint for technical debt.",
+    "She sets aside one hour each day for learning new skills.",
+    "We need to set aside a budget for the cloud migration.",
+    "I set aside time every Friday to write documentation."
+   ]
+  },
+  {
+   "id": "pack6-card-1946",
+   "mode": "vocab",
+   "word": "set up",
+   "pron": "(phrasal verb)",
+   "def": "To establish, configure, or arrange something",
+   "examples": [
+    "I'll set up the CI/CD pipeline by end of day.",
+    "Can you set up a meeting with the product team for tomorrow?",
+    "She set up the new developer's environment in under an hour.",
+    "We need to set up monitoring before we go live."
+   ]
+  },
+  {
+   "id": "pack6-card-1947",
+   "mode": "vocab",
+   "word": "show up",
+   "pron": "(phrasal verb)",
+   "def": "To arrive or appear, especially unexpectedly or noticeably",
+   "examples": [
+    "The bug only shows up in production, not locally.",
+    "She always shows up prepared with data to support her arguments.",
+    "Please show up on time for the client presentation.",
+    "The memory leak shows up after running the app for 24 hours."
+   ]
+  },
+  {
+   "id": "pack6-card-1948",
+   "mode": "vocab",
+   "word": "sort out",
+   "pron": "(phrasal verb)",
+   "def": "To resolve a problem or organize something that is in disorder",
+   "examples": [
+    "Let me sort out the merge conflicts and get back to you.",
+    "Can you sort out the sprint board before the planning session?",
+    "She sorted out the billing issue with the cloud provider.",
+    "We need to sort out the team responsibilities before the project starts."
+   ]
+  },
+  {
+   "id": "pack6-card-1949",
+   "mode": "vocab",
+   "word": "stand out",
+   "pron": "(phrasal verb)",
+   "def": "To be noticeably different or better than others",
+   "examples": [
+    "Your clean code and clear comments really stood out during the review.",
+    "She stood out in the interview because she asked excellent questions.",
+    "This feature will make our product stand out from competitors.",
+    "His communication skills stood out as much as his technical ability."
+   ]
+  },
+  {
+   "id": "pack6-card-1950",
+   "mode": "vocab",
+   "word": "take on",
+   "pron": "(phrasal verb)",
+   "def": "To accept a task, responsibility, or challenge",
+   "examples": [
+    "I'm happy to take on the role of release manager this sprint.",
+    "She took on the most complex module in the project without hesitation.",
+    "Are you comfortable taking on this task given your current workload?",
+    "He took on the mentorship of two junior engineers."
+   ]
+  },
+  {
+   "id": "pack6-card-1951",
+   "mode": "vocab",
+   "word": "take over",
+   "pron": "(phrasal verb)",
+   "def": "To assume control or responsibility from someone else",
+   "examples": [
+    "Can you take over the on-call shift for me on Friday?",
+    "She took over the project after the original lead resigned.",
+    "AI is slowly taking over repetitive tasks in the software industry.",
+    "He took over the meeting when the facilitator lost connection."
+   ]
+  },
+  {
+   "id": "pack6-card-1953",
+   "mode": "vocab",
+   "word": "track down",
+   "pron": "(phrasal verb)",
+   "def": "To find something or someone after a search",
+   "examples": [
+    "I spent two hours trying to track down the source of the memory leak.",
+    "She tracked down the original author of the legacy code.",
+    "Can you track down the ticket where this decision was documented?",
+    "He tracked down the missing requirement by reviewing old meeting notes."
+   ]
+  },
+  {
+   "id": "pack6-card-1954",
+   "mode": "vocab",
+   "word": "turn around",
+   "pron": "(phrasal verb)",
+   "def": "To reverse a negative situation; to complete quickly",
+   "examples": [
+    "The new team lead turned the struggling project around in two sprints.",
+    "Can you turn around a quick fix for this by end of day?",
+    "She turned around the client relationship with one honest conversation.",
+    "We turned the product around by focusing on user feedback."
+   ]
+  },
+  {
+   "id": "pack6-card-1955",
+   "mode": "vocab",
+   "word": "walk through",
+   "pron": "(phrasal verb)",
+   "def": "To explain something step by step in detail",
+   "examples": [
+    "Can you walk me through the codebase before I start?",
+    "She walked the new joiner through the deployment process.",
+    "Let's walk through the user journey together to find the gap.",
+    "He walked us through his technical design in the architecture review."
+   ]
+  },
+  {
+   "id": "pack6-card-1956",
+   "mode": "vocab",
+   "word": "work out",
+   "pron": "(phrasal verb)",
+   "def": "To solve a problem; to result in a good outcome; to exercise",
+   "examples": [
+    "I'm sure we can work out a solution that satisfies everyone.",
+    "It took three attempts, but we worked out the optimal algorithm.",
+    "Things worked out well after the last-minute refactor.",
+    "She works out before her shift to stay focused throughout the day."
+   ]
+  },
+  {
+   "id": "pack6-card-1959",
+   "mode": "vocab",
+   "word": "break down",
+   "pron": "(phrasal verb)",
+   "def": "To stop working; to analyze or divide into smaller parts",
+   "examples": [
+    "Let's break down this large ticket into smaller subtasks.",
+    "The legacy system finally broke down after years of neglect.",
+    "She broke down the complex algorithm into simple steps.",
+    "Can you break down the cost estimate by phase?"
+   ]
+  },
+  {
+   "id": "pack6-card-1961",
+   "mode": "vocab",
+   "word": "get around to",
+   "pron": "(phrasal verb)",
+   "def": "To finally find time to do something you've been postponing",
+   "examples": [
+    "I'll get around to reviewing your PR after this meeting.",
+    "I never got around to learning Docker Swarm before Kubernetes took over.",
+    "She finally got around to refactoring the authentication module.",
+    "When will you get around to finishing the documentation?"
+   ]
+  },
+  {
+   "id": "pack6-card-1964",
+   "mode": "vocab",
+   "word": "miss out on",
+   "pron": "(phrasal verb)",
+   "def": "To fail to experience or benefit from something",
+   "examples": [
+    "Don't miss out on the knowledge transfer session — it's really useful.",
+    "She missed out on the promotion because she didn't speak up.",
+    "You'll miss out on a lot if you skip the code review process.",
+    "He missed out on early ownership because he joined the team late."
+   ]
+  },
+  {
+   "id": "pack6-card-1966",
+   "mode": "vocab",
+   "word": "step up",
+   "pron": "(phrasal verb)",
+   "def": "To increase effort; to take on more responsibility",
+   "examples": [
+    "She stepped up and led the project when the team lead was absent.",
+    "We need someone to step up and own the deployment process.",
+    "He stepped up his contributions after the quarterly review feedback.",
+    "It's time to step up and tackle the most challenging problems."
+   ]
+  },
+  {
+   "id": "pack6-card-1967",
+   "mode": "vocab",
+   "word": "zoom in",
+   "pron": "(phrasal verb)",
+   "def": "To focus closely on a specific detail or issue",
+   "examples": [
+    "Let's zoom in on the bottleneck in the data pipeline.",
+    "She zoomed in on user feedback to identify the core pain point.",
+    "Zoom in on this part of the diagram — that's where the issue is.",
+    "We need to zoom in on what's causing the latency spike."
+   ]
+  }
+ ]
+}

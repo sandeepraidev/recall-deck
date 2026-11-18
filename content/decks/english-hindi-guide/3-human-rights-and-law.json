@@ -1,0 +1,554 @@
+{
+ "id": "pack3-deck-3",
+ "categoryId": "pack3-cat-1",
+ "title": "3. Human Rights & Law",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-101",
+   "mode": "vocab",
+   "word": "Inalienable Rights",
+   "pron": "",
+   "def": "Fundamental rights that cannot be surrendered, transferred, or taken away by any authority.\nहिंदी: अहरणीय अधिकार",
+   "examples": [
+    "Inalienable rights belong inherently to every human being from birth.",
+    "The declaration recognized life, liberty, and human dignity as inalienable rights.",
+    "Democratic constitutions exist to preserve and defend citizens' inalienable rights.",
+    "No government mandate can legitimately override inalienable rights."
+   ]
+  },
+  {
+   "id": "pack3-card-102",
+   "mode": "vocab",
+   "word": "Civil Rights",
+   "pron": "",
+   "def": "Rights protecting individual freedom from government interference.\nहिंदी: नागरिक अधिकार",
+   "examples": [
+    "Civil Rights protect freedom of speech.",
+    "Civil Rights ensure equal treatment.",
+    "Civil Rights movements changed history.",
+    "Civil Rights are guaranteed by the Constitution."
+   ]
+  },
+  {
+   "id": "pack3-card-103",
+   "mode": "vocab",
+   "word": "Political Rights",
+   "pron": "",
+   "def": "Rights allowing citizens to participate in governance.\nहिंदी: राजनीतिक अधिकार",
+   "examples": [
+    "Political Rights include the right to vote.",
+    "Political Rights enable political participation.",
+    "Political Rights protect freedom of association.",
+    "Political Rights are essential for democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-104",
+   "mode": "vocab",
+   "word": "Economic Rights",
+   "pron": "",
+   "def": "Rights ensuring fair access to work, food, and shelter.\nहिंदी: आर्थिक अधिकार",
+   "examples": [
+    "Economic Rights include the right to work.",
+    "Economic Rights ensure a living wage.",
+    "Economic Rights reduce poverty.",
+    "Economic Rights are part of human rights."
+   ]
+  },
+  {
+   "id": "pack3-card-105",
+   "mode": "vocab",
+   "word": "Social Rights",
+   "pron": "",
+   "def": "Rights to education, health, and social security.\nहिंदी: सामाजिक अधिकार",
+   "examples": [
+    "Social Rights include the right to education.",
+    "Social Rights ensure access to healthcare.",
+    "Social Rights promote equality.",
+    "Social Rights are guaranteed by welfare laws."
+   ]
+  },
+  {
+   "id": "pack3-card-106",
+   "mode": "vocab",
+   "word": "Cultural Rights",
+   "pron": "",
+   "def": "Rights to practice and preserve one's culture and language.\nहिंदी: सांस्कृतिक अधिकार",
+   "examples": [
+    "Cultural Rights protect minority languages.",
+    "Cultural Rights allow religious practice.",
+    "Cultural Rights preserve heritage.",
+    "Cultural Rights are guaranteed by Articles 29–30."
+   ]
+  },
+  {
+   "id": "pack3-card-107",
+   "mode": "vocab",
+   "word": "Customary International Law",
+   "pron": "",
+   "def": "Aspects of international law that derive from established general state practice accepted as law.\nहिंदी: प्रथागत अंतर्राष्ट्रीय कानून",
+   "examples": [
+    "Customary international law binds all nations regardless of treaty ratification.",
+    "The prohibition of genocide is universally accepted as customary international law.",
+    "International tribunals frequently cite customary international law in their rulings.",
+    "Diplomatic immunity originated as a principle of customary international law."
+   ]
+  },
+  {
+   "id": "pack3-card-108",
+   "mode": "vocab",
+   "word": "International Covenant",
+   "pron": "",
+   "def": "A formal international treaty binding nations to protect rights.\nहिंदी: अंतर्राष्ट्रीय समझौता",
+   "examples": [
+    "The International Covenant on Civil and Political Rights binds states.",
+    "The International Covenant creates legal obligations.",
+    "The International Covenant is monitored by UN bodies.",
+    "The International Covenant strengthens human rights."
+   ]
+  },
+  {
+   "id": "pack3-card-109",
+   "mode": "vocab",
+   "word": "Geneva Convention",
+   "pron": "",
+   "def": "International treaties protecting victims of war.\nहिंदी: जिनेवा संधि",
+   "examples": [
+    "The Geneva Convention protects prisoners of war.",
+    "The Geneva Convention forbids torture.",
+    "The Geneva Convention applies during armed conflict.",
+    "The Geneva Convention protects civilians."
+   ]
+  },
+  {
+   "id": "pack3-card-110",
+   "mode": "vocab",
+   "word": "Humanitarian Law",
+   "pron": "",
+   "def": "Laws limiting the effects of armed conflict.\nहिंदी: मानवीय कानून",
+   "examples": [
+    "Humanitarian Law protects non-combatants.",
+    "Humanitarian Law restricts methods of warfare.",
+    "Humanitarian Law is enforced by international courts.",
+    "Humanitarian Law balances military need and humanity."
+   ]
+  },
+  {
+   "id": "pack3-card-111",
+   "mode": "vocab",
+   "word": "War Crime",
+   "pron": "",
+   "def": "A serious violation of international law during conflict.\nहिंदी: युद्ध अपराध",
+   "examples": [
+    "War Crimes include targeting civilians.",
+    "War Crimes are prosecuted internationally.",
+    "War Crimes violate humanitarian law.",
+    "War Crimes carry individual responsibility."
+   ]
+  },
+  {
+   "id": "pack3-card-112",
+   "mode": "vocab",
+   "word": "Genocide",
+   "pron": "",
+   "def": "The deliberate killing of a national, ethnic, or religious group.\nहिंदी: नरसंहार",
+   "examples": [
+    "Genocide is the gravest international crime.",
+    "Genocide must be prevented by the world.",
+    "Genocide trials occur in international courts.",
+    "Genocide destroys communities."
+   ]
+  },
+  {
+   "id": "pack3-card-113",
+   "mode": "vocab",
+   "word": "Torture",
+   "pron": "",
+   "def": "Inflicting severe pain to punish or extract information.\nहिंदी: यातना",
+   "examples": [
+    "Torture is prohibited by international law.",
+    "Torture violates human dignity.",
+    "Torture is never justified.",
+    "Torture victims deserve remedy."
+   ]
+  },
+  {
+   "id": "pack3-card-114",
+   "mode": "vocab",
+   "word": "Custodial Violence",
+   "pron": "",
+   "def": "Abuse of a person in police or judicial custody.\nहिंदी: हिरासत में हिंसा",
+   "examples": [
+    "Custodial Violence violates human rights.",
+    "Custodial Violence includes illegal beatings.",
+    "Custodial Violence must be punished.",
+    "Custodial Violence erodes public trust."
+   ]
+  },
+  {
+   "id": "pack3-card-115",
+   "mode": "vocab",
+   "word": "Arbitrary Detention",
+   "pron": "",
+   "def": "Imprisonment without legal justification.\nहिंदी: मनमानी गिरफ़्तारी",
+   "examples": [
+    "Arbitrary Detention is illegal.",
+    "Arbitrary Detention violates Article 21.",
+    "Arbitrary Detention is challenged by habeas corpus.",
+    "Arbitrary Detention undermines liberty."
+   ]
+  },
+  {
+   "id": "pack3-card-116",
+   "mode": "vocab",
+   "word": "Substantive Due Process",
+   "pron": "",
+   "def": "The constitutional principle that laws themselves must be fundamentally fair, reasonable, and just.\nहिंदी: सारभूत उचित प्रक्रिया",
+   "examples": [
+    "Substantive due process protects individuals from arbitrary state legislation.",
+    "Courts invoke substantive due process to strike down oppressive statutes.",
+    "Substantive due process goes beyond procedural fairness to examine the justice of a law.",
+    "The Supreme Court expanded personal liberties through the doctrine of substantive due process."
+   ]
+  },
+  {
+   "id": "pack3-card-117",
+   "mode": "vocab",
+   "word": "Fair Trial",
+   "pron": "",
+   "def": "A trial conducted impartially and according to law.\nहिंदी: निष्पक्ष सुनवाई",
+   "examples": [
+    "Fair Trial is a fundamental right.",
+    "Fair Trial requires an impartial judge.",
+    "Fair Trial includes the right to counsel.",
+    "Fair Trial presumes innocence."
+   ]
+  },
+  {
+   "id": "pack3-card-118",
+   "mode": "vocab",
+   "word": "Presumption of Innocence",
+   "pron": "",
+   "def": "The principle that a person is innocent until proven guilty.\nहिंदी: निर्दोषता की धारणा",
+   "examples": [
+    "Presumption of Innocence protects the accused.",
+    "Presumption of Innocence is a legal safeguard.",
+    "Presumption of Innocence prevents wrongful conviction.",
+    "Presumption of Innocence shifts the burden to the prosecution."
+   ]
+  },
+  {
+   "id": "pack3-card-119",
+   "mode": "vocab",
+   "word": "Right to Counsel",
+   "pron": "",
+   "def": "The right to legal representation in a trial.\nहिंदी: वकील पाने का अधिकार",
+   "examples": [
+    "Right to Counsel ensures fair defense.",
+    "Right to Counsel is available to all.",
+    "Right to Counsel includes free legal aid.",
+    "Right to Counsel protects the accused."
+   ]
+  },
+  {
+   "id": "pack3-card-120",
+   "mode": "vocab",
+   "word": "Legal Aid",
+   "pron": "",
+   "def": "Free legal services for those who cannot afford them.\nहिंदी: क़ानूनी सहायता",
+   "examples": [
+    "Legal Aid ensures access to justice.",
+    "Legal Aid is provided by the state.",
+    "Legal Aid helps the poor.",
+    "Legal Aid strengthens the rule of law."
+   ]
+  },
+  {
+   "id": "pack3-card-121",
+   "mode": "vocab",
+   "word": "Public Interest Litigation",
+   "pron": "",
+   "def": "A petition filed for public benefit, not private gain.\nहिंदी: जनहित याचिका",
+   "examples": [
+    "Public Interest Litigation protects the weak.",
+    "Public Interest Litigation expanded access to justice.",
+    "Public Interest Litigation addresses environmental issues.",
+    "Public Interest Litigation reforms governance."
+   ]
+  },
+  {
+   "id": "pack3-card-122",
+   "mode": "vocab",
+   "word": "Locus Standi",
+   "pron": "",
+   "def": "The right to bring a legal action.\nहिंदी: याचिका का अधिकार / सुनवाई का अधिकार",
+   "examples": [
+    "Locus Standi is relaxed in Public Interest Litigation.",
+    "Locus Standi requires direct interest.",
+    "Locus Standi limits frivolous suits.",
+    "Locus Standi has been expanded by courts."
+   ]
+  },
+  {
+   "id": "pack3-card-123",
+   "mode": "vocab",
+   "word": "Judicial Activism",
+   "pron": "",
+   "def": "Courts actively intervening to protect rights.\nहिंदी: न्यायिक सक्रियता",
+   "examples": [
+    "Judicial Activism protects fundamental rights.",
+    "Judicial Activism fills legislative gaps.",
+    "Judicial Activism has critics too.",
+    "Judicial Activism expanded environmental law."
+   ]
+  },
+  {
+   "id": "pack3-card-124",
+   "mode": "vocab",
+   "word": "Writ Petition",
+   "pron": "",
+   "def": "A petition seeking a court order to protect rights.\nहिंदी: रिट याचिका",
+   "examples": [
+    "A Writ Petition is filed under Articles 32 and 226.",
+    "A Writ Petition protects fundamental rights.",
+    "A Writ Petition can be filed urgently.",
+    "A Writ Petition invokes constitutional remedies."
+   ]
+  },
+  {
+   "id": "pack3-card-125",
+   "mode": "vocab",
+   "word": "Prohibition",
+   "pron": "",
+   "def": "A judicial writ issued by a higher court preventing a lower court from exceeding its jurisdiction.\nहिंदी: निषेध",
+   "examples": [
+    "The High Court issued a writ of prohibition to halt the unauthorized tribunal proceedings.",
+    "A writ of prohibition is preventive rather than corrective in nature.",
+    "Prohibition ensures that subordinate judicial bodies remain strictly within legal boundaries.",
+    "Lawyers sought a writ of prohibition when the magistrate acted outside jurisdiction."
+   ]
+  },
+  {
+   "id": "pack3-card-128",
+   "mode": "vocab",
+   "word": "Ultra Vires",
+   "pron": "",
+   "def": "Beyond the legal authority, power, or jurisdiction granted by law or constitution.\nहिंदी: अधिकार-बाह्य",
+   "examples": [
+    "The regulation was declared ultra vires because it exceeded statutory powers.",
+    "Acts done ultra vires by corporate executives have no binding legal effect.",
+    "The court ruled that the municipal tax levy was completely ultra vires.",
+    "Delegated legislation is deemed ultra vires if it conflicts with the parent statute."
+   ]
+  },
+  {
+   "id": "pack3-card-129",
+   "mode": "vocab",
+   "word": "National Human Rights Commission",
+   "pron": "",
+   "def": "A statutory body protecting human rights in India.\nहिंदी: राष्ट्रीय मानवाधिकार आयोग",
+   "examples": [
+    "The National Human Rights Commission was established in 1993.",
+    "The National Human Rights Commission investigates complaints.",
+    "The National Human Rights Commission recommends remedies.",
+    "The National Human Rights Commission promotes awareness."
+   ]
+  },
+  {
+   "id": "pack3-card-130",
+   "mode": "vocab",
+   "word": "Amnesty International",
+   "pron": "",
+   "def": "A global NGO working to protect human rights.\nहिंदी: एमनेस्टी इंटरनेशनल",
+   "examples": [
+    "Amnesty International documents rights abuses.",
+    "Amnesty International campaigns for prisoners of conscience.",
+    "Amnesty International publishes annual reports.",
+    "Amnesty International advocates for justice."
+   ]
+  },
+  {
+   "id": "pack3-card-133",
+   "mode": "vocab",
+   "word": "Stateless Person",
+   "pron": "",
+   "def": "A person not recognized as a citizen by any country.\nहिंदी: राज्यविहीन व्यक्ति",
+   "examples": [
+    "Stateless Persons lack basic rights.",
+    "Stateless Persons face legal exclusion.",
+    "Stateless Persons need documentation.",
+    "Stateless Persons are protected by UN conventions."
+   ]
+  },
+  {
+   "id": "pack3-card-135",
+   "mode": "vocab",
+   "word": "Bonded Labour",
+   "pron": "",
+   "def": "Forced work to repay a debt.\nहिंदी: बंधुआ मज़दूरी",
+   "examples": [
+    "Bonded Labour is a form of modern slavery.",
+    "Bonded Labour is banned by law.",
+    "Bonded Labour traps families for generations.",
+    "Bonded Labour must be eradicated."
+   ]
+  },
+  {
+   "id": "pack3-card-136",
+   "mode": "vocab",
+   "word": "Child Labour",
+   "pron": "",
+   "def": "Employment of children in work that harms them.\nहिंदी: बाल श्रम",
+   "examples": [
+    "Child Labour deprives children of education.",
+    "Child Labour is prohibited by law.",
+    "Child Labour perpetuates poverty.",
+    "Child Labour must be eliminated."
+   ]
+  },
+  {
+   "id": "pack3-card-137",
+   "mode": "vocab",
+   "word": "Right to Education",
+   "pron": "",
+   "def": "The right to free and compulsory education.\nहिंदी: शिक्षा का अधिकार",
+   "examples": [
+    "Right to Education is guaranteed by Article 21A.",
+    "Right to Education ensures free schooling.",
+    "Right to Education empowers children.",
+    "Right to Education reduces inequality."
+   ]
+  },
+  {
+   "id": "pack3-card-138",
+   "mode": "vocab",
+   "word": "Right to Health",
+   "pron": "",
+   "def": "The right to accessible healthcare.\nहिंदी: स्वास्थ्य का अधिकार",
+   "examples": [
+    "Right to Health is part of Article 21.",
+    "Right to Health ensures medical access.",
+    "Right to Health requires public hospitals.",
+    "Right to Health reduces suffering."
+   ]
+  },
+  {
+   "id": "pack3-card-139",
+   "mode": "vocab",
+   "word": "Right to Information",
+   "pron": "",
+   "def": "The right to access government information.\nहिंदी: सूचना का अधिकार",
+   "examples": [
+    "Right to Information promotes transparency.",
+    "Right to Information empowers citizens.",
+    "Right to Information reduces corruption.",
+    "Right to Information is a legal right."
+   ]
+  },
+  {
+   "id": "pack3-card-140",
+   "mode": "vocab",
+   "word": "Freedom of Press",
+   "pron": "",
+   "def": "The right of media to report without censorship.\nहिंदी: प्रेस की स्वतंत्रता",
+   "examples": [
+    "Freedom of Press is part of Article 19.",
+    "Freedom of Press holds power accountable.",
+    "Freedom of Press must be responsible.",
+    "Freedom of Press strengthens democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-142",
+   "mode": "vocab",
+   "word": "Sedition",
+   "pron": "",
+   "def": "Conduct or speech inciting rebellion against the state.\nहिंदी: राजद्रोह",
+   "examples": [
+    "Sedition laws restrict speech.",
+    "Sedition is criticized as colonial.",
+    "Sedition cases raise free speech concerns.",
+    "Sedition must be narrowly defined."
+   ]
+  },
+  {
+   "id": "pack3-card-143",
+   "mode": "vocab",
+   "word": "Preventive Detention",
+   "pron": "",
+   "def": "Detention without trial to prevent a future crime.\nहिंदी: निवारक नज़रबंदी",
+   "examples": [
+    "Preventive Detention is allowed in special laws.",
+    "Preventive Detention curbs liberty.",
+    "Preventive Detention needs safeguards.",
+    "Preventive Detention is debated in courts."
+   ]
+  },
+  {
+   "id": "pack3-card-145",
+   "mode": "vocab",
+   "word": "Martial Law",
+   "pron": "",
+   "def": "Military control replacing civilian authority.\nहिंदी: मार्शल लॉ / सैन्य शासन",
+   "examples": [
+    "Martial Law suspends normal law.",
+    "Martial Law is a last resort.",
+    "Martial Law curtails rights.",
+    "Martial Law is not explicitly in the Constitution."
+   ]
+  },
+  {
+   "id": "pack3-card-146",
+   "mode": "vocab",
+   "word": "Legal Precedent",
+   "pron": "",
+   "def": "A prior judicial decision that establishes an authoritative principle for resolving future cases.\nहिंदी: कानूनी मिसाल",
+   "examples": [
+    "The landmark ruling created an enduring legal precedent for environmental protection.",
+    "Judges are bound to follow established legal precedent under the doctrine of stare decisis.",
+    "Lawyers argued that earlier legal precedent supported their client's claim.",
+    "A higher bench can overturn a longstanding legal precedent if social conditions change."
+   ]
+  },
+  {
+   "id": "pack3-card-147",
+   "mode": "vocab",
+   "word": "Natural Justice",
+   "pron": "",
+   "def": "Fairness principles like hearing both sides.\nहिंदी: प्राकृतिक न्याय",
+   "examples": [
+    "Natural Justice requires a fair hearing.",
+    "Natural Justice forbids bias.",
+    "Natural Justice guides administrative decisions.",
+    "Natural Justice upholds fairness."
+   ]
+  },
+  {
+   "id": "pack3-card-148",
+   "mode": "vocab",
+   "word": "Equal Protection of the Laws",
+   "pron": "",
+   "def": "A constitutional guarantee that all persons in similar circumstances receive identical legal treatment.\nहिंदी: कानून का समान संरक्षण",
+   "examples": [
+    "Equal protection of the laws prohibits arbitrary discrimination by public institutions.",
+    "Article 14 guarantees both equality before law and equal protection of the laws.",
+    "Civil rights activists relied on equal protection of the laws to challenge segregation.",
+    "Equal protection of the laws requires justifiable classification based on intelligible criteria."
+   ]
+  },
+  {
+   "id": "pack3-card-150",
+   "mode": "vocab",
+   "word": "Ex Post Facto Law",
+   "pron": "",
+   "def": "A law that retroactively punishes actions committed before the law was enacted.\nहिंदी: भूतलक्षी कानून",
+   "examples": [
+    "Constitutions forbid ex post facto laws to protect citizens from retroactive punishment.",
+    "A person cannot be convicted under an ex post facto criminal statute.",
+    "The ban on ex post facto laws is a cornerstone of civilized jurisprudence.",
+    "Legislators cannot increase statutory penalties retroactively using ex post facto laws."
+   ]
+  }
+ ]
+}

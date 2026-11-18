@@ -1,0 +1,632 @@
+{
+ "id": "pack3-deck-19",
+ "categoryId": "pack3-cat-1",
+ "title": "19. Positivity",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-901",
+   "mode": "vocab",
+   "word": "Positivity",
+   "pron": "",
+   "def": "The quality of being optimistic and constructive.\nहिंदी: सकारात्मकता",
+   "examples": [
+    "Positivity attracts good outcomes.",
+    "Positivity must be cultivated.",
+    "Positivity strengthens resilience.",
+    "Positivity improves relationships."
+   ]
+  },
+  {
+   "id": "pack3-card-902",
+   "mode": "vocab",
+   "word": "Optimism",
+   "pron": "",
+   "def": "Hopefulness about the future.\nहिंदी: आशावाद",
+   "examples": [
+    "Optimism fuels perseverance.",
+    "Optimism must be balanced with realism.",
+    "Optimism improves health.",
+    "Optimism inspires others."
+   ]
+  },
+  {
+   "id": "pack3-card-903",
+   "mode": "vocab",
+   "word": "Pessimism",
+   "pron": "",
+   "def": "Expecting bad outcomes.\nहिंदी: निराशावाद",
+   "examples": [
+    "Pessimism limits opportunity.",
+    "Pessimism must be overcome.",
+    "Pessimism drains energy.",
+    "Pessimism clouds judgment."
+   ]
+  },
+  {
+   "id": "pack3-card-904",
+   "mode": "vocab",
+   "word": "Lightheartedness",
+   "pron": "",
+   "def": "A cheerful, carefree, and buoyant state of mind free from undue anxiety or gloom.\nहिंदी: हल्कापन / हँसमुख स्वभाव",
+   "examples": [
+    "The picnic in the botanical garden was an afternoon of laughter, games, and genuine lightheartedness.",
+    "Bringing a touch of gentle lightheartedness to team meetings diffuses deadline stress effectively.",
+    "Her natural lightheartedness made even tedious household chores feel cheerful and easy.",
+    "Childhood should be protected as a precious season of curiosity, joy, and innocent lightheartedness."
+   ]
+  },
+  {
+   "id": "pack3-card-905",
+   "mode": "vocab",
+   "word": "Faith",
+   "pron": "",
+   "def": "Strong belief or trust.\nहिंदी: आस्था",
+   "examples": [
+    "Faith supports through trials.",
+    "Faith must be nurtured.",
+    "Faith builds courage.",
+    "Faith strengthens resolve."
+   ]
+  },
+  {
+   "id": "pack3-card-907",
+   "mode": "vocab",
+   "word": "Self-Assurance",
+   "pron": "",
+   "def": "Confidence in one's own abilities, judgment, and decisions without arrogance.\nहिंदी: आत्म-विश्वास",
+   "examples": [
+    "She walked onto the lecture stage with calm self-assurance and spoke compellingly.",
+    "Thorough preparation is the most reliable foundation for authentic self-assurance.",
+    "His quiet self-assurance inspired confidence among investors during the funding pitch.",
+    "Overcoming initial failures builds enduring, battle-tested self-assurance."
+   ]
+  },
+  {
+   "id": "pack3-card-908",
+   "mode": "vocab",
+   "word": "Self-Belief",
+   "pron": "",
+   "def": "Trust in one's own abilities.\nहिंदी: स्वयं पर भरोसा",
+   "examples": [
+    "Self-Belief drives achievement.",
+    "Self-Belief must be nurtured.",
+    "Self-Belief overcomes doubt.",
+    "Self-Belief builds resilience."
+   ]
+  },
+  {
+   "id": "pack3-card-909",
+   "mode": "vocab",
+   "word": "Self-Acceptance",
+   "pron": "",
+   "def": "The realistic, compassionate recognition and embrace of oneself, including all strengths and flaws.\nहिंदी: आत्म-स्वीकृति",
+   "examples": [
+    "True emotional peace begins with deep, nonjudgmental self-acceptance.",
+    "Therapy helps individuals cultivate self-acceptance rather than chasing perfectionism.",
+    "Self-acceptance frees you from the exhausting urge to constantly seek outside validation.",
+    "Embracing self-acceptance allows people to pursue genuine passions without fear of judgment."
+   ]
+  },
+  {
+   "id": "pack3-card-910",
+   "mode": "vocab",
+   "word": "Self-Love",
+   "pron": "",
+   "def": "Caring for oneself.\nहिंदी: आत्म-प्रेम",
+   "examples": [
+    "Self-Love supports mental health.",
+    "Self-Love must be practiced.",
+    "Self-Love is not selfishness.",
+    "Self-Love builds resilience."
+   ]
+  },
+  {
+   "id": "pack3-card-911",
+   "mode": "vocab",
+   "word": "Self-Care",
+   "pron": "",
+   "def": "Taking care of one's health and well-being.\nहिंदी: आत्म-देखभाल",
+   "examples": [
+    "Self-Care prevents burnout.",
+    "Self-Care must be prioritized.",
+    "Self-Care improves focus.",
+    "Self-Care builds strength."
+   ]
+  },
+  {
+   "id": "pack3-card-912",
+   "mode": "vocab",
+   "word": "Gratefulness",
+   "pron": "",
+   "def": "A warm, mindful awareness and feeling of being thankful for life's benefits.\nहिंदी: कृतज्ञता / आभारी होना",
+   "examples": [
+    "Keeping a daily journal reinforces gratefulness for simple daily blessings.",
+    "Her heart was filled with profound gratefulness toward the community that raised her.",
+    "Practicing gratefulness is scientifically proven to improve sleep quality and reduce stress.",
+    "Gratefulness shifts human focus from what is lacking to the abundance already present."
+   ]
+  },
+  {
+   "id": "pack3-card-913",
+   "mode": "vocab",
+   "word": "Appreciation",
+   "pron": "",
+   "def": "Recognizing value in something.\nहिंदी: सराहना",
+   "examples": [
+    "Appreciation builds motivation.",
+    "Appreciation must be genuine.",
+    "Appreciation strengthens relationships.",
+    "Appreciation fosters positivity."
+   ]
+  },
+  {
+   "id": "pack3-card-914",
+   "mode": "vocab",
+   "word": "Geniality",
+   "pron": "",
+   "def": "The quality of having a warm, cheerful, affable, and pleasant manner toward others.\nहिंदी: मिलनसारिता / सौहार्द",
+   "examples": [
+    "The hotel host welcomed every guest with genuine warmth and infectious geniality.",
+    "His natural geniality made strangers feel immediately comfortable and included.",
+    "A leader who combines firmness with geniality earns both respect and affection.",
+    "The festive gathering was filled with laughter, lively stories, and mutual geniality."
+   ]
+  },
+  {
+   "id": "pack3-card-915",
+   "mode": "vocab",
+   "word": "Heartfelt Warmth",
+   "pron": "",
+   "def": "A deep, sincere expression of love, kindness, and personal cordiality in human relations.\nहिंदी: हार्दिक आत्मीयता",
+   "examples": [
+    "The visiting grandmother embraced the children with boundless, heartfelt warmth.",
+    "Her letter of condolence was written with extraordinary empathy and heartfelt warmth.",
+    "A clinic where staff greet patients with heartfelt warmth relieves anxiety immediately.",
+    "The community center is cherished because it welcomes newcomers with heartfelt warmth."
+   ]
+  },
+  {
+   "id": "pack3-card-916",
+   "mode": "vocab",
+   "word": "Cordiality",
+   "pron": "",
+   "def": "Warmth, sincerity, and friendliness in manner and diplomatic or social relations.\nहिंदी: सौहार्दपूर्ण व्यवहार",
+   "examples": [
+    "The bilateral summit concluded on a note of genuine cordiality and optimism.",
+    "Neighbors maintain daily cordiality by exchanging cheerful morning greetings.",
+    "Business partnerships thrive when rooted in mutual trust and professional cordiality.",
+    "The former rivals shook hands with unexpected cordiality after the tough debate."
+   ]
+  },
+  {
+   "id": "pack3-card-917",
+   "mode": "vocab",
+   "word": "Magnanimity",
+   "pron": "",
+   "def": "Great generosity, nobility of spirit, and readiness to forgive insults or injuries.\nहिंदी: महानुभावता / दिल की बड़ाई",
+   "examples": [
+    "The victorious candidate displayed immense magnanimity by praising his defeated rival.",
+    "Magnanimity in moments of triumph reveals the true depth of a leader's character.",
+    "He showed remarkable magnanimity by dropping all charges against his young slanderer.",
+    "Nelson Mandela's historic magnanimity united a deeply divided nation after apartheid."
+   ]
+  },
+  {
+   "id": "pack3-card-918",
+   "mode": "vocab",
+   "word": "Graciousness",
+   "pron": "",
+   "def": "The quality of being courteous, kind, pleasant, and generous in spirit.\nहिंदी: शालीनता / कृपापूर्ण व्यवहार",
+   "examples": [
+    "She accepted the constructive criticism with exemplary poise and graciousness.",
+    "The host's graciousness ensured that every guest felt honored and well cared for.",
+    "Winning with graciousness is just as important as losing with dignity.",
+    "His letter of resignation reflected deep gratitude and unfailing graciousness."
+   ]
+  },
+  {
+   "id": "pack3-card-919",
+   "mode": "vocab",
+   "word": "Acceptance",
+   "pron": "",
+   "def": "Embracing reality as it is.\nहिंदी: स्वीकार करना",
+   "examples": [
+    "Acceptance brings peace.",
+    "Acceptance must be practiced.",
+    "Acceptance reduces suffering.",
+    "Acceptance supports growth."
+   ]
+  },
+  {
+   "id": "pack3-card-920",
+   "mode": "vocab",
+   "word": "Buoyancy",
+   "pron": "",
+   "def": "The cheerful, resilient ability to recover quickly from setbacks and stay in high spirits.\nहिंदी: उत्साहपूर्ण ऊर्जा / हार न मानने की ताज़गी",
+   "examples": [
+    "Her infectious psychological buoyancy helped the expedition survive the freezing storm.",
+    "Children possess a natural emotional buoyancy that allows them to bounce back fast.",
+    "Market analysts noted the surprising buoyancy of consumer confidence despite the slump.",
+    "A sense of humor provides the mental buoyancy needed to weather stressful jobs."
+   ]
+  },
+  {
+   "id": "pack3-card-921",
+   "mode": "vocab",
+   "word": "Daring",
+   "pron": "",
+   "def": "Adventurous courage and willingness to take bold, imaginative risks.\nहिंदी: दुस्साहस / हिम्मत",
+   "examples": [
+    "The mountaineer's daring ascent of the treacherous northern face made world news.",
+    "Revolutionary artistic styles often begin with an act of sheer creative daring.",
+    "It took incredible daring for the whistleblower to release the classified documents.",
+    "Entrepreneurs require a calculated blend of strategic caution and bold daring."
+   ]
+  },
+  {
+   "id": "pack3-card-922",
+   "mode": "vocab",
+   "word": "Bravery",
+   "pron": "",
+   "def": "Willingness to face danger.\nहिंदी: बहादुरी",
+   "examples": [
+    "Bravery saves lives.",
+    "Bravery must be honored.",
+    "Bravery reflects courage.",
+    "Bravery inspires others."
+   ]
+  },
+  {
+   "id": "pack3-card-923",
+   "mode": "vocab",
+   "word": "Determination",
+   "pron": "",
+   "def": "Firmness of purpose.\nहिंदी: दृढ़ निश्चय",
+   "examples": [
+    "Determination drives success.",
+    "Determination must be built.",
+    "Determination overcomes obstacles.",
+    "Determination inspires others."
+   ]
+  },
+  {
+   "id": "pack3-card-924",
+   "mode": "vocab",
+   "word": "Stalwartness",
+   "pron": "",
+   "def": "The quality of being reliable, loyal, hardworking, and steadfast in character.\nहिंदी: अटल दृढ़ता",
+   "examples": [
+    "The party loyalist was honored for her decades of stalwartness and dedicated service.",
+    "During the company's financial crisis, the employees displayed admirable stalwartness.",
+    "A democracy depends on the moral stalwartness of its independent judicial officers.",
+    "His physical strength and moral stalwartness made him an ideal search-and-rescue leader."
+   ]
+  },
+  {
+   "id": "pack3-card-925",
+   "mode": "vocab",
+   "word": "Equanimity",
+   "pron": "",
+   "def": "Mental calmness, composure, and evenness of temper, especially in a difficult situation.\nहिंदी: समचित्तता / मानसिक संतुलन",
+   "examples": [
+    "The surgeon maintained total equanimity despite the sudden crisis in the operating theater.",
+    "Meditation cultivates an internal equanimity that external chaos cannot easily shake.",
+    "A great chess grandmaster faces impending defeat with stoic equanimity and focus.",
+    "Handling public hostility with gracious equanimity disarms critics immediately."
+   ]
+  },
+  {
+   "id": "pack3-card-926",
+   "mode": "vocab",
+   "word": "Calmness",
+   "pron": "",
+   "def": "State of being peaceful.\nहिंदी: शांति / शांत स्वभाव",
+   "examples": [
+    "Calmness improves decisions.",
+    "Calmness must be practiced.",
+    "Calmness reduces stress.",
+    "Calmness strengthens focus."
+   ]
+  },
+  {
+   "id": "pack3-card-927",
+   "mode": "vocab",
+   "word": "Presence of Mind",
+   "pron": "",
+   "def": "The ability to remain calm, think clearly, and act quickly and sensibly during an emergency.\nहिंदी: प्रत्युत्पन्नमति / संकट में सूझ-बूझ",
+   "examples": [
+    "The bus driver's quick presence of mind prevented a catastrophic collision on the highway.",
+    "Her remarkable presence of mind allowed her to administer CPR before paramedics arrived.",
+    "Firefighters rely on rigorous training and calm presence of mind inside burning buildings.",
+    "When the microphone failed, the speaker's humorous presence of mind charmed the crowd."
+   ]
+  },
+  {
+   "id": "pack3-card-928",
+   "mode": "vocab",
+   "word": "Serenity",
+   "pron": "",
+   "def": "The state of being calm, peaceful, untroubled, and completely tranquil.\nहिंदी: निर्मलता / गहरी शांति",
+   "examples": [
+    "The early morning mist over the mountain lake imparted a sense of divine serenity.",
+    "Spending time alone in nature restores mental serenity after weeks of city noise.",
+    "Her face reflected deep spiritual serenity as she completed her evening meditation.",
+    "A peaceful home environment offers a sanctuary of serenity away from daily pressures."
+   ]
+  },
+  {
+   "id": "pack3-card-929",
+   "mode": "vocab",
+   "word": "Inner Peace",
+   "pron": "",
+   "def": "A state of mental calm.\nहिंदी: आंतरिक शांति",
+   "examples": [
+    "Inner Peace brings clarity.",
+    "Inner Peace must be cultivated.",
+    "Inner Peace reduces stress.",
+    "Inner Peace strengthens resilience."
+   ]
+  },
+  {
+   "id": "pack3-card-930",
+   "mode": "vocab",
+   "word": "Contentment",
+   "pron": "",
+   "def": "Satisfaction with what one has.\nहिंदी: संतोष",
+   "examples": [
+    "Contentment brings happiness.",
+    "Contentment must be practiced.",
+    "Contentment reduces greed.",
+    "Contentment strengthens peace."
+   ]
+  },
+  {
+   "id": "pack3-card-931",
+   "mode": "vocab",
+   "word": "Joy",
+   "pron": "",
+   "def": "A feeling of great happiness.\nहिंदी: आनंद / खुशी",
+   "examples": [
+    "Joy lifts the spirit.",
+    "Joy must be shared.",
+    "Joy strengthens bonds.",
+    "Joy improves health."
+   ]
+  },
+  {
+   "id": "pack3-card-932",
+   "mode": "vocab",
+   "word": "Happiness",
+   "pron": "",
+   "def": "A state of well-being.\nहिंदी: प्रसन्नता / सुख",
+   "examples": [
+    "Happiness comes from within.",
+    "Happiness must be pursued wisely.",
+    "Happiness strengthens relationships.",
+    "Happiness improves health."
+   ]
+  },
+  {
+   "id": "pack3-card-933",
+   "mode": "vocab",
+   "word": "Cheerfulness",
+   "pron": "",
+   "def": "A happy and optimistic mood.\nहिंदी: ख़ुशमिज़ाजी",
+   "examples": [
+    "Cheerfulness lifts others.",
+    "Cheerfulness must be cultivated.",
+    "Cheerfulness improves health.",
+    "Cheerfulness strengthens bonds."
+   ]
+  },
+  {
+   "id": "pack3-card-934",
+   "mode": "vocab",
+   "word": "Enthusiasm",
+   "pron": "",
+   "def": "Eager interest and energy.\nहिंदी: उत्साह",
+   "examples": [
+    "Enthusiasm drives action.",
+    "Enthusiasm must be sustained.",
+    "Enthusiasm inspires others.",
+    "Enthusiasm builds momentum."
+   ]
+  },
+  {
+   "id": "pack3-card-935",
+   "mode": "vocab",
+   "word": "Zeal",
+   "pron": "",
+   "def": "Great energy for a cause.\nहिंदी: जोश / लगन",
+   "examples": [
+    "Zeal drives change.",
+    "Zeal must be balanced.",
+    "Zeal inspires commitment.",
+    "Zeal builds momentum."
+   ]
+  },
+  {
+   "id": "pack3-card-936",
+   "mode": "vocab",
+   "word": "Vitality",
+   "pron": "",
+   "def": "The state of being strong, active, energetic, and full of vibrant physical and mental life.\nहिंदी: जीवन-शक्ति",
+   "examples": [
+    "Regular cardiovascular exercise and a balanced diet restore youthful physical vitality.",
+    "The city center buzzed with economic and cultural vitality following the urban renewal project.",
+    "Maintaining intellectual vitality requires reading broadly and embracing lifelong curiosity.",
+    "Her radiant smile and boundless vitality energized everyone volunteering at the clinic."
+   ]
+  },
+  {
+   "id": "pack3-card-937",
+   "mode": "vocab",
+   "word": "Inspiration",
+   "pron": "",
+   "def": "Motivation from others or ideas.\nहिंदी: प्रेरणा",
+   "examples": [
+    "Inspiration sparks action.",
+    "Inspiration must be sought.",
+    "Inspiration builds momentum.",
+    "Inspiration transforms lives."
+   ]
+  },
+  {
+   "id": "pack3-card-938",
+   "mode": "vocab",
+   "word": "Upliftment",
+   "pron": "",
+   "def": "The process of elevating someone's social, moral, or spiritual condition and happiness.\nहिंदी: उत्थान / मनोबल बढ़ाना",
+   "examples": [
+    "The charitable mission works tirelessly for the economic upliftment of rural artisans.",
+    "Listening to inspirational music provides immediate emotional upliftment on gloomy days.",
+    "Education remains the most dependable vehicle for the comprehensive upliftment of society.",
+    "A compassionate community rallies together for the collective upliftment of the poor."
+   ]
+  },
+  {
+   "id": "pack3-card-939",
+   "mode": "vocab",
+   "word": "Empathetic Encouragement",
+   "pron": "",
+   "def": "Support and positive reinforcement offered with a deep understanding of another's struggles.\nहिंदी: संवेदनापूर्ण प्रोत्साहन",
+   "examples": [
+    "A teacher's empathetic encouragement gave the struggling student confidence to try again.",
+    "When self-doubt creeps in, a friend's empathetic encouragement can make all the difference.",
+    "Coaches who use empathetic encouragement build teams with high emotional resilience.",
+    "Empathetic encouragement focuses on celebrating effort rather than demanding instant perfection."
+   ]
+  },
+  {
+   "id": "pack3-card-940",
+   "mode": "vocab",
+   "word": "Support",
+   "pron": "",
+   "def": "Help and assistance.\nहिंदी: सहारा / समर्थन",
+   "examples": [
+    "Support strengthens resilience.",
+    "Support must be given freely.",
+    "Support builds community.",
+    "Support reduces stress."
+   ]
+  },
+  {
+   "id": "pack3-card-941",
+   "mode": "vocab",
+   "word": "Trustworthiness",
+   "pron": "",
+   "def": "The quality of being dependable, honest, reliable, and worthy of confidence.\nहिंदी: भरोसेमंद होना",
+   "examples": [
+    "Her proven trustworthiness made her the obvious choice for managing the confidential accounts.",
+    "Trustworthiness is the essential currency upon which lasting friendships are built.",
+    "Financial institutions depend entirely on public perception of their integrity and trustworthiness.",
+    "A reputation for professional trustworthiness takes years to build and only seconds to destroy."
+   ]
+  },
+  {
+   "id": "pack3-card-943",
+   "mode": "vocab",
+   "word": "Friendship",
+   "pron": "",
+   "def": "A bond between people.\nहिंदी: दोस्ती",
+   "examples": [
+    "Friendship enriches life.",
+    "Friendship needs effort.",
+    "Friendship builds support.",
+    "Friendship strengthens happiness."
+   ]
+  },
+  {
+   "id": "pack3-card-944",
+   "mode": "vocab",
+   "word": "Love",
+   "pron": "",
+   "def": "Deep affection.\nहिंदी: प्रेम",
+   "examples": [
+    "Love transforms lives.",
+    "Love must be unconditional.",
+    "Love builds connection.",
+    "Love strengthens resilience."
+   ]
+  },
+  {
+   "id": "pack3-card-945",
+   "mode": "vocab",
+   "word": "Warmth",
+   "pron": "",
+   "def": "Kindness and friendliness.\nहिंदी: गर्मजोशी / आत्मीयता",
+   "examples": [
+    "Warmth builds trust.",
+    "Warmth must be shared.",
+    "Warmth strengthens bonds.",
+    "Warmth attracts friendship."
+   ]
+  },
+  {
+   "id": "pack3-card-946",
+   "mode": "vocab",
+   "word": "Smile",
+   "pron": "",
+   "def": "A facial expression of happiness.\nहिंदी: मुस्कान",
+   "examples": [
+    "Smile spreads joy.",
+    "Smile costs nothing.",
+    "Smile builds connection.",
+    "Smile improves mood."
+   ]
+  },
+  {
+   "id": "pack3-card-947",
+   "mode": "vocab",
+   "word": "Laughter",
+   "pron": "",
+   "def": "The sound of amusement.\nहिंदी: हँसी",
+   "examples": [
+    "Laughter improves health.",
+    "Laughter builds bonds.",
+    "Laughter reduces stress.",
+    "Laughter is contagious."
+   ]
+  },
+  {
+   "id": "pack3-card-948",
+   "mode": "vocab",
+   "word": "Playfulness",
+   "pron": "",
+   "def": "A light-hearted spirit.\nहिंदी: चंचलता / खिलंदड़ापन",
+   "examples": [
+    "Playfulness keeps youth alive.",
+    "Playfulness reduces stress.",
+    "Playfulness builds creativity.",
+    "Playfulness strengthens bonds."
+   ]
+  },
+  {
+   "id": "pack3-card-949",
+   "mode": "vocab",
+   "word": "Wonder",
+   "pron": "",
+   "def": "A feeling of amazement.\nहिंदी: विस्मय / आश्चर्य",
+   "examples": [
+    "Wonder opens the mind.",
+    "Wonder fuels curiosity.",
+    "Wonder enriches life.",
+    "Wonder inspires learning."
+   ]
+  },
+  {
+   "id": "pack3-card-950",
+   "mode": "vocab",
+   "word": "Bliss",
+   "pron": "",
+   "def": "Perfect happiness.\nहिंदी: परमानंद",
+   "examples": [
+    "Bliss comes from within.",
+    "Bliss must be cultivated.",
+    "Bliss reflects peace.",
+    "Bliss enriches life."
+   ]
+  }
+ ]
+}

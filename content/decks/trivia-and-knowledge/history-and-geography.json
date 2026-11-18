@@ -1,0 +1,18 @@
+{
+ "id": "pack7-deck-6",
+ "categoryId": "cat-66",
+ "title": "History & Geography",
+ "sub": "Places, firsts and turning points.",
+ "cards": [
+  { "id": "pack7-card-51", "mode": "qa", "q": "What is the longest river in the world?", "a": "The Nile", "note": "The Amazon is a close rival; it carries far more water." },
+  { "id": "pack7-card-52", "mode": "qa", "q": "Which is the largest ocean?", "a": "The Pacific", "note": "It covers about a third of Earth's surface." },
+  { "id": "pack7-card-53", "mode": "qa", "q": "In which year did India become independent?", "a": "1947", "note": "On 15 August 1947." },
+  { "id": "pack7-card-54", "mode": "qa", "q": "Who was the first person to walk on the Moon?", "a": "Neil Armstrong", "note": "During the Apollo 11 mission in July 1969." },
+  { "id": "pack7-card-55", "mode": "qa", "q": "What is the smallest country in the world?", "a": "Vatican City", "note": "About 0.44 square kilometres." },
+  { "id": "pack7-card-56", "mode": "qa", "q": "Which mountain is the highest above sea level?", "a": "Mount Everest", "note": "About 8,849 metres, on the Nepal–China border." },
+  { "id": "pack7-card-57", "mode": "qa", "q": "Which country has the largest population?", "a": "India", "note": "It passed China in 2023." },
+  { "id": "pack7-card-58", "mode": "qa", "q": "Which wall was built to protect northern China?", "a": "The Great Wall of China", "note": "Built and rebuilt over many centuries." },
+  { "id": "pack7-card-59", "mode": "qa", "q": "Which desert is the largest hot desert?", "a": "The Sahara", "note": "Antarctica is the largest desert if cold deserts count." },
+  { "id": "pack7-card-60", "mode": "qa", "q": "In which year did the Berlin Wall fall?", "a": "1989", "note": "On 9 November 1989; Germany reunified in 1990." }
+ ]
+}

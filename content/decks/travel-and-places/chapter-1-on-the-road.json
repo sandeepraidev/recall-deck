@@ -1,0 +1,60 @@
+{
+ "id": "deck-37",
+ "categoryId": "cat-30",
+ "title": "Chapter 1: On the Road",
+ "sub": "Vocabulary for trips, transit, and new cities.",
+ "cards": [
+  {
+   "id": "card-32",
+   "mode": "vocab",
+   "word": "Layover",
+   "pron": "/ˈleɪˌoʊvər/",
+   "def": "A short stop between legs of a journey.",
+   "examples": [
+    "We have a three-hour layover in Dubai.",
+    "During the layover, we ate at the airport food court.",
+    "Choose a flight with a short layover if you're travelling with kids.",
+    "My layover in Singapore was long enough to visit the city."
+   ]
+  },
+  {
+   "id": "card-33",
+   "mode": "vocab",
+   "word": "Picturesque",
+   "pron": "/ˌpɪktʃəˈrɛsk/",
+   "def": "Visually attractive, like a picture.",
+   "examples": [
+    "The village had a picturesque harbor lined with fishing boats.",
+    "Munnar's tea gardens are truly picturesque.",
+    "We stayed in a picturesque cottage by the lake.",
+    "The picturesque old town is full of colourful houses."
+   ]
+  },
+  {
+   "id": "card-34",
+   "mode": "vocab",
+   "word": "Secluded",
+   "pron": "/sɪˈkluːdɪd/",
+   "def": "Quiet and private; away from other people.",
+   "examples": [
+    "They found a secluded beach with no one else in sight.",
+    "The resort is secluded, with no shops nearby.",
+    "We found a secluded spot in the park for our picnic.",
+    "He bought a secluded farmhouse to escape city noise."
+   ]
+  },
+  {
+   "id": "card-35",
+   "mode": "vocab",
+   "word": "Excursion",
+   "pron": "/ɪkˈskɜːrʒən/",
+   "def": "A short trip taken for pleasure, often as part of a longer visit.",
+   "examples": [
+    "The hotel offers a day excursion to the nearby waterfalls.",
+    "The school organised an excursion to the science museum.",
+    "Our tour included an excursion to an old fort.",
+    "We booked a boat excursion to see the dolphins."
+   ]
+  }
+ ]
+}

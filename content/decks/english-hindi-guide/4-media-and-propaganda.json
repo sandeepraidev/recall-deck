@@ -1,0 +1,567 @@
+{
+ "id": "pack3-deck-4",
+ "categoryId": "pack3-cat-1",
+ "title": "4. Media & Propaganda",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-151",
+   "mode": "vocab",
+   "word": "Media",
+   "pron": "",
+   "def": "Channels of communication that inform and shape public opinion.\nहिंदी: मीडिया / संचार माध्यम",
+   "examples": [
+    "Media is called the fourth pillar of democracy.",
+    "Media shapes public perception.",
+    "Media must remain independent.",
+    "Media can spread both truth and falsehood."
+   ]
+  },
+  {
+   "id": "pack3-card-152",
+   "mode": "vocab",
+   "word": "Journalism",
+   "pron": "",
+   "def": "The profession of gathering and reporting news.\nहिंदी: पत्रकारिता",
+   "examples": [
+    "Journalism requires accuracy and fairness.",
+    "Journalism holds power accountable.",
+    "Investigative journalism exposes corruption.",
+    "Journalism faces threats in many countries."
+   ]
+  },
+  {
+   "id": "pack3-card-153",
+   "mode": "vocab",
+   "word": "Muckraking",
+   "pron": "",
+   "def": "The journalistic practice of searching out and publicly exposing corruption and scandals.\nहिंदी: भ्रष्टाचार-उजागर पत्रकारिता",
+   "examples": [
+    "Muckraking journalism in the early twentieth century led to landmark consumer protection laws.",
+    "The courageous reporter engaged in muckraking to expose illegal chemical dumping in the river.",
+    "Democratic accountability thrives when investigative muckraking holds power to account.",
+    "Muckraking articles revealed widespread bribery inside the municipal building department."
+   ]
+  },
+  {
+   "id": "pack3-card-155",
+   "mode": "vocab",
+   "word": "Disinformation",
+   "pron": "",
+   "def": "False information spread deliberately to deceive.\nहिंदी: दुष्प्रचार / जानबूझकर फैलाई झूठी सूचना",
+   "examples": [
+    "Disinformation is spread to manipulate opinion.",
+    "Disinformation targets elections.",
+    "Disinformation campaigns use bots.",
+    "Disinformation harms democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-156",
+   "mode": "vocab",
+   "word": "Fake News",
+   "pron": "",
+   "def": "False stories presented as real news.\nहिंदी: फ़र्ज़ी ख़बर",
+   "examples": [
+    "Fake News spreads through social media.",
+    "Fake News erodes trust in media.",
+    "Fake News can incite violence.",
+    "Fake News must be fact-checked."
+   ]
+  },
+  {
+   "id": "pack3-card-157",
+   "mode": "vocab",
+   "word": "Astroturfing",
+   "pron": "",
+   "def": "The practice of masking the sponsors of a message to make it appear as a genuine grassroots movement.\nहिंदी: नक़ली जन-समर्थन अभियान",
+   "examples": [
+    "Corporate lobbyists engaged in astroturfing to create fake public support for the pipeline.",
+    "Astroturfing campaigns deploy automated bot armies on social media platforms.",
+    "Investigative journalists exposed the political rally as an orchestrated act of astroturfing.",
+    "Astroturfing manipulates public opinion by manufacturing false popular consensus."
+   ]
+  },
+  {
+   "id": "pack3-card-158",
+   "mode": "vocab",
+   "word": "Free Press",
+   "pron": "",
+   "def": "Media free from government control.\nहिंदी: स्वतंत्र प्रेस",
+   "examples": [
+    "Free Press holds power accountable.",
+    "Free Press is essential for democracy.",
+    "Free Press faces threats globally.",
+    "Free Press must be responsible."
+   ]
+  },
+  {
+   "id": "pack3-card-159",
+   "mode": "vocab",
+   "word": "Press Freedom",
+   "pron": "",
+   "def": "The right of journalists to report without interference.\nहिंदी: प्रेस की आज़ादी",
+   "examples": [
+    "Press Freedom is protected by Article 19.",
+    "Press Freedom is declining in some nations.",
+    "Press Freedom requires legal protection.",
+    "Press Freedom strengthens democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-160",
+   "mode": "vocab",
+   "word": "Media Bias",
+   "pron": "",
+   "def": "Unfair preference in reporting toward one side.\nहिंदी: मीडिया का पक्षपात",
+   "examples": [
+    "Media Bias influences public opinion.",
+    "Media Bias can distort facts.",
+    "Media Bias undermines trust.",
+    "Media Bias must be minimized."
+   ]
+  },
+  {
+   "id": "pack3-card-161",
+   "mode": "vocab",
+   "word": "Sensationalism",
+   "pron": "",
+   "def": "Exaggerated reporting to attract attention.\nहिंदी: सनसनीखेज़ी",
+   "examples": [
+    "Sensationalism sells newspapers.",
+    "Sensationalism distorts priorities.",
+    "Sensationalism spreads panic.",
+    "Sensationalism undermines serious journalism."
+   ]
+  },
+  {
+   "id": "pack3-card-162",
+   "mode": "vocab",
+   "word": "Yellow Journalism",
+   "pron": "",
+   "def": "Reporting based on sensationalism and little facts.\nहिंदी: पीत पत्रकारिता",
+   "examples": [
+    "Yellow Journalism manipulates readers.",
+    "Yellow Journalism ignores facts.",
+    "Yellow Journalism thrives on scandal.",
+    "Yellow Journalism damages credibility."
+   ]
+  },
+  {
+   "id": "pack3-card-164",
+   "mode": "vocab",
+   "word": "Op-Ed",
+   "pron": "",
+   "def": "A column expressing personal views, opposite the editorial page.\nहिंदी: विचार-लेख (संपादकीय पृष्ठ के सामने)",
+   "examples": [
+    "Op-Eds present diverse opinions.",
+    "Op-Eds are written by guest authors.",
+    "Op-Eds encourage debate.",
+    "Op-Eds reflect individual perspectives."
+   ]
+  },
+  {
+   "id": "pack3-card-165",
+   "mode": "vocab",
+   "word": "Sound Bite",
+   "pron": "",
+   "def": "A short, memorable phrase from a speech or interview.\nहिंदी: संक्षिप्त उद्धरण / छोटा बयान",
+   "examples": [
+    "Sound Bites simplify complex issues.",
+    "Sound Bites dominate TV news.",
+    "Sound Bites can distort meaning.",
+    "Sound Bites shape public memory."
+   ]
+  },
+  {
+   "id": "pack3-card-166",
+   "mode": "vocab",
+   "word": "Spin",
+   "pron": "",
+   "def": "Biased interpretation of events to favor a side.\nहिंदी: तोड़-मरोड़ कर पेश करना",
+   "examples": [
+    "Spin distorts the truth.",
+    "Spin is used by political parties.",
+    "Spin doctors manage public image.",
+    "Spin misleads the public."
+   ]
+  },
+  {
+   "id": "pack3-card-167",
+   "mode": "vocab",
+   "word": "Spin Doctor",
+   "pron": "",
+   "def": "A person who shapes public perception of events.\nहिंदी: छवि सुधारने वाला प्रचारक",
+   "examples": [
+    "Spin Doctors manage political crises.",
+    "Spin Doctors manipulate media coverage.",
+    "Spin Doctors craft favorable narratives.",
+    "Spin Doctors protect reputations."
+   ]
+  },
+  {
+   "id": "pack3-card-168",
+   "mode": "vocab",
+   "word": "Narrative",
+   "pron": "",
+   "def": "A story or framework used to interpret events.\nहिंदी: कथानक / प्रस्तुत कहानी",
+   "examples": [
+    "Narrative shapes public understanding.",
+    "Narrative can be manipulated.",
+    "Narrative influences policy.",
+    "Narrative must be challenged."
+   ]
+  },
+  {
+   "id": "pack3-card-169",
+   "mode": "vocab",
+   "word": "Framing",
+   "pron": "",
+   "def": "The way information is presented to influence perception.\nहिंदी: प्रस्तुति का ढंग / मुद्दे को गढ़ना",
+   "examples": [
+    "Framing affects how people interpret news.",
+    "Framing can highlight or hide facts.",
+    "Framing shapes political debate.",
+    "Framing must be recognized."
+   ]
+  },
+  {
+   "id": "pack3-card-170",
+   "mode": "vocab",
+   "word": "Agenda Setting",
+   "pron": "",
+   "def": "The media's power to decide which issues matter.\nहिंदी: एजेंडा तय करना",
+   "examples": [
+    "Agenda Setting determines public priorities.",
+    "Agenda Setting influences elections.",
+    "Agenda Setting can ignore important issues.",
+    "Agenda Setting shapes policy debates."
+   ]
+  },
+  {
+   "id": "pack3-card-171",
+   "mode": "vocab",
+   "word": "Gatekeeping",
+   "pron": "",
+   "def": "The process of filtering what news reaches the public.\nहिंदी: द्वारपाल की भूमिका / ख़बर छानने की प्रक्रिया",
+   "examples": [
+    "Gatekeeping decides which stories are published.",
+    "Gatekeeping can bias coverage.",
+    "Gatekeeping controls information flow.",
+    "Gatekeeping must be transparent."
+   ]
+  },
+  {
+   "id": "pack3-card-172",
+   "mode": "vocab",
+   "word": "Censorship Board",
+   "pron": "",
+   "def": "A body that reviews and restricts content.\nहिंदी: सेंसर बोर्ड",
+   "examples": [
+    "The Censorship Board reviews films.",
+    "The Censorship Board restricts explicit content.",
+    "The Censorship Board faces criticism.",
+    "The Censorship Board must be fair."
+   ]
+  },
+  {
+   "id": "pack3-card-175",
+   "mode": "vocab",
+   "word": "Data Protection",
+   "pron": "",
+   "def": "Laws safeguarding personal data.\nहिंदी: डेटा सुरक्षा",
+   "examples": [
+    "Data Protection prevents misuse of information.",
+    "Data Protection is legally mandated.",
+    "Data Protection builds user trust.",
+    "Data Protection must be enforced."
+   ]
+  },
+  {
+   "id": "pack3-card-176",
+   "mode": "vocab",
+   "word": "Freedom of Information",
+   "pron": "",
+   "def": "The right of citizens to access official data and public records held by government entities.\nहिंदी: सूचना की स्वतंत्रता",
+   "examples": [
+    "Freedom of information enhances transparency and holds elected officials accountable.",
+    "Reporters used freedom of information laws to reveal government misspending.",
+    "Freedom of information is vital for an informed, self-governing citizenry.",
+    "Exceptions to freedom of information must be narrowly tailored for national defense."
+   ]
+  },
+  {
+   "id": "pack3-card-177",
+   "mode": "vocab",
+   "word": "Whistleblower",
+   "pron": "",
+   "def": "A person who exposes wrongdoing within an organization.\nहिंदी: भंडाफोड़ करने वाला / मुखबिर",
+   "examples": [
+    "Whistleblowers expose corruption.",
+    "Whistleblowers need legal protection.",
+    "Whistleblowers risk their careers.",
+    "Whistleblowers serve the public interest."
+   ]
+  },
+  {
+   "id": "pack3-card-179",
+   "mode": "vocab",
+   "word": "Trial by Media",
+   "pron": "",
+   "def": "Public judgment of a case by media before court verdict.\nहिंदी: मीडिया ट्रायल",
+   "examples": [
+    "Trial by Media violates fair trial.",
+    "Trial by Media prejudices public opinion.",
+    "Trial by Media must be avoided.",
+    "Trial by Media harms the accused."
+   ]
+  },
+  {
+   "id": "pack3-card-180",
+   "mode": "vocab",
+   "word": "Public Opinion",
+   "pron": "",
+   "def": "The collective views of the population.\nहिंदी: जनमत",
+   "examples": [
+    "Public Opinion shapes policy.",
+    "Public Opinion is influenced by media.",
+    "Public Opinion can shift quickly.",
+    "Public Opinion must be respected."
+   ]
+  },
+  {
+   "id": "pack3-card-181",
+   "mode": "vocab",
+   "word": "Opinion Poll",
+   "pron": "",
+   "def": "A survey measuring public views.\nहिंदी: जनमत सर्वेक्षण",
+   "examples": [
+    "Opinion Polls predict election outcomes.",
+    "Opinion Polls can be inaccurate.",
+    "Opinion Polls influence voters.",
+    "Opinion Polls must be transparent."
+   ]
+  },
+  {
+   "id": "pack3-card-182",
+   "mode": "vocab",
+   "word": "Exit Poll",
+   "pron": "",
+   "def": "A survey of voters after they vote.\nहिंदी: एग्ज़िट पोल / मतदान उपरांत सर्वेक्षण",
+   "examples": [
+    "Exit Polls predict results.",
+    "Exit Polls are regulated in India.",
+    "Exit Polls can be misleading.",
+    "Exit Polls shape post-election debate."
+   ]
+  },
+  {
+   "id": "pack3-card-183",
+   "mode": "vocab",
+   "word": "Social Media",
+   "pron": "",
+   "def": "Online platforms for sharing content and opinions.\nहिंदी: सोशल मीडिया",
+   "examples": [
+    "Social Media connects millions.",
+    "Social Media spreads misinformation.",
+    "Social Media shapes youth opinion.",
+    "Social Media must be regulated."
+   ]
+  },
+  {
+   "id": "pack3-card-185",
+   "mode": "vocab",
+   "word": "Smear Campaign",
+   "pron": "",
+   "def": "A concerted effort to damage someone's reputation by spreading malicious or false rumors.\nहिंदी: बदनाम करने का अभियान",
+   "examples": [
+    "The opposition candidate became the target of an orchestrated online smear campaign.",
+    "Smear campaigns distract voters from substantive political issues and economic policies.",
+    "Courts awarded heavy damages after finding the newspaper guilty of a deliberate smear campaign.",
+    "Investigative reporters uncovered the public relations firm behind the anonymous smear campaign."
+   ]
+  },
+  {
+   "id": "pack3-card-186",
+   "mode": "vocab",
+   "word": "Filter Bubble",
+   "pron": "",
+   "def": "An online space where algorithms show only familiar views.\nहिंदी: फ़िल्टर बबल",
+   "examples": [
+    "Filter Bubbles limit exposure to new ideas.",
+    "Filter Bubbles are created by algorithms.",
+    "Filter Bubbles deepen polarization.",
+    "Filter Bubbles must be recognized."
+   ]
+  },
+  {
+   "id": "pack3-card-187",
+   "mode": "vocab",
+   "word": "Trolling",
+   "pron": "",
+   "def": "Posting abusive or provocative content online.\nहिंदी: ट्रोलिंग",
+   "examples": [
+    "Trolling silences marginalized voices.",
+    "Trolling is used to harass.",
+    "Trolling damages mental health.",
+    "Trolling must be punished."
+   ]
+  },
+  {
+   "id": "pack3-card-188",
+   "mode": "vocab",
+   "word": "Hate Speech",
+   "pron": "",
+   "def": "Speech attacking a group based on identity.\nहिंदी: नफ़रत भरा भाषण",
+   "examples": [
+    "Hate Speech incites violence.",
+    "Hate Speech is restricted by law.",
+    "Hate Speech divides society.",
+    "Hate Speech must be countered."
+   ]
+  },
+  {
+   "id": "pack3-card-189",
+   "mode": "vocab",
+   "word": "Fact-Checking",
+   "pron": "",
+   "def": "Verifying the accuracy of information.\nहिंदी: तथ्य-जाँच",
+   "examples": [
+    "Fact-Checking counters misinformation.",
+    "Fact-Checking must be impartial.",
+    "Fact-Checking builds trust.",
+    "Fact-Checking is done by newsrooms."
+   ]
+  },
+  {
+   "id": "pack3-card-190",
+   "mode": "vocab",
+   "word": "Media Literacy",
+   "pron": "",
+   "def": "The ability to analyze and evaluate media content.\nहिंदी: मीडिया साक्षरता",
+   "examples": [
+    "Media Literacy resists propaganda.",
+    "Media Literacy should be taught in schools.",
+    "Media Literacy builds critical thinking.",
+    "Media Literacy empowers citizens."
+   ]
+  },
+  {
+   "id": "pack3-card-191",
+   "mode": "vocab",
+   "word": "Fourth Estate",
+   "pron": "",
+   "def": "The media as a check on power.\nहिंदी: चौथा स्तंभ",
+   "examples": [
+    "The Fourth Estate holds power accountable.",
+    "The Fourth Estate must be independent.",
+    "The Fourth Estate shapes democracy.",
+    "The Fourth Estate faces pressure."
+   ]
+  },
+  {
+   "id": "pack3-card-192",
+   "mode": "vocab",
+   "word": "Investigative Journalism",
+   "pron": "",
+   "def": "In-depth reporting to uncover hidden truths.\nहिंदी: खोजी पत्रकारिता",
+   "examples": [
+    "Investigative Journalism exposed Watergate.",
+    "Investigative Journalism takes time and resources.",
+    "Investigative Journalism fights corruption.",
+    "Investigative Journalism risks lives."
+   ]
+  },
+  {
+   "id": "pack3-card-193",
+   "mode": "vocab",
+   "word": "Embedded Journalism",
+   "pron": "",
+   "def": "Reporters attached to military units during conflict.\nहिंदी: सैन्य दल के साथ जुड़ी पत्रकारिता",
+   "examples": [
+    "Embedded Journalism gives frontline access.",
+    "Embedded Journalism risks bias.",
+    "Embedded Journalism is used in wars.",
+    "Embedded Journalism shapes war coverage."
+   ]
+  },
+  {
+   "id": "pack3-card-194",
+   "mode": "vocab",
+   "word": "War Correspondent",
+   "pron": "",
+   "def": "A journalist reporting from conflict zones.\nहिंदी: युद्ध संवाददाता",
+   "examples": [
+    "War Correspondents risk their lives.",
+    "War Correspondents report from the front.",
+    "War Correspondents bring truth to light.",
+    "War Correspondents need protection."
+   ]
+  },
+  {
+   "id": "pack3-card-195",
+   "mode": "vocab",
+   "word": "Citizen Journalism",
+   "pron": "",
+   "def": "News reporting by ordinary people.\nहिंदी: नागरिक पत्रकारिता",
+   "examples": [
+    "Citizen Journalism captures events live.",
+    "Citizen Journalism challenges mainstream media.",
+    "Citizen Journalism spreads quickly.",
+    "Citizen Journalism must be verified."
+   ]
+  },
+  {
+   "id": "pack3-card-196",
+   "mode": "vocab",
+   "word": "Paywall",
+   "pron": "",
+   "def": "A system requiring payment to access content.\nहिंदी: पेवॉल / भुगतान की दीवार",
+   "examples": [
+    "Paywalls fund quality journalism.",
+    "Paywalls limit access to news.",
+    "Paywalls are common in digital media.",
+    "Paywalls affect public information."
+   ]
+  },
+  {
+   "id": "pack3-card-197",
+   "mode": "vocab",
+   "word": "Clickbait",
+   "pron": "",
+   "def": "Sensational headlines designed to attract clicks.\nहिंदी: क्लिकबेट / ध्यान खींचने वाली सुर्ख़ी",
+   "examples": [
+    "Clickbait misleads readers.",
+    "Clickbait prioritizes clicks over truth.",
+    "Clickbait damages credibility.",
+    "Clickbait is common online."
+   ]
+  },
+  {
+   "id": "pack3-card-199",
+   "mode": "vocab",
+   "word": "Content Moderation",
+   "pron": "",
+   "def": "Reviewing and removing harmful online content.\nहिंदी: सामग्री पर नियंत्रण / कंटेंट मॉडरेशन",
+   "examples": [
+    "Content Moderation removes hate speech.",
+    "Content Moderation must be fair.",
+    "Content Moderation faces free speech concerns.",
+    "Content Moderation is done by platforms."
+   ]
+  },
+  {
+   "id": "pack3-card-200",
+   "mode": "vocab",
+   "word": "Information Warfare",
+   "pron": "",
+   "def": "The use of information to influence or attack an opponent.\nहिंदी: सूचना युद्ध",
+   "examples": [
+    "Information Warfare targets public opinion.",
+    "Information Warfare spreads disinformation.",
+    "Information Warfare is used in elections.",
+    "Information Warfare must be countered."
+   ]
+  }
+ ]
+}

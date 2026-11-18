@@ -1,0 +1,528 @@
+{
+ "id": "pack3-deck-6",
+ "categoryId": "pack3-cat-1",
+ "title": "6. Human Nature",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-251",
+   "mode": "vocab",
+   "word": "Human Nature",
+   "pron": "",
+   "def": "The inherent qualities and behaviors common to all humans.\nहिंदी: मानव स्वभाव",
+   "examples": [
+    "Human Nature blends reason and emotion.",
+    "Human Nature is shaped by both genes and society.",
+    "Human Nature seeks survival and meaning.",
+    "Human Nature is capable of good and evil."
+   ]
+  },
+  {
+   "id": "pack3-card-252",
+   "mode": "vocab",
+   "word": "Instinct",
+   "pron": "",
+   "def": "An inborn tendency to behave in a certain way.\nहिंदी: सहज प्रवृत्ति",
+   "examples": [
+    "Instinct drives self-preservation.",
+    "Instinct guides maternal care.",
+    "Instinct operates without conscious thought.",
+    "Instinct is shared with animals."
+   ]
+  },
+  {
+   "id": "pack3-card-253",
+   "mode": "vocab",
+   "word": "Emotion",
+   "pron": "",
+   "def": "A strong feeling such as love, fear, or anger.\nहिंदी: भावना",
+   "examples": [
+    "Emotion influences decision-making.",
+    "Emotion can cloud judgment.",
+    "Emotion binds people together.",
+    "Emotion drives art and creativity."
+   ]
+  },
+  {
+   "id": "pack3-card-254",
+   "mode": "vocab",
+   "word": "Reason",
+   "pron": "",
+   "def": "The power to think logically and make judgments.\nहिंदी: तर्क-बुद्धि",
+   "examples": [
+    "Reason distinguishes humans from animals.",
+    "Reason must guide action.",
+    "Reason challenges superstition.",
+    "Reason and emotion often conflict."
+   ]
+  },
+  {
+   "id": "pack3-card-255",
+   "mode": "vocab",
+   "word": "Conscience",
+   "pron": "",
+   "def": "An inner sense of right and wrong.\nहिंदी: अंतरात्मा / ज़मीर",
+   "examples": [
+    "Conscience guides moral choices.",
+    "Conscience pricks after wrongdoing.",
+    "Conscience differs across cultures.",
+    "Conscience must be cultivated."
+   ]
+  },
+  {
+   "id": "pack3-card-256",
+   "mode": "vocab",
+   "word": "Morality",
+   "pron": "",
+   "def": "Principles concerning right and wrong behavior.\nहिंदी: नैतिकता",
+   "examples": [
+    "Morality shapes social order.",
+    "Morality is taught from childhood.",
+    "Morality evolves with society.",
+    "Morality guides human conduct."
+   ]
+  },
+  {
+   "id": "pack3-card-257",
+   "mode": "vocab",
+   "word": "Ethics",
+   "pron": "",
+   "def": "A system of moral principles guiding conduct.\nहिंदी: आचार-नीति",
+   "examples": [
+    "Ethics guide professional behavior.",
+    "Ethics must be practiced, not just preached.",
+    "Ethics distinguish right from expedient.",
+    "Ethics are vital in governance."
+   ]
+  },
+  {
+   "id": "pack3-card-258",
+   "mode": "vocab",
+   "word": "Empathy",
+   "pron": "",
+   "def": "The ability to understand and share another's feelings.\nहिंदी: समानुभूति / दूसरे की जगह खुद को रखकर समझना",
+   "examples": [
+    "Empathy builds compassion.",
+    "Empathy reduces conflict.",
+    "Empathy is essential for leadership.",
+    "Empathy connects people across divides."
+   ]
+  },
+  {
+   "id": "pack3-card-259",
+   "mode": "vocab",
+   "word": "Sympathy",
+   "pron": "",
+   "def": "Feeling pity or sorrow for another's suffering.\nहिंदी: सहानुभूति",
+   "examples": [
+    "Sympathy expresses concern.",
+    "Sympathy differs from empathy.",
+    "Sympathy comforts the suffering.",
+    "Sympathy must lead to action."
+   ]
+  },
+  {
+   "id": "pack3-card-260",
+   "mode": "vocab",
+   "word": "Compassion",
+   "pron": "",
+   "def": "Deep concern for the suffering of others.\nहिंदी: करुणा",
+   "examples": [
+    "Compassion motivates service.",
+    "Compassion is central to all religions.",
+    "Compassion heals wounds.",
+    "Compassion must be practiced daily."
+   ]
+  },
+  {
+   "id": "pack3-card-261",
+   "mode": "vocab",
+   "word": "Altruism",
+   "pron": "",
+   "def": "Selfless concern for the well-being of others.\nहिंदी: परमार्थ / निःस्वार्थ भाव",
+   "examples": [
+    "Altruism puts others before self.",
+    "Altruism exists in every culture.",
+    "Altruism strengthens communities.",
+    "Altruism is admired universally."
+   ]
+  },
+  {
+   "id": "pack3-card-262",
+   "mode": "vocab",
+   "word": "Selfishness",
+   "pron": "",
+   "def": "Concern only for one's own benefit.\nहिंदी: स्वार्थ",
+   "examples": [
+    "Selfishness harms collective good.",
+    "Selfishness drives greed.",
+    "Selfishness isolates individuals.",
+    "Selfishness must be restrained."
+   ]
+  },
+  {
+   "id": "pack3-card-263",
+   "mode": "vocab",
+   "word": "Greed",
+   "pron": "",
+   "def": "An excessive desire for wealth or power.\nहिंदी: लालच",
+   "examples": [
+    "Greed fuels corruption.",
+    "Greed destroys trust.",
+    "Greed leads to exploitation.",
+    "Greed is never satisfied."
+   ]
+  },
+  {
+   "id": "pack3-card-264",
+   "mode": "vocab",
+   "word": "Ego",
+   "pron": "",
+   "def": "A person's sense of self-importance.\nहिंदी: अहं / अहंकार",
+   "examples": [
+    "Ego blinds judgment.",
+    "Ego prevents learning.",
+    "Ego fuels conflict.",
+    "Ego must be controlled."
+   ]
+  },
+  {
+   "id": "pack3-card-265",
+   "mode": "vocab",
+   "word": "Pride",
+   "pron": "",
+   "def": "A feeling of satisfaction or excessive self-esteem.\nहिंदी: गर्व / अभिमान",
+   "examples": [
+    "Pride in one's work is healthy.",
+    "Pride can become arrogance.",
+    "Pride in nation unites people.",
+    "Pride must be balanced with humility."
+   ]
+  },
+  {
+   "id": "pack3-card-266",
+   "mode": "vocab",
+   "word": "Humility",
+   "pron": "",
+   "def": "A modest view of one's own importance.\nहिंदी: विनम्रता",
+   "examples": [
+    "Humility attracts respect.",
+    "Humility keeps leaders grounded.",
+    "Humility admits mistakes.",
+    "Humility strengthens character."
+   ]
+  },
+  {
+   "id": "pack3-card-267",
+   "mode": "vocab",
+   "word": "Aggression",
+   "pron": "",
+   "def": "Hostile or violent behavior toward others.\nहिंदी: आक्रामकता",
+   "examples": [
+    "Aggression arises from fear.",
+    "Aggression damages relationships.",
+    "Aggression must be channeled constructively.",
+    "Aggression is common in animals and humans."
+   ]
+  },
+  {
+   "id": "pack3-card-268",
+   "mode": "vocab",
+   "word": "Fear",
+   "pron": "",
+   "def": "An emotional response to danger or threat.\nहिंदी: डर / भय",
+   "examples": [
+    "Fear protects from danger.",
+    "Fear can paralyze action.",
+    "Fear is exploited by demagogues.",
+    "Fear must be faced with courage."
+   ]
+  },
+  {
+   "id": "pack3-card-274",
+   "mode": "vocab",
+   "word": "Reciprocity",
+   "pron": "",
+   "def": "The practice of exchanging things with others for mutual benefit and shared advantage.\nहिंदी: पारस्परिकता / बदले में लौटाना",
+   "examples": [
+    "Human societies evolved around the fundamental norm of mutual reciprocity.",
+    "Reciprocity strengthens social bonds and encourages long-term cooperation.",
+    "Trade treaties depend on the principle of diplomatic reciprocity between nations.",
+    "A lack of reciprocity can strain personal friendships and professional partnerships."
+   ]
+  },
+  {
+   "id": "pack3-card-275",
+   "mode": "vocab",
+   "word": "Conformity",
+   "pron": "",
+   "def": "Matching one's behavior to group norms.\nहिंदी: अनुरूपता / भीड़ के साथ चलना",
+   "examples": [
+    "Conformity creates social order.",
+    "Conformity suppresses individuality.",
+    "Conformity can lead to blind obedience.",
+    "Conformity pressures dissenters."
+   ]
+  },
+  {
+   "id": "pack3-card-276",
+   "mode": "vocab",
+   "word": "Obedience",
+   "pron": "",
+   "def": "Following orders or authority.\nहिंदी: आज्ञाकारिता",
+   "examples": [
+    "Obedience maintains discipline.",
+    "Obedience can enable injustice.",
+    "Obedience must be to lawful authority.",
+    "Obedience requires moral judgment."
+   ]
+  },
+  {
+   "id": "pack3-card-277",
+   "mode": "vocab",
+   "word": "Rebellion",
+   "pron": "",
+   "def": "Resistance against authority or control.\nहिंदी: विद्रोह",
+   "examples": [
+    "Rebellion challenges injustice.",
+    "Rebellion can bring reform.",
+    "Rebellion risks chaos.",
+    "Rebellion must be principled."
+   ]
+  },
+  {
+   "id": "pack3-card-278",
+   "mode": "vocab",
+   "word": "Free Will",
+   "pron": "",
+   "def": "The power to make choices without external constraint.\nहिंदी: स्वतंत्र इच्छा",
+   "examples": [
+    "Free Will underpins moral responsibility.",
+    "Free Will is debated by philosophers.",
+    "Free Will distinguishes humans.",
+    "Free Will must be exercised wisely."
+   ]
+  },
+  {
+   "id": "pack3-card-279",
+   "mode": "vocab",
+   "word": "Determinism",
+   "pron": "",
+   "def": "The belief that all events are caused by prior conditions.\nहिंदी: नियतिवाद",
+   "examples": [
+    "Determinism questions free will.",
+    "Determinism explains behavior through causes.",
+    "Determinism is debated in science.",
+    "Determinism can excuse wrongdoing wrongly."
+   ]
+  },
+  {
+   "id": "pack3-card-280",
+   "mode": "vocab",
+   "word": "Rationality",
+   "pron": "",
+   "def": "The quality of being logical and reasonable.\nहिंदी: तर्कसंगतता",
+   "examples": [
+    "Rationality guides sound decisions.",
+    "Rationality is limited by emotion.",
+    "Rationality is central to economics.",
+    "Rationality must be cultivated."
+   ]
+  },
+  {
+   "id": "pack3-card-281",
+   "mode": "vocab",
+   "word": "Irrationality",
+   "pron": "",
+   "def": "The quality of being illogical or unreasonable.\nहिंदी: अतार्किकता",
+   "examples": [
+    "Irrationality fuels panic.",
+    "Irrationality drives superstition.",
+    "Irrationality can be exploited.",
+    "Irrationality must be recognized."
+   ]
+  },
+  {
+   "id": "pack3-card-282",
+   "mode": "vocab",
+   "word": "Self-Preservation",
+   "pron": "",
+   "def": "The instinct or action of protecting oneself from physical harm, danger, or destruction.\nहिंदी: आत्म-रक्षा",
+   "examples": [
+    "The instinct for self-preservation is hardwired into all living creatures.",
+    "In times of acute crisis, self-preservation often takes precedence over all else.",
+    "Laws recognize reasonable force used in legitimate self-preservation.",
+    "The body activates fight-or-flight reflexes as a mechanism for self-preservation."
+   ]
+  },
+  {
+   "id": "pack3-card-286",
+   "mode": "vocab",
+   "word": "Identity",
+   "pron": "",
+   "def": "The qualities and beliefs that define a person or group.\nहिंदी: पहचान",
+   "examples": [
+    "Identity is shaped by culture.",
+    "Identity can be multiple and fluid.",
+    "Identity politics shapes elections.",
+    "Identity must be respected."
+   ]
+  },
+  {
+   "id": "pack3-card-287",
+   "mode": "vocab",
+   "word": "Belonging",
+   "pron": "",
+   "def": "A feeling of being accepted as part of a group.\nहिंदी: अपनापन / जुड़ाव की भावना",
+   "examples": [
+    "Belonging fulfills a human need.",
+    "Belonging strengthens mental health.",
+    "Belonging can be exclusive.",
+    "Belonging must be inclusive."
+   ]
+  },
+  {
+   "id": "pack3-card-288",
+   "mode": "vocab",
+   "word": "Alienation",
+   "pron": "",
+   "def": "A feeling of being isolated or estranged.\nहिंदी: अलगाव / बेगानापन",
+   "examples": [
+    "Alienation grows in modern cities.",
+    "Alienation results from exclusion.",
+    "Alienation fuels radicalization.",
+    "Alienation must be addressed."
+   ]
+  },
+  {
+   "id": "pack3-card-290",
+   "mode": "vocab",
+   "word": "Resentment",
+   "pron": "",
+   "def": "Bitter indignation at unfair treatment.\nहिंदी: द्वेष / मन में कड़वाहट",
+   "examples": [
+    "Resentment builds from injustice.",
+    "Resentment can lead to conflict.",
+    "Resentment must be addressed.",
+    "Resentment simmers silently."
+   ]
+  },
+  {
+   "id": "pack3-card-291",
+   "mode": "vocab",
+   "word": "Forgiveness",
+   "pron": "",
+   "def": "The act of pardoning someone for a wrong.\nहिंदी: क्षमा",
+   "examples": [
+    "Forgiveness heals relationships.",
+    "Forgiveness is not weakness.",
+    "Forgiveness frees the forgiver.",
+    "Forgiveness must be sincere."
+   ]
+  },
+  {
+   "id": "pack3-card-292",
+   "mode": "vocab",
+   "word": "Gratitude",
+   "pron": "",
+   "def": "The quality of being thankful.\nहिंदी: कृतज्ञता",
+   "examples": [
+    "Gratitude improves well-being.",
+    "Gratitude strengthens bonds.",
+    "Gratitude must be expressed.",
+    "Gratitude counters greed."
+   ]
+  },
+  {
+   "id": "pack3-card-293",
+   "mode": "vocab",
+   "word": "Hope",
+   "pron": "",
+   "def": "A feeling of expectation and desire for the future.\nहिंदी: आशा / उम्मीद",
+   "examples": [
+    "Hope sustains through hardship.",
+    "Hope drives change.",
+    "Hope must be realistic.",
+    "Hope unites movements."
+   ]
+  },
+  {
+   "id": "pack3-card-294",
+   "mode": "vocab",
+   "word": "Despair",
+   "pron": "",
+   "def": "The complete loss of hope.\nहिंदी: निराशा",
+   "examples": [
+    "Despair follows repeated failure.",
+    "Despair can lead to inaction.",
+    "Despair must be overcome.",
+    "Despair affects mental health."
+   ]
+  },
+  {
+   "id": "pack3-card-295",
+   "mode": "vocab",
+   "word": "Resilience",
+   "pron": "",
+   "def": "The ability to recover from difficulties.\nहिंदी: लचीलापन / हार से उबरने की शक्ति",
+   "examples": [
+    "Resilience helps overcome adversity.",
+    "Resilience can be built.",
+    "Resilience is vital for communities.",
+    "Resilience follows trauma."
+   ]
+  },
+  {
+   "id": "pack3-card-296",
+   "mode": "vocab",
+   "word": "Groupthink",
+   "pron": "",
+   "def": "Faulty decision-making due to desire for harmony.\nहिंदी: समूह-सोच",
+   "examples": [
+    "Groupthink suppresses dissent.",
+    "Groupthink leads to poor decisions.",
+    "Groupthink must be countered.",
+    "Groupthink affects organizations."
+   ]
+  },
+  {
+   "id": "pack3-card-297",
+   "mode": "vocab",
+   "word": "Mob Mentality",
+   "pron": "",
+   "def": "The tendency of crowds to act irrationally.\nहिंदी: भीड़ की मानसिकता",
+   "examples": [
+    "Mob Mentality fuels violence.",
+    "Mob Mentality overrides reason.",
+    "Mob Mentality spreads rumors.",
+    "Mob Mentality must be controlled."
+   ]
+  },
+  {
+   "id": "pack3-card-298",
+   "mode": "vocab",
+   "word": "Moral Courage",
+   "pron": "",
+   "def": "The courage to act on one's ethical beliefs.\nहिंदी: नैतिक साहस",
+   "examples": [
+    "Moral Courage resists injustice.",
+    "Moral Courage defies pressure.",
+    "Moral Courage is rare and precious.",
+    "Moral Courage inspires reform."
+   ]
+  },
+  {
+   "id": "pack3-card-299",
+   "mode": "vocab",
+   "word": "Self-Awareness",
+   "pron": "",
+   "def": "The conscious knowledge of one's own character.\nहिंदी: आत्म-जागरूकता",
+   "examples": [
+    "Self-Awareness improves decisions.",
+    "Self-Awareness reduces bias.",
+    "Self-Awareness builds character.",
+    "Self-Awareness must be practiced."
+   ]
+  }
+ ]
+}

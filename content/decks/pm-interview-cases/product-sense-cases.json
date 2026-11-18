@@ -1,0 +1,44 @@
+{
+ "id": "deck-55",
+ "categoryId": "cat-51",
+ "title": "Product Sense Cases",
+ "sub": "Diagnose, decide, and prioritize like a PM.",
+ "cards": [
+  {
+   "id": "card-52",
+   "mode": "case",
+   "scenario": "A ride-sharing app sees weekend rides drop 20% in one city over three weeks. No product changes shipped in that period.",
+   "question": "How would you diagnose the root cause?",
+   "answer": [
+    "Confirm the data pipeline and metric definition are intact first",
+    "Segment: riders vs drivers, new vs returning, time-of-day",
+    "Check external factors — weather, local events, competitor promos",
+    "Walk the funnel week-over-week to isolate the drop-off stage"
+   ]
+  },
+  {
+   "id": "card-53",
+   "mode": "case",
+   "scenario": "Leadership wants to add a social feed to a productivity app to boost engagement.",
+   "question": "Would you build it? How do you decide?",
+   "answer": [
+    "Clarify the goal behind “engagement” — retention or session time?",
+    "Assess fit with core job-to-be-done, risk of distraction",
+    "Propose a cheap test before committing eng resources",
+    "Define success metrics and a kill criterion up front"
+   ]
+  },
+  {
+   "id": "card-54",
+   "mode": "case",
+   "scenario": "A checkout flow converts at 55% on desktop but only 30% on mobile.",
+   "question": "Where do you focus to close the gap?",
+   "answer": [
+    "Instrument each mobile step to find the biggest drop",
+    "Audit form length, autofill, and payment options on mobile",
+    "Test one high-leverage fix, measure lift",
+    "Watch session replays for friction the funnel hides"
+   ]
+  }
+ ]
+}

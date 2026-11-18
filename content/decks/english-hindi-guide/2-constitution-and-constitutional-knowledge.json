@@ -1,0 +1,593 @@
+{
+ "id": "pack3-deck-2",
+ "categoryId": "pack3-cat-1",
+ "title": "2. Constitution & Constitutional Knowledge",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-52",
+   "mode": "vocab",
+   "word": "Preamble",
+   "pron": "",
+   "def": "The introductory statement that outlines a constitution's purpose and values.\nहिंदी: प्रस्तावना",
+   "examples": [
+    "The Preamble declares India a sovereign republic.",
+    "The Preamble reflects the will of the people.",
+    "Courts use the Preamble to interpret laws.",
+    "The Preamble promises justice and liberty."
+   ]
+  },
+  {
+   "id": "pack3-card-53",
+   "mode": "vocab",
+   "word": "Bicameralism",
+   "pron": "",
+   "def": "A system of government in which the legislature comprises two separate houses.\nहिंदी: द्विसदनीय व्यवस्था",
+   "examples": [
+    "Bicameralism provides a system of checks and balances within parliament.",
+    "The Indian Parliament practices bicameralism with the Lok Sabha and Rajya Sabha.",
+    "Bicameralism ensures that states have representation at the federal level.",
+    "Critics argue that bicameralism can delay the passage of urgent legislation."
+   ]
+  },
+  {
+   "id": "pack3-card-54",
+   "mode": "vocab",
+   "word": "Secularism",
+   "pron": "",
+   "def": "The principle that the state treats all religions equally.\nहिंदी: धर्मनिरपेक्षता",
+   "examples": [
+    "Secularism is a basic feature of the Constitution.",
+    "Secularism does not mean anti-religion.",
+    "The state cannot favor one religion.",
+    "Secularism protects religious minorities."
+   ]
+  },
+  {
+   "id": "pack3-card-55",
+   "mode": "vocab",
+   "word": "Federalism",
+   "pron": "",
+   "def": "A system dividing power between central and state governments.\nहिंदी: संघवाद",
+   "examples": [
+    "Federalism distributes power between Centre and States.",
+    "Federalism allows regional autonomy.",
+    "Disputes arise over federal powers.",
+    "Federalism suits India's diversity."
+   ]
+  },
+  {
+   "id": "pack3-card-56",
+   "mode": "vocab",
+   "word": "Republic",
+   "pron": "",
+   "def": "A state where the head is elected, not a hereditary monarch.\nहिंदी: गणराज्य",
+   "examples": [
+    "India is a republic with an elected President.",
+    "A republic rejects hereditary rule.",
+    "The republic celebrates Republic Day.",
+    "Republicanism values citizen equality."
+   ]
+  },
+  {
+   "id": "pack3-card-57",
+   "mode": "vocab",
+   "word": "Fundamental Rights",
+   "pron": "",
+   "def": "Basic rights guaranteed to citizens by the Constitution.\nहिंदी: मौलिक अधिकार",
+   "examples": [
+    "Fundamental Rights protect individual freedom.",
+    "Fundamental Rights can be enforced in court.",
+    "Article 21 guarantees life and liberty.",
+    "Fundamental Rights have reasonable restrictions."
+   ]
+  },
+  {
+   "id": "pack3-card-58",
+   "mode": "vocab",
+   "word": "Directive Principles",
+   "pron": "",
+   "def": "Guidelines for government policy aimed at social welfare.\nहिंदी: नीति-निर्देशक सिद्धांत",
+   "examples": [
+    "Directive Principles guide welfare legislation.",
+    "Directive Principles are not court-enforceable.",
+    "Directive Principles aim at social justice.",
+    "Directive Principles inspire policy reform."
+   ]
+  },
+  {
+   "id": "pack3-card-59",
+   "mode": "vocab",
+   "word": "Fundamental Duties",
+   "pron": "",
+   "def": "Moral obligations of citizens toward the nation.\nहिंदी: मौलिक कर्तव्य",
+   "examples": [
+    "Fundamental Duties were added in 1976.",
+    "Fundamental Duties encourage civic responsibility.",
+    "Respecting the Constitution is a duty.",
+    "Protecting the environment is a duty."
+   ]
+  },
+  {
+   "id": "pack3-card-61",
+   "mode": "vocab",
+   "word": "Basic Structure Doctrine",
+   "pron": "",
+   "def": "The principle that certain core features cannot be altered.\nहिंदी: मूल ढाँचा सिद्धांत",
+   "examples": [
+    "The Basic Structure Doctrine emerged in Kesavananda case.",
+    "Parliament cannot destroy basic features.",
+    "Basic Structure protects democracy.",
+    "Basic Structure limits amending power."
+   ]
+  },
+  {
+   "id": "pack3-card-62",
+   "mode": "vocab",
+   "word": "Judicial Review",
+   "pron": "",
+   "def": "The power of courts to examine laws for constitutionality.\nहिंदी: न्यायिक समीक्षा",
+   "examples": [
+    "Judicial Review checks unconstitutional laws.",
+    "Judicial Review upholds the rule of law.",
+    "Courts use Judicial Review to protect rights.",
+    "Judicial Review balances power."
+   ]
+  },
+  {
+   "id": "pack3-card-63",
+   "mode": "vocab",
+   "word": "Separation of Powers",
+   "pron": "",
+   "def": "Division of authority among legislature, executive, and judiciary.\nहिंदी: शक्तियों का पृथक्करण",
+   "examples": [
+    "Separation of Powers prevents tyranny.",
+    "Each organ checks the others.",
+    "Separation of Powers ensures accountability.",
+    "India blends separation with cooperation."
+   ]
+  },
+  {
+   "id": "pack3-card-64",
+   "mode": "vocab",
+   "word": "Legislature",
+   "pron": "",
+   "def": "The branch that makes laws.\nहिंदी: विधायिका",
+   "examples": [
+    "Parliament is the legislature.",
+    "The legislature represents the people.",
+    "The legislature debates and passes bills.",
+    "The legislature controls the executive."
+   ]
+  },
+  {
+   "id": "pack3-card-65",
+   "mode": "vocab",
+   "word": "Executive",
+   "pron": "",
+   "def": "The branch that implements laws and runs administration.\nहिंदी: कार्यपालिका",
+   "examples": [
+    "The executive implements policies.",
+    "The executive is accountable to the legislature.",
+    "The executive includes the President and Council of Ministers.",
+    "Executive power must be used lawfully."
+   ]
+  },
+  {
+   "id": "pack3-card-66",
+   "mode": "vocab",
+   "word": "Judiciary",
+   "pron": "",
+   "def": "The branch that interprets laws and delivers justice.\nहिंदी: न्यायपालिका",
+   "examples": [
+    "The judiciary interprets the Constitution.",
+    "The judiciary must be independent.",
+    "The judiciary protects citizen rights.",
+    "The judiciary resolves disputes."
+   ]
+  },
+  {
+   "id": "pack3-card-67",
+   "mode": "vocab",
+   "word": "Rule of Law",
+   "pron": "",
+   "def": "The principle that everyone is equal before the law.\nहिंदी: विधि का शासन",
+   "examples": [
+    "Rule of Law prevents arbitrary power.",
+    "No one is above the Rule of Law.",
+    "Rule of Law ensures fairness.",
+    "Rule of Law protects the weak."
+   ]
+  },
+  {
+   "id": "pack3-card-68",
+   "mode": "vocab",
+   "word": "Due Process",
+   "pron": "",
+   "def": "Fair legal procedures that protect individual rights.\nहिंदी: उचित विधि-प्रक्रिया",
+   "examples": [
+    "Due Process ensures fair trials.",
+    "Due Process protects against arbitrary arrest.",
+    "Due Process balances state and citizen.",
+    "Due Process is guaranteed by Article 21."
+   ]
+  },
+  {
+   "id": "pack3-card-69",
+   "mode": "vocab",
+   "word": "Equality Before Law",
+   "pron": "",
+   "def": "The principle that all persons are subject to the same laws.\nहिंदी: विधि के समक्ष समानता",
+   "examples": [
+    "Equality Before Law is guaranteed by Article 14.",
+    "Equality Before Law forbids discrimination.",
+    "Equality Before Law applies to all citizens.",
+    "Equality Before Law upholds fairness."
+   ]
+  },
+  {
+   "id": "pack3-card-70",
+   "mode": "vocab",
+   "word": "Freedom of Speech",
+   "pron": "",
+   "def": "The right to express opinions without censorship.\nहिंदी: अभिव्यक्ति की स्वतंत्रता",
+   "examples": [
+    "Freedom of Speech is guaranteed by Article 19.",
+    "Freedom of Speech has reasonable restrictions.",
+    "Freedom of Speech strengthens democracy.",
+    "Freedom of Speech protects dissent."
+   ]
+  },
+  {
+   "id": "pack3-card-71",
+   "mode": "vocab",
+   "word": "Right to Life",
+   "pron": "",
+   "def": "The right to live with dignity and liberty.\nहिंदी: जीवन का अधिकार",
+   "examples": [
+    "Right to Life is protected by Article 21.",
+    "Right to Life includes dignity.",
+    "Right to Life covers health and environment.",
+    "Right to Life is the most sacred right."
+   ]
+  },
+  {
+   "id": "pack3-card-72",
+   "mode": "vocab",
+   "word": "Right to Equality",
+   "pron": "",
+   "def": "The right to equal treatment and opportunity.\nहिंदी: समता का अधिकार",
+   "examples": [
+    "Right to Equality is guaranteed by Articles 14–18.",
+    "Right to Equality bans caste discrimination.",
+    "Right to Equality promotes social justice.",
+    "Right to Equality ensures equal opportunity."
+   ]
+  },
+  {
+   "id": "pack3-card-73",
+   "mode": "vocab",
+   "word": "Minority Rights",
+   "pron": "",
+   "def": "Special protections for religious and linguistic minorities.\nहिंदी: अल्पसंख्यक अधिकार",
+   "examples": [
+    "Minority Rights protect cultural identity.",
+    "Minority Rights are guaranteed by Articles 29–30.",
+    "Minority Rights ensure educational freedom.",
+    "Minority Rights promote inclusiveness."
+   ]
+  },
+  {
+   "id": "pack3-card-74",
+   "mode": "vocab",
+   "word": "Universal Suffrage",
+   "pron": "",
+   "def": "The right of all adult citizens to vote.\nहिंदी: सार्वभौमिक मताधिकार",
+   "examples": [
+    "Universal Suffrage gives every adult a vote.",
+    "Universal Suffrage strengthens democracy.",
+    "Universal Suffrage ended discriminatory voting.",
+    "Universal Suffrage ensures equal political voice."
+   ]
+  },
+  {
+   "id": "pack3-card-75",
+   "mode": "vocab",
+   "word": "Constituent Assembly",
+   "pron": "",
+   "def": "The body that drafted the Constitution.\nहिंदी: संविधान सभा",
+   "examples": [
+    "The Constituent Assembly drafted the Constitution.",
+    "The Constituent Assembly debated for nearly three years.",
+    "The Constituent Assembly included eminent leaders.",
+    "The Constituent Assembly adopted the Constitution in 1949."
+   ]
+  },
+  {
+   "id": "pack3-card-76",
+   "mode": "vocab",
+   "word": "Republic Day",
+   "pron": "",
+   "def": "The day the Constitution came into force.\nहिंदी: गणतंत्र दिवस",
+   "examples": [
+    "Republic Day is celebrated on 26 January.",
+    "Republic Day marks the Constitution's adoption.",
+    "Republic Day showcases national unity.",
+    "Republic Day honors democratic values."
+   ]
+  },
+  {
+   "id": "pack3-card-77",
+   "mode": "vocab",
+   "word": "Citizenship",
+   "pron": "",
+   "def": "Membership in a state with rights and duties.\nहिंदी: नागरिकता",
+   "examples": [
+    "Citizenship confers rights and duties.",
+    "Citizenship can be acquired by birth or naturalization.",
+    "Citizenship binds individuals to the nation.",
+    "Citizenship laws have been debated."
+   ]
+  },
+  {
+   "id": "pack3-card-78",
+   "mode": "vocab",
+   "word": "Constitutional Morality",
+   "pron": "",
+   "def": "Adherence to the spirit and values of the Constitution.\nहिंदी: संवैधानिक नैतिकता",
+   "examples": [
+    "Constitutional Morality guides governance.",
+    "Constitutional Morality respects institutional norms.",
+    "Courts invoke Constitutional Morality.",
+    "Constitutional Morality restrains majoritarianism."
+   ]
+  },
+  {
+   "id": "pack3-card-79",
+   "mode": "vocab",
+   "word": "Writ",
+   "pron": "",
+   "def": "A formal written order issued by a court.\nहिंदी: रिट / न्यायादेश",
+   "examples": [
+    "Writs protect fundamental rights.",
+    "Habeas Corpus is a writ against illegal detention.",
+    "Mandamus compels officials to act.",
+    "Writs are issued by higher courts."
+   ]
+  },
+  {
+   "id": "pack3-card-80",
+   "mode": "vocab",
+   "word": "Habeas Corpus",
+   "pron": "",
+   "def": "A writ requiring a detained person to be brought before a court.\nहिंदी: बंदी प्रत्यक्षीकरण",
+   "examples": [
+    "Habeas Corpus protects against illegal detention.",
+    "Habeas Corpus safeguards personal liberty.",
+    "Habeas Corpus can be filed by anyone.",
+    "Habeas Corpus is a powerful remedy."
+   ]
+  },
+  {
+   "id": "pack3-card-81",
+   "mode": "vocab",
+   "word": "Mandamus",
+   "pron": "",
+   "def": "A writ ordering a public authority to perform its duty.\nहिंदी: परमादेश",
+   "examples": [
+    "Mandamus compels officials to act.",
+    "Mandamus is issued when duty is refused.",
+    "Mandamus ensures accountability.",
+    "Mandamus cannot compel discretionary action."
+   ]
+  },
+  {
+   "id": "pack3-card-82",
+   "mode": "vocab",
+   "word": "Certiorari",
+   "pron": "",
+   "def": "A writ transferring a case from a lower court for review.\nहिंदी: उत्प्रेषण-लेख",
+   "examples": [
+    "Certiorari corrects lower court errors.",
+    "Certiorari quashes illegal orders.",
+    "Certiorari ensures judicial supervision.",
+    "Certiorari protects against excess jurisdiction."
+   ]
+  },
+  {
+   "id": "pack3-card-83",
+   "mode": "vocab",
+   "word": "Quo Warranto",
+   "pron": "",
+   "def": "A writ questioning a person's authority to hold office.\nहिंदी: अधिकार-पृच्छा",
+   "examples": [
+    "Quo Warranto challenges illegal appointments.",
+    "Quo Warranto protects public office.",
+    "Quo Warranto is issued against usurpers.",
+    "Quo Warranto ensures lawful authority."
+   ]
+  },
+  {
+   "id": "pack3-card-84",
+   "mode": "vocab",
+   "word": "Ordinance",
+   "pron": "",
+   "def": "A temporary law issued by the executive when legislature is not in session.\nहिंदी: अध्यादेश",
+   "examples": [
+    "An Ordinance has the force of law.",
+    "Ordinances must be approved by Parliament.",
+    "Ordinances are temporary measures.",
+    "Frequent Ordinances undermine legislature."
+   ]
+  },
+  {
+   "id": "pack3-card-85",
+   "mode": "vocab",
+   "word": "Money Bill",
+   "pron": "",
+   "def": "A bill dealing only with taxation and government spending.\nहिंदी: धन विधेयक",
+   "examples": [
+    "A Money Bill is introduced only in Lok Sabha.",
+    "A Money Bill needs the Speaker's certification.",
+    "A Money Bill cannot be amended by Rajya Sabha.",
+    "A Money Bill concerns taxes and spending."
+   ]
+  },
+  {
+   "id": "pack3-card-86",
+   "mode": "vocab",
+   "word": "No-Confidence Motion",
+   "pron": "",
+   "def": "A motion expressing lack of confidence in the government.\nहिंदी: अविश्वास प्रस्ताव",
+   "examples": [
+    "A No-Confidence Motion can topple a government.",
+    "A No-Confidence Motion is moved in Lok Sabha.",
+    "A No-Confidence Motion tests majority.",
+    "A No-Confidence Motion ensures accountability."
+   ]
+  },
+  {
+   "id": "pack3-card-87",
+   "mode": "vocab",
+   "word": "Impeachment",
+   "pron": "",
+   "def": "A formal process to remove a high official for misconduct.\nहिंदी: महाभियोग",
+   "examples": [
+    "Impeachment removes the President for violation.",
+    "Impeachment requires a special majority.",
+    "Impeachment is a constitutional safeguard.",
+    "Impeachment ensures accountability."
+   ]
+  },
+  {
+   "id": "pack3-card-89",
+   "mode": "vocab",
+   "word": "Federalism Dispute",
+   "pron": "",
+   "def": "Conflict over powers between Centre and States.\nहिंदी: संघीय विवाद",
+   "examples": [
+    "Federalism Dispute arises over jurisdiction.",
+    "Federalism Dispute is resolved by courts.",
+    "Federalism Dispute affects policy.",
+    "Federalism Dispute needs cooperation."
+   ]
+  },
+  {
+   "id": "pack3-card-90",
+   "mode": "vocab",
+   "word": "Autonomy",
+   "pron": "",
+   "def": "The right of a region or institution to govern itself.\nहिंदी: स्वायत्तता",
+   "examples": [
+    "Autonomy gives states decision-making power.",
+    "Autonomy is guaranteed for some regions.",
+    "Autonomy protects cultural identity.",
+    "Autonomy must respect national unity."
+   ]
+  },
+  {
+   "id": "pack3-card-91",
+   "mode": "vocab",
+   "word": "Constitutional Body",
+   "pron": "",
+   "def": "An institution created by the Constitution.\nहिंदी: संवैधानिक निकाय",
+   "examples": [
+    "The Election Commission is a Constitutional Body.",
+    "Constitutional Bodies derive power from the Constitution.",
+    "Constitutional Bodies ensure checks and balances.",
+    "Constitutional Bodies are independent."
+   ]
+  },
+  {
+   "id": "pack3-card-92",
+   "mode": "vocab",
+   "word": "Statutory Body",
+   "pron": "",
+   "def": "An institution created by an Act of Parliament.\nहिंदी: वैधानिक निकाय",
+   "examples": [
+    "A Statutory Body is created by law.",
+    "Statutory Bodies can be modified by Parliament.",
+    "Statutory Bodies perform regulatory functions.",
+    "Statutory Bodies are accountable to legislature."
+   ]
+  },
+  {
+   "id": "pack3-card-93",
+   "mode": "vocab",
+   "word": "Universal Declaration of Human Rights",
+   "pron": "",
+   "def": "A global statement of basic human rights adopted in 1948.\nहिंदी: मानवाधिकारों की सार्वभौमिक घोषणा",
+   "examples": [
+    "The Universal Declaration of Human Rights inspires constitutions.",
+    "The Universal Declaration of Human Rights affirms dignity.",
+    "The Universal Declaration of Human Rights guides international law.",
+    "The Universal Declaration of Human Rights protects freedoms."
+   ]
+  },
+  {
+   "id": "pack3-card-94",
+   "mode": "vocab",
+   "word": "Human Rights",
+   "pron": "",
+   "def": "Basic rights belonging to every person by virtue of being human.\nहिंदी: मानवाधिकार",
+   "examples": [
+    "Human Rights are universal and inalienable.",
+    "Human Rights protect dignity.",
+    "Human Rights are enforced by courts.",
+    "Human Rights violations invite condemnation."
+   ]
+  },
+  {
+   "id": "pack3-card-95",
+   "mode": "vocab",
+   "word": "Constitutional Amendment Process",
+   "pron": "",
+   "def": "The procedure for changing the Constitution.\nहिंदी: संविधान संशोधन प्रक्रिया",
+   "examples": [
+    "The Constitutional Amendment Process varies by provision.",
+    "The Constitutional Amendment Process needs special majority.",
+    "The Constitutional Amendment Process balances rigidity and flexibility.",
+    "The Constitutional Amendment Process protects federalism."
+   ]
+  },
+  {
+   "id": "pack3-card-96",
+   "mode": "vocab",
+   "word": "Ratification",
+   "pron": "",
+   "def": "Formal approval of a constitutional amendment or treaty.\nहिंदी: अनुसमर्थन",
+   "examples": [
+    "Ratification requires state approval for some amendments.",
+    "Ratification makes a treaty binding.",
+    "Ratification ensures broad consent.",
+    "Ratification is a formal step."
+   ]
+  },
+  {
+   "id": "pack3-card-97",
+   "mode": "vocab",
+   "word": "Constitutionalism",
+   "pron": "",
+   "def": "The belief that government power should be limited by law.\nहिंदी: संविधानवाद",
+   "examples": [
+    "Constitutionalism limits arbitrary power.",
+    "Constitutionalism protects individual rights.",
+    "Constitutionalism requires independent courts.",
+    "Constitutionalism strengthens democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-99",
+   "mode": "vocab",
+   "word": "Fraternity",
+   "pron": "",
+   "def": "Brotherhood and solidarity among citizens.\nहिंदी: बंधुत्व",
+   "examples": [
+    "Fraternity promotes national unity.",
+    "Fraternity is a Preamble value.",
+    "Fraternity counters divisiveness.",
+    "Fraternity strengthens social harmony."
+   ]
+  }
+ ]
+}

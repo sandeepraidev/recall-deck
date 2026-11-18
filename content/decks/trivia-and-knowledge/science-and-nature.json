@@ -1,0 +1,18 @@
+{
+ "id": "pack7-deck-5",
+ "categoryId": "cat-66",
+ "title": "Science & Nature",
+ "sub": "Everyday science facts worth knowing.",
+ "cards": [
+  { "id": "pack7-card-41", "mode": "qa", "q": "What gas do plants absorb from the air for photosynthesis?", "a": "Carbon dioxide", "note": "They release oxygen as a by-product." },
+  { "id": "pack7-card-42", "mode": "qa", "q": "What is the largest planet in our solar system?", "a": "Jupiter", "note": "More than 1,300 Earths could fit inside it." },
+  { "id": "pack7-card-43", "mode": "qa", "q": "What is the chemical symbol for gold?", "a": "Au", "note": "From the Latin word aurum." },
+  { "id": "pack7-card-44", "mode": "qa", "q": "How many bones are in the adult human body?", "a": "206", "note": "Babies are born with around 270; some fuse as they grow." },
+  { "id": "pack7-card-45", "mode": "qa", "q": "At what temperature does water boil at sea level?", "a": "100 °C", "note": "At higher altitude it boils at a lower temperature." },
+  { "id": "pack7-card-46", "mode": "qa", "q": "Which organ cleans the blood and produces urine?", "a": "The kidneys", "note": "Each one filters about 50 gallons of blood a day." },
+  { "id": "pack7-card-47", "mode": "qa", "q": "What is the hardest natural substance?", "a": "Diamond", "note": "It is made of carbon atoms in a rigid structure." },
+  { "id": "pack7-card-48", "mode": "qa", "q": "How long does light from the Sun take to reach Earth?", "a": "About 8 minutes", "note": "Roughly 8 minutes 20 seconds, on average." },
+  { "id": "pack7-card-49", "mode": "qa", "q": "What is the largest mammal on Earth?", "a": "The blue whale", "note": "It can be over 30 metres long." },
+  { "id": "pack7-card-50", "mode": "qa", "q": "What part of the cell holds most of its DNA?", "a": "The nucleus", "note": "Mitochondria carry a small amount of their own DNA too." }
+ ]
+}

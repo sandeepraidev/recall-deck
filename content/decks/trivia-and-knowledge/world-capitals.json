@@ -1,0 +1,29 @@
+{
+ "id": "deck-70",
+ "categoryId": "cat-66",
+ "title": "World Capitals",
+ "sub": "Quick recall trivia. Watch for the common traps.",
+ "cards": [
+  {
+   "id": "card-67",
+   "mode": "qa",
+   "q": "What is the capital of Australia?",
+   "a": "Canberra",
+   "note": "Not Sydney or Melbourne — a very common mistake."
+  },
+  {
+   "id": "card-68",
+   "mode": "qa",
+   "q": "What is the capital of Turkey?",
+   "a": "Ankara",
+   "note": "Istanbul is the largest city, but not the capital."
+  },
+  {
+   "id": "card-69",
+   "mode": "qa",
+   "q": "What is the capital of Canada?",
+   "a": "Ottawa",
+   "note": "Not Toronto, the most populous city."
+  }
+ ]
+}

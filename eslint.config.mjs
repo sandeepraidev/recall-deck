@@ -12,6 +12,11 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Compiled Capacitor/Android build output — not source.
+    "android/**",
+    // Vendored jeep-sqlite browser bundle (copied verbatim by the
+    // "postinstall" script), not source we own.
+    "public/assets/jeep-sqlite/**",
   ]),
 ]);
 

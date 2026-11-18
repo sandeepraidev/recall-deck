@@ -1,0 +1,64 @@
+{
+ "id": "deck-94",
+ "categoryId": "cat-88",
+ "title": "Original Verses",
+ "sub": "Short original poems and shayari.",
+ "cards": [
+  {
+   "id": "card-89",
+   "mode": "poem",
+   "form": "Ghazal Couplet",
+   "lines": [
+    "Every candle that gutters still lit the whole room once,",
+    "so let the going out be its own kind of grace."
+   ],
+   "meaning": "On accepting endings without erasing what they gave."
+  },
+  {
+   "id": "card-90",
+   "mode": "poem",
+   "form": "Doha",
+   "lines": [
+    "The river never asks the bank for permission to bend —",
+    "it simply finds the shape that lets it keep moving."
+   ],
+   "meaning": "Change as flow, not defiance."
+  },
+  {
+   "id": "card-91",
+   "mode": "poem",
+   "form": "Haiku",
+   "lines": [
+    "Kettle steam rising,",
+    "old kitchen still remembers",
+    "every winter hand."
+   ],
+   "meaning": "Objects hold memory quietly."
+  },
+  {
+   "id": "card-92",
+   "mode": "poem",
+   "form": "Free Verse",
+   "lines": [
+    "I have started keeping the porch light on",
+    "not for anyone arriving,",
+    "but so the dark has one thing to walk around."
+   ],
+   "meaning": "Small rituals as quiet hope."
+  },
+  {
+   "id": "card-93",
+   "mode": "poem",
+   "form": "Ghazal — Ahmad Faraz",
+   "lines": [
+    "सुना है लोग उसे आँख भर के देखते हैं",
+    "सो उस के शहर में कुछ दिन ठहर के देखते हैं",
+    "सुना है रब्त है उस को ख़राब-हालों से",
+    "सो अपने आप को बरबाद कर के देखते हैं",
+    "सुना है दर्द की गाहक है चश्म-ए-नाज़ उस की",
+    "सो हम भी उस की गली से गुज़र के देखते हैं"
+   ],
+   "meaning": "I hear people gaze at her their fill, so I have stayed in her city a few days to look too. I hear she has a soft spot for the ruined and undone, so I am wrecking myself, just to see. I hear her proud eyes seek out pain, so I too pass through her lane, just to see."
+  }
+ ]
+}

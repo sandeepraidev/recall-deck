@@ -1,0 +1,32 @@
+{
+ "id": "deck-65",
+ "categoryId": "cat-61",
+ "title": "Workplace Phrases",
+ "sub": "What colleagues say to each other.",
+ "cards": [
+  {
+   "id": "card-62",
+   "mode": "phrase",
+   "phrase": "お願いします",
+   "romaji": "onegai shimasu",
+   "meaning": "Please / I request this",
+   "literal": "lit. “I humbly make a request”"
+  },
+  {
+   "id": "card-63",
+   "mode": "phrase",
+   "phrase": "お疲れさま",
+   "romaji": "otsukaresama",
+   "meaning": "Thanks for your hard work",
+   "literal": "said to colleagues after effort"
+  },
+  {
+   "id": "card-64",
+   "mode": "phrase",
+   "phrase": "いただきます",
+   "romaji": "itadakimasu",
+   "meaning": "Said before eating",
+   "literal": "lit. “I humbly receive”"
+  }
+ ]
+}

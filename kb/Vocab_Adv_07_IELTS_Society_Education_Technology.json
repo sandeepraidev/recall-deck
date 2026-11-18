@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 07 - IELTS: Society, Education & Technology",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "detrimental",
+      "definition": "Causing harm or damage (हानिकारक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Excessive screen time can be detrimental to children's health."
+    },
+    {
+      "id": "2",
+      "word": "beneficial",
+      "definition": "Producing good or helpful effects (लाभकारी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Regular exercise is beneficial for mental wellbeing."
+    },
+    {
+      "id": "3",
+      "word": "adverse",
+      "definition": "Harmful or unfavourable (प्रतिकूल)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Heavy traffic has adverse effects on air quality."
+    },
+    {
+      "id": "4",
+      "word": "inevitable",
+      "definition": "Certain to happen and unavoidable (अपरिहार्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Automation makes some job losses inevitable."
+    },
+    {
+      "id": "5",
+      "word": "unprecedented",
+      "definition": "Never done or known before (अभूतपूर्व)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The pandemic caused unprecedented disruption to education."
+    },
+    {
+      "id": "6",
+      "word": "widespread",
+      "definition": "Found or distributed over a large area (व्यापक रूप से फैला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Smartphone use is now widespread among the elderly."
+    },
+    {
+      "id": "7",
+      "word": "prevalent",
+      "definition": "Widespread in a particular area or time (प्रचलित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Online shopping is prevalent in urban areas."
+    },
+    {
+      "id": "8",
+      "word": "pervasive",
+      "definition": "Spreading widely throughout an area or group (हर जगह फैला हुआ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Social media has become pervasive in daily life."
+    },
+    {
+      "id": "9",
+      "word": "ubiquitous",
+      "definition": "Present everywhere (सर्वव्यापी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Smartphones are ubiquitous in modern society."
+    },
+    {
+      "id": "10",
+      "word": "burgeoning",
+      "definition": "Growing or increasing rapidly (तेज़ी से बढ़ता हुआ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The burgeoning gig economy offers flexible work."
+    },
+    {
+      "id": "11",
+      "word": "escalating",
+      "definition": "Rapidly increasing in intensity (तेज़ी से बढ़ता)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Escalating housing costs push families out of cities."
+    },
+    {
+      "id": "12",
+      "word": "mounting",
+      "definition": "Steadily increasing (लगातार बढ़ता)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "There is mounting evidence of the harm of pollution."
+    },
+    {
+      "id": "13",
+      "word": "pressing",
+      "definition": "Requiring immediate attention (अत्यावश्यक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Climate change is the most pressing issue of our time."
+    },
+    {
+      "id": "14",
+      "word": "contentious",
+      "definition": "Causing or likely to cause disagreement (विवादास्पद)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Genetic engineering remains a contentious subject."
+    },
+    {
+      "id": "15",
+      "word": "controversial",
+      "definition": "Giving rise to public disagreement (विवादित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Compulsory vaccination is a controversial policy."
+    },
+    {
+      "id": "16",
+      "word": "debatable",
+      "definition": "Open to discussion or doubt (बहस योग्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "It is debatable whether social media improves communication."
+    },
+    {
+      "id": "17",
+      "word": "arguably",
+      "definition": "Used to indicate a point that can be supported by argument (तर्क के साथ कहा जाए तो)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Arguably, education is the most important investment a nation makes."
+    },
+    {
+      "id": "18",
+      "word": "undoubtedly",
+      "definition": "Without any doubt (निस्संदेह)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Technology has undoubtedly transformed communication."
+    },
+    {
+      "id": "19",
+      "word": "admittedly",
+      "definition": "Used to concede a point (माना कि)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Admittedly, remote work has drawbacks."
+    },
+    {
+      "id": "20",
+      "word": "notably",
+      "definition": "In particular and worth mentioning (विशेष रूप से)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Many countries, notably Japan, face ageing populations."
+    },
+    {
+      "id": "21",
+      "word": "predominantly",
+      "definition": "Mainly or for the most part (मुख्यतः)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "The workforce is predominantly young."
+    },
+    {
+      "id": "22",
+      "word": "primarily",
+      "definition": "Chiefly or mainly (मुख्य रूप से)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Obesity is primarily caused by lifestyle factors."
+    },
+    {
+      "id": "23",
+      "word": "substantially",
+      "definition": "To a great or significant extent (काफ़ी हद तक)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Pollution levels have decreased substantially."
+    },
+    {
+      "id": "24",
+      "word": "marginally",
+      "definition": "To a very small degree (बहुत थोड़ा)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Prices rose only marginally this year."
+    },
+    {
+      "id": "25",
+      "word": "consequently",
+      "definition": "As a result (परिणामस्वरूप)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Costs rose; consequently, many families cut spending."
+    },
+    {
+      "id": "26",
+      "word": "subsequently",
+      "definition": "After something else has happened (तत्पश्चात)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "The policy was subsequently withdrawn."
+    },
+    {
+      "id": "27",
+      "word": "nevertheless",
+      "definition": "In spite of that (फिर भी)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "The task was hard; nevertheless, she completed it."
+    },
+    {
+      "id": "28",
+      "word": "nonetheless",
+      "definition": "In spite of what has just been said (तब भी)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "The cost is high; nonetheless, the benefits justify it."
+    },
+    {
+      "id": "29",
+      "word": "whereas",
+      "definition": "In contrast with the fact that (जबकि)",
+      "partOfSpeech": "conjunction",
+      "exampleSentence": "Urban areas are crowded, whereas rural areas are sparsely populated."
+    },
+    {
+      "id": "30",
+      "word": "albeit",
+      "definition": "Although (हालाँकि)",
+      "partOfSpeech": "conjunction",
+      "exampleSentence": "Progress has been made, albeit slowly."
+    },
+    {
+      "id": "31",
+      "word": "notwithstanding",
+      "definition": "In spite of (के बावजूद)",
+      "partOfSpeech": "preposition",
+      "exampleSentence": "Notwithstanding the cost, many parents choose private schools."
+    },
+    {
+      "id": "32",
+      "word": "in conjunction with",
+      "definition": "Together with (के साथ मिलकर)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Taxes should be used in conjunction with education campaigns."
+    },
+    {
+      "id": "33",
+      "word": "with regard to",
+      "definition": "Concerning a particular matter (के संबंध में)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "With regard to healthcare, access remains uneven."
+    },
+    {
+      "id": "34",
+      "word": "in terms of",
+      "definition": "Concerning a particular aspect (के संदर्भ में)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "In terms of cost, online learning is cheaper."
+    },
+    {
+      "id": "35",
+      "word": "on the whole",
+      "definition": "Taking everything into account (कुल मिलाकर)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "On the whole, the benefits outweigh the drawbacks."
+    },
+    {
+      "id": "36",
+      "word": "by and large",
+      "definition": "Generally; for the most part (आम तौर पर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "By and large, students prefer flexible schedules."
+    },
+    {
+      "id": "37",
+      "word": "to a certain extent",
+      "definition": "Partly but not completely (एक हद तक)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "To a certain extent, parents are responsible for children's habits."
+    },
+    {
+      "id": "38",
+      "word": "to a large extent",
+      "definition": "Mostly (काफ़ी हद तक)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "To a large extent, success depends on access to education."
+    },
+    {
+      "id": "39",
+      "word": "bear in mind",
+      "definition": "To remember and consider something (ध्यान में रखना)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "We must bear in mind the costs for poorer families."
+    },
+    {
+      "id": "40",
+      "word": "take into account",
+      "definition": "To consider when making a decision (ध्यान में लेना)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Policymakers must take long-term effects into account."
+    },
+    {
+      "id": "41",
+      "word": "give rise to",
+      "definition": "To cause something to happen (को जन्म देना)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Poverty gives rise to many social problems."
+    },
+    {
+      "id": "42",
+      "word": "account for",
+      "definition": "To explain or make up a proportion of something (हिस्सा होना / कारण बताना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Transport accounts for a quarter of emissions."
+    },
+    {
+      "id": "43",
+      "word": "result in",
+      "definition": "To have a particular outcome (नतीजा निकलना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Poor planning can result in traffic congestion."
+    },
+    {
+      "id": "44",
+      "word": "stem from",
+      "definition": "To originate from (से उत्पन्न होना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Many health problems stem from poor diet."
+    },
+    {
+      "id": "45",
+      "word": "contribute to",
+      "definition": "To help cause something (में योगदान देना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Sedentary jobs contribute to obesity."
+    },
+    {
+      "id": "46",
+      "word": "lead to",
+      "definition": "To result in something (की ओर ले जाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Unemployment can lead to social unrest."
+    },
+    {
+      "id": "47",
+      "word": "bring about",
+      "definition": "To cause something to happen (घटित करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Technology has brought about major changes in work."
+    },
+    {
+      "id": "48",
+      "word": "come into effect",
+      "definition": "To start to apply or operate (लागू होना)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The new law comes into effect next year."
+    },
+    {
+      "id": "49",
+      "word": "take effect",
+      "definition": "To start working or producing results (असर दिखाना)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The ban took effect immediately."
+    },
+    {
+      "id": "50",
+      "word": "pose a threat",
+      "definition": "To present a danger (ख़तरा पैदा करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Plastic waste poses a threat to marine life."
+    },
+    {
+      "id": "51",
+      "word": "pose a challenge",
+      "definition": "To present a difficulty (चुनौती खड़ी करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Ageing populations pose a challenge to healthcare systems."
+    },
+    {
+      "id": "52",
+      "word": "exert pressure",
+      "definition": "To apply force or influence (दबाव डालना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Rising costs exert pressure on household budgets."
+    },
+    {
+      "id": "53",
+      "word": "place a burden on",
+      "definition": "To cause difficulty or strain for (बोझ डालना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "An ageing population places a burden on public services."
+    },
+    {
+      "id": "54",
+      "word": "alleviate poverty",
+      "definition": "To reduce the severity of poverty (गरीबी कम करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Education helps alleviate poverty in the long run."
+    },
+    {
+      "id": "55",
+      "word": "bridge the gap",
+      "definition": "To reduce a difference between two groups (अंतर पाटना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Online courses bridge the gap between rural and urban students."
+    },
+    {
+      "id": "56",
+      "word": "widen the gap",
+      "definition": "To increase a difference (अंतर बढ़ाना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Digital divides widen the gap between rich and poor."
+    },
+    {
+      "id": "57",
+      "word": "level the playing field",
+      "definition": "To create fair conditions for everyone (समान अवसर देना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Scholarships level the playing field for talented students."
+    },
+    {
+      "id": "58",
+      "word": "a double-edged sword",
+      "definition": "Something with both good and bad effects (दोधारी तलवार)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Social media is a double-edged sword."
+    },
+    {
+      "id": "59",
+      "word": "a vicious circle",
+      "definition": "A situation where one problem worsens another repeatedly (दुष्चक्र)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Poverty and poor education create a vicious circle."
+    },
+    {
+      "id": "60",
+      "word": "a growing body of evidence",
+      "definition": "Increasing research supporting a claim (बढ़ते प्रमाण)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "A growing body of evidence links sleep and productivity."
+    },
+    {
+      "id": "61",
+      "word": "a wide range of",
+      "definition": "Many different kinds of (विभिन्न प्रकार के)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The course offers a wide range of subjects."
+    },
+    {
+      "id": "62",
+      "word": "the vast majority",
+      "definition": "Nearly all of a group (विशाल बहुमत)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The vast majority of students own a smartphone."
+    },
+    {
+      "id": "63",
+      "word": "a significant proportion",
+      "definition": "A large part of a whole (एक बड़ा हिस्सा)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "A significant proportion of income goes on rent."
+    },
+    {
+      "id": "64",
+      "word": "a negligible minority",
+      "definition": "A very small part (नगण्य अल्पसंख्यक)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Only a negligible minority opposed the plan."
+    },
+    {
+      "id": "65",
+      "word": "per capita",
+      "definition": "For each person (प्रति व्यक्ति)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Income per capita has doubled in two decades."
+    },
+    {
+      "id": "66",
+      "word": "demographic",
+      "definition": "A particular section of the population (जनसांख्यिकीय वर्ग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The app targets a younger demographic."
+    },
+    {
+      "id": "67",
+      "word": "urbanisation",
+      "definition": "Growth of towns and cities as people move in (शहरीकरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Rapid urbanisation strains housing and transport."
+    },
+    {
+      "id": "68",
+      "word": "infrastructure",
+      "definition": "Basic physical systems like roads and utilities (बुनियादी ढाँचा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Investing in infrastructure supports economic growth."
+    },
+    {
+      "id": "69",
+      "word": "amenities",
+      "definition": "Useful facilities provided for convenience (सुविधाएँ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Cities offer better amenities than villages."
+    },
+    {
+      "id": "70",
+      "word": "congestion",
+      "definition": "Overcrowding, especially of traffic (भीड़-भाड़ / जाम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Congestion costs the economy billions each year."
+    },
+    {
+      "id": "71",
+      "word": "commuting",
+      "definition": "Regular travel between home and work (रोज़ आना-जाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Long commuting times reduce quality of life."
+    },
+    {
+      "id": "72",
+      "word": "sustainable",
+      "definition": "Able to be maintained without harming the future (टिकाऊ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Sustainable transport reduces pollution."
+    },
+    {
+      "id": "73",
+      "word": "affordable",
+      "definition": "Reasonably priced (वहन करने योग्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Affordable housing remains scarce."
+    },
+    {
+      "id": "74",
+      "word": "accessible",
+      "definition": "Easy to reach, use or obtain (सुलभ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Online resources make education more accessible."
+    },
+    {
+      "id": "75",
+      "word": "inclusive education",
+      "definition": "Education that accommodates all learners (समावेशी शिक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Inclusive education benefits students with disabilities."
+    },
+    {
+      "id": "76",
+      "word": "curriculum",
+      "definition": "The subjects studied in a school or course (पाठ्यक्रम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The curriculum should include practical skills."
+    },
+    {
+      "id": "77",
+      "word": "pedagogy",
+      "definition": "The method and practice of teaching (शिक्षण पद्धति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Modern pedagogy emphasises active learning."
+    },
+    {
+      "id": "78",
+      "word": "literacy",
+      "definition": "The ability to read and write (साक्षरता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Adult literacy programmes transform communities."
+    },
+    {
+      "id": "79",
+      "word": "numeracy",
+      "definition": "The ability to understand and use numbers (संख्यात्मक समझ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Early numeracy skills predict later success."
+    },
+    {
+      "id": "80",
+      "word": "digital literacy",
+      "definition": "The ability to use digital technology effectively (डिजिटल साक्षरता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Digital literacy is essential for modern jobs."
+    },
+    {
+      "id": "81",
+      "word": "rote learning",
+      "definition": "Learning by repetition without understanding (रटकर सीखना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Rote learning discourages critical thinking."
+    },
+    {
+      "id": "82",
+      "word": "critical thinking",
+      "definition": "Analysing information objectively to form a judgement (आलोचनात्मक सोच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Schools should encourage critical thinking."
+    },
+    {
+      "id": "83",
+      "word": "vocational",
+      "definition": "Relating to skills for a particular job (व्यावसायिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Vocational training prepares students for skilled work."
+    },
+    {
+      "id": "84",
+      "word": "tuition fees",
+      "definition": "Money paid for teaching (पढ़ाई की फ़ीस)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Rising tuition fees discourage poorer students."
+    },
+    {
+      "id": "85",
+      "word": "scholarship",
+      "definition": "Financial support awarded to students for study (छात्रवृत्ति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She won a scholarship to study abroad."
+    },
+    {
+      "id": "86",
+      "word": "dropout rate",
+      "definition": "The proportion of students who leave before finishing (पढ़ाई छोड़ने की दर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The dropout rate is highest in rural schools."
+    },
+    {
+      "id": "87",
+      "word": "lifelong learning",
+      "definition": "Continuing education throughout life (आजीवन सीखना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Lifelong learning keeps skills relevant."
+    },
+    {
+      "id": "88",
+      "word": "academic performance",
+      "definition": "How well a student does in studies (शैक्षणिक प्रदर्शन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Sleep affects academic performance."
+    },
+    {
+      "id": "89",
+      "word": "extracurricular",
+      "definition": "Activities outside the normal curriculum (पाठ्येतर)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Extracurricular activities build teamwork."
+    },
+    {
+      "id": "90",
+      "word": "peer pressure",
+      "definition": "Influence from people of the same age or group (साथियों का दबाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Peer pressure strongly affects teenagers' choices."
+    },
+    {
+      "id": "91",
+      "word": "role model",
+      "definition": "A person looked to as an example (आदर्श व्यक्ति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Teachers are important role models for children."
+    },
+    {
+      "id": "92",
+      "word": "upbringing",
+      "definition": "The way a child is raised (परवरिश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A supportive upbringing shapes confidence."
+    },
+    {
+      "id": "93",
+      "word": "generation gap",
+      "definition": "Differences in attitudes between older and younger people (पीढ़ियों का अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The generation gap affects views on technology."
+    },
+    {
+      "id": "94",
+      "word": "nuclear family",
+      "definition": "A family of parents and children only (एकल परिवार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The nuclear family is now common in cities."
+    },
+    {
+      "id": "95",
+      "word": "extended family",
+      "definition": "A family including grandparents, aunts, uncles and cousins (संयुक्त परिवार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Extended families provide strong social support."
+    },
+    {
+      "id": "96",
+      "word": "social cohesion",
+      "definition": "The bonds that hold a community together (सामाजिक एकजुटता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Shared festivals promote social cohesion."
+    },
+    {
+      "id": "97",
+      "word": "social mobility",
+      "definition": "The ability to move between social classes (सामाजिक गतिशीलता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Education is a driver of social mobility."
+    },
+    {
+      "id": "98",
+      "word": "marginalised",
+      "definition": "Treated as unimportant or pushed to the edge of society (हाशिये पर धकेला गया)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Marginalised groups often lack access to services."
+    },
+    {
+      "id": "99",
+      "word": "disadvantaged",
+      "definition": "In unfavourable circumstances (वंचित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Disadvantaged children need extra support."
+    },
+    {
+      "id": "100",
+      "word": "underprivileged",
+      "definition": "Having less money and fewer opportunities (कम सुविधा प्राप्त)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The charity supports underprivileged families."
+    },
+    {
+      "id": "101",
+      "word": "deprived",
+      "definition": "Lacking basic necessities (अभावग्रस्त)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Deprived areas have fewer healthcare facilities."
+    },
+    {
+      "id": "102",
+      "word": "vulnerable",
+      "definition": "Exposed to harm or difficulty (असुरक्षित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The elderly are vulnerable to scams."
+    },
+    {
+      "id": "103",
+      "word": "prejudice",
+      "definition": "An unfair opinion formed without knowledge (पूर्वाग्रह)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Prejudice limits opportunities for many people."
+    },
+    {
+      "id": "104",
+      "word": "stereotype",
+      "definition": "A fixed oversimplified idea about a group (रूढ़िवादी धारणा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Media can reinforce harmful stereotypes."
+    },
+    {
+      "id": "105",
+      "word": "discrimination",
+      "definition": "Unfair treatment based on a characteristic (भेदभाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Workplace discrimination is illegal."
+    },
+    {
+      "id": "106",
+      "word": "tolerance",
+      "definition": "Willingness to accept differing views or behaviours (सहिष्णुता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Education promotes tolerance among communities."
+    },
+    {
+      "id": "107",
+      "word": "cultural identity",
+      "definition": "A sense of belonging to a culture (सांस्कृतिक पहचान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Migrants often struggle to preserve their cultural identity."
+    },
+    {
+      "id": "108",
+      "word": "globalisation",
+      "definition": "The increasing connection of economies and cultures worldwide (वैश्वीकरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Globalisation has created new job markets."
+    },
+    {
+      "id": "109",
+      "word": "cultural heritage",
+      "definition": "Traditions and monuments inherited from the past (सांस्कृतिक विरासत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Governments must protect cultural heritage."
+    },
+    {
+      "id": "110",
+      "word": "assimilation",
+      "definition": "The process of adopting a new culture (नई संस्कृति में घुल-मिल जाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Language classes aid assimilation of newcomers."
+    },
+    {
+      "id": "111",
+      "word": "homogenisation",
+      "definition": "Making things uniform or similar (एकरूपता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Globalisation may cause cultural homogenisation."
+    },
+    {
+      "id": "112",
+      "word": "artificial intelligence",
+      "definition": "Computer systems performing tasks requiring human intelligence (कृत्रिम बुद्धिमत्ता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Artificial intelligence is transforming healthcare."
+    },
+    {
+      "id": "113",
+      "word": "automation",
+      "definition": "Using machines to perform tasks without human effort (स्वचालन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Automation threatens routine jobs."
+    },
+    {
+      "id": "114",
+      "word": "obsolescence",
+      "definition": "The process of becoming outdated (अप्रचलन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Rapid obsolescence of devices creates electronic waste."
+    },
+    {
+      "id": "115",
+      "word": "breakthrough",
+      "definition": "A major discovery or advance (बड़ी सफलता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A medical breakthrough extended life expectancy."
+    },
+    {
+      "id": "116",
+      "word": "cutting-edge",
+      "definition": "Using the most advanced methods (अत्याधुनिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Cutting-edge technology improved diagnosis."
+    },
+    {
+      "id": "117",
+      "word": "state-of-the-art",
+      "definition": "Using the latest available technology (अत्याधुनिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The hospital has state-of-the-art equipment."
+    },
+    {
+      "id": "118",
+      "word": "digital divide",
+      "definition": "The gap between those with and without internet access (डिजिटल खाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The digital divide limits rural students' learning."
+    },
+    {
+      "id": "119",
+      "word": "cyberbullying",
+      "definition": "Bullying using electronic communication (साइबर उत्पीड़न)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Cyberbullying affects teenagers' mental health."
+    },
+    {
+      "id": "120",
+      "word": "misinformation",
+      "definition": "False information spread regardless of intent (ग़लत जानकारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Misinformation spreads quickly on social media."
+    },
+    {
+      "id": "121",
+      "word": "disinformation",
+      "definition": "False information deliberately spread to deceive (जानबूझकर फैलाई गई झूठी जानकारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Disinformation campaigns can influence elections."
+    },
+    {
+      "id": "122",
+      "word": "privacy",
+      "definition": "The state of being free from public attention (निजता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Data breaches threaten personal privacy."
+    },
+    {
+      "id": "123",
+      "word": "surveillance",
+      "definition": "Close observation, especially of suspected people (निगरानी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Mass surveillance raises ethical concerns."
+    },
+    {
+      "id": "124",
+      "word": "data breach",
+      "definition": "An incident where confidential data is exposed (डेटा लीक की घटना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The company suffered a major data breach."
+    },
+    {
+      "id": "125",
+      "word": "cybersecurity",
+      "definition": "Protection of systems from digital attacks (साइबर सुरक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Cybersecurity is a priority for every bank."
+    },
+    {
+      "id": "126",
+      "word": "addiction",
+      "definition": "A strong dependence on a habit or substance (लत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Smartphone addiction affects sleep and focus."
+    },
+    {
+      "id": "127",
+      "word": "sedentary",
+      "definition": "Involving much sitting and little exercise (गतिहीन)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A sedentary lifestyle increases health risks."
+    },
+    {
+      "id": "128",
+      "word": "screen time",
+      "definition": "Time spent using electronic devices (स्क्रीन पर बिताया समय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Parents limit their children's screen time."
+    },
+    {
+      "id": "129",
+      "word": "telecommuting",
+      "definition": "Working from home using technology (घर से काम करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Telecommuting reduces commuting stress."
+    },
+    {
+      "id": "130",
+      "word": "remote work",
+      "definition": "Working outside the traditional office (दूर से काम करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Remote work has increased flexibility."
+    },
+    {
+      "id": "131",
+      "word": "gig economy",
+      "definition": "A labour market of short-term flexible jobs (अल्पकालिक कार्यों की अर्थव्यवस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The gig economy lacks job security."
+    },
+    {
+      "id": "132",
+      "word": "job security",
+      "definition": "The assurance of keeping one's job (नौकरी की सुरक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Many workers value job security over high pay."
+    },
+    {
+      "id": "133",
+      "word": "unemployment",
+      "definition": "The state of being without work (बेरोज़गारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Youth unemployment remains high."
+    },
+    {
+      "id": "134",
+      "word": "underemployment",
+      "definition": "Working below one's skill level or hours wanted (योग्यता से कम काम में लगा होना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Underemployment affects many graduates."
+    },
+    {
+      "id": "135",
+      "word": "workforce",
+      "definition": "People engaged in or available for work (कार्यबल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The workforce is ageing in many countries."
+    },
+    {
+      "id": "136",
+      "word": "labour market",
+      "definition": "The supply of and demand for workers (श्रम बाज़ार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Skills shortages are tightening the labour market."
+    },
+    {
+      "id": "137",
+      "word": "skills shortage",
+      "definition": "A lack of workers with required skills (कुशल कर्मियों की कमी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A skills shortage slows technology projects."
+    },
+    {
+      "id": "138",
+      "word": "brain drain",
+      "definition": "Emigration of skilled people from a country (प्रतिभा पलायन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Brain drain deprives developing countries of doctors."
+    },
+    {
+      "id": "139",
+      "word": "income inequality",
+      "definition": "Unequal distribution of earnings (आय की असमानता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Income inequality has grown in recent decades."
+    },
+    {
+      "id": "140",
+      "word": "poverty line",
+      "definition": "The income level below which a person is considered poor (ग़रीबी रेखा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Millions live below the poverty line."
+    },
+    {
+      "id": "141",
+      "word": "cost of living",
+      "definition": "The money needed for basic expenses (जीवन-यापन की लागत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The cost of living is rising faster than wages."
+    },
+    {
+      "id": "142",
+      "word": "standard of living",
+      "definition": "The level of wealth and comfort a group enjoys (जीवन स्तर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Economic growth raises the standard of living."
+    },
+    {
+      "id": "143",
+      "word": "quality of life",
+      "definition": "The general wellbeing of individuals (जीवन की गुणवत्ता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Green spaces improve quality of life."
+    },
+    {
+      "id": "144",
+      "word": "life expectancy",
+      "definition": "The average number of years a person is expected to live (औसत जीवन प्रत्याशा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Life expectancy has risen thanks to better healthcare."
+    },
+    {
+      "id": "145",
+      "word": "ageing population",
+      "definition": "A population in which older people form a growing share (बढ़ती बुज़ुर्ग आबादी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "An ageing population increases pension costs."
+    },
+    {
+      "id": "146",
+      "word": "birth rate",
+      "definition": "The number of births per thousand people (जन्म दर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Falling birth rates affect future workforces."
+    },
+    {
+      "id": "147",
+      "word": "overpopulation",
+      "definition": "Excessive number of people for available resources (अत्यधिक जनसंख्या)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Overpopulation puts pressure on food supplies."
+    },
+    {
+      "id": "148",
+      "word": "government intervention",
+      "definition": "Action by the state to influence the economy or society (सरकारी हस्तक्षेप)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Government intervention may be needed to protect consumers."
+    },
+    {
+      "id": "149",
+      "word": "legislation",
+      "definition": "Laws collectively (विधान / क़ानून)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "New legislation requires companies to protect data."
+    },
+    {
+      "id": "150",
+      "word": "enforce",
+      "definition": "To make sure a law or rule is obeyed (लागू करवाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Authorities must enforce the safety regulations."
+    },
+    {
+      "id": "151",
+      "word": "impose",
+      "definition": "To officially introduce a rule or tax (थोपना / लागू करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The government imposed a tax on sugary drinks."
+    },
+    {
+      "id": "152",
+      "word": "subsidise",
+      "definition": "To support with public money (सब्सिडी देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The state subsidises public transport."
+    },
+    {
+      "id": "153",
+      "word": "penalise",
+      "definition": "To punish or put at a disadvantage (दंडित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Companies should be penalised for polluting rivers."
+    },
+    {
+      "id": "154",
+      "word": "incentivise",
+      "definition": "To encourage through rewards (प्रोत्साहन देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Tax breaks incentivise renewable energy."
+    },
+    {
+      "id": "155",
+      "word": "deter",
+      "definition": "To discourage from doing something (हतोत्साहित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Heavy fines deter illegal dumping."
+    },
+    {
+      "id": "156",
+      "word": "prohibit",
+      "definition": "To formally forbid (प्रतिबंधित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Smoking is prohibited in public buildings."
+    },
+    {
+      "id": "157",
+      "word": "restrict",
+      "definition": "To limit or control (सीमित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Governments restrict the sale of tobacco to minors."
+    },
+    {
+      "id": "158",
+      "word": "crackdown",
+      "definition": "Strict action against illegal behaviour (सख़्त कार्रवाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A crackdown on tax evasion raised revenue."
+    },
+    {
+      "id": "159",
+      "word": "deterrent",
+      "definition": "Something that discourages an action (रोकथाम करने वाली चीज़)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Harsher penalties act as a deterrent."
+    },
+    {
+      "id": "160",
+      "word": "rehabilitation",
+      "definition": "Helping someone return to normal life (पुनर्वास)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Prison should focus on rehabilitation."
+    },
+    {
+      "id": "161",
+      "word": "juvenile delinquency",
+      "definition": "Illegal behaviour by young people (किशोर अपराध)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Poverty is linked to juvenile delinquency."
+    },
+    {
+      "id": "162",
+      "word": "community service",
+      "definition": "Unpaid work done for the benefit of the community (सामुदायिक सेवा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Offenders were sentenced to community service."
+    },
+    {
+      "id": "163",
+      "word": "civic duty",
+      "definition": "A responsibility of a citizen (नागरिक कर्तव्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Voting is a civic duty."
+    },
+    {
+      "id": "164",
+      "word": "public opinion",
+      "definition": "The views held by the general population (जनमत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Public opinion has shifted on climate change."
+    },
+    {
+      "id": "165",
+      "word": "intergenerational",
+      "definition": "Between different generations (पीढ़ियों के बीच का)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Intergenerational poverty is hard to break."
+    },
+    {
+      "id": "166",
+      "word": "demographic shift",
+      "definition": "A change in the make-up of a population (आबादी की संरचना में बदलाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A demographic shift is reshaping the labour market."
+    },
+    {
+      "id": "167",
+      "word": "social welfare",
+      "definition": "Support systems for citizens' wellbeing (सामाजिक कल्याण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Social welfare spending rose after the crisis."
+    },
+    {
+      "id": "168",
+      "word": "civil liberties",
+      "definition": "Individual freedoms protected by law (नागरिक स्वतंत्रताएँ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Surveillance laws threaten civil liberties."
+    },
+    {
+      "id": "169",
+      "word": "freedom of expression",
+      "definition": "The right to voice opinions without censorship (अभिव्यक्ति की स्वतंत्रता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Freedom of expression underpins democracy."
+    },
+    {
+      "id": "170",
+      "word": "censorship",
+      "definition": "Suppression of speech or information (सेंसरशिप)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Censorship limits access to information."
+    },
+    {
+      "id": "171",
+      "word": "whistleblower",
+      "definition": "A person who exposes wrongdoing (भ्रष्टाचार उजागर करने वाला)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The whistleblower revealed the safety violations."
+    },
+    {
+      "id": "172",
+      "word": "transparency law",
+      "definition": "A law requiring openness from institutions (पारदर्शिता क़ानून)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Transparency laws help citizens hold officials accountable."
+    },
+    {
+      "id": "173",
+      "word": "corruption",
+      "definition": "Dishonest conduct by those in power (भ्रष्टाचार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Corruption weakens public trust."
+    },
+    {
+      "id": "174",
+      "word": "nepotism",
+      "definition": "Favouring relatives in appointments (भाई-भतीजावाद)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Nepotism harms fair recruitment."
+    },
+    {
+      "id": "175",
+      "word": "meritocracy",
+      "definition": "A system where advancement is based on ability (योग्यता आधारित व्यवस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A meritocracy rewards talent and effort."
+    },
+    {
+      "id": "176",
+      "word": "accountability measures",
+      "definition": "Rules ensuring that people answer for their actions (जवाबदेही सुनिश्चित करने के उपाय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Stronger accountability measures are needed in public bodies."
+    },
+    {
+      "id": "177",
+      "word": "policy-makers",
+      "definition": "People who create rules and plans for governance (नीति निर्माता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Policy-makers must consider long-term effects."
+    },
+    {
+      "id": "178",
+      "word": "grassroots",
+      "definition": "Involving ordinary people at the local level (ज़मीनी स्तर का)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Grassroots movements drove the reform."
+    },
+    {
+      "id": "179",
+      "word": "civic engagement",
+      "definition": "Active involvement in community life (नागरिक भागीदारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Civic engagement strengthens local democracy."
+    },
+    {
+      "id": "180",
+      "word": "voter turnout",
+      "definition": "The proportion of eligible people who vote (मतदान प्रतिशत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Voter turnout rose among young people."
+    },
+    {
+      "id": "181",
+      "word": "electoral reform",
+      "definition": "Changes to the way elections are held (चुनाव सुधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Electoral reform could reduce polarisation."
+    },
+    {
+      "id": "182",
+      "word": "public consultation",
+      "definition": "Asking citizens for views on proposals (जनता से राय लेना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A public consultation preceded the policy."
+    },
+    {
+      "id": "183",
+      "word": "decentralisation",
+      "definition": "Transferring power from central to local authorities (सत्ता का विकेंद्रीकरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Decentralisation improves local decision-making."
+    },
+    {
+      "id": "184",
+      "word": "urban sprawl",
+      "definition": "Uncontrolled expansion of urban areas (शहरों का अनियंत्रित फैलाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Urban sprawl increases commuting time."
+    },
+    {
+      "id": "185",
+      "word": "gentrification",
+      "definition": "Wealthier people moving into poorer areas and raising costs (ग़रीब इलाक़ों में अमीरों के आने से महँगाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Gentrification displaced long-term residents."
+    },
+    {
+      "id": "186",
+      "word": "slum",
+      "definition": "A heavily populated, poorly built urban area (झुग्गी-बस्ती)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Many migrants end up living in slums."
+    },
+    {
+      "id": "187",
+      "word": "public transport",
+      "definition": "Shared transport services for the public (सार्वजनिक परिवहन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Better public transport reduces car use."
+    },
+    {
+      "id": "188",
+      "word": "mass transit",
+      "definition": "Large-scale public transport systems (बड़े पैमाने की सार्वजनिक परिवहन व्यवस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Mass transit eases congestion in big cities."
+    },
+    {
+      "id": "189",
+      "word": "carbon tax",
+      "definition": "A tax on greenhouse gas emissions (कार्बन उत्सर्जन पर कर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A carbon tax encourages cleaner production."
+    },
+    {
+      "id": "190",
+      "word": "congestion charge",
+      "definition": "A fee for driving in busy areas (भीड़भाड़ वाले इलाक़े में गाड़ी चलाने का शुल्क)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A congestion charge cut traffic in the centre."
+    },
+    {
+      "id": "191",
+      "word": "telemedicine",
+      "definition": "Providing healthcare remotely using technology (दूर से तकनीक द्वारा चिकित्सा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Telemedicine extends care to remote villages."
+    },
+    {
+      "id": "192",
+      "word": "wearable technology",
+      "definition": "Electronic devices worn on the body (पहनने योग्य तकनीक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Wearable technology tracks health data."
+    },
+    {
+      "id": "193",
+      "word": "genetic engineering",
+      "definition": "Altering the genes of living organisms (जेनेटिक इंजीनियरिंग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Genetic engineering raises ethical questions."
+    },
+    {
+      "id": "194",
+      "word": "cloning",
+      "definition": "Creating an identical copy of an organism (क्लोनिंग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Human cloning is banned in many countries."
+    },
+    {
+      "id": "195",
+      "word": "algorithmic bias",
+      "definition": "Unfair outcomes produced by automated systems (एल्गोरिदम में निहित पक्षपात)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Algorithmic bias can discriminate in hiring."
+    },
+    {
+      "id": "196",
+      "word": "ethical dilemma",
+      "definition": "A situation requiring a difficult moral choice (नैतिक दुविधा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Self-driving cars pose an ethical dilemma."
+    },
+    {
+      "id": "197",
+      "word": "intellectual property",
+      "definition": "Creations of the mind protected by law (बौद्धिक संपदा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Companies guard their intellectual property fiercely."
+    },
+    {
+      "id": "198",
+      "word": "plagiarism",
+      "definition": "Presenting someone else's work as your own (साहित्यिक चोरी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Plagiarism can end an academic career."
+    },
+    {
+      "id": "199",
+      "word": "open-source",
+      "definition": "Software whose code is freely available (खुला स्रोत)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Open-source tools lowered our costs."
+    },
+    {
+      "id": "200",
+      "word": "digital footprint",
+      "definition": "The trail of data left by online activity (ऑनलाइन गतिविधि से बनी डिजिटल छाप)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Your digital footprint can affect job prospects."
+    }
+  ],
+  "id": "e75dd04c-7c20-4d0a-9944-f1a39c278af9",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

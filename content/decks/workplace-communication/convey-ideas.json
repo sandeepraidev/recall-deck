@@ -1,0 +1,1100 @@
+{
+ "id": "pack4-deck-4",
+ "categoryId": "pack4-cat-1",
+ "title": "Convey Ideas",
+ "sub": "Express opinions, suggest ideas and argue your point.",
+ "cards": [
+  {
+   "id": "pack4-card-310",
+   "mode": "vocab",
+   "word": "propose",
+   "pron": "",
+   "def": "to put forward an idea for consideration\nहिंदी: प्रस्ताव रखना",
+   "examples": [
+    "I propose a new schedule.",
+    "She proposed a merger.",
+    "I propose that we meet every Friday to review progress.",
+    "The committee proposed a new dress code for the office."
+   ]
+  },
+  {
+   "id": "pack4-card-313",
+   "mode": "vocab",
+   "word": "put forward",
+   "pron": "",
+   "def": "to offer an idea for discussion\nहिंदी: आगे रखना",
+   "examples": [
+    "She put forward a bold idea.",
+    "He put forward a new plan.",
+    "Several teams put forward names for the new product.",
+    "In the meeting, she put forward a plan to cut travel costs."
+   ]
+  },
+  {
+   "id": "pack4-card-314",
+   "mode": "vocab",
+   "word": "float an idea",
+   "pron": "",
+   "def": "to offer an idea to test reactions\nहिंदी: विचार उछालना / आज़माने हेतु रखना",
+   "examples": [
+    "He floated the idea of a four-day week.",
+    "Let me float an idea.",
+    "I floated the idea of a team trip, and everyone liked it.",
+    "She floated an idea about flexible hours in the town hall."
+   ]
+  },
+  {
+   "id": "pack4-card-315",
+   "mode": "vocab",
+   "word": "pitch",
+   "pron": "",
+   "def": "to present an idea to win support\nहिंदी: अपना विचार प्रस्तुत करना",
+   "examples": [
+    "She pitched her idea to investors.",
+    "I'll pitch it on Monday.",
+    "The startup pitched its app to three investors last week.",
+    "He pitched a new training programme to HR."
+   ]
+  },
+  {
+   "id": "pack4-card-317",
+   "mode": "vocab",
+   "word": "throw around ideas",
+   "pron": "",
+   "def": "to share many ideas casually\nहिंदी: विचारों का आदान-प्रदान करना",
+   "examples": [
+    "We threw around a few ideas.",
+    "Let's throw around ideas.",
+    "We threw around ideas for the party over lunch.",
+    "The team threw around ideas for a new logo."
+   ]
+  },
+  {
+   "id": "pack4-card-318",
+   "mode": "vocab",
+   "word": "come up with",
+   "pron": "",
+   "def": "to think of an idea or plan\nहिंदी: सोच निकालना",
+   "examples": [
+    "She came up with a clever plan.",
+    "Can you come up with a better idea?",
+    "We need to come up with a name for our new shop.",
+    "He came up with an excuse for being late again."
+   ]
+  },
+  {
+   "id": "pack4-card-319",
+   "mode": "vocab",
+   "word": "think outside the box",
+   "pron": "",
+   "def": "to think creatively\nहिंदी: लीक से हटकर सोचना",
+   "examples": [
+    "We need to think outside the box.",
+    "Try to think outside the box.",
+    "Think outside the box to find cheaper ways to market the product.",
+    "The teacher encourages students to think outside the box."
+   ]
+  },
+  {
+   "id": "pack4-card-320",
+   "mode": "vocab",
+   "word": "bounce ideas off",
+   "pron": "",
+   "def": "to test ideas by discussing them with someone\nहिंदी: किसी से विचार परखना",
+   "examples": [
+    "I'd like to bounce ideas off you.",
+    "She bounced it off the team.",
+    "Can I bounce ideas off you before the client meeting?",
+    "I bounce ideas off my sister when I plan trips."
+   ]
+  },
+  {
+   "id": "pack4-card-321",
+   "mode": "vocab",
+   "word": "spark an idea",
+   "pron": "",
+   "def": "to cause an idea to start\nहिंदी: विचार की चिंगारी देना",
+   "examples": [
+    "The talk sparked an idea.",
+    "A chat sparked the idea.",
+    "A customer complaint sparked an idea for a new feature.",
+    "Her question sparked an idea in my mind."
+   ]
+  },
+  {
+   "id": "pack4-card-322",
+   "mode": "vocab",
+   "word": "a brilliant idea",
+   "pron": "",
+   "def": "an extremely clever idea\nहिंदी: शानदार विचार",
+   "examples": [
+    "That's a brilliant idea.",
+    "She had a brilliant idea.",
+    "Ordering pizza for the late shift was a brilliant idea.",
+    "He came up with a brilliant idea to save on electricity."
+   ]
+  },
+  {
+   "id": "pack4-card-323",
+   "mode": "vocab",
+   "word": "a bright idea",
+   "pron": "",
+   "def": "a clever or good idea\nहिंदी: अच्छा सुझाव",
+   "examples": [
+    "Whose bright idea was this?",
+    "I have a bright idea.",
+    "Then someone had the bright idea of asking the customers.",
+    "Do you have any bright ideas for the farewell gift?"
+   ]
+  },
+  {
+   "id": "pack4-card-324",
+   "mode": "vocab",
+   "word": "food for thought",
+   "pron": "",
+   "def": "something worth thinking about\nहिंदी: सोचने को मजबूर करने वाली बात",
+   "examples": [
+    "His speech gave us food for thought.",
+    "That's some food for thought.",
+    "The documentary on plastic waste gave me food for thought.",
+    "Your feedback is food for thought for the whole team."
+   ]
+  },
+  {
+   "id": "pack4-card-325",
+   "mode": "vocab",
+   "word": "it occurred to me",
+   "pron": "",
+   "def": "a thought came to my mind\nहिंदी: मेरे मन में आया",
+   "examples": [
+    "It occurred to me that we could save money.",
+    "It occurred to me yesterday.",
+    "It occurred to me that I hadn't called my parents this week.",
+    "It never occurred to me to ask for a discount."
+   ]
+  },
+  {
+   "id": "pack4-card-326",
+   "mode": "vocab",
+   "word": "the idea is to",
+   "pron": "",
+   "def": "explaining the purpose\nहिंदी: विचार यह है कि",
+   "examples": [
+    "The idea is to cut costs.",
+    "The idea is to simplify the process.",
+    "The idea is to finish the work before the holidays.",
+    "The idea is to let customers order without signing up."
+   ]
+  },
+  {
+   "id": "pack4-card-327",
+   "mode": "vocab",
+   "word": "the thinking is",
+   "pron": "",
+   "def": "explaining the reasoning\nहिंदी: सोच यह है कि",
+   "examples": [
+    "The thinking is that users prefer simplicity.",
+    "The thinking is we should wait.",
+    "The thinking is that a smaller office will save rent.",
+    "The thinking is that customers will pay more for faster delivery."
+   ]
+  },
+  {
+   "id": "pack4-card-328",
+   "mode": "vocab",
+   "word": "the rationale behind",
+   "pron": "",
+   "def": "the reason for a decision\nहिंदी: ... के पीछे का तर्क",
+   "examples": [
+    "The rationale behind it is cost.",
+    "What's the rationale behind this?",
+    "The rationale behind the new rule is customer safety.",
+    "Can you explain the rationale behind the price change?"
+   ]
+  },
+  {
+   "id": "pack4-card-329",
+   "mode": "vocab",
+   "word": "the logic is",
+   "pron": "",
+   "def": "explaining the reasoning\nहिंदी: तर्क यह है कि",
+   "examples": [
+    "The logic is that fewer steps mean fewer errors.",
+    "The logic is simple.",
+    "The logic is that happy employees serve customers better.",
+    "The logic is clear: fewer meetings, more focus time."
+   ]
+  },
+  {
+   "id": "pack4-card-330",
+   "mode": "vocab",
+   "word": "my take on this",
+   "pron": "",
+   "def": "my view or interpretation\nहिंदी: इस पर मेरी राय",
+   "examples": [
+    "My take on this is to wait.",
+    "What's your take on this?",
+    "My take on this is that we should hire, not outsource.",
+    "What's your take on the new office policy?"
+   ]
+  },
+  {
+   "id": "pack4-card-331",
+   "mode": "vocab",
+   "word": "in my view",
+   "pron": "",
+   "def": "according to my opinion\nहिंदी: मेरी दृष्टि में",
+   "examples": [
+    "In my view, we should expand.",
+    "In my view, it's too early.",
+    "In my view, the movie was too long.",
+    "In my view, we should wait for the client's reply."
+   ]
+  },
+  {
+   "id": "pack4-card-332",
+   "mode": "vocab",
+   "word": "in my opinion",
+   "pron": "",
+   "def": "as I think\nहिंदी: मेरी राय में",
+   "examples": [
+    "In my opinion, it's a good plan.",
+    "In my opinion, we must act.",
+    "In my opinion, the new metro line will help a lot.",
+    "Everyone has a right to their opinion; in my opinion, we're ready."
+   ]
+  },
+  {
+   "id": "pack4-card-333",
+   "mode": "vocab",
+   "word": "as I see it",
+   "pron": "",
+   "def": "from my point of view\nहिंदी: जैसा मैं देखता हूँ",
+   "examples": [
+    "As I see it, there are two options.",
+    "As I see it, we're ready.",
+    "As I see it, the real problem is poor planning.",
+    "As I see it, we have no choice but to delay."
+   ]
+  },
+  {
+   "id": "pack4-card-334",
+   "mode": "vocab",
+   "word": "from my perspective",
+   "pron": "",
+   "def": "from my viewpoint\nहिंदी: मेरे नज़रिए से",
+   "examples": [
+    "From my perspective, it's risky.",
+    "From my perspective, it's fair.",
+    "From my perspective, the change makes our work easier.",
+    "From my perspective as a parent, school fees are too high."
+   ]
+  },
+  {
+   "id": "pack4-card-335",
+   "mode": "vocab",
+   "word": "it seems to me",
+   "pron": "",
+   "def": "I get the impression\nहिंदी: मुझे लगता है",
+   "examples": [
+    "It seems to me that we're late.",
+    "It seems to me he's right.",
+    "It seems to me that the customer just wants an apology.",
+    "It seems to me that you need a break."
+   ]
+  },
+  {
+   "id": "pack4-card-336",
+   "mode": "vocab",
+   "word": "I feel that",
+   "pron": "",
+   "def": "I believe\nहिंदी: मुझे लगता है कि",
+   "examples": [
+    "I feel that we should wait.",
+    "I feel that it's unfair.",
+    "I feel that we should give him another chance.",
+    "I feel that the meeting was rushed."
+   ]
+  },
+  {
+   "id": "pack4-card-337",
+   "mode": "vocab",
+   "word": "I believe",
+   "pron": "",
+   "def": "I think something is true\nहिंदी: मेरा मानना है",
+   "examples": [
+    "I believe we can do it.",
+    "I believe it's the right choice.",
+    "I believe the shop opens at ten.",
+    "I believe hard work always pays off."
+   ]
+  },
+  {
+   "id": "pack4-card-338",
+   "mode": "vocab",
+   "word": "I'm convinced that",
+   "pron": "",
+   "def": "I'm certain\nहिंदी: मुझे पूरा यक़ीन है",
+   "examples": [
+    "I'm convinced that this will work.",
+    "I'm convinced that he's right.",
+    "I'm convinced that this new tool will save us hours.",
+    "She's convinced that she left her keys at the office."
+   ]
+  },
+  {
+   "id": "pack4-card-339",
+   "mode": "vocab",
+   "word": "I strongly believe",
+   "pron": "",
+   "def": "I am very sure\nहिंदी: मेरा दृढ़ विश्वास है",
+   "examples": [
+    "I strongly believe in teamwork.",
+    "I strongly believe we can win.",
+    "I strongly believe every child deserves a good education.",
+    "We strongly believe in treating customers fairly."
+   ]
+  },
+  {
+   "id": "pack4-card-340",
+   "mode": "vocab",
+   "word": "I would argue that",
+   "pron": "",
+   "def": "I claim, with reasons\nहिंदी: मेरा तर्क है कि",
+   "examples": [
+    "I would argue that it's too costly.",
+    "I would argue that quality matters.",
+    "I would argue that remote work makes us more productive.",
+    "I would argue that the price is fair for the quality."
+   ]
+  },
+  {
+   "id": "pack4-card-341",
+   "mode": "vocab",
+   "word": "the key point is",
+   "pron": "",
+   "def": "the main important idea\nहिंदी: मुख्य बिंदु यह है",
+   "examples": [
+    "The key point is timing.",
+    "The key point is trust.",
+    "The key point is that we must not lose this client.",
+    "The key point is to stay calm in the interview."
+   ]
+  },
+  {
+   "id": "pack4-card-342",
+   "mode": "vocab",
+   "word": "the main idea",
+   "pron": "",
+   "def": "the central concept\nहिंदी: मुख्य विचार",
+   "examples": [
+    "The main idea is to save time.",
+    "What's the main idea?",
+    "The main idea of the book is that small habits matter.",
+    "Write the main idea of your email in the first line."
+   ]
+  },
+  {
+   "id": "pack4-card-343",
+   "mode": "vocab",
+   "word": "a good example",
+   "pron": "",
+   "def": "something illustrating a point\nहिंदी: एक अच्छा उदाहरण",
+   "examples": [
+    "A good example is the metro.",
+    "Here's a good example.",
+    "A good example of teamwork is our last product launch.",
+    "Can you give me a good example of a leader you admire?"
+   ]
+  },
+  {
+   "id": "pack4-card-344",
+   "mode": "vocab",
+   "word": "for example",
+   "pron": "",
+   "def": "used to give an example\nहिंदी: उदाहरण के लिए",
+   "examples": [
+    "For example, take the bus system.",
+    "For example, we could cut costs.",
+    "Some foods, for example nuts, are rich in protein.",
+    "We could reduce costs, for example by sharing cabs."
+   ]
+  },
+  {
+   "id": "pack4-card-346",
+   "mode": "vocab",
+   "word": "to illustrate",
+   "pron": "",
+   "def": "to show with an example\nहिंदी: स्पष्ट करने के लिए",
+   "examples": [
+    "To illustrate, let me tell a story.",
+    "To illustrate, look at this chart.",
+    "To illustrate my point, here are last year's numbers.",
+    "To illustrate, imagine a shop with no customers on Monday."
+   ]
+  },
+  {
+   "id": "pack4-card-347",
+   "mode": "vocab",
+   "word": "such as",
+   "pron": "",
+   "def": "used to introduce examples\nहिंदी: जैसे कि",
+   "examples": [
+    "Fruits such as apples are healthy.",
+    "Many cities, such as Pune, are growing.",
+    "Bring documents such as your passport and Aadhaar card.",
+    "I enjoy sports such as cricket and badminton."
+   ]
+  },
+  {
+   "id": "pack4-card-348",
+   "mode": "vocab",
+   "word": "take X as an example",
+   "pron": "",
+   "def": "using X to illustrate\nहिंदी: X को उदाहरण मानिए",
+   "examples": [
+    "Take Japan as an example.",
+    "Take our team as an example.",
+    "Take Kerala as an example of high literacy.",
+    "Take my old company as an example of poor planning."
+   ]
+  },
+  {
+   "id": "pack4-card-349",
+   "mode": "vocab",
+   "word": "imagine that",
+   "pron": "",
+   "def": "asking someone to picture a situation\nहिंदी: कल्पना कीजिए कि",
+   "examples": [
+    "Imagine that you have no phone.",
+    "Imagine that prices doubled.",
+    "Imagine that you had a whole month off work.",
+    "Imagine that the internet went down for a week."
+   ]
+  },
+  {
+   "id": "pack4-card-350",
+   "mode": "vocab",
+   "word": "picture this",
+   "pron": "",
+   "def": "asking someone to visualise\nहिंदी: ज़रा सोचिए",
+   "examples": [
+    "Picture this — an empty office.",
+    "Picture this scene.",
+    "Picture this: a beach, a book and no emails.",
+    "Picture this: it's launch day, and the website crashes."
+   ]
+  },
+  {
+   "id": "pack4-card-351",
+   "mode": "vocab",
+   "word": "analogy",
+   "pron": "",
+   "def": "a comparison to explain an idea\nहिंदी: उपमा / तुलना",
+   "examples": [
+    "Let me use an analogy.",
+    "He drew an analogy with a river.",
+    "The teacher used a cooking analogy to explain chemistry.",
+    "His analogy between a team and a cricket side made sense."
+   ]
+  },
+  {
+   "id": "pack4-card-352",
+   "mode": "vocab",
+   "word": "metaphor",
+   "pron": "",
+   "def": "a figure of speech comparing two things\nहिंदी: रूपक",
+   "examples": [
+    "Life is a journey is a metaphor.",
+    "He used a metaphor to explain it.",
+    "Time is money is a common metaphor in business.",
+    "The poem uses the metaphor of a storm for anger."
+   ]
+  },
+  {
+   "id": "pack4-card-367",
+   "mode": "vocab",
+   "word": "so that",
+   "pron": "",
+   "def": "in order that\nहिंदी: ताकि",
+   "examples": [
+    "Speak slowly so that everyone understands.",
+    "Save money so that you can travel.",
+    "I left early so that I wouldn't miss the train.",
+    "Share the agenda so that people can prepare."
+   ]
+  },
+  {
+   "id": "pack4-card-368",
+   "mode": "vocab",
+   "word": "in order to",
+   "pron": "",
+   "def": "for the purpose of\nहिंदी: ... के लिए / उद्देश्य से",
+   "examples": [
+    "We cut costs in order to survive.",
+    "In order to win, we must practise.",
+    "She studied every evening in order to pass the exam.",
+    "In order to apply, you need a valid passport."
+   ]
+  },
+  {
+   "id": "pack4-card-369",
+   "mode": "vocab",
+   "word": "on the whole",
+   "pron": "",
+   "def": "generally speaking\nहिंदी: कुल मिलाकर",
+   "examples": [
+    "On the whole, it went well.",
+    "On the whole, I agree.",
+    "On the whole, the customers liked the new menu.",
+    "There were some problems, but on the whole, the trip was great."
+   ]
+  },
+  {
+   "id": "pack4-card-370",
+   "mode": "vocab",
+   "word": "all in all",
+   "pron": "",
+   "def": "considering everything\nहिंदी: कुल मिलाकर",
+   "examples": [
+    "All in all, it was a success.",
+    "All in all, I'm happy.",
+    "All in all, it was a good year for the company.",
+    "The hotel was small, but all in all, we enjoyed our stay."
+   ]
+  },
+  {
+   "id": "pack4-card-371",
+   "mode": "vocab",
+   "word": "in conclusion",
+   "pron": "",
+   "def": "to finish with a final point\nहिंदी: अंत में / निष्कर्ष में",
+   "examples": [
+    "In conclusion, we need to act.",
+    "In conclusion, it was worth it.",
+    "In conclusion, the new plan will save time and money.",
+    "In conclusion, I'd like to thank everyone for their support."
+   ]
+  },
+  {
+   "id": "pack4-card-372",
+   "mode": "vocab",
+   "word": "to conclude",
+   "pron": "",
+   "def": "to end with a final point\nहिंदी: निष्कर्ष के तौर पर",
+   "examples": [
+    "To conclude, thank you all.",
+    "To conclude, we recommend option two.",
+    "To conclude, I'd like to share the next steps.",
+    "To conclude, the project was a success despite the delays."
+   ]
+  },
+  {
+   "id": "pack4-card-373",
+   "mode": "vocab",
+   "word": "first and foremost",
+   "pron": "",
+   "def": "most importantly\nहिंदी: सबसे पहले और सबसे ज़रूरी",
+   "examples": [
+    "First and foremost, safety matters.",
+    "First and foremost, thank you.",
+    "First and foremost, I want to thank my parents.",
+    "First and foremost, check that the customer is safe."
+   ]
+  },
+  {
+   "id": "pack4-card-374",
+   "mode": "vocab",
+   "word": "above all",
+   "pron": "",
+   "def": "most importantly\nहिंदी: सबसे बढ़कर",
+   "examples": [
+    "Above all, be honest.",
+    "Above all, stay calm.",
+    "Above all, a good teacher must be patient.",
+    "Above all, we want our customers to trust us."
+   ]
+  },
+  {
+   "id": "pack4-card-375",
+   "mode": "vocab",
+   "word": "last but not least",
+   "pron": "",
+   "def": "final but equally important\nहिंदी: अंतिम किंतु महत्वपूर्ण",
+   "examples": [
+    "Last but not least, thank the team.",
+    "And last but not least, our sponsors.",
+    "Last but not least, I'd like to thank the cleaning staff.",
+    "Last but not least, please fill in the feedback form."
+   ]
+  },
+  {
+   "id": "pack4-card-376",
+   "mode": "vocab",
+   "word": "a case in point",
+   "pron": "",
+   "def": "an example that proves a point\nहिंदी: इसका एक उदाहरण",
+   "examples": [
+    "Our delay is a case in point.",
+    "A case in point is last year's loss.",
+    "Traffic in the city is terrible, and this morning was a case in point.",
+    "Small shops are struggling; the bakery that closed is a case in point."
+   ]
+  },
+  {
+   "id": "pack4-card-377",
+   "mode": "vocab",
+   "word": "the pros and cons",
+   "pron": "",
+   "def": "the advantages and disadvantages\nहिंदी: फ़ायदे और नुकसान",
+   "examples": [
+    "Let's weigh the pros and cons.",
+    "The pros and cons are clear.",
+    "We discussed the pros and cons of buying a flat.",
+    "Every job offer has its pros and cons."
+   ]
+  },
+  {
+   "id": "pack4-card-378",
+   "mode": "vocab",
+   "word": "weigh up",
+   "pron": "",
+   "def": "to consider carefully\nहिंदी: तौलना / परखना",
+   "examples": [
+    "Weigh up the options first.",
+    "She weighed up the risks.",
+    "Take time to weigh up both job offers.",
+    "We weighed up the cost against the benefits."
+   ]
+  },
+  {
+   "id": "pack4-card-379",
+   "mode": "vocab",
+   "word": "trade-off",
+   "pron": "",
+   "def": "a balance of two competing things\nहिंदी: समझौता / एक के बदले दूसरा",
+   "examples": [
+    "There's a trade-off between speed and quality.",
+    "Every plan has a trade-off.",
+    "Living near the office is a trade-off between rent and travel time.",
+    "Cheaper flights often come with a trade-off in comfort."
+   ]
+  },
+  {
+   "id": "pack4-card-380",
+   "mode": "vocab",
+   "word": "a double-edged sword",
+   "pron": "",
+   "def": "something with both good and bad effects\nहिंदी: दोधारी तलवार",
+   "examples": [
+    "Social media is a double-edged sword.",
+    "Technology is a double-edged sword.",
+    "Working from home is a double-edged sword for many people.",
+    "Fame can be a double-edged sword."
+   ]
+  },
+  {
+   "id": "pack4-card-381",
+   "mode": "vocab",
+   "word": "the big picture",
+   "pron": "",
+   "def": "the overall view\nहिंदी: बड़ी तस्वीर",
+   "examples": [
+    "Let's look at the big picture.",
+    "Don't lose sight of the big picture.",
+    "Step back and think about the big picture before deciding.",
+    "The CEO talks about the big picture, not daily tasks."
+   ]
+  },
+  {
+   "id": "pack4-card-382",
+   "mode": "vocab",
+   "word": "a fresh perspective",
+   "pron": "",
+   "def": "a new way of looking at things\nहिंदी: नया नज़रिया",
+   "examples": [
+    "She brought a fresh perspective.",
+    "We need a fresh perspective.",
+    "Travel gives you a fresh perspective on life.",
+    "The new manager brought a fresh perspective to old problems."
+   ]
+  },
+  {
+   "id": "pack4-card-383",
+   "mode": "vocab",
+   "word": "common ground",
+   "pron": "",
+   "def": "shared beliefs or interests\nहिंदी: साझा आधार",
+   "examples": [
+    "We found common ground.",
+    "Let's look for common ground.",
+    "The two teams found common ground on the launch date.",
+    "Despite their differences, the neighbours found common ground."
+   ]
+  },
+  {
+   "id": "pack4-card-384",
+   "mode": "vocab",
+   "word": "a middle path",
+   "pron": "",
+   "def": "a compromise between two extremes\nहिंदी: बीच का रास्ता",
+   "examples": [
+    "Let's take a middle path.",
+    "The middle path works best.",
+    "We took a middle path and worked from the office twice a week.",
+    "A middle path between saving and spending keeps life balanced."
+   ]
+  },
+  {
+   "id": "pack4-card-385",
+   "mode": "vocab",
+   "word": "meet halfway",
+   "pron": "",
+   "def": "to compromise\nहिंदी: बीच का रास्ता निकालना",
+   "examples": [
+    "Let's meet halfway on price.",
+    "He met me halfway.",
+    "I'll meet you halfway and pay half the repair cost.",
+    "The landlord met us halfway on the rent increase."
+   ]
+  },
+  {
+   "id": "pack4-card-386",
+   "mode": "vocab",
+   "word": "back up",
+   "pron": "",
+   "def": "to support with evidence\nहिंदी: समर्थन में प्रमाण देना",
+   "examples": [
+    "Can you back that up with data?",
+    "He backed up his claim.",
+    "Use real examples to back up your answers in the interview.",
+    "The scientist backed up her theory with years of data."
+   ]
+  },
+  {
+   "id": "pack4-card-387",
+   "mode": "vocab",
+   "word": "evidence suggests",
+   "pron": "",
+   "def": "facts indicate\nहिंदी: प्रमाण संकेत देते हैं",
+   "examples": [
+    "Evidence suggests prices will rise.",
+    "Evidence suggests it works.",
+    "Evidence suggests that regular walks improve mood.",
+    "Evidence suggests the fire started in the kitchen."
+   ]
+  },
+  {
+   "id": "pack4-card-388",
+   "mode": "vocab",
+   "word": "according to",
+   "pron": "",
+   "def": "as stated by\nहिंदी: ... के अनुसार",
+   "examples": [
+    "According to the report, sales fell.",
+    "According to him, it's fine.",
+    "According to the weather report, it will rain tomorrow.",
+    "According to my manager, the bonus will be paid in March."
+   ]
+  },
+  {
+   "id": "pack4-card-389",
+   "mode": "vocab",
+   "word": "studies show",
+   "pron": "",
+   "def": "research indicates\nहिंदी: अध्ययन बताते हैं",
+   "examples": [
+    "Studies show sleep helps memory.",
+    "Studies show exercise reduces stress.",
+    "Studies show that children learn better with play.",
+    "Studies show that short breaks improve focus at work."
+   ]
+  },
+  {
+   "id": "pack4-card-390",
+   "mode": "vocab",
+   "word": "statistics show",
+   "pron": "",
+   "def": "data indicates\nहिंदी: आँकड़े दर्शाते हैं",
+   "examples": [
+    "Statistics show a rise in use.",
+    "Statistics show it's growing.",
+    "Statistics show that more people are shopping online.",
+    "Statistics show that road accidents rise during festivals."
+   ]
+  },
+  {
+   "id": "pack4-card-391",
+   "mode": "vocab",
+   "word": "it is widely believed",
+   "pron": "",
+   "def": "many people think\nहिंदी: व्यापक रूप से माना जाता है",
+   "examples": [
+    "It is widely believed that he's right.",
+    "It is widely believed to be safe.",
+    "It is widely believed that breakfast is the most important meal.",
+    "It is widely believed that the company will be sold."
+   ]
+  },
+  {
+   "id": "pack4-card-392",
+   "mode": "vocab",
+   "word": "it goes without saying",
+   "pron": "",
+   "def": "it is obvious\nहिंदी: यह कहने की ज़रूरत नहीं",
+   "examples": [
+    "It goes without saying that we need help.",
+    "It goes without saying, you're welcome.",
+    "It goes without saying that the data must stay private.",
+    "It goes without saying that you should arrive on time."
+   ]
+  },
+  {
+   "id": "pack4-card-393",
+   "mode": "vocab",
+   "word": "needless to say",
+   "pron": "",
+   "def": "obviously\nहिंदी: कहने की ज़रूरत नहीं",
+   "examples": [
+    "Needless to say, we were thrilled.",
+    "Needless to say, he won.",
+    "Needless to say, the children loved the trip to the zoo.",
+    "He forgot the client's name; needless to say, the meeting went badly."
+   ]
+  },
+  {
+   "id": "pack4-card-394",
+   "mode": "vocab",
+   "word": "that being said",
+   "pron": "",
+   "def": "despite what was just said\nहिंदी: ऐसा कहने के बाद भी",
+   "examples": [
+    "That being said, we must try.",
+    "That being said, it's fine.",
+    "The plan is risky. That being said, it could pay off.",
+    "The hotel was expensive. That being said, the service was great."
+   ]
+  },
+  {
+   "id": "pack4-card-395",
+   "mode": "vocab",
+   "word": "having said that",
+   "pron": "",
+   "def": "even so\nहिंदी: यह कहने के बावजूद",
+   "examples": [
+    "Having said that, it's still risky.",
+    "Having said that, I agree.",
+    "The job pays well. Having said that, the hours are long.",
+    "I love Mumbai; having said that, the rain can be too much."
+   ]
+  },
+  {
+   "id": "pack4-card-396",
+   "mode": "vocab",
+   "word": "on second thought",
+   "pron": "",
+   "def": "after reconsidering\nहिंदी: दोबारा सोचने पर",
+   "examples": [
+    "On second thought, let's wait.",
+    "On second thought, I'll stay.",
+    "On second thought, I'll take the stairs.",
+    "I said yes, but on second thought, I need more time."
+   ]
+  },
+  {
+   "id": "pack4-card-397",
+   "mode": "vocab",
+   "word": "come to think of it",
+   "pron": "",
+   "def": "used when an idea suddenly occurs\nहिंदी: अब सोचता हूँ तो",
+   "examples": [
+    "Come to think of it, he's right.",
+    "Come to think of it, I did see him.",
+    "Come to think of it, I haven't eaten since morning.",
+    "Come to think of it, the printer has been slow all week."
+   ]
+  },
+  {
+   "id": "pack4-card-398",
+   "mode": "vocab",
+   "word": "now that you mention it",
+   "pron": "",
+   "def": "used when you recall something\nहिंदी: अब जब आपने कहा तो",
+   "examples": [
+    "Now that you mention it, I remember.",
+    "Now that you mention it, it's true.",
+    "Now that you mention it, the room does feel cold.",
+    "Now that you mention it, she did look upset in the meeting."
+   ]
+  },
+  {
+   "id": "pack4-card-399",
+   "mode": "vocab",
+   "word": "I take your point",
+   "pron": "",
+   "def": "I accept what you say\nहिंदी: आपकी बात मान ली",
+   "examples": [
+    "I take your point about cost.",
+    "I take your point.",
+    "I take your point, but we still need to finish today.",
+    "I take your point about the risks; let's plan for them."
+   ]
+  },
+  {
+   "id": "pack4-card-400",
+   "mode": "vocab",
+   "word": "fair enough",
+   "pron": "",
+   "def": "accepted as reasonable\nहिंदी: ठीक है / वाजिब है",
+   "examples": [
+    "Fair enough, let's do it.",
+    "Fair enough, you win.",
+    "Fair enough, you can leave early today.",
+    "If you want more time, fair enough, but tell the client."
+   ]
+  },
+  {
+   "id": "pack4-card-401",
+   "mode": "vocab",
+   "word": "point taken",
+   "pron": "",
+   "def": "I understand and accept your point\nहिंदी: बात समझ गया",
+   "examples": [
+    "Point taken, I'll be careful.",
+    "Point taken.",
+    "Point taken; I'll include the numbers next time.",
+    "Point taken about the noise; we'll keep it down."
+   ]
+  },
+  {
+   "id": "pack4-card-402",
+   "mode": "vocab",
+   "word": "I stand corrected",
+   "pron": "",
+   "def": "I admit I was wrong\nहिंदी: मैं अपनी ग़लती मानता हूँ",
+   "examples": [
+    "I stand corrected, you're right.",
+    "I stand corrected on that.",
+    "I thought the shop closed at eight, but I stand corrected.",
+    "I stand corrected; the meeting is on Thursday, not Wednesday."
+   ]
+  },
+  {
+   "id": "pack4-card-403",
+   "mode": "vocab",
+   "word": "let me rephrase",
+   "pron": "",
+   "def": "I'll say it in different words\nहिंदी: मैं दूसरे ढंग से कहता हूँ",
+   "examples": [
+    "Let me rephrase the question.",
+    "Let me rephrase that.",
+    "Sorry, that sounded rude; let me rephrase.",
+    "Let me rephrase: what would make this job right for you?"
+   ]
+  },
+  {
+   "id": "pack4-card-404",
+   "mode": "vocab",
+   "word": "to put it another way",
+   "pron": "",
+   "def": "to say it differently\nहिंदी: दूसरे ढंग से कहूँ तो",
+   "examples": [
+    "To put it another way, we're out of time.",
+    "To put it another way, it failed.",
+    "To put it another way, we spend more than we earn.",
+    "To put it another way, the customer is always first."
+   ]
+  },
+  {
+   "id": "pack4-card-405",
+   "mode": "vocab",
+   "word": "what I'm getting at",
+   "pron": "",
+   "def": "what I'm trying to say\nहिंदी: मैं जो कहना चाह रहा हूँ",
+   "examples": [
+    "What I'm getting at is we need change.",
+    "Do you see what I'm getting at?",
+    "What I'm getting at is that we need more testers.",
+    "I'm not sure what you're getting at; can you explain?"
+   ]
+  },
+  {
+   "id": "pack4-card-406",
+   "mode": "vocab",
+   "word": "what I'm driving at",
+   "pron": "",
+   "def": "what I'm trying to suggest\nहिंदी: मेरा इशारा किस ओर है",
+   "examples": [
+    "Do you see what I'm driving at?",
+    "That's what I'm driving at.",
+    "What I'm driving at is that the process is too slow.",
+    "I didn't understand what he was driving at until the end."
+   ]
+  },
+  {
+   "id": "pack4-card-407",
+   "mode": "vocab",
+   "word": "make my case",
+   "pron": "",
+   "def": "to argue persuasively\nहिंदी: अपनी बात तर्क से रखना",
+   "examples": [
+    "Let me make my case.",
+    "She made her case well.",
+    "I'll make my case for a bigger budget at the meeting.",
+    "Give me five minutes to make my case."
+   ]
+  },
+  {
+   "id": "pack4-card-408",
+   "mode": "vocab",
+   "word": "win people over",
+   "pron": "",
+   "def": "to persuade people\nहिंदी: लोगों को अपने पक्ष में करना",
+   "examples": [
+    "His honesty won people over.",
+    "The speech won them over.",
+    "The new teacher won people over with her humour.",
+    "Free samples helped the shop win people over."
+   ]
+  },
+  {
+   "id": "pack4-card-409",
+   "mode": "vocab",
+   "word": "get buy-in",
+   "pron": "",
+   "def": "to gain support for an idea\nहिंदी: सहमति हासिल करना",
+   "examples": [
+    "We need to get buy-in from the team.",
+    "She got buy-in from the board.",
+    "Get buy-in from the users before you change the system.",
+    "It's easier to get buy-in when people help shape the plan."
+   ]
+  },
+  {
+   "id": "pack4-card-410",
+   "mode": "vocab",
+   "word": "rally support",
+   "pron": "",
+   "def": "to gather people behind an idea\nहिंदी: समर्थन जुटाना",
+   "examples": [
+    "He rallied support for the cause.",
+    "They rallied support quickly.",
+    "The residents rallied support to save the local park.",
+    "She rallied support from other managers for the new policy."
+   ]
+  },
+  {
+   "id": "pack4-card-411",
+   "mode": "vocab",
+   "word": "sell an idea",
+   "pron": "",
+   "def": "to persuade people to accept it\nहिंदी: विचार को स्वीकार करवाना",
+   "examples": [
+    "You must sell the idea to the board.",
+    "He sold the idea well.",
+    "A good story helps you sell an idea to anyone.",
+    "He struggled to sell the idea to his parents."
+   ]
+  }
+ ]
+}

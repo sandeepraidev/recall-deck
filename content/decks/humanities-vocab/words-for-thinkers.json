@@ -1,0 +1,385 @@
+{
+ "id": "pack1-deck-2",
+ "categoryId": "pack1-cat-2",
+ "title": "Words for Thinkers",
+ "sub": "Vocabulary for reading and discussing big ideas.",
+ "cards": [
+  {
+   "id": "pack1-card-41",
+   "mode": "vocab",
+   "word": "Zeitgeist",
+   "pron": "/ˈzaɪtɡaɪst/",
+   "def": "The defining spirit or mood of a particular period.",
+   "examples": [
+    "The film captured the zeitgeist of the 1960s.",
+    "Social media shapes the zeitgeist of our time.",
+    "The novel perfectly reflects the zeitgeist of post-independence India.",
+    "Good advertisers try to capture the zeitgeist."
+   ]
+  },
+  {
+   "id": "pack1-card-42",
+   "mode": "vocab",
+   "word": "Hubris",
+   "pron": "/ˈhjuːbrɪs/",
+   "def": "Excessive pride or self-confidence, often leading to downfall.",
+   "examples": [
+    "His hubris led him to ignore every warning.",
+    "The general's hubris cost him the battle.",
+    "It was hubris to launch without any testing.",
+    "Greek tragedies often show heroes destroyed by hubris."
+   ]
+  },
+  {
+   "id": "pack1-card-44",
+   "mode": "vocab",
+   "word": "Dialectic",
+   "pron": "/ˌdaɪəˈlɛktɪk/",
+   "def": "A method of reaching truth through the clash of opposing ideas.",
+   "examples": [
+    "Socrates taught through dialectic.",
+    "The professor used dialectic to help students question their beliefs.",
+    "Hegel's dialectic moves from thesis to antithesis to synthesis.",
+    "Their debate was a lively dialectic between two views."
+   ]
+  },
+  {
+   "id": "pack1-card-45",
+   "mode": "vocab",
+   "word": "Pathos",
+   "pron": "/ˈpeɪθɒs/",
+   "def": "A quality that evokes pity or sadness.",
+   "examples": [
+    "The novel's pathos left readers in tears.",
+    "The film's final scene was full of pathos.",
+    "The speaker used pathos to win the audience's sympathy.",
+    "There is real pathos in the old man's letters."
+   ]
+  },
+  {
+   "id": "pack1-card-46",
+   "mode": "vocab",
+   "word": "Ethos",
+   "pron": "/ˈiːθɒs/",
+   "def": "The characteristic spirit or guiding beliefs of a culture or group.",
+   "examples": [
+    "The company's ethos is radical transparency.",
+    "The school's ethos values kindness over marks.",
+    "Teamwork is part of our company ethos.",
+    "The startup's ethos is to move fast and learn."
+   ]
+  },
+  {
+   "id": "pack1-card-47",
+   "mode": "vocab",
+   "word": "Logos",
+   "pron": "/ˈloʊɡɒs/",
+   "def": "Persuasion through logic and reason.",
+   "examples": [
+    "Her speech relied on logos, citing data.",
+    "Lawyers use logos when they present evidence step by step.",
+    "Her essay was strong on logos but weak on emotion.",
+    "Ads often mix logos with emotional appeal."
+   ]
+  },
+  {
+   "id": "pack1-card-48",
+   "mode": "vocab",
+   "word": "Epistemology",
+   "pron": "/ɪˌpɪstəˈmɒlədʒi/",
+   "def": "The branch of philosophy concerned with the nature and limits of knowledge.",
+   "examples": [
+    "Epistemology asks how we can know what we know.",
+    "The philosophy course starts with epistemology.",
+    "Epistemology asks whether our senses can be trusted.",
+    "Science raises many questions of epistemology."
+   ]
+  },
+  {
+   "id": "pack1-card-49",
+   "mode": "vocab",
+   "word": "Ontology",
+   "pron": "/ɒnˈtɒlədʒi/",
+   "def": "The branch of philosophy concerned with the nature of being.",
+   "examples": [
+    "Ontology debates whether numbers really exist.",
+    "Ontology asks what kinds of things really exist.",
+    "The lecture on ontology left me thinking about the nature of time.",
+    "In philosophy class, we compared Indian and Western ontology."
+   ]
+  },
+  {
+   "id": "pack1-card-50",
+   "mode": "vocab",
+   "word": "Utilitarianism",
+   "pron": "/juːˌtɪlɪˈtɛəriənɪzəm/",
+   "def": "The ethical view that the best action maximizes overall happiness.",
+   "examples": [
+    "Utilitarianism judges a policy by its outcomes.",
+    "Under utilitarianism, saving five lives is better than saving one.",
+    "Critics say utilitarianism can ignore individual rights.",
+    "The government used utilitarianism to justify the new highway."
+   ]
+  },
+  {
+   "id": "pack1-card-51",
+   "mode": "vocab",
+   "word": "Stoicism",
+   "pron": "/ˈstoʊɪsɪzəm/",
+   "def": "A philosophy of calm acceptance of what cannot be controlled.",
+   "examples": [
+    "Stoicism taught him to stay steady in a crisis.",
+    "Reading about Stoicism helped me handle stress at work.",
+    "Stoicism teaches us to focus on what we can control.",
+    "Marcus Aurelius is a famous voice of Stoicism."
+   ]
+  },
+  {
+   "id": "pack1-card-52",
+   "mode": "vocab",
+   "word": "Pragmatism",
+   "pron": "/ˈpræɡmətɪzəm/",
+   "def": "A focus on practical consequences over abstract theory.",
+   "examples": [
+    "Her pragmatism got the deal done.",
+    "Pragmatism helped the leaders reach a quick agreement.",
+    "He chose pragmatism over perfection and shipped the product.",
+    "American pragmatism values ideas that work in practice."
+   ]
+  },
+  {
+   "id": "pack1-card-53",
+   "mode": "vocab",
+   "word": "Existential",
+   "pron": "/ˌɛɡzɪˈstɛnʃəl/",
+   "def": "Relating to human existence and the search for meaning.",
+   "examples": [
+    "He faced an existential crisis at forty.",
+    "Climate change is an existential threat to island nations.",
+    "The film explores existential questions about life and death.",
+    "After retiring, he felt an existential emptiness."
+   ]
+  },
+  {
+   "id": "pack1-card-54",
+   "mode": "vocab",
+   "word": "Paradigm",
+   "pron": "/ˈpærədaɪm/",
+   "def": "A typical model or framework of thinking in a field.",
+   "examples": [
+    "Darwin's work shifted the paradigm of biology.",
+    "The internet created a new paradigm for business.",
+    "Einstein's theory changed the paradigm of physics.",
+    "We need a new paradigm for teaching languages."
+   ]
+  },
+  {
+   "id": "pack1-card-55",
+   "mode": "vocab",
+   "word": "Anachronism",
+   "pron": "/əˈnækrənɪzəm/",
+   "def": "Something placed in the wrong historical period.",
+   "examples": [
+    "A wristwatch in a Roman film is an anachronism.",
+    "Typewriters now seem like an anachronism.",
+    "The historian spotted an anachronism in the costume.",
+    "Some old laws are an anachronism in modern society."
+   ]
+  },
+  {
+   "id": "pack1-card-57",
+   "mode": "vocab",
+   "word": "Bourgeoisie",
+   "pron": "/ˌbʊərʒwɑːˈziː/",
+   "def": "The middle class, especially as owners of property and capital.",
+   "examples": [
+    "Marx wrote about the bourgeoisie and the proletariat.",
+    "The novel mocks the comfortable life of the bourgeoisie.",
+    "The French Revolution changed the power of the bourgeoisie.",
+    "In the story, the bourgeoisie live in big city houses."
+   ]
+  },
+  {
+   "id": "pack1-card-58",
+   "mode": "vocab",
+   "word": "Proletariat",
+   "pron": "/ˌproʊlɪˈtɛəriət/",
+   "def": "The working class, especially industrial workers.",
+   "examples": [
+    "The proletariat organized into unions.",
+    "The proletariat worked long hours in the mills.",
+    "Communist leaders spoke for the proletariat.",
+    "The play shows the struggles of the urban proletariat."
+   ]
+  },
+  {
+   "id": "pack1-card-59",
+   "mode": "vocab",
+   "word": "Feudalism",
+   "pron": "/ˈfjuːdəlɪzəm/",
+   "def": "A medieval system of land held in exchange for service.",
+   "examples": [
+    "Feudalism bound peasants to the lord's estate.",
+    "Under feudalism, peasants worked the lord's land.",
+    "Feudalism declined as towns and trade grew.",
+    "The museum explains how feudalism worked in medieval Europe."
+   ]
+  },
+  {
+   "id": "pack1-card-60",
+   "mode": "vocab",
+   "word": "Renaissance",
+   "pron": "/rɪˈneɪsəns/",
+   "def": "A revival of art and learning; especially Europe's 14th–17th century rebirth.",
+   "examples": [
+    "The Renaissance produced da Vinci and Michelangelo.",
+    "The Renaissance began in Italy.",
+    "Many great paintings come from the Renaissance.",
+    "Bengal saw a cultural renaissance in the nineteenth century."
+   ]
+  },
+  {
+   "id": "pack1-card-62",
+   "mode": "vocab",
+   "word": "Allegory",
+   "pron": "/ˈælɪɡɔːri/",
+   "def": "A story whose characters and events stand for deeper meanings.",
+   "examples": [
+    "Animal Farm is an allegory of the Russian Revolution.",
+    "The Panchatantra stories work as allegory for human behaviour.",
+    "The film is an allegory about power and greed.",
+    "Students wrote essays on the allegory in the poem."
+   ]
+  },
+  {
+   "id": "pack1-card-63",
+   "mode": "vocab",
+   "word": "Irony",
+   "pron": "/ˈaɪrəni/",
+   "def": "A contrast between what is expected and what actually happens or is said.",
+   "examples": [
+    "The fire station burned down — what irony.",
+    "The irony is that the safety officer had an accident.",
+    "She said nice weather with irony as the rain poured.",
+    "There's a sad irony in a doctor who never rests."
+   ]
+  },
+  {
+   "id": "pack1-card-66",
+   "mode": "vocab",
+   "word": "Canon",
+   "pron": "/ˈkænən/",
+   "def": "A body of works regarded as authoritative or essential.",
+   "examples": [
+    "Shakespeare sits at the center of the Western canon.",
+    "Tagore's poems are part of the Indian literary canon.",
+    "The course covers the canon of classic English novels.",
+    "Critics argue the canon should include more women writers."
+   ]
+  },
+  {
+   "id": "pack1-card-67",
+   "mode": "vocab",
+   "word": "Rhetoric",
+   "pron": "/ˈrɛtərɪk/",
+   "def": "The art of effective or persuasive speaking and writing.",
+   "examples": [
+    "Her rhetoric moved the whole crowd.",
+    "The politician's rhetoric promised more than he delivered.",
+    "Students learned rhetoric to improve their debating skills.",
+    "Empty rhetoric won't solve the water crisis."
+   ]
+  },
+  {
+   "id": "pack1-card-71",
+   "mode": "vocab",
+   "word": "Ambivalence",
+   "pron": "/æmˈbɪvələns/",
+   "def": "Having mixed or contradictory feelings about something.",
+   "examples": [
+    "He felt ambivalence about leaving home.",
+    "She felt ambivalence about the promotion and the extra travel.",
+    "There's public ambivalence about the new policy.",
+    "His ambivalence showed in his slow reply."
+   ]
+  },
+  {
+   "id": "pack1-card-73",
+   "mode": "vocab",
+   "word": "Cynicism",
+   "pron": "/ˈsɪnɪsɪzəm/",
+   "def": "A distrustful belief that people act only out of self-interest.",
+   "examples": [
+    "Years of politics bred his cynicism.",
+    "His cynicism made it hard to trust any new manager.",
+    "Don't let cynicism stop you from trying.",
+    "Public cynicism about politicians is growing."
+   ]
+  },
+  {
+   "id": "pack1-card-74",
+   "mode": "vocab",
+   "word": "Skepticism",
+   "pron": "/ˈskɛptɪsɪzəm/",
+   "def": "A questioning attitude toward claims presented as fact.",
+   "examples": [
+    "Healthy skepticism protects against misinformation.",
+    "Treat miracle health claims with skepticism.",
+    "Scientists showed skepticism about the new study.",
+    "Her skepticism helped the team avoid a bad deal."
+   ]
+  },
+  {
+   "id": "pack1-card-75",
+   "mode": "vocab",
+   "word": "Utopia",
+   "pron": "/juːˈtoʊpiə/",
+   "def": "An imagined perfect society.",
+   "examples": [
+    "Thomas More coined 'utopia' in 1516.",
+    "The new township was advertised as a utopia.",
+    "No society can become a perfect utopia.",
+    "The novel describes a utopia without money."
+   ]
+  },
+  {
+   "id": "pack1-card-76",
+   "mode": "vocab",
+   "word": "Dystopia",
+   "pron": "/dɪsˈtoʊpiə/",
+   "def": "An imagined society where life is miserable and oppressive.",
+   "examples": [
+    "1984 is the classic dystopia.",
+    "The film shows a dystopia controlled by machines.",
+    "Some fear social media could create a dystopia of surveillance.",
+    "Students read a dystopia novel for their English class."
+   ]
+  },
+  {
+   "id": "pack1-card-79",
+   "mode": "vocab",
+   "word": "Solipsism",
+   "pron": "/ˈsɒlɪpsɪzəm/",
+   "def": "The view that only one's own mind is certain to exist.",
+   "examples": [
+    "Pure solipsism is hard to argue against and impossible to live by.",
+    "Solipsism is a popular topic in first-year philosophy classes.",
+    "Taken to extremes, solipsism means doubting everyone else's mind.",
+    "The character's solipsism made him ignore other people's feelings."
+   ]
+  },
+  {
+   "id": "pack1-card-80",
+   "mode": "vocab",
+   "word": "Catharsis",
+   "pron": "/kəˈθɑːrsɪs/",
+   "def": "Emotional release through art or expression.",
+   "examples": [
+    "The tragedy offered the audience catharsis.",
+    "Crying at the film gave me a sense of catharsis.",
+    "Writing in a journal can bring catharsis.",
+    "The match win was a catharsis for fans after years of losses."
+   ]
+  }
+ ]
+}

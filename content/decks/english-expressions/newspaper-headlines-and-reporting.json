@@ -1,0 +1,1529 @@
+{
+ "id": "pack4-deck-5",
+ "categoryId": "pack4-cat-2",
+ "title": "Newspaper Headlines & Reporting",
+ "sub": "Words and phrases used in news reports, editorials and headlines.",
+ "cards": [
+  {
+   "id": "pack4-card-412",
+   "mode": "vocab",
+   "word": "front page",
+   "pron": "",
+   "def": "the first page of a newspaper, carrying the biggest stories\nहिंदी: पहला पन्ना / मुखपृष्ठ",
+   "examples": [
+    "The scandal made the front page of every paper.",
+    "Her photo was on the front page today.",
+    "My father reads the front page first every morning.",
+    "The cricket win was all over the front page."
+   ]
+  },
+  {
+   "id": "pack4-card-413",
+   "mode": "vocab",
+   "word": "byline",
+   "pron": "",
+   "def": "the line naming the writer of an article\nहिंदी: लेखक का नाम (लेख के ऊपर)",
+   "examples": [
+    "The byline showed it was written by a senior editor.",
+    "She finally got her first byline.",
+    "Check the byline to see who wrote the article.",
+    "The story ran without a byline."
+   ]
+  },
+  {
+   "id": "pack4-card-414",
+   "mode": "vocab",
+   "word": "dateline",
+   "pron": "",
+   "def": "the line giving the place and date of a report\nहिंदी: समाचार का स्थान और तिथि वाली पंक्ति",
+   "examples": [
+    "The dateline said \"New Delhi, Monday\".",
+    "A dateline tells you where the reporter filed the story.",
+    "The dateline showed the story was filed from Mumbai.",
+    "The article's dateline was two days old."
+   ]
+  },
+  {
+   "id": "pack4-card-415",
+   "mode": "vocab",
+   "word": "breaking news",
+   "pron": "",
+   "def": "news that is just happening and being reported\nहिंदी: ताज़ा / तुरंत की ख़बर",
+   "examples": [
+    "Breaking news — the bridge has collapsed.",
+    "We interrupt this programme for breaking news.",
+    "We saw the breaking news on our phones at lunch.",
+    "Breaking news: the airport is closed due to fog."
+   ]
+  },
+  {
+   "id": "pack4-card-416",
+   "mode": "vocab",
+   "word": "exclusive",
+   "pron": "",
+   "def": "a story published first by one outlet only\nहिंदी: विशेष / केवल हमारे पास की ख़बर",
+   "examples": [
+    "The channel aired an exclusive interview.",
+    "It was an exclusive report on the deal.",
+    "The magazine got an exclusive with the cricket captain.",
+    "Readers paid extra for the exclusive story."
+   ]
+  },
+  {
+   "id": "pack4-card-417",
+   "mode": "vocab",
+   "word": "scoop",
+   "pron": "",
+   "def": "an important story obtained before rivals\nहिंदी: सबसे पहले मिली बड़ी ख़बर",
+   "examples": [
+    "The reporter landed a major scoop.",
+    "They beat everyone to the scoop.",
+    "The local paper got the scoop on the new metro line.",
+    "Her scoop about the scam won an award."
+   ]
+  },
+  {
+   "id": "pack4-card-418",
+   "mode": "vocab",
+   "word": "lead story",
+   "pron": "",
+   "def": "the most important story in a bulletin or paper\nहिंदी: मुख्य ख़बर",
+   "examples": [
+    "Floods are today's lead story.",
+    "The lead story covers the budget.",
+    "The election result was the lead story on every channel.",
+    "Today's lead story is about rising fuel prices."
+   ]
+  },
+  {
+   "id": "pack4-card-419",
+   "mode": "vocab",
+   "word": "column",
+   "pron": "",
+   "def": "a regular article by a particular writer\nहिंदी: स्तंभ",
+   "examples": [
+    "He writes a weekly column on politics.",
+    "I never miss her Sunday column.",
+    "She reads the health column every Tuesday.",
+    "His column on money tips is very popular."
+   ]
+  },
+  {
+   "id": "pack4-card-420",
+   "mode": "vocab",
+   "word": "columnist",
+   "pron": "",
+   "def": "a person who writes a regular column\nहिंदी: स्तंभकार",
+   "examples": [
+    "The columnist criticised the policy.",
+    "She is a well-known sports columnist.",
+    "The columnist writes about life in small towns.",
+    "A famous columnist praised the new film."
+   ]
+  },
+  {
+   "id": "pack4-card-421",
+   "mode": "vocab",
+   "word": "correspondent",
+   "pron": "",
+   "def": "a journalist who reports from a particular place or field\nहिंदी: संवाददाता",
+   "examples": [
+    "Our Paris correspondent filed the report.",
+    "He is the paper's political correspondent.",
+    "The war correspondent reported from the front line.",
+    "Our business correspondent explains the budget."
+   ]
+  },
+  {
+   "id": "pack4-card-422",
+   "mode": "vocab",
+   "word": "reporter",
+   "pron": "",
+   "def": "a person who gathers and reports news\nहिंदी: रिपोर्टर / पत्रकार",
+   "examples": [
+    "The reporter interviewed the minister.",
+    "A young reporter broke the story.",
+    "A reporter called me for a comment on the strike.",
+    "The reporter waited outside the court all day."
+   ]
+  },
+  {
+   "id": "pack4-card-423",
+   "mode": "vocab",
+   "word": "editor-in-chief",
+   "pron": "",
+   "def": "the person with final authority over a publication\nहिंदी: प्रधान संपादक",
+   "examples": [
+    "The editor-in-chief approved the front page.",
+    "She was promoted to editor-in-chief.",
+    "The editor-in-chief apologised for the mistake.",
+    "Every big story needs the editor-in-chief's approval."
+   ]
+  },
+  {
+   "id": "pack4-card-424",
+   "mode": "vocab",
+   "word": "press release",
+   "pron": "",
+   "def": "an official statement given to the media\nहिंदी: प्रेस विज्ञप्ति",
+   "examples": [
+    "The company issued a press release on Friday.",
+    "The press release denied the rumours.",
+    "The press release announced the new CEO.",
+    "We sent a press release about our product launch."
+   ]
+  },
+  {
+   "id": "pack4-card-425",
+   "mode": "vocab",
+   "word": "press conference",
+   "pron": "",
+   "def": "a meeting where officials answer reporters' questions\nहिंदी: प्रेस वार्ता",
+   "examples": [
+    "The minister called a press conference.",
+    "Questions were taken at the end of the press conference.",
+    "The coach spoke at a press conference after the match.",
+    "The police held a press conference about the arrest."
+   ]
+  },
+  {
+   "id": "pack4-card-426",
+   "mode": "vocab",
+   "word": "press briefing",
+   "pron": "",
+   "def": "a short official update given to journalists\nहिंदी: प्रेस ब्रीफ़िंग",
+   "examples": [
+    "The spokesperson held a daily press briefing.",
+    "Details emerged in a press briefing.",
+    "The health ministry gives a press briefing every evening.",
+    "At the press briefing, officials shared new numbers."
+   ]
+  },
+  {
+   "id": "pack4-card-427",
+   "mode": "vocab",
+   "word": "off the record",
+   "pron": "",
+   "def": "said privately, not to be published\nहिंदी: अनौपचारिक रूप से (प्रकाशित न करने की शर्त पर)",
+   "examples": [
+    "He told me off the record that he would resign.",
+    "Nothing said off the record can be printed.",
+    "The official spoke off the record about the delays.",
+    "Remember, this conversation is off the record."
+   ]
+  },
+  {
+   "id": "pack4-card-428",
+   "mode": "vocab",
+   "word": "on the record",
+   "pron": "",
+   "def": "said openly and allowed to be published\nहिंदी: औपचारिक रूप से (प्रकाशन हेतु)",
+   "examples": [
+    "She went on the record to deny the claim.",
+    "He is willing to speak on the record.",
+    "The CEO refused to comment on the record.",
+    "Can I quote you on the record?"
+   ]
+  },
+  {
+   "id": "pack4-card-429",
+   "mode": "vocab",
+   "word": "source",
+   "pron": "",
+   "def": "a person or document that provides information\nहिंदी: सूत्र",
+   "examples": [
+    "A reliable source confirmed the report.",
+    "The paper protected its source.",
+    "Journalists must check every source carefully.",
+    "The minister's office was the source of the leak."
+   ]
+  },
+  {
+   "id": "pack4-card-430",
+   "mode": "vocab",
+   "word": "anonymous source",
+   "pron": "",
+   "def": "an informant whose name is withheld\nहिंदी: अज्ञात सूत्र",
+   "examples": [
+    "An anonymous source leaked the memo.",
+    "The story relies on anonymous sources.",
+    "According to an anonymous source, the company will be sold.",
+    "The report quoted an anonymous source inside the police."
+   ]
+  },
+  {
+   "id": "pack4-card-431",
+   "mode": "vocab",
+   "word": "eyewitness",
+   "pron": "",
+   "def": "a person who saw an event happen\nहिंदी: चश्मदीद गवाह",
+   "examples": [
+    "An eyewitness described the accident.",
+    "Eyewitness accounts differ.",
+    "The police are looking for an eyewitness to the theft.",
+    "An eyewitness took a video of the fire."
+   ]
+  },
+  {
+   "id": "pack4-card-432",
+   "mode": "vocab",
+   "word": "alleged",
+   "pron": "",
+   "def": "claimed but not yet proven\nहिंदी: कथित",
+   "examples": [
+    "The alleged fraud is under investigation.",
+    "He is the alleged mastermind.",
+    "The alleged thief was arrested at the station.",
+    "The company denied the alleged tax fraud."
+   ]
+  },
+  {
+   "id": "pack4-card-433",
+   "mode": "vocab",
+   "word": "sources say",
+   "pron": "",
+   "def": "a phrase used when information comes from unnamed people\nहिंदी: सूत्रों के अनुसार",
+   "examples": [
+    "Sources say the deal is close.",
+    "Sources say an announcement is due.",
+    "Sources say the star will join the new film.",
+    "Sources say petrol prices may rise next week."
+   ]
+  },
+  {
+   "id": "pack4-card-434",
+   "mode": "vocab",
+   "word": "retract",
+   "pron": "",
+   "def": "to publicly withdraw a statement or story\nहिंदी: वापस लेना / खंडन करना",
+   "examples": [
+    "The paper had to retract the story.",
+    "He retracted his earlier claim.",
+    "The website retracted the article after complaints.",
+    "The politician refused to retract his comments."
+   ]
+  },
+  {
+   "id": "pack4-card-435",
+   "mode": "vocab",
+   "word": "correction",
+   "pron": "",
+   "def": "a published fix to a mistake\nहिंदी: सुधार / भूल-सुधार",
+   "examples": [
+    "The paper printed a correction on page two.",
+    "We regret the error and issue this correction.",
+    "The magazine published a correction about the wrong date.",
+    "A small correction appeared in the next day's paper."
+   ]
+  },
+  {
+   "id": "pack4-card-436",
+   "mode": "vocab",
+   "word": "rebuttal",
+   "pron": "",
+   "def": "a reply that argues against a claim\nहिंदी: खंडन / प्रत्युत्तर",
+   "examples": [
+    "The ministry issued a sharp rebuttal.",
+    "Her rebuttal appeared the next day.",
+    "The company published a rebuttal to the report.",
+    "His rebuttal was clear and backed by data."
+   ]
+  },
+  {
+   "id": "pack4-card-437",
+   "mode": "vocab",
+   "word": "refute",
+   "pron": "",
+   "def": "to prove a claim wrong\nहिंदी: खंडन करना",
+   "examples": [
+    "Officials refuted the allegations.",
+    "He tried to refute the report.",
+    "The scientist refuted the claim with new research.",
+    "The data refutes the idea that sales are falling."
+   ]
+  },
+  {
+   "id": "pack4-card-438",
+   "mode": "vocab",
+   "word": "unconfirmed",
+   "pron": "",
+   "def": "not yet verified as true\nहिंदी: अपुष्ट",
+   "examples": [
+    "Unconfirmed reports speak of casualties.",
+    "The news remains unconfirmed.",
+    "Unconfirmed reports say the CEO has resigned.",
+    "Don't share unconfirmed news on WhatsApp."
+   ]
+  },
+  {
+   "id": "pack4-card-439",
+   "mode": "vocab",
+   "word": "developing story",
+   "pron": "",
+   "def": "a story still changing as events unfold\nहिंदी: विकसित हो रही ख़बर",
+   "examples": [
+    "This is a developing story.",
+    "We'll update this developing story.",
+    "The fire is a developing story, and details may change.",
+    "Reporters are following the developing story at the airport."
+   ]
+  },
+  {
+   "id": "pack4-card-440",
+   "mode": "vocab",
+   "word": "follow-up",
+   "pron": "",
+   "def": "a later report adding to an earlier one\nहिंदी: अनुवर्ती रिपोर्ट",
+   "examples": [
+    "The paper ran a follow-up on the case.",
+    "A follow-up story revealed new details.",
+    "The follow-up showed that the bridge was repaired.",
+    "Readers wanted a follow-up on the missing girl."
+   ]
+  },
+  {
+   "id": "pack4-card-441",
+   "mode": "vocab",
+   "word": "in-depth",
+   "pron": "",
+   "def": "thorough and detailed\nहिंदी: गहन / विस्तृत",
+   "examples": [
+    "The paper published an in-depth analysis.",
+    "She wrote an in-depth report on schools.",
+    "The documentary gives an in-depth look at village life.",
+    "We need an in-depth review of the accident."
+   ]
+  },
+  {
+   "id": "pack4-card-442",
+   "mode": "vocab",
+   "word": "analysis",
+   "pron": "",
+   "def": "a detailed examination and explanation of events\nहिंदी: विश्लेषण",
+   "examples": [
+    "The analysis explains why prices rose.",
+    "Read our analysis of the election.",
+    "The expert's analysis of the match was very sharp.",
+    "His analysis showed why the policy failed."
+   ]
+  },
+  {
+   "id": "pack4-card-443",
+   "mode": "vocab",
+   "word": "feature",
+   "pron": "",
+   "def": "a long article about a topic or person\nहिंदी: विशेष आलेख",
+   "examples": [
+    "The magazine ran a feature on farmers.",
+    "I enjoyed the feature on city life.",
+    "The Sunday paper has a feature on street food.",
+    "She wrote a feature about women farmers."
+   ]
+  },
+  {
+   "id": "pack4-card-444",
+   "mode": "vocab",
+   "word": "letter to the editor",
+   "pron": "",
+   "def": "a reader's letter published in a paper\nहिंदी: संपादक के नाम पत्र",
+   "examples": [
+    "He wrote a letter to the editor on potholes.",
+    "The letters to the editor page is popular.",
+    "My grandfather often writes a letter to the editor.",
+    "A letter to the editor complained about stray dogs."
+   ]
+  },
+  {
+   "id": "pack4-card-445",
+   "mode": "vocab",
+   "word": "obituary",
+   "pron": "",
+   "def": "a notice announcing a death with a short biography\nहिंदी: श्रद्धांजलि-आलेख / मृत्यु-समाचार",
+   "examples": [
+    "The obituary praised her life's work.",
+    "I read his obituary in the paper.",
+    "The obituary described his long career as a teacher.",
+    "Newspapers print obituaries of famous people."
+   ]
+  },
+  {
+   "id": "pack4-card-446",
+   "mode": "vocab",
+   "word": "classified ads",
+   "pron": "",
+   "def": "small paid notices in categories like jobs or property\nहिंदी: वर्गीकृत विज्ञापन",
+   "examples": [
+    "He found a flat through classified ads.",
+    "The classified ads are on the last page.",
+    "They sold their old car through classified ads.",
+    "Job seekers used to check the classified ads every Sunday."
+   ]
+  },
+  {
+   "id": "pack4-card-447",
+   "mode": "vocab",
+   "word": "supplement",
+   "pron": "",
+   "def": "an extra section issued with a newspaper\nहिंदी: पूरक अंक",
+   "examples": [
+    "The Sunday supplement has travel stories.",
+    "A business supplement came with the paper.",
+    "The education supplement lists all the colleges.",
+    "My mother collects the weekend food supplement."
+   ]
+  },
+  {
+   "id": "pack4-card-448",
+   "mode": "vocab",
+   "word": "circulation",
+   "pron": "",
+   "def": "the number of copies a publication sells\nहिंदी: प्रसार संख्या",
+   "examples": [
+    "The paper's circulation has fallen.",
+    "It has the highest circulation in the state.",
+    "Online news has hit print circulation.",
+    "The magazine's circulation doubled after the special issue."
+   ]
+  },
+  {
+   "id": "pack4-card-449",
+   "mode": "vocab",
+   "word": "tabloid",
+   "pron": "",
+   "def": "a small-format paper with sensational stories\nहिंदी: टैबलॉयड / चटपटी ख़बरों वाला अख़बार",
+   "examples": [
+    "The tabloid splashed the scandal.",
+    "He doesn't trust tabloid headlines.",
+    "The tabloid printed rumours about the actor.",
+    "Tabloid stories are often exaggerated."
+   ]
+  },
+  {
+   "id": "pack4-card-450",
+   "mode": "vocab",
+   "word": "broadsheet",
+   "pron": "",
+   "def": "a large-format serious newspaper\nहिंदी: बड़े आकार का गंभीर अख़बार",
+   "examples": [
+    "The broadsheet covered the budget in depth.",
+    "She prefers broadsheets to tabloids.",
+    "My father prefers a broadsheet for serious news.",
+    "The broadsheet published a long report on the economy."
+   ]
+  },
+  {
+   "id": "pack4-card-451",
+   "mode": "vocab",
+   "word": "daily",
+   "pron": "",
+   "def": "a newspaper published every day\nहिंदी: दैनिक अख़बार",
+   "examples": [
+    "It is a leading national daily.",
+    "The daily reported the verdict.",
+    "The local daily covers news from our district.",
+    "She works as a reporter for an English daily."
+   ]
+  },
+  {
+   "id": "pack4-card-452",
+   "mode": "vocab",
+   "word": "weekly",
+   "pron": "",
+   "def": "a publication issued once a week\nहिंदी: साप्ताहिक पत्रिका",
+   "examples": [
+    "The weekly carried a long interview.",
+    "It's a respected business weekly.",
+    "He subscribes to a weekly on science and technology.",
+    "The weekly comes out every Friday."
+   ]
+  },
+  {
+   "id": "pack4-card-453",
+   "mode": "vocab",
+   "word": "edition",
+   "pron": "",
+   "def": "a version of a publication issued at a time or place\nहिंदी: संस्करण",
+   "examples": [
+    "The city edition carries local news.",
+    "Buy the morning edition.",
+    "The Sunday edition has a crossword.",
+    "The online edition is updated all day."
+   ]
+  },
+  {
+   "id": "pack4-card-454",
+   "mode": "vocab",
+   "word": "filed a report",
+   "pron": "",
+   "def": "submitted a story to the newsroom\nहिंदी: रिपोर्ट भेजी",
+   "examples": [
+    "The correspondent filed a report from the border.",
+    "She filed a report before midnight.",
+    "She filed a report from the flood-hit village.",
+    "The journalist filed a report just before the deadline."
+   ]
+  },
+  {
+   "id": "pack4-card-455",
+   "mode": "vocab",
+   "word": "newsroom",
+   "pron": "",
+   "def": "the office where news is prepared\nहिंदी: समाचार कक्ष",
+   "examples": [
+    "The newsroom was buzzing after the verdict.",
+    "He works in a busy newsroom.",
+    "The newsroom was quiet before the results came in.",
+    "Young journalists learn fast in a newsroom."
+   ]
+  },
+  {
+   "id": "pack4-card-456",
+   "mode": "vocab",
+   "word": "newsstand",
+   "pron": "",
+   "def": "a stall that sells papers and magazines\nहिंदी: अख़बार की दुकान / स्टॉल",
+   "examples": [
+    "He bought the paper at the newsstand.",
+    "The newsstand opens at dawn.",
+    "The newsstand at the station sells magazines in five languages.",
+    "I picked up a copy at the newsstand."
+   ]
+  },
+  {
+   "id": "pack4-card-457",
+   "mode": "vocab",
+   "word": "news bulletin",
+   "pron": "",
+   "def": "a short broadcast summary of news\nहिंदी: समाचार बुलेटिन",
+   "examples": [
+    "The evening news bulletin led with the storm.",
+    "Tune in for the hourly news bulletin.",
+    "The radio news bulletin is at eight.",
+    "The cyclone warning was in every news bulletin."
+   ]
+  },
+  {
+   "id": "pack4-card-458",
+   "mode": "vocab",
+   "word": "prime time",
+   "pron": "",
+   "def": "the evening hours with the most viewers\nहिंदी: प्राइम टाइम",
+   "examples": [
+    "The debate aired at prime time.",
+    "Prime-time news draws large audiences.",
+    "Advertisers pay more for prime time slots.",
+    "The final episode aired at prime time."
+   ]
+  },
+  {
+   "id": "pack4-card-459",
+   "mode": "vocab",
+   "word": "live coverage",
+   "pron": "",
+   "def": "reporting of an event as it happens\nहिंदी: सीधा प्रसारण / लाइव कवरेज",
+   "examples": [
+    "The channel gave live coverage of the rally.",
+    "We bring you live coverage from the scene.",
+    "The channel had live coverage of the Republic Day parade.",
+    "Live coverage of the rescue kept viewers glued."
+   ]
+  },
+  {
+   "id": "pack4-card-460",
+   "mode": "vocab",
+   "word": "live blog",
+   "pron": "",
+   "def": "an online page updated minute by minute\nहिंदी: लाइव ब्लॉग",
+   "examples": [
+    "Follow the match on our live blog.",
+    "The paper ran a live blog on election day.",
+    "I followed the budget speech on a live blog.",
+    "The live blog had updates every minute."
+   ]
+  },
+  {
+   "id": "pack4-card-461",
+   "mode": "vocab",
+   "word": "ticker",
+   "pron": "",
+   "def": "a scrolling line of headlines on screen\nहिंदी: टिकर / स्क्रीन पर चलती पट्टी",
+   "examples": [
+    "The ticker flashed the latest score.",
+    "Read the news ticker at the bottom.",
+    "The stock ticker showed the market falling.",
+    "I saw the news on the ticker at the bottom of the screen."
+   ]
+  },
+  {
+   "id": "pack4-card-462",
+   "mode": "vocab",
+   "word": "soundbite",
+   "pron": "",
+   "def": "a short striking quote used in news\nहिंदी: संक्षिप्त चुटीला बयान",
+   "examples": [
+    "His soundbite was on every channel.",
+    "Politicians love a catchy soundbite.",
+    "The minister's soundbite went viral online.",
+    "Journalists look for a good soundbite from every speech."
+   ]
+  },
+  {
+   "id": "pack4-card-463",
+   "mode": "vocab",
+   "word": "photo op",
+   "pron": "",
+   "def": "a staged occasion arranged for photographers\nहिंदी: फ़ोटो खिंचवाने का आयोजन",
+   "examples": [
+    "The visit was just a photo op.",
+    "The leaders posed for a photo op.",
+    "The minister planted one tree for a photo op.",
+    "The visit to the slum was criticised as a photo op."
+   ]
+  },
+  {
+   "id": "pack4-card-464",
+   "mode": "vocab",
+   "word": "caption",
+   "pron": "",
+   "def": "the text printed under a photograph\nहिंदी: चित्र-परिचय",
+   "examples": [
+    "The caption named everyone in the picture.",
+    "Read the caption beneath the photo.",
+    "The caption had the wrong name.",
+    "Write a short caption for each photo in the report."
+   ]
+  },
+  {
+   "id": "pack4-card-465",
+   "mode": "vocab",
+   "word": "sub-editor",
+   "pron": "",
+   "def": "a person who checks and corrects copy\nहिंदी: उप-संपादक",
+   "examples": [
+    "The sub-editor trimmed the article.",
+    "A sub-editor fixed the headline.",
+    "The sub-editor caught a spelling mistake in the headline.",
+    "She started her career as a sub-editor."
+   ]
+  },
+  {
+   "id": "pack4-card-466",
+   "mode": "vocab",
+   "word": "go to press",
+   "pron": "",
+   "def": "to start printing a publication\nहिंदी: छपाई के लिए जाना",
+   "examples": [
+    "The paper goes to press at midnight.",
+    "The story went to press late.",
+    "The magazine goes to press every Thursday.",
+    "News that comes after we go to press will be online."
+   ]
+  },
+  {
+   "id": "pack4-card-467",
+   "mode": "vocab",
+   "word": "hold the front page",
+   "pron": "",
+   "def": "to delay printing for a late big story\nहिंदी: मुख्य पृष्ठ रोक लेना",
+   "examples": [
+    "They held the front page for the result.",
+    "Editors held the front page for the speech.",
+    "The editor decided to hold the front page for the verdict.",
+    "They held the front page when the plane crash news came in."
+   ]
+  },
+  {
+   "id": "pack4-card-468",
+   "mode": "vocab",
+   "word": "newsworthy",
+   "pron": "",
+   "def": "important enough to be reported\nहिंदी: ख़बर बनने लायक़",
+   "examples": [
+    "The collapse was clearly newsworthy.",
+    "Is this really newsworthy?",
+    "A dog saving a child is newsworthy.",
+    "The editor didn't think the story was newsworthy."
+   ]
+  },
+  {
+   "id": "pack4-card-469",
+   "mode": "vocab",
+   "word": "human interest",
+   "pron": "",
+   "def": "a story about people's lives and feelings\nहिंदी: मानवीय रुचि की कहानी",
+   "examples": [
+    "The paper ran a human-interest piece.",
+    "Readers love human-interest stories.",
+    "The human interest story about the rickshaw driver touched readers.",
+    "TV channels love human interest stories at the end of the news."
+   ]
+  },
+  {
+   "id": "pack4-card-470",
+   "mode": "vocab",
+   "word": "public interest",
+   "pron": "",
+   "def": "the general welfare of people\nहिंदी: जनहित",
+   "examples": [
+    "The report was published in the public interest.",
+    "It is a matter of public interest.",
+    "The court allowed the report because of public interest.",
+    "Is this story truly in the public interest?"
+   ]
+  },
+  {
+   "id": "pack4-card-471",
+   "mode": "vocab",
+   "word": "coverage",
+   "pron": "",
+   "def": "the amount and way something is reported\nहिंदी: कवरेज / रिपोर्टिंग",
+   "examples": [
+    "The coverage of the floods was extensive.",
+    "Media coverage of the trial was heavy.",
+    "The election got wide coverage in foreign media.",
+    "Some people felt the coverage was biased."
+   ]
+  },
+  {
+   "id": "pack4-card-472",
+   "mode": "vocab",
+   "word": "media outlet",
+   "pron": "",
+   "def": "a company that publishes or broadcasts news\nहिंदी: मीडिया संस्थान",
+   "examples": [
+    "Several media outlets carried the story.",
+    "The media outlet apologised.",
+    "Foreign media outlets covered the festival.",
+    "The company sent its statement to every major media outlet."
+   ]
+  },
+  {
+   "id": "pack4-card-473",
+   "mode": "vocab",
+   "word": "wire service",
+   "pron": "",
+   "def": "an agency that supplies news to many outlets\nहिंदी: समाचार एजेंसी",
+   "examples": [
+    "The story came from a wire service.",
+    "The paper subscribes to a wire service.",
+    "Small newspapers rely on a wire service for world news.",
+    "The photo was supplied by a wire service."
+   ]
+  },
+  {
+   "id": "pack4-card-474",
+   "mode": "vocab",
+   "word": "censor",
+   "pron": "",
+   "def": "to remove or ban material considered unacceptable\nहिंदी: सेंसर करना",
+   "examples": [
+    "The government tried to censor the report.",
+    "The film was heavily censored.",
+    "Some countries censor social media during protests.",
+    "The school censored the student magazine."
+   ]
+  },
+  {
+   "id": "pack4-card-475",
+   "mode": "vocab",
+   "word": "gag order",
+   "pron": "",
+   "def": "a legal order banning discussion of a case\nहिंदी: गोपनीयता आदेश / बोलने पर रोक",
+   "examples": [
+    "A judge issued a gag order.",
+    "The gag order barred the media.",
+    "Because of the gag order, the lawyers couldn't speak to reporters.",
+    "The court lifted the gag order after the verdict."
+   ]
+  },
+  {
+   "id": "pack4-card-476",
+   "mode": "vocab",
+   "word": "expose",
+   "pron": "",
+   "def": "to reveal something dishonest or shocking\nहिंदी: पर्दाफ़ाश करना",
+   "examples": [
+    "The paper exposed the scam.",
+    "The series exposed corruption.",
+    "The documentary exposed poor conditions in the factory.",
+    "A journalist exposed the fake degree racket."
+   ]
+  },
+  {
+   "id": "pack4-card-477",
+   "mode": "vocab",
+   "word": "landmark ruling",
+   "pron": "",
+   "def": "a court decision of major importance\nहिंदी: ऐतिहासिक फ़ैसला",
+   "examples": [
+    "The landmark ruling changed the law.",
+    "A landmark ruling upheld privacy.",
+    "The landmark ruling gave women equal rights to family property.",
+    "Lawyers celebrated the landmark ruling outside the court."
+   ]
+  },
+  {
+   "id": "pack4-card-478",
+   "mode": "vocab",
+   "word": "accused",
+   "pron": "",
+   "def": "a person charged with a crime\nहिंदी: आरोपी",
+   "examples": [
+    "The accused pleaded not guilty.",
+    "Two accused were arrested.",
+    "The accused was released on bail.",
+    "The lawyer met the accused in jail."
+   ]
+  },
+  {
+   "id": "pack4-card-479",
+   "mode": "vocab",
+   "word": "charge sheet",
+   "pron": "",
+   "def": "a formal list of charges filed in court\nहिंदी: आरोप-पत्र",
+   "examples": [
+    "Police filed the charge sheet.",
+    "The charge sheet names five people.",
+    "The charge sheet runs to two thousand pages.",
+    "The police have ninety days to file a charge sheet."
+   ]
+  },
+  {
+   "id": "pack4-card-480",
+   "mode": "vocab",
+   "word": "FIR",
+   "pron": "",
+   "def": "a first report of a crime lodged with the police\nहिंदी: प्राथमिकी (एफ़आईआर)",
+   "examples": [
+    "An FIR was registered against him.",
+    "She went to file an FIR.",
+    "Police refused to register an FIR at first.",
+    "You can now file an FIR online for lost phones."
+   ]
+  },
+  {
+   "id": "pack4-card-481",
+   "mode": "vocab",
+   "word": "summon",
+   "pron": "",
+   "def": "to officially order someone to appear\nहिंदी: तलब करना / समन भेजना",
+   "examples": [
+    "The court summoned the minister.",
+    "He was summoned for questioning.",
+    "The tax office summoned the businessman for questioning.",
+    "The witness was summoned to court next week."
+   ]
+  },
+  {
+   "id": "pack4-card-482",
+   "mode": "vocab",
+   "word": "stay order",
+   "pron": "",
+   "def": "a court order halting an action temporarily\nहिंदी: स्थगन आदेश",
+   "examples": [
+    "The High Court issued a stay order.",
+    "A stay order froze the construction.",
+    "The residents got a stay order against the demolition.",
+    "The stay order will last until the next hearing."
+   ]
+  },
+  {
+   "id": "pack4-card-483",
+   "mode": "vocab",
+   "word": "tabled",
+   "pron": "",
+   "def": "formally presented for discussion\nहिंदी: सदन में रखा गया",
+   "examples": [
+    "The bill was tabled in Parliament.",
+    "A motion was tabled yesterday.",
+    "The budget was tabled in the assembly this morning.",
+    "A new report was tabled before the committee."
+   ]
+  },
+  {
+   "id": "pack4-card-484",
+   "mode": "vocab",
+   "word": "passed",
+   "pron": "",
+   "def": "approved officially\nहिंदी: पारित किया",
+   "examples": [
+    "Parliament passed the bill.",
+    "The proposal was passed.",
+    "The new data protection law was passed last year.",
+    "The resolution was passed by a large majority."
+   ]
+  },
+  {
+   "id": "pack4-card-485",
+   "mode": "vocab",
+   "word": "walkout",
+   "pron": "",
+   "def": "leaving a meeting in protest\nहिंदी: बहिर्गमन",
+   "examples": [
+    "Opposition MPs staged a walkout.",
+    "The walkout delayed the session.",
+    "Workers staged a walkout over unpaid wages.",
+    "The walkout ended after the chairman agreed to talks."
+   ]
+  },
+  {
+   "id": "pack4-card-486",
+   "mode": "vocab",
+   "word": "cabinet reshuffle",
+   "pron": "",
+   "def": "a change in ministers' posts\nहिंदी: मंत्रिमंडल फेरबदल",
+   "examples": [
+    "A cabinet reshuffle is expected soon.",
+    "The reshuffle brought in new faces.",
+    "The cabinet reshuffle gave the finance ministry a new face.",
+    "Rumours of a cabinet reshuffle filled the papers."
+   ]
+  },
+  {
+   "id": "pack4-card-487",
+   "mode": "vocab",
+   "word": "sworn in",
+   "pron": "",
+   "def": "formally given an office by taking an oath\nहिंदी: शपथ दिलाई गई",
+   "examples": [
+    "He was sworn in as chief minister.",
+    "The new judge was sworn in.",
+    "The new mayor was sworn in on Monday.",
+    "The prime minister was sworn in at a grand ceremony."
+   ]
+  },
+  {
+   "id": "pack4-card-488",
+   "mode": "vocab",
+   "word": "landslide victory",
+   "pron": "",
+   "def": "a win by an overwhelming margin\nहिंदी: भारी बहुमत से जीत",
+   "examples": [
+    "The party won a landslide victory.",
+    "It was a landslide victory for her.",
+    "The young candidate won a landslide victory in her first election.",
+    "Polls did not predict such a landslide victory."
+   ]
+  },
+  {
+   "id": "pack4-card-489",
+   "mode": "vocab",
+   "word": "hung parliament",
+   "pron": "",
+   "def": "a result with no party holding a majority\nहिंदी: त्रिशंकु संसद",
+   "examples": [
+    "The election produced a hung parliament.",
+    "A hung house led to coalition talks.",
+    "After the hung parliament, small parties became very important.",
+    "Experts predict a hung parliament this time."
+   ]
+  },
+  {
+   "id": "pack4-card-490",
+   "mode": "vocab",
+   "word": "campaign trail",
+   "pron": "",
+   "def": "the period of travelling to win votes\nहिंदी: चुनाव प्रचार का दौर",
+   "examples": [
+    "Leaders hit the campaign trail.",
+    "He is back on the campaign trail.",
+    "The actor joined his party on the campaign trail.",
+    "On the campaign trail, leaders give several speeches a day."
+   ]
+  },
+  {
+   "id": "pack4-card-491",
+   "mode": "vocab",
+   "word": "vote bank",
+   "pron": "",
+   "def": "a group reliably voting for one party\nहिंदी: वोट बैंक",
+   "examples": [
+    "The scheme targets a particular vote bank.",
+    "Parties court the vote bank.",
+    "Critics accuse parties of vote bank politics.",
+    "Free schemes are often aimed at a vote bank."
+   ]
+  },
+  {
+   "id": "pack4-card-492",
+   "mode": "vocab",
+   "word": "by-election",
+   "pron": "",
+   "def": "an election held to fill a single vacant seat\nहिंदी: उपचुनाव",
+   "examples": [
+    "The party won the by-election.",
+    "A by-election will be held in May.",
+    "The by-election was held after the MLA resigned.",
+    "Turnout was low in the by-election."
+   ]
+  },
+  {
+   "id": "pack4-card-493",
+   "mode": "vocab",
+   "word": "splash",
+   "pron": "",
+   "def": "a prominent front-page story\nहिंदी: मुख्य पृष्ठ की बड़ी ख़बर",
+   "examples": [
+    "The scandal was the day's splash.",
+    "The paper splashed the news across page one.",
+    "The paper's splash was about the new airport.",
+    "The cricket final made the front-page splash."
+   ]
+  },
+  {
+   "id": "pack4-card-494",
+   "mode": "vocab",
+   "word": "banner headline",
+   "pron": "",
+   "def": "a large headline across the top of the page\nहिंदी: पूरे पन्ने पर फैली बड़ी सुर्ख़ी",
+   "examples": [
+    "A banner headline announced the win.",
+    "The banner headline shocked readers.",
+    "A banner headline read: India Wins the World Cup.",
+    "The banner headline was in bright red letters."
+   ]
+  },
+  {
+   "id": "pack4-card-495",
+   "mode": "vocab",
+   "word": "page three",
+   "pron": "",
+   "def": "a page traditionally for lighter or sensational content\nहिंदी: तीसरा पन्ना (हल्की ख़बरों वाला)",
+   "examples": [
+    "The story appeared on page three.",
+    "It didn't make page three.",
+    "Celebrity parties often appear on page three.",
+    "She became famous after a page three photo."
+   ]
+  },
+  {
+   "id": "pack4-card-496",
+   "mode": "vocab",
+   "word": "news item",
+   "pron": "",
+   "def": "a single piece of news\nहिंदी: समाचार का एक अंश",
+   "examples": [
+    "It was a minor news item.",
+    "A news item caught my eye.",
+    "I read a news item about a new metro station.",
+    "The news item was only two lines long."
+   ]
+  },
+  {
+   "id": "pack4-card-497",
+   "mode": "vocab",
+   "word": "news cycle",
+   "pron": "",
+   "def": "the pattern of how stories rise and fade\nहिंदी: समाचार चक्र",
+   "examples": [
+    "The story vanished from the news cycle.",
+    "A 24-hour news cycle never stops.",
+    "In today's news cycle, stories are forgotten in a day.",
+    "The minister tried to control the news cycle."
+   ]
+  },
+  {
+   "id": "pack4-card-498",
+   "mode": "vocab",
+   "word": "news flash",
+   "pron": "",
+   "def": "a brief urgent bulletin\nहिंदी: न्यूज़ फ़्लैश / आपातकालीन समाचार",
+   "examples": [
+    "A news flash interrupted the match.",
+    "The news flash confirmed the rumour.",
+    "A news flash announced the earthquake.",
+    "We got a news flash about the election result."
+   ]
+  },
+  {
+   "id": "pack4-card-499",
+   "mode": "vocab",
+   "word": "headline news",
+   "pron": "",
+   "def": "the main stories of a bulletin\nहिंदी: मुख्य समाचार",
+   "examples": [
+    "Floods are headline news today.",
+    "It made the headline news.",
+    "The price rise is headline news across the country.",
+    "Her success made headline news in her hometown."
+   ]
+  },
+  {
+   "id": "pack4-card-500",
+   "mode": "vocab",
+   "word": "hot off the press",
+   "pron": "",
+   "def": "just printed or newly published\nहिंदी: ताज़ा-ताज़ा छपा",
+   "examples": [
+    "Here is the story, hot off the press.",
+    "The report is hot off the press.",
+    "The new magazine issue is hot off the press.",
+    "I got the exam results hot off the press."
+   ]
+  },
+  {
+   "id": "pack4-card-501",
+   "mode": "vocab",
+   "word": "make headlines",
+   "pron": "",
+   "def": "to become a major news story\nहिंदी: सुर्ख़ियों में आना",
+   "examples": [
+    "The case made headlines worldwide.",
+    "Her speech made headlines.",
+    "The young scientist made headlines with her discovery.",
+    "The startup made headlines after raising money."
+   ]
+  },
+  {
+   "id": "pack4-card-502",
+   "mode": "vocab",
+   "word": "hit the headlines",
+   "pron": "",
+   "def": "to suddenly become big news\nहिंदी: अचानक सुर्ख़ियों में छा जाना",
+   "examples": [
+    "The scandal hit the headlines.",
+    "He hit the headlines last week.",
+    "The small village hit the headlines after the rescue.",
+    "The company hit the headlines for the wrong reasons."
+   ]
+  },
+  {
+   "id": "pack4-card-503",
+   "mode": "vocab",
+   "word": "grab headlines",
+   "pron": "",
+   "def": "to attract media attention\nहिंदी: सुर्ख़ियाँ बटोरना",
+   "examples": [
+    "The protest grabbed headlines.",
+    "His remark grabbed headlines.",
+    "The celebrity wedding grabbed headlines all week.",
+    "Big promises often grab headlines before elections."
+   ]
+  },
+  {
+   "id": "pack4-card-504",
+   "mode": "vocab",
+   "word": "front-page news",
+   "pron": "",
+   "def": "very important news\nहिंदी: पहले पन्ने की ख़बर",
+   "examples": [
+    "The result was front-page news.",
+    "It's front-page news today.",
+    "The bridge collapse was front-page news.",
+    "Her gold medal was front-page news across India."
+   ]
+  },
+  {
+   "id": "pack4-card-505",
+   "mode": "vocab",
+   "word": "read all about it",
+   "pron": "",
+   "def": "a newsseller's call to buy the news\nहिंदी: पूरी ख़बर पढ़िए",
+   "examples": [
+    "Extra, extra, read all about it!",
+    "Read all about it inside.",
+    "The boy at the station shouted, read all about it!",
+    "Read all about it in tomorrow's edition."
+   ]
+  },
+  {
+   "id": "pack4-card-506",
+   "mode": "vocab",
+   "word": "press the flesh",
+   "pron": "",
+   "def": "to meet and shake hands with the public\nहिंदी: जनता से हाथ मिलाना / मिलना-जुलना",
+   "examples": [
+    "Leaders press the flesh before elections.",
+    "He pressed the flesh at the market.",
+    "The candidate pressed the flesh at the vegetable market.",
+    "Ministers like to press the flesh at public events."
+   ]
+  },
+  {
+   "id": "pack4-card-507",
+   "mode": "vocab",
+   "word": "spin a story",
+   "pron": "",
+   "def": "to present facts in a favourable way\nहिंदी: ख़बर को अपने ढंग से पेश करना",
+   "examples": [
+    "The party tried to spin the story.",
+    "Officials spun the story well.",
+    "The company tried to spin a story about record profits.",
+    "Don't spin a story; just tell us what happened."
+   ]
+  },
+  {
+   "id": "pack4-card-508",
+   "mode": "vocab",
+   "word": "buried story",
+   "pron": "",
+   "def": "an important report placed where few will see it\nहिंदी: दबा दी गई ख़बर",
+   "examples": [
+    "The story was buried on page twelve.",
+    "They buried the bad news.",
+    "The buried story about the scam got little attention.",
+    "Readers rarely notice a buried story."
+   ]
+  },
+  {
+   "id": "pack4-card-509",
+   "mode": "vocab",
+   "word": "news blackout",
+   "pron": "",
+   "def": "a total ban on reporting something\nहिंदी: ख़बरों पर पूरी रोक",
+   "examples": [
+    "The government imposed a news blackout.",
+    "A news blackout hid the facts.",
+    "A news blackout was imposed during the operation.",
+    "The news blackout made people more worried."
+   ]
+  },
+  {
+   "id": "pack4-card-510",
+   "mode": "vocab",
+   "word": "media trial",
+   "pron": "",
+   "def": "public judgement of a case by the press\nहिंदी: मीडिया द्वारा सुनवाई",
+   "examples": [
+    "Many fear a media trial.",
+    "The court warned against a media trial.",
+    "The actor said he was a victim of a media trial.",
+    "A media trial can harm an innocent person."
+   ]
+  },
+  {
+   "id": "pack4-card-511",
+   "mode": "vocab",
+   "word": "media frenzy",
+   "pron": "",
+   "def": "intense and excited press attention\nहिंदी: मीडिया में हड़कंप",
+   "examples": [
+    "The arrest caused a media frenzy.",
+    "Reporters created a frenzy outside.",
+    "The celebrity's arrival caused a media frenzy at the airport.",
+    "The media frenzy made it hard for the family to grieve."
+   ]
+  },
+  {
+   "id": "pack4-card-512",
+   "mode": "vocab",
+   "word": "press gallery",
+   "pron": "",
+   "def": "the seats for reporters in a legislature\nहिंदी: प्रेस दीर्घा",
+   "examples": [
+    "He watched from the press gallery.",
+    "Reporters filled the press gallery.",
+    "The press gallery was full during the budget speech.",
+    "Reporters in the press gallery took notes quickly."
+   ]
+  },
+  {
+   "id": "pack4-card-513",
+   "mode": "vocab",
+   "word": "press pass",
+   "pron": "",
+   "def": "a card allowing a journalist entry\nहिंदी: प्रेस पास",
+   "examples": [
+    "She showed her press pass at the gate.",
+    "Journalists need a press pass.",
+    "You need a press pass to enter the stadium media area.",
+    "His press pass was checked twice."
+   ]
+  },
+  {
+   "id": "pack4-card-514",
+   "mode": "vocab",
+   "word": "press pack",
+   "pron": "",
+   "def": "materials given to journalists at an event\nहिंदी: प्रेस किट",
+   "examples": [
+    "Each reporter received a press pack.",
+    "Details are in the press pack.",
+    "The press pack included photos and product details.",
+    "Read the press pack before the launch event."
+   ]
+  },
+  {
+   "id": "pack4-card-515",
+   "mode": "vocab",
+   "word": "newswire",
+   "pron": "",
+   "def": "a service delivering stories to outlets\nहिंदी: समाचार तार सेवा",
+   "examples": [
+    "The story moved on the newswire.",
+    "The newswire reported the quake.",
+    "Newswire reports said the talks had failed.",
+    "The news came first on the newswire."
+   ]
+  },
+  {
+   "id": "pack4-card-516",
+   "mode": "vocab",
+   "word": "stringer",
+   "pron": "",
+   "def": "a freelance reporter paid per story\nहिंदी: स्वतंत्र संवाददाता / स्ट्रिंगर",
+   "examples": [
+    "A local stringer filed the report.",
+    "He works as a stringer.",
+    "The paper relies on a stringer in the hill district.",
+    "As a stringer, he gets paid for each story."
+   ]
+  },
+  {
+   "id": "pack4-card-517",
+   "mode": "vocab",
+   "word": "freelancer",
+   "pron": "",
+   "def": "a self-employed writer or journalist\nहिंदी: स्वतंत्र पत्रकार",
+   "examples": [
+    "She is a freelance journalist.",
+    "The paper hires freelancers.",
+    "As a freelancer, she writes for three magazines.",
+    "Many freelancers work from home."
+   ]
+  },
+  {
+   "id": "pack4-card-518",
+   "mode": "vocab",
+   "word": "by-line",
+   "pron": "",
+   "def": "the author's name above an article\nहिंदी: लेखक का नाम",
+   "examples": [
+    "He earned a by-line at last.",
+    "The by-line was missing.",
+    "Her by-line appeared on the front page.",
+    "A by-line tells readers who wrote the story."
+   ]
+  },
+  {
+   "id": "pack4-card-519",
+   "mode": "vocab",
+   "word": "copy",
+   "pron": "",
+   "def": "text written for publication\nहिंदी: प्रकाशन हेतु लिखी सामग्री",
+   "examples": [
+    "The reporter filed her copy.",
+    "The editor checked the copy.",
+    "The copy must be ready by six.",
+    "The editor cut the copy to fit the page."
+   ]
+  },
+  {
+   "id": "pack4-card-520",
+   "mode": "vocab",
+   "word": "news desk",
+   "pron": "",
+   "def": "the department that handles incoming stories\nहिंदी: समाचार डेस्क",
+   "examples": [
+    "Call the news desk with the tip.",
+    "The news desk assigned a reporter.",
+    "The news desk is busiest at night.",
+    "She works on the news desk of a TV channel."
+   ]
+  },
+  {
+   "id": "pack4-card-521",
+   "mode": "vocab",
+   "word": "tip-off",
+   "pron": "",
+   "def": "secret information given to a reporter\nहिंदी: गुप्त सूचना",
+   "examples": [
+    "A tip-off led police to the house.",
+    "The paper got a tip-off.",
+    "An anonymous tip-off helped the reporter find the story.",
+    "The customs officers acted on a tip-off."
+   ]
+  },
+  {
+   "id": "pack4-card-522",
+   "mode": "vocab",
+   "word": "news conference",
+   "pron": "",
+   "def": "a formal meeting with the press\nहिंदी: पत्रकार वार्ता",
+   "examples": [
+    "The CEO called a news conference.",
+    "He made the statement at a news conference.",
+    "The news conference started thirty minutes late.",
+    "The coach answered questions at a news conference."
+   ]
+  },
+  {
+   "id": "pack4-card-523",
+   "mode": "vocab",
+   "word": "statement",
+   "pron": "",
+   "def": "an official written or spoken announcement\nहिंदी: बयान",
+   "examples": [
+    "The firm issued a statement.",
+    "His statement was brief.",
+    "The actor's family released a statement.",
+    "The police statement confirmed two arrests."
+   ]
+  },
+  {
+   "id": "pack4-card-524",
+   "mode": "vocab",
+   "word": "no comment",
+   "pron": "",
+   "def": "a refusal to answer\nहिंदी: कोई टिप्पणी नहीं",
+   "examples": [
+    "The minister said \"no comment\".",
+    "\"No comment,\" she replied.",
+    "When asked about the rumours, he said no comment.",
+    "No comment can sometimes say a lot."
+   ]
+  },
+  {
+   "id": "pack4-card-525",
+   "mode": "vocab",
+   "word": "clarification",
+   "pron": "",
+   "def": "an official explanation to remove doubt\nहिंदी: स्पष्टीकरण",
+   "examples": [
+    "The ministry issued a clarification.",
+    "A clarification was sought.",
+    "The bank issued a clarification about the new charges.",
+    "Can I ask for a clarification on the rules?"
+   ]
+  },
+  {
+   "id": "pack4-card-526",
+   "mode": "vocab",
+   "word": "rumour mill",
+   "pron": "",
+   "def": "the spreading of unverified talk\nहिंदी: अफ़वाहों का बाज़ार",
+   "examples": [
+    "The rumour mill is working overtime.",
+    "The rumour mill blamed him.",
+    "The office rumour mill says the manager is leaving.",
+    "Don't trust everything from the rumour mill."
+   ]
+  },
+  {
+   "id": "pack4-card-527",
+   "mode": "vocab",
+   "word": "hearsay",
+   "pron": "",
+   "def": "information heard but not proven\nहिंदी: सुनी-सुनाई बात",
+   "examples": [
+    "The claim is just hearsay.",
+    "Hearsay isn't evidence.",
+    "The judge ignored the hearsay and looked at facts.",
+    "Most of what you heard is hearsay."
+   ]
+  },
+  {
+   "id": "pack4-card-528",
+   "mode": "vocab",
+   "word": "tip of the iceberg",
+   "pron": "",
+   "def": "a small visible part of a large issue\nहिंदी: बड़े मसले की झलक भर",
+   "examples": [
+    "Experts call the leak the tip of the iceberg.",
+    "These arrests are the tip of the iceberg.",
+    "The reported cases are the tip of the iceberg.",
+    "The missing files were just the tip of the iceberg."
+   ]
+  }
+ ]
+}

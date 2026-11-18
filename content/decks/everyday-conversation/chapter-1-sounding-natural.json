@@ -1,0 +1,47 @@
+{
+ "id": "deck-45",
+ "categoryId": "cat-38",
+ "title": "Chapter 1: Sounding Natural",
+ "sub": "Common words that smooth out everyday talk.",
+ "cards": [
+  {
+   "id": "card-39",
+   "mode": "vocab",
+   "word": "Reckon",
+   "pron": "/ˈrɛkən/",
+   "def": "To think or suppose (informal).",
+   "examples": [
+    "I reckon it'll rain later, so bring an umbrella.",
+    "I reckon we'll finish the report by Friday.",
+    "Do you reckon the shop is still open?",
+    "She reckons the new manager will be stricter."
+   ]
+  },
+  {
+   "id": "card-42",
+   "mode": "vocab",
+   "word": "Awkward",
+   "pron": "/ˈɔːkwərd/",
+   "def": "Causing difficulty or embarrassment; not smooth.",
+   "examples": [
+    "There was an awkward silence after the joke fell flat.",
+    "It was awkward when I forgot my colleague's name.",
+    "The meeting room has an awkward shape for presentations.",
+    "He felt awkward at the party because he knew nobody."
+   ]
+  },
+  {
+   "id": "card-44",
+   "mode": "vocab",
+   "word": "Genuinely",
+   "pron": "/ˈdʒɛnjuɪnli/",
+   "def": "In a sincere, real way.",
+   "examples": [
+    "I'm genuinely impressed by how far you've come.",
+    "She was genuinely happy for her friend's success.",
+    "I genuinely forgot about the meeting; I'm sorry.",
+    "The manager genuinely listens to our ideas."
+   ]
+  }
+ ]
+}

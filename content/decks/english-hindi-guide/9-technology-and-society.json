@@ -1,0 +1,580 @@
+{
+ "id": "pack3-deck-9",
+ "categoryId": "pack3-cat-1",
+ "title": "9. Technology & Society",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-401",
+   "mode": "vocab",
+   "word": "Technology",
+   "pron": "",
+   "def": "The application of scientific knowledge for practical purposes.\nहिंदी: प्रौद्योगिकी",
+   "examples": [
+    "Technology transforms daily life.",
+    "Technology drives economic growth.",
+    "Technology must serve humanity.",
+    "Technology raises ethical questions."
+   ]
+  },
+  {
+   "id": "pack3-card-403",
+   "mode": "vocab",
+   "word": "Digital Divide",
+   "pron": "",
+   "def": "The gap between those with and without technology access.\nहिंदी: डिजिटल खाई",
+   "examples": [
+    "Digital Divide deepens inequality.",
+    "Digital Divide affects education.",
+    "Digital Divide must be bridged.",
+    "Digital Divide excludes the poor."
+   ]
+  },
+  {
+   "id": "pack3-card-404",
+   "mode": "vocab",
+   "word": "Internet",
+   "pron": "",
+   "def": "A global network connecting computers worldwide.\nहिंदी: इंटरनेट",
+   "examples": [
+    "Internet connects billions.",
+    "Internet enables free expression.",
+    "Internet spreads both truth and lies.",
+    "Internet must remain open."
+   ]
+  },
+  {
+   "id": "pack3-card-406",
+   "mode": "vocab",
+   "word": "Machine Learning",
+   "pron": "",
+   "def": "A branch of artificial intelligence focused on algorithms that learn and improve from data.\nहिंदी: मशीन लर्निंग / मशीन द्वारा सीखना",
+   "examples": [
+    "Machine learning powers advanced diagnostic tools in modern medical imaging.",
+    "Autonomous vehicles depend on machine learning models to detect pedestrians safely.",
+    "Financial institutions deploy machine learning algorithms to uncover credit card fraud.",
+    "Bias in training datasets can skew the outputs of machine learning systems."
+   ]
+  },
+  {
+   "id": "pack3-card-407",
+   "mode": "vocab",
+   "word": "Algorithmic Transparency",
+   "pron": "",
+   "def": "The principle that automated algorithmic decision-making should be open to inspection and audit.\nहिंदी: एल्गोरिदम की पारदर्शिता",
+   "examples": [
+    "Advocates demand algorithmic transparency when software is used in criminal sentencing.",
+    "Algorithmic transparency allows independent researchers to detect hidden corporate bias.",
+    "Without algorithmic transparency, citizens cannot challenge automated credit denials.",
+    "New digital governance regulations mandate algorithmic transparency for major tech firms."
+   ]
+  },
+  {
+   "id": "pack3-card-408",
+   "mode": "vocab",
+   "word": "Big Data",
+   "pron": "",
+   "def": "Extremely large datasets analyzed for patterns.\nहिंदी: बिग डेटा / विशाल आँकड़े",
+   "examples": [
+    "Big Data informs decisions.",
+    "Big Data raises privacy concerns.",
+    "Big Data must be governed.",
+    "Big Data powers personalization."
+   ]
+  },
+  {
+   "id": "pack3-card-409",
+   "mode": "vocab",
+   "word": "Data Privacy",
+   "pron": "",
+   "def": "Protection of personal information.\nहिंदी: डेटा गोपनीयता",
+   "examples": [
+    "Data Privacy is a fundamental right.",
+    "Data Privacy must be enforced.",
+    "Data Privacy is threatened by surveillance.",
+    "Data Privacy builds user trust."
+   ]
+  },
+  {
+   "id": "pack3-card-411",
+   "mode": "vocab",
+   "word": "Cybercrime",
+   "pron": "",
+   "def": "Illegal activity conducted online.\nहिंदी: साइबर अपराध",
+   "examples": [
+    "Cybercrime costs billions.",
+    "Cybercrime targets the vulnerable.",
+    "Cybercrime must be prosecuted.",
+    "Cybercrime evolves with technology."
+   ]
+  },
+  {
+   "id": "pack3-card-412",
+   "mode": "vocab",
+   "word": "Biometrics",
+   "pron": "",
+   "def": "The statistical analysis of unique biological characteristics such as fingerprints or facial patterns.\nहिंदी: बायोमेट्रिक / शारीरिक पहचान",
+   "examples": [
+    "Airports increasingly utilize facial biometrics to expedite passenger identity checks.",
+    "Civil liberties groups raise urgent privacy concerns regarding mandatory biometrics.",
+    "Modern smartphones employ fingerprint biometrics for secure screen authentication.",
+    "Biometrics provide high-assurance identification compared to traditional passwords."
+   ]
+  },
+  {
+   "id": "pack3-card-414",
+   "mode": "vocab",
+   "word": "Digital Footprint",
+   "pron": "",
+   "def": "The record of all online interactions, posts, and activities left behind by an internet user.\nहिंदी: डिजिटल पदचिह्न",
+   "examples": [
+    "Every web search and online purchase contributes to an individual's digital footprint.",
+    "Job candidates should carefully audit their public digital footprint before interviews.",
+    "Advertisers track your digital footprint to serve hyper-targeted consumer ads.",
+    "Teaching teenagers about their permanent digital footprint is crucial for online safety."
+   ]
+  },
+  {
+   "id": "pack3-card-415",
+   "mode": "vocab",
+   "word": "Platform Economy",
+   "pron": "",
+   "def": "Business models built on digital platforms.\nहिंदी: प्लेटफ़ॉर्म अर्थव्यवस्था",
+   "examples": [
+    "Platform Economy creates new jobs.",
+    "Platform Economy challenges labor laws.",
+    "Platform Economy must be regulated.",
+    "Platform Economy concentrates power."
+   ]
+  },
+  {
+   "id": "pack3-card-416",
+   "mode": "vocab",
+   "word": "Gig Work",
+   "pron": "",
+   "def": "Short-term, flexible jobs arranged online.\nहिंदी: गिग वर्क / अस्थायी काम",
+   "examples": [
+    "Gig Work offers flexibility.",
+    "Gig Work lacks security.",
+    "Gig Work must be protected.",
+    "Gig Work is growing."
+   ]
+  },
+  {
+   "id": "pack3-card-417",
+   "mode": "vocab",
+   "word": "E-Governance",
+   "pron": "",
+   "def": "Use of technology in government services.\nहिंदी: ई-गवर्नेंस / डिजिटल शासन",
+   "examples": [
+    "E-Governance improves efficiency.",
+    "E-Governance reduces corruption.",
+    "E-Governance must be inclusive.",
+    "E-Governance speeds services."
+   ]
+  },
+  {
+   "id": "pack3-card-418",
+   "mode": "vocab",
+   "word": "Digital Literacy",
+   "pron": "",
+   "def": "The ability to use digital technology effectively.\nहिंदी: डिजिटल साक्षरता",
+   "examples": [
+    "Digital Literacy is essential today.",
+    "Digital Literacy must be taught.",
+    "Digital Literacy reduces exclusion.",
+    "Digital Literacy empowers citizens."
+   ]
+  },
+  {
+   "id": "pack3-card-419",
+   "mode": "vocab",
+   "word": "Net Neutrality",
+   "pron": "",
+   "def": "Equal treatment of all internet traffic.\nहिंदी: नेट निरपेक्षता",
+   "examples": [
+    "Net Neutrality protects free access.",
+    "Net Neutrality must be preserved.",
+    "Net Neutrality prevents discrimination.",
+    "Net Neutrality is debated globally."
+   ]
+  },
+  {
+   "id": "pack3-card-420",
+   "mode": "vocab",
+   "word": "Open Source",
+   "pron": "",
+   "def": "Software with publicly available code.\nहिंदी: ओपन सोर्स / खुला स्रोत",
+   "examples": [
+    "Open Source promotes collaboration.",
+    "Open Source reduces costs.",
+    "Open Source must be supported.",
+    "Open Source drives innovation."
+   ]
+  },
+  {
+   "id": "pack3-card-421",
+   "mode": "vocab",
+   "word": "Intellectual Property",
+   "pron": "",
+   "def": "Legal rights over creations of the mind.\nहिंदी: बौद्धिक संपदा",
+   "examples": [
+    "Intellectual Property protects inventors.",
+    "Intellectual Property must be balanced.",
+    "Intellectual Property spurs innovation.",
+    "Intellectual Property laws vary."
+   ]
+  },
+  {
+   "id": "pack3-card-423",
+   "mode": "vocab",
+   "word": "Digital Economy",
+   "pron": "",
+   "def": "Economic activity driven by digital technology.\nहिंदी: डिजिटल अर्थव्यवस्था",
+   "examples": [
+    "Digital Economy grows rapidly.",
+    "Digital Economy creates opportunities.",
+    "Digital Economy must be inclusive.",
+    "Digital Economy transforms work."
+   ]
+  },
+  {
+   "id": "pack3-card-424",
+   "mode": "vocab",
+   "word": "Start-Up",
+   "pron": "",
+   "def": "A new, often technology-based business.\nहिंदी: स्टार्ट-अप / नया उद्यम",
+   "examples": [
+    "Start-Ups drive innovation.",
+    "Start-Ups face high risk.",
+    "Start-Ups need funding.",
+    "Start-Ups create jobs."
+   ]
+  },
+  {
+   "id": "pack3-card-425",
+   "mode": "vocab",
+   "word": "Technocracy",
+   "pron": "",
+   "def": "Rule by technical experts.\nहिंदी: तकनीकी शासन",
+   "examples": [
+    "Technocracy values expertise.",
+    "Technocracy can sideline democracy.",
+    "Technocracy is debated.",
+    "Technocracy shapes policy."
+   ]
+  },
+  {
+   "id": "pack3-card-426",
+   "mode": "vocab",
+   "word": "Digital Authoritarianism",
+   "pron": "",
+   "def": "Use of technology to control citizens.\nहिंदी: डिजिटल तानाशाही",
+   "examples": [
+    "Digital Authoritarianism uses surveillance.",
+    "Digital Authoritarianism suppresses dissent.",
+    "Digital Authoritarianism must be resisted.",
+    "Digital Authoritarianism threatens privacy."
+   ]
+  },
+  {
+   "id": "pack3-card-427",
+   "mode": "vocab",
+   "word": "Information Overload",
+   "pron": "",
+   "def": "Excessive information that impairs decision-making.\nहिंदी: सूचनाओं की अधिकता",
+   "examples": [
+    "Information Overload causes fatigue.",
+    "Information Overload reduces focus.",
+    "Information Overload must be managed.",
+    "Information Overload affects productivity."
+   ]
+  },
+  {
+   "id": "pack3-card-428",
+   "mode": "vocab",
+   "word": "Deepfake",
+   "pron": "",
+   "def": "Manipulated media that appears real.\nहिंदी: डीपफ़ेक / नक़ली वीडियो-आवाज़",
+   "examples": [
+    "Deepfakes spread misinformation.",
+    "Deepfakes threaten trust.",
+    "Deepfakes must be detected.",
+    "Deepfakes can harm reputations."
+   ]
+  },
+  {
+   "id": "pack3-card-429",
+   "mode": "vocab",
+   "word": "Chatbot",
+   "pron": "",
+   "def": "A program simulating conversation.\nहिंदी: चैटबॉट",
+   "examples": [
+    "Chatbots provide customer service.",
+    "Chatbots save time.",
+    "Chatbots must be transparent.",
+    "Chatbots improve with AI."
+   ]
+  },
+  {
+   "id": "pack3-card-430",
+   "mode": "vocab",
+   "word": "Virtual Reality",
+   "pron": "",
+   "def": "A simulated interactive environment.\nहिंदी: आभासी वास्तविकता",
+   "examples": [
+    "Virtual Reality transforms training.",
+    "Virtual Reality aids medicine.",
+    "Virtual Reality must be accessible.",
+    "Virtual Reality blurs reality."
+   ]
+  },
+  {
+   "id": "pack3-card-431",
+   "mode": "vocab",
+   "word": "Augmented Reality",
+   "pron": "",
+   "def": "Overlaying digital information on the real world.\nहिंदी: संवर्धित वास्तविकता",
+   "examples": [
+    "Augmented Reality enhances learning.",
+    "Augmented Reality aids navigation.",
+    "Augmented Reality transforms retail.",
+    "Augmented Reality must be safe."
+   ]
+  },
+  {
+   "id": "pack3-card-432",
+   "mode": "vocab",
+   "word": "Blockchain",
+   "pron": "",
+   "def": "A decentralized digital ledger.\nहिंदी: ब्लॉकचेन",
+   "examples": [
+    "Blockchain ensures transparency.",
+    "Blockchain powers cryptocurrencies.",
+    "Blockchain reduces fraud.",
+    "Blockchain must be understood."
+   ]
+  },
+  {
+   "id": "pack3-card-433",
+   "mode": "vocab",
+   "word": "Cryptocurrency",
+   "pron": "",
+   "def": "Digital currency using cryptography.\nहिंदी: क्रिप्टोकरेंसी / आभासी मुद्रा",
+   "examples": [
+    "Cryptocurrency is volatile.",
+    "Cryptocurrency must be regulated.",
+    "Cryptocurrency enables anonymity.",
+    "Cryptocurrency challenges banks."
+   ]
+  },
+  {
+   "id": "pack3-card-434",
+   "mode": "vocab",
+   "word": "Digital Payment",
+   "pron": "",
+   "def": "Transfer of money electronically.\nहिंदी: डिजिटल भुगतान",
+   "examples": [
+    "Digital Payments are convenient.",
+    "Digital Payments reduce cash use.",
+    "Digital Payments must be secure.",
+    "Digital Payments expand inclusion."
+   ]
+  },
+  {
+   "id": "pack3-card-435",
+   "mode": "vocab",
+   "word": "Fintech",
+   "pron": "",
+   "def": "Technology-driven financial services.\nहिंदी: फ़िनटेक / वित्तीय प्रौद्योगिकी",
+   "examples": [
+    "Fintech expands access to finance.",
+    "Fintech disrupts banking.",
+    "Fintech must be regulated.",
+    "Fintech empowers small businesses."
+   ]
+  },
+  {
+   "id": "pack3-card-436",
+   "mode": "vocab",
+   "word": "Robotics",
+   "pron": "",
+   "def": "Design and use of robots.\nहिंदी: रोबोटिक्स",
+   "examples": [
+    "Robotics transforms manufacturing.",
+    "Robotics improves precision.",
+    "Robotics displaces some jobs.",
+    "Robotics must be safe."
+   ]
+  },
+  {
+   "id": "pack3-card-438",
+   "mode": "vocab",
+   "word": "Genetic Engineering",
+   "pron": "",
+   "def": "Modifying an organism's genes.\nहिंदी: आनुवंशिक अभियांत्रिकी",
+   "examples": [
+    "Genetic Engineering treats disease.",
+    "Genetic Engineering raises ethics.",
+    "Genetic Engineering must be careful.",
+    "Genetic Engineering improves crops."
+   ]
+  },
+  {
+   "id": "pack3-card-439",
+   "mode": "vocab",
+   "word": "Space Technology",
+   "pron": "",
+   "def": "Technology for exploring and using space.\nहिंदी: अंतरिक्ष प्रौद्योगिकी",
+   "examples": [
+    "Space Technology improves communication.",
+    "Space Technology aids weather forecasting.",
+    "Space Technology inspires youth.",
+    "Space Technology must be peaceful."
+   ]
+  },
+  {
+   "id": "pack3-card-440",
+   "mode": "vocab",
+   "word": "Renewable Technology",
+   "pron": "",
+   "def": "Technology for clean energy.\nहिंदी: नवीकरणीय प्रौद्योगिकी",
+   "examples": [
+    "Renewable Technology fights climate change.",
+    "Renewable Technology is advancing.",
+    "Renewable Technology must be scaled.",
+    "Renewable Technology creates jobs."
+   ]
+  },
+  {
+   "id": "pack3-card-441",
+   "mode": "vocab",
+   "word": "Smart City",
+   "pron": "",
+   "def": "A city using technology for efficiency.\nहिंदी: स्मार्ट शहर",
+   "examples": [
+    "Smart Cities improve services.",
+    "Smart Cities use data.",
+    "Smart Cities must be inclusive.",
+    "Smart Cities reduce waste."
+   ]
+  },
+  {
+   "id": "pack3-card-442",
+   "mode": "vocab",
+   "word": "Digital Identity",
+   "pron": "",
+   "def": "An online representation of a person.\nहिंदी: डिजिटल पहचान",
+   "examples": [
+    "Digital Identity eases services.",
+    "Digital Identity raises privacy concerns.",
+    "Digital Identity must be secure.",
+    "Digital Identity enables inclusion."
+   ]
+  },
+  {
+   "id": "pack3-card-443",
+   "mode": "vocab",
+   "word": "Internet of Things",
+   "pron": "",
+   "def": "Network of connected devices.\nहिंदी: इंटरनेट ऑफ़ थिंग्स / वस्तुओं का इंटरनेट",
+   "examples": [
+    "Internet of Things connects homes.",
+    "Internet of Things improves efficiency.",
+    "Internet of Things raises security risks.",
+    "Internet of Things transforms industry."
+   ]
+  },
+  {
+   "id": "pack3-card-444",
+   "mode": "vocab",
+   "word": "5G",
+   "pron": "",
+   "def": "Fifth-generation mobile network.\nहिंदी: 5G / पाँचवीं पीढ़ी का नेटवर्क",
+   "examples": [
+    "5G speeds up connectivity.",
+    "5G enables new services.",
+    "5G must be widely available.",
+    "5G transforms communication."
+   ]
+  },
+  {
+   "id": "pack3-card-445",
+   "mode": "vocab",
+   "word": "Telemedicine",
+   "pron": "",
+   "def": "Remote medical care using technology.\nहिंदी: टेलीमेडिसिन / दूरस्थ चिकित्सा",
+   "examples": [
+    "Telemedicine expands healthcare access.",
+    "Telemedicine saves travel time.",
+    "Telemedicine must be regulated.",
+    "Telemedicine helps rural areas."
+   ]
+  },
+  {
+   "id": "pack3-card-446",
+   "mode": "vocab",
+   "word": "E-Commerce",
+   "pron": "",
+   "def": "Buying and selling online.\nहिंदी: ई-कॉमर्स / ऑनलाइन व्यापार",
+   "examples": [
+    "E-Commerce transforms retail.",
+    "E-Commerce empowers small sellers.",
+    "E-Commerce must protect consumers.",
+    "E-Commerce grows rapidly."
+   ]
+  },
+  {
+   "id": "pack3-card-447",
+   "mode": "vocab",
+   "word": "Digital Activism",
+   "pron": "",
+   "def": "Use of technology for social change.\nहिंदी: डिजिटल सक्रियता",
+   "examples": [
+    "Digital Activism mobilizes movements.",
+    "Digital Activism raises awareness.",
+    "Digital Activism must be peaceful.",
+    "Digital Activism amplifies voices."
+   ]
+  },
+  {
+   "id": "pack3-card-448",
+   "mode": "vocab",
+   "word": "Technophobia",
+   "pron": "",
+   "def": "Fear or dislike of technology.\nहिंदी: प्रौद्योगिकी का भय",
+   "examples": [
+    "Technophobia slows adoption.",
+    "Technophobia is common among some.",
+    "Technophobia must be addressed.",
+    "Technophobia limits opportunity."
+   ]
+  },
+  {
+   "id": "pack3-card-449",
+   "mode": "vocab",
+   "word": "Digital Ethics",
+   "pron": "",
+   "def": "Moral principles for technology use.\nहिंदी: डिजिटल नैतिकता",
+   "examples": [
+    "Digital Ethics guide innovation.",
+    "Digital Ethics protect users.",
+    "Digital Ethics must be taught.",
+    "Digital Ethics curb misuse."
+   ]
+  },
+  {
+   "id": "pack3-card-450",
+   "mode": "vocab",
+   "word": "Technological Determinism",
+   "pron": "",
+   "def": "The belief that technology shapes society.\nहिंदी: प्रौद्योगिकी-निर्धारणवाद",
+   "examples": [
+    "Technological Determinism explains change.",
+    "Technological Determinism is debated.",
+    "Technological Determinism can be overstated.",
+    "Technological Determinism shapes policy."
+   ]
+  }
+ ]
+}

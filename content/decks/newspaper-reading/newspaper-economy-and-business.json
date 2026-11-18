@@ -1,0 +1,1178 @@
+{
+ "id": "pack2-deck-2",
+ "categoryId": "pack2-cat-1",
+ "title": "Newspaper: Economy & Business",
+ "sub": "Money, markets, and companies as they appear in business pages.",
+ "cards": [
+  {
+   "id": "pack2-card-103",
+   "mode": "vocab",
+   "word": "Inflation",
+   "pron": "(noun)",
+   "def": "A general rise in prices over time.\nहिंदी: महँगाई / मुद्रास्फीति",
+   "examples": [
+    "Present: Inflation reduces what money can buy.",
+    "Past: Inflation hit a ten-year high.",
+    "Future: Inflation will ease next quarter.",
+    "Perfect: Inflation has eaten into savings."
+   ]
+  },
+  {
+   "id": "pack2-card-104",
+   "mode": "vocab",
+   "word": "Recession",
+   "pron": "(noun)",
+   "def": "A period of economic decline.\nहिंदी: आर्थिक मंदी",
+   "examples": [
+    "Present: A recession raises unemployment.",
+    "Past: The recession lasted two years.",
+    "Future: A recession will hurt exports.",
+    "Perfect: The country has entered a recession."
+   ]
+  },
+  {
+   "id": "pack2-card-105",
+   "mode": "vocab",
+   "word": "Stimulus",
+   "pron": "(noun)",
+   "def": "Government action to boost the economy.\nहिंदी: प्रोत्साहन पैकेज",
+   "examples": [
+    "Present: Stimulus can restart spending.",
+    "Past: The stimulus saved many firms.",
+    "Future: A stimulus will help small businesses.",
+    "Perfect: The government has announced a stimulus."
+   ]
+  },
+  {
+   "id": "pack2-card-106",
+   "mode": "vocab",
+   "word": "Revenue",
+   "pron": "(noun)",
+   "def": "Income a company or government receives.\nहिंदी: राजस्व / आय",
+   "examples": [
+    "Present: Revenue pays the bills.",
+    "Past: Revenue doubled last year.",
+    "Future: Revenue will exceed forecasts.",
+    "Perfect: Revenue has dropped sharply."
+   ]
+  },
+  {
+   "id": "pack2-card-107",
+   "mode": "vocab",
+   "word": "Profit",
+   "pron": "(noun)",
+   "def": "Money left after costs are paid.\nहिंदी: लाभ / मुनाफ़ा",
+   "examples": [
+    "Present: Profit rewards risk.",
+    "Past: The firm made record profit.",
+    "Future: Profit will grow with new products.",
+    "Perfect: Profit has fallen for two quarters."
+   ]
+  },
+  {
+   "id": "pack2-card-108",
+   "mode": "vocab",
+   "word": "Loss",
+   "pron": "(noun)",
+   "def": "Money lost when costs exceed income.\nहिंदी: हानि / नुकसान",
+   "examples": [
+    "Present: A loss can sink a startup.",
+    "Past: The airline posted a heavy loss.",
+    "Future: A loss will cut bonuses.",
+    "Perfect: The company has reported another loss."
+   ]
+  },
+  {
+   "id": "pack2-card-109",
+   "mode": "vocab",
+   "word": "Dividend",
+   "pron": "(noun)",
+   "def": "A share of profit paid to shareholders.\nहिंदी: लाभांश",
+   "examples": [
+    "Present: A dividend rewards investors.",
+    "Past: The bank paid a dividend in March.",
+    "Future: The firm will pay a higher dividend.",
+    "Perfect: The company has raised its dividend."
+   ]
+  },
+  {
+   "id": "pack2-card-110",
+   "mode": "vocab",
+   "word": "Shareholder",
+   "pron": "(noun)",
+   "def": "A person who owns shares in a company.\nहिंदी: शेयरधारक",
+   "examples": [
+    "Present: A shareholder votes at meetings.",
+    "Past: Shareholders approved the merger.",
+    "Future: Shareholders will meet in June.",
+    "Perfect: Shareholders have lost confidence."
+   ]
+  },
+  {
+   "id": "pack2-card-111",
+   "mode": "vocab",
+   "word": "Merger",
+   "pron": "(noun)",
+   "def": "The joining of two companies into one.\nहिंदी: विलय",
+   "examples": [
+    "Present: A merger can create savings.",
+    "Past: The merger created a giant bank.",
+    "Future: The merger will close in July.",
+    "Perfect: Regulators have approved the merger."
+   ]
+  },
+  {
+   "id": "pack2-card-112",
+   "mode": "vocab",
+   "word": "Acquire",
+   "pron": "(verb)",
+   "def": "To buy a company or asset.\nहिंदी: अधिग्रहण करना",
+   "examples": [
+    "Present: Large firms acquire startups.",
+    "Past: The company acquired its rival.",
+    "Future: It will acquire a software firm.",
+    "Perfect: The group has acquired three brands."
+   ]
+  },
+  {
+   "id": "pack2-card-113",
+   "mode": "vocab",
+   "word": "Takeover",
+   "pron": "(noun)",
+   "def": "Gaining control of a company by buying its shares.\nहिंदी: अधिग्रहण",
+   "examples": [
+    "Present: A takeover may cost jobs.",
+    "Past: The takeover shocked investors.",
+    "Future: The takeover will be completed soon.",
+    "Perfect: The board has rejected a takeover."
+   ]
+  },
+  {
+   "id": "pack2-card-114",
+   "mode": "vocab",
+   "word": "Startup",
+   "pron": "(noun)",
+   "def": "A newly founded business, often innovative.\nहिंदी: नई कंपनी / स्टार्टअप",
+   "examples": [
+    "Present: A startup needs funding.",
+    "Past: The startup grew fast.",
+    "Future: The startup will launch next month.",
+    "Perfect: The startup has raised millions."
+   ]
+  },
+  {
+   "id": "pack2-card-115",
+   "mode": "vocab",
+   "word": "Venture capital",
+   "pron": "(noun)",
+   "def": "Money invested in new, risky businesses.\nहिंदी: उद्यम पूँजी",
+   "examples": [
+    "Present: Venture capital fuels innovation.",
+    "Past: Venture capital poured into the sector.",
+    "Future: Venture capital will chase AI firms.",
+    "Perfect: Venture capital has dried up."
+   ]
+  },
+  {
+   "id": "pack2-card-116",
+   "mode": "vocab",
+   "word": "Investor",
+   "pron": "(noun)",
+   "def": "A person who puts money in hoping for gain.\nहिंदी: निवेशक",
+   "examples": [
+    "Present: An investor studies risk.",
+    "Past: The investor sold early.",
+    "Future: Investors will watch the results.",
+    "Perfect: Investors have grown cautious."
+   ]
+  },
+  {
+   "id": "pack2-card-117",
+   "mode": "vocab",
+   "word": "Portfolio",
+   "pron": "(noun)",
+   "def": "A collection of investments.\nहिंदी: निवेश-संग्रह",
+   "examples": [
+    "Present: A portfolio spreads risk.",
+    "Past: She rebuilt her portfolio.",
+    "Future: A balanced portfolio will weather shocks.",
+    "Perfect: He has diversified his portfolio."
+   ]
+  },
+  {
+   "id": "pack2-card-118",
+   "mode": "vocab",
+   "word": "Equity",
+   "pron": "(noun)",
+   "def": "Ownership value in a company.\nहिंदी: इक्विटी / हिस्सेदारी",
+   "examples": [
+    "Present: Equity represents ownership.",
+    "Past: Founders gave up equity for funds.",
+    "Future: Equity will rise as the firm grows.",
+    "Perfect: The fund has increased its equity."
+   ]
+  },
+  {
+   "id": "pack2-card-119",
+   "mode": "vocab",
+   "word": "Asset",
+   "pron": "(noun)",
+   "def": "Something of value that is owned.\nहिंदी: संपत्ति",
+   "examples": [
+    "Present: An asset can produce income.",
+    "Past: The firm sold an asset.",
+    "Future: The asset will gain value.",
+    "Perfect: The company has acquired new assets."
+   ]
+  },
+  {
+   "id": "pack2-card-120",
+   "mode": "vocab",
+   "word": "Liability",
+   "pron": "(noun)",
+   "def": "A debt or legal obligation.\nहिंदी: देनदारी",
+   "examples": [
+    "Present: A liability reduces net worth.",
+    "Past: The loan became a liability.",
+    "Future: The deal will create new liabilities.",
+    "Perfect: The firm has reduced its liabilities."
+   ]
+  },
+  {
+   "id": "pack2-card-121",
+   "mode": "vocab",
+   "word": "Bankruptcy",
+   "pron": "(noun)",
+   "def": "The state of being unable to pay debts.\nहिंदी: दिवालियापन",
+   "examples": [
+    "Present: Bankruptcy protects debtors by law.",
+    "Past: The airline filed for bankruptcy.",
+    "Future: Bankruptcy will end the business.",
+    "Perfect: The retailer has avoided bankruptcy."
+   ]
+  },
+  {
+   "id": "pack2-card-122",
+   "mode": "vocab",
+   "word": "Insolvent",
+   "pron": "(adjective)",
+   "def": "Unable to pay what is owed.\nहिंदी: दिवालिया",
+   "examples": [
+    "Present: An insolvent firm cannot pay suppliers.",
+    "Past: The bank became insolvent.",
+    "Future: The company will be insolvent without aid.",
+    "Perfect: The builder has been declared insolvent."
+   ]
+  },
+  {
+   "id": "pack2-card-123",
+   "mode": "vocab",
+   "word": "Default",
+   "pron": "(verb)",
+   "def": "To fail to repay a loan.\nहिंदी: चूक करना",
+   "examples": [
+    "Present: Borrowers default when income falls.",
+    "Past: The country defaulted on its debt.",
+    "Future: Some borrowers will default.",
+    "Perfect: Several firms have defaulted."
+   ]
+  },
+  {
+   "id": "pack2-card-124",
+   "mode": "vocab",
+   "word": "Debt",
+   "pron": "(noun)",
+   "def": "Money owed.\nहिंदी: कर्ज़",
+   "examples": [
+    "Present: Debt can burden a family.",
+    "Past: Debt grew during the pandemic.",
+    "Future: Debt will fall with strong growth.",
+    "Perfect: The nation has accumulated heavy debt."
+   ]
+  },
+  {
+   "id": "pack2-card-125",
+   "mode": "vocab",
+   "word": "Interest rate",
+   "pron": "(noun)",
+   "def": "The percentage charged for borrowing money.\nहिंदी: ब्याज दर",
+   "examples": [
+    "Present: The interest rate affects loans.",
+    "Past: The bank raised the interest rate.",
+    "Future: The interest rate will fall in spring.",
+    "Perfect: The interest rate has doubled."
+   ]
+  },
+  {
+   "id": "pack2-card-126",
+   "mode": "vocab",
+   "word": "Mortgage",
+   "pron": "(noun)",
+   "def": "A loan used to buy property.\nहिंदी: गृह ऋण / बंधक",
+   "examples": [
+    "Present: A mortgage can last thirty years.",
+    "Past: They took a mortgage in 2015.",
+    "Future: The mortgage will be repaid by 2040.",
+    "Perfect: She has paid off her mortgage."
+   ]
+  },
+  {
+   "id": "pack2-card-127",
+   "mode": "vocab",
+   "word": "Credit",
+   "pron": "(noun)",
+   "def": "Ability to borrow money based on trust.\nहिंदी: उधार / साख",
+   "examples": [
+    "Present: Credit helps buyers purchase now.",
+    "Past: Credit tightened after the crisis.",
+    "Future: Credit will become cheaper.",
+    "Perfect: Banks have eased credit."
+   ]
+  },
+  {
+   "id": "pack2-card-128",
+   "mode": "vocab",
+   "word": "Fiscal",
+   "pron": "(adjective)",
+   "def": "Relating to government money and taxes.\nहिंदी: राजकोषीय",
+   "examples": [
+    "Present: Fiscal policy sets taxes and spending.",
+    "Past: The fiscal year ended in March.",
+    "Future: Fiscal discipline will improve ratings.",
+    "Perfect: The state has tightened fiscal controls."
+   ]
+  },
+  {
+   "id": "pack2-card-129",
+   "mode": "vocab",
+   "word": "Monetary",
+   "pron": "(adjective)",
+   "def": "Relating to money supply and interest rates.\nहिंदी: मौद्रिक",
+   "examples": [
+    "Present: Monetary policy controls inflation.",
+    "Past: The bank changed its monetary stance.",
+    "Future: Monetary tightening will slow growth.",
+    "Perfect: Central banks have eased monetary policy."
+   ]
+  },
+  {
+   "id": "pack2-card-130",
+   "mode": "vocab",
+   "word": "Tariff",
+   "pron": "(noun)",
+   "def": "A tax on imported goods.\nहिंदी: आयात शुल्क",
+   "examples": [
+    "Present: A tariff raises import prices.",
+    "Past: The nation imposed a tariff on steel.",
+    "Future: A tariff will protect local firms.",
+    "Perfect: Tariffs have strained relations."
+   ]
+  },
+  {
+   "id": "pack2-card-131",
+   "mode": "vocab",
+   "word": "Export",
+   "pron": "(verb)",
+   "def": "To sell goods to other countries.\nहिंदी: निर्यात करना",
+   "examples": [
+    "Present: India exports software worldwide.",
+    "Past: The firm exported textiles to Europe.",
+    "Future: It will export more next year.",
+    "Perfect: The country has exported record volumes."
+   ]
+  },
+  {
+   "id": "pack2-card-132",
+   "mode": "vocab",
+   "word": "Import",
+   "pron": "(verb)",
+   "def": "To bring goods in from abroad.\nहिंदी: आयात करना",
+   "examples": [
+    "Present: The country imports oil.",
+    "Past: Traders imported cars from Japan.",
+    "Future: They will import more wheat.",
+    "Perfect: The nation has imported fewer goods."
+   ]
+  },
+  {
+   "id": "pack2-card-133",
+   "mode": "vocab",
+   "word": "Trade deficit",
+   "pron": "(noun)",
+   "def": "When imports exceed exports.\nहिंदी: व्यापार घाटा",
+   "examples": [
+    "Present: A trade deficit weakens the currency.",
+    "Past: The trade deficit widened in May.",
+    "Future: The trade deficit will narrow.",
+    "Perfect: The country has recorded a trade deficit."
+   ]
+  },
+  {
+   "id": "pack2-card-134",
+   "mode": "vocab",
+   "word": "Currency",
+   "pron": "(noun)",
+   "def": "The money system of a country.\nहिंदी: मुद्रा",
+   "examples": [
+    "Present: A strong currency lowers import costs.",
+    "Past: The currency fell sharply.",
+    "Future: The currency will recover slowly.",
+    "Perfect: The currency has lost value."
+   ]
+  },
+  {
+   "id": "pack2-card-135",
+   "mode": "vocab",
+   "word": "Devalue",
+   "pron": "(verb)",
+   "def": "To reduce the official value of a currency.\nहिंदी: अवमूल्यन करना",
+   "examples": [
+    "Present: Governments devalue to boost exports.",
+    "Past: The country devalued its currency.",
+    "Future: Officials will devalue the currency.",
+    "Perfect: The bank has devalued the rupee."
+   ]
+  },
+  {
+   "id": "pack2-card-136",
+   "mode": "vocab",
+   "word": "Surge",
+   "pron": "(verb)",
+   "def": "To rise suddenly and strongly.\nहिंदी: तेज़ी से बढ़ना",
+   "examples": [
+    "Present: Prices surge in festivals.",
+    "Past: Shares surged after the news.",
+    "Future: Demand will surge in winter.",
+    "Perfect: Sales have surged this year."
+   ]
+  },
+  {
+   "id": "pack2-card-137",
+   "mode": "vocab",
+   "word": "Plunge",
+   "pron": "(verb)",
+   "def": "To fall sharply and suddenly.\nहिंदी: तेज़ी से गिरना",
+   "examples": [
+    "Present: Markets plunge on bad news.",
+    "Past: Stocks plunged ten percent.",
+    "Future: Prices will plunge if supply rises.",
+    "Perfect: Sales have plunged."
+   ]
+  },
+  {
+   "id": "pack2-card-138",
+   "mode": "vocab",
+   "word": "Volatile",
+   "pron": "(adjective)",
+   "def": "Likely to change quickly and unpredictably.\nहिंदी: अस्थिर",
+   "examples": [
+    "Present: Oil prices are volatile.",
+    "Past: Markets were volatile last week.",
+    "Future: The market will stay volatile.",
+    "Perfect: Prices have been volatile all year."
+   ]
+  },
+  {
+   "id": "pack2-card-139",
+   "mode": "vocab",
+   "word": "Bullish",
+   "pron": "(adjective)",
+   "def": "Expecting prices to rise.\nहिंदी: तेजी की उम्मीद वाला",
+   "examples": [
+    "Present: Investors turn bullish after good news.",
+    "Past: Analysts were bullish about tech.",
+    "Future: Markets will turn bullish if rates fall.",
+    "Perfect: Traders have grown bullish."
+   ]
+  },
+  {
+   "id": "pack2-card-140",
+   "mode": "vocab",
+   "word": "Bearish",
+   "pron": "(adjective)",
+   "def": "Expecting prices to fall.\nहिंदी: मंदी की आशंका वाला",
+   "examples": [
+    "Present: Bearish investors sell shares.",
+    "Past: Analysts were bearish on retail.",
+    "Future: Sentiment will turn bearish.",
+    "Perfect: The outlook has become bearish."
+   ]
+  },
+  {
+   "id": "pack2-card-141",
+   "mode": "vocab",
+   "word": "Rally",
+   "pron": "(noun)",
+   "def": "A strong rise in prices after a fall.\nहिंदी: तेज़ उछाल",
+   "examples": [
+    "Present: A rally boosts confidence.",
+    "Past: The market staged a rally.",
+    "Future: A rally will follow good results.",
+    "Perfect: Stocks have enjoyed a rally."
+   ]
+  },
+  {
+   "id": "pack2-card-142",
+   "mode": "vocab",
+   "word": "Forecast",
+   "pron": "(noun)",
+   "def": "A prediction of future conditions.\nहिंदी: पूर्वानुमान",
+   "examples": [
+    "Present: A forecast guides planning.",
+    "Past: The forecast was too optimistic.",
+    "Future: The forecast will be updated in May.",
+    "Perfect: Economists have raised their forecast."
+   ]
+  },
+  {
+   "id": "pack2-card-143",
+   "mode": "vocab",
+   "word": "Outlook",
+   "pron": "(noun)",
+   "def": "Expected future prospects.\nहिंदी: परिदृश्य",
+   "examples": [
+    "Present: The outlook affects investment.",
+    "Past: The outlook turned negative.",
+    "Future: The outlook will improve with reforms.",
+    "Perfect: Analysts have downgraded the outlook."
+   ]
+  },
+  {
+   "id": "pack2-card-144",
+   "mode": "vocab",
+   "word": "Quarter",
+   "pron": "(noun)",
+   "def": "A three-month period in a financial year.\nहिंदी: तिमाही",
+   "examples": [
+    "Present: Each quarter brings new results.",
+    "Past: The firm lost money in the last quarter.",
+    "Future: The next quarter will be stronger.",
+    "Perfect: Profit has grown for three quarters."
+   ]
+  },
+  {
+   "id": "pack2-card-145",
+   "mode": "vocab",
+   "word": "Fiscal year",
+   "pron": "(noun)",
+   "def": "A twelve-month period for accounts.\nहिंदी: वित्त वर्ष",
+   "examples": [
+    "Present: The fiscal year runs April to March.",
+    "Past: The fiscal year ended well.",
+    "Future: The fiscal year will begin soon.",
+    "Perfect: The firm has closed its fiscal year."
+   ]
+  },
+  {
+   "id": "pack2-card-146",
+   "mode": "vocab",
+   "word": "Turnover",
+   "pron": "(noun)",
+   "def": "Total sales in a period, or the rate staff leave.\nहिंदी: कारोबार / आवर्त",
+   "examples": [
+    "Present: Turnover shows business size.",
+    "Past: Turnover rose by ten percent.",
+    "Future: Turnover will exceed a billion.",
+    "Perfect: Staff turnover has increased."
+   ]
+  },
+  {
+   "id": "pack2-card-147",
+   "mode": "vocab",
+   "word": "Margin",
+   "pron": "(noun)",
+   "def": "The difference between cost and selling price.\nहिंदी: मार्जिन",
+   "examples": [
+    "Present: A thin margin leaves little room for error.",
+    "Past: Margins shrank last year.",
+    "Future: Margins will improve with scale.",
+    "Perfect: The firm has protected its margins."
+   ]
+  },
+  {
+   "id": "pack2-card-148",
+   "mode": "vocab",
+   "word": "Overhead",
+   "pron": "(noun)",
+   "def": "Regular costs of running a business.\nहिंदी: ऊपरी खर्च",
+   "examples": [
+    "Present: Overhead includes rent and power.",
+    "Past: Overhead rose with inflation.",
+    "Future: Overhead will drop after moving.",
+    "Perfect: The firm has cut overhead."
+   ]
+  },
+  {
+   "id": "pack2-card-149",
+   "mode": "vocab",
+   "word": "Budget cut",
+   "pron": "(noun)",
+   "def": "A reduction in planned spending.\nहिंदी: बजट कटौती",
+   "examples": [
+    "Present: A budget cut can reduce services.",
+    "Past: A budget cut closed the library.",
+    "Future: A budget cut will hit schools.",
+    "Perfect: Officials have announced a budget cut."
+   ]
+  },
+  {
+   "id": "pack2-card-150",
+   "mode": "vocab",
+   "word": "Layoff",
+   "pron": "(noun)",
+   "def": "Ending someone's job because of lack of work.\nहिंदी: छँटनी",
+   "examples": [
+    "Present: A layoff affects families.",
+    "Past: The layoff hit a thousand staff.",
+    "Future: A layoff will follow the merger.",
+    "Perfect: The company has announced layoffs."
+   ]
+  },
+  {
+   "id": "pack2-card-151",
+   "mode": "vocab",
+   "word": "Redundant",
+   "pron": "(adjective)",
+   "def": "No longer needed, especially in a job.\nहिंदी: अनावश्यक / छँटनीग्रस्त",
+   "examples": [
+    "Present: Machines make some roles redundant.",
+    "Past: He was made redundant last year.",
+    "Future: Many roles will become redundant.",
+    "Perfect: The role has been made redundant."
+   ]
+  },
+  {
+   "id": "pack2-card-152",
+   "mode": "vocab",
+   "word": "Unemployment",
+   "pron": "(noun)",
+   "def": "The state of having no job.\nहिंदी: बेरोज़गारी",
+   "examples": [
+    "Present: Unemployment hurts communities.",
+    "Past: Unemployment rose during the crisis.",
+    "Future: Unemployment will fall with growth.",
+    "Perfect: Unemployment has reached a low."
+   ]
+  },
+  {
+   "id": "pack2-card-153",
+   "mode": "vocab",
+   "word": "Wage",
+   "pron": "(noun)",
+   "def": "Payment for work, usually hourly or daily.\nहिंदी: मज़दूरी",
+   "examples": [
+    "Present: A fair wage supports workers.",
+    "Past: Wages rose by five percent.",
+    "Future: Wages will increase next year.",
+    "Perfect: Wages have lagged behind prices."
+   ]
+  },
+  {
+   "id": "pack2-card-154",
+   "mode": "vocab",
+   "word": "Strike",
+   "pron": "(noun)",
+   "def": "A refusal to work as a protest.\nहिंदी: हड़ताल",
+   "examples": [
+    "Present: A strike can halt production.",
+    "Past: Workers went on strike for a week.",
+    "Future: A strike will begin on Monday.",
+    "Perfect: Employees have called a strike."
+   ]
+  },
+  {
+   "id": "pack2-card-155",
+   "mode": "vocab",
+   "word": "Union",
+   "pron": "(noun)",
+   "def": "An organisation protecting workers' interests.\nहिंदी: यूनियन / श्रमिक संघ",
+   "examples": [
+    "Present: A union negotiates pay.",
+    "Past: The union rejected the offer.",
+    "Future: The union will meet management.",
+    "Perfect: The union has won better conditions."
+   ]
+  },
+  {
+   "id": "pack2-card-156",
+   "mode": "vocab",
+   "word": "Negotiate",
+   "pron": "(verb)",
+   "def": "To discuss to reach an agreement.\nहिंदी: बातचीत से तय करना",
+   "examples": [
+    "Present: Unions negotiate wages.",
+    "Past: They negotiated a deal.",
+    "Future: Teams will negotiate terms.",
+    "Perfect: Both sides have negotiated for weeks."
+   ]
+  },
+  {
+   "id": "pack2-card-157",
+   "mode": "vocab",
+   "word": "Workforce",
+   "pron": "(noun)",
+   "def": "All the people working in a company or area.\nहिंदी: कार्यबल",
+   "examples": [
+    "Present: A skilled workforce attracts investment.",
+    "Past: The workforce grew by ten percent.",
+    "Future: The workforce will shrink.",
+    "Perfect: The firm has expanded its workforce."
+   ]
+  },
+  {
+   "id": "pack2-card-158",
+   "mode": "vocab",
+   "word": "Productivity",
+   "pron": "(noun)",
+   "def": "Output produced per worker or hour.\nहिंदी: उत्पादकता",
+   "examples": [
+    "Present: Productivity raises living standards.",
+    "Past: Productivity rose after automation.",
+    "Future: Productivity will improve with training.",
+    "Perfect: Productivity has stagnated."
+   ]
+  },
+  {
+   "id": "pack2-card-159",
+   "mode": "vocab",
+   "word": "Supply chain",
+   "pron": "(noun)",
+   "def": "The network of steps from raw material to customer.\nहिंदी: आपूर्ति शृंखला",
+   "examples": [
+    "Present: A supply chain links many firms.",
+    "Past: The supply chain broke down in 2020.",
+    "Future: The supply chain will recover slowly.",
+    "Perfect: Firms have rebuilt their supply chain."
+   ]
+  },
+  {
+   "id": "pack2-card-160",
+   "mode": "vocab",
+   "word": "Shortage",
+   "pron": "(noun)",
+   "def": "Not enough of something.\nहिंदी: कमी",
+   "examples": [
+    "Present: A shortage pushes prices up.",
+    "Past: A shortage of chips hurt carmakers.",
+    "Future: A shortage will continue until spring.",
+    "Perfect: A shortage has emerged."
+   ]
+  },
+  {
+   "id": "pack2-card-161",
+   "mode": "vocab",
+   "word": "Surplus",
+   "pron": "(noun)",
+   "def": "More than is needed.\nहिंदी: अधिशेष",
+   "examples": [
+    "Present: A surplus lowers prices.",
+    "Past: The farm produced a surplus of wheat.",
+    "Future: A surplus will be stored for winter.",
+    "Perfect: The country has built a surplus."
+   ]
+  },
+  {
+   "id": "pack2-card-162",
+   "mode": "vocab",
+   "word": "Demand",
+   "pron": "(noun)",
+   "def": "Desire and ability to buy goods.\nहिंदी: माँग",
+   "examples": [
+    "Present: Demand shapes prices.",
+    "Past: Demand fell during summer.",
+    "Future: Demand will rise before festivals.",
+    "Perfect: Demand has risen sharply."
+   ]
+  },
+  {
+   "id": "pack2-card-163",
+   "mode": "vocab",
+   "word": "Supply",
+   "pron": "(noun)",
+   "def": "The amount of goods available.\nहिंदी: आपूर्ति",
+   "examples": [
+    "Present: Supply meets demand in markets.",
+    "Past: Supply fell after floods.",
+    "Future: Supply will improve next month.",
+    "Perfect: Supply has recovered."
+   ]
+  },
+  {
+   "id": "pack2-card-164",
+   "mode": "vocab",
+   "word": "Consumer",
+   "pron": "(noun)",
+   "def": "A person who buys goods or services.\nहिंदी: उपभोक्ता",
+   "examples": [
+    "Present: A consumer compares prices.",
+    "Past: Consumers cut spending last year.",
+    "Future: Consumers will pay more for fuel.",
+    "Perfect: Consumers have lost confidence."
+   ]
+  },
+  {
+   "id": "pack2-card-165",
+   "mode": "vocab",
+   "word": "Retail",
+   "pron": "(noun)",
+   "def": "Selling goods directly to the public.\nहिंदी: खुदरा व्यापार",
+   "examples": [
+    "Present: Retail depends on festivals.",
+    "Past: Retail suffered during lockdown.",
+    "Future: Retail will shift online.",
+    "Perfect: Retail has changed rapidly."
+   ]
+  },
+  {
+   "id": "pack2-card-166",
+   "mode": "vocab",
+   "word": "Wholesale",
+   "pron": "(adjective)",
+   "def": "Selling in large quantities to retailers.\nहिंदी: थोक",
+   "examples": [
+    "Present: Wholesale prices are lower.",
+    "Past: Wholesale rates rose in March.",
+    "Future: Wholesale trade will resume soon.",
+    "Perfect: Wholesale prices have dropped."
+   ]
+  },
+  {
+   "id": "pack2-card-167",
+   "mode": "vocab",
+   "word": "Brand",
+   "pron": "(noun)",
+   "def": "A name and image identifying a product.\nहिंदी: ब्रांड",
+   "examples": [
+    "Present: A brand builds trust.",
+    "Past: The brand became a household name.",
+    "Future: The brand will launch in Asia.",
+    "Perfect: The firm has built a global brand."
+   ]
+  },
+  {
+   "id": "pack2-card-168",
+   "mode": "vocab",
+   "word": "Launch",
+   "pron": "(verb)",
+   "def": "To introduce a new product or service.\nहिंदी: शुरू करना",
+   "examples": [
+    "Present: Firms launch products each season.",
+    "Past: They launched an app last month.",
+    "Future: The company will launch a phone.",
+    "Perfect: The firm has launched a new service."
+   ]
+  },
+  {
+   "id": "pack2-card-169",
+   "mode": "vocab",
+   "word": "Innovation",
+   "pron": "(noun)",
+   "def": "A new idea, method, or product.\nहिंदी: नवाचार",
+   "examples": [
+    "Present: Innovation drives growth.",
+    "Past: Innovation transformed the industry.",
+    "Future: Innovation will create new jobs.",
+    "Perfect: The sector has seen rapid innovation."
+   ]
+  },
+  {
+   "id": "pack2-card-170",
+   "mode": "vocab",
+   "word": "Disrupt",
+   "pron": "(verb)",
+   "def": "To change an industry drastically.\nहिंदी: बाधित करना / उलट-पलट करना",
+   "examples": [
+    "Present: New apps disrupt old businesses.",
+    "Past: Streaming disrupted cinemas.",
+    "Future: Electric cars will disrupt oil demand.",
+    "Perfect: Technology has disrupted banking."
+   ]
+  },
+  {
+   "id": "pack2-card-171",
+   "mode": "vocab",
+   "word": "Scale",
+   "pron": "(verb)",
+   "def": "To grow a business without losing efficiency.\nहिंदी: विस्तार करना",
+   "examples": [
+    "Present: Good firms scale smoothly.",
+    "Past: The startup scaled to ten cities.",
+    "Future: The firm will scale in Europe.",
+    "Perfect: The platform has scaled quickly."
+   ]
+  },
+  {
+   "id": "pack2-card-172",
+   "mode": "vocab",
+   "word": "Outsource",
+   "pron": "(verb)",
+   "def": "To hire another firm to do work.\nहिंदी: बाहर से काम कराना",
+   "examples": [
+    "Present: Companies outsource support.",
+    "Past: The firm outsourced payroll.",
+    "Future: It will outsource manufacturing.",
+    "Perfect: Many banks have outsourced services."
+   ]
+  },
+  {
+   "id": "pack2-card-173",
+   "mode": "vocab",
+   "word": "Franchise",
+   "pron": "(noun)",
+   "def": "A licence to run a business under a brand.\nहिंदी: फ़्रैंचाइज़ी",
+   "examples": [
+    "Present: A franchise uses a known name.",
+    "Past: He bought a franchise in 2019.",
+    "Future: The chain will sell more franchises.",
+    "Perfect: The company has franchises worldwide."
+   ]
+  },
+  {
+   "id": "pack2-card-174",
+   "mode": "vocab",
+   "word": "Entrepreneur",
+   "pron": "(noun)",
+   "def": "A person who starts and runs a business.\nहिंदी: उद्यमी",
+   "examples": [
+    "Present: An entrepreneur takes risks.",
+    "Past: The entrepreneur built an empire.",
+    "Future: The entrepreneur will open a new shop.",
+    "Perfect: She has become a successful entrepreneur."
+   ]
+  },
+  {
+   "id": "pack2-card-175",
+   "mode": "vocab",
+   "word": "Monopoly",
+   "pron": "(noun)",
+   "def": "Total control of a market by one seller.\nहिंदी: एकाधिकार",
+   "examples": [
+    "Present: A monopoly limits choice.",
+    "Past: The firm held a monopoly for decades.",
+    "Future: Regulators will break the monopoly.",
+    "Perfect: The company has tried to build a monopoly."
+   ]
+  },
+  {
+   "id": "pack2-card-176",
+   "mode": "vocab",
+   "word": "Competitor",
+   "pron": "(noun)",
+   "def": "A rival in business.\nहिंदी: प्रतिस्पर्धी",
+   "examples": [
+    "Present: A competitor watches your prices.",
+    "Past: A competitor launched a cheaper model.",
+    "Future: A competitor will enter the market.",
+    "Perfect: Rivals have copied the design."
+   ]
+  },
+  {
+   "id": "pack2-card-177",
+   "mode": "vocab",
+   "word": "Audit",
+   "pron": "(noun)",
+   "def": "An official check of accounts.\nहिंदी: लेखा-परीक्षण",
+   "examples": [
+    "Present: An audit reveals errors.",
+    "Past: The audit found missing funds.",
+    "Future: An audit will start next week.",
+    "Perfect: Inspectors have completed the audit."
+   ]
+  },
+  {
+   "id": "pack2-card-178",
+   "mode": "vocab",
+   "word": "Fraud",
+   "pron": "(noun)",
+   "def": "Crime of deceiving for money.\nहिंदी: धोखाधड़ी",
+   "examples": [
+    "Present: Fraud costs billions each year.",
+    "Past: The bank detected the fraud.",
+    "Future: Police will investigate the fraud.",
+    "Perfect: Authorities have uncovered fraud."
+   ]
+  },
+  {
+   "id": "pack2-card-179",
+   "mode": "vocab",
+   "word": "Embezzle",
+   "pron": "(verb)",
+   "def": "To steal money entrusted to you.\nहिंदी: गबन करना",
+   "examples": [
+    "Present: Dishonest clerks embezzle funds.",
+    "Past: He embezzled company money.",
+    "Future: Auditors will find any embezzled funds.",
+    "Perfect: The manager has embezzled millions."
+   ]
+  },
+  {
+   "id": "pack2-card-180",
+   "mode": "vocab",
+   "word": "Taxation",
+   "pron": "(noun)",
+   "def": "The system of collecting taxes.\nहिंदी: कराधान",
+   "examples": [
+    "Present: Taxation funds public services.",
+    "Past: Taxation reform began in 2017.",
+    "Future: Taxation will become simpler.",
+    "Perfect: The state has increased taxation."
+   ]
+  },
+  {
+   "id": "pack2-card-181",
+   "mode": "vocab",
+   "word": "Evade",
+   "pron": "(verb)",
+   "def": "To avoid paying, especially illegally.\nहिंदी: बचना / चोरी करना",
+   "examples": [
+    "Present: Some people evade taxes.",
+    "Past: The firm evaded duties for years.",
+    "Future: Officials will catch anyone who evades tax.",
+    "Perfect: He has evaded payment."
+   ]
+  },
+  {
+   "id": "pack2-card-182",
+   "mode": "vocab",
+   "word": "Revenue stream",
+   "pron": "(noun)",
+   "def": "A source of income for a business.\nहिंदी: आय का स्रोत",
+   "examples": [
+    "Present: A new stream adds stability.",
+    "Past: Ads became its main revenue stream.",
+    "Future: Subscriptions will be a revenue stream.",
+    "Perfect: The firm has found a new revenue stream."
+   ]
+  },
+  {
+   "id": "pack2-card-183",
+   "mode": "vocab",
+   "word": "Sustainable",
+   "pron": "(adjective)",
+   "def": "Able to continue without harming resources.\nहिंदी: टिकाऊ",
+   "examples": [
+    "Present: Sustainable growth lasts longer.",
+    "Past: The plan was sustainable.",
+    "Future: Sustainable fashion will grow.",
+    "Perfect: The firm has adopted sustainable methods."
+   ]
+  },
+  {
+   "id": "pack2-card-184",
+   "mode": "vocab",
+   "word": "Infrastructure",
+   "pron": "(noun)",
+   "def": "Basic systems like roads and power.\nहिंदी: बुनियादी ढाँचा",
+   "examples": [
+    "Present: Infrastructure supports growth.",
+    "Past: Infrastructure improved after the plan.",
+    "Future: Infrastructure will expand next year.",
+    "Perfect: The state has invested in infrastructure."
+   ]
+  },
+  {
+   "id": "pack2-card-185",
+   "mode": "vocab",
+   "word": "Tender",
+   "pron": "(noun)",
+   "def": "A formal offer to carry out work at a stated price.\nहिंदी: निविदा",
+   "examples": [
+    "Present: A tender invites bids.",
+    "Past: The firm won the tender.",
+    "Future: The government will issue a tender.",
+    "Perfect: Companies have submitted tenders."
+   ]
+  },
+  {
+   "id": "pack2-card-186",
+   "mode": "vocab",
+   "word": "Contract",
+   "pron": "(noun)",
+   "def": "A legal agreement.\nहिंदी: अनुबंध",
+   "examples": [
+    "Present: A contract protects both parties.",
+    "Past: She signed a contract in May.",
+    "Future: The contract will run for five years.",
+    "Perfect: The firm has secured a large contract."
+   ]
+  },
+  {
+   "id": "pack2-card-187",
+   "mode": "vocab",
+   "word": "Bid",
+   "pron": "(verb)",
+   "def": "To offer a price or proposal.\nहिंदी: बोली लगाना",
+   "examples": [
+    "Present: Firms bid for projects.",
+    "Past: Three companies bid for the road.",
+    "Future: Developers will bid next week.",
+    "Perfect: Many bidders have bid for the land."
+   ]
+  },
+  {
+   "id": "pack2-card-188",
+   "mode": "vocab",
+   "word": "Stake",
+   "pron": "(noun)",
+   "def": "A share or interest in something.\nहिंदी: हिस्सेदारी",
+   "examples": [
+    "Present: A stake gives influence.",
+    "Past: He sold his stake in the firm.",
+    "Future: The state will keep a stake.",
+    "Perfect: The fund has acquired a stake."
+   ]
+  },
+  {
+   "id": "pack2-card-189",
+   "mode": "vocab",
+   "word": "Valuation",
+   "pron": "(noun)",
+   "def": "An estimate of how much something is worth.\nहिंदी: मूल्यांकन",
+   "examples": [
+    "Present: Valuation depends on growth.",
+    "Past: The valuation jumped to a billion.",
+    "Future: The valuation will rise after listing.",
+    "Perfect: Analysts have lowered the valuation."
+   ]
+  },
+  {
+   "id": "pack2-card-190",
+   "mode": "vocab",
+   "word": "Listing",
+   "pron": "(noun)",
+   "def": "Admitting a company's shares to a stock exchange.\nहिंदी: सूचीबद्धता",
+   "examples": [
+    "Present: A listing brings in funds.",
+    "Past: The listing raised a billion.",
+    "Future: The listing will happen in autumn.",
+    "Perfect: The firm has completed its listing."
+   ]
+  },
+  {
+   "id": "pack2-card-191",
+   "mode": "vocab",
+   "word": "Benchmark",
+   "pron": "(noun)",
+   "def": "A standard used for comparison.\nहिंदी: मानक / कसौटी",
+   "examples": [
+    "Present: A benchmark measures performance.",
+    "Past: The index acted as a benchmark.",
+    "Future: The new figure will become the benchmark.",
+    "Perfect: Analysts have set a benchmark."
+   ]
+  },
+  {
+   "id": "pack2-card-192",
+   "mode": "vocab",
+   "word": "Slowdown",
+   "pron": "(noun)",
+   "def": "A reduction in the speed of growth.\nहिंदी: मंदी / धीमापन",
+   "examples": [
+    "Present: A slowdown worries traders.",
+    "Past: A slowdown followed the crisis.",
+    "Future: A slowdown will affect jobs.",
+    "Perfect: The economy has seen a slowdown."
+   ]
+  }
+ ]
+}

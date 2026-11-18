@@ -1,0 +1,1334 @@
+{
+ "id": "pack2-deck-1",
+ "categoryId": "pack2-cat-1",
+ "title": "Newspaper: Politics & Government",
+ "sub": "Words you meet daily in headlines on elections, laws, and governance.",
+ "cards": [
+  {
+   "id": "pack2-card-1",
+   "mode": "vocab",
+   "word": "Legislation",
+   "pron": "(noun)",
+   "def": "Laws collectively, or the process of making them.\nहिंदी: कानून / विधान",
+   "examples": [
+    "Present: The parliament debates new legislation every session.",
+    "Past: The government passed sweeping legislation last year.",
+    "Future: The new legislation will take effect in April.",
+    "Perfect: Lawmakers have drafted legislation on data privacy."
+   ]
+  },
+  {
+   "id": "pack2-card-2",
+   "mode": "vocab",
+   "word": "Coalition",
+   "pron": "(noun)",
+   "def": "An alliance of parties joining to govern or act together.\nहिंदी: गठबंधन",
+   "examples": [
+    "Present: A coalition rules the state.",
+    "Past: The parties formed a coalition after the vote.",
+    "Future: The coalition will face a tough test in the budget.",
+    "Perfect: The coalition has held together for two years."
+   ]
+  },
+  {
+   "id": "pack2-card-3",
+   "mode": "vocab",
+   "word": "Opposition",
+   "pron": "(noun)",
+   "def": "Parties or people who resist the government's policies.\nहिंदी: विपक्ष",
+   "examples": [
+    "Present: The opposition criticises every budget.",
+    "Past: The opposition walked out of the house.",
+    "Future: The opposition will challenge the bill in court.",
+    "Perfect: The opposition has demanded a debate."
+   ]
+  },
+  {
+   "id": "pack2-card-4",
+   "mode": "vocab",
+   "word": "Mandate",
+   "pron": "(noun)",
+   "def": "The authority to act given by voters.\nहिंदी: जनादेश",
+   "examples": [
+    "Present: A strong mandate lets a party act boldly.",
+    "Past: Voters gave her a clear mandate.",
+    "Future: The mandate will shape the next five years.",
+    "Perfect: The party has claimed a mandate for reform."
+   ]
+  },
+  {
+   "id": "pack2-card-5",
+   "mode": "vocab",
+   "word": "Incumbent",
+   "pron": "(noun)",
+   "def": "The person currently holding an office.\nहिंदी: पदधारी",
+   "examples": [
+    "Present: The incumbent usually has a funding edge.",
+    "Past: The incumbent lost by a narrow margin.",
+    "Future: The incumbent will seek a second term.",
+    "Perfect: The incumbent has led the polls all year."
+   ]
+  },
+  {
+   "id": "pack2-card-6",
+   "mode": "vocab",
+   "word": "Constituency",
+   "pron": "(noun)",
+   "def": "A district whose voters elect a representative.\nहिंदी: निर्वाचन क्षेत्र",
+   "examples": [
+    "Present: She visits her constituency every weekend.",
+    "Past: He won his constituency by ten thousand votes.",
+    "Future: The constituency will vote on Sunday.",
+    "Perfect: The constituency has elected the same party since 1990."
+   ]
+  },
+  {
+   "id": "pack2-card-7",
+   "mode": "vocab",
+   "word": "Electorate",
+   "pron": "(noun)",
+   "def": "All the people entitled to vote.\nहिंदी: मतदाता वर्ग",
+   "examples": [
+    "Present: The electorate expects jobs and stable prices.",
+    "Past: The electorate rejected the ruling party.",
+    "Future: The electorate will decide in November.",
+    "Perfect: The electorate has grown younger."
+   ]
+  },
+  {
+   "id": "pack2-card-8",
+   "mode": "vocab",
+   "word": "Ballot",
+   "pron": "(noun)",
+   "def": "A vote, or the paper or system used to cast it.\nहिंदी: मतपत्र / मतदान",
+   "examples": [
+    "Present: Each voter casts a ballot in secret.",
+    "Past: Millions cast their ballot yesterday.",
+    "Future: Counting of the ballot will begin at dawn.",
+    "Perfect: Officials have secured every ballot box."
+   ]
+  },
+  {
+   "id": "pack2-card-9",
+   "mode": "vocab",
+   "word": "Campaign",
+   "pron": "(verb)",
+   "def": "To work in an organised way to win votes or support.\nहिंदी: अभियान चलाना",
+   "examples": [
+    "Present: She campaigns on healthcare.",
+    "Past: He campaigned across ten states.",
+    "Future: They will campaign door to door.",
+    "Perfect: The party has campaigned for months."
+   ]
+  },
+  {
+   "id": "pack2-card-10",
+   "mode": "vocab",
+   "word": "Manifesto",
+   "pron": "(noun)",
+   "def": "A published statement of a party's aims.\nहिंदी: घोषणापत्र",
+   "examples": [
+    "Present: Every party releases a manifesto before polls.",
+    "Past: The party released its manifesto in March.",
+    "Future: The manifesto will promise free education.",
+    "Perfect: The party has revised its manifesto."
+   ]
+  },
+  {
+   "id": "pack2-card-11",
+   "mode": "vocab",
+   "word": "Referendum",
+   "pron": "(noun)",
+   "def": "A direct vote on a single question.\nहिंदी: जनमत संग्रह",
+   "examples": [
+    "Present: A referendum lets citizens decide one issue.",
+    "Past: The country held a referendum on independence.",
+    "Future: A referendum will settle the matter.",
+    "Perfect: The nation has never held a referendum before."
+   ]
+  },
+  {
+   "id": "pack2-card-12",
+   "mode": "vocab",
+   "word": "Amendment",
+   "pron": "(noun)",
+   "def": "A formal change to a law or constitution.\nहिंदी: संशोधन",
+   "examples": [
+    "Present: An amendment needs a two-thirds majority.",
+    "Past: Parliament passed the amendment unanimously.",
+    "Future: The amendment will protect free speech.",
+    "Perfect: Lawmakers have proposed an amendment."
+   ]
+  },
+  {
+   "id": "pack2-card-13",
+   "mode": "vocab",
+   "word": "Veto",
+   "pron": "(verb)",
+   "def": "To officially reject a proposed law.\nहिंदी: वीटो करना",
+   "examples": [
+    "Present: The president can veto a bill.",
+    "Past: The governor vetoed the budget.",
+    "Future: The president will veto the measure.",
+    "Perfect: She has vetoed three bills this year."
+   ]
+  },
+  {
+   "id": "pack2-card-14",
+   "mode": "vocab",
+   "word": "Ratify",
+   "pron": "(verb)",
+   "def": "To formally approve a treaty or agreement.\nहिंदी: अनुमोदन करना",
+   "examples": [
+    "Present: Members ratify the treaty by vote.",
+    "Past: The senate ratified the pact last week.",
+    "Future: Parliament will ratify the deal soon.",
+    "Perfect: Twenty countries have ratified the accord."
+   ]
+  },
+  {
+   "id": "pack2-card-15",
+   "mode": "vocab",
+   "word": "Dissolve",
+   "pron": "(verb)",
+   "def": "To formally end a parliament or assembly.\nहिंदी: भंग करना",
+   "examples": [
+    "Present: The president dissolves the house on advice.",
+    "Past: The prime minister dissolved parliament.",
+    "Future: The assembly will dissolve in June.",
+    "Perfect: The council has dissolved itself."
+   ]
+  },
+  {
+   "id": "pack2-card-16",
+   "mode": "vocab",
+   "word": "Impeach",
+   "pron": "(verb)",
+   "def": "To charge a public official with serious misconduct.\nहिंदी: महाभियोग चलाना",
+   "examples": [
+    "Present: Congress can impeach a president.",
+    "Past: The house impeached the judge.",
+    "Future: Lawmakers will impeach him if he refuses.",
+    "Perfect: They have impeached two officials."
+   ]
+  },
+  {
+   "id": "pack2-card-17",
+   "mode": "vocab",
+   "word": "Resign",
+   "pron": "(verb)",
+   "def": "To voluntarily leave a job or position.\nहिंदी: इस्तीफ़ा देना",
+   "examples": [
+    "Present: Ministers resign when scandals break.",
+    "Past: The minister resigned on Monday.",
+    "Future: She will resign next month.",
+    "Perfect: He has resigned from the cabinet."
+   ]
+  },
+  {
+   "id": "pack2-card-18",
+   "mode": "vocab",
+   "word": "Appoint",
+   "pron": "(verb)",
+   "def": "To choose someone for a job or role.\nहिंदी: नियुक्त करना",
+   "examples": [
+    "Present: The president appoints the judges.",
+    "Past: They appointed a new chief secretary.",
+    "Future: The board will appoint a successor.",
+    "Perfect: The cabinet has appointed an envoy."
+   ]
+  },
+  {
+   "id": "pack2-card-19",
+   "mode": "vocab",
+   "word": "Endorse",
+   "pron": "(verb)",
+   "def": "To publicly support a person or plan.\nहिंदी: समर्थन करना",
+   "examples": [
+    "Present: Unions endorse the candidate.",
+    "Past: The newspaper endorsed her campaign.",
+    "Future: The party will endorse the proposal.",
+    "Perfect: Several mayors have endorsed the plan."
+   ]
+  },
+  {
+   "id": "pack2-card-20",
+   "mode": "vocab",
+   "word": "Boycott",
+   "pron": "(verb)",
+   "def": "To refuse to take part as a protest.\nहिंदी: बहिष्कार करना",
+   "examples": [
+    "Present: Some members boycott the session.",
+    "Past: The opposition boycotted the vote.",
+    "Future: They will boycott the ceremony.",
+    "Perfect: Voters have boycotted the polls."
+   ]
+  },
+  {
+   "id": "pack2-card-21",
+   "mode": "vocab",
+   "word": "Filibuster",
+   "pron": "(noun)",
+   "def": "A long speech meant to delay a vote.\nहिंदी: लंबा भाषण देकर बाधा डालना",
+   "examples": [
+    "Present: A filibuster can stall a bill.",
+    "Past: The senator filibustered for ten hours.",
+    "Future: The minority will filibuster the bill.",
+    "Perfect: They have filibustered all week."
+   ]
+  },
+  {
+   "id": "pack2-card-22",
+   "mode": "vocab",
+   "word": "Bipartisan",
+   "pron": "(adjective)",
+   "def": "Involving two main political parties.\nहिंदी: द्विदलीय",
+   "examples": [
+    "Present: A bipartisan bill has wide support.",
+    "Past: A bipartisan group drafted the law.",
+    "Future: A bipartisan panel will review it.",
+    "Perfect: Both sides have reached a bipartisan deal."
+   ]
+  },
+  {
+   "id": "pack2-card-23",
+   "mode": "vocab",
+   "word": "Partisan",
+   "pron": "(adjective)",
+   "def": "Strongly supporting one party or cause.\nहिंदी: पक्षपाती",
+   "examples": [
+    "Present: Partisan debates rarely change minds.",
+    "Past: The hearing turned partisan quickly.",
+    "Future: Media coverage will stay partisan.",
+    "Perfect: The issue has become highly partisan."
+   ]
+  },
+  {
+   "id": "pack2-card-24",
+   "mode": "vocab",
+   "word": "Liberal",
+   "pron": "(adjective)",
+   "def": "Open to new ideas and individual freedoms.\nहिंदी: उदारवादी",
+   "examples": [
+    "Present: She holds liberal views on trade.",
+    "Past: The party took a liberal stance.",
+    "Future: A liberal government will cut barriers.",
+    "Perfect: He has always been liberal on social issues."
+   ]
+  },
+  {
+   "id": "pack2-card-25",
+   "mode": "vocab",
+   "word": "Conservative",
+   "pron": "(adjective)",
+   "def": "Favouring traditional values and gradual change.\nहिंदी: रूढ़िवादी",
+   "examples": [
+    "Present: He is conservative about spending.",
+    "Past: The bank adopted a conservative strategy.",
+    "Future: A conservative government will cut taxes.",
+    "Perfect: She has remained conservative in her views."
+   ]
+  },
+  {
+   "id": "pack2-card-26",
+   "mode": "vocab",
+   "word": "Radical",
+   "pron": "(adjective)",
+   "def": "Far-reaching and extreme in change sought.\nहिंदी: आमूलचूल / उग्र",
+   "examples": [
+    "Present: Radical ideas often meet resistance.",
+    "Past: The minister proposed a radical reform.",
+    "Future: The plan will bring radical changes.",
+    "Perfect: He has always held radical views."
+   ]
+  },
+  {
+   "id": "pack2-card-27",
+   "mode": "vocab",
+   "word": "Moderate",
+   "pron": "(adjective)",
+   "def": "Avoiding extremes; reasonable.\nहिंदी: मध्यम मार्गी",
+   "examples": [
+    "Present: Moderate voters decide most elections.",
+    "Past: She struck a moderate tone.",
+    "Future: The party will choose a moderate leader.",
+    "Perfect: He has remained moderate throughout."
+   ]
+  },
+  {
+   "id": "pack2-card-28",
+   "mode": "vocab",
+   "word": "Democracy",
+   "pron": "(noun)",
+   "def": "A system where citizens choose their rulers by voting.\nहिंदी: लोकतंत्र",
+   "examples": [
+    "Present: A democracy protects free speech.",
+    "Past: The nation became a democracy in 1950.",
+    "Future: A strong democracy will outlast crises.",
+    "Perfect: The country has remained a democracy."
+   ]
+  },
+  {
+   "id": "pack2-card-29",
+   "mode": "vocab",
+   "word": "Autocracy",
+   "pron": "(noun)",
+   "def": "Rule by one person with unlimited power.\nहिंदी: निरंकुश शासन",
+   "examples": [
+    "Present: An autocracy silences critics.",
+    "Past: The country slid into autocracy.",
+    "Future: Autocracy will fail without public trust.",
+    "Perfect: The state has drifted toward autocracy."
+   ]
+  },
+  {
+   "id": "pack2-card-30",
+   "mode": "vocab",
+   "word": "Regime",
+   "pron": "(noun)",
+   "def": "A government, especially a harsh or undemocratic one.\nहिंदी: शासन-व्यवस्था",
+   "examples": [
+    "Present: The regime controls the press.",
+    "Past: The regime collapsed in 1991.",
+    "Future: The regime will face sanctions.",
+    "Perfect: The regime has jailed many critics."
+   ]
+  },
+  {
+   "id": "pack2-card-31",
+   "mode": "vocab",
+   "word": "Sovereign",
+   "pron": "(adjective)",
+   "def": "Having supreme, independent authority.\nहिंदी: संप्रभु",
+   "examples": [
+    "Present: A sovereign nation makes its own laws.",
+    "Past: The island became a sovereign state in 1960.",
+    "Future: The territory will remain sovereign.",
+    "Perfect: The state has declared itself sovereign."
+   ]
+  },
+  {
+   "id": "pack2-card-32",
+   "mode": "vocab",
+   "word": "Diplomacy",
+   "pron": "(noun)",
+   "def": "Managing relations between countries peacefully.\nहिंदी: कूटनीति",
+   "examples": [
+    "Present: Quiet diplomacy often avoids war.",
+    "Past: Diplomacy ended the standoff.",
+    "Future: Diplomacy will be tested at the summit.",
+    "Perfect: Envoys have relied on diplomacy for years."
+   ]
+  },
+  {
+   "id": "pack2-card-33",
+   "mode": "vocab",
+   "word": "Envoy",
+   "pron": "(noun)",
+   "def": "A representative sent on a special mission.\nहिंदी: दूत",
+   "examples": [
+    "Present: The envoy meets leaders abroad.",
+    "Past: The envoy travelled to Geneva.",
+    "Future: The envoy will deliver the message.",
+    "Perfect: The envoy has met both sides."
+   ]
+  },
+  {
+   "id": "pack2-card-34",
+   "mode": "vocab",
+   "word": "Embassy",
+   "pron": "(noun)",
+   "def": "An ambassador's offices in a foreign country.\nहिंदी: दूतावास",
+   "examples": [
+    "Present: The embassy helps citizens abroad.",
+    "Past: Protesters gathered outside the embassy.",
+    "Future: The embassy will reopen next week.",
+    "Perfect: The embassy has issued a travel warning."
+   ]
+  },
+  {
+   "id": "pack2-card-35",
+   "mode": "vocab",
+   "word": "Sanction",
+   "pron": "(noun)",
+   "def": "A penalty imposed on a country for breaking rules.\nहिंदी: प्रतिबंध",
+   "examples": [
+    "Present: Sanctions hurt the economy.",
+    "Past: The UN imposed sanctions in 2018.",
+    "Future: New sanctions will target banks.",
+    "Perfect: Several nations have eased sanctions."
+   ]
+  },
+  {
+   "id": "pack2-card-36",
+   "mode": "vocab",
+   "word": "Summit",
+   "pron": "(noun)",
+   "def": "A meeting of top leaders.\nहिंदी: शिखर सम्मेलन",
+   "examples": [
+    "Present: The summit brings leaders together yearly.",
+    "Past: The summit ended without a deal.",
+    "Future: The summit will focus on climate.",
+    "Perfect: Leaders have attended the summit."
+   ]
+  },
+  {
+   "id": "pack2-card-37",
+   "mode": "vocab",
+   "word": "Treaty",
+   "pron": "(noun)",
+   "def": "A formal agreement between countries.\nहिंदी: संधि",
+   "examples": [
+    "Present: A treaty binds all signatories.",
+    "Past: They signed the treaty in 1998.",
+    "Future: The treaty will ban nuclear tests.",
+    "Perfect: Many nations have joined the treaty."
+   ]
+  },
+  {
+   "id": "pack2-card-38",
+   "mode": "vocab",
+   "word": "Alliance",
+   "pron": "(noun)",
+   "def": "A union formed for shared aims.\nहिंदी: गठजोड़",
+   "examples": [
+    "Present: An alliance gives members security.",
+    "Past: The two nations formed an alliance.",
+    "Future: The alliance will expand next year.",
+    "Perfect: The alliance has grown stronger."
+   ]
+  },
+  {
+   "id": "pack2-card-39",
+   "mode": "vocab",
+   "word": "Bilateral",
+   "pron": "(adjective)",
+   "def": "Involving two parties or countries.\nहिंदी: द्विपक्षीय",
+   "examples": [
+    "Present: Bilateral trade is growing.",
+    "Past: The leaders held bilateral talks.",
+    "Future: A bilateral deal will be signed.",
+    "Perfect: The nations have signed a bilateral pact."
+   ]
+  },
+  {
+   "id": "pack2-card-40",
+   "mode": "vocab",
+   "word": "Multilateral",
+   "pron": "(adjective)",
+   "def": "Involving three or more countries.\nहिंदी: बहुपक्षीय",
+   "examples": [
+    "Present: Multilateral talks are complex.",
+    "Past: They pursued multilateral negotiations.",
+    "Future: A multilateral agency will oversee it.",
+    "Perfect: Nations have backed multilateral action."
+   ]
+  },
+  {
+   "id": "pack2-card-41",
+   "mode": "vocab",
+   "word": "Annex",
+   "pron": "(verb)",
+   "def": "To take over territory and add it to one's own.\nहिंदी: कब्ज़ा करना / मिला लेना",
+   "examples": [
+    "Present: Some states annex neighbouring land.",
+    "Past: The empire annexed the province.",
+    "Future: The state will annex the region.",
+    "Perfect: They have annexed the border villages."
+   ]
+  },
+  {
+   "id": "pack2-card-42",
+   "mode": "vocab",
+   "word": "Refugee",
+   "pron": "(noun)",
+   "def": "A person forced to flee their country.\nहिंदी: शरणार्थी",
+   "examples": [
+    "Present: A refugee needs shelter and safety.",
+    "Past: Thousands of refugees crossed the border.",
+    "Future: Refugees will receive temporary housing.",
+    "Perfect: The camp has sheltered refugees for years."
+   ]
+  },
+  {
+   "id": "pack2-card-43",
+   "mode": "vocab",
+   "word": "Asylum",
+   "pron": "(noun)",
+   "def": "Protection given by a country to someone fleeing danger.\nहिंदी: शरण",
+   "examples": [
+    "Present: Asylum protects those facing persecution.",
+    "Past: She was granted asylum in Canada.",
+    "Future: He will seek asylum next month.",
+    "Perfect: Thousands have applied for asylum."
+   ]
+  },
+  {
+   "id": "pack2-card-44",
+   "mode": "vocab",
+   "word": "Immigration",
+   "pron": "(noun)",
+   "def": "Moving to a foreign country to live.\nहिंदी: आव्रजन",
+   "examples": [
+    "Present: Immigration shapes the labour market.",
+    "Past: Immigration rose sharply in the 2000s.",
+    "Future: Immigration will remain a key issue.",
+    "Perfect: Immigration has changed the city."
+   ]
+  },
+  {
+   "id": "pack2-card-45",
+   "mode": "vocab",
+   "word": "Deport",
+   "pron": "(verb)",
+   "def": "To expel someone from a country.\nहिंदी: निर्वासित करना",
+   "examples": [
+    "Present: Authorities deport illegal entrants.",
+    "Past: They deported the traveller.",
+    "Future: Officials will deport him tomorrow.",
+    "Perfect: The country has deported hundreds."
+   ]
+  },
+  {
+   "id": "pack2-card-46",
+   "mode": "vocab",
+   "word": "Reform",
+   "pron": "(noun)",
+   "def": "A change made to improve a system.\nहिंदी: सुधार",
+   "examples": [
+    "Present: Reform can reduce corruption.",
+    "Past: The reform changed the pension system.",
+    "Future: Reform will begin next year.",
+    "Perfect: The government has promised reform."
+   ]
+  },
+  {
+   "id": "pack2-card-47",
+   "mode": "vocab",
+   "word": "Subsidy",
+   "pron": "(noun)",
+   "def": "Money given by government to lower the cost of something.\nहिंदी: सब्सिडी / अनुदान",
+   "examples": [
+    "Present: A subsidy helps farmers.",
+    "Past: The state cut the fuel subsidy.",
+    "Future: A subsidy will support solar power.",
+    "Perfect: Farmers have received subsidies for years."
+   ]
+  },
+  {
+   "id": "pack2-card-48",
+   "mode": "vocab",
+   "word": "Budget",
+   "pron": "(noun)",
+   "def": "A plan of expected income and spending.\nहिंदी: बजट",
+   "examples": [
+    "Present: The budget funds public services.",
+    "Past: The finance minister presented the budget.",
+    "Future: The budget will cut deficits.",
+    "Perfect: The cabinet has approved the budget."
+   ]
+  },
+  {
+   "id": "pack2-card-49",
+   "mode": "vocab",
+   "word": "Deficit",
+   "pron": "(noun)",
+   "def": "The amount by which spending exceeds income.\nहिंदी: घाटा",
+   "examples": [
+    "Present: A large deficit worries investors.",
+    "Past: The deficit widened last year.",
+    "Future: The deficit will fall by next year.",
+    "Perfect: The deficit has doubled."
+   ]
+  },
+  {
+   "id": "pack2-card-50",
+   "mode": "vocab",
+   "word": "Allocate",
+   "pron": "(verb)",
+   "def": "To set aside money or resources for a purpose.\nहिंदी: आवंटित करना",
+   "examples": [
+    "Present: Governments allocate funds yearly.",
+    "Past: They allocated billions to roads.",
+    "Future: The state will allocate more to schools.",
+    "Perfect: The council has allocated land for housing."
+   ]
+  },
+  {
+   "id": "pack2-card-51",
+   "mode": "vocab",
+   "word": "Policy",
+   "pron": "(noun)",
+   "def": "A plan of action adopted by a government.\nहिंदी: नीति",
+   "examples": [
+    "Present: Policy shapes daily life.",
+    "Past: The policy angered farmers.",
+    "Future: The policy will begin in January.",
+    "Perfect: The ministry has changed its policy."
+   ]
+  },
+  {
+   "id": "pack2-card-52",
+   "mode": "vocab",
+   "word": "Initiative",
+   "pron": "(noun)",
+   "def": "A new plan or action to solve a problem.\nहिंदी: पहल",
+   "examples": [
+    "Present: The initiative targets rural health.",
+    "Past: The mayor launched an initiative for clean water.",
+    "Future: The initiative will train young workers.",
+    "Perfect: The ministry has launched a new initiative."
+   ]
+  },
+  {
+   "id": "pack2-card-53",
+   "mode": "vocab",
+   "word": "Regulate",
+   "pron": "(verb)",
+   "def": "To control by rules.\nहिंदी: नियंत्रित करना",
+   "examples": [
+    "Present: The agency regulates drug prices.",
+    "Past: The law regulated gambling.",
+    "Future: New rules will regulate online platforms.",
+    "Perfect: The state has regulated rents."
+   ]
+  },
+  {
+   "id": "pack2-card-54",
+   "mode": "vocab",
+   "word": "Enforce",
+   "pron": "(verb)",
+   "def": "To make sure a rule is obeyed.\nहिंदी: लागू करना",
+   "examples": [
+    "Present: Police enforce traffic laws.",
+    "Past: The court enforced the order.",
+    "Future: Inspectors will enforce the ban.",
+    "Perfect: The agency has enforced strict rules."
+   ]
+  },
+  {
+   "id": "pack2-card-55",
+   "mode": "vocab",
+   "word": "Abolish",
+   "pron": "(verb)",
+   "def": "To officially end a system or practice.\nहिंदी: समाप्त करना",
+   "examples": [
+    "Present: Some argue we should abolish the tax.",
+    "Past: The nation abolished slavery in 1833.",
+    "Future: The state will abolish the levy.",
+    "Perfect: Several countries have abolished the death penalty."
+   ]
+  },
+  {
+   "id": "pack2-card-56",
+   "mode": "vocab",
+   "word": "Overhaul",
+   "pron": "(noun)",
+   "def": "A thorough examination and improvement of a system.\nहिंदी: आमूल सुधार",
+   "examples": [
+    "Present: The system needs an overhaul.",
+    "Past: The government announced an overhaul of schools.",
+    "Future: The overhaul will take two years.",
+    "Perfect: Ministers have called for an overhaul."
+   ]
+  },
+  {
+   "id": "pack2-card-57",
+   "mode": "vocab",
+   "word": "Controversial",
+   "pron": "(adjective)",
+   "def": "Causing public disagreement.\nहिंदी: विवादास्पद",
+   "examples": [
+    "Present: A controversial law divides opinion.",
+    "Past: The decision was controversial.",
+    "Future: The proposal will be controversial.",
+    "Perfect: The speech has proven controversial."
+   ]
+  },
+  {
+   "id": "pack2-card-58",
+   "mode": "vocab",
+   "word": "Scandal",
+   "pron": "(noun)",
+   "def": "An event that shocks the public because of wrongdoing.\nहिंदी: घोटाला",
+   "examples": [
+    "Present: A scandal can end a career.",
+    "Past: The scandal rocked the ministry.",
+    "Future: The scandal will hurt the party.",
+    "Perfect: A new scandal has emerged."
+   ]
+  },
+  {
+   "id": "pack2-card-59",
+   "mode": "vocab",
+   "word": "Corruption",
+   "pron": "(noun)",
+   "def": "Dishonest use of power for personal gain.\nहिंदी: भ्रष्टाचार",
+   "examples": [
+    "Present: Corruption drains public funds.",
+    "Past: Corruption led to the minister's downfall.",
+    "Future: Reform will reduce corruption.",
+    "Perfect: Investigators have exposed corruption."
+   ]
+  },
+  {
+   "id": "pack2-card-60",
+   "mode": "vocab",
+   "word": "Transparency",
+   "pron": "(noun)",
+   "def": "Openness about decisions and actions.\nहिंदी: पारदर्शिता",
+   "examples": [
+    "Present: Transparency builds public trust.",
+    "Past: The audit demanded more transparency.",
+    "Future: The law will improve transparency.",
+    "Perfect: Activists have demanded transparency."
+   ]
+  },
+  {
+   "id": "pack2-card-61",
+   "mode": "vocab",
+   "word": "Accountability",
+   "pron": "(noun)",
+   "def": "Being responsible for one's actions and answerable for them.\nहिंदी: जवाबदेही",
+   "examples": [
+    "Present: Accountability keeps officials honest.",
+    "Past: The inquiry demanded accountability.",
+    "Future: Voters will demand accountability.",
+    "Perfect: The press has pushed for accountability."
+   ]
+  },
+  {
+   "id": "pack2-card-62",
+   "mode": "vocab",
+   "word": "Bureaucracy",
+   "pron": "(noun)",
+   "def": "A system of administration with many rules and officials.\nहिंदी: नौकरशाही",
+   "examples": [
+    "Present: Bureaucracy slows decisions.",
+    "Past: Bureaucracy delayed the project.",
+    "Future: Reform will cut bureaucracy.",
+    "Perfect: Red tape has grown with bureaucracy."
+   ]
+  },
+  {
+   "id": "pack2-card-63",
+   "mode": "vocab",
+   "word": "Jurisdiction",
+   "pron": "(noun)",
+   "def": "The area or matters over which an authority has power.\nहिंदी: अधिकार क्षेत्र",
+   "examples": [
+    "Present: The court has jurisdiction over contracts.",
+    "Past: The case fell outside its jurisdiction.",
+    "Future: The new agency will have national jurisdiction.",
+    "Perfect: The matter has moved to federal jurisdiction."
+   ]
+  },
+  {
+   "id": "pack2-card-64",
+   "mode": "vocab",
+   "word": "Federal",
+   "pron": "(adjective)",
+   "def": "Relating to a system where power is shared between central and state governments.\nहिंदी: संघीय",
+   "examples": [
+    "Present: Federal laws apply nationwide.",
+    "Past: The federal court overturned the ruling.",
+    "Future: A federal grant will fund the project.",
+    "Perfect: The state has joined the federal scheme."
+   ]
+  },
+  {
+   "id": "pack2-card-65",
+   "mode": "vocab",
+   "word": "Municipal",
+   "pron": "(adjective)",
+   "def": "Relating to a city or town government.\nहिंदी: नगरपालिका संबंधी",
+   "examples": [
+    "Present: Municipal services include waste collection.",
+    "Past: The municipal body repaired the roads.",
+    "Future: A municipal election will be held in May.",
+    "Perfect: The council has raised municipal taxes."
+   ]
+  },
+  {
+   "id": "pack2-card-66",
+   "mode": "vocab",
+   "word": "Cabinet",
+   "pron": "(noun)",
+   "def": "The senior ministers who advise a head of government.\nहिंदी: मंत्रिमंडल",
+   "examples": [
+    "Present: The cabinet meets weekly.",
+    "Past: The cabinet approved the plan.",
+    "Future: The cabinet will meet on Friday.",
+    "Perfect: The cabinet has reshuffled twice."
+   ]
+  },
+  {
+   "id": "pack2-card-67",
+   "mode": "vocab",
+   "word": "Reshuffle",
+   "pron": "(noun)",
+   "def": "A change in the positions of ministers or staff.\nहिंदी: फेरबदल",
+   "examples": [
+    "Present: A reshuffle can signal a new direction.",
+    "Past: The prime minister announced a reshuffle.",
+    "Future: A reshuffle will follow the elections.",
+    "Perfect: The party has seen another reshuffle."
+   ]
+  },
+  {
+   "id": "pack2-card-68",
+   "mode": "vocab",
+   "word": "Spokesperson",
+   "pron": "(noun)",
+   "def": "A person who speaks officially for a group.\nहिंदी: प्रवक्ता",
+   "examples": [
+    "Present: The spokesperson briefs the media daily.",
+    "Past: The spokesperson denied the claim.",
+    "Future: The spokesperson will address reporters.",
+    "Perfect: The spokesperson has issued a statement."
+   ]
+  },
+  {
+   "id": "pack2-card-69",
+   "mode": "vocab",
+   "word": "Allegation",
+   "pron": "(noun)",
+   "def": "A claim that someone has done wrong, not yet proven.\nहिंदी: आरोप",
+   "examples": [
+    "Present: An allegation requires evidence.",
+    "Past: The minister dismissed the allegation.",
+    "Future: Police will investigate the allegation.",
+    "Perfect: Several allegations have surfaced."
+   ]
+  },
+  {
+   "id": "pack2-card-70",
+   "mode": "vocab",
+   "word": "Probe",
+   "pron": "(noun)",
+   "def": "An investigation into something.\nहिंदी: जाँच",
+   "examples": [
+    "Present: A probe may take months.",
+    "Past: A probe revealed major errors.",
+    "Future: Authorities will launch a probe.",
+    "Perfect: The agency has begun a probe."
+   ]
+  },
+  {
+   "id": "pack2-card-71",
+   "mode": "vocab",
+   "word": "Inquiry",
+   "pron": "(noun)",
+   "def": "A formal investigation.\nहिंदी: जाँच-पड़ताल",
+   "examples": [
+    "Present: An inquiry seeks the facts.",
+    "Past: The inquiry blamed poor planning.",
+    "Future: The inquiry will report in May.",
+    "Perfect: The panel has opened an inquiry."
+   ]
+  },
+  {
+   "id": "pack2-card-72",
+   "mode": "vocab",
+   "word": "Testimony",
+   "pron": "(noun)",
+   "def": "A statement given under oath.\nहिंदी: गवाही",
+   "examples": [
+    "Present: Testimony helps reveal the truth.",
+    "Past: Her testimony shocked the court.",
+    "Future: His testimony will begin Monday.",
+    "Perfect: The witness has given powerful testimony."
+   ]
+  },
+  {
+   "id": "pack2-card-73",
+   "mode": "vocab",
+   "word": "Disclose",
+   "pron": "(verb)",
+   "def": "To make secret information known.\nहिंदी: खुलासा करना",
+   "examples": [
+    "Present: Firms must disclose their earnings.",
+    "Past: He disclosed the details to reporters.",
+    "Future: The ministry will disclose the figures.",
+    "Perfect: The company has disclosed the loss."
+   ]
+  },
+  {
+   "id": "pack2-card-74",
+   "mode": "vocab",
+   "word": "Leak",
+   "pron": "(verb)",
+   "def": "To let secret information become public.\nहिंदी: लीक करना",
+   "examples": [
+    "Present: Insiders sometimes leak documents.",
+    "Past: Someone leaked the memo.",
+    "Future: Aides will likely leak the plan.",
+    "Perfect: The report has leaked online."
+   ]
+  },
+  {
+   "id": "pack2-card-75",
+   "mode": "vocab",
+   "word": "Pledge",
+   "pron": "(verb)",
+   "def": "To promise solemnly.\nहिंदी: वादा करना",
+   "examples": [
+    "Present: Leaders pledge support in speeches.",
+    "Past: She pledged to cut taxes.",
+    "Future: The party will pledge free schooling.",
+    "Perfect: Donors have pledged billions."
+   ]
+  },
+  {
+   "id": "pack2-card-76",
+   "mode": "vocab",
+   "word": "Urge",
+   "pron": "(verb)",
+   "def": "To strongly encourage someone to act.\nहिंदी: आग्रह करना",
+   "examples": [
+    "Present: Doctors urge people to exercise.",
+    "Past: Leaders urged calm.",
+    "Future: The UN will urge restraint.",
+    "Perfect: Experts have urged action."
+   ]
+  },
+  {
+   "id": "pack2-card-77",
+   "mode": "vocab",
+   "word": "Condemn",
+   "pron": "(verb)",
+   "def": "To express strong disapproval.\nहिंदी: निंदा करना",
+   "examples": [
+    "Present: Leaders condemn violence.",
+    "Past: The president condemned the attack.",
+    "Future: The council will condemn the move.",
+    "Perfect: Many nations have condemned the decision."
+   ]
+  },
+  {
+   "id": "pack2-card-78",
+   "mode": "vocab",
+   "word": "Advocate",
+   "pron": "(verb)",
+   "def": "To publicly support a cause.\nहिंदी: वकालत करना",
+   "examples": [
+    "Present: She advocates for women's rights.",
+    "Past: He advocated lower taxes.",
+    "Future: They will advocate for change.",
+    "Perfect: Groups have advocated reform."
+   ]
+  },
+  {
+   "id": "pack2-card-79",
+   "mode": "vocab",
+   "word": "Dispute",
+   "pron": "(noun)",
+   "def": "A disagreement or argument.\nहिंदी: विवाद",
+   "examples": [
+    "Present: A dispute can delay a project.",
+    "Past: The dispute lasted a decade.",
+    "Future: The dispute will go to court.",
+    "Perfect: The neighbours have settled their dispute."
+   ]
+  },
+  {
+   "id": "pack2-card-80",
+   "mode": "vocab",
+   "word": "Stalemate",
+   "pron": "(noun)",
+   "def": "A situation where no progress is possible.\nहिंदी: गतिरोध",
+   "examples": [
+    "Present: A stalemate frustrates both sides.",
+    "Past: The talks ended in stalemate.",
+    "Future: A stalemate will prolong the strike.",
+    "Perfect: The negotiations have reached a stalemate."
+   ]
+  },
+  {
+   "id": "pack2-card-81",
+   "mode": "vocab",
+   "word": "Compromise",
+   "pron": "(noun)",
+   "def": "An agreement where each side gives something up.\nहिंदी: समझौता",
+   "examples": [
+    "Present: Compromise keeps peace.",
+    "Past: They reached a compromise on funding.",
+    "Future: A compromise will be announced soon.",
+    "Perfect: Both sides have accepted a compromise."
+   ]
+  },
+  {
+   "id": "pack2-card-82",
+   "mode": "vocab",
+   "word": "Consensus",
+   "pron": "(noun)",
+   "def": "General agreement among a group.\nहिंदी: आम सहमति",
+   "examples": [
+    "Present: Consensus is hard to build.",
+    "Past: The panel reached a consensus.",
+    "Future: A consensus will emerge by evening.",
+    "Perfect: Experts have formed a consensus."
+   ]
+  },
+  {
+   "id": "pack2-card-83",
+   "mode": "vocab",
+   "word": "Unanimous",
+   "pron": "(adjective)",
+   "def": "Agreed by everyone.\nहिंदी: सर्वसम्मत",
+   "examples": [
+    "Present: A unanimous vote is rare.",
+    "Past: The decision was unanimous.",
+    "Future: The vote will likely be unanimous.",
+    "Perfect: The board has been unanimous."
+   ]
+  },
+  {
+   "id": "pack2-card-84",
+   "mode": "vocab",
+   "word": "Quorum",
+   "pron": "(noun)",
+   "def": "The minimum number of members needed to hold a meeting.\nहिंदी: गणपूर्ति",
+   "examples": [
+    "Present: A quorum is needed to vote.",
+    "Past: The meeting lacked a quorum.",
+    "Future: The house will reach a quorum soon.",
+    "Perfect: The committee has met its quorum."
+   ]
+  },
+  {
+   "id": "pack2-card-85",
+   "mode": "vocab",
+   "word": "Adjourn",
+   "pron": "(verb)",
+   "def": "To break off a meeting until later.\nहिंदी: स्थगित करना",
+   "examples": [
+    "Present: Courts adjourn for lunch.",
+    "Past: The speaker adjourned the house.",
+    "Future: The session will adjourn at noon.",
+    "Perfect: Parliament has adjourned for the day."
+   ]
+  },
+  {
+   "id": "pack2-card-86",
+   "mode": "vocab",
+   "word": "Verdict",
+   "pron": "(noun)",
+   "def": "A decision on a disputed matter, especially by a jury.\nहिंदी: फ़ैसला",
+   "examples": [
+    "Present: The verdict ends the trial.",
+    "Past: The jury delivered its verdict.",
+    "Future: The verdict will arrive tomorrow.",
+    "Perfect: The court has reached a verdict."
+   ]
+  },
+  {
+   "id": "pack2-card-87",
+   "mode": "vocab",
+   "word": "Pilot",
+   "pron": "(noun)",
+   "def": "A small-scale trial of a plan.\nहिंदी: प्रायोगिक योजना",
+   "examples": [
+    "Present: A pilot tests an idea cheaply.",
+    "Past: The pilot ran in three towns.",
+    "Future: The pilot will begin in May.",
+    "Perfect: The state has completed the pilot."
+   ]
+  },
+  {
+   "id": "pack2-card-88",
+   "mode": "vocab",
+   "word": "Stakeholder",
+   "pron": "(noun)",
+   "def": "A person or group with an interest in a decision.\nहिंदी: हितधारक",
+   "examples": [
+    "Present: Stakeholders influence policy.",
+    "Past: Officials consulted every stakeholder.",
+    "Future: Stakeholders will meet next week.",
+    "Perfect: Stakeholders have raised concerns."
+   ]
+  },
+  {
+   "id": "pack2-card-89",
+   "mode": "vocab",
+   "word": "Grassroots",
+   "pron": "(adjective)",
+   "def": "Involving ordinary people at the local level.\nहिंदी: जमीनी स्तर का",
+   "examples": [
+    "Present: Grassroots movements shape politics.",
+    "Past: A grassroots campaign toppled the bill.",
+    "Future: Grassroots support will decide the result.",
+    "Perfect: Volunteers have built a grassroots network."
+   ]
+  },
+  {
+   "id": "pack2-card-90",
+   "mode": "vocab",
+   "word": "Lobby",
+   "pron": "(verb)",
+   "def": "To try to influence lawmakers.\nहिंदी: पैरवी करना",
+   "examples": [
+    "Present: Firms lobby for favourable rules.",
+    "Past: Farmers lobbied the minister.",
+    "Future: Groups will lobby the committee.",
+    "Perfect: The industry has lobbied for years."
+   ]
+  },
+  {
+   "id": "pack2-card-91",
+   "mode": "vocab",
+   "word": "Poll",
+   "pron": "(noun)",
+   "def": "A vote, or a survey of opinion.\nहिंदी: चुनाव / सर्वेक्षण",
+   "examples": [
+    "Present: A poll shows public mood.",
+    "Past: The poll gave her a lead.",
+    "Future: The poll will close at six.",
+    "Perfect: A new poll has been released."
+   ]
+  },
+  {
+   "id": "pack2-card-92",
+   "mode": "vocab",
+   "word": "Turnout",
+   "pron": "(noun)",
+   "def": "The number of people who vote.\nहिंदी: मतदान प्रतिशत",
+   "examples": [
+    "Present: High turnout favours change.",
+    "Past: Turnout reached seventy percent.",
+    "Future: Turnout will rise in cities.",
+    "Perfect: Turnout has fallen since 2010."
+   ]
+  },
+  {
+   "id": "pack2-card-93",
+   "mode": "vocab",
+   "word": "Swing",
+   "pron": "(noun)",
+   "def": "A shift in votes from one party to another.\nहिंदी: झुकाव / बदलाव",
+   "examples": [
+    "Present: A swing can change the result.",
+    "Past: A swing of five percent decided the seat.",
+    "Future: A swing will favour the opposition.",
+    "Perfect: A big swing has occurred."
+   ]
+  },
+  {
+   "id": "pack2-card-94",
+   "mode": "vocab",
+   "word": "Landslide",
+   "pron": "(noun)",
+   "def": "An overwhelming election victory.\nहिंदी: भारी बहुमत की जीत",
+   "examples": [
+    "Present: A landslide gives a strong mandate.",
+    "Past: She won in a landslide.",
+    "Future: A landslide will surprise analysts.",
+    "Perfect: The party has secured a landslide."
+   ]
+  },
+  {
+   "id": "pack2-card-95",
+   "mode": "vocab",
+   "word": "Concede",
+   "pron": "(verb)",
+   "def": "To admit defeat.\nहिंदी: हार मान लेना",
+   "examples": [
+    "Present: Losing candidates usually concede.",
+    "Past: He conceded the race at midnight.",
+    "Future: She will concede tomorrow.",
+    "Perfect: The rival has conceded."
+   ]
+  },
+  {
+   "id": "pack2-card-96",
+   "mode": "vocab",
+   "word": "Inaugurate",
+   "pron": "(verb)",
+   "def": "To formally begin or open something.\nहिंदी: उद्घाटन करना / पद ग्रहण कराना",
+   "examples": [
+    "Present: Leaders inaugurate new bridges.",
+    "Past: The mayor inaugurated the metro line.",
+    "Future: The president will be inaugurated in January.",
+    "Perfect: The minister has inaugurated the hospital."
+   ]
+  },
+  {
+   "id": "pack2-card-97",
+   "mode": "vocab",
+   "word": "Tenure",
+   "pron": "(noun)",
+   "def": "The time someone holds an office.\nहिंदी: कार्यकाल",
+   "examples": [
+    "Present: A long tenure brings experience.",
+    "Past: Her tenure lasted eight years.",
+    "Future: His tenure will end in May.",
+    "Perfect: His tenure has seen major change."
+   ]
+  },
+  {
+   "id": "pack2-card-98",
+   "mode": "vocab",
+   "word": "Successor",
+   "pron": "(noun)",
+   "def": "A person who follows another in a position.\nहिंदी: उत्तराधिकारी",
+   "examples": [
+    "Present: A successor takes over duties.",
+    "Past: Her successor was named quickly.",
+    "Future: A successor will be chosen next month.",
+    "Perfect: The party has named a successor."
+   ]
+  },
+  {
+   "id": "pack2-card-99",
+   "mode": "vocab",
+   "word": "Loyalist",
+   "pron": "(noun)",
+   "def": "A person who is faithful to a leader or party.\nहिंदी: वफ़ादार समर्थक",
+   "examples": [
+    "Present: A loyalist rarely criticises the leader.",
+    "Past: Loyalists filled the cabinet.",
+    "Future: Loyalists will defend the plan.",
+    "Perfect: He has remained a loyalist."
+   ]
+  },
+  {
+   "id": "pack2-card-100",
+   "mode": "vocab",
+   "word": "Dissent",
+   "pron": "(noun)",
+   "def": "Disagreement with official opinion.\nहिंदी: असहमति",
+   "examples": [
+    "Present: Dissent is vital in a democracy.",
+    "Past: The judge wrote a strong dissent.",
+    "Future: Dissent will grow if prices rise.",
+    "Perfect: The government has crushed dissent."
+   ]
+  },
+  {
+   "id": "pack2-card-101",
+   "mode": "vocab",
+   "word": "Crackdown",
+   "pron": "(noun)",
+   "def": "Strict action against illegal or unwanted behaviour.\nहिंदी: सख़्त कार्रवाई",
+   "examples": [
+    "Present: A crackdown follows protests.",
+    "Past: Police launched a crackdown on smuggling.",
+    "Future: A crackdown will begin next week.",
+    "Perfect: The state has ordered a crackdown."
+   ]
+  },
+  {
+   "id": "pack2-card-102",
+   "mode": "vocab",
+   "word": "Unrest",
+   "pron": "(noun)",
+   "def": "A state of public disturbance.\nहिंदी: अशांति",
+   "examples": [
+    "Present: Unrest often follows rising prices.",
+    "Past: Unrest spread across the capital.",
+    "Future: Unrest will worsen without jobs.",
+    "Perfect: Unrest has shaken the region."
+   ]
+  }
+ ]
+}

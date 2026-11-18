@@ -1,0 +1,606 @@
+{
+ "id": "pack3-deck-7",
+ "categoryId": "pack3-cat-1",
+ "title": "7. Psychology & Behavior",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-301",
+   "mode": "vocab",
+   "word": "Psychology",
+   "pron": "",
+   "def": "The scientific study of the mind and behavior.\nहिंदी: मनोविज्ञान",
+   "examples": [
+    "Psychology explains why people behave as they do.",
+    "Psychology helps treat mental illness.",
+    "Psychology informs education and marketing.",
+    "Psychology studies emotion and cognition."
+   ]
+  },
+  {
+   "id": "pack3-card-302",
+   "mode": "vocab",
+   "word": "Cognition",
+   "pron": "",
+   "def": "The mental process of thinking, learning, and understanding.\nहिंदी: संज्ञान / समझने-सोचने की प्रक्रिया",
+   "examples": [
+    "Cognition develops rapidly in childhood.",
+    "Cognition declines with certain illnesses.",
+    "Cognition shapes decision-making.",
+    "Cognition involves memory and attention."
+   ]
+  },
+  {
+   "id": "pack3-card-303",
+   "mode": "vocab",
+   "word": "Perception",
+   "pron": "",
+   "def": "The way the mind interprets sensory information.\nहिंदी: अनुभूति / प्रत्यक्ष बोध",
+   "examples": [
+    "Perception is shaped by experience.",
+    "Perception can be deceived by illusions.",
+    "Perception varies between people.",
+    "Perception affects how we judge others."
+   ]
+  },
+  {
+   "id": "pack3-card-304",
+   "mode": "vocab",
+   "word": "Consciousness",
+   "pron": "",
+   "def": "The state of being aware of oneself and surroundings.\nहिंदी: चेतना",
+   "examples": [
+    "Consciousness fades during deep sleep.",
+    "Consciousness defines human experience.",
+    "Consciousness is studied by neuroscience.",
+    "Consciousness can be altered by drugs."
+   ]
+  },
+  {
+   "id": "pack3-card-305",
+   "mode": "vocab",
+   "word": "Subconscious",
+   "pron": "",
+   "def": "Mental processes occurring below conscious awareness.\nहिंदी: अवचेतन",
+   "examples": [
+    "Subconscious thoughts influence behavior.",
+    "Subconscious biases affect decisions.",
+    "Subconscious mind stores memories.",
+    "Subconscious drives can be hidden."
+   ]
+  },
+  {
+   "id": "pack3-card-306",
+   "mode": "vocab",
+   "word": "Memory",
+   "pron": "",
+   "def": "The faculty of storing and recalling information.\nहिंदी: स्मृति / याददाश्त",
+   "examples": [
+    "Memory is essential for learning.",
+    "Memory weakens with age.",
+    "Memory can be distorted.",
+    "Memory strengthens with practice."
+   ]
+  },
+  {
+   "id": "pack3-card-307",
+   "mode": "vocab",
+   "word": "Attention",
+   "pron": "",
+   "def": "The focus of consciousness on a particular object.\nहिंदी: ध्यान / एकाग्रता",
+   "examples": [
+    "Attention is limited and selective.",
+    "Attention improves with training.",
+    "Attention is stolen by distractions.",
+    "Attention shapes what we remember."
+   ]
+  },
+  {
+   "id": "pack3-card-308",
+   "mode": "vocab",
+   "word": "Motivation",
+   "pron": "",
+   "def": "The internal drive to act toward a goal.\nहिंदी: प्रेरणा",
+   "examples": [
+    "Motivation fuels achievement.",
+    "Motivation can be intrinsic or extrinsic.",
+    "Motivation varies day to day.",
+    "Motivation must be sustained."
+   ]
+  },
+  {
+   "id": "pack3-card-309",
+   "mode": "vocab",
+   "word": "Emotion Regulation",
+   "pron": "",
+   "def": "The ability to manage one's emotional responses.\nहिंदी: भावनाओं पर नियंत्रण",
+   "examples": [
+    "Emotion Regulation prevents outbursts.",
+    "Emotion Regulation improves relationships.",
+    "Emotion Regulation can be learned.",
+    "Emotion Regulation reduces stress."
+   ]
+  },
+  {
+   "id": "pack3-card-310",
+   "mode": "vocab",
+   "word": "Stress",
+   "pron": "",
+   "def": "Mental or emotional strain from demands.\nहिंदी: तनाव",
+   "examples": [
+    "Stress affects physical health.",
+    "Stress can motivate or paralyze.",
+    "Stress must be managed.",
+    "Chronic stress harms the body."
+   ]
+  },
+  {
+   "id": "pack3-card-311",
+   "mode": "vocab",
+   "word": "Anxiety",
+   "pron": "",
+   "def": "A feeling of worry or unease.\nहिंदी: चिंता / घबराहट",
+   "examples": [
+    "Anxiety is a common mental condition.",
+    "Anxiety can be treated.",
+    "Anxiety affects daily functioning.",
+    "Anxiety often accompanies uncertainty."
+   ]
+  },
+  {
+   "id": "pack3-card-312",
+   "mode": "vocab",
+   "word": "Depression",
+   "pron": "",
+   "def": "A persistent feeling of sadness and loss of interest.\nहिंदी: अवसाद",
+   "examples": [
+    "Depression is a serious illness.",
+    "Depression requires treatment.",
+    "Depression affects millions worldwide.",
+    "Depression must be destigmatized."
+   ]
+  },
+  {
+   "id": "pack3-card-313",
+   "mode": "vocab",
+   "word": "Trauma",
+   "pron": "",
+   "def": "Deep psychological distress from a disturbing event.\nहिंदी: मानसिक आघात",
+   "examples": [
+    "Trauma affects mental health.",
+    "Trauma requires care and time.",
+    "Trauma can be healed.",
+    "Trauma shapes behavior."
+   ]
+  },
+  {
+   "id": "pack3-card-314",
+   "mode": "vocab",
+   "word": "Coping Mechanism",
+   "pron": "",
+   "def": "An adaptation or behavioral strategy used to manage and overcome psychological stress.\nहिंदी: सामना करने की युक्ति",
+   "examples": [
+    "Regular exercise serves as a healthy coping mechanism for managing work stress.",
+    "Therapy helps individuals replace self-destructive habits with a constructive coping mechanism.",
+    "Humor is often utilized as an instinctive coping mechanism in difficult situations.",
+    "Developing a reliable coping mechanism builds emotional stability during adversity."
+   ]
+  },
+  {
+   "id": "pack3-card-315",
+   "mode": "vocab",
+   "word": "Emotional Regulation",
+   "pron": "",
+   "def": "The ability to exert control over one's own emotional state and behavioral reactions.\nहिंदी: भावनात्मक संतुलन",
+   "examples": [
+    "Practicing mindfulness enhances emotional regulation during tense arguments.",
+    "Children develop emotional regulation through supportive parental guidance.",
+    "Poor emotional regulation often leads to impulsive decisions and volatile outbursts.",
+    "Cognitive behavioral therapy teaches practical skills for effective emotional regulation."
+   ]
+  },
+  {
+   "id": "pack3-card-316",
+   "mode": "vocab",
+   "word": "Emotional Intelligence",
+   "pron": "",
+   "def": "The ability to recognize and manage emotions.\nहिंदी: भावनात्मक बुद्धिमत्ता",
+   "examples": [
+    "Emotional Intelligence improves leadership.",
+    "Emotional Intelligence reduces conflict.",
+    "Emotional Intelligence can be learned.",
+    "Emotional Intelligence matters in workplaces."
+   ]
+  },
+  {
+   "id": "pack3-card-317",
+   "mode": "vocab",
+   "word": "Personality",
+   "pron": "",
+   "def": "The enduring patterns of thought and behavior.\nहिंदी: व्यक्तित्व",
+   "examples": [
+    "Personality develops over a lifetime.",
+    "Personality influences choices.",
+    "Personality differs across individuals.",
+    "Personality can be measured."
+   ]
+  },
+  {
+   "id": "pack3-card-318",
+   "mode": "vocab",
+   "word": "Introvert",
+   "pron": "",
+   "def": "A person who prefers solitude and inner reflection.\nहिंदी: अंतर्मुखी",
+   "examples": [
+    "Introverts recharge in solitude.",
+    "Introverts can be excellent leaders.",
+    "Introverts prefer deep conversations.",
+    "Introverts are often misunderstood."
+   ]
+  },
+  {
+   "id": "pack3-card-319",
+   "mode": "vocab",
+   "word": "Extrovert",
+   "pron": "",
+   "def": "A person who is outgoing and energized by social contact.\nहिंदी: बहिर्मुखी",
+   "examples": [
+    "Extroverts thrive in groups.",
+    "Extroverts enjoy social interaction.",
+    "Extroverts are often vocal.",
+    "Extroverts energize teams."
+   ]
+  },
+  {
+   "id": "pack3-card-320",
+   "mode": "vocab",
+   "word": "Narcissism",
+   "pron": "",
+   "def": "Excessive self-love and self-centeredness.\nहिंदी: आत्ममुग्धता",
+   "examples": [
+    "Narcissism harms relationships.",
+    "Narcissism is common in leaders.",
+    "Narcissism blocks self-reflection.",
+    "Narcissism must be checked."
+   ]
+  },
+  {
+   "id": "pack3-card-321",
+   "mode": "vocab",
+   "word": "Paranoia",
+   "pron": "",
+   "def": "Irrational suspicion of others.\nहिंदी: संदेह-रोग / वहम",
+   "examples": [
+    "Paranoia distorts reality.",
+    "Paranoia isolates individuals.",
+    "Paranoia can be treated.",
+    "Paranoia fuels mistrust."
+   ]
+  },
+  {
+   "id": "pack3-card-323",
+   "mode": "vocab",
+   "word": "Impulse",
+   "pron": "",
+   "def": "A sudden urge to act without reflection.\nहिंदी: आवेग / अचानक उठने वाली इच्छा",
+   "examples": [
+    "Impulse can lead to regret.",
+    "Impulse must be controlled.",
+    "Impulse drives rash decisions.",
+    "Impulse is common in youth."
+   ]
+  },
+  {
+   "id": "pack3-card-324",
+   "mode": "vocab",
+   "word": "Self-Control",
+   "pron": "",
+   "def": "The ability to restrain one's impulses.\nहिंदी: आत्म-नियंत्रण",
+   "examples": [
+    "Self-Control improves decision-making.",
+    "Self-Control can be learned.",
+    "Self-Control strengthens character.",
+    "Self-Control prevents mistakes."
+   ]
+  },
+  {
+   "id": "pack3-card-326",
+   "mode": "vocab",
+   "word": "Conditioning",
+   "pron": "",
+   "def": "Learning through repeated association or reinforcement.\nहिंदी: अनुकूलन / बार-बार के अभ्यास से बना व्यवहार",
+   "examples": [
+    "Conditioning explains learned behavior.",
+    "Conditioning shapes responses.",
+    "Conditioning is used in therapy.",
+    "Conditioning can be positive or negative."
+   ]
+  },
+  {
+   "id": "pack3-card-327",
+   "mode": "vocab",
+   "word": "Heuristic",
+   "pron": "",
+   "def": "A mental shortcut or rule of thumb that facilitates rapid problem-solving and decision- making.\nहिंदी: अनुमान-आधारित तरीका / मोटा नियम",
+   "examples": [
+    "The brain frequently relies on a heuristic to make quick judgments with incomplete data.",
+    "While useful for everyday efficiency, a heuristic can occasionally lead to systemic bias.",
+    "The availability heuristic makes people overestimate the likelihood of sensational events.",
+    "Experienced doctors use clinical heuristics to assess emergency room patients rapidly."
+   ]
+  },
+  {
+   "id": "pack3-card-328",
+   "mode": "vocab",
+   "word": "Cognitive Dissonance",
+   "pron": "",
+   "def": "Mental discomfort from conflicting beliefs.\nहिंदी: संज्ञानात्मक असंगति / मन की उलझन",
+   "examples": [
+    "Cognitive Dissonance causes discomfort.",
+    "Cognitive Dissonance drives rationalization.",
+    "Cognitive Dissonance affects choices.",
+    "Cognitive Dissonance explains denial."
+   ]
+  },
+  {
+   "id": "pack3-card-329",
+   "mode": "vocab",
+   "word": "Confirmation Bias",
+   "pron": "",
+   "def": "The tendency to favor information that confirms beliefs.\nहिंदी: पुष्टि-पूर्वाग्रह",
+   "examples": [
+    "Confirmation Bias distorts reasoning.",
+    "Confirmation Bias fuels polarization.",
+    "Confirmation Bias affects research.",
+    "Confirmation Bias must be countered."
+   ]
+  },
+  {
+   "id": "pack3-card-330",
+   "mode": "vocab",
+   "word": "Group Dynamics",
+   "pron": "",
+   "def": "The behaviors and interactions within a group.\nहिंदी: समूह की गतिशीलता",
+   "examples": [
+    "Group Dynamics shape decisions.",
+    "Group Dynamics affect teamwork.",
+    "Group Dynamics can encourage conformity.",
+    "Group Dynamics must be managed."
+   ]
+  },
+  {
+   "id": "pack3-card-331",
+   "mode": "vocab",
+   "word": "Social Influence",
+   "pron": "",
+   "def": "The way others affect our thoughts and actions.\nहिंदी: सामाजिक प्रभाव",
+   "examples": [
+    "Social Influence shapes behavior.",
+    "Social Influence can be positive or negative.",
+    "Social Influence explains conformity.",
+    "Social Influence affects choices."
+   ]
+  },
+  {
+   "id": "pack3-card-332",
+   "mode": "vocab",
+   "word": "Peer Pressure",
+   "pron": "",
+   "def": "Influence from one's social group.\nहिंदी: साथियों का दबाव",
+   "examples": [
+    "Peer Pressure affects youth.",
+    "Peer Pressure can be positive.",
+    "Peer Pressure can lead to bad choices.",
+    "Peer Pressure must be resisted wisely."
+   ]
+  },
+  {
+   "id": "pack3-card-333",
+   "mode": "vocab",
+   "word": "Compliance",
+   "pron": "",
+   "def": "The act or habit of yielding to an explicit request, command, or regulatory standard.\nहिंदी: अनुपालन / बात मान लेना",
+   "examples": [
+    "The experiment examined how social authority elicits unquestioning compliance.",
+    "Organizations implement strict policies to guarantee regulatory compliance.",
+    "Compliance motivated by fear of punishment rarely results in genuine loyalty.",
+    "The foot-in-the-door technique is a classic persuasion tactic to gain compliance."
+   ]
+  },
+  {
+   "id": "pack3-card-334",
+   "mode": "vocab",
+   "word": "Bystander Effect",
+   "pron": "",
+   "def": "The psychological phenomenon where individuals are less likely to offer help to a victim when others are present.\nहिंदी: दर्शक प्रभाव / दूसरों के भरोसे मदद न करना",
+   "examples": [
+    "Social psychologists study the bystander effect to understand why crowds fail to intervene in emergencies.",
+    "The bystander effect diminishes rapidly when a specific individual is directly tasked with calling for help.",
+    "Public awareness training encourages citizens to overcome the bystander effect and render immediate aid.",
+    "In dense metropolitan cities, the bystander effect can lead to shocking neglect of injured pedestrians."
+   ]
+  },
+  {
+   "id": "pack3-card-335",
+   "mode": "vocab",
+   "word": "Prosocial Behavior",
+   "pron": "",
+   "def": "Voluntary behavior intended specifically to benefit, support, or assist other people.\nहिंदी: समाज-हितैषी व्यवहार",
+   "examples": [
+    "Volunteering at a community kitchen is a classic example of prosocial behavior.",
+    "Schools encourage prosocial behavior through cooperative classroom activities.",
+    "Empathy is a powerful psychological trigger that stimulates prosocial behavior.",
+    "Witnessing generosity inspires observers to engage in prosocial behavior."
+   ]
+  },
+  {
+   "id": "pack3-card-336",
+   "mode": "vocab",
+   "word": "Hostility",
+   "pron": "",
+   "def": "Unfriendly, aggressive, or antagonistic behavior and attitudes toward others.\nहिंदी: शत्रुता",
+   "examples": [
+    "Prolonged workplace hostility severely undermines employee morale and productivity.",
+    "Diplomats worked tirelessly to de-escalate growing military hostility along the border.",
+    "Underlying insecurity can manifest outwardly as unwarranted interpersonal hostility.",
+    "Mediation sessions aim to reduce deep-seated hostility between disputing parties."
+   ]
+  },
+  {
+   "id": "pack3-card-338",
+   "mode": "vocab",
+   "word": "Identity Crisis",
+   "pron": "",
+   "def": "A period of uncertainty about one's self.\nहिंदी: पहचान का संकट",
+   "examples": [
+    "Identity Crisis is common in youth.",
+    "Identity Crisis shapes growth.",
+    "Identity Crisis can be resolved.",
+    "Identity Crisis affects choices."
+   ]
+  },
+  {
+   "id": "pack3-card-339",
+   "mode": "vocab",
+   "word": "Self-Esteem",
+   "pron": "",
+   "def": "One's overall sense of self-worth.\nहिंदी: आत्म-सम्मान",
+   "examples": [
+    "Self-Esteem affects behavior.",
+    "Self-Esteem can be built.",
+    "Self-Esteem influences choices.",
+    "Low Self-Esteem harms health."
+   ]
+  },
+  {
+   "id": "pack3-card-340",
+   "mode": "vocab",
+   "word": "Well-Being",
+   "pron": "",
+   "def": "A state of health, happiness, and contentment.\nहिंदी: कुशल-मंगल / सुख-स्वास्थ्य",
+   "examples": [
+    "Well-Being is more than wealth.",
+    "Well-Being requires balance.",
+    "Well-Being must be prioritized.",
+    "Well-Being affects productivity."
+   ]
+  },
+  {
+   "id": "pack3-card-341",
+   "mode": "vocab",
+   "word": "Mindfulness",
+   "pron": "",
+   "def": "The practice of being present in the moment.\nहिंदी: सजगता / वर्तमान में ध्यान",
+   "examples": [
+    "Mindfulness reduces stress.",
+    "Mindfulness improves focus.",
+    "Mindfulness can be practiced daily.",
+    "Mindfulness builds self-awareness."
+   ]
+  },
+  {
+   "id": "pack3-card-342",
+   "mode": "vocab",
+   "word": "Meditation",
+   "pron": "",
+   "def": "A practice of focused attention for calm and clarity.\nहिंदी: ध्यान-साधना",
+   "examples": [
+    "Meditation calms the mind.",
+    "Meditation improves concentration.",
+    "Meditation is practiced worldwide.",
+    "Meditation reduces anxiety."
+   ]
+  },
+  {
+   "id": "pack3-card-344",
+   "mode": "vocab",
+   "word": "Counseling",
+   "pron": "",
+   "def": "Guidance to help people manage problems.\nहिंदी: परामर्श",
+   "examples": [
+    "Counseling supports mental health.",
+    "Counseling helps students.",
+    "Counseling must be confidential.",
+    "Counseling aids recovery."
+   ]
+  },
+  {
+   "id": "pack3-card-345",
+   "mode": "vocab",
+   "word": "Stigma",
+   "pron": "",
+   "def": "Social disapproval attached to a condition or group.\nहिंदी: कलंक / सामाजिक लांछन",
+   "examples": [
+    "Stigma prevents people from seeking help.",
+    "Stigma harms mental health.",
+    "Stigma must be fought.",
+    "Stigma isolates individuals."
+   ]
+  },
+  {
+   "id": "pack3-card-346",
+   "mode": "vocab",
+   "word": "Burnout",
+   "pron": "",
+   "def": "Exhaustion from prolonged stress.\nहिंदी: थकान से चूर हो जाना",
+   "examples": [
+    "Burnout affects professionals.",
+    "Burnout reduces productivity.",
+    "Burnout requires rest.",
+    "Burnout must be prevented."
+   ]
+  },
+  {
+   "id": "pack3-card-347",
+   "mode": "vocab",
+   "word": "Procrastination",
+   "pron": "",
+   "def": "Delaying tasks despite knowing the consequences.\nहिंदी: टालमटोल",
+   "examples": [
+    "Procrastination harms productivity.",
+    "Procrastination stems from fear.",
+    "Procrastination can be overcome.",
+    "Procrastination affects students."
+   ]
+  },
+  {
+   "id": "pack3-card-348",
+   "mode": "vocab",
+   "word": "Willpower",
+   "pron": "",
+   "def": "The strength to control impulses and persist.\nहिंदी: इच्छा-शक्ति",
+   "examples": [
+    "Willpower drives achievement.",
+    "Willpower can be strengthened.",
+    "Willpower varies over time.",
+    "Willpower must be conserved."
+   ]
+  },
+  {
+   "id": "pack3-card-349",
+   "mode": "vocab",
+   "word": "Flow",
+   "pron": "",
+   "def": "A state of complete absorption in an activity.\nहिंदी: तल्लीनता की अवस्था",
+   "examples": [
+    "Flow enhances performance.",
+    "Flow occurs in challenging tasks.",
+    "Flow is rewarding.",
+    "Flow improves creativity."
+   ]
+  },
+  {
+   "id": "pack3-card-350",
+   "mode": "vocab",
+   "word": "Self-Actualization",
+   "pron": "",
+   "def": "The realization of one's full potential.\nहिंदी: आत्म-सिद्धि / अपनी क्षमता पूरी तरह पाना",
+   "examples": [
+    "Self-Actualization is the highest need.",
+    "Self-Actualization requires growth.",
+    "Self-Actualization differs for everyone.",
+    "Self-Actualization is a lifelong process."
+   ]
+  }
+ ]
+}

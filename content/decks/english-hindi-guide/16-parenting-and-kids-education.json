@@ -1,0 +1,645 @@
+{
+ "id": "pack3-deck-16",
+ "categoryId": "pack3-cat-1",
+ "title": "16. Parenting & Kids Education",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-751",
+   "mode": "vocab",
+   "word": "Parenting",
+   "pron": "",
+   "def": "The process of raising and nurturing children.\nहिंदी: पालन-पोषण / परवरिश",
+   "examples": [
+    "Parenting shapes a child's future.",
+    "Parenting requires patience.",
+    "Parenting must be loving and firm.",
+    "Parenting is a lifelong responsibility."
+   ]
+  },
+  {
+   "id": "pack3-card-752",
+   "mode": "vocab",
+   "word": "Upbringing",
+   "pron": "",
+   "def": "The way a child is raised.\nहिंदी: लालन-पालन",
+   "examples": [
+    "Upbringing shapes values.",
+    "Upbringing must be nurturing.",
+    "Upbringing influences character.",
+    "Upbringing needs both parents."
+   ]
+  },
+  {
+   "id": "pack3-card-753",
+   "mode": "vocab",
+   "word": "Child Development",
+   "pron": "",
+   "def": "Physical, mental, and emotional growth of a child.\nहिंदी: बाल विकास",
+   "examples": [
+    "Child Development follows stages.",
+    "Child Development needs stimulation.",
+    "Child Development varies by child.",
+    "Child Development must be monitored."
+   ]
+  },
+  {
+   "id": "pack3-card-754",
+   "mode": "vocab",
+   "word": "Nurture",
+   "pron": "",
+   "def": "Caring for and encouraging growth.\nहिंदी: पोषण करना / संवारना",
+   "examples": [
+    "Nurture builds confidence.",
+    "Nurture must be consistent.",
+    "Nurture shapes personality.",
+    "Nurture complements nature."
+   ]
+  },
+  {
+   "id": "pack3-card-755",
+   "mode": "vocab",
+   "word": "Emotional Attachment",
+   "pron": "",
+   "def": "The deep psychological bond of safety and affection formed between an infant and primary caregiver.\nहिंदी: भावनात्मक जुड़ाव",
+   "examples": [
+    "A secure emotional attachment in early infancy lays the foundation for adult mental health.",
+    "Attentive parenting fosters a trusting emotional attachment that helps children explore confidently.",
+    "Children who lack stable emotional attachment often struggle with interpersonal trust later.",
+    "Consistent warmth and responsive comforting strengthen the parent-child emotional attachment."
+   ]
+  },
+  {
+   "id": "pack3-card-756",
+   "mode": "vocab",
+   "word": "Bonding",
+   "pron": "",
+   "def": "Forming a close relationship.\nहिंदी: आपसी लगाव बनना",
+   "examples": [
+    "Bonding begins at birth.",
+    "Bonding strengthens trust.",
+    "Bonding needs time.",
+    "Bonding builds security."
+   ]
+  },
+  {
+   "id": "pack3-card-757",
+   "mode": "vocab",
+   "word": "Nurturance",
+   "pron": "",
+   "def": "The loving physical and emotional care given to promote the growth and well-being of a child.\nहिंदी: स्नेहपूर्ण देखभाल",
+   "examples": [
+    "Healthy child development requires a warm blend of structural guidance and tender nurturance.",
+    "Grandparents often provide an abundance of unconditional nurturance and comfort.",
+    "A home filled with patient nurturance enables children to overcome shyness and anxiety.",
+    "Nurturance involves celebrating a child's unique milestones with enthusiasm and love."
+   ]
+  },
+  {
+   "id": "pack3-card-758",
+   "mode": "vocab",
+   "word": "Positive Reinforcement",
+   "pron": "",
+   "def": "Encouraging good behavior with rewards.\nहिंदी: सकारात्मक प्रोत्साहन",
+   "examples": [
+    "Positive Reinforcement builds confidence.",
+    "Positive Reinforcement works better than punishment.",
+    "Positive Reinforcement must be timely.",
+    "Positive Reinforcement shapes behavior."
+   ]
+  },
+  {
+   "id": "pack3-card-759",
+   "mode": "vocab",
+   "word": "Punishment",
+   "pron": "",
+   "def": "A penalty for wrongdoing.\nहिंदी: दंड / सज़ा",
+   "examples": [
+    "Punishment must be fair.",
+    "Punishment must not harm.",
+    "Punishment should teach, not humiliate.",
+    "Punishment must be proportionate."
+   ]
+  },
+  {
+   "id": "pack3-card-760",
+   "mode": "vocab",
+   "word": "Praise",
+   "pron": "",
+   "def": "Expressing approval.\nहिंदी: प्रशंसा",
+   "examples": [
+    "Praise builds self-esteem.",
+    "Praise must be genuine.",
+    "Praise motivates effort.",
+    "Praise strengthens bonds."
+   ]
+  },
+  {
+   "id": "pack3-card-761",
+   "mode": "vocab",
+   "word": "Encouragement",
+   "pron": "",
+   "def": "Giving support and confidence.\nहिंदी: हौसला-अफ़ज़ाई",
+   "examples": [
+    "Encouragement fuels effort.",
+    "Encouragement must be constant.",
+    "Encouragement builds resilience.",
+    "Encouragement helps overcome fear."
+   ]
+  },
+  {
+   "id": "pack3-card-762",
+   "mode": "vocab",
+   "word": "Self-Worth",
+   "pron": "",
+   "def": "An individual's intrinsic sense of value, dignity, and being worthy of love and respect.\nहिंदी: आत्म-मूल्य",
+   "examples": [
+    "Unconditional parental acceptance builds a child's lifelong sense of healthy self-worth.",
+    "Comparing siblings harshly can severely damage a young child's emerging self-worth.",
+    "Teachers build students' self-worth by praising effort, perseverance, and curiosity.",
+    "A robust sense of self-worth protects teenagers from succumbing to negative peer pressure."
+   ]
+  },
+  {
+   "id": "pack3-card-763",
+   "mode": "vocab",
+   "word": "Confidence",
+   "pron": "",
+   "def": "Belief in oneself.\nहिंदी: आत्मविश्वास",
+   "examples": [
+    "Confidence must be built.",
+    "Confidence grows with support.",
+    "Confidence enables risk-taking.",
+    "Confidence must be balanced."
+   ]
+  },
+  {
+   "id": "pack3-card-764",
+   "mode": "vocab",
+   "word": "Intellectual Curiosity",
+   "pron": "",
+   "def": "An active, eager desire to learn, explore new ideas, and understand how the world works.\nहिंदी: बौद्धिक जिज्ञासा",
+   "examples": [
+    "Hands-on science experiments stimulate children's natural intellectual curiosity.",
+    "Parents can spark intellectual curiosity by asking open-ended questions about nature.",
+    "Visiting libraries and museums nurtures intellectual curiosity from a tender age.",
+    "A school curriculum should feed intellectual curiosity rather than enforcing rigid memorization."
+   ]
+  },
+  {
+   "id": "pack3-card-765",
+   "mode": "vocab",
+   "word": "Play",
+   "pron": "",
+   "def": "Activity for fun and learning.\nहिंदी: खेल",
+   "examples": [
+    "Play is essential for children.",
+    "Play builds social skills.",
+    "Play must be free.",
+    "Play aids development."
+   ]
+  },
+  {
+   "id": "pack3-card-766",
+   "mode": "vocab",
+   "word": "Play-Based Learning",
+   "pron": "",
+   "def": "Learning through play.\nहिंदी: खेल-आधारित शिक्षा",
+   "examples": [
+    "Play-Based Learning is effective.",
+    "Play-Based Learning builds curiosity.",
+    "Play-Based Learning must be encouraged.",
+    "Play-Based Learning suits young children."
+   ]
+  },
+  {
+   "id": "pack3-card-767",
+   "mode": "vocab",
+   "word": "Early Childhood",
+   "pron": "",
+   "def": "The period from birth to age eight.\nहिंदी: प्रारंभिक बाल्यावस्था",
+   "examples": [
+    "Early Childhood is critical.",
+    "Early Childhood shapes the brain.",
+    "Early Childhood needs care.",
+    "Early Childhood investment pays off."
+   ]
+  },
+  {
+   "id": "pack3-card-768",
+   "mode": "vocab",
+   "word": "Early Childhood Education",
+   "pron": "",
+   "def": "Formal learning in early years.\nहिंदी: प्रारंभिक बाल शिक्षा",
+   "examples": [
+    "Early Childhood Education boosts outcomes.",
+    "Early Childhood Education must be accessible.",
+    "Early Childhood Education shapes futures.",
+    "Early Childhood Education needs quality."
+   ]
+  },
+  {
+   "id": "pack3-card-769",
+   "mode": "vocab",
+   "word": "Preschool",
+   "pron": "",
+   "def": "An institution for young children.\nहिंदी: प्री-स्कूल / नर्सरी",
+   "examples": [
+    "Preschool prepares children socially.",
+    "Preschool must be nurturing.",
+    "Preschool builds curiosity.",
+    "Preschool should be play-based."
+   ]
+  },
+  {
+   "id": "pack3-card-770",
+   "mode": "vocab",
+   "word": "Kindergarten",
+   "pron": "",
+   "def": "A class for young children before formal school.\nहिंदी: किंडरगार्टन",
+   "examples": [
+    "Kindergarten builds social skills.",
+    "Kindergarten must be joyful.",
+    "Kindergarten introduces structure.",
+    "Kindergarten fosters creativity."
+   ]
+  },
+  {
+   "id": "pack3-card-771",
+   "mode": "vocab",
+   "word": "School Readiness",
+   "pron": "",
+   "def": "Being prepared for formal schooling.\nहिंदी: स्कूल के लिए तैयारी",
+   "examples": [
+    "School Readiness predicts success.",
+    "School Readiness must be built.",
+    "School Readiness includes social skills.",
+    "School Readiness needs support."
+   ]
+  },
+  {
+   "id": "pack3-card-772",
+   "mode": "vocab",
+   "word": "Mathematical Literacy",
+   "pron": "",
+   "def": "The ability to understand, interpret, and apply basic numerical concepts in everyday life.\nहिंदी: गणितीय समझ",
+   "examples": [
+    "Early games with counting blocks help toddlers build fundamental mathematical literacy.",
+    "Mathematical literacy is essential for managing personal budgets and household expenses.",
+    "Schools are modernizing pedagogy to make foundational mathematical literacy enjoyable.",
+    "Strong mathematical literacy opens up exciting opportunities in science and computing."
+   ]
+  },
+  {
+   "id": "pack3-card-773",
+   "mode": "vocab",
+   "word": "Reading",
+   "pron": "",
+   "def": "Interpreting written words.\nहिंदी: पढ़ना",
+   "examples": [
+    "Reading builds imagination.",
+    "Reading must be encouraged.",
+    "Reading improves language.",
+    "Reading strengthens focus."
+   ]
+  },
+  {
+   "id": "pack3-card-774",
+   "mode": "vocab",
+   "word": "Storytelling",
+   "pron": "",
+   "def": "Telling stories to children.\nहिंदी: कहानी सुनाना",
+   "examples": [
+    "Storytelling builds language.",
+    "Storytelling sparks imagination.",
+    "Storytelling strengthens bonds.",
+    "Storytelling teaches values."
+   ]
+  },
+  {
+   "id": "pack3-card-775",
+   "mode": "vocab",
+   "word": "Numeracy",
+   "pron": "",
+   "def": "Ability to work with numbers.\nहिंदी: संख्या-ज्ञान",
+   "examples": [
+    "Numeracy is essential.",
+    "Numeracy must be taught early.",
+    "Numeracy builds logic.",
+    "Numeracy supports daily life."
+   ]
+  },
+  {
+   "id": "pack3-card-776",
+   "mode": "vocab",
+   "word": "Creative Expression",
+   "pron": "",
+   "def": "The act of conveying one's unique ideas, feelings, and imagination through artistic mediums.\nहिंदी: रचनात्मक अभिव्यक्ति",
+   "examples": [
+    "Finger painting provides toddlers with an uninhibited outlet for creative expression.",
+    "Music and theater classes encourage children to explore joyful creative expression.",
+    "Providing art supplies at home gives kids a healthy alternative to screen time for creative expression.",
+    "Creative expression helps children articulate complex emotions they cannot yet verbalize."
+   ]
+  },
+  {
+   "id": "pack3-card-778",
+   "mode": "vocab",
+   "word": "Cognitive Development",
+   "pron": "",
+   "def": "Growth of thinking and reasoning.\nहिंदी: संज्ञानात्मक विकास",
+   "examples": [
+    "Cognitive Development needs stimulation.",
+    "Cognitive Development varies by child.",
+    "Cognitive Development builds learning.",
+    "Cognitive Development must be supported."
+   ]
+  },
+  {
+   "id": "pack3-card-779",
+   "mode": "vocab",
+   "word": "Emotional Development",
+   "pron": "",
+   "def": "Growth of emotional skills.\nहिंदी: भावनात्मक विकास",
+   "examples": [
+    "Emotional Development builds empathy.",
+    "Emotional Development must be nurtured.",
+    "Emotional Development shapes relationships.",
+    "Emotional Development needs modeling."
+   ]
+  },
+  {
+   "id": "pack3-card-780",
+   "mode": "vocab",
+   "word": "Social Development",
+   "pron": "",
+   "def": "Growth of social skills.\nहिंदी: सामाजिक विकास",
+   "examples": [
+    "Social Development builds friendships.",
+    "Social Development must be encouraged.",
+    "Social Development shapes behavior.",
+    "Social Development needs interaction."
+   ]
+  },
+  {
+   "id": "pack3-card-781",
+   "mode": "vocab",
+   "word": "Moral Development",
+   "pron": "",
+   "def": "Growth of right and wrong understanding.\nहिंदी: नैतिक विकास",
+   "examples": [
+    "Moral Development builds character.",
+    "Moral Development must be guided.",
+    "Moral Development shapes choices.",
+    "Moral Development needs example."
+   ]
+  },
+  {
+   "id": "pack3-card-782",
+   "mode": "vocab",
+   "word": "Role Model",
+   "pron": "",
+   "def": "A person children imitate.\nहिंदी: आदर्श व्यक्ति",
+   "examples": [
+    "Role Models shape behavior.",
+    "Role Models must be positive.",
+    "Role Models inspire values.",
+    "Role Models build character."
+   ]
+  },
+  {
+   "id": "pack3-card-783",
+   "mode": "vocab",
+   "word": "Parental Involvement",
+   "pron": "",
+   "def": "Parents' participation in education.\nहिंदी: अभिभावकों की भागीदारी",
+   "examples": [
+    "Parental Involvement boosts learning.",
+    "Parental Involvement must be encouraged.",
+    "Parental Involvement strengthens schools.",
+    "Parental Involvement shapes outcomes."
+   ]
+  },
+  {
+   "id": "pack3-card-784",
+   "mode": "vocab",
+   "word": "Family Time",
+   "pron": "",
+   "def": "Time spent together as a family.\nहिंदी: परिवार के साथ समय",
+   "examples": [
+    "Family Time builds bonds.",
+    "Family Time must be protected.",
+    "Family Time supports children.",
+    "Family Time reduces stress."
+   ]
+  },
+  {
+   "id": "pack3-card-785",
+   "mode": "vocab",
+   "word": "Communication",
+   "pron": "",
+   "def": "Exchange of thoughts and feelings.\nहिंदी: संवाद / बातचीत",
+   "examples": [
+    "Communication builds trust.",
+    "Communication must be open.",
+    "Communication solves problems.",
+    "Communication needs listening."
+   ]
+  },
+  {
+   "id": "pack3-card-786",
+   "mode": "vocab",
+   "word": "Listening",
+   "pron": "",
+   "def": "Paying attention to others.\nहिंदी: सुनना",
+   "examples": [
+    "Listening builds respect.",
+    "Listening must be practiced.",
+    "Listening helps understanding.",
+    "Listening strengthens relationships."
+   ]
+  },
+  {
+   "id": "pack3-card-787",
+   "mode": "vocab",
+   "word": "Interpersonal Skills",
+   "pron": "",
+   "def": "The communication and emotional abilities used to interact, cooperate, and resolve conflict with others.\nहिंदी: पारस्परिक कौशल",
+   "examples": [
+    "Team sports help children build essential interpersonal skills like cooperation and patience.",
+    "Developing good interpersonal skills makes it easier for kids to forge healthy friendships.",
+    "Role-playing games teach children conflict resolution and respectful interpersonal skills.",
+    "Active listening is the cornerstone of effective interpersonal skills throughout life."
+   ]
+  },
+  {
+   "id": "pack3-card-788",
+   "mode": "vocab",
+   "word": "Gentleness",
+   "pron": "",
+   "def": "The quality of being kind, tender, calm, and considerate in handling people and situations.\nहिंदी: कोमलता",
+   "examples": [
+    "Parents teach toddlers gentleness when interacting with small animals and babies.",
+    "A teacher's gentle correction motivates students far more effectively than harsh reprimands.",
+    "Speaking with calm gentleness de-escalates toddler tantrums without causing distress.",
+    "Gentleness should never be mistaken for weakness; it requires immense inner discipline."
+   ]
+  },
+  {
+   "id": "pack3-card-789",
+   "mode": "vocab",
+   "word": "Courteousness",
+   "pron": "",
+   "def": "Polite, respectful, and considerate behavior showing good manners toward everyone.\nहिंदी: शिष्टता",
+   "examples": [
+    "Saying 'please' and 'thank you' is an early lesson in everyday courteousness for children.",
+    "Courteousness creates a harmonious and pleasant atmosphere within the family home.",
+    "Demonstrating courteousness toward service workers reflects a child's true upbringing.",
+    "Children learn courteousness primarily by observing how their parents treat others."
+   ]
+  },
+  {
+   "id": "pack3-card-790",
+   "mode": "vocab",
+   "word": "Conscientiousness",
+   "pron": "",
+   "def": "The habit of being thorough, careful, dependable, and organized in fulfilling one's duties.\nहिंदी: कर्तव्यनिष्ठा",
+   "examples": [
+    "Children who develop conscientiousness complete their homework without constant reminders.",
+    "Assigned household chores teach young adolescents practical conscientiousness and reliability.",
+    "Conscientiousness in organizing schoolbooks saves time and reduces daily morning stress.",
+    "Employers rank conscientiousness as one of the most desirable traits in new graduates."
+   ]
+  },
+  {
+   "id": "pack3-card-791",
+   "mode": "vocab",
+   "word": "Independence",
+   "pron": "",
+   "def": "Ability to act on one's own.\nहिंदी: आत्मनिर्भरता",
+   "examples": [
+    "Independence must be encouraged.",
+    "Independence builds confidence.",
+    "Independence must be age-appropriate.",
+    "Independence strengthens character."
+   ]
+  },
+  {
+   "id": "pack3-card-792",
+   "mode": "vocab",
+   "word": "Life Skills",
+   "pron": "",
+   "def": "Skills for daily living.\nहिंदी: जीवन-कौशल",
+   "examples": [
+    "Life Skills must be taught.",
+    "Life Skills build confidence.",
+    "Life Skills prepare for adulthood.",
+    "Life Skills include cooking and budgeting."
+   ]
+  },
+  {
+   "id": "pack3-card-793",
+   "mode": "vocab",
+   "word": "Financial Literacy",
+   "pron": "",
+   "def": "Understanding money management.\nहिंदी: वित्तीय साक्षरता",
+   "examples": [
+    "Financial Literacy must start early.",
+    "Financial Literacy builds saving habits.",
+    "Financial Literacy prevents debt.",
+    "Financial Literacy empowers children."
+   ]
+  },
+  {
+   "id": "pack3-card-794",
+   "mode": "vocab",
+   "word": "Cyber Safety",
+   "pron": "",
+   "def": "The knowledge, practices, and precautions necessary to safeguard children from online risks.\nहिंदी: साइबर सुरक्षा (ऑनलाइन सुरक्षा)",
+   "examples": [
+    "Parents must educate children about basic cyber safety before giving them smartphones.",
+    "Cyber safety rules include never sharing passwords or personal home addresses online.",
+    "Schools organize annual cyber safety seminars to alert students to internet scams and predators.",
+    "Enabling parental controls is an effective technical safeguard for household cyber safety."
+   ]
+  },
+  {
+   "id": "pack3-card-795",
+   "mode": "vocab",
+   "word": "Screen Time",
+   "pron": "",
+   "def": "Time spent on digital devices.\nहिंदी: स्क्रीन पर बिताया समय",
+   "examples": [
+    "Screen Time must be limited.",
+    "Screen Time affects health.",
+    "Screen Time needs monitoring.",
+    "Screen Time must be balanced."
+   ]
+  },
+  {
+   "id": "pack3-card-796",
+   "mode": "vocab",
+   "word": "Cyberbullying",
+   "pron": "",
+   "def": "Bullying through digital devices.\nहिंदी: साइबर बुलिंग / ऑनलाइन धमकाना",
+   "examples": [
+    "Cyberbullying harms children.",
+    "Cyberbullying must be reported.",
+    "Cyberbullying needs awareness.",
+    "Cyberbullying must be stopped."
+   ]
+  },
+  {
+   "id": "pack3-card-797",
+   "mode": "vocab",
+   "word": "Child Safety",
+   "pron": "",
+   "def": "Protecting children from harm.\nहिंदी: बाल सुरक्षा",
+   "examples": [
+    "Child Safety is a priority.",
+    "Child Safety must be ensured.",
+    "Child Safety includes online protection.",
+    "Child Safety needs vigilance."
+   ]
+  },
+  {
+   "id": "pack3-card-798",
+   "mode": "vocab",
+   "word": "Child Rights",
+   "pron": "",
+   "def": "Rights protecting children.\nहिंदी: बाल अधिकार",
+   "examples": [
+    "Child Rights must be protected.",
+    "Child Rights include education.",
+    "Child Rights include play.",
+    "Child Rights must be enforced."
+   ]
+  },
+  {
+   "id": "pack3-card-799",
+   "mode": "vocab",
+   "word": "Positive Parenting",
+   "pron": "",
+   "def": "Parenting with warmth and structure.\nहिंदी: सकारात्मक पालन-पोषण",
+   "examples": [
+    "Positive Parenting builds confidence.",
+    "Positive Parenting must be practiced.",
+    "Positive Parenting reduces conflict.",
+    "Positive Parenting supports development."
+   ]
+  },
+  {
+   "id": "pack3-card-800",
+   "mode": "vocab",
+   "word": "Holistic Development",
+   "pron": "",
+   "def": "Growth of body, mind, and heart.\nहिंदी: समग्र विकास",
+   "examples": [
+    "Holistic Development builds complete children.",
+    "Holistic Development must be the goal.",
+    "Holistic Development includes values.",
+    "Holistic Development supports well-being."
+   ]
+  }
+ ]
+}

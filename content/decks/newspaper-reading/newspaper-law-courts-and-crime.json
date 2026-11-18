@@ -1,0 +1,1178 @@
+{
+ "id": "pack2-deck-3",
+ "categoryId": "pack2-cat-1",
+ "title": "Newspaper: Law, Courts & Crime",
+ "sub": "Court reports, police stories, and legal terms in everyday news.",
+ "cards": [
+  {
+   "id": "pack2-card-193",
+   "mode": "vocab",
+   "word": "Plaintiff",
+   "pron": "(noun)",
+   "def": "The person who brings a case to court.\nहिंदी: वादी",
+   "examples": [
+    "Present: The plaintiff presents evidence first.",
+    "Past: The plaintiff sued for damages.",
+    "Future: The plaintiff will testify tomorrow.",
+    "Perfect: The plaintiff has withdrawn the case."
+   ]
+  },
+  {
+   "id": "pack2-card-194",
+   "mode": "vocab",
+   "word": "Defendant",
+   "pron": "(noun)",
+   "def": "The person accused or sued in court.\nहिंदी: प्रतिवादी",
+   "examples": [
+    "Present: The defendant has the right to a lawyer.",
+    "Past: The defendant pleaded not guilty.",
+    "Future: The defendant will appear on Monday.",
+    "Perfect: The defendant has denied all charges."
+   ]
+  },
+  {
+   "id": "pack2-card-195",
+   "mode": "vocab",
+   "word": "Prosecutor",
+   "pron": "(noun)",
+   "def": "A lawyer who presents the case against the accused.\nहिंदी: अभियोजक",
+   "examples": [
+    "Present: A prosecutor builds a case.",
+    "Past: The prosecutor presented new evidence.",
+    "Future: The prosecutor will call three witnesses.",
+    "Perfect: The prosecutor has filed charges."
+   ]
+  },
+  {
+   "id": "pack2-card-196",
+   "mode": "vocab",
+   "word": "Acquit",
+   "pron": "(verb)",
+   "def": "To declare a person not guilty.\nहिंदी: बरी करना",
+   "examples": [
+    "Present: Courts acquit when evidence is weak.",
+    "Past: The judge acquitted the accused.",
+    "Future: The jury will acquit him.",
+    "Perfect: The court has acquitted all four men."
+   ]
+  },
+  {
+   "id": "pack2-card-197",
+   "mode": "vocab",
+   "word": "Convict",
+   "pron": "(verb)",
+   "def": "To find someone guilty of a crime.\nहिंदी: दोषी ठहराना",
+   "examples": [
+    "Present: Juries convict on strong evidence.",
+    "Past: The court convicted him of theft.",
+    "Future: Evidence will convict the suspect.",
+    "Perfect: He has been convicted twice."
+   ]
+  },
+  {
+   "id": "pack2-card-198",
+   "mode": "vocab",
+   "word": "Sentence",
+   "pron": "(verb)",
+   "def": "To announce a punishment.\nहिंदी: सज़ा सुनाना",
+   "examples": [
+    "Present: Judges sentence offenders.",
+    "Past: The court sentenced him to five years.",
+    "Future: The judge will sentence her on Friday.",
+    "Perfect: He has been sentenced to life."
+   ]
+  },
+  {
+   "id": "pack2-card-199",
+   "mode": "vocab",
+   "word": "Appeal",
+   "pron": "(verb)",
+   "def": "To ask a higher court to change a decision.\nहिंदी: अपील करना",
+   "examples": [
+    "Present: Convicts appeal to higher courts.",
+    "Past: He appealed the verdict.",
+    "Future: Lawyers will appeal the ruling.",
+    "Perfect: The firm has appealed the fine."
+   ]
+  },
+  {
+   "id": "pack2-card-200",
+   "mode": "vocab",
+   "word": "Bail",
+   "pron": "(noun)",
+   "def": "Money paid to release an accused person until trial.\nहिंदी: ज़मानत",
+   "examples": [
+    "Present: Bail lets the accused await trial at home.",
+    "Past: The court granted bail yesterday.",
+    "Future: He will apply for bail on Monday.",
+    "Perfect: The judge has denied bail."
+   ]
+  },
+  {
+   "id": "pack2-card-201",
+   "mode": "vocab",
+   "word": "Arrest",
+   "pron": "(verb)",
+   "def": "To take someone into custody.\nहिंदी: गिरफ़्तार करना",
+   "examples": [
+    "Present: Police arrest suspects.",
+    "Past: Officers arrested two men.",
+    "Future: Police will arrest the leader.",
+    "Perfect: They have arrested the gang."
+   ]
+  },
+  {
+   "id": "pack2-card-202",
+   "mode": "vocab",
+   "word": "Suspect",
+   "pron": "(noun)",
+   "def": "A person thought to have committed a crime.\nहिंदी: संदिग्ध",
+   "examples": [
+    "Present: A suspect is innocent until proven guilty.",
+    "Past: Police questioned the suspect.",
+    "Future: The suspect will be charged tonight.",
+    "Perfect: The suspect has been identified."
+   ]
+  },
+  {
+   "id": "pack2-card-203",
+   "mode": "vocab",
+   "word": "Custody",
+   "pron": "(noun)",
+   "def": "Being held by police or a guardian.\nहिंदी: हिरासत",
+   "examples": [
+    "Present: Custody limits personal freedom.",
+    "Past: He was in custody for two days.",
+    "Future: The suspect will remain in custody.",
+    "Perfect: She has gained custody of her son."
+   ]
+  },
+  {
+   "id": "pack2-card-204",
+   "mode": "vocab",
+   "word": "Charge",
+   "pron": "(verb)",
+   "def": "To formally accuse of a crime.\nहिंदी: आरोप लगाना",
+   "examples": [
+    "Present: Police charge suspects with offences.",
+    "Past: They charged him with fraud.",
+    "Future: Prosecutors will charge the firm.",
+    "Perfect: He has been charged with murder."
+   ]
+  },
+  {
+   "id": "pack2-card-205",
+   "mode": "vocab",
+   "word": "Witness",
+   "pron": "(noun)",
+   "def": "A person who saw an event or gives evidence.\nहिंदी: गवाह",
+   "examples": [
+    "Present: A witness describes what happened.",
+    "Past: A witness identified the driver.",
+    "Future: A witness will appear in court.",
+    "Perfect: Several witnesses have come forward."
+   ]
+  },
+  {
+   "id": "pack2-card-206",
+   "mode": "vocab",
+   "word": "Evidence",
+   "pron": "(noun)",
+   "def": "Facts that show something is true.\nहिंदी: सबूत",
+   "examples": [
+    "Present: Evidence proves a claim.",
+    "Past: The evidence convinced the jury.",
+    "Future: New evidence will emerge.",
+    "Perfect: Police have found fresh evidence."
+   ]
+  },
+  {
+   "id": "pack2-card-207",
+   "mode": "vocab",
+   "word": "Alibi",
+   "pron": "(noun)",
+   "def": "Proof of being elsewhere when a crime occurred.\nहिंदी: घटना के समय अन्यत्र उपस्थिति का प्रमाण",
+   "examples": [
+    "Present: An alibi can clear a suspect.",
+    "Past: His alibi checked out.",
+    "Future: His alibi will be tested in court.",
+    "Perfect: She has offered a solid alibi."
+   ]
+  },
+  {
+   "id": "pack2-card-208",
+   "mode": "vocab",
+   "word": "Fugitive",
+   "pron": "(noun)",
+   "def": "A person escaping from the law.\nहिंदी: भगोड़ा",
+   "examples": [
+    "Present: A fugitive hides from police.",
+    "Past: The fugitive fled the country.",
+    "Future: The fugitive will face trial.",
+    "Perfect: The fugitive has evaded capture."
+   ]
+  },
+  {
+   "id": "pack2-card-209",
+   "mode": "vocab",
+   "word": "Smuggle",
+   "pron": "(verb)",
+   "def": "To move goods illegally across borders.\nहिंदी: तस्करी करना",
+   "examples": [
+    "Present: Gangs smuggle drugs.",
+    "Past: They smuggled gold into the country.",
+    "Future: Gangs will smuggle new goods.",
+    "Perfect: Officials have caught people who smuggled weapons."
+   ]
+  },
+  {
+   "id": "pack2-card-210",
+   "mode": "vocab",
+   "word": "Trafficking",
+   "pron": "(noun)",
+   "def": "Illegal trade in people or goods.\nहिंदी: तस्करी",
+   "examples": [
+    "Present: Trafficking ruins lives.",
+    "Past: Trafficking surged in the 2000s.",
+    "Future: Stronger laws will curb trafficking.",
+    "Perfect: Police have broken a trafficking ring."
+   ]
+  },
+  {
+   "id": "pack2-card-211",
+   "mode": "vocab",
+   "word": "Burglary",
+   "pron": "(noun)",
+   "def": "Entering a building to steal.\nहिंदी: सेंधमारी / चोरी",
+   "examples": [
+    "Present: Burglary often happens at night.",
+    "Past: Burglary rose in the neighbourhood.",
+    "Future: Burglary will fall with more patrols.",
+    "Perfect: Police have solved the burglary."
+   ]
+  },
+  {
+   "id": "pack2-card-212",
+   "mode": "vocab",
+   "word": "Robbery",
+   "pron": "(noun)",
+   "def": "Stealing using force or threat.\nहिंदी: डकैती",
+   "examples": [
+    "Present: Robbery is a serious crime.",
+    "Past: A robbery occurred at the bank.",
+    "Future: A robbery will lead to heavy penalties.",
+    "Perfect: The gang has committed several robberies."
+   ]
+  },
+  {
+   "id": "pack2-card-213",
+   "mode": "vocab",
+   "word": "Assault",
+   "pron": "(noun)",
+   "def": "A physical attack on a person.\nहिंदी: हमला",
+   "examples": [
+    "Present: Assault carries a prison term.",
+    "Past: The man was charged with assault.",
+    "Future: The assault will be tried next month.",
+    "Perfect: The victim has recovered from the assault."
+   ]
+  },
+  {
+   "id": "pack2-card-214",
+   "mode": "vocab",
+   "word": "Homicide",
+   "pron": "(noun)",
+   "def": "The killing of one person by another.\nहिंदी: हत्या",
+   "examples": [
+    "Present: Homicide is investigated thoroughly.",
+    "Past: A homicide shocked the town.",
+    "Future: The homicide will go to trial.",
+    "Perfect: Police have solved the homicide."
+   ]
+  },
+  {
+   "id": "pack2-card-215",
+   "mode": "vocab",
+   "word": "Vandalism",
+   "pron": "(noun)",
+   "def": "Deliberate damage to property.\nहिंदी: तोड़फोड़",
+   "examples": [
+    "Present: Vandalism harms public spaces.",
+    "Past: Vandalism ruined the park.",
+    "Future: Cameras will reduce vandalism.",
+    "Perfect: Vandalism has increased lately."
+   ]
+  },
+  {
+   "id": "pack2-card-216",
+   "mode": "vocab",
+   "word": "Arson",
+   "pron": "(noun)",
+   "def": "Deliberately setting fire to property.\nहिंदी: आगज़नी",
+   "examples": [
+    "Present: Arson is a grave offence.",
+    "Past: Arson destroyed the warehouse.",
+    "Future: Investigators will determine whether it was arson.",
+    "Perfect: Police have suspected arson."
+   ]
+  },
+  {
+   "id": "pack2-card-217",
+   "mode": "vocab",
+   "word": "Perpetrator",
+   "pron": "(noun)",
+   "def": "The person who commits a crime.\nहिंदी: अपराधी",
+   "examples": [
+    "Present: A perpetrator faces justice.",
+    "Past: The perpetrator escaped on foot.",
+    "Future: The perpetrator will be tracked.",
+    "Perfect: Police have identified the perpetrator."
+   ]
+  },
+  {
+   "id": "pack2-card-218",
+   "mode": "vocab",
+   "word": "Victim",
+   "pron": "(noun)",
+   "def": "A person harmed by a crime or event.\nहिंदी: पीड़ित",
+   "examples": [
+    "Present: A victim deserves support.",
+    "Past: The victim was taken to hospital.",
+    "Future: The victim will receive compensation.",
+    "Perfect: The victim has recovered."
+   ]
+  },
+  {
+   "id": "pack2-card-219",
+   "mode": "vocab",
+   "word": "Testify",
+   "pron": "(verb)",
+   "def": "To give evidence in court.\nहिंदी: गवाही देना",
+   "examples": [
+    "Present: Witnesses testify under oath.",
+    "Past: He testified against his partner.",
+    "Future: She will testify on Tuesday.",
+    "Perfect: The expert has testified twice."
+   ]
+  },
+  {
+   "id": "pack2-card-220",
+   "mode": "vocab",
+   "word": "Subpoena",
+   "pron": "(noun)",
+   "def": "A legal order to attend court.\nहिंदी: समन",
+   "examples": [
+    "Present: A subpoena compels attendance.",
+    "Past: He received a subpoena last week.",
+    "Future: A subpoena will be issued to the CEO.",
+    "Perfect: Lawyers have served a subpoena."
+   ]
+  },
+  {
+   "id": "pack2-card-221",
+   "mode": "vocab",
+   "word": "Warrant",
+   "pron": "(noun)",
+   "def": "A legal paper permitting arrest or search.\nहिंदी: वारंट",
+   "examples": [
+    "Present: A warrant authorises police to act.",
+    "Past: The judge issued a warrant.",
+    "Future: A warrant will be served tonight.",
+    "Perfect: Police have obtained a search warrant."
+   ]
+  },
+  {
+   "id": "pack2-card-222",
+   "mode": "vocab",
+   "word": "Injunction",
+   "pron": "(noun)",
+   "def": "A court order to stop doing something.\nहिंदी: निषेधाज्ञा",
+   "examples": [
+    "Present: An injunction halts illegal acts.",
+    "Past: The court granted an injunction.",
+    "Future: An injunction will block the sale.",
+    "Perfect: The firm has sought an injunction."
+   ]
+  },
+  {
+   "id": "pack2-card-223",
+   "mode": "vocab",
+   "word": "Lawsuit",
+   "pron": "(noun)",
+   "def": "A case brought to court by a person or group.\nहिंदी: मुकदमा",
+   "examples": [
+    "Present: A lawsuit can take years.",
+    "Past: She filed a lawsuit against the company.",
+    "Future: A lawsuit will follow the data leak.",
+    "Perfect: Residents have filed a lawsuit."
+   ]
+  },
+  {
+   "id": "pack2-card-224",
+   "mode": "vocab",
+   "word": "Settle",
+   "pron": "(verb)",
+   "def": "To end a dispute by agreement.\nहिंदी: समझौता करना",
+   "examples": [
+    "Present: Many cases settle out of court.",
+    "Past: They settled for a million.",
+    "Future: The parties will settle soon.",
+    "Perfect: The firm has settled the claim."
+   ]
+  },
+  {
+   "id": "pack2-card-225",
+   "mode": "vocab",
+   "word": "Verdict appeal",
+   "pron": "(noun)",
+   "def": "A request that a higher court review a verdict.\nहिंदी: फ़ैसले के विरुद्ध अपील",
+   "examples": [
+    "Present: A verdict appeal needs strong grounds.",
+    "Past: A verdict appeal reached the Supreme Court.",
+    "Future: A verdict appeal will be heard in May.",
+    "Perfect: Lawyers have filed a verdict appeal."
+   ]
+  },
+  {
+   "id": "pack2-card-226",
+   "mode": "vocab",
+   "word": "Jury",
+   "pron": "(noun)",
+   "def": "A group of citizens who decide a verdict.\nहिंदी: जूरी",
+   "examples": [
+    "Present: A jury listens to all evidence.",
+    "Past: The jury deliberated for two days.",
+    "Future: The jury will return on Monday.",
+    "Perfect: The jury has reached a decision."
+   ]
+  },
+  {
+   "id": "pack2-card-227",
+   "mode": "vocab",
+   "word": "Judge",
+   "pron": "(noun)",
+   "def": "An official who presides in court.\nहिंदी: न्यायाधीश",
+   "examples": [
+    "Present: A judge must be impartial.",
+    "Past: The judge dismissed the case.",
+    "Future: The judge will rule next week.",
+    "Perfect: The judge has issued an order."
+   ]
+  },
+  {
+   "id": "pack2-card-228",
+   "mode": "vocab",
+   "word": "Plea",
+   "pron": "(noun)",
+   "def": "A formal answer to a charge in court.\nहिंदी: याचिका / दलील",
+   "examples": [
+    "Present: A plea sets the course of a trial.",
+    "Past: He entered a plea of not guilty.",
+    "Future: She will enter a plea tomorrow.",
+    "Perfect: The accused has changed his plea."
+   ]
+  },
+  {
+   "id": "pack2-card-229",
+   "mode": "vocab",
+   "word": "Parole",
+   "pron": "(noun)",
+   "def": "Early release from prison under conditions.\nहिंदी: पैरोल",
+   "examples": [
+    "Present: Parole depends on good behaviour.",
+    "Past: He was released on parole.",
+    "Future: She will apply for parole next year.",
+    "Perfect: He has violated his parole."
+   ]
+  },
+  {
+   "id": "pack2-card-230",
+   "mode": "vocab",
+   "word": "Prison",
+   "pron": "(noun)",
+   "def": "A place where convicts are kept.\nहिंदी: जेल",
+   "examples": [
+    "Present: Prison limits freedom.",
+    "Past: He spent ten years in prison.",
+    "Future: He will go to prison for fraud.",
+    "Perfect: The man has been in prison since 2015."
+   ]
+  },
+  {
+   "id": "pack2-card-231",
+   "mode": "vocab",
+   "word": "Inmate",
+   "pron": "(noun)",
+   "def": "A person confined in a prison.\nहिंदी: कैदी",
+   "examples": [
+    "Present: An inmate follows strict rules.",
+    "Past: An inmate escaped last night.",
+    "Future: An inmate will be released tomorrow.",
+    "Perfect: The inmate has completed his term."
+   ]
+  },
+  {
+   "id": "pack2-card-232",
+   "mode": "vocab",
+   "word": "Pardon",
+   "pron": "(verb)",
+   "def": "To officially forgive a crime.\nहिंदी: क्षमा करना / माफ़ी देना",
+   "examples": [
+    "Present: Presidents sometimes pardon prisoners.",
+    "Past: The governor pardoned him.",
+    "Future: The president will pardon the inmate.",
+    "Perfect: She has been pardoned."
+   ]
+  },
+  {
+   "id": "pack2-card-233",
+   "mode": "vocab",
+   "word": "Amnesty",
+   "pron": "(noun)",
+   "def": "An official pardon for a group.\nहिंदी: आम माफ़ी",
+   "examples": [
+    "Present: An amnesty offers a fresh start.",
+    "Past: The state declared an amnesty in 2000.",
+    "Future: An amnesty will free many prisoners.",
+    "Perfect: The government has offered amnesty."
+   ]
+  },
+  {
+   "id": "pack2-card-234",
+   "mode": "vocab",
+   "word": "Constitution",
+   "pron": "(noun)",
+   "def": "The basic law of a country.\nहिंदी: संविधान",
+   "examples": [
+    "Present: The constitution protects rights.",
+    "Past: The constitution was adopted in 1950.",
+    "Future: The constitution will guide the debate.",
+    "Perfect: Courts have upheld the constitution."
+   ]
+  },
+  {
+   "id": "pack2-card-235",
+   "mode": "vocab",
+   "word": "Statute",
+   "pron": "(noun)",
+   "def": "A written law passed by a legislature.\nहिंदी: कानून / अधिनियम",
+   "examples": [
+    "Present: A statute carries legal force.",
+    "Past: The statute dates from 1890.",
+    "Future: A new statute will replace it.",
+    "Perfect: Parliament has repealed the statute."
+   ]
+  },
+  {
+   "id": "pack2-card-236",
+   "mode": "vocab",
+   "word": "Repeal",
+   "pron": "(verb)",
+   "def": "To officially cancel a law.\nहिंदी: निरस्त करना",
+   "examples": [
+    "Present: Parliament can repeal laws.",
+    "Past: They repealed the old act.",
+    "Future: Lawmakers will repeal the tax.",
+    "Perfect: The government has repealed the ban."
+   ]
+  },
+  {
+   "id": "pack2-card-237",
+   "mode": "vocab",
+   "word": "Legitimate",
+   "pron": "(adjective)",
+   "def": "Lawful and acceptable.\nहिंदी: वैध",
+   "examples": [
+    "Present: A legitimate claim deserves attention.",
+    "Past: The court ruled the contract legitimate.",
+    "Future: The vote will be legitimate.",
+    "Perfect: Experts have deemed the move legitimate."
+   ]
+  },
+  {
+   "id": "pack2-card-238",
+   "mode": "vocab",
+   "word": "Illegal",
+   "pron": "(adjective)",
+   "def": "Against the law.\nहिंदी: अवैध",
+   "examples": [
+    "Present: Illegal parking costs money.",
+    "Past: The sale was illegal.",
+    "Future: Such acts will remain illegal.",
+    "Perfect: The practice has been declared illegal."
+   ]
+  },
+  {
+   "id": "pack2-card-239",
+   "mode": "vocab",
+   "word": "Liable",
+   "pron": "(adjective)",
+   "def": "Legally responsible.\nहिंदी: ज़िम्मेदार / जवाबदेह",
+   "examples": [
+    "Present: Owners are liable for damage.",
+    "Past: The company was held liable.",
+    "Future: The firm will be liable for costs.",
+    "Perfect: He has been found liable."
+   ]
+  },
+  {
+   "id": "pack2-card-240",
+   "mode": "vocab",
+   "word": "Negligence",
+   "pron": "(noun)",
+   "def": "Failure to take proper care.\nहिंदी: लापरवाही",
+   "examples": [
+    "Present: Negligence can cause accidents.",
+    "Past: Negligence caused the fire.",
+    "Future: Negligence will lead to penalties.",
+    "Perfect: The inquiry has found negligence."
+   ]
+  },
+  {
+   "id": "pack2-card-241",
+   "mode": "vocab",
+   "word": "Compensation",
+   "pron": "(noun)",
+   "def": "Money paid for loss or injury.\nहिंदी: मुआवज़ा",
+   "examples": [
+    "Present: Compensation helps victims recover.",
+    "Past: The firm paid compensation.",
+    "Future: Compensation will arrive next month.",
+    "Perfect: The family has received compensation."
+   ]
+  },
+  {
+   "id": "pack2-card-242",
+   "mode": "vocab",
+   "word": "Damages",
+   "pron": "(noun)",
+   "def": "Money awarded by a court for harm.\nहिंदी: हर्जाना",
+   "examples": [
+    "Present: Damages repay losses.",
+    "Past: The court awarded damages of one million.",
+    "Future: Damages will be set at trial.",
+    "Perfect: She has won damages."
+   ]
+  },
+  {
+   "id": "pack2-card-243",
+   "mode": "vocab",
+   "word": "Litigation",
+   "pron": "(noun)",
+   "def": "The process of taking legal action.\nहिंदी: मुकदमेबाज़ी",
+   "examples": [
+    "Present: Litigation can be costly.",
+    "Past: Litigation dragged on for years.",
+    "Future: Litigation will start next month.",
+    "Perfect: The firm has avoided litigation."
+   ]
+  },
+  {
+   "id": "pack2-card-244",
+   "mode": "vocab",
+   "word": "Arbitration",
+   "pron": "(noun)",
+   "def": "Settling a dispute through a neutral person outside court.\nहिंदी: मध्यस्थता",
+   "examples": [
+    "Present: Arbitration is faster than court.",
+    "Past: The dispute went to arbitration.",
+    "Future: Arbitration will decide the claim.",
+    "Perfect: Both sides have agreed to arbitration."
+   ]
+  },
+  {
+   "id": "pack2-card-245",
+   "mode": "vocab",
+   "word": "Mediation",
+   "pron": "(noun)",
+   "def": "Helping parties reach agreement through a neutral person.\nहिंदी: मध्यस्थता / बीच-बचाव",
+   "examples": [
+    "Present: Mediation can save time.",
+    "Past: Mediation ended the feud.",
+    "Future: Mediation will start on Monday.",
+    "Perfect: The couple has tried mediation."
+   ]
+  },
+  {
+   "id": "pack2-card-246",
+   "mode": "vocab",
+   "word": "Evict",
+   "pron": "(verb)",
+   "def": "To legally force someone out of a property.\nहिंदी: बेदखल करना",
+   "examples": [
+    "Present: Landlords evict non-paying tenants.",
+    "Past: They evicted the family.",
+    "Future: Officials will evict the squatters.",
+    "Perfect: The tenants have been evicted."
+   ]
+  },
+  {
+   "id": "pack2-card-247",
+   "mode": "vocab",
+   "word": "Trespass",
+   "pron": "(verb)",
+   "def": "To enter someone's property without permission.\nहिंदी: अनधिकार प्रवेश करना",
+   "examples": [
+    "Present: Signs warn people not to trespass.",
+    "Past: He trespassed on the farm.",
+    "Future: Anyone who trespasses will be fined.",
+    "Perfect: Hikers have trespassed on private land."
+   ]
+  },
+  {
+   "id": "pack2-card-248",
+   "mode": "vocab",
+   "word": "Copyright",
+   "pron": "(noun)",
+   "def": "The legal right to control a creative work.\nहिंदी: कॉपीराइट",
+   "examples": [
+    "Present: Copyright protects authors.",
+    "Past: The song's copyright expired.",
+    "Future: The copyright will last seventy years.",
+    "Perfect: The studio has registered the copyright."
+   ]
+  },
+  {
+   "id": "pack2-card-249",
+   "mode": "vocab",
+   "word": "Patent",
+   "pron": "(noun)",
+   "def": "A legal right to an invention.\nहिंदी: पेटेंट",
+   "examples": [
+    "Present: A patent protects inventors.",
+    "Past: The firm filed a patent in 2020.",
+    "Future: The patent will expire in 2035.",
+    "Perfect: The scientist has secured a patent."
+   ]
+  },
+  {
+   "id": "pack2-card-250",
+   "mode": "vocab",
+   "word": "Plagiarism",
+   "pron": "(noun)",
+   "def": "Passing off another's work as your own.\nहिंदी: साहित्यिक चोरी",
+   "examples": [
+    "Present: Plagiarism ends careers.",
+    "Past: Plagiarism cost him his degree.",
+    "Future: Software will detect plagiarism.",
+    "Perfect: The writer has been accused of plagiarism."
+   ]
+  },
+  {
+   "id": "pack2-card-251",
+   "mode": "vocab",
+   "word": "Defamation",
+   "pron": "(noun)",
+   "def": "A false statement that harms someone's reputation.\nहिंदी: मानहानि",
+   "examples": [
+    "Present: Defamation can lead to lawsuits.",
+    "Past: He sued for defamation.",
+    "Future: Defamation will be hard to prove.",
+    "Perfect: The paper has faced a defamation claim."
+   ]
+  },
+  {
+   "id": "pack2-card-252",
+   "mode": "vocab",
+   "word": "Libel",
+   "pron": "(noun)",
+   "def": "Defamation in written form.\nहिंदी: लिखित मानहानि",
+   "examples": [
+    "Present: Libel harms reputations.",
+    "Past: The paper lost a libel case.",
+    "Future: Libel will cost the publisher dearly.",
+    "Perfect: The actor has filed a libel suit."
+   ]
+  },
+  {
+   "id": "pack2-card-253",
+   "mode": "vocab",
+   "word": "Cyber crime",
+   "pron": "(noun)",
+   "def": "Crime committed through computers or the internet.\nहिंदी: साइबर अपराध",
+   "examples": [
+    "Present: Cyber crime targets personal data.",
+    "Past: Cyber crime rose during the pandemic.",
+    "Future: Cyber crime will cost billions.",
+    "Perfect: Police have created a cyber crime unit."
+   ]
+  },
+  {
+   "id": "pack2-card-254",
+   "mode": "vocab",
+   "word": "Phishing",
+   "pron": "(noun)",
+   "def": "Tricking people into revealing private information online.\nहिंदी: फ़िशिंग",
+   "examples": [
+    "Present: Phishing emails look genuine.",
+    "Past: Phishing cost him his savings.",
+    "Future: Phishing will keep evolving.",
+    "Perfect: Banks have warned about phishing."
+   ]
+  },
+  {
+   "id": "pack2-card-255",
+   "mode": "vocab",
+   "word": "Hacker",
+   "pron": "(noun)",
+   "def": "A person who breaks into computer systems.\nहिंदी: हैकर",
+   "examples": [
+    "Present: A hacker exploits weak passwords.",
+    "Past: A hacker stole customer data.",
+    "Future: A hacker will always seek new gaps.",
+    "Perfect: Hackers have attacked the bank."
+   ]
+  },
+  {
+   "id": "pack2-card-256",
+   "mode": "vocab",
+   "word": "Breach",
+   "pron": "(noun)",
+   "def": "A violation, or a gap in security.\nहिंदी: उल्लंघन / सेंध",
+   "examples": [
+    "Present: A breach exposes private data.",
+    "Past: A breach hit millions of users.",
+    "Future: A breach will damage trust.",
+    "Perfect: The firm has suffered a breach."
+   ]
+  },
+  {
+   "id": "pack2-card-257",
+   "mode": "vocab",
+   "word": "Surveillance",
+   "pron": "(noun)",
+   "def": "Close observation, especially of suspects.\nहिंदी: निगरानी",
+   "examples": [
+    "Present: Surveillance helps detect crime.",
+    "Past: Surveillance footage identified the thief.",
+    "Future: Surveillance will increase in cities.",
+    "Perfect: Police have used surveillance for months."
+   ]
+  },
+  {
+   "id": "pack2-card-258",
+   "mode": "vocab",
+   "word": "Forensic",
+   "pron": "(adjective)",
+   "def": "Relating to scientific methods used in solving crimes.\nहिंदी: न्यायालयिक / फ़ोरेंसिक",
+   "examples": [
+    "Present: Forensic teams collect evidence.",
+    "Past: Forensic experts examined the car.",
+    "Future: Forensic tests will confirm the identity.",
+    "Perfect: Detectives have requested a forensic report."
+   ]
+  },
+  {
+   "id": "pack2-card-259",
+   "mode": "vocab",
+   "word": "Detective",
+   "pron": "(noun)",
+   "def": "A police officer who investigates crimes.\nहिंदी: जासूस",
+   "examples": [
+    "Present: A detective follows clues.",
+    "Past: The detective solved the case.",
+    "Future: The detective will interview witnesses.",
+    "Perfect: The detective has reviewed the files."
+   ]
+  },
+  {
+   "id": "pack2-card-260",
+   "mode": "vocab",
+   "word": "Informant",
+   "pron": "(noun)",
+   "def": "A person who secretly gives information to police.\nहिंदी: मुखबिर",
+   "examples": [
+    "Present: An informant helps police find leads.",
+    "Past: An informant tipped off the police.",
+    "Future: An informant will testify.",
+    "Perfect: The informant has provided key details."
+   ]
+  },
+  {
+   "id": "pack2-card-261",
+   "mode": "vocab",
+   "word": "Interrogate",
+   "pron": "(verb)",
+   "def": "To question closely.\nहिंदी: पूछताछ करना",
+   "examples": [
+    "Present: Police interrogate suspects.",
+    "Past: They interrogated him for hours.",
+    "Future: Officers will interrogate the driver.",
+    "Perfect: He has been interrogated twice."
+   ]
+  },
+  {
+   "id": "pack2-card-262",
+   "mode": "vocab",
+   "word": "Confession",
+   "pron": "(noun)",
+   "def": "An admission of guilt.\nहिंदी: इकबाल-ए-जुर्म",
+   "examples": [
+    "Present: A confession can end a case.",
+    "Past: His confession shocked everyone.",
+    "Future: A confession will help the trial.",
+    "Perfect: The accused has made a confession."
+   ]
+  },
+  {
+   "id": "pack2-card-263",
+   "mode": "vocab",
+   "word": "Innocent",
+   "pron": "(adjective)",
+   "def": "Not guilty of a crime.\nहिंदी: निर्दोष",
+   "examples": [
+    "Present: An innocent person fears nothing.",
+    "Past: The court found him innocent.",
+    "Future: He will be proved innocent.",
+    "Perfect: She has always claimed she is innocent."
+   ]
+  },
+  {
+   "id": "pack2-card-264",
+   "mode": "vocab",
+   "word": "Guilty",
+   "pron": "(adjective)",
+   "def": "Having committed a crime.\nहिंदी: दोषी",
+   "examples": [
+    "Present: A guilty person may confess.",
+    "Past: He was found guilty of fraud.",
+    "Future: The jury will find her guilty.",
+    "Perfect: The court has declared him guilty."
+   ]
+  },
+  {
+   "id": "pack2-card-265",
+   "mode": "vocab",
+   "word": "Ruling",
+   "pron": "(noun)",
+   "def": "An official decision by a court.\nहिंदी: निर्णय / आदेश",
+   "examples": [
+    "Present: A ruling can change a law.",
+    "Past: The ruling surprised experts.",
+    "Future: The ruling will affect thousands.",
+    "Perfect: The court has issued its ruling."
+   ]
+  },
+  {
+   "id": "pack2-card-266",
+   "mode": "vocab",
+   "word": "Overturn",
+   "pron": "(verb)",
+   "def": "To cancel a decision.\nहिंदी: पलटना / रद्द करना",
+   "examples": [
+    "Present: Higher courts can overturn rulings.",
+    "Past: The court overturned the conviction.",
+    "Future: Judges will overturn the order.",
+    "Perfect: The decision has been overturned."
+   ]
+  },
+  {
+   "id": "pack2-card-267",
+   "mode": "vocab",
+   "word": "Uphold",
+   "pron": "(verb)",
+   "def": "To confirm a decision.\nहिंदी: बरकरार रखना",
+   "examples": [
+    "Present: Courts uphold the law.",
+    "Past: The court upheld the sentence.",
+    "Future: Judges will uphold the ruling.",
+    "Perfect: The bench has upheld the ban."
+   ]
+  },
+  {
+   "id": "pack2-card-268",
+   "mode": "vocab",
+   "word": "Dismiss",
+   "pron": "(verb)",
+   "def": "To refuse to hear a case.\nहिंदी: ख़ारिज करना",
+   "examples": [
+    "Present: Courts dismiss weak claims.",
+    "Past: The judge dismissed the petition.",
+    "Future: The court will dismiss the case.",
+    "Perfect: The bench has dismissed the appeal."
+   ]
+  },
+  {
+   "id": "pack2-card-269",
+   "mode": "vocab",
+   "word": "Petition",
+   "pron": "(noun)",
+   "def": "A formal request to a court or authority.\nहिंदी: याचिका",
+   "examples": [
+    "Present: A petition asks for action.",
+    "Past: Residents filed a petition.",
+    "Future: A petition will reach the court.",
+    "Perfect: Thousands have signed the petition."
+   ]
+  },
+  {
+   "id": "pack2-card-270",
+   "mode": "vocab",
+   "word": "Hearing",
+   "pron": "(noun)",
+   "def": "A court session to listen to a case.\nहिंदी: सुनवाई",
+   "examples": [
+    "Present: A hearing allows both sides to speak.",
+    "Past: The hearing lasted three hours.",
+    "Future: The hearing will resume tomorrow.",
+    "Perfect: The court has scheduled a hearing."
+   ]
+  },
+  {
+   "id": "pack2-card-271",
+   "mode": "vocab",
+   "word": "Trial",
+   "pron": "(noun)",
+   "def": "A court process to decide guilt.\nहिंदी: मुकदमा / परीक्षण",
+   "examples": [
+    "Present: A trial must be fair.",
+    "Past: The trial began in March.",
+    "Future: The trial will last a month.",
+    "Perfect: The trial has drawn global attention."
+   ]
+  },
+  {
+   "id": "pack2-card-272",
+   "mode": "vocab",
+   "word": "Remand",
+   "pron": "(noun)",
+   "def": "Sending an accused back into custody.\nहिंदी: हिरासत में भेजना",
+   "examples": [
+    "Present: Remand keeps suspects secure.",
+    "Past: He was held on remand.",
+    "Future: He will be on remand until trial.",
+    "Perfect: The court has extended his remand."
+   ]
+  },
+  {
+   "id": "pack2-card-273",
+   "mode": "vocab",
+   "word": "Deterrent",
+   "pron": "(noun)",
+   "def": "Something that discourages people from acting.\nहिंदी: निवारक",
+   "examples": [
+    "Present: A heavy fine is a strong deterrent.",
+    "Past: The punishment acted as a deterrent.",
+    "Future: Cameras will act as a deterrent.",
+    "Perfect: Strict laws have served as a deterrent."
+   ]
+  },
+  {
+   "id": "pack2-card-274",
+   "mode": "vocab",
+   "word": "Rehabilitation",
+   "pron": "(noun)",
+   "def": "Helping offenders return to normal life.\nहिंदी: पुनर्वास",
+   "examples": [
+    "Present: Rehabilitation reduces repeat crime.",
+    "Past: Rehabilitation helped him find work.",
+    "Future: Rehabilitation will cost less than prison.",
+    "Perfect: The programme has aided rehabilitation."
+   ]
+  },
+  {
+   "id": "pack2-card-275",
+   "mode": "vocab",
+   "word": "Law enforcement",
+   "pron": "(noun)",
+   "def": "Agencies that enforce the law.\nहिंदी: कानून प्रवर्तन",
+   "examples": [
+    "Present: Law enforcement protects the public.",
+    "Past: Law enforcement responded within minutes.",
+    "Future: Law enforcement will increase patrols.",
+    "Perfect: Law enforcement has seized the drugs."
+   ]
+  },
+  {
+   "id": "pack2-card-276",
+   "mode": "vocab",
+   "word": "Curfew",
+   "pron": "(noun)",
+   "def": "A rule requiring people to stay indoors at set times.\nहिंदी: कर्फ़्यू",
+   "examples": [
+    "Present: A curfew helps control unrest.",
+    "Past: A curfew was imposed overnight.",
+    "Future: The curfew will be lifted on Monday.",
+    "Perfect: Authorities have extended the curfew."
+   ]
+  },
+  {
+   "id": "pack2-card-277",
+   "mode": "vocab",
+   "word": "Riot",
+   "pron": "(noun)",
+   "def": "A violent public disturbance.\nहिंदी: दंगा",
+   "examples": [
+    "Present: A riot can spread quickly.",
+    "Past: A riot broke out after the match.",
+    "Future: A riot will draw a strong response.",
+    "Perfect: Police have contained the riot."
+   ]
+  },
+  {
+   "id": "pack2-card-278",
+   "mode": "vocab",
+   "word": "Protest",
+   "pron": "(verb)",
+   "def": "To publicly show disagreement.\nहिंदी: विरोध प्रदर्शन करना",
+   "examples": [
+    "Present: Citizens protest unfair laws.",
+    "Past: Thousands protested outside parliament.",
+    "Future: Students will protest on Friday.",
+    "Perfect: Farmers have protested for weeks."
+   ]
+  },
+  {
+   "id": "pack2-card-279",
+   "mode": "vocab",
+   "word": "Detain",
+   "pron": "(verb)",
+   "def": "To hold someone temporarily.\nहिंदी: हिरासत में लेना",
+   "examples": [
+    "Present: Police detain people for questioning.",
+    "Past: Officers detained three activists.",
+    "Future: Officials will detain the suspect.",
+    "Perfect: He has been detained since Monday."
+   ]
+  },
+  {
+   "id": "pack2-card-280",
+   "mode": "vocab",
+   "word": "Seize",
+   "pron": "(verb)",
+   "def": "To take possession by force or authority.\nहिंदी: ज़ब्त करना",
+   "examples": [
+    "Present: Customs seize illegal goods.",
+    "Past: Police seized the weapons.",
+    "Future: Officials will seize the property.",
+    "Perfect: Authorities have seized forty kilos of drugs."
+   ]
+  },
+  {
+   "id": "pack2-card-281",
+   "mode": "vocab",
+   "word": "Raid",
+   "pron": "(noun)",
+   "def": "A sudden attack or search by police.\nहिंदी: छापा",
+   "examples": [
+    "Present: A raid catches criminals unprepared.",
+    "Past: A raid uncovered stolen goods.",
+    "Future: A raid will take place at dawn.",
+    "Perfect: Police have carried out a raid."
+   ]
+  },
+  {
+   "id": "pack2-card-282",
+   "mode": "vocab",
+   "word": "Manhunt",
+   "pron": "(noun)",
+   "def": "A large search for a criminal.\nहिंदी: तलाश अभियान",
+   "examples": [
+    "Present: A manhunt mobilises many officers.",
+    "Past: A manhunt followed the jailbreak.",
+    "Future: A manhunt will continue overnight.",
+    "Perfect: Police have launched a manhunt."
+   ]
+  }
+ ]
+}

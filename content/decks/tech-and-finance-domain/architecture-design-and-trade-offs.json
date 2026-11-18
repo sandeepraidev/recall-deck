@@ -1,0 +1,2517 @@
+{
+ "id": "pack6-deck-5",
+ "categoryId": "pack6-cat-2",
+ "title": "Architecture, Design & Trade-offs",
+ "sub": "System design, patterns, scalability and the trade-offs behind them.",
+ "cards": [
+  {
+   "id": "pack6-card-718",
+   "mode": "vocab",
+   "word": "architecture",
+   "pron": "(noun)",
+   "def": "The overall structure and design of a system\nहिंदी: प्रणाली की समग्र संरचना",
+   "examples": [
+    "The architecture separates ingestion from transformation.",
+    "Draw the architecture on one page before the design review.",
+    "The new architecture lets each team deploy on its own.",
+    "A simple architecture is easier to debug at 2 am."
+   ]
+  },
+  {
+   "id": "pack6-card-719",
+   "mode": "vocab",
+   "word": "topology",
+   "pron": "(noun)",
+   "def": "The arrangement of components and their connections\nहिंदी: घटकों की संरचनात्मक व्यवस्था",
+   "examples": [
+    "The network topology limits how we can scale.",
+    "The office network topology has one main switch per floor.",
+    "Changing the cluster topology needs a maintenance window.",
+    "Ask the platform team for a diagram of the current topology."
+   ]
+  },
+  {
+   "id": "pack6-card-720",
+   "mode": "vocab",
+   "word": "monolith",
+   "pron": "(noun)",
+   "def": "A single, tightly integrated application\nहिंदी: एकल विशाल एप्लिकेशन",
+   "examples": [
+    "We are slowly breaking the monolith into services.",
+    "For a small startup, a monolith is often the right choice.",
+    "Every change to the monolith needs a full regression test.",
+    "The monolith takes forty minutes to build and deploy."
+   ]
+  },
+  {
+   "id": "pack6-card-721",
+   "mode": "vocab",
+   "word": "microservice",
+   "pron": "(noun)",
+   "def": "A small independently deployable service\nहिंदी: छोटी स्वतंत्र सेवा",
+   "examples": [
+    "Each microservice owns its own data store.",
+    "The payment microservice can be released without touching the rest.",
+    "Too many microservices can make debugging harder.",
+    "Each microservice has its own team and on-call rota."
+   ]
+  },
+  {
+   "id": "pack6-card-722",
+   "mode": "vocab",
+   "word": "service mesh",
+   "pron": "(noun)",
+   "def": "An infrastructure layer managing service-to-service communication\nहिंदी: सेवाओं के बीच संचार प्रबंधन परत",
+   "examples": [
+    "The service mesh handles retries and encryption.",
+    "The service mesh gives us traffic metrics between services.",
+    "We added a service mesh to encrypt all internal traffic.",
+    "Debugging the service mesh config took the whole afternoon."
+   ]
+  },
+  {
+   "id": "pack6-card-723",
+   "mode": "vocab",
+   "word": "event-driven",
+   "pron": "(adjective)",
+   "def": "Based on producing and reacting to events\nहिंदी: घटना-आधारित",
+   "examples": [
+    "We moved to an event-driven design to decouple vendors.",
+    "In an event-driven system, services react to order events.",
+    "Event-driven designs are hard to trace without good logging.",
+    "The notification service is fully event-driven."
+   ]
+  },
+  {
+   "id": "pack6-card-724",
+   "mode": "vocab",
+   "word": "pub-sub",
+   "pron": "(noun)",
+   "def": "A pattern where publishers send messages to subscribers via a broker\nहिंदी: प्रकाशक-ग्राहक संदेश पैटर्न",
+   "examples": [
+    "Pub-sub lets many consumers react to the same event.",
+    "We use pub-sub so billing and emails both get the order event.",
+    "With pub-sub, the sender doesn't know who is listening.",
+    "Adding a new subscriber in pub-sub doesn't change the publisher."
+   ]
+  },
+  {
+   "id": "pack6-card-725",
+   "mode": "vocab",
+   "word": "message broker",
+   "pron": "(noun)",
+   "def": "Middleware that routes messages between systems\nहिंदी: संदेशों को आगे पहुँचाने वाला मध्यस्थ",
+   "examples": [
+    "Kafka acts as our message broker.",
+    "The message broker stores events until consumers read them.",
+    "If the message broker goes down, orders stop flowing.",
+    "RabbitMQ is a popular message broker for smaller systems."
+   ]
+  },
+  {
+   "id": "pack6-card-726",
+   "mode": "vocab",
+   "word": "consumer lag",
+   "pron": "(noun)",
+   "def": "How far a consumer is behind the latest message\nहिंदी: उपभोक्ता का पीछे रह जाना",
+   "examples": [
+    "Rising consumer lag means we're falling behind.",
+    "Consumer lag jumped during the sale, so we added more consumers.",
+    "Set an alert when consumer lag crosses ten thousand messages.",
+    "Consumer lag returned to zero after the backlog cleared."
+   ]
+  },
+  {
+   "id": "pack6-card-727",
+   "mode": "vocab",
+   "word": "partition",
+   "pron": "(noun)",
+   "def": "A subset of data split for parallel processing\nहिंदी: डेटा का हिस्सा",
+   "examples": [
+    "Messages with the same key go to the same partition.",
+    "Add more partitions so more consumers can read in parallel.",
+    "One hot partition slowed down the whole topic.",
+    "The table is split into one partition per month."
+   ]
+  },
+  {
+   "id": "pack6-card-728",
+   "mode": "vocab",
+   "word": "sharding",
+   "pron": "(noun)",
+   "def": "Splitting a database into smaller independent parts\nहिंदी: डेटाबेस को टुकड़ों में बाँटना",
+   "examples": [
+    "Sharding by vendor ID spreads the load evenly.",
+    "Sharding helped us handle millions of users in one database.",
+    "Sharding makes cross-customer reports more complex.",
+    "We chose sharding by region to keep data local."
+   ]
+  },
+  {
+   "id": "pack6-card-729",
+   "mode": "vocab",
+   "word": "replication",
+   "pron": "(noun)",
+   "def": "Copying data across multiple nodes\nहिंदी: डेटा की प्रतिलिपि बनाना",
+   "examples": [
+    "Replication provides durability if a node fails.",
+    "Replication across two data centres protects us from a regional outage.",
+    "Replication lag means the read copy may be a few seconds old.",
+    "Check replication status before switching to the standby."
+   ]
+  },
+  {
+   "id": "pack6-card-730",
+   "mode": "vocab",
+   "word": "consistency",
+   "pron": "(noun)",
+   "def": "Guarantee that all readers see the same data\nहिंदी: डेटा की एकरूपता",
+   "examples": [
+    "Strong consistency costs us some latency.",
+    "Bank balances need strong consistency, not approximate numbers.",
+    "We traded some consistency for faster page loads.",
+    "Consistency issues showed different prices on web and app."
+   ]
+  },
+  {
+   "id": "pack6-card-731",
+   "mode": "vocab",
+   "word": "eventual consistency",
+   "pron": "(noun)",
+   "def": "A model where data becomes consistent over time\nहिंदी: समय के साथ एकरूप होने वाला मॉडल",
+   "examples": [
+    "Reports tolerate eventual consistency of a few seconds.",
+    "The like count uses eventual consistency, so it may lag a little.",
+    "With eventual consistency, all replicas match within seconds.",
+    "Explain eventual consistency to the business team before launch."
+   ]
+  },
+  {
+   "id": "pack6-card-732",
+   "mode": "vocab",
+   "word": "durability",
+   "pron": "(noun)",
+   "def": "The guarantee that committed data persists\nहिंदी: डेटा के बचे रहने की गारंटी",
+   "examples": [
+    "The queue offers durability even if the broker restarts.",
+    "Durability means a confirmed order is never lost.",
+    "We write to disk before replying to guarantee durability.",
+    "Backups add another layer of durability."
+   ]
+  },
+  {
+   "id": "pack6-card-733",
+   "mode": "vocab",
+   "word": "availability",
+   "pron": "(noun)",
+   "def": "The proportion of time a system is operational and accessible\nहिंदी: उपलब्धता",
+   "examples": [
+    "The design favours availability over strict consistency.",
+    "Our target availability is 99.9 percent per month.",
+    "Running in two regions improves availability.",
+    "The SLA defines availability for business hours only."
+   ]
+  },
+  {
+   "id": "pack6-card-734",
+   "mode": "vocab",
+   "word": "partition tolerance",
+   "pron": "(noun)",
+   "def": "The ability to function despite network splits\nहिंदी: नेटवर्क विभाजन में भी चलने की क्षमता",
+   "examples": [
+    "Any distributed system must handle partition tolerance.",
+    "Partition tolerance matters when two data centres lose connection.",
+    "Without partition tolerance, a network split would stop the system.",
+    "We tested partition tolerance by cutting the link between regions."
+   ]
+  },
+  {
+   "id": "pack6-card-735",
+   "mode": "vocab",
+   "word": "CAP theorem",
+   "pron": "(noun)",
+   "def": "Principle that you cannot have all of consistency, availability and partition tolerance\nहिंदी: कैप सिद्धांत",
+   "examples": [
+    "The CAP theorem forces trade-offs in distributed design.",
+    "The CAP theorem came up in my system design interview.",
+    "Because of the CAP theorem, we chose availability for the catalogue.",
+    "The CAP theorem helps explain why perfect systems don't exist."
+   ]
+  },
+  {
+   "id": "pack6-card-736",
+   "mode": "vocab",
+   "word": "horizontal scaling",
+   "pron": "(noun)",
+   "def": "Adding more machines to handle load\nहिंदी: मशीनें बढ़ाकर क्षमता बढ़ाना",
+   "examples": [
+    "Horizontal scaling suits our stateless workers.",
+    "Horizontal scaling let us add servers during the festival sale.",
+    "Horizontal scaling is easier when the app is stateless.",
+    "Cloud platforms make horizontal scaling almost automatic."
+   ]
+  },
+  {
+   "id": "pack6-card-737",
+   "mode": "vocab",
+   "word": "vertical scaling",
+   "pron": "(noun)",
+   "def": "Adding more power to an existing machine\nहिंदी: मशीन की शक्ति बढ़ाना",
+   "examples": [
+    "Vertical scaling hits a ceiling quickly.",
+    "Vertical scaling was the quickest fix: we doubled the memory.",
+    "Vertical scaling gets expensive with very large machines.",
+    "We used vertical scaling until the database hit its limit."
+   ]
+  },
+  {
+   "id": "pack6-card-738",
+   "mode": "vocab",
+   "word": "stateless",
+   "pron": "(adjective)",
+   "def": "Not retaining information between requests\nहिंदी: पिछली स्थिति न रखने वाला",
+   "examples": [
+    "Keep the workers stateless so they can scale freely.",
+    "A stateless API is easy to run behind a load balancer.",
+    "Store sessions in Redis so the web servers stay stateless.",
+    "Stateless services can restart without losing anything."
+   ]
+  },
+  {
+   "id": "pack6-card-739",
+   "mode": "vocab",
+   "word": "stateful",
+   "pron": "(adjective)",
+   "def": "Retaining information between requests\nहिंदी: स्थिति को सहेजने वाला",
+   "examples": [
+    "Stateful services are harder to scale and recover.",
+    "The database is stateful, so we back it up carefully.",
+    "Stateful workloads need persistent storage in Kubernetes.",
+    "A stateful service needs a plan for moving its data."
+   ]
+  },
+  {
+   "id": "pack6-card-740",
+   "mode": "vocab",
+   "word": "load balancer",
+   "pron": "(noun)",
+   "def": "A component that distributes traffic across servers\nहिंदी: ट्रैफ़िक बाँटने वाला घटक",
+   "examples": [
+    "The load balancer removes unhealthy nodes automatically.",
+    "The load balancer sends traffic to three web servers.",
+    "Health checks tell the load balancer which servers are alive.",
+    "A misconfigured load balancer sent all traffic to one node."
+   ]
+  },
+  {
+   "id": "pack6-card-741",
+   "mode": "vocab",
+   "word": "cache",
+   "pron": "(noun)",
+   "def": "Temporary storage for fast data retrieval\nहिंदी: तेज़ पहुँच हेतु अस्थायी भंडारण",
+   "examples": [
+    "A cache cut read latency by eighty percent.",
+    "The browser cache made the second page load instant.",
+    "Clear the cache if you still see the old design.",
+    "We cache product details for five minutes."
+   ]
+  },
+  {
+   "id": "pack6-card-742",
+   "mode": "vocab",
+   "word": "invalidate",
+   "pron": "(verb)",
+   "def": "To mark cached data as no longer valid\nहिंदी: कैश डेटा को अमान्य करना",
+   "examples": [
+    "We invalidate the cache whenever a price is corrected.",
+    "Invalidate the CDN cache after updating the homepage images.",
+    "We forgot to invalidate the cache, so users saw old prices.",
+    "The service invalidates a user's cache when they change settings."
+   ]
+  },
+  {
+   "id": "pack6-card-743",
+   "mode": "vocab",
+   "word": "eviction",
+   "pron": "(noun)",
+   "def": "Removal of items from a cache to free space\nहिंदी: कैश से डेटा हटाना",
+   "examples": [
+    "Poor eviction policy caused frequent misses.",
+    "The cache uses least-recently-used eviction.",
+    "Too much eviction means the cache is too small.",
+    "Monitor eviction rates during peak traffic."
+   ]
+  },
+  {
+   "id": "pack6-card-744",
+   "mode": "vocab",
+   "word": "time-to-live",
+   "pron": "(noun)",
+   "def": "The duration after which data expires\nहिंदी: डेटा की वैधता अवधि",
+   "examples": [
+    "Set the time-to-live to one hour.",
+    "A short time-to-live keeps the data fresh but increases load.",
+    "The DNS record has a time-to-live of five minutes.",
+    "Login tokens have a time-to-live of one day."
+   ]
+  },
+  {
+   "id": "pack6-card-745",
+   "mode": "vocab",
+   "word": "queue",
+   "pron": "(noun)",
+   "def": "An ordered list of tasks awaiting processing\nहिंदी: कतार",
+   "examples": [
+    "Failed messages go to a dead-letter queue.",
+    "Email sending runs through a queue so the page stays fast.",
+    "The queue grew to a million jobs during the outage.",
+    "Workers pick tasks from the queue one at a time."
+   ]
+  },
+  {
+   "id": "pack6-card-746",
+   "mode": "vocab",
+   "word": "dead-letter queue",
+   "pron": "(noun)",
+   "def": "A queue for messages that couldn't be processed\nहिंदी: असफल संदेशों की कतार",
+   "examples": [
+    "We review the dead-letter queue every morning.",
+    "Messages with bad data end up in the dead-letter queue.",
+    "Set an alert if the dead-letter queue starts growing.",
+    "We replayed the dead-letter queue after fixing the bug."
+   ]
+  },
+  {
+   "id": "pack6-card-747",
+   "mode": "vocab",
+   "word": "backpressure",
+   "pron": "(noun)",
+   "def": "A mechanism to slow producers when consumers are overwhelmed\nहिंदी: दबाव नियंत्रण तंत्र",
+   "examples": [
+    "Backpressure prevents the queue from overflowing.",
+    "Without backpressure, the fast producer crashed the slow consumer.",
+    "The library handles backpressure automatically.",
+    "Backpressure kept memory usage stable under heavy load."
+   ]
+  },
+  {
+   "id": "pack6-card-748",
+   "mode": "vocab",
+   "word": "batch processing",
+   "pron": "(noun)",
+   "def": "Processing data in groups at scheduled intervals\nहिंदी: समूहों में डेटा प्रसंस्करण",
+   "examples": [
+    "Batch processing suits the nightly vendor files.",
+    "Salary calculations run as batch processing at month end.",
+    "Batch processing is cheaper than processing each record instantly.",
+    "The batch processing job finished an hour late last night."
+   ]
+  },
+  {
+   "id": "pack6-card-749",
+   "mode": "vocab",
+   "word": "stream processing",
+   "pron": "(noun)",
+   "def": "Processing data continuously as it arrives\nहिंदी: निरंतर डेटा प्रसंस्करण",
+   "examples": [
+    "Stream processing gives us near real-time updates.",
+    "Fraud detection needs stream processing, not nightly batches.",
+    "Stream processing updates the dashboard every second.",
+    "We use Flink for stream processing of click events."
+   ]
+  },
+  {
+   "id": "pack6-card-750",
+   "mode": "vocab",
+   "word": "pipeline",
+   "pron": "(noun)",
+   "def": "A series of connected processing stages\nहिंदी: चरणबद्ध प्रसंस्करण शृंखला",
+   "examples": [
+    "Each stage of the pipeline can be tested separately.",
+    "The CI pipeline runs tests on every pull request.",
+    "Our data pipeline loads sales data every hour.",
+    "A broken step stopped the whole pipeline."
+   ]
+  },
+  {
+   "id": "pack6-card-752",
+   "mode": "vocab",
+   "word": "idempotency key",
+   "pron": "(noun)",
+   "def": "A unique token ensuring a request is processed once\nहिंदी: एक बार प्रसंस्करण सुनिश्चित करने वाली कुंजी",
+   "examples": [
+    "Attach an idempotency key to every payment request.",
+    "The mobile app sends an idempotency key with every order.",
+    "Without an idempotency key, a retry could charge the card twice.",
+    "Store each idempotency key for at least a day."
+   ]
+  },
+  {
+   "id": "pack6-card-753",
+   "mode": "vocab",
+   "word": "exactly-once",
+   "pron": "(adjective)",
+   "def": "Guaranteeing each message is processed one time only\nहिंदी: ठीक एक बार प्रसंस्कृत",
+   "examples": [
+    "Exactly-once delivery is hard to guarantee end to end.",
+    "Exactly-once processing matters for payment events.",
+    "The vendor claims exactly-once delivery, but we still check for duplicates.",
+    "Exactly-once semantics add latency and complexity."
+   ]
+  },
+  {
+   "id": "pack6-card-754",
+   "mode": "vocab",
+   "word": "at-least-once",
+   "pron": "(adjective)",
+   "def": "Guaranteeing delivery but allowing duplicates\nहिंदी: कम से कम एक बार",
+   "examples": [
+    "At-least-once delivery requires idempotent consumers.",
+    "The queue offers at-least-once delivery, so duplicates can happen.",
+    "With at-least-once delivery, design consumers to ignore repeats.",
+    "At-least-once is the default for most message brokers."
+   ]
+  },
+  {
+   "id": "pack6-card-755",
+   "mode": "vocab",
+   "word": "transactional",
+   "pron": "(adjective)",
+   "def": "Treated as a single all-or-nothing operation\nहिंदी: लेन-देन आधारित",
+   "examples": [
+    "The update must be transactional to avoid partial writes.",
+    "Money transfers must be transactional: debit and credit together.",
+    "The transactional update rolled back when the second step failed.",
+    "Use a transactional outbox to publish events safely."
+   ]
+  },
+  {
+   "id": "pack6-card-756",
+   "mode": "vocab",
+   "word": "atomic",
+   "pron": "(adjective)",
+   "def": "Indivisible; either fully completes or not at all\nहिंदी: अविभाज्य",
+   "examples": [
+    "The write is atomic, so no half-saved records appear.",
+    "Renaming a file is atomic on most file systems.",
+    "Make the counter update atomic to avoid lost increments.",
+    "The deployment switch is atomic, so users never see half a release."
+   ]
+  },
+  {
+   "id": "pack6-card-757",
+   "mode": "vocab",
+   "word": "isolation",
+   "pron": "(noun)",
+   "def": "Separation of concurrent operations to avoid interference\nहिंदी: समवर्ती कार्यों का पृथक्करण",
+   "examples": [
+    "Higher isolation reduces anomalies but costs performance.",
+    "Transaction isolation stops one user from seeing another's half-done update.",
+    "We lowered the isolation level to improve throughput.",
+    "Test isolation means one test can't affect another."
+   ]
+  },
+  {
+   "id": "pack6-card-758",
+   "mode": "vocab",
+   "word": "normalisation",
+   "pron": "(noun)",
+   "def": "Organising data to reduce redundancy\nहिंदी: डेटा की अनावश्यक पुनरावृत्ति घटाना",
+   "examples": [
+    "Normalisation keeps the reference data consistent.",
+    "Normalisation split customer and address data into separate tables.",
+    "Too much normalisation can make simple reports slow.",
+    "The normalisation step removed duplicate city names."
+   ]
+  },
+  {
+   "id": "pack6-card-759",
+   "mode": "vocab",
+   "word": "denormalise",
+   "pron": "(verb)",
+   "def": "To add redundancy to data to improve read speed\nहिंदी: पढ़ने की गति हेतु डेटा दोहराना",
+   "examples": [
+    "We denormalised the table to avoid expensive joins.",
+    "We denormalise order data into the reporting database.",
+    "Denormalise carefully, because updates must change several places.",
+    "The search index denormalises product and price details."
+   ]
+  },
+  {
+   "id": "pack6-card-760",
+   "mode": "vocab",
+   "word": "index",
+   "pron": "(noun)",
+   "def": "A structure that speeds up data lookup\nहिंदी: खोज तेज़ करने वाली संरचना",
+   "examples": [
+    "Adding an index cut the query from minutes to seconds.",
+    "Add an index on the email column for faster login lookups.",
+    "Too many indexes slow down inserts.",
+    "The book's index helped me find the topic quickly."
+   ]
+  },
+  {
+   "id": "pack6-card-761",
+   "mode": "vocab",
+   "word": "query plan",
+   "pron": "(noun)",
+   "def": "The database's strategy for executing a query\nहिंदी: क्वेरी निष्पादन योजना",
+   "examples": [
+    "The query plan shows a full table scan.",
+    "Check the query plan before adding more hardware.",
+    "The query plan changed after the statistics were updated.",
+    "A good query plan uses the index instead of scanning everything."
+   ]
+  },
+  {
+   "id": "pack6-card-763",
+   "mode": "vocab",
+   "word": "schema evolution",
+   "pron": "(noun)",
+   "def": "Changing a data structure over time without breaking consumers\nहिंदी: डेटा संरचना में क्रमिक बदलाव",
+   "examples": [
+    "Schema evolution rules prevent breaking changes.",
+    "Plan for schema evolution from day one.",
+    "Avro supports schema evolution with default values.",
+    "Schema evolution let us add fields without breaking old apps."
+   ]
+  },
+  {
+   "id": "pack6-card-764",
+   "mode": "vocab",
+   "word": "data lineage",
+   "pron": "(noun)",
+   "def": "The record of where data came from and how it changed\nहिंदी: डेटा की उत्पत्ति और बदलाव का रिकॉर्ड",
+   "examples": [
+    "Data lineage helps auditors trace each number.",
+    "Data lineage shows which source fed this dashboard number.",
+    "Without data lineage, fixing a wrong report takes days.",
+    "The new tool draws data lineage automatically."
+   ]
+  },
+  {
+   "id": "pack6-card-765",
+   "mode": "vocab",
+   "word": "data quality",
+   "pron": "(noun)",
+   "def": "The accuracy, completeness and reliability of data\nहिंदी: डेटा की गुणवत्ता",
+   "examples": [
+    "Poor data quality undermines trust in reports.",
+    "We run data quality checks before loading the warehouse.",
+    "Data quality issues came from manual entry at branches.",
+    "The data quality score is shown on every report."
+   ]
+  },
+  {
+   "id": "pack6-card-766",
+   "mode": "vocab",
+   "word": "source of truth",
+   "pron": "(noun)",
+   "def": "The authoritative origin of a piece of data\nहिंदी: प्रामाणिक डेटा स्रोत",
+   "examples": [
+    "The instrument master is the source of truth.",
+    "The HR system is the source of truth for employee details.",
+    "Two sources of truth always lead to arguments.",
+    "Update the source of truth, not the copies."
+   ]
+  },
+  {
+   "id": "pack6-card-767",
+   "mode": "vocab",
+   "word": "golden record",
+   "pron": "(noun)",
+   "def": "The single, most accurate version of an entity's data\nहिंदी: सबसे सटीक एकल रिकॉर्ड",
+   "examples": [
+    "We merge vendor data into a golden record.",
+    "The golden record combines details from sales and support.",
+    "Building a golden record for each customer took months.",
+    "Reports should always use the golden record."
+   ]
+  },
+  {
+   "id": "pack6-card-768",
+   "mode": "vocab",
+   "word": "master data",
+   "pron": "(noun)",
+   "def": "Core business data shared across systems\nहिंदी: मुख्य साझा व्यावसायिक डेटा",
+   "examples": [
+    "Master data management removes conflicting copies.",
+    "Customer and product lists are part of master data.",
+    "Errors in master data spread to every downstream system.",
+    "A small team owns master data changes."
+   ]
+  },
+  {
+   "id": "pack6-card-769",
+   "mode": "vocab",
+   "word": "enrichment",
+   "pron": "(noun)",
+   "def": "Adding extra information to existing data\nहिंदी: डेटा में अतिरिक्त जानकारी जोड़ना",
+   "examples": [
+    "Enrichment adds sector and currency to each record.",
+    "Address enrichment adds the pin code and district.",
+    "Enrichment with weather data improved our demand forecast.",
+    "The enrichment step runs after validation."
+   ]
+  },
+  {
+   "id": "pack6-card-770",
+   "mode": "vocab",
+   "word": "normalise",
+   "pron": "(verb)",
+   "def": "To convert data to a common standard format\nहिंदी: डेटा को मानक रूप में बदलना",
+   "examples": [
+    "We normalise vendor formats into one canonical model.",
+    "Normalise phone numbers so they all start with the country code.",
+    "The script normalises dates into one format.",
+    "We normalise customer names before matching duplicates."
+   ]
+  },
+  {
+   "id": "pack6-card-771",
+   "mode": "vocab",
+   "word": "canonical",
+   "pron": "(adjective)",
+   "def": "Standard and authoritative\nहिंदी: मानक / प्रामाणिक",
+   "examples": [
+    "All vendors map to one canonical schema.",
+    "The canonical order format is shared by all teams.",
+    "Map every vendor field to its canonical name.",
+    "Store a canonical copy and convert only when exporting."
+   ]
+  },
+  {
+   "id": "pack6-card-772",
+   "mode": "vocab",
+   "word": "serialise",
+   "pron": "(verb)",
+   "def": "To convert data into a format for storage or transmission\nहिंदी: डेटा को संग्रहण योग्य रूप देना",
+   "examples": [
+    "Avro is used to serialise the messages.",
+    "We serialise the user object to JSON before saving it.",
+    "Serialising large objects can be slow.",
+    "The cache stores serialised responses for quick reuse."
+   ]
+  },
+  {
+   "id": "pack6-card-773",
+   "mode": "vocab",
+   "word": "deserialise",
+   "pron": "(verb)",
+   "def": "To convert stored data back into objects\nहिंदी: संग्रहीत डेटा को वापस वस्तु रूप देना",
+   "examples": [
+    "Deserialisation failed due to a missing field.",
+    "The app deserialises the JSON response into a user object.",
+    "We deserialise messages using the schema registry.",
+    "An old client couldn't deserialise the new field type."
+   ]
+  },
+  {
+   "id": "pack6-card-774",
+   "mode": "vocab",
+   "word": "gateway",
+   "pron": "(noun)",
+   "def": "An entry point that manages access to services\nहिंदी: प्रवेश द्वार",
+   "examples": [
+    "All external calls pass through the API gateway.",
+    "The payment gateway connects our shop to the bank.",
+    "The gateway checks the token before passing requests on.",
+    "We added rate limits at the gateway level."
+   ]
+  },
+  {
+   "id": "pack6-card-775",
+   "mode": "vocab",
+   "word": "endpoint",
+   "pron": "(noun)",
+   "def": "A URL where a service can be accessed\nहिंदी: सेवा का पता",
+   "examples": [
+    "The endpoint returns data in JSON format.",
+    "The login endpoint returns a token if the password is correct.",
+    "Document every endpoint with examples.",
+    "The health endpoint tells us if the service is alive."
+   ]
+  },
+  {
+   "id": "pack6-card-776",
+   "mode": "vocab",
+   "word": "payload size",
+   "pron": "(noun)",
+   "def": "The amount of data in a request or message\nहिंदी: संदेश में डेटा की मात्रा",
+   "examples": [
+    "Large payload sizes slow down the queue.",
+    "Compress images to reduce payload size on mobile networks.",
+    "The API rejects requests above a certain payload size.",
+    "We reduced payload size by sending only the changed fields."
+   ]
+  },
+  {
+   "id": "pack6-card-777",
+   "mode": "vocab",
+   "word": "rate limit",
+   "pron": "(noun)",
+   "def": "A cap on the number of requests allowed in a period\nहिंदी: अनुरोधों की अधिकतम सीमा",
+   "examples": [
+    "The vendor's rate limit blocks bulk downloads.",
+    "We hit the rate limit and had to wait a minute.",
+    "Each customer has a rate limit of one thousand calls per hour.",
+    "Add a rate limit to the login page to stop attacks."
+   ]
+  },
+  {
+   "id": "pack6-card-778",
+   "mode": "vocab",
+   "word": "circuit breaker",
+   "pron": "(noun)",
+   "def": "A pattern that stops calls to a failing service\nहिंदी: विफल सेवा को कॉल रोकने वाला पैटर्न",
+   "examples": [
+    "The circuit breaker opened after five consecutive failures.",
+    "The circuit breaker stops us from flooding a broken service.",
+    "After thirty seconds, the circuit breaker tries again.",
+    "Add a circuit breaker around the slow vendor API."
+   ]
+  },
+  {
+   "id": "pack6-card-779",
+   "mode": "vocab",
+   "word": "bulkhead",
+   "pron": "(noun)",
+   "def": "Isolation of components so one failure doesn't spread\nहिंदी: विफलता को फैलने से रोकने वाला पृथक्करण",
+   "examples": [
+    "A bulkhead keeps one vendor's issue from affecting others.",
+    "Separate thread pools act as a bulkhead between services.",
+    "A bulkhead design limits the damage from one slow dependency.",
+    "We added a bulkhead so reports can't starve live traffic."
+   ]
+  },
+  {
+   "id": "pack6-card-780",
+   "mode": "vocab",
+   "word": "retry",
+   "pron": "(verb)",
+   "def": "To attempt an operation again after failure\nहिंदी: दोबारा प्रयास करना",
+   "examples": [
+    "The job retries three times before alerting.",
+    "The app will retry the upload when the network returns.",
+    "Don't retry forever; set a maximum number of attempts.",
+    "Each retry waits a little longer than the last."
+   ]
+  },
+  {
+   "id": "pack6-card-781",
+   "mode": "vocab",
+   "word": "timeout",
+   "pron": "(noun)",
+   "def": "A limit on how long to wait before giving up\nहिंदी: प्रतीक्षा की अधिकतम अवधि",
+   "examples": [
+    "The timeout was too short for large files.",
+    "The page shows a timeout error after thirty seconds.",
+    "Set a timeout on every external call.",
+    "We increased the timeout for the monthly report."
+   ]
+  },
+  {
+   "id": "pack6-card-782",
+   "mode": "vocab",
+   "word": "heartbeat",
+   "pron": "(noun)",
+   "def": "A periodic signal showing a service is alive\nहिंदी: सेवा जीवित होने का संकेत",
+   "examples": [
+    "Missing heartbeats triggered the failover.",
+    "Each worker sends a heartbeat every ten seconds.",
+    "No heartbeat for a minute means the node is marked dead.",
+    "The heartbeat dashboard shows which agents are online."
+   ]
+  },
+  {
+   "id": "pack6-card-783",
+   "mode": "vocab",
+   "word": "health check",
+   "pron": "(noun)",
+   "def": "A test to see if a service is functioning\nहिंदी: सेवा की स्थिति की जाँच",
+   "examples": [
+    "The health check failed after the memory spike.",
+    "The load balancer runs a health check every five seconds.",
+    "Make the health check test the database connection too.",
+    "A failing health check removed the server from rotation."
+   ]
+  },
+  {
+   "id": "pack6-card-784",
+   "mode": "vocab",
+   "word": "graceful shutdown",
+   "pron": "(noun)",
+   "def": "Stopping a service after finishing in-progress work\nहिंदी: चल रहे काम पूरे कर बंद करना",
+   "examples": [
+    "Graceful shutdown prevents half-processed files.",
+    "Graceful shutdown lets current users finish their payments.",
+    "Kubernetes waits thirty seconds for graceful shutdown.",
+    "Without graceful shutdown, deploys caused failed requests."
+   ]
+  },
+  {
+   "id": "pack6-card-785",
+   "mode": "vocab",
+   "word": "cold start",
+   "pron": "(noun)",
+   "def": "Delay when a function or service starts from idle\nहिंदी: निष्क्रिय से शुरू होने में देरी",
+   "examples": [
+    "Lambda cold starts affected our response time.",
+    "The first request after a quiet night suffers a cold start.",
+    "We keep one instance warm to avoid cold starts.",
+    "Java functions usually have a longer cold start."
+   ]
+  },
+  {
+   "id": "pack6-card-786",
+   "mode": "vocab",
+   "word": "serverless",
+   "pron": "(adjective)",
+   "def": "Running code without managing servers\nहिंदी: सर्वरलेस",
+   "examples": [
+    "Serverless suits spiky, unpredictable workloads.",
+    "With serverless, we pay only when code actually runs.",
+    "Our image resizing runs as a serverless function.",
+    "Serverless isn't ideal for long-running jobs."
+   ]
+  },
+  {
+   "id": "pack6-card-787",
+   "mode": "vocab",
+   "word": "containerise",
+   "pron": "(verb)",
+   "def": "To package an application with its dependencies\nहिंदी: कंटेनर में पैक करना",
+   "examples": [
+    "We containerised the parser for consistent deployment.",
+    "Containerise the app so it runs the same on every laptop.",
+    "We containerised the old service before moving it to the cloud.",
+    "Containerising tests made the CI builds more reliable."
+   ]
+  },
+  {
+   "id": "pack6-card-788",
+   "mode": "vocab",
+   "word": "orchestration",
+   "pron": "(noun)",
+   "def": "Automated coordination of services and tasks\nहिंदी: सेवाओं का स्वचालित समन्वय",
+   "examples": [
+    "Kubernetes handles container orchestration.",
+    "Workflow orchestration tools schedule our nightly data jobs.",
+    "Orchestration restarts failed containers automatically.",
+    "Good orchestration hides a lot of operational work."
+   ]
+  },
+  {
+   "id": "pack6-card-789",
+   "mode": "vocab",
+   "word": "infrastructure as code",
+   "pron": "(noun)",
+   "def": "Managing infrastructure through versioned configuration files\nहिंदी: कोड से इन्फ्रास्ट्रक्चर प्रबंधन",
+   "examples": [
+    "Infrastructure as code makes environments reproducible.",
+    "With infrastructure as code, every change goes through code review.",
+    "We rebuilt the test environment in minutes using infrastructure as code.",
+    "Infrastructure as code removes manual clicking in the console."
+   ]
+  },
+  {
+   "id": "pack6-card-790",
+   "mode": "vocab",
+   "word": "immutable",
+   "pron": "(adjective)",
+   "def": "Unchangeable after creation\nहिंदी: अपरिवर्तनीय",
+   "examples": [
+    "We deploy immutable images rather than patching servers.",
+    "Immutable servers are replaced, never edited by hand.",
+    "Make the config object immutable so nobody changes it by mistake.",
+    "Immutable backups protect us from ransomware."
+   ]
+  },
+  {
+   "id": "pack6-card-791",
+   "mode": "vocab",
+   "word": "ephemeral",
+   "pron": "(adjective)",
+   "def": "Existing only for a short time\nहिंदी: अल्पकालिक",
+   "examples": [
+    "Ephemeral environments are created for each pull request.",
+    "Ephemeral storage is lost when the container restarts.",
+    "Use ephemeral test databases that delete themselves after the run.",
+    "Ephemeral credentials expire after one hour."
+   ]
+  },
+  {
+   "id": "pack6-card-792",
+   "mode": "vocab",
+   "word": "multi-tenant",
+   "pron": "(adjective)",
+   "def": "Serving multiple customers from one shared system\nहिंदी: एक ही सिस्टम से कई ग्राहकों को सेवा देने वाला",
+   "examples": [
+    "A multi-tenant design lowers cost per client.",
+    "Most SaaS products are multi-tenant.",
+    "In a multi-tenant system, one noisy client can affect others.",
+    "We moved from single-tenant to multi-tenant to save costs."
+   ]
+  },
+  {
+   "id": "pack6-card-793",
+   "mode": "vocab",
+   "word": "tenant isolation",
+   "pron": "(noun)",
+   "def": "Keeping each customer's data separate\nहिंदी: ग्राहकों के डेटा का पृथक्करण",
+   "examples": [
+    "Tenant isolation is a strict security requirement.",
+    "Every query filters by customer ID to ensure tenant isolation.",
+    "Big banks often pay extra for stronger tenant isolation.",
+    "A bug in tenant isolation could leak one client's data to another."
+   ]
+  },
+  {
+   "id": "pack6-card-794",
+   "mode": "vocab",
+   "word": "least privilege",
+   "pron": "(noun)",
+   "def": "Granting only the minimum access required\nहिंदी: न्यूनतम आवश्यक अधिकार",
+   "examples": [
+    "Apply least privilege to all service accounts.",
+    "Under least privilege, interns get read-only access.",
+    "Review permissions every quarter to keep least privilege.",
+    "Least privilege limits the damage if a password is stolen."
+   ]
+  },
+  {
+   "id": "pack6-card-795",
+   "mode": "vocab",
+   "word": "encryption at rest",
+   "pron": "(noun)",
+   "def": "Protecting stored data by encrypting it\nहिंदी: संग्रहीत डेटा का एन्क्रिप्शन",
+   "examples": [
+    "Encryption at rest is mandatory for client data.",
+    "The cloud provider offers encryption at rest by default.",
+    "Auditors asked for proof of encryption at rest.",
+    "Laptops must use encryption at rest in case they're stolen."
+   ]
+  },
+  {
+   "id": "pack6-card-796",
+   "mode": "vocab",
+   "word": "authentication",
+   "pron": "(noun)",
+   "def": "Verifying who a user or system is\nहिंदी: पहचान सत्यापन",
+   "examples": [
+    "Authentication is handled by the central identity provider.",
+    "The app uses fingerprint authentication.",
+    "Two-factor authentication adds an extra layer of safety.",
+    "Authentication failed because the token had expired."
+   ]
+  },
+  {
+   "id": "pack6-card-797",
+   "mode": "vocab",
+   "word": "authorisation",
+   "pron": "(noun)",
+   "def": "Determining what an authenticated user may do\nहिंदी: अनुमतियों का निर्धारण",
+   "examples": [
+    "Authorisation checks happen at every endpoint.",
+    "Authorisation rules decide who can approve payments.",
+    "The user logged in but failed the authorisation check.",
+    "Keep authorisation logic in one place, not spread everywhere."
+   ]
+  },
+  {
+   "id": "pack6-card-798",
+   "mode": "vocab",
+   "word": "entitlement",
+   "pron": "(noun)",
+   "def": "A right to access a particular resource or data\nहिंदी: डेटा/संसाधन तक पहुँच का अधिकार",
+   "examples": [
+    "Vendor entitlements restrict who can view the data.",
+    "Check the user's entitlement before showing premium reports.",
+    "Entitlements are updated when a subscription changes.",
+    "She asked IT for an entitlement to the finance folder."
+   ]
+  },
+  {
+   "id": "pack6-card-800",
+   "mode": "vocab",
+   "word": "vulnerability",
+   "pron": "(noun)",
+   "def": "A weakness that could be exploited\nहिंदी: कमज़ोरी",
+   "examples": [
+    "The scan found a critical vulnerability in the library.",
+    "Update your phone to fix the latest security vulnerability.",
+    "Report any vulnerability to the security team privately.",
+    "The vulnerability was patched within a day."
+   ]
+  },
+  {
+   "id": "pack6-card-801",
+   "mode": "vocab",
+   "word": "attack surface",
+   "pron": "(noun)",
+   "def": "The total points where a system could be attacked\nहिंदी: हमले के संभावित बिंदु",
+   "examples": [
+    "Removing unused endpoints shrinks the attack surface.",
+    "Every new integration adds to our attack surface.",
+    "Closing unused ports reduces the attack surface.",
+    "Old test servers increased the company's attack surface."
+   ]
+  },
+  {
+   "id": "pack6-card-802",
+   "mode": "vocab",
+   "word": "defence in depth",
+   "pron": "(noun)",
+   "def": "Using multiple layers of security\nहिंदी: बहु-स्तरीय सुरक्षा",
+   "examples": [
+    "Defence in depth means one failure doesn't expose everything.",
+    "Defence in depth uses firewalls, passwords and monitoring together.",
+    "A locked gate and a guard dog are defence in depth for a house.",
+    "Our security plan follows defence in depth."
+   ]
+  },
+  {
+   "id": "pack6-card-803",
+   "mode": "vocab",
+   "word": "trade-off analysis",
+   "pron": "(noun)",
+   "def": "Systematic comparison of options' benefits and costs\nहिंदी: विकल्पों के लाभ-हानि का विश्लेषण",
+   "examples": [
+    "The design doc includes a full trade-off analysis.",
+    "The trade-off analysis compared cost, speed and risk.",
+    "Share the trade-off analysis with leadership before deciding.",
+    "A quick trade-off analysis showed that buying was cheaper."
+   ]
+  },
+  {
+   "id": "pack6-card-804",
+   "mode": "vocab",
+   "word": "design doc",
+   "pron": "(noun)",
+   "def": "A written proposal describing a technical approach\nहिंदी: तकनीकी योजना दस्तावेज़",
+   "examples": [
+    "Please review the design doc before Friday.",
+    "Write a design doc before building any large feature.",
+    "The design doc lists the options we considered.",
+    "Comments on the design doc improved the final plan."
+   ]
+  },
+  {
+   "id": "pack6-card-805",
+   "mode": "vocab",
+   "word": "architecture review",
+   "pron": "(noun)",
+   "def": "A formal evaluation of a proposed design\nहिंदी: आर्किटेक्चर की औपचारिक समीक्षा",
+   "examples": [
+    "The proposal passed the architecture review.",
+    "Book an architecture review two weeks before the build starts.",
+    "The architecture review flagged a security risk.",
+    "Senior engineers from three teams sit on the architecture review."
+   ]
+  },
+  {
+   "id": "pack6-card-806",
+   "mode": "vocab",
+   "word": "non-functional requirement",
+   "pron": "(noun)",
+   "def": "A quality attribute such as performance or security\nहिंदी: कार्यक्षमता के अलावा गुणवत्ता संबंधी आवश्यकता",
+   "examples": [
+    "Latency is a key non-functional requirement.",
+    "Availability is a non-functional requirement for the payment system.",
+    "Teams often forget to write down non-functional requirements.",
+    "Security is a non-functional requirement that affects every feature."
+   ]
+  },
+  {
+   "id": "pack6-card-807",
+   "mode": "vocab",
+   "word": "capacity planning",
+   "pron": "(noun)",
+   "def": "Estimating resources needed for future demand\nहिंदी: भविष्य की मांग के अनुसार संसाधन अनुमान",
+   "examples": [
+    "Capacity planning showed we need double the storage.",
+    "Capacity planning for Diwali starts in August.",
+    "Good capacity planning avoids last-minute server purchases.",
+    "Capacity planning uses growth trends from last year."
+   ]
+  },
+  {
+   "id": "pack6-card-808",
+   "mode": "vocab",
+   "word": "headroom",
+   "pron": "(noun)",
+   "def": "Spare capacity before reaching a limit\nहिंदी: उपलब्ध अतिरिक्त क्षमता",
+   "examples": [
+    "We have plenty of headroom on the database.",
+    "Keep thirty percent headroom on CPU for traffic spikes.",
+    "There's little headroom left in this quarter's budget.",
+    "We added servers to give ourselves more headroom."
+   ]
+  },
+  {
+   "id": "pack6-card-809",
+   "mode": "vocab",
+   "word": "peak load",
+   "pron": "(noun)",
+   "def": "The highest level of demand on a system\nहिंदी: अधिकतम भार",
+   "examples": [
+    "Peak load occurs between six and eight each morning.",
+    "The website must handle peak load during the cricket final.",
+    "Test the app at twice the expected peak load.",
+    "Peak load at the bank is on salary day."
+   ]
+  },
+  {
+   "id": "pack6-card-810",
+   "mode": "vocab",
+   "word": "burst",
+   "pron": "(noun)",
+   "def": "A short, intense period of activity\nहिंदी: अल्पकालिक तीव्र गतिविधि",
+   "examples": [
+    "The system must absorb bursts of files from many vendors.",
+    "The API can handle short bursts above the normal limit.",
+    "A burst of orders came in right after the ad aired.",
+    "Autoscaling handles bursts without manual work."
+   ]
+  },
+  {
+   "id": "pack6-card-811",
+   "mode": "vocab",
+   "word": "elasticity",
+   "pron": "(noun)",
+   "def": "The ability to scale resources up and down automatically\nहिंदी: मांग के अनुसार घटने-बढ़ने की क्षमता",
+   "examples": [
+    "Cloud elasticity keeps costs aligned with usage.",
+    "Elasticity lets us shrink the cluster at night.",
+    "The cloud's elasticity saved us money during quiet months.",
+    "Elasticity only helps if the app can scale horizontally."
+   ]
+  },
+  {
+   "id": "pack6-card-812",
+   "mode": "vocab",
+   "word": "cost-efficient",
+   "pron": "(adjective)",
+   "def": "Delivering good value for the money spent\nहिंदी: किफ़ायती",
+   "examples": [
+    "Spot instances are more cost-efficient for batch jobs.",
+    "Shared office space is more cost-efficient for small teams.",
+    "Find a cost-efficient way to store old logs.",
+    "Buying in bulk is more cost-efficient for the canteen."
+   ]
+  },
+  {
+   "id": "pack6-card-813",
+   "mode": "vocab",
+   "word": "footprint",
+   "pron": "(noun)",
+   "def": "The amount of resources a system consumes\nहिंदी: संसाधन उपयोग का दायरा",
+   "examples": [
+    "We reduced the memory footprint by half.",
+    "The app has a small footprint and runs on cheap phones.",
+    "We cut our cloud footprint by deleting unused servers.",
+    "The company wants to reduce its carbon footprint."
+   ]
+  },
+  {
+   "id": "pack6-card-815",
+   "mode": "vocab",
+   "word": "complexity",
+   "pron": "(noun)",
+   "def": "The state of having many interconnected parts\nहिंदी: जटिलता",
+   "examples": [
+    "Adding another service increases operational complexity.",
+    "The complexity of the tax rules confuses many people.",
+    "Remove complexity wherever you can.",
+    "Hidden complexity made the estimate far too low."
+   ]
+  },
+  {
+   "id": "pack6-card-816",
+   "mode": "vocab",
+   "word": "over-engineered",
+   "pron": "(adjective)",
+   "def": "Designed more complexly than necessary\nहिंदी: आवश्यकता से अधिक जटिल बनाया गया",
+   "examples": [
+    "A custom scheduler would be over-engineered here.",
+    "The app was over-engineered for a hundred users.",
+    "Don't build an over-engineered solution for a simple form.",
+    "His over-engineered design took months to finish."
+   ]
+  },
+  {
+   "id": "pack6-card-817",
+   "mode": "vocab",
+   "word": "under-engineered",
+   "pron": "(adjective)",
+   "def": "Too simple to meet the actual needs\nहिंदी: आवश्यकता से कम विकसित",
+   "examples": [
+    "The current solution is under-engineered for our scale.",
+    "The under-engineered system crashed on launch day.",
+    "An under-engineered backup plan is almost as bad as none.",
+    "Our logging was under-engineered, so debugging was slow."
+   ]
+  },
+  {
+   "id": "pack6-card-818",
+   "mode": "vocab",
+   "word": "future-proof",
+   "pron": "(adjective)",
+   "def": "Designed to remain useful as things change\nहिंदी: भविष्य के लिए सुरक्षित",
+   "examples": [
+    "An open standard makes the design more future-proof.",
+    "No design is completely future-proof.",
+    "Buy a future-proof laptop with enough memory.",
+    "Use standard formats to keep the data future-proof."
+   ]
+  },
+  {
+   "id": "pack6-card-819",
+   "mode": "vocab",
+   "word": "vendor lock-in",
+   "pron": "(noun)",
+   "def": "Dependence on one provider making switching costly\nहिंदी: एक प्रदाता पर निर्भरता",
+   "examples": [
+    "Proprietary features create vendor lock-in.",
+    "Using open standards helps avoid vendor lock-in.",
+    "Vendor lock-in made the price increase hard to refuse.",
+    "We accepted some vendor lock-in for faster delivery."
+   ]
+  },
+  {
+   "id": "pack6-card-820",
+   "mode": "vocab",
+   "word": "build versus buy",
+   "pron": "(noun)",
+   "def": "The decision whether to develop in-house or purchase\nहिंदी: खुद बनाएँ या खरीदें का निर्णय",
+   "examples": [
+    "The build versus buy question comes up every year.",
+    "For payroll, the build versus buy answer was clearly buy.",
+    "Write down the build versus buy reasoning in the design doc.",
+    "Build versus buy depends on how unique the feature is."
+   ]
+  },
+  {
+   "id": "pack6-card-821",
+   "mode": "vocab",
+   "word": "total cost of ownership",
+   "pron": "(noun)",
+   "def": "The full cost of a system over its lifetime\nहिंदी: कुल स्वामित्व लागत",
+   "examples": [
+    "Consider total cost of ownership, not just licence fees.",
+    "A cheap car can have a high total cost of ownership.",
+    "The total cost of ownership includes training and support.",
+    "Open source isn't free when you count total cost of ownership."
+   ]
+  },
+  {
+   "id": "pack6-card-822",
+   "mode": "vocab",
+   "word": "interoperability",
+   "pron": "(noun)",
+   "def": "The ability of different systems to work together\nहिंदी: विभिन्न प्रणालियों का साथ काम करना",
+   "examples": [
+    "Interoperability with legacy systems is essential.",
+    "UPI's interoperability lets any bank app pay any other bank.",
+    "Open standards improve interoperability between hospital systems.",
+    "Interoperability problems delayed the merger of the two IT systems."
+   ]
+  },
+  {
+   "id": "pack6-card-824",
+   "mode": "vocab",
+   "word": "greenfield",
+   "pron": "(adjective)",
+   "def": "A new project with no existing constraints\nहिंदी: बिल्कुल नया प्रोजेक्ट",
+   "examples": [
+    "A greenfield build gives us design freedom.",
+    "Greenfield projects are exciting but need clear decisions early.",
+    "The company built a greenfield factory outside Chennai.",
+    "On a greenfield project, we can pick any tech stack."
+   ]
+  },
+  {
+   "id": "pack6-card-825",
+   "mode": "vocab",
+   "word": "brownfield",
+   "pron": "(adjective)",
+   "def": "A project that must work within existing systems\nहिंदी: मौजूदा प्रणाली के भीतर काम करने वाला प्रोजेक्ट",
+   "examples": [
+    "This is a brownfield integration, so compatibility matters.",
+    "Most real work is brownfield, not greenfield.",
+    "The brownfield project had to reuse the old customer database.",
+    "Brownfield upgrades need careful testing of old features."
+   ]
+  },
+  {
+   "id": "pack6-card-826",
+   "mode": "vocab",
+   "word": "strangler pattern",
+   "pron": "(noun)",
+   "def": "Gradually replacing a legacy system piece by piece\nहिंदी: धीरे-धीरे पुरानी प्रणाली बदलना",
+   "examples": [
+    "We're using the strangler pattern to retire the old platform.",
+    "With the strangler pattern, we moved one page at a time to the new app.",
+    "The strangler pattern avoids a risky big-bang rewrite.",
+    "After two years of the strangler pattern, the legacy app was switched off."
+   ]
+  },
+  {
+   "id": "pack6-card-827",
+   "mode": "vocab",
+   "word": "refactoring",
+   "pron": "(noun)",
+   "def": "Improving code structure without changing behaviour\nहिंदी: कोड संरचना सुधार",
+   "examples": [
+    "The refactoring reduced the module's complexity.",
+    "Schedule time for refactoring every sprint.",
+    "Good tests make refactoring safe.",
+    "The refactoring removed five hundred lines of duplicate code."
+   ]
+  },
+  {
+   "id": "pack6-card-828",
+   "mode": "vocab",
+   "word": "coupling",
+   "pron": "(noun)",
+   "def": "The degree of dependence between components\nहिंदी: घटकों की आपसी निर्भरता",
+   "examples": [
+    "Tight coupling made the change risky.",
+    "Loose coupling lets teams release independently.",
+    "Coupling between the UI and database made every change painful.",
+    "Shared tables are a hidden form of coupling."
+   ]
+  },
+  {
+   "id": "pack6-card-829",
+   "mode": "vocab",
+   "word": "cohesion",
+   "pron": "(noun)",
+   "def": "How closely related a module's responsibilities are\nहिंदी: मॉड्यूल की जिम्मेदारियों की निकटता",
+   "examples": [
+    "High cohesion makes each service easier to understand.",
+    "Low cohesion makes a class hard to name.",
+    "Group related functions together for better cohesion.",
+    "The billing module has good cohesion; it only handles invoices."
+   ]
+  },
+  {
+   "id": "pack6-card-830",
+   "mode": "vocab",
+   "word": "separation of concerns",
+   "pron": "(noun)",
+   "def": "Dividing a system so each part handles a distinct responsibility\nहिंदी: ज़िम्मेदारियों का अलग-अलग विभाजन",
+   "examples": [
+    "Separation of concerns keeps parsing apart from validation.",
+    "Separation of concerns keeps business rules out of the UI.",
+    "The framework encourages separation of concerns.",
+    "Mixing logging and logic breaks separation of concerns."
+   ]
+  },
+  {
+   "id": "pack6-card-831",
+   "mode": "vocab",
+   "word": "single responsibility",
+   "pron": "(noun)",
+   "def": "Each component should have one reason to change\nहिंदी: हर घटक की एक ही ज़िम्मेदारी",
+   "examples": [
+    "The class violates single responsibility by doing everything.",
+    "Split the big function so each part has a single responsibility.",
+    "Single responsibility makes code easier to test.",
+    "Following single responsibility, the email service only sends emails."
+   ]
+  },
+  {
+   "id": "pack6-card-832",
+   "mode": "vocab",
+   "word": "dependency injection",
+   "pron": "(noun)",
+   "def": "Supplying a component's dependencies from outside\nहिंदी: निर्भरताओं को बाहर से देना",
+   "examples": [
+    "Dependency injection makes the service easier to test.",
+    "With dependency injection, we pass a fake database in tests.",
+    "Spring handles dependency injection for us.",
+    "Dependency injection makes it easy to swap the payment provider."
+   ]
+  },
+  {
+   "id": "pack6-card-833",
+   "mode": "vocab",
+   "word": "polymorphism",
+   "pron": "(noun)",
+   "def": "Treating different types through a common interface\nहिंदी: एक इंटरफ़ेस से विभिन्न रूप संभालना",
+   "examples": [
+    "Polymorphism lets us add vendors without changing core logic.",
+    "Polymorphism lets every shape calculate its own area.",
+    "The interviewer asked me to explain polymorphism with an example.",
+    "Thanks to polymorphism, the report code handles all account types."
+   ]
+  },
+  {
+   "id": "pack6-card-835",
+   "mode": "vocab",
+   "word": "facade",
+   "pron": "(noun)",
+   "def": "A simplified interface to a complex subsystem\nहिंदी: जटिल प्रणाली का सरल इंटरफ़ेस",
+   "examples": [
+    "A facade hides the messy vendor integrations.",
+    "The facade gives other teams one simple method to call.",
+    "Build a facade over the old library so it's easier to use.",
+    "The booking facade hides calls to five internal services."
+   ]
+  },
+  {
+   "id": "pack6-card-836",
+   "mode": "vocab",
+   "word": "adapter",
+   "pron": "(noun)",
+   "def": "A component that translates between incompatible interfaces\nहिंदी: असंगत इंटरफ़ेस के बीच अनुवादक",
+   "examples": [
+    "Each vendor has its own adapter to our model.",
+    "A travel adapter lets my phone charger work abroad.",
+    "We wrote an adapter to connect the new app to the old API.",
+    "Replace the adapter, not the core, when the vendor changes."
+   ]
+  },
+  {
+   "id": "pack6-card-837",
+   "mode": "vocab",
+   "word": "strategy pattern",
+   "pron": "(noun)",
+   "def": "Choosing an algorithm at runtime from interchangeable options\nहिंदी: रनटाइम पर एल्गोरिदम चुनने का पैटर्न",
+   "examples": [
+    "The strategy pattern selects the parser per vendor.",
+    "The strategy pattern lets us switch discount rules easily.",
+    "Use the strategy pattern instead of a giant if-else block.",
+    "Each shipping method is a separate class in the strategy pattern."
+   ]
+  },
+  {
+   "id": "pack6-card-838",
+   "mode": "vocab",
+   "word": "factory",
+   "pron": "(noun)",
+   "def": "A component that creates objects without exposing the logic\nहिंदी: वस्तुएँ बनाने वाला घटक",
+   "examples": [
+    "A factory returns the right parser for each file type.",
+    "The factory creates the right notification type: SMS or email.",
+    "Use a factory so callers don't need to know the details.",
+    "The test uses a factory to build sample users."
+   ]
+  },
+  {
+   "id": "pack6-card-839",
+   "mode": "vocab",
+   "word": "observer pattern",
+   "pron": "(noun)",
+   "def": "A design where objects are notified of changes\nहिंदी: परिवर्तन की सूचना पाने वाला पैटर्न",
+   "examples": [
+    "The observer pattern notifies subscribers of price updates.",
+    "The observer pattern updates all screens when data changes.",
+    "UI frameworks often use the observer pattern for events.",
+    "With the observer pattern, new listeners don't change the source."
+   ]
+  },
+  {
+   "id": "pack6-card-840",
+   "mode": "vocab",
+   "word": "domain-driven design",
+   "pron": "(noun)",
+   "def": "Designing software around the business domain\nहिंदी: व्यावसायिक क्षेत्र केंद्रित डिज़ाइन",
+   "examples": [
+    "Domain-driven design helped align code with business terms.",
+    "Domain-driven design starts with talking to business experts.",
+    "Domain-driven design works best for complex business rules.",
+    "She gave a talk on domain-driven design in banking."
+   ]
+  },
+  {
+   "id": "pack6-card-841",
+   "mode": "vocab",
+   "word": "bounded context",
+   "pron": "(noun)",
+   "def": "A boundary within which a domain model applies\nहिंदी: एक मॉडल का सीमित दायरा",
+   "examples": [
+    "Each bounded context owns its definition of an instrument.",
+    "In the sales bounded context, a customer means a lead.",
+    "Draw each bounded context on the whiteboard first.",
+    "A clear bounded context reduces confusion between teams."
+   ]
+  },
+  {
+   "id": "pack6-card-842",
+   "mode": "vocab",
+   "word": "ubiquitous language",
+   "pron": "(noun)",
+   "def": "Shared vocabulary between developers and business\nहिंदी: साझा शब्दावली",
+   "examples": [
+    "We agreed on a ubiquitous language for pricing terms.",
+    "A ubiquitous language means the code uses the same words as the business.",
+    "We built a glossary to support a ubiquitous language.",
+    "Without a ubiquitous language, meetings were full of confusion."
+   ]
+  },
+  {
+   "id": "pack6-card-843",
+   "mode": "vocab",
+   "word": "aggregate",
+   "pron": "(noun)",
+   "def": "A cluster of related objects treated as a unit\nहिंदी: संबंधित वस्तुओं का समूह",
+   "examples": [
+    "The order is the aggregate root for its line items.",
+    "Change the cart only through its aggregate root.",
+    "The aggregate keeps the order and its payments consistent.",
+    "Keep aggregates small to avoid locking problems."
+   ]
+  },
+  {
+   "id": "pack6-card-844",
+   "mode": "vocab",
+   "word": "CQRS",
+   "pron": "(abbreviation)",
+   "def": "Separating read and write models of a system\nहिंदी: पढ़ने व लिखने के मॉडल का पृथक्करण",
+   "examples": [
+    "CQRS lets us optimise queries independently of writes.",
+    "CQRS adds complexity, so use it only when needed.",
+    "With CQRS, the read side uses a fast search index.",
+    "The team adopted CQRS for the reporting service."
+   ]
+  },
+  {
+   "id": "pack6-card-845",
+   "mode": "vocab",
+   "word": "event sourcing",
+   "pron": "(noun)",
+   "def": "Storing state as a sequence of events\nहिंदी: घटनाओं के क्रम के रूप में स्थिति सहेजना",
+   "examples": [
+    "Event sourcing gives us a complete audit history.",
+    "Event sourcing lets us rebuild any account balance from history.",
+    "Event sourcing works well for financial ledgers.",
+    "Debugging is easier with event sourcing because nothing is overwritten."
+   ]
+  },
+  {
+   "id": "pack6-card-846",
+   "mode": "vocab",
+   "word": "saga",
+   "pron": "(noun)",
+   "def": "A sequence of local transactions coordinated across services\nहिंदी: वितरित लेन-देन की शृंखला",
+   "examples": [
+    "A saga handles the multi-step booking process.",
+    "If payment fails, the saga cancels the hotel booking.",
+    "Each step in the saga has a compensating action.",
+    "We model order fulfilment as a saga across three services."
+   ]
+  },
+  {
+   "id": "pack6-card-847",
+   "mode": "vocab",
+   "word": "choreography",
+   "pron": "(noun)",
+   "def": "Services coordinating through events without a central controller\nहिंदी: बिना केंद्रीय नियंत्रक के समन्वय",
+   "examples": [
+    "Choreography reduces central coupling but is harder to trace.",
+    "With choreography, each service listens and reacts on its own.",
+    "Choreography worked well until the flow had ten steps.",
+    "We switched from choreography to orchestration for clarity."
+   ]
+  },
+  {
+   "id": "pack6-card-848",
+   "mode": "vocab",
+   "word": "polling",
+   "pron": "(noun)",
+   "def": "Repeatedly checking for new data\nहिंदी: बार-बार जाँचना",
+   "examples": [
+    "Polling every second wastes resources.",
+    "The app uses polling to check the order status every minute.",
+    "Replace polling with webhooks to save resources.",
+    "Polling is simple but adds load on the server."
+   ]
+  },
+  {
+   "id": "pack6-card-849",
+   "mode": "vocab",
+   "word": "webhook",
+   "pron": "(noun)",
+   "def": "A callback sent automatically when an event occurs\nहिंदी: घटना होने पर स्वचालित सूचना कॉल",
+   "examples": [
+    "The vendor calls our webhook when a file is ready.",
+    "The payment provider sends a webhook when the payment succeeds.",
+    "Secure your webhook with a signature check.",
+    "The webhook failed because our server was down."
+   ]
+  },
+  {
+   "id": "pack6-card-850",
+   "mode": "vocab",
+   "word": "long-running",
+   "pron": "(adjective)",
+   "def": "Taking a significant time to complete\nहिंदी: लंबे समय तक चलने वाला",
+   "examples": [
+    "Long-running jobs should checkpoint their progress.",
+    "Long-running reports run in the background, not in the browser.",
+    "Show a progress bar for long-running tasks.",
+    "The long-running migration took three days to finish."
+   ]
+  },
+  {
+   "id": "pack6-card-851",
+   "mode": "vocab",
+   "word": "checkpoint",
+   "pron": "(noun)",
+   "def": "A saved state from which processing can resume\nहिंदी: पुनः आरंभ योग्य सहेजा गया बिंदु",
+   "examples": [
+    "The job resumes from its last checkpoint after a crash.",
+    "Save a checkpoint every thousand records.",
+    "Video games save a checkpoint before each level.",
+    "The checkpoint saved us from restarting a six-hour job."
+   ]
+  },
+  {
+   "id": "pack6-card-852",
+   "mode": "vocab",
+   "word": "replay",
+   "pron": "(verb)",
+   "def": "To process past events again\nहिंदी: पिछली घटनाओं को दोबारा चलाना",
+   "examples": [
+    "We replayed yesterday's messages to fix the totals.",
+    "Replay the events into the new service to fill its database.",
+    "We can replay any day's orders from the log.",
+    "The replay took two hours because of the volume."
+   ]
+  },
+  {
+   "id": "pack6-card-853",
+   "mode": "vocab",
+   "word": "backfill",
+   "pron": "(verb)",
+   "def": "To fill in missing historical data\nहिंदी: छूटे हुए पुराने डेटा को भरना",
+   "examples": [
+    "We backfilled three months of corrected prices.",
+    "We need to backfill the new column for old customers.",
+    "The backfill job runs at night to avoid slowing the site.",
+    "After the backfill, all reports showed complete history."
+   ]
+  },
+  {
+   "id": "pack6-card-854",
+   "mode": "vocab",
+   "word": "reprocess",
+   "pron": "(verb)",
+   "def": "To run data through processing again\nहिंदी: डेटा को दोबारा प्रसंस्कृत करना",
+   "examples": [
+    "Reprocess the failed files once the bug is fixed.",
+    "We had to reprocess last week's orders after the tax fix.",
+    "Reprocessing everything would take two days.",
+    "Only reprocess the records that failed validation."
+   ]
+  },
+  {
+   "id": "pack6-card-855",
+   "mode": "vocab",
+   "word": "dedupe",
+   "pron": "(verb)",
+   "def": "To remove duplicate records\nहिंदी: दोहराए गए रिकॉर्ड हटाना",
+   "examples": [
+    "We dedupe on vendor ID and timestamp.",
+    "Dedupe the mailing list before sending the newsletter.",
+    "The import tool dedupes contacts by phone number.",
+    "We forgot to dedupe, so customers got two emails."
+   ]
+  },
+  {
+   "id": "pack6-card-856",
+   "mode": "vocab",
+   "word": "watermark",
+   "pron": "(noun)",
+   "def": "A marker indicating how far processing has progressed\nहिंदी: प्रसंस्करण की प्रगति का चिह्न",
+   "examples": [
+    "Late events arrive after the watermark has passed.",
+    "Events older than the watermark are treated as late.",
+    "The watermark moves forward as new data arrives.",
+    "Set the watermark delay to allow for slow mobile uploads."
+   ]
+  },
+  {
+   "id": "pack6-card-857",
+   "mode": "vocab",
+   "word": "windowing",
+   "pron": "(noun)",
+   "def": "Grouping streaming data into time-based chunks\nहिंदी: समय-आधारित खंडों में बाँटना",
+   "examples": [
+    "Windowing computes totals every five minutes.",
+    "Windowing lets us count orders per minute.",
+    "We used one-hour windowing for the traffic report.",
+    "Choose the windowing size based on how fresh the data must be."
+   ]
+  },
+  {
+   "id": "pack6-card-858",
+   "mode": "vocab",
+   "word": "ordering guarantee",
+   "pron": "(noun)",
+   "def": "An assurance that messages are processed in sequence\nहिंदी: क्रम बनाए रखने की गारंटी",
+   "examples": [
+    "Kafka only provides an ordering guarantee within a partition.",
+    "Bank transactions need an ordering guarantee per account.",
+    "Without an ordering guarantee, a cancel may arrive before the order.",
+    "Using the account ID as the key gives us an ordering guarantee."
+   ]
+  },
+  {
+   "id": "pack6-card-859",
+   "mode": "vocab",
+   "word": "sticky session",
+   "pron": "(noun)",
+   "def": "Routing a user's requests to the same server\nहिंदी: एक ही सर्वर पर अनुरोध भेजना",
+   "examples": [
+    "Sticky sessions complicate horizontal scaling.",
+    "The old app needs sticky sessions because it stores carts in memory.",
+    "We removed sticky sessions after moving sessions to Redis.",
+    "Sticky sessions can overload one server."
+   ]
+  },
+  {
+   "id": "pack6-card-860",
+   "mode": "vocab",
+   "word": "blue-green deployment",
+   "pron": "(noun)",
+   "def": "Switching traffic between two identical environments\nहिंदी: दो समान वातावरणों में स्विच करने वाली तैनाती",
+   "examples": [
+    "Blue-green deployment gave us a zero-downtime release.",
+    "With blue-green deployment, rollback is just a traffic switch.",
+    "Blue-green deployment needs double the servers for a short time.",
+    "We used blue-green deployment for the database-free services."
+   ]
+  },
+  {
+   "id": "pack6-card-861",
+   "mode": "vocab",
+   "word": "rolling update",
+   "pron": "(noun)",
+   "def": "Gradually replacing instances with a new version\nहिंदी: धीरे-धीरे नया संस्करण लगाना",
+   "examples": [
+    "A rolling update keeps the service available throughout.",
+    "The rolling update replaced one server every two minutes.",
+    "Pause the rolling update if errors increase.",
+    "A rolling update is the default in Kubernetes."
+   ]
+  },
+  {
+   "id": "pack6-card-862",
+   "mode": "vocab",
+   "word": "configuration",
+   "pron": "(noun)",
+   "def": "Settings that control how a system behaves\nहिंदी: सेटिंग्स का समूह",
+   "examples": [
+    "Keep configuration separate from code.",
+    "Store configuration in environment variables, not in the code.",
+    "A wrong configuration value took the site down.",
+    "Review configuration changes just like code changes."
+   ]
+  },
+  {
+   "id": "pack6-card-863",
+   "mode": "vocab",
+   "word": "secrets management",
+   "pron": "(noun)",
+   "def": "Securely storing and controlling sensitive credentials\nहिंदी: गोपनीय क्रेडेंशियल्स का सुरक्षित प्रबंधन",
+   "examples": [
+    "Secrets management prevents passwords leaking into repositories.",
+    "Use a secrets management tool instead of storing passwords in files.",
+    "Secrets management rotates database passwords automatically.",
+    "The audit checked our secrets management process."
+   ]
+  },
+  {
+   "id": "pack6-card-864",
+   "mode": "vocab",
+   "word": "tracing",
+   "pron": "(noun)",
+   "def": "Following a request across multiple services\nहिंदी: अनुरोध का सेवाओं के बीच अनुसरण",
+   "examples": [
+    "Distributed tracing found the slow downstream call.",
+    "Tracing showed that ninety percent of the time was spent in one call.",
+    "Add tracing to the checkout flow before the sale.",
+    "Tracing tools draw a timeline of every request."
+   ]
+  },
+  {
+   "id": "pack6-card-865",
+   "mode": "vocab",
+   "word": "correlation ID",
+   "pron": "(noun)",
+   "def": "A unique identifier linking related log entries\nहिंदी: संबंधित लॉग जोड़ने वाली पहचान",
+   "examples": [
+    "Include a correlation ID in every log line.",
+    "Search the logs using the correlation ID from the error message.",
+    "The gateway adds a correlation ID to every request.",
+    "Without a correlation ID, linking logs across services is painful."
+   ]
+  },
+  {
+   "id": "pack6-card-866",
+   "mode": "vocab",
+   "word": "structured logging",
+   "pron": "(noun)",
+   "def": "Logging in a consistent machine-readable format\nहिंदी: मशीन-पठनीय एकरूप लॉगिंग",
+   "examples": [
+    "Structured logging makes searching much easier.",
+    "Structured logging lets us filter by customer ID easily.",
+    "We moved to structured logging in JSON format.",
+    "Structured logging helped us build better dashboards."
+   ]
+  },
+  {
+   "id": "pack6-card-867",
+   "mode": "vocab",
+   "word": "SLO",
+   "pron": "(abbreviation)",
+   "def": "A target level of service reliability\nहिंदी: सेवा विश्वसनीयता का लक्ष्य",
+   "examples": [
+    "Our SLO is 99.9 percent of files processed within an hour.",
+    "We missed our SLO for page load time last month.",
+    "Agree on an SLO with the business before launch.",
+    "Each team publishes its SLO on the wiki."
+   ]
+  },
+  {
+   "id": "pack6-card-868",
+   "mode": "vocab",
+   "word": "error budget",
+   "pron": "(noun)",
+   "def": "The permitted amount of failure within an SLO\nहिंदी: अनुमत विफलता की सीमा",
+   "examples": [
+    "We have used most of our error budget this month.",
+    "When the error budget runs out, we stop releasing new features.",
+    "The error budget helps balance speed and reliability.",
+    "We spent half our error budget in one bad deploy."
+   ]
+  },
+  {
+   "id": "pack6-card-869",
+   "mode": "vocab",
+   "word": "toil",
+   "pron": "(noun)",
+   "def": "Repetitive manual operational work that can be automated\nहिंदी: दोहराया जाने वाला हाथ का परिचालन कार्य",
+   "examples": [
+    "Reducing toil frees the team for engineering work.",
+    "Restarting servers by hand every week is pure toil.",
+    "Track toil hours to justify automation work.",
+    "Our goal is to keep toil below thirty percent of our time."
+   ]
+  },
+  {
+   "id": "pack6-card-870",
+   "mode": "vocab",
+   "word": "chaos engineering",
+   "pron": "(noun)",
+   "def": "Deliberately injecting failures to test resilience\nहिंदी: जानबूझकर विफलताएँ डालकर परीक्षण",
+   "examples": [
+    "Chaos engineering exposed a hidden dependency.",
+    "Chaos engineering tests what happens when a server suddenly dies.",
+    "Start chaos engineering in staging, not production.",
+    "Netflix made chaos engineering popular."
+   ]
+  },
+  {
+   "id": "pack6-card-871",
+   "mode": "vocab",
+   "word": "disaster recovery",
+   "pron": "(noun)",
+   "def": "Plans and processes to restore systems after a major failure\nहिंदी: आपदा के बाद पुनर्स्थापना योजना",
+   "examples": [
+    "Our disaster recovery plan targets a two-hour recovery.",
+    "We test the disaster recovery plan twice a year.",
+    "Disaster recovery includes backups in another region.",
+    "The flood showed that our disaster recovery plan was too slow."
+   ]
+  },
+  {
+   "id": "pack6-card-872",
+   "mode": "vocab",
+   "word": "RPO",
+   "pron": "(abbreviation)",
+   "def": "The maximum acceptable amount of data loss measured in time\nहिंदी: अधिकतम स्वीकार्य डेटा हानि समय",
+   "examples": [
+    "An RPO of fifteen minutes means losing at most fifteen minutes of data.",
+    "The bank's RPO for payments is close to zero.",
+    "Hourly backups give us an RPO of one hour.",
+    "A lower RPO usually means higher storage costs."
+   ]
+  },
+  {
+   "id": "pack6-card-873",
+   "mode": "vocab",
+   "word": "RTO",
+   "pron": "(abbreviation)",
+   "def": "The maximum acceptable time to restore service\nहिंदी: सेवा बहाली की अधिकतम समय-सीमा",
+   "examples": [
+    "The RTO for this service is one hour.",
+    "The business agreed to an RTO of four hours.",
+    "We met the RTO in the last disaster recovery drill.",
+    "A shorter RTO needs a standby system ready to go."
+   ]
+  },
+  {
+   "id": "pack6-card-874",
+   "mode": "vocab",
+   "word": "API versioning",
+   "pron": "(noun)",
+   "def": "Managing changes to an API using version numbers\nहिंदी: एपीआई संस्करण प्रबंधन",
+   "examples": [
+    "API versioning prevents breaking existing clients.",
+    "We use the URL path for API versioning, like v1 and v2.",
+    "Plan API versioning before the first public release.",
+    "Good API versioning lets mobile apps update at their own pace."
+   ]
+  },
+  {
+   "id": "pack6-card-875",
+   "mode": "vocab",
+   "word": "breaking change",
+   "pron": "(noun)",
+   "def": "A change that stops existing users' code from working\nहिंदी: पुराने उपयोगकर्ताओं को तोड़ने वाला बदलाव",
+   "examples": [
+    "Removing the field is a breaking change.",
+    "Announce any breaking change at least a month in advance.",
+    "The library's new version has a breaking change in login.",
+    "Avoid a breaking change by adding new fields instead of renaming."
+   ]
+  },
+  {
+   "id": "pack6-card-876",
+   "mode": "vocab",
+   "word": "throughput bottleneck",
+   "pron": "(noun)",
+   "def": "A limit on how much data can be processed\nहिंदी: डेटा प्रसंस्करण की गति में अवरोध",
+   "examples": [
+    "The parser is the throughput bottleneck.",
+    "The single database writer is our throughput bottleneck.",
+    "Adding workers won't help until we fix the throughput bottleneck.",
+    "Profiling showed the throughput bottleneck was in JSON parsing."
+   ]
+  },
+  {
+   "id": "pack6-card-877",
+   "mode": "vocab",
+   "word": "connection pool",
+   "pron": "(noun)",
+   "def": "A reusable set of database connections\nहिंदी: पुन: उपयोग योग्य कनेक्शनों का समूह",
+   "examples": [
+    "The connection pool ran out under heavy load.",
+    "Increase the connection pool size for the busy service.",
+    "The connection pool keeps ten connections open at all times.",
+    "A small connection pool caused requests to wait."
+   ]
+  },
+  {
+   "id": "pack6-card-878",
+   "mode": "vocab",
+   "word": "thread pool",
+   "pron": "(noun)",
+   "def": "A set of reusable threads for executing tasks\nहिंदी: कार्य करने वाले थ्रेड्स का समूह",
+   "examples": [
+    "Tune the thread pool for CPU-bound work.",
+    "The thread pool has twenty workers for incoming requests.",
+    "If the thread pool is full, new tasks wait in a queue.",
+    "Use a separate thread pool for slow file uploads."
+   ]
+  },
+  {
+   "id": "pack6-card-879",
+   "mode": "vocab",
+   "word": "memory leak",
+   "pron": "(noun)",
+   "def": "Memory that is never released after use\nहिंदी: मेमोरी का न लौटना",
+   "examples": [
+    "A memory leak crashed the service every few days.",
+    "The memory leak made the app slower every hour.",
+    "We found the memory leak with a heap dump.",
+    "Restarting daily hid the memory leak for months."
+   ]
+  },
+  {
+   "id": "pack6-card-880",
+   "mode": "vocab",
+   "word": "garbage collection",
+   "pron": "(noun)",
+   "def": "Automatic reclaiming of unused memory\nहिंदी: अनुपयोगी मेमोरी की स्वचालित सफ़ाई",
+   "examples": [
+    "Long garbage collection pauses hurt latency.",
+    "Garbage collection runs automatically in Java.",
+    "We tuned garbage collection to reduce pauses.",
+    "Creating fewer objects reduces garbage collection work."
+   ]
+  },
+  {
+   "id": "pack6-card-881",
+   "mode": "vocab",
+   "word": "hot path",
+   "pron": "(noun)",
+   "def": "The most frequently executed part of code\nहिंदी: सबसे अधिक चलने वाला कोड भाग",
+   "examples": [
+    "Avoid allocations on the hot path.",
+    "Logging inside the hot path slowed every request.",
+    "Optimise the hot path first; it runs millions of times a day.",
+    "Keep database calls out of the hot path where possible."
+   ]
+  },
+  {
+   "id": "pack6-card-882",
+   "mode": "vocab",
+   "word": "hot spot",
+   "pron": "(noun)",
+   "def": "A part of a system under heavy use or load\nहिंदी: सबसे अधिक भार वाला हिस्सा",
+   "examples": [
+    "One partition became a hot spot.",
+    "The popular product page became a hot spot during the sale.",
+    "A hot spot on one server caused uneven load.",
+    "Spread keys evenly to avoid a hot spot."
+   ]
+  },
+  {
+   "id": "pack6-card-883",
+   "mode": "vocab",
+   "word": "data skew",
+   "pron": "(noun)",
+   "def": "Uneven distribution of data across partitions\nहिंदी: डेटा का असमान वितरण",
+   "examples": [
+    "Data skew caused one worker to lag.",
+    "Data skew meant one region had most of the records.",
+    "Salting the keys helped reduce data skew.",
+    "The job was slow because of data skew in one partition."
+   ]
+  },
+  {
+   "id": "pack6-card-884",
+   "mode": "vocab",
+   "word": "cardinality",
+   "pron": "(noun)",
+   "def": "The number of distinct values in a data set\nहिंदी: अलग-अलग मानों की संख्या",
+   "examples": [
+    "High cardinality makes this index expensive.",
+    "Gender has low cardinality, but user ID has very high cardinality.",
+    "Avoid high cardinality labels in your metrics.",
+    "Check the cardinality before choosing an index."
+   ]
+  },
+  {
+   "id": "pack6-card-885",
+   "mode": "vocab",
+   "word": "lazy loading",
+   "pron": "(noun)",
+   "def": "Loading data only when it is needed\nहिंदी: ज़रूरत पड़ने पर ही डेटा लोड करना",
+   "examples": [
+    "Lazy loading improved start-up time.",
+    "Lazy loading images makes long pages load faster.",
+    "Lazy loading caused extra queries when we opened each order.",
+    "The app uses lazy loading for rarely used screens."
+   ]
+  },
+  {
+   "id": "pack6-card-886",
+   "mode": "vocab",
+   "word": "eager loading",
+   "pron": "(noun)",
+   "def": "Loading related data in advance\nहिंदी: संबंधित डेटा पहले से लोड करना",
+   "examples": [
+    "Eager loading avoids repeated queries.",
+    "Eager loading fetched the orders with their items in one query.",
+    "Use eager loading when you know you'll need the related data.",
+    "Too much eager loading can slow the first page."
+   ]
+  },
+  {
+   "id": "pack6-card-887",
+   "mode": "vocab",
+   "word": "connection leak",
+   "pron": "(noun)",
+   "def": "Failure to close connections after use\nहिंदी: कनेक्शन बंद न करना",
+   "examples": [
+    "A connection leak exhausted the database limit.",
+    "We found the connection leak in a missing close call.",
+    "A connection leak slowly used up all database connections.",
+    "Use try-with-resources to avoid a connection leak."
+   ]
+  },
+  {
+   "id": "pack6-card-888",
+   "mode": "vocab",
+   "word": "back-of-the-envelope",
+   "pron": "(adjective)",
+   "def": "Rough and quick, as if calculated informally\nहिंदी: मोटा और त्वरित अनुमान",
+   "examples": [
+    "A back-of-the-envelope estimate shows ten terabytes a year.",
+    "A back-of-the-envelope calculation shows we need two servers.",
+    "Do a back-of-the-envelope estimate before ordering hardware.",
+    "Interviewers like back-of-the-envelope maths in design questions."
+   ]
+  },
+  {
+   "id": "pack6-card-890",
+   "mode": "vocab",
+   "word": "leader election",
+   "pron": "(noun)",
+   "def": "A process to choose one node to coordinate others\nहिंदी: समन्वयक नोड चुनने की प्रक्रिया",
+   "examples": [
+    "Leader election takes a few seconds after failure.",
+    "Leader election ensures only one node runs the scheduled job.",
+    "ZooKeeper is often used for leader election.",
+    "Leader election failed when the network was unstable."
+   ]
+  },
+  {
+   "id": "pack6-card-891",
+   "mode": "vocab",
+   "word": "split brain",
+   "pron": "(noun)",
+   "def": "A fault where two parts of a system act independently\nहिंदी: दो हिस्सों का स्वतंत्र काम करना",
+   "examples": [
+    "A network partition caused a split brain.",
+    "In a split brain, two nodes both think they are the leader.",
+    "Split brain can corrupt data if both sides accept writes.",
+    "We use a quorum to prevent split brain."
+   ]
+  },
+  {
+   "id": "pack6-card-892",
+   "mode": "vocab",
+   "word": "consensus protocol",
+   "pron": "(noun)",
+   "def": "A method for nodes to agree on a value\nहिंदी: नोड्स में सहमति का तरीका",
+   "examples": [
+    "Raft is a widely used consensus protocol.",
+    "A consensus protocol keeps all replicas in agreement.",
+    "Paxos is a famous but complex consensus protocol.",
+    "Without a consensus protocol, nodes could disagree on the data."
+   ]
+  },
+  {
+   "id": "pack6-card-893",
+   "mode": "vocab",
+   "word": "gossip protocol",
+   "pron": "(noun)",
+   "def": "A method where nodes spread information to peers\nहिंदी: नोड्स द्वारा जानकारी फैलाने की विधि",
+   "examples": [
+    "The cluster uses a gossip protocol for membership.",
+    "The gossip protocol spreads updates like office rumours.",
+    "With a gossip protocol, every node learns about failures quickly.",
+    "Cassandra uses a gossip protocol between nodes."
+   ]
+  },
+  {
+   "id": "pack6-card-894",
+   "mode": "vocab",
+   "word": "tight coupling",
+   "pron": "(noun)",
+   "def": "Strong dependence between components\nहिंदी: घटकों की कसकर निर्भरता",
+   "examples": [
+    "Tight coupling made the release risky.",
+    "Tight coupling between teams slowed every decision.",
+    "We removed tight coupling by adding a message queue.",
+    "Tight coupling to one vendor's API made switching hard."
+   ]
+  },
+  {
+   "id": "pack6-card-895",
+   "mode": "vocab",
+   "word": "loose coupling",
+   "pron": "(noun)",
+   "def": "Weak dependence allowing independent change\nहिंदी: घटकों की ढीली निर्भरता",
+   "examples": [
+    "Loose coupling lets teams deploy independently.",
+    "Loose coupling makes it easier to replace parts later.",
+    "Events help achieve loose coupling between services.",
+    "The design aims for loose coupling and high cohesion."
+   ]
+  },
+  {
+   "id": "pack6-card-896",
+   "mode": "vocab",
+   "word": "chatty",
+   "pron": "(adjective)",
+   "def": "Making too many small network calls\nहिंदी: ज़रूरत से ज़्यादा छोटे कॉल करने वाला",
+   "examples": [
+    "The chatty API slowed the page load.",
+    "The chatty app made fifty calls just to load the home screen.",
+    "Combine requests to make the API less chatty.",
+    "A chatty design hurts users on slow mobile networks."
+   ]
+  },
+  {
+   "id": "pack6-card-897",
+   "mode": "vocab",
+   "word": "fan-out",
+   "pron": "(noun)",
+   "def": "Sending one request to many downstream recipients\nहिंदी: एक अनुरोध का कई जगह जाना",
+   "examples": [
+    "Fan-out to ten services increased latency.",
+    "One tweet causes a fan-out to millions of followers.",
+    "Limit fan-out to keep the response time low.",
+    "The fan-out sends the order to billing, stock and email services."
+   ]
+  },
+  {
+   "id": "pack6-card-898",
+   "mode": "vocab",
+   "word": "fan-in",
+   "pron": "(noun)",
+   "def": "Combining many inputs into one\nहिंदी: कई इनपुट का एक में मिलना",
+   "examples": [
+    "Fan-in aggregates results from all vendors.",
+    "The fan-in step merges results from three searches.",
+    "Fan-in waits until all workers finish.",
+    "Use a fan-in queue to collect results from many jobs."
+   ]
+  },
+  {
+   "id": "pack6-card-899",
+   "mode": "vocab",
+   "word": "sidecar",
+   "pron": "(noun)",
+   "def": "A helper container deployed alongside the main service\nहिंदी: मुख्य सेवा के साथ चलने वाला सहायक कंटेनर",
+   "examples": [
+    "A sidecar handles logging and security.",
+    "The sidecar collects logs and sends them to our log server.",
+    "Istio adds a sidecar to every pod.",
+    "A sidecar lets us add features without changing the app."
+   ]
+  },
+  {
+   "id": "pack6-card-900",
+   "mode": "vocab",
+   "word": "reverse proxy",
+   "pron": "(noun)",
+   "def": "A server that forwards client requests to backend servers\nहिंदी: अनुरोध आगे भेजने वाला सर्वर",
+   "examples": [
+    "The reverse proxy terminates TLS.",
+    "Nginx works as a reverse proxy in front of our app.",
+    "The reverse proxy also caches static files.",
+    "Configure the reverse proxy to pass the user's real IP."
+   ]
+  },
+  {
+   "id": "pack6-card-901",
+   "mode": "vocab",
+   "word": "content delivery network",
+   "pron": "(noun)",
+   "def": "A network of servers that delivers content from nearby locations\nहिंदी: पास के सर्वर से सामग्री पहुँचाने वाला नेटवर्क",
+   "examples": [
+    "A content delivery network cut page load time.",
+    "Videos load faster thanks to a content delivery network.",
+    "The content delivery network serves images from servers near users.",
+    "We put the website behind a content delivery network for the sale."
+   ]
+  },
+  {
+   "id": "pack6-card-902",
+   "mode": "vocab",
+   "word": "cold storage",
+   "pron": "(noun)",
+   "def": "Low-cost storage for rarely accessed data\nहिंदी: कम उपयोग वाले डेटा का सस्ता भंडारण",
+   "examples": [
+    "Old files move to cold storage after ninety days.",
+    "Tax records move to cold storage after the audit year.",
+    "Cold storage is cheap, but restoring files takes hours.",
+    "We moved old videos to cold storage to cut costs."
+   ]
+  },
+  {
+   "id": "pack6-card-903",
+   "mode": "vocab",
+   "word": "hot storage",
+   "pron": "(noun)",
+   "def": "Fast storage for frequently accessed data\nहिंदी: बार-बार उपयोग वाले डेटा का तेज़ भंडारण",
+   "examples": [
+    "Recent prices stay in hot storage.",
+    "Keep this month's orders in hot storage for fast reports.",
+    "Hot storage costs more but responds in milliseconds.",
+    "User profile photos are kept in hot storage."
+   ]
+  },
+  {
+   "id": "pack6-card-904",
+   "mode": "vocab",
+   "word": "retention policy",
+   "pron": "(noun)",
+   "def": "Rules for how long data is kept\nहिंदी: डेटा रखने की अवधि संबंधी नियम",
+   "examples": [
+    "Our retention policy keeps raw files for seven years.",
+    "Our retention policy deletes chat logs after one year.",
+    "Check the retention policy before deleting old emails.",
+    "Different countries need different retention policies."
+   ]
+  },
+  {
+   "id": "pack6-card-905",
+   "mode": "vocab",
+   "word": "data residency",
+   "pron": "(noun)",
+   "def": "The requirement to store data in a particular region\nहिंदी: डेटा का निर्धारित क्षेत्र में रहना",
+   "examples": [
+    "Data residency rules limit where we host.",
+    "Data residency rules require Indian payment data to stay in India.",
+    "The client asked about data residency before signing.",
+    "Data residency affects which cloud region we choose."
+   ]
+  },
+  {
+   "id": "pack6-card-906",
+   "mode": "vocab",
+   "word": "tokenisation",
+   "pron": "(noun)",
+   "def": "Replacing sensitive data with non-sensitive tokens\nहिंदी: संवेदनशील डेटा को टोकन से बदलना",
+   "examples": [
+    "Tokenisation protects client account numbers.",
+    "Card tokenisation means shops never store your real card number.",
+    "Tokenisation reduces the impact of a data breach.",
+    "The payment app uses tokenisation for saved cards."
+   ]
+  },
+  {
+   "id": "pack6-card-907",
+   "mode": "vocab",
+   "word": "masking",
+   "pron": "(noun)",
+   "def": "Hiding parts of sensitive data\nहिंदी: संवेदनशील डेटा छुपाना",
+   "examples": [
+    "Masking prevents leaks in test environments.",
+    "Masking shows only the last four digits of the card.",
+    "Apply masking to phone numbers in support screens.",
+    "Data masking lets developers test with realistic data safely."
+   ]
+  },
+  {
+   "id": "pack6-card-908",
+   "mode": "vocab",
+   "word": "anonymisation",
+   "pron": "(noun)",
+   "def": "Removing personal identifiers from data\nहिंदी: व्यक्तिगत पहचान हटाना",
+   "examples": [
+    "Anonymisation is required before sharing datasets.",
+    "Anonymisation lets researchers study health data safely.",
+    "Simple anonymisation isn't enough if records can be linked.",
+    "We did anonymisation before sharing survey results."
+   ]
+  },
+  {
+   "id": "pack6-card-909",
+   "mode": "vocab",
+   "word": "zero trust",
+   "pron": "(noun)",
+   "def": "A security model that verifies every request\nहिंदी: हर अनुरोध की पुष्टि करने वाला सुरक्षा मॉडल",
+   "examples": [
+    "Zero trust assumes no network is safe.",
+    "Under zero trust, even office laptops must log in every time.",
+    "Zero trust became popular when remote work grew.",
+    "Our zero trust plan includes device checks."
+   ]
+  },
+  {
+   "id": "pack6-card-910",
+   "mode": "vocab",
+   "word": "perimeter",
+   "pron": "(noun)",
+   "def": "The boundary of a protected network\nहिंदी: सुरक्षित नेटवर्क की सीमा",
+   "examples": [
+    "Security can't rely only on the perimeter.",
+    "The firewall protects the network perimeter.",
+    "Remote work blurred the company's security perimeter.",
+    "Attackers inside the perimeter can still cause harm."
+   ]
+  },
+  {
+   "id": "pack6-card-911",
+   "mode": "vocab",
+   "word": "penetration testing",
+   "pron": "(noun)",
+   "def": "Authorised simulated attacks to find weaknesses\nहिंदी: अधिकृत नकली हमलों से कमज़ोरियाँ खोजना",
+   "examples": [
+    "Penetration testing uncovered an exposed endpoint.",
+    "We hired an outside firm for penetration testing.",
+    "Penetration testing is required before the bank audit.",
+    "Fix all critical findings from penetration testing before launch."
+   ]
+  },
+  {
+   "id": "pack6-card-912",
+   "mode": "vocab",
+   "word": "threat model",
+   "pron": "(noun)",
+   "def": "A structured analysis of possible attacks\nहिंदी: संभावित हमलों का विश्लेषण",
+   "examples": [
+    "We built a threat model for the new service.",
+    "The threat model listed stolen passwords as the top risk.",
+    "Update the threat model when you add new features.",
+    "A threat model helps teams think like attackers."
+   ]
+  },
+  {
+   "id": "pack6-card-913",
+   "mode": "vocab",
+   "word": "key rotation",
+   "pron": "(noun)",
+   "def": "Regularly replacing encryption keys\nहिंदी: एन्क्रिप्शन कुंजियाँ नियमित बदलना",
+   "examples": [
+    "Automatic key rotation reduced our risk.",
+    "Key rotation happens every ninety days.",
+    "Plan key rotation so it doesn't break running services.",
+    "The audit asked for evidence of key rotation."
+   ]
+  },
+  {
+   "id": "pack6-card-914",
+   "mode": "vocab",
+   "word": "principle of least astonishment",
+   "pron": "(noun)",
+   "def": "Design that behaves as users expect\nहिंदी: उपयोगकर्ता की अपेक्षा अनुसार व्यवहार",
+   "examples": [
+    "An API should follow the principle of least astonishment.",
+    "A delete button that saves would break the principle of least astonishment.",
+    "Follow the principle of least astonishment when naming functions.",
+    "Good UX design respects the principle of least astonishment."
+   ]
+  },
+  {
+   "id": "pack6-card-915",
+   "mode": "vocab",
+   "word": "convention over configuration",
+   "pron": "(noun)",
+   "def": "Using sensible defaults to reduce setup\nहिंदी: सरल डिफ़ॉल्ट से सेटअप घटाना",
+   "examples": [
+    "Spring Boot favours convention over configuration.",
+    "Rails is famous for convention over configuration.",
+    "Convention over configuration helps new joiners start quickly.",
+    "With convention over configuration, files go in standard folders."
+   ]
+  },
+  {
+   "id": "pack6-card-916",
+   "mode": "vocab",
+   "word": "declarative",
+   "pron": "(adjective)",
+   "def": "Describing what is wanted rather than how to do it\nहिंदी: क्या चाहिए बताने वाला (कैसे नहीं)",
+   "examples": [
+    "Terraform uses a declarative style.",
+    "SQL is declarative; you say what data you want.",
+    "Kubernetes uses declarative files to describe the desired state.",
+    "Declarative code is often shorter and easier to read."
+   ]
+  },
+  {
+   "id": "pack6-card-917",
+   "mode": "vocab",
+   "word": "imperative",
+   "pron": "(adjective)",
+   "def": "Describing step-by-step how to do something\nहिंदी: कदम-दर-कदम निर्देश देने वाला",
+   "examples": [
+    "The old script was imperative and hard to follow.",
+    "Imperative code lists each step in order.",
+    "Most beginners learn imperative programming first.",
+    "We replaced the imperative setup script with a config file."
+   ]
+  }
+ ]
+}

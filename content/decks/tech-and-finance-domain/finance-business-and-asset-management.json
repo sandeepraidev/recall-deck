@@ -1,0 +1,2231 @@
+{
+ "id": "pack6-deck-6",
+ "categoryId": "pack6-cat-2",
+ "title": "Finance, Business & Asset Management",
+ "sub": "Markets, funds, risk and the language of wealth management.",
+ "cards": [
+  {
+   "id": "pack6-card-921",
+   "mode": "vocab",
+   "word": "fixed income",
+   "pron": "(noun)",
+   "def": "Investments paying regular, predictable returns such as bonds\nहिंदी: निश्चित आय वाले निवेश",
+   "examples": [
+    "Fixed income provides stability to the portfolio.",
+    "Retired people often prefer fixed income over shares.",
+    "Fixed income funds did well when interest rates fell.",
+    "My portfolio is thirty percent fixed income."
+   ]
+  },
+  {
+   "id": "pack6-card-922",
+   "mode": "vocab",
+   "word": "bond",
+   "pron": "(noun)",
+   "def": "A loan to a company or government that pays interest\nहिंदी: बॉन्ड",
+   "examples": [
+    "The bond matures in ten years.",
+    "The government issued a bond to fund new highways.",
+    "Bond prices usually fall when interest rates rise.",
+    "She bought a tax-free bond for steady income."
+   ]
+  },
+  {
+   "id": "pack6-card-923",
+   "mode": "vocab",
+   "word": "yield",
+   "pron": "(noun)",
+   "def": "The income return on an investment\nहिंदी: प्रतिफल",
+   "examples": [
+    "The yield on government bonds fell last week.",
+    "The dividend yield on this stock is about three percent.",
+    "Higher yield usually means higher risk.",
+    "Investors compare the yield before choosing a bond."
+   ]
+  },
+  {
+   "id": "pack6-card-924",
+   "mode": "vocab",
+   "word": "coupon",
+   "pron": "(noun)",
+   "def": "The interest payment made on a bond\nहिंदी: बॉन्ड का ब्याज भुगतान",
+   "examples": [
+    "The bond pays a five percent annual coupon.",
+    "The coupon is paid twice a year.",
+    "A higher coupon makes the bond more attractive.",
+    "Zero-coupon bonds pay no interest until maturity."
+   ]
+  },
+  {
+   "id": "pack6-card-925",
+   "mode": "vocab",
+   "word": "maturity",
+   "pron": "(noun)",
+   "def": "The date when a financial instrument becomes payable\nहिंदी: परिपक्वता तिथि",
+   "examples": [
+    "The instrument reaches maturity in March.",
+    "My fixed deposit reaches maturity next month.",
+    "Short maturity bonds are less sensitive to rate changes.",
+    "At maturity, the investor gets the full amount back."
+   ]
+  },
+  {
+   "id": "pack6-card-927",
+   "mode": "vocab",
+   "word": "diversification",
+   "pron": "(noun)",
+   "def": "Spreading investments to reduce risk\nहिंदी: निवेश का विविधीकरण",
+   "examples": [
+    "Diversification protects against a single market falling.",
+    "Diversification means not putting all your eggs in one basket.",
+    "My adviser recommended diversification across gold, bonds and shares.",
+    "Diversification reduced our losses during the crash."
+   ]
+  },
+  {
+   "id": "pack6-card-928",
+   "mode": "vocab",
+   "word": "allocation",
+   "pron": "(noun)",
+   "def": "The distribution of funds among different investments\nहिंदी: धन का वितरण",
+   "examples": [
+    "Our allocation to equities is sixty percent.",
+    "Review your asset allocation every year.",
+    "Young investors can have a higher allocation to equity.",
+    "The fund increased its allocation to banking shares."
+   ]
+  },
+  {
+   "id": "pack6-card-929",
+   "mode": "vocab",
+   "word": "rebalance",
+   "pron": "(verb)",
+   "def": "To adjust a portfolio back to its target mix\nहिंदी: पोर्टफ़ोलियो को लक्ष्य अनुपात में लाना",
+   "examples": [
+    "The fund rebalances at the end of every quarter.",
+    "I rebalance my portfolio every March.",
+    "After the rally, we need to rebalance towards bonds.",
+    "Rebalancing forces you to sell high and buy low."
+   ]
+  },
+  {
+   "id": "pack6-card-930",
+   "mode": "vocab",
+   "word": "benchmark index",
+   "pron": "(noun)",
+   "def": "A standard against which performance is measured\nहिंदी: तुलना का मानक सूचकांक",
+   "examples": [
+    "The fund outperformed its benchmark index by two percent.",
+    "Nifty 50 is the benchmark index for many Indian funds.",
+    "Compare your fund's return with its benchmark index.",
+    "Few active funds beat their benchmark index over ten years."
+   ]
+  },
+  {
+   "id": "pack6-card-931",
+   "mode": "vocab",
+   "word": "underperform",
+   "pron": "(verb)",
+   "def": "To achieve worse returns than expected\nहिंदी: अपेक्षा से कमज़ोर प्रदर्शन करना",
+   "examples": [
+    "The sector underperformed after the rate announcement.",
+    "My mutual fund underperformed the market last year.",
+    "Tech stocks underperformed when rates went up.",
+    "If a fund keeps underperforming, consider switching."
+   ]
+  },
+  {
+   "id": "pack6-card-932",
+   "mode": "vocab",
+   "word": "return",
+   "pron": "(noun)",
+   "def": "The gain or loss on an investment\nहिंदी: निवेश पर लाभ/हानि",
+   "examples": [
+    "The annual return was eight percent.",
+    "The return on my fixed deposit is seven percent.",
+    "Past returns don't guarantee future performance.",
+    "Real estate gave a good return in that area."
+   ]
+  },
+  {
+   "id": "pack6-card-933",
+   "mode": "vocab",
+   "word": "risk appetite",
+   "pron": "(noun)",
+   "def": "The level of risk an investor is willing to accept\nहिंदी: जोखिम सहने की क्षमता",
+   "examples": [
+    "Her low risk appetite favours bonds.",
+    "Young investors usually have a higher risk appetite.",
+    "The adviser asked questions to measure my risk appetite.",
+    "His risk appetite dropped after he had children."
+   ]
+  },
+  {
+   "id": "pack6-card-934",
+   "mode": "vocab",
+   "word": "volatility",
+   "pron": "(noun)",
+   "def": "The degree of price fluctuation\nहिंदी: मूल्य में उतार-चढ़ाव",
+   "examples": [
+    "Market volatility rose after the announcement.",
+    "Small-cap stocks have higher volatility than large caps.",
+    "Volatility increases before elections.",
+    "Don't panic over short-term volatility."
+   ]
+  },
+  {
+   "id": "pack6-card-935",
+   "mode": "vocab",
+   "word": "liquidity",
+   "pron": "(noun)",
+   "def": "How easily an asset can be converted into cash\nहिंदी: नकदी में बदलने की आसानी",
+   "examples": [
+    "Low liquidity makes the bond hard to sell quickly.",
+    "A savings account offers high liquidity.",
+    "Keep some liquidity for emergencies.",
+    "Liquidity dried up during the financial crisis."
+   ]
+  },
+  {
+   "id": "pack6-card-936",
+   "mode": "vocab",
+   "word": "illiquid",
+   "pron": "(adjective)",
+   "def": "Not easily sold or converted to cash\nहिंदी: आसानी से नकद में न बदलने वाला",
+   "examples": [
+    "Real estate is an illiquid asset.",
+    "Land is illiquid; it can take months to sell.",
+    "Illiquid investments should be a small part of your portfolio.",
+    "Some small company shares are illiquid and hard to trade."
+   ]
+  },
+  {
+   "id": "pack6-card-937",
+   "mode": "vocab",
+   "word": "exposure",
+   "pron": "(noun)",
+   "def": "The amount of money at risk in an investment\nहिंदी: जोखिम में लगी राशि",
+   "examples": [
+    "Our exposure to emerging markets is limited.",
+    "The fund reduced its exposure to real estate.",
+    "Too much exposure to one stock is risky.",
+    "Check your exposure to foreign currencies."
+   ]
+  },
+  {
+   "id": "pack6-card-938",
+   "mode": "vocab",
+   "word": "hedge",
+   "pron": "(verb)",
+   "def": "To reduce risk by making an offsetting investment\nहिंदी: जोखिम से बचाव करना",
+   "examples": [
+    "The firm hedges currency risk using forward contracts.",
+    "Exporters hedge against changes in the dollar rate.",
+    "Gold is often used to hedge against inflation.",
+    "The airline hedged fuel prices for the next year."
+   ]
+  },
+  {
+   "id": "pack6-card-939",
+   "mode": "vocab",
+   "word": "derivative",
+   "pron": "(noun)",
+   "def": "A financial contract whose value depends on another asset\nहिंदी: व्युत्पन्न अनुबंध",
+   "examples": [
+    "Derivatives are used to manage price risk.",
+    "Derivatives can reduce risk or increase it.",
+    "Beginners should avoid trading derivatives.",
+    "The bank lost money on complex derivatives."
+   ]
+  },
+  {
+   "id": "pack6-card-940",
+   "mode": "vocab",
+   "word": "futures",
+   "pron": "(noun)",
+   "def": "Contracts to buy or sell an asset at a future date and price\nहिंदी: वायदा अनुबंध",
+   "examples": [
+    "Oil futures rose sharply this morning.",
+    "Farmers use futures to lock in prices for their crops.",
+    "Trading futures needs a margin deposit.",
+    "Gold futures fell after the dollar strengthened."
+   ]
+  },
+  {
+   "id": "pack6-card-941",
+   "mode": "vocab",
+   "word": "option",
+   "pron": "(noun)",
+   "def": "A contract giving the right to buy or sell at a set price\nहिंदी: विकल्प अनुबंध",
+   "examples": [
+    "He bought an option to protect against a fall.",
+    "A call option lets you buy shares at a fixed price.",
+    "The option expires worthless if the price doesn't move.",
+    "Options trading is risky for beginners."
+   ]
+  },
+  {
+   "id": "pack6-card-942",
+   "mode": "vocab",
+   "word": "commodity",
+   "pron": "(noun)",
+   "def": "A basic raw material that is traded\nहिंदी: वस्तु / कमोडिटी",
+   "examples": [
+    "Gold is the most widely traded commodity.",
+    "Crude oil is the most important commodity for India's imports.",
+    "Commodity prices rose because of the drought.",
+    "Silver is both a commodity and an investment."
+   ]
+  },
+  {
+   "id": "pack6-card-945",
+   "mode": "vocab",
+   "word": "identifier",
+   "pron": "(noun)",
+   "def": "A unique code used to recognise an instrument\nहिंदी: पहचान कोड",
+   "examples": [
+    "ISIN is a global identifier for securities.",
+    "Each share has a unique identifier on the exchange.",
+    "The trade failed because the identifier was wrong.",
+    "Map every vendor identifier to our internal code."
+   ]
+  },
+  {
+   "id": "pack6-card-946",
+   "mode": "vocab",
+   "word": "corporate action",
+   "pron": "(noun)",
+   "def": "An event by a company affecting its shares, such as a split\nहिंदी: कंपनी द्वारा की गई शेयर संबंधी कार्रवाई",
+   "examples": [
+    "Corporate actions must be applied to historical prices.",
+    "Dividends and bonus issues are common corporate actions.",
+    "The corporate action changed the number of shares we held.",
+    "Check corporate actions before comparing old prices."
+   ]
+  },
+  {
+   "id": "pack6-card-947",
+   "mode": "vocab",
+   "word": "stock split",
+   "pron": "(noun)",
+   "def": "Dividing existing shares into more shares\nहिंदी: शेयर विभाजन",
+   "examples": [
+    "The stock split doubled the number of shares.",
+    "After the stock split, each share cost half as much.",
+    "A stock split makes shares more affordable for small investors.",
+    "The company announced a one-to-five stock split."
+   ]
+  },
+  {
+   "id": "pack6-card-949",
+   "mode": "vocab",
+   "word": "acquisition",
+   "pron": "(noun)",
+   "def": "One company purchasing another\nहिंदी: अधिग्रहण",
+   "examples": [
+    "The acquisition was completed last quarter.",
+    "The acquisition made it the largest bank in the country.",
+    "Employees were worried about jobs after the acquisition.",
+    "The startup's acquisition by a tech giant made headlines."
+   ]
+  },
+  {
+   "id": "pack6-card-950",
+   "mode": "vocab",
+   "word": "market data",
+   "pron": "(noun)",
+   "def": "Prices and related information about financial instruments\nहिंदी: बाज़ार संबंधी मूल्य डेटा",
+   "examples": [
+    "Market data arrives from dozens of vendors.",
+    "Market data shows the share price every second.",
+    "The bank pays a lot for real-time market data.",
+    "Bad market data can lead to wrong trading decisions."
+   ]
+  },
+  {
+   "id": "pack6-card-951",
+   "mode": "vocab",
+   "word": "reference data",
+   "pron": "(noun)",
+   "def": "Static information describing instruments and entities\nहिंदी: संदर्भ डेटा",
+   "examples": [
+    "Reference data ensures consistency across systems.",
+    "Reference data includes company names and sector codes.",
+    "A team maintains reference data for all instruments.",
+    "Wrong reference data caused errors in the monthly report."
+   ]
+  },
+  {
+   "id": "pack6-card-952",
+   "mode": "vocab",
+   "word": "price feed",
+   "pron": "(noun)",
+   "def": "A continuous stream of prices from a source\nहिंदी: मूल्यों की निरंतर आपूर्ति",
+   "examples": [
+    "The price feed was delayed by ten minutes.",
+    "The app shows live prices from the exchange price feed.",
+    "We switched to a backup price feed during the outage.",
+    "Monitor the price feed for gaps and delays."
+   ]
+  },
+  {
+   "id": "pack6-card-953",
+   "mode": "vocab",
+   "word": "corrected price",
+   "pron": "(noun)",
+   "def": "A revised price replacing an earlier incorrect one\nहिंदी: संशोधित मूल्य",
+   "examples": [
+    "Vendors send a corrected price when errors are found.",
+    "The fund's value changed after the corrected price arrived.",
+    "Reports must use the corrected price, not the original one.",
+    "Flag every corrected price for the audit trail."
+   ]
+  },
+  {
+   "id": "pack6-card-954",
+   "mode": "vocab",
+   "word": "end-of-day",
+   "pron": "(adjective)",
+   "def": "Relating to the close of the trading day\nहिंदी: दिन के अंत से संबंधित",
+   "examples": [
+    "End-of-day prices are loaded by midnight.",
+    "The end-of-day report goes to managers at seven.",
+    "End-of-day balances must match the bank statement.",
+    "We run end-of-day checks before closing the books."
+   ]
+  },
+  {
+   "id": "pack6-card-955",
+   "mode": "vocab",
+   "word": "intraday",
+   "pron": "(adjective)",
+   "def": "Occurring within a single trading day\nहिंदी: दिन के भीतर",
+   "examples": [
+    "Intraday prices update every minute.",
+    "Intraday traders buy and sell on the same day.",
+    "The share had a big intraday swing.",
+    "Intraday charts show prices minute by minute."
+   ]
+  },
+  {
+   "id": "pack6-card-956",
+   "mode": "vocab",
+   "word": "tick",
+   "pron": "(noun)",
+   "def": "The smallest movement in a price\nहिंदी: मूल्य में न्यूनतम बदलाव",
+   "examples": [
+    "The system stores every tick for later analysis.",
+    "The share price moved up by one tick.",
+    "Tick data is huge and expensive to store.",
+    "High-frequency traders react to every tick."
+   ]
+  },
+  {
+   "id": "pack6-card-958",
+   "mode": "vocab",
+   "word": "ask",
+   "pron": "(noun)",
+   "def": "The price a seller is willing to accept\nहिंदी: विक्रेता का मूल्य",
+   "examples": [
+    "The ask price rose after the news.",
+    "The ask for the share was higher than I wanted to pay.",
+    "Buyers pay the ask price when they want to trade immediately.",
+    "The ask dropped as more sellers came in."
+   ]
+  },
+  {
+   "id": "pack6-card-959",
+   "mode": "vocab",
+   "word": "spread",
+   "pron": "(noun)",
+   "def": "The difference between bid and ask prices\nहिंदी: बोली और मांग मूल्य का अंतर",
+   "examples": [
+    "A wide spread signals low liquidity.",
+    "Large company shares usually have a narrow spread.",
+    "Currency exchange counters make money on the spread.",
+    "The spread widened as the market closed."
+   ]
+  },
+  {
+   "id": "pack6-card-960",
+   "mode": "vocab",
+   "word": "settlement",
+   "pron": "(noun)",
+   "def": "The completion of a trade through the exchange of money and assets\nहिंदी: सौदे का निपटान",
+   "examples": [
+    "Settlement usually occurs one business day after the trade.",
+    "Indian stock trades now have T+1 settlement.",
+    "Settlement failed because the seller didn't have the shares.",
+    "Settlement of the property deal took two weeks."
+   ]
+  },
+  {
+   "id": "pack6-card-961",
+   "mode": "vocab",
+   "word": "clearing",
+   "pron": "(noun)",
+   "def": "Confirming and reconciling a trade before settlement\nहिंदी: लेन-देन की पुष्टि प्रक्रिया",
+   "examples": [
+    "The clearing house guarantees both sides of the trade.",
+    "The clearing process checks both sides of the trade.",
+    "Clearing reduces the risk of one side not paying.",
+    "Clearing happens before the money moves."
+   ]
+  },
+  {
+   "id": "pack6-card-962",
+   "mode": "vocab",
+   "word": "custodian",
+   "pron": "(noun)",
+   "def": "An institution that safeguards financial assets\nहिंदी: संपत्तियों का संरक्षक संस्थान",
+   "examples": [
+    "The custodian holds the fund's securities securely.",
+    "The custodian keeps the shares safe for the fund.",
+    "The fund changed its custodian to cut fees.",
+    "Custodians report holdings to investors every month."
+   ]
+  },
+  {
+   "id": "pack6-card-963",
+   "mode": "vocab",
+   "word": "counterparty",
+   "pron": "(noun)",
+   "def": "The other party in a financial transaction\nहिंदी: लेन-देन की दूसरी पार्टी",
+   "examples": [
+    "We assess the counterparty's creditworthiness.",
+    "The trade failed because the counterparty didn't pay.",
+    "Banks limit how much risk they take with each counterparty.",
+    "Check the counterparty's details before sending money."
+   ]
+  },
+  {
+   "id": "pack6-card-964",
+   "mode": "vocab",
+   "word": "creditworthiness",
+   "pron": "(noun)",
+   "def": "The ability of a borrower to repay debt\nहिंदी: ऋण चुकाने की क्षमता",
+   "examples": [
+    "The agency downgraded the firm's creditworthiness.",
+    "Banks check your creditworthiness before giving a loan.",
+    "Paying bills on time improves your creditworthiness.",
+    "The company's creditworthiness fell after big losses."
+   ]
+  },
+  {
+   "id": "pack6-card-965",
+   "mode": "vocab",
+   "word": "rating",
+   "pron": "(noun)",
+   "def": "An assessment of credit quality\nहिंदी: ऋण साख रेटिंग",
+   "examples": [
+    "The bond has a high credit rating.",
+    "Check the rating before investing in a company bond.",
+    "The rating agency cut the country's rating.",
+    "A AAA rating means very low risk."
+   ]
+  },
+  {
+   "id": "pack6-card-967",
+   "mode": "vocab",
+   "word": "trade",
+   "pron": "(noun)",
+   "def": "A transaction to buy or sell an asset\nहिंदी: सौदा",
+   "examples": [
+    "The trade was executed at the closing price.",
+    "My first trade on the app was buying ten shares.",
+    "The trade was cancelled because of a pricing error.",
+    "Every trade is recorded for regulators."
+   ]
+  },
+  {
+   "id": "pack6-card-969",
+   "mode": "vocab",
+   "word": "order book",
+   "pron": "(noun)",
+   "def": "A list of buy and sell orders for an asset\nहिंदी: खरीद-बिक्री आदेशों की सूची",
+   "examples": [
+    "Depth in the order book shows market interest.",
+    "The order book shows more buyers than sellers today.",
+    "A thin order book can lead to sharp price moves.",
+    "Traders watch the order book before placing big orders."
+   ]
+  },
+  {
+   "id": "pack6-card-970",
+   "mode": "vocab",
+   "word": "position",
+   "pron": "(noun)",
+   "def": "The amount of an asset held by an investor\nहिंदी: किसी संपत्ति की धारित मात्रा",
+   "examples": [
+    "The desk closed its position before the announcement.",
+    "He took a large position in the bank's shares.",
+    "Reduce your position if you can't afford the risk.",
+    "The fund's biggest position is in an IT company."
+   ]
+  },
+  {
+   "id": "pack6-card-971",
+   "mode": "vocab",
+   "word": "holdings",
+   "pron": "(noun)",
+   "def": "Assets owned by an investor or fund\nहिंदी: धारित संपत्तियाँ",
+   "examples": [
+    "The report lists all the fund's holdings.",
+    "Check the fund's holdings before investing.",
+    "Her holdings include gold, shares and a flat.",
+    "The fund updates its holdings list every month."
+   ]
+  },
+  {
+   "id": "pack6-card-972",
+   "mode": "vocab",
+   "word": "net asset value",
+   "pron": "(noun)",
+   "def": "The per-share value of a fund after liabilities\nहिंदी: शुद्ध संपत्ति मूल्य",
+   "examples": [
+    "Net asset value is calculated after market close.",
+    "The net asset value of my fund rose today.",
+    "You buy mutual fund units at the day's net asset value.",
+    "A low net asset value doesn't mean a fund is cheap."
+   ]
+  },
+  {
+   "id": "pack6-card-973",
+   "mode": "vocab",
+   "word": "AUM",
+   "pron": "(abbreviation)",
+   "def": "The total market value of assets a firm manages\nहिंदी: प्रबंधन के अंतर्गत कुल संपत्ति",
+   "examples": [
+    "The firm's AUM exceeded two trillion dollars.",
+    "The fund house's AUM grew by twenty percent this year.",
+    "Bigger AUM doesn't always mean better returns.",
+    "The company reports its AUM every quarter."
+   ]
+  },
+  {
+   "id": "pack6-card-974",
+   "mode": "vocab",
+   "word": "fiduciary",
+   "pron": "(adjective)",
+   "def": "Having a legal duty to act in a client's best interest\nहिंदी: विश्वस्त के रूप में कर्तव्यबद्ध",
+   "examples": [
+    "Advisers have a fiduciary duty to their clients.",
+    "A fiduciary must put the client's interests first.",
+    "Trustees have a fiduciary duty to the trust's members.",
+    "Choose an adviser who acts as a fiduciary."
+   ]
+  },
+  {
+   "id": "pack6-card-975",
+   "mode": "vocab",
+   "word": "wealth management",
+   "pron": "(noun)",
+   "def": "Professional advice and services for managing a client's finances\nहिंदी: संपत्ति प्रबंधन सेवाएँ",
+   "examples": [
+    "The bank expanded its wealth management division.",
+    "Wealth management services usually need a minimum investment.",
+    "She works in wealth management at a private bank.",
+    "Good wealth management includes tax and estate planning."
+   ]
+  },
+  {
+   "id": "pack6-card-976",
+   "mode": "vocab",
+   "word": "high-net-worth",
+   "pron": "(adjective)",
+   "def": "Having a high level of personal wealth\nहिंदी: उच्च निवल संपत्ति वाला",
+   "examples": [
+    "The service targets high-net-worth individuals.",
+    "The bank has a special lounge for high-net-worth customers.",
+    "High-net-worth families often have a personal adviser.",
+    "The number of high-net-worth Indians is growing fast."
+   ]
+  },
+  {
+   "id": "pack6-card-977",
+   "mode": "vocab",
+   "word": "institutional investor",
+   "pron": "(noun)",
+   "def": "An organisation investing large sums on behalf of others\nहिंदी: संस्थागत निवेशक",
+   "examples": [
+    "Pension funds are major institutional investors.",
+    "Institutional investors bought most of the IPO shares.",
+    "Insurance companies are large institutional investors.",
+    "Prices moved when institutional investors started selling."
+   ]
+  },
+  {
+   "id": "pack6-card-978",
+   "mode": "vocab",
+   "word": "retail investor",
+   "pron": "(noun)",
+   "def": "An individual who invests their own money\nहिंदी: खुदरा निवेशक",
+   "examples": [
+    "Retail investors increased their trading activity.",
+    "Retail investors can now start SIPs from just five hundred rupees.",
+    "Many retail investors joined the market during the lockdown.",
+    "Rules are designed to protect retail investors."
+   ]
+  },
+  {
+   "id": "pack6-card-979",
+   "mode": "vocab",
+   "word": "asset class",
+   "pron": "(noun)",
+   "def": "A category of investments with similar characteristics\nहिंदी: संपत्ति वर्ग",
+   "examples": [
+    "Equities and bonds are different asset classes.",
+    "Gold is a separate asset class from shares.",
+    "Spread your money across more than one asset class.",
+    "Real estate was the best asset class last decade."
+   ]
+  },
+  {
+   "id": "pack6-card-980",
+   "mode": "vocab",
+   "word": "ETF",
+   "pron": "(abbreviation)",
+   "def": "A fund traded on an exchange that tracks an index\nहिंदी: एक्सचेंज पर कारोबार होने वाला फ़ंड",
+   "examples": [
+    "The ETF tracks the top five hundred companies.",
+    "A gold ETF lets you invest in gold without buying jewellery.",
+    "You can buy an ETF through any trading app.",
+    "ETFs usually have lower fees than active funds."
+   ]
+  },
+  {
+   "id": "pack6-card-981",
+   "mode": "vocab",
+   "word": "mutual fund",
+   "pron": "(noun)",
+   "def": "A pooled investment managed by professionals\nहिंदी: म्यूचुअल फ़ंड",
+   "examples": [
+    "The mutual fund charges a low annual fee.",
+    "I invest in a mutual fund through a monthly SIP.",
+    "Read the mutual fund's documents before investing.",
+    "The mutual fund gave a twelve percent return last year."
+   ]
+  },
+  {
+   "id": "pack6-card-982",
+   "mode": "vocab",
+   "word": "hedge fund",
+   "pron": "(noun)",
+   "def": "A pooled investment using complex strategies for high returns\nहिंदी: हेज फ़ंड",
+   "examples": [
+    "The hedge fund bet against the currency.",
+    "Hedge funds are usually open only to wealthy investors.",
+    "The hedge fund made money when the market fell.",
+    "Hedge funds charge high fees for active management."
+   ]
+  },
+  {
+   "id": "pack6-card-983",
+   "mode": "vocab",
+   "word": "index fund",
+   "pron": "(noun)",
+   "def": "A fund designed to match the performance of a market index\nहिंदी: सूचकांक आधारित फ़ंड",
+   "examples": [
+    "Index funds offer broad exposure at low cost.",
+    "An index fund is a simple choice for new investors.",
+    "The index fund tracks the Nifty 50.",
+    "Index funds rarely beat the market, but they rarely trail it much."
+   ]
+  },
+  {
+   "id": "pack6-card-984",
+   "mode": "vocab",
+   "word": "expense ratio",
+   "pron": "(noun)",
+   "def": "The annual fee charged as a percentage of fund assets\nहिंदी: फ़ंड का वार्षिक शुल्क अनुपात",
+   "examples": [
+    "A lower expense ratio improves long-term returns.",
+    "Compare the expense ratio of funds before investing.",
+    "Direct plans have a lower expense ratio than regular plans.",
+    "An expense ratio of two percent eats into your returns."
+   ]
+  },
+  {
+   "id": "pack6-card-985",
+   "mode": "vocab",
+   "word": "compounding",
+   "pron": "(noun)",
+   "def": "Earning returns on both principal and accumulated returns\nहिंदी: चक्रवृद्धि",
+   "examples": [
+    "Compounding rewards patient, long-term investors.",
+    "Thanks to compounding, small savings grow large over decades.",
+    "Start investing early to benefit from compounding.",
+    "Compounding works against you on credit card debt too."
+   ]
+  },
+  {
+   "id": "pack6-card-992",
+   "mode": "vocab",
+   "word": "recovery",
+   "pron": "(noun)",
+   "def": "A return to growth after a downturn\nहिंदी: आर्थिक सुधार",
+   "examples": [
+    "The recovery has been slow but steady.",
+    "The tourism industry saw a strong recovery after the pandemic.",
+    "Economists expect a recovery in car sales next year.",
+    "Her shares lost value, but she waited for the recovery."
+   ]
+  },
+  {
+   "id": "pack6-card-993",
+   "mode": "vocab",
+   "word": "bull market",
+   "pron": "(noun)",
+   "def": "A period of rising prices\nहिंदी: तेज़ी का बाज़ार",
+   "examples": [
+    "The bull market lasted almost a decade.",
+    "Many first-time investors joined during the bull market.",
+    "In a bull market, almost every stock seems to rise.",
+    "Don't assume the bull market will last forever."
+   ]
+  },
+  {
+   "id": "pack6-card-994",
+   "mode": "vocab",
+   "word": "bear market",
+   "pron": "(noun)",
+   "def": "A period of falling prices\nहिंदी: मंदी का बाज़ार",
+   "examples": [
+    "Investors panic during a bear market.",
+    "Long-term investors see a bear market as a chance to buy.",
+    "The bear market wiped out a year of gains.",
+    "Stay calm and keep your SIP running during a bear market."
+   ]
+  },
+  {
+   "id": "pack6-card-996",
+   "mode": "vocab",
+   "word": "sell-off",
+   "pron": "(noun)",
+   "def": "A rapid sale of assets causing falling prices\nहिंदी: तेज़ बिकवाली",
+   "examples": [
+    "Fear triggered a broad sell-off in bonds.",
+    "The sell-off started after the bad inflation numbers.",
+    "Bank shares fell sharply in the sell-off.",
+    "Panic selling turned a small dip into a big sell-off."
+   ]
+  },
+  {
+   "id": "pack6-card-997",
+   "mode": "vocab",
+   "word": "sentiment",
+   "pron": "(noun)",
+   "def": "The overall attitude of investors towards the market\nहिंदी: निवेशकों का सामान्य रुझान",
+   "examples": [
+    "Investor sentiment turned cautious.",
+    "Positive budget news improved market sentiment.",
+    "Consumer sentiment is weak because prices are high.",
+    "Social media can shift investor sentiment quickly."
+   ]
+  },
+  {
+   "id": "pack6-card-998",
+   "mode": "vocab",
+   "word": "speculation",
+   "pron": "(noun)",
+   "def": "Risky investing in hope of quick profit\nहिंदी: जोखिम भरी अटकलबाज़ी",
+   "examples": [
+    "Speculation drove prices far above fundamentals.",
+    "Land speculation pushed prices up near the new airport.",
+    "Crypto prices are driven mostly by speculation.",
+    "The rumour led to wild speculation about a merger."
+   ]
+  },
+  {
+   "id": "pack6-card-999",
+   "mode": "vocab",
+   "word": "fundamentals",
+   "pron": "(noun)",
+   "def": "Basic financial factors that determine an asset's value\nहिंदी: बुनियादी आर्थिक कारक",
+   "examples": [
+    "The stock's fundamentals remain strong.",
+    "Check a company's fundamentals before buying its shares.",
+    "The economy's fundamentals are still strong.",
+    "Prices fell even though the fundamentals didn't change."
+   ]
+  },
+  {
+   "id": "pack6-card-1001",
+   "mode": "vocab",
+   "word": "overvalued",
+   "pron": "(adjective)",
+   "def": "Priced higher than its worth\nहिंदी: अपने मूल्य से अधिक कीमत वाला",
+   "examples": [
+    "Analysts believe the stock is overvalued.",
+    "Many people think city flats are overvalued.",
+    "The startup was overvalued and lost half its value.",
+    "An overvalued currency hurts exporters."
+   ]
+  },
+  {
+   "id": "pack6-card-1002",
+   "mode": "vocab",
+   "word": "undervalued",
+   "pron": "(adjective)",
+   "def": "Priced lower than its worth\nहिंदी: अपने मूल्य से कम कीमत वाला",
+   "examples": [
+    "The company appears undervalued relative to peers.",
+    "Value investors look for undervalued companies.",
+    "Her skills are undervalued in her current job.",
+    "The share is undervalued after the recent fall."
+   ]
+  },
+  {
+   "id": "pack6-card-1003",
+   "mode": "vocab",
+   "word": "earnings",
+   "pron": "(noun)",
+   "def": "Profit made by a company\nहिंदी: कंपनी की कमाई",
+   "examples": [
+    "Quarterly earnings beat expectations.",
+    "Earnings season brings big moves in share prices.",
+    "The company's earnings fell because of higher costs.",
+    "Investors expect earnings to grow next year."
+   ]
+  },
+  {
+   "id": "pack6-card-1006",
+   "mode": "vocab",
+   "word": "overhead costs",
+   "pron": "(noun)",
+   "def": "Ongoing business expenses not tied to a specific product\nहिंदी: सामान्य परिचालन खर्च",
+   "examples": [
+    "We reduced overhead costs by consolidating offices.",
+    "Rent and electricity are major overhead costs for the shop.",
+    "Working remotely cut our overhead costs.",
+    "High overhead costs make small orders unprofitable."
+   ]
+  },
+  {
+   "id": "pack6-card-1007",
+   "mode": "vocab",
+   "word": "cash flow",
+   "pron": "(noun)",
+   "def": "The movement of money in and out of a business\nहिंदी: नकदी का प्रवाह",
+   "examples": [
+    "Strong cash flow supports the dividend.",
+    "Good cash flow lets a business pay salaries on time.",
+    "Late customer payments hurt our cash flow.",
+    "Track your personal cash flow with a simple spreadsheet."
+   ]
+  },
+  {
+   "id": "pack6-card-1008",
+   "mode": "vocab",
+   "word": "balance sheet",
+   "pron": "(noun)",
+   "def": "A statement of a company's assets and liabilities\nहिंदी: तुलन पत्र",
+   "examples": [
+    "The balance sheet shows low debt.",
+    "Investors study the balance sheet before lending money.",
+    "The balance sheet must balance: assets equal liabilities plus equity.",
+    "Large debt on the balance sheet worried the rating agency."
+   ]
+  },
+  {
+   "id": "pack6-card-1009",
+   "mode": "vocab",
+   "word": "audit report",
+   "pron": "(noun)",
+   "def": "An independent examination of financial statements\nहिंदी: लेखा परीक्षण रिपोर्ट",
+   "examples": [
+    "The audit report found no material errors.",
+    "The audit report is attached to the annual report.",
+    "A qualified audit report is a warning sign for investors.",
+    "The board discussed the audit report in detail."
+   ]
+  },
+  {
+   "id": "pack6-card-1010",
+   "mode": "vocab",
+   "word": "regulation",
+   "pron": "(noun)",
+   "def": "A rule made by authority to control behaviour\nहिंदी: विनियमन",
+   "examples": [
+    "New regulation increased reporting obligations.",
+    "Strict regulation protects bank customers.",
+    "The new regulation bans single-use plastic.",
+    "Startups often find regulation confusing."
+   ]
+  },
+  {
+   "id": "pack6-card-1011",
+   "mode": "vocab",
+   "word": "regulator",
+   "pron": "(noun)",
+   "def": "An authority overseeing and enforcing rules\nहिंदी: नियामक संस्था",
+   "examples": [
+    "The regulator fined the firm for late reporting.",
+    "SEBI is the market regulator in India.",
+    "The regulator asked the bank to stop issuing new cards.",
+    "Report fraud to the regulator if the company doesn't respond."
+   ]
+  },
+  {
+   "id": "pack6-card-1012",
+   "mode": "vocab",
+   "word": "compliance officer",
+   "pron": "(noun)",
+   "def": "A person ensuring a firm follows laws and rules\nहिंदी: अनुपालन अधिकारी",
+   "examples": [
+    "The compliance officer reviewed the new policy.",
+    "The compliance officer must approve all client communications.",
+    "Ask the compliance officer before accepting expensive gifts.",
+    "Our compliance officer runs yearly training on rules."
+   ]
+  },
+  {
+   "id": "pack6-card-1013",
+   "mode": "vocab",
+   "word": "anti-money laundering",
+   "pron": "(noun)",
+   "def": "Rules preventing illegally obtained money from entering the system\nहिंदी: धनशोधन निरोधक",
+   "examples": [
+    "Anti-money laundering checks apply to all new clients.",
+    "Banks report large cash deposits under anti-money laundering rules.",
+    "Anti-money laundering training is mandatory for all staff.",
+    "The bank was fined for weak anti-money laundering controls."
+   ]
+  },
+  {
+   "id": "pack6-card-1014",
+   "mode": "vocab",
+   "word": "KYC",
+   "pron": "(abbreviation)",
+   "def": "The process of verifying a client's identity\nहिंदी: ग्राहक पहचान सत्यापन",
+   "examples": [
+    "KYC must be completed before opening an account.",
+    "Upload your PAN and Aadhaar to complete KYC.",
+    "The app blocked my account until I updated my KYC.",
+    "KYC rules help prevent fraud and fake accounts."
+   ]
+  },
+  {
+   "id": "pack6-card-1015",
+   "mode": "vocab",
+   "word": "due diligence process",
+   "pron": "(noun)",
+   "def": "Detailed investigation of a client or investment\nहिंदी: विस्तृत जाँच प्रक्रिया",
+   "examples": [
+    "The due diligence process takes several weeks.",
+    "The due diligence process checks the company's legal history.",
+    "Our due diligence process includes a site visit.",
+    "Skipping the due diligence process led to a bad investment."
+   ]
+  },
+  {
+   "id": "pack6-card-1016",
+   "mode": "vocab",
+   "word": "disclosure",
+   "pron": "(noun)",
+   "def": "The act of revealing information as required\nहिंदी: आवश्यक जानकारी का खुलासा",
+   "examples": [
+    "Full disclosure of fees is required by law.",
+    "The disclosure of the CEO's salary surprised shareholders.",
+    "Disclosure rules require companies to report big losses quickly.",
+    "Make a full disclosure of your income in the tax return."
+   ]
+  },
+  {
+   "id": "pack6-card-1018",
+   "mode": "vocab",
+   "word": "conflict of interest",
+   "pron": "(noun)",
+   "def": "A situation where personal gain may affect duty\nहिंदी: हितों का टकराव",
+   "examples": [
+    "Advisers must declare any conflict of interest.",
+    "The judge stepped down because of a conflict of interest.",
+    "Hiring your cousin creates a conflict of interest.",
+    "Declare any conflict of interest before the vote."
+   ]
+  },
+  {
+   "id": "pack6-card-1019",
+   "mode": "vocab",
+   "word": "insider trading",
+   "pron": "(noun)",
+   "def": "Illegal trading based on confidential information\nहिंदी: अंदरूनी जानकारी पर कारोबार",
+   "examples": [
+    "Insider trading is a serious criminal offence.",
+    "The director was arrested for insider trading.",
+    "Employees can't trade the company's shares before results to avoid insider trading.",
+    "Regulators use data analysis to catch insider trading."
+   ]
+  },
+  {
+   "id": "pack6-card-1020",
+   "mode": "vocab",
+   "word": "ESG",
+   "pron": "(abbreviation)",
+   "def": "Environmental, social and governance criteria used to assess investments\nहिंदी: पर्यावरण, सामाजिक व शासन मानदंड",
+   "examples": [
+    "ESG factors increasingly influence investment decisions.",
+    "The fund only invests in companies with good ESG scores.",
+    "ESG reporting is now required for large listed companies.",
+    "Young investors care a lot about ESG."
+   ]
+  },
+  {
+   "id": "pack6-card-1021",
+   "mode": "vocab",
+   "word": "sustainable investing",
+   "pron": "(noun)",
+   "def": "Investing that considers long-term environmental and social impact\nहिंदी: टिकाऊ निवेश",
+   "examples": [
+    "Sustainable investing attracted record inflows.",
+    "Sustainable investing avoids companies that harm the environment.",
+    "Many banks now offer sustainable investing options.",
+    "Sustainable investing doesn't have to mean lower returns."
+   ]
+  },
+  {
+   "id": "pack6-card-1022",
+   "mode": "vocab",
+   "word": "stewardship",
+   "pron": "(noun)",
+   "def": "Responsible management of entrusted assets\nहिंदी: ज़िम्मेदार प्रबंधन",
+   "examples": [
+    "Investors expect strong stewardship from asset managers.",
+    "Good stewardship means voting on company decisions responsibly.",
+    "The trust's stewardship of the old temple is admired.",
+    "The new CEO promised careful stewardship of company funds."
+   ]
+  },
+  {
+   "id": "pack6-card-1023",
+   "mode": "vocab",
+   "word": "risk-adjusted",
+   "pron": "(adjective)",
+   "def": "Measured after taking the level of risk into account\nहिंदी: जोखिम के अनुसार समायोजित",
+   "examples": [
+    "Risk-adjusted returns tell a fuller story.",
+    "Compare funds on a risk-adjusted basis, not just returns.",
+    "The Sharpe ratio measures risk-adjusted performance.",
+    "Her fund has the best risk-adjusted returns in its category."
+   ]
+  },
+  {
+   "id": "pack6-card-1024",
+   "mode": "vocab",
+   "word": "alpha",
+   "pron": "(noun)",
+   "def": "Returns above those of a benchmark\nहिंदी: मानक से अधिक अतिरिक्त प्रतिफल",
+   "examples": [
+    "The manager has consistently generated alpha.",
+    "Index funds don't try to generate alpha.",
+    "Finding alpha is harder as markets become more efficient.",
+    "The fund's alpha disappeared after the star manager left."
+   ]
+  },
+  {
+   "id": "pack6-card-1025",
+   "mode": "vocab",
+   "word": "beta",
+   "pron": "(noun)",
+   "def": "A measure of how much an asset moves with the market\nहिंदी: बाज़ार के साथ चाल का माप",
+   "examples": [
+    "A beta above one means higher volatility than the market.",
+    "Utility stocks usually have a low beta.",
+    "A beta of zero point eight means the stock moves less than the market.",
+    "High beta stocks rise and fall faster than the index."
+   ]
+  },
+  {
+   "id": "pack6-card-1026",
+   "mode": "vocab",
+   "word": "drawdown",
+   "pron": "(noun)",
+   "def": "The decline from a portfolio's peak to its low\nहिंदी: शीर्ष से गिरावट",
+   "examples": [
+    "The maximum drawdown was fifteen percent.",
+    "The drawdown during the crash tested investors' patience.",
+    "Check a fund's worst drawdown before investing.",
+    "It took two years to recover from that drawdown."
+   ]
+  },
+  {
+   "id": "pack6-card-1027",
+   "mode": "vocab",
+   "word": "stress test",
+   "pron": "(noun)",
+   "def": "Simulating extreme conditions to test resilience\nहिंदी: चरम परिस्थितियों का अनुकरण परीक्षण",
+   "examples": [
+    "Banks must pass annual stress tests.",
+    "We ran a stress test on our budget assuming no income for six months.",
+    "The stress test showed the bank could survive a recession.",
+    "Stress test results are published by the central bank."
+   ]
+  },
+  {
+   "id": "pack6-card-1028",
+   "mode": "vocab",
+   "word": "scenario analysis",
+   "pron": "(noun)",
+   "def": "Evaluating outcomes under different assumed conditions\nहिंदी: विभिन्न परिस्थितियों में नतीजों का विश्लेषण",
+   "examples": [
+    "Scenario analysis shows how losses change if rates rise.",
+    "Scenario analysis helped us plan for a weak monsoon.",
+    "The CFO presented a scenario analysis with three cases.",
+    "Use scenario analysis before making big investments."
+   ]
+  },
+  {
+   "id": "pack6-card-1029",
+   "mode": "vocab",
+   "word": "value at risk",
+   "pron": "(noun)",
+   "def": "An estimate of the potential loss over a period\nहिंदी: संभावित अधिकतम हानि अनुमान",
+   "examples": [
+    "The model estimates value at risk at ninety-five percent confidence.",
+    "The risk team reports value at risk every morning.",
+    "Value at risk doesn't show how bad the worst day could be.",
+    "Traders must stay within their value at risk limits."
+   ]
+  },
+  {
+   "id": "pack6-card-1030",
+   "mode": "vocab",
+   "word": "tail risk",
+   "pron": "(noun)",
+   "def": "The risk of rare but extreme events\nहिंदी: दुर्लभ पर गंभीर घटना का जोखिम",
+   "examples": [
+    "Tail risk is easy to ignore until it happens.",
+    "Insurance protects families from tail risk.",
+    "The fund lost heavily because it ignored tail risk.",
+    "Tail risk events are rare, but they can wipe out years of gains."
+   ]
+  },
+  {
+   "id": "pack6-card-1031",
+   "mode": "vocab",
+   "word": "black swan",
+   "pron": "(noun)",
+   "def": "An unpredictable event with severe consequences\nहिंदी: अप्रत्याशित बड़ी घटना",
+   "examples": [
+    "The pandemic was a classic black swan event.",
+    "Nobody predicted that black swan event.",
+    "Keep an emergency fund for black swan moments in life.",
+    "Some investors buy protection against a black swan crash."
+   ]
+  },
+  {
+   "id": "pack6-card-1032",
+   "mode": "vocab",
+   "word": "systemic risk",
+   "pron": "(noun)",
+   "def": "The risk that the failure of one entity collapses the system\nहिंदी: तंत्रगत जोखिम",
+   "examples": [
+    "Regulators monitor systemic risk in large banks.",
+    "Large banks are watched closely because of systemic risk.",
+    "The failure of one big lender created systemic risk.",
+    "Regulators set extra capital rules to reduce systemic risk."
+   ]
+  },
+  {
+   "id": "pack6-card-1033",
+   "mode": "vocab",
+   "word": "contagion",
+   "pron": "(noun)",
+   "def": "The spread of financial trouble from one market to another\nहिंदी: संकट का फैलना",
+   "examples": [
+    "Fears of contagion hit neighbouring economies.",
+    "Contagion from the US crisis spread to Asian markets.",
+    "The central bank acted quickly to stop contagion.",
+    "Fear of contagion pushed down other bank shares."
+   ]
+  },
+  {
+   "id": "pack6-card-1034",
+   "mode": "vocab",
+   "word": "bailout",
+   "pron": "(noun)",
+   "def": "Financial rescue of a failing company\nहिंदी: वित्तीय बचाव पैकेज",
+   "examples": [
+    "The government arranged a bailout for the bank.",
+    "Taxpayers were angry about the bailout of the airline.",
+    "The company asked the government for a bailout.",
+    "A bailout came with strict conditions."
+   ]
+  },
+  {
+   "id": "pack6-card-1035",
+   "mode": "vocab",
+   "word": "insolvency",
+   "pron": "(noun)",
+   "def": "The inability to pay debts\nहिंदी: दिवालियापन",
+   "examples": [
+    "The company filed for insolvency after losing its biggest client.",
+    "The builder's insolvency left many flat buyers stranded.",
+    "The court began insolvency proceedings against the company.",
+    "Insolvency laws help creditors recover some of their money."
+   ]
+  },
+  {
+   "id": "pack6-card-1037",
+   "mode": "vocab",
+   "word": "restructure",
+   "pron": "(verb)",
+   "def": "To reorganise finances or operations\nहिंदी: पुनर्गठन करना",
+   "examples": [
+    "The company restructured its debt to avoid default.",
+    "The company restructured its teams after the merger.",
+    "We restructured the loan to lower the monthly payment.",
+    "The bank plans to restructure its branch network."
+   ]
+  },
+  {
+   "id": "pack6-card-1038",
+   "mode": "vocab",
+   "word": "consolidation",
+   "pron": "(noun)",
+   "def": "Merging of companies or financial statements\nहिंदी: समेकन",
+   "examples": [
+    "Industry consolidation reduced the number of vendors.",
+    "Consolidation in the telecom sector left only a few players.",
+    "The finance team handles consolidation of subsidiary accounts.",
+    "Bank consolidation created fewer but stronger banks."
+   ]
+  },
+  {
+   "id": "pack6-card-1039",
+   "mode": "vocab",
+   "word": "divestment",
+   "pron": "(noun)",
+   "def": "Selling off assets or business units\nहिंदी: संपत्ति की बिक्री",
+   "examples": [
+    "The divestment of the unit raised two billion dollars.",
+    "The government announced divestment of its stake in two companies.",
+    "Divestment helped the company focus on its core business.",
+    "Students called for divestment from coal companies."
+   ]
+  },
+  {
+   "id": "pack6-card-1040",
+   "mode": "vocab",
+   "word": "capital",
+   "pron": "(noun)",
+   "def": "Money or assets used to generate income\nहिंदी: पूँजी",
+   "examples": [
+    "The startup raised capital from investors.",
+    "Starting a restaurant needs a lot of capital.",
+    "The bank must keep enough capital to cover losses.",
+    "She used her savings as starting capital for the shop."
+   ]
+  },
+  {
+   "id": "pack6-card-1041",
+   "mode": "vocab",
+   "word": "capital expenditure",
+   "pron": "(noun)",
+   "def": "Spending on long-term assets\nहिंदी: दीर्घकालिक संपत्ति पर खर्च",
+   "examples": [
+    "Capital expenditure rose due to new data centres.",
+    "Buying new trucks is a capital expenditure.",
+    "The government increased capital expenditure on railways.",
+    "Capital expenditure is planned years in advance."
+   ]
+  },
+  {
+   "id": "pack6-card-1042",
+   "mode": "vocab",
+   "word": "operating expense",
+   "pron": "(noun)",
+   "def": "Ongoing cost of running a business\nहिंदी: परिचालन व्यय",
+   "examples": [
+    "Cloud usage is a major operating expense.",
+    "Salaries are the biggest operating expense for our company.",
+    "Moving to the cloud turned hardware costs into an operating expense.",
+    "Cut operating expenses without hurting customer service."
+   ]
+  },
+  {
+   "id": "pack6-card-1045",
+   "mode": "vocab",
+   "word": "projection",
+   "pron": "(noun)",
+   "def": "An estimate of future figures based on current trends\nहिंदी: अनुमानित आँकड़ा",
+   "examples": [
+    "Revenue projections look conservative.",
+    "The sales projection for next year looks too optimistic.",
+    "Population projections help cities plan schools.",
+    "Our projection assumes no change in fuel prices."
+   ]
+  },
+  {
+   "id": "pack6-card-1046",
+   "mode": "vocab",
+   "word": "variance",
+   "pron": "(noun)",
+   "def": "The difference between planned and actual figures\nहिंदी: योजना और वास्तविकता का अंतर",
+   "examples": [
+    "The variance in costs was mainly due to licences.",
+    "Explain any variance above five percent in the monthly report.",
+    "The variance was due to an unexpected repair bill.",
+    "There was a positive variance because sales beat the plan."
+   ]
+  },
+  {
+   "id": "pack6-card-1047",
+   "mode": "vocab",
+   "word": "break-even",
+   "pron": "(noun)",
+   "def": "The point at which income equals costs\nहिंदी: लाभ-हानि रहित बिंदु",
+   "examples": [
+    "The product should reach break-even within a year.",
+    "The cafe hopes to break even by the end of the year.",
+    "We need two hundred customers a month to reach break-even.",
+    "Break-even analysis helps set the right price."
+   ]
+  },
+  {
+   "id": "pack6-card-1048",
+   "mode": "vocab",
+   "word": "return on investment",
+   "pron": "(noun)",
+   "def": "A measure of profit relative to cost\nहिंदी: निवेश पर प्रतिफल",
+   "examples": [
+    "The automation had a strong return on investment.",
+    "Training staff gave a high return on investment.",
+    "Calculate the return on investment before buying the machine.",
+    "The marketing campaign had a poor return on investment."
+   ]
+  },
+  {
+   "id": "pack6-card-1049",
+   "mode": "vocab",
+   "word": "cost-benefit analysis",
+   "pron": "(noun)",
+   "def": "Comparing the costs of an action with its benefits\nहिंदी: लागत-लाभ विश्लेषण",
+   "examples": [
+    "A cost-benefit analysis supported the upgrade.",
+    "We did a cost-benefit analysis before buying the new software.",
+    "A cost-benefit analysis showed solar panels pay off in five years.",
+    "The government ran a cost-benefit analysis of the new highway."
+   ]
+  },
+  {
+   "id": "pack6-card-1050",
+   "mode": "vocab",
+   "word": "procurement",
+   "pron": "(noun)",
+   "def": "The process of acquiring goods or services\nहिंदी: ख़रीद प्रक्रिया",
+   "examples": [
+    "Procurement approved the new vendor contract.",
+    "Procurement takes three weeks to approve new laptops.",
+    "The procurement team negotiated a better price.",
+    "Government procurement rules are very strict."
+   ]
+  },
+  {
+   "id": "pack6-card-1051",
+   "mode": "vocab",
+   "word": "vendor",
+   "pron": "(noun)",
+   "def": "A company that supplies goods or services\nहिंदी: विक्रेता / आपूर्तिकर्ता",
+   "examples": [
+    "We onboard a new data vendor every month.",
+    "The vendor delivered the furniture two days late.",
+    "We compare at least three vendors before signing.",
+    "Pay the vendor only after checking the goods."
+   ]
+  },
+  {
+   "id": "pack6-card-1053",
+   "mode": "vocab",
+   "word": "contractual",
+   "pron": "(adjective)",
+   "def": "Relating to a legally binding agreement\nहिंदी: अनुबंध संबंधी",
+   "examples": [
+    "Late delivery is a contractual breach.",
+    "We have a contractual duty to protect client data.",
+    "The contractual notice period is three months.",
+    "Check the contractual terms before agreeing to changes."
+   ]
+  },
+  {
+   "id": "pack6-card-1055",
+   "mode": "vocab",
+   "word": "penalty clause",
+   "pron": "(noun)",
+   "def": "A contract term imposing a fine for breaching conditions\nहिंदी: दंड खंड",
+   "examples": [
+    "The penalty clause applies if delivery is late.",
+    "The builder had to pay under the penalty clause for the delay.",
+    "Negotiate the penalty clause before signing.",
+    "There's no penalty clause, so the vendor has no reason to hurry."
+   ]
+  },
+  {
+   "id": "pack6-card-1056",
+   "mode": "vocab",
+   "word": "negotiating leverage",
+   "pron": "(noun)",
+   "def": "Power to influence the terms of a deal\nहिंदी: वार्ता में बढ़त",
+   "examples": [
+    "Multiple vendors give us stronger negotiating leverage.",
+    "Having another job offer gave her negotiating leverage.",
+    "Large orders give us negotiating leverage with suppliers.",
+    "We lost negotiating leverage after the deadline passed."
+   ]
+  },
+  {
+   "id": "pack6-card-1057",
+   "mode": "vocab",
+   "word": "renewal",
+   "pron": "(noun)",
+   "def": "Extension of a contract or licence for another period\nहिंदी: नवीनीकरण",
+   "examples": [
+    "The licence renewal is due in April.",
+    "My car insurance renewal is due next week.",
+    "The software renewal price went up by twenty percent.",
+    "Set reminders for every contract renewal date."
+   ]
+  },
+  {
+   "id": "pack6-card-1058",
+   "mode": "vocab",
+   "word": "licence",
+   "pron": "(noun)",
+   "def": "Official permission to use something\nहिंदी: लाइसेंस",
+   "examples": [
+    "The licence limits usage to ten users.",
+    "You need a licence to open a restaurant.",
+    "The company bought a licence for the design software.",
+    "His driving licence expires next year."
+   ]
+  },
+  {
+   "id": "pack6-card-1060",
+   "mode": "vocab",
+   "word": "tiered pricing",
+   "pron": "(noun)",
+   "def": "Pricing that varies by usage or level\nहिंदी: स्तरवार मूल्य निर्धारण",
+   "examples": [
+    "Tiered pricing makes the service cheaper at higher volumes.",
+    "The mobile plan uses tiered pricing based on data use.",
+    "With tiered pricing, big customers pay less per unit.",
+    "Electricity bills use tiered pricing in many states."
+   ]
+  },
+  {
+   "id": "pack6-card-1061",
+   "mode": "vocab",
+   "word": "volume discount",
+   "pron": "(noun)",
+   "def": "A price reduction for large purchases\nहिंदी: अधिक मात्रा पर छूट",
+   "examples": [
+    "We negotiated a volume discount from the vendor.",
+    "The office got a volume discount on fifty new chairs.",
+    "Wholesale shops offer a volume discount on rice.",
+    "Ask for a volume discount if you order every month."
+   ]
+  },
+  {
+   "id": "pack6-card-1062",
+   "mode": "vocab",
+   "word": "yield curve",
+   "pron": "(noun)",
+   "def": "A graph of bond yields across different maturities\nहिंदी: परिपक्वता के अनुसार बॉन्ड प्रतिफल का ग्राफ़",
+   "examples": [
+    "An inverted yield curve often signals a slowdown.",
+    "Analysts watch the yield curve for signs of recession.",
+    "A steep yield curve usually means growth ahead.",
+    "The yield curve flattened after the rate decision."
+   ]
+  },
+  {
+   "id": "pack6-card-1063",
+   "mode": "vocab",
+   "word": "basis point",
+   "pron": "(noun)",
+   "def": "One hundredth of one percent\nहिंदी: एक प्रतिशत का सौवाँ भाग",
+   "examples": [
+    "The bank raised rates by fifty basis points.",
+    "My home loan rate went up by twenty-five basis points.",
+    "The bond yield rose ten basis points today.",
+    "A few basis points make a big difference on a large loan."
+   ]
+  },
+  {
+   "id": "pack6-card-1064",
+   "mode": "vocab",
+   "word": "treasury",
+   "pron": "(noun)",
+   "def": "Government debt securities or finance department\nहिंदी: सरकारी प्रतिभूतियाँ / कोषागार",
+   "examples": [
+    "Investors moved money into treasuries.",
+    "US treasury bonds are seen as very safe.",
+    "The company's treasury team manages its cash.",
+    "Treasury bills are short-term government debt."
+   ]
+  },
+  {
+   "id": "pack6-card-1065",
+   "mode": "vocab",
+   "word": "sovereign debt",
+   "pron": "(noun)",
+   "def": "Money borrowed by a national government\nहिंदी: सरकारी ऋण",
+   "examples": [
+    "Sovereign debt worries unsettled markets.",
+    "The country's sovereign debt is now larger than its GDP.",
+    "Rating agencies review sovereign debt every year.",
+    "Banks hold a lot of sovereign debt as safe assets."
+   ]
+  },
+  {
+   "id": "pack6-card-1066",
+   "mode": "vocab",
+   "word": "credit spread",
+   "pron": "(noun)",
+   "def": "The yield difference between corporate and government bonds\nहिंदी: कॉर्पोरेट व सरकारी बॉन्ड के प्रतिफल का अंतर",
+   "examples": [
+    "Credit spreads widened during the crisis.",
+    "A narrow credit spread means investors feel confident.",
+    "The company's credit spread jumped after weak results.",
+    "Watch credit spreads as a signal of market stress."
+   ]
+  },
+  {
+   "id": "pack6-card-1067",
+   "mode": "vocab",
+   "word": "investment grade",
+   "pron": "(adjective)",
+   "def": "Bonds with a low risk of default\nहिंदी: कम जोखिम वाले बॉन्ड वर्ग का",
+   "examples": [
+    "The fund only buys investment grade bonds.",
+    "Pension funds usually buy only investment grade bonds.",
+    "The company lost its investment grade status.",
+    "Investment grade bonds pay lower interest but are safer."
+   ]
+  },
+  {
+   "id": "pack6-card-1068",
+   "mode": "vocab",
+   "word": "junk bond",
+   "pron": "(noun)",
+   "def": "A high-risk, high-yield bond\nहिंदी: उच्च जोखिम वाला बॉन्ड",
+   "examples": [
+    "Junk bonds pay more but carry default risk.",
+    "The company had to issue junk bonds to raise money.",
+    "Junk bond yields rose as recession fears grew.",
+    "Don't put your retirement savings in junk bonds."
+   ]
+  },
+  {
+   "id": "pack6-card-1069",
+   "mode": "vocab",
+   "word": "equity market",
+   "pron": "(noun)",
+   "def": "A market where shares are traded\nहिंदी: शेयर बाज़ार",
+   "examples": [
+    "Equity markets rallied after the announcement.",
+    "The equity market fell sharply after the election result.",
+    "Foreign investors returned to the Indian equity market.",
+    "The equity market is risky in the short term."
+   ]
+  },
+  {
+   "id": "pack6-card-1070",
+   "mode": "vocab",
+   "word": "blue chip",
+   "pron": "(noun)",
+   "def": "A large, reliable, well-established company\nहिंदी: बड़ी व भरोसेमंद कंपनी",
+   "examples": [
+    "Blue chip stocks suit cautious investors.",
+    "My father only invests in blue chip companies.",
+    "Blue chip shares fell less during the crash.",
+    "Reliance and TCS are often called blue chip stocks."
+   ]
+  },
+  {
+   "id": "pack6-card-1071",
+   "mode": "vocab",
+   "word": "market capitalisation",
+   "pron": "(noun)",
+   "def": "The total market value of a company's shares\nहिंदी: कंपनी का कुल बाज़ार मूल्य",
+   "examples": [
+    "Its market capitalisation exceeds one trillion dollars.",
+    "The company's market capitalisation doubled in two years.",
+    "Funds group shares by market capitalisation: large, mid and small.",
+    "Market capitalisation changes every time the share price moves."
+   ]
+  },
+  {
+   "id": "pack6-card-1072",
+   "mode": "vocab",
+   "word": "initial public offering",
+   "pron": "(noun)",
+   "def": "The first sale of a company's shares to the public\nहिंदी: कंपनी के शेयरों की पहली सार्वजनिक बिक्री",
+   "examples": [
+    "The start-up plans an initial public offering next year.",
+    "The initial public offering was oversubscribed fifty times.",
+    "Employees made money when the company held its initial public offering.",
+    "Read the details before applying for an initial public offering."
+   ]
+  },
+  {
+   "id": "pack6-card-1073",
+   "mode": "vocab",
+   "word": "share buyback",
+   "pron": "(noun)",
+   "def": "A company repurchasing its own shares\nहिंदी: कंपनी द्वारा अपने शेयर वापस ख़रीदना",
+   "examples": [
+    "The share buyback lifted the stock price.",
+    "The share buyback shows the company has extra cash.",
+    "Investors liked the share buyback announcement.",
+    "Some critics say a share buyback is better spent on growth."
+   ]
+  },
+  {
+   "id": "pack6-card-1074",
+   "mode": "vocab",
+   "word": "stock exchange",
+   "pron": "(noun)",
+   "def": "A market where securities are bought and sold\nहिंदी: स्टॉक एक्सचेंज",
+   "examples": [
+    "The stock exchange closes at three-thirty.",
+    "The Bombay Stock Exchange is one of Asia's oldest.",
+    "The company is listed on two stock exchanges.",
+    "The stock exchange halted trading after the big fall."
+   ]
+  },
+  {
+   "id": "pack6-card-1075",
+   "mode": "vocab",
+   "word": "index rebalancing",
+   "pron": "(noun)",
+   "def": "Adjusting an index's holdings to match rules\nहिंदी: सूचकांक की संरचना में समायोजन",
+   "examples": [
+    "Index rebalancing triggered heavy trading.",
+    "Index rebalancing happens every six months for the Nifty.",
+    "Shares added in index rebalancing often rise beforehand.",
+    "Index funds must trade on the day of index rebalancing."
+   ]
+  },
+  {
+   "id": "pack6-card-1076",
+   "mode": "vocab",
+   "word": "tracking error",
+   "pron": "(noun)",
+   "def": "The difference between a fund's and its benchmark's returns\nहिंदी: फ़ंड और मानक के प्रतिफल का अंतर",
+   "examples": [
+    "Low tracking error indicates faithful replication.",
+    "A good index fund has very low tracking error.",
+    "High fees increase tracking error over time.",
+    "The ETF's tracking error was higher than expected last year."
+   ]
+  },
+  {
+   "id": "pack6-card-1077",
+   "mode": "vocab",
+   "word": "passive investing",
+   "pron": "(noun)",
+   "def": "Investing to match a market index rather than beat it\nहिंदी: सूचकांक के बराबर निवेश",
+   "examples": [
+    "Passive investing has grown rapidly.",
+    "Passive investing suits people who don't want to pick stocks.",
+    "Passive investing keeps costs very low.",
+    "The rise of passive investing changed the fund industry."
+   ]
+  },
+  {
+   "id": "pack6-card-1078",
+   "mode": "vocab",
+   "word": "active management",
+   "pron": "(noun)",
+   "def": "Choosing investments to try to beat the market\nहिंदी: सक्रिय रूप से निवेश चुनना",
+   "examples": [
+    "Active management charges higher fees.",
+    "Active management works better in less efficient markets.",
+    "She believes active management is worth the higher fee.",
+    "The fund's active management beat the index this year."
+   ]
+  },
+  {
+   "id": "pack6-card-1079",
+   "mode": "vocab",
+   "word": "market maker",
+   "pron": "(noun)",
+   "def": "A firm that provides buy and sell quotes to ensure liquidity\nहिंदी: क्रय-विक्रय भाव देने वाली संस्था",
+   "examples": [
+    "Market makers keep spreads narrow.",
+    "The market maker quotes prices for the small company's shares.",
+    "Without a market maker, the option would be hard to trade.",
+    "Market makers earn money from the bid-ask spread."
+   ]
+  },
+  {
+   "id": "pack6-card-1080",
+   "mode": "vocab",
+   "word": "dark pool",
+   "pron": "(noun)",
+   "def": "A private venue for trading large blocks of shares\nहिंदी: बड़े सौदों के लिए निजी मंच",
+   "examples": [
+    "Large orders often route through dark pools.",
+    "Dark pools let big funds trade without moving the price.",
+    "Regulators want more transparency in dark pools.",
+    "The block of shares was sold in a dark pool."
+   ]
+  },
+  {
+   "id": "pack6-card-1081",
+   "mode": "vocab",
+   "word": "high-frequency trading",
+   "pron": "(noun)",
+   "def": "Very fast automated trading using algorithms\nहिंदी: तेज़ गति से स्वचालित ट्रेडिंग",
+   "examples": [
+    "High-frequency trading depends on microsecond latency.",
+    "High-frequency trading firms place their servers near the exchange.",
+    "Critics say high-frequency trading hurts small investors.",
+    "High-frequency trading makes thousands of trades in a second."
+   ]
+  },
+  {
+   "id": "pack6-card-1082",
+   "mode": "vocab",
+   "word": "algorithmic trading",
+   "pron": "(noun)",
+   "def": "Trading using automated rules\nहिंदी: एल्गोरिदम आधारित ट्रेडिंग",
+   "examples": [
+    "Algorithmic trading now dominates equity volume.",
+    "Algorithmic trading reacts to news faster than any human.",
+    "A bug in algorithmic trading caused huge losses in minutes.",
+    "Many brokers now offer algorithmic trading to retail clients."
+   ]
+  },
+  {
+   "id": "pack6-card-1083",
+   "mode": "vocab",
+   "word": "slippage",
+   "pron": "(noun)",
+   "def": "The difference between expected and actual trade price\nहिंदी: अपेक्षित व वास्तविक सौदा मूल्य का अंतर",
+   "examples": [
+    "Slippage rose during the volatile open.",
+    "Use limit orders to avoid slippage.",
+    "Slippage is common when you trade small, illiquid shares.",
+    "The slippage cost us more than the brokerage fee."
+   ]
+  },
+  {
+   "id": "pack6-card-1084",
+   "mode": "vocab",
+   "word": "margin call",
+   "pron": "(noun)",
+   "def": "A demand to add funds to cover losses\nहिंदी: नुक़सान की भरपाई हेतु अतिरिक्त धन की माँग",
+   "examples": [
+    "He faced a margin call after the sharp fall.",
+    "The broker sent a margin call when the shares fell.",
+    "If you can't meet the margin call, your position is sold.",
+    "Borrowing to trade can lead to a margin call."
+   ]
+  },
+  {
+   "id": "pack6-card-1085",
+   "mode": "vocab",
+   "word": "short selling",
+   "pron": "(noun)",
+   "def": "Selling borrowed assets expecting prices to fall\nहिंदी: उधार लेकर बेचना, गिरावट की उम्मीद में",
+   "examples": [
+    "Short selling can increase market volatility.",
+    "Short selling was banned temporarily during the crisis.",
+    "Short selling is risky because losses have no limit.",
+    "The report triggered heavy short selling of the company's shares."
+   ]
+  },
+  {
+   "id": "pack6-card-1086",
+   "mode": "vocab",
+   "word": "long position",
+   "pron": "(noun)",
+   "def": "Owning an asset expecting its price to rise\nहिंदी: कीमत बढ़ने की उम्मीद में धारित स्थिति",
+   "examples": [
+    "The fund holds a long position in energy stocks.",
+    "She opened a long position in gold before the festival season.",
+    "A long position profits when the price goes up.",
+    "The trader closed his long position after the rally."
+   ]
+  },
+  {
+   "id": "pack6-card-1087",
+   "mode": "vocab",
+   "word": "arbitrage",
+   "pron": "(noun)",
+   "def": "Profiting from price differences in different markets\nहिंदी: मूल्य अंतर से लाभ कमाना",
+   "examples": [
+    "Arbitrage keeps prices aligned across exchanges.",
+    "Arbitrage opportunities disappear quickly in modern markets.",
+    "Some funds use arbitrage between the cash and futures markets.",
+    "He made a small profit through currency arbitrage."
+   ]
+  },
+  {
+   "id": "pack6-card-1088",
+   "mode": "vocab",
+   "word": "mark-to-market",
+   "pron": "(adjective)",
+   "def": "Valuing assets at current market prices\nहिंदी: वर्तमान बाज़ार मूल्य पर मूल्यांकन",
+   "examples": [
+    "Positions are marked to market every evening.",
+    "Mark-to-market losses showed up in the bank's quarterly results.",
+    "Futures accounts are settled mark-to-market every day.",
+    "Mark-to-market accounting reflects current values."
+   ]
+  },
+  {
+   "id": "pack6-card-1089",
+   "mode": "vocab",
+   "word": "pricing source",
+   "pron": "(noun)",
+   "def": "The provider from which a price is taken\nहिंदी: मूल्य का स्रोत",
+   "examples": [
+    "We define a primary and fallback pricing source.",
+    "Use the exchange as the pricing source for listed shares.",
+    "The bond's pricing source changed last month.",
+    "Document the pricing source for every instrument."
+   ]
+  },
+  {
+   "id": "pack6-card-1090",
+   "mode": "vocab",
+   "word": "stale price",
+   "pron": "(noun)",
+   "def": "A price that has not been updated recently\nहिंदी: पुराना न बदला हुआ मूल्य",
+   "examples": [
+    "A stale price distorted the portfolio valuation.",
+    "The system flags a stale price if it hasn't changed in two days.",
+    "A stale price made the fund look better than it was.",
+    "Replace any stale price before publishing the report."
+   ]
+  },
+  {
+   "id": "pack6-card-1091",
+   "mode": "vocab",
+   "word": "price tolerance",
+   "pron": "(noun)",
+   "def": "The permitted variation before a price is flagged\nहिंदी: मूल्य में स्वीकार्य अंतर",
+   "examples": [
+    "The check flags moves beyond the price tolerance.",
+    "A price move above the price tolerance needs manual review.",
+    "We set a tighter price tolerance for government bonds.",
+    "Too wide a price tolerance can let bad prices through."
+   ]
+  },
+  {
+   "id": "pack6-card-1092",
+   "mode": "vocab",
+   "word": "vendor entitlement",
+   "pron": "(noun)",
+   "def": "The permission to use a data vendor's information\nहिंदी: डेटा विक्रेता की जानकारी उपयोग की अनुमति",
+   "examples": [
+    "Vendor entitlement limits which teams can see raw feeds.",
+    "Request vendor entitlement before you access the price feed.",
+    "Vendor entitlement is checked every time a user opens the report.",
+    "The audit found users without the right vendor entitlement."
+   ]
+  },
+  {
+   "id": "pack6-card-1093",
+   "mode": "vocab",
+   "word": "data licence",
+   "pron": "(noun)",
+   "def": "Legal permission to use specific data\nहिंदी: डेटा उपयोग की क़ानूनी अनुमति",
+   "examples": [
+    "The data licence restricts redistribution.",
+    "Our data licence allows internal use only.",
+    "The data licence costs more for every extra user.",
+    "Legal reviewed the data licence before we signed."
+   ]
+  },
+  {
+   "id": "pack6-card-1095",
+   "mode": "vocab",
+   "word": "exchange rate",
+   "pron": "(noun)",
+   "def": "The price of one currency in terms of another\nहिंदी: विनिमय दर",
+   "examples": [
+    "The exchange rate moved against the rupee.",
+    "Check the exchange rate before you travel abroad.",
+    "A weak exchange rate makes imports more expensive.",
+    "The airport offers a poor exchange rate."
+   ]
+  },
+  {
+   "id": "pack6-card-1096",
+   "mode": "vocab",
+   "word": "currency hedging",
+   "pron": "(noun)",
+   "def": "Reducing risk from currency movements\nहिंदी: मुद्रा जोखिम से बचाव",
+   "examples": [
+    "Currency hedging protects overseas returns.",
+    "Currency hedging costs money but reduces surprises.",
+    "The exporter uses currency hedging for its dollar income.",
+    "Some international funds skip currency hedging."
+   ]
+  },
+  {
+   "id": "pack6-card-1097",
+   "mode": "vocab",
+   "word": "foreign exchange",
+   "pron": "(noun)",
+   "def": "The market for trading national currencies\nहिंदी: विदेशी मुद्रा बाज़ार",
+   "examples": [
+    "Foreign exchange trading runs around the clock.",
+    "Banks earn fees from foreign exchange transactions.",
+    "The RBI manages India's foreign exchange reserves.",
+    "Foreign exchange rates change every few seconds."
+   ]
+  },
+  {
+   "id": "pack6-card-1098",
+   "mode": "vocab",
+   "word": "reserve currency",
+   "pron": "(noun)",
+   "def": "A currency held widely by central banks\nहिंदी: आरक्षित मुद्रा",
+   "examples": [
+    "The dollar is the main reserve currency.",
+    "As the reserve currency, the dollar is used in most oil trade.",
+    "Some countries want a new reserve currency.",
+    "Being a reserve currency gives a country economic power."
+   ]
+  },
+  {
+   "id": "pack6-card-1099",
+   "mode": "vocab",
+   "word": "fiat currency",
+   "pron": "(noun)",
+   "def": "Government-issued money not backed by a physical commodity\nहिंदी: सरकार द्वारा जारी मुद्रा",
+   "examples": [
+    "Most modern money is fiat currency.",
+    "The rupee is a fiat currency.",
+    "Fiat currency gets its value from trust in the government.",
+    "Some people buy gold because they distrust fiat currency."
+   ]
+  },
+  {
+   "id": "pack6-card-1100",
+   "mode": "vocab",
+   "word": "quantitative easing",
+   "pron": "(noun)",
+   "def": "Central bank purchasing assets to increase money supply\nहिंदी: केंद्रीय बैंक द्वारा मुद्रा आपूर्ति बढ़ाने की प्रक्रिया",
+   "examples": [
+    "Quantitative easing lowered long-term rates.",
+    "Quantitative easing pushed up the prices of shares and bonds.",
+    "The central bank ended quantitative easing last year.",
+    "Critics say quantitative easing increased inequality."
+   ]
+  },
+  {
+   "id": "pack6-card-1101",
+   "mode": "vocab",
+   "word": "rate hike",
+   "pron": "(noun)",
+   "def": "An increase in interest rates\nहिंदी: ब्याज दर में वृद्धि",
+   "examples": [
+    "A rate hike cooled the housing market.",
+    "The rate hike made my home loan EMI go up.",
+    "Markets fell after the surprise rate hike.",
+    "Another rate hike is expected next month."
+   ]
+  },
+  {
+   "id": "pack6-card-1102",
+   "mode": "vocab",
+   "word": "soft landing",
+   "pron": "(noun)",
+   "def": "Slowing inflation without causing recession\nहिंदी: मंदी के बिना महँगाई घटाना",
+   "examples": [
+    "Policymakers aim for a soft landing.",
+    "The economy achieved a soft landing after years of high inflation.",
+    "Investors hope for a soft landing, not a recession.",
+    "A soft landing is hard to achieve."
+   ]
+  },
+  {
+   "id": "pack6-card-1103",
+   "mode": "vocab",
+   "word": "hard landing",
+   "pron": "(noun)",
+   "def": "A sharp economic downturn after tightening\nहिंदी: तीव्र आर्थिक गिरावट",
+   "examples": [
+    "A hard landing would hurt employment.",
+    "A hard landing could lead to job losses.",
+    "Economists warned of a hard landing if rates rose too fast.",
+    "China's slowdown raised fears of a hard landing."
+   ]
+  },
+  {
+   "id": "pack6-card-1105",
+   "mode": "vocab",
+   "word": "credit crunch",
+   "pron": "(noun)",
+   "def": "A sudden reduction in available loans\nहिंदी: ऋण उपलब्धता में अचानक कमी",
+   "examples": [
+    "The credit crunch froze lending.",
+    "During the credit crunch, even good businesses couldn't get loans.",
+    "The credit crunch hit small companies the hardest.",
+    "Banks became very careful after the credit crunch."
+   ]
+  },
+  {
+   "id": "pack6-card-1106",
+   "mode": "vocab",
+   "word": "liquidity crisis",
+   "pron": "(noun)",
+   "def": "A shortage of cash or easily sellable assets\nहिंदी: नकदी का संकट",
+   "examples": [
+    "A liquidity crisis forced the fund to halt withdrawals.",
+    "The company had profits but still faced a liquidity crisis.",
+    "A liquidity crisis can turn into a solvency crisis.",
+    "The central bank lent money to stop the liquidity crisis."
+   ]
+  },
+  {
+   "id": "pack6-card-1107",
+   "mode": "vocab",
+   "word": "run on the bank",
+   "pron": "(idiom)",
+   "def": "A rush of customers withdrawing money\nहिंदी: बैंक से एक साथ पैसे निकालने की भीड़",
+   "examples": [
+    "Rumours triggered a run on the bank.",
+    "Deposit insurance helps prevent a run on the bank.",
+    "Long queues outside branches showed a run on the bank.",
+    "Social media spread panic and started a run on the bank."
+   ]
+  },
+  {
+   "id": "pack6-card-1108",
+   "mode": "vocab",
+   "word": "too big to fail",
+   "pron": "(idiom)",
+   "def": "So large that its collapse would harm the economy\nहिंदी: इतना बड़ा कि गिरने नहीं दिया जा सकता",
+   "examples": [
+    "Regulators fear banks that are too big to fail.",
+    "Some say no bank should be too big to fail.",
+    "Because it was too big to fail, the government rescued it.",
+    "Too big to fail banks face extra capital rules."
+   ]
+  },
+  {
+   "id": "pack6-card-1109",
+   "mode": "vocab",
+   "word": "moral hazard",
+   "pron": "(noun)",
+   "def": "Taking risks because someone else bears the cost\nहिंदी: दूसरे के जोखिम उठाने की वजह से लापरवाही",
+   "examples": [
+    "Bailouts can create moral hazard.",
+    "Free insurance for reckless drivers would create moral hazard.",
+    "Moral hazard appears when people don't pay for their mistakes.",
+    "Regulators worry that bailouts create moral hazard."
+   ]
+  },
+  {
+   "id": "pack6-card-1110",
+   "mode": "vocab",
+   "word": "safe haven",
+   "pron": "(noun)",
+   "def": "An asset expected to hold value in turbulent times\nहिंदी: मुश्किल समय में सुरक्षित निवेश",
+   "examples": [
+    "Gold is considered a safe haven.",
+    "Investors rushed to gold as a safe haven.",
+    "The Swiss franc is seen as a safe haven currency.",
+    "Government bonds acted as a safe haven during the crash."
+   ]
+  },
+  {
+   "id": "pack6-card-1111",
+   "mode": "vocab",
+   "word": "flight to quality",
+   "pron": "(noun)",
+   "def": "Investors moving money to safer assets\nहिंदी: सुरक्षित संपत्तियों की ओर पलायन",
+   "examples": [
+    "There was a flight to quality as fears grew.",
+    "The flight to quality pushed bond yields down.",
+    "During the flight to quality, small company shares fell the most.",
+    "A flight to quality usually strengthens the dollar."
+   ]
+  },
+  {
+   "id": "pack6-card-1112",
+   "mode": "vocab",
+   "word": "risk-off",
+   "pron": "(adjective)",
+   "def": "Market mood in which investors avoid risk\nहिंदी: जोखिम से बचने का बाज़ार रुझान",
+   "examples": [
+    "It was a risk-off day for equities.",
+    "On risk-off days, investors buy gold and bonds.",
+    "War news created a risk-off mood in markets.",
+    "Risk-off selling hit emerging markets hard."
+   ]
+  },
+  {
+   "id": "pack6-card-1113",
+   "mode": "vocab",
+   "word": "risk-on",
+   "pron": "(adjective)",
+   "def": "Market mood in which investors seek higher returns\nहिंदी: जोखिम उठाने का बाज़ार रुझान",
+   "examples": [
+    "Risk-on sentiment pushed tech stocks higher.",
+    "Good economic data created a risk-on mood.",
+    "In risk-on markets, small company shares tend to rally.",
+    "Risk-on trading pushed the Nifty to a new high."
+   ]
+  },
+  {
+   "id": "pack6-card-1114",
+   "mode": "vocab",
+   "word": "headwinds",
+   "pron": "(noun)",
+   "def": "Factors making progress more difficult\nहिंदी: प्रतिकूल परिस्थितियाँ",
+   "examples": [
+    "The sector faces regulatory headwinds.",
+    "High oil prices are a headwind for airlines.",
+    "The company faces headwinds from rising costs.",
+    "Despite headwinds, sales grew by ten percent."
+   ]
+  },
+  {
+   "id": "pack6-card-1115",
+   "mode": "vocab",
+   "word": "tailwinds",
+   "pron": "(noun)",
+   "def": "Factors helping progress\nहिंदी: अनुकूल परिस्थितियाँ",
+   "examples": [
+    "Lower rates provided tailwinds for growth.",
+    "Strong demand is a tailwind for the car industry.",
+    "Government spending gave tailwinds to construction companies.",
+    "A weaker rupee is a tailwind for IT exporters."
+   ]
+  },
+  {
+   "id": "pack6-card-1116",
+   "mode": "vocab",
+   "word": "carry trade",
+   "pron": "(noun)",
+   "def": "Borrowing in a low-interest currency to invest in a higher-yielding one\nहिंदी: कम ब्याज में उधार लेकर अधिक ब्याज वाली मुद्रा में निवेश",
+   "examples": [
+    "The carry trade unwound sharply when rates changed.",
+    "The carry trade borrows yen and invests in higher-yielding currencies.",
+    "Carry trade profits disappear when currencies move sharply.",
+    "A sudden rate hike can unwind the carry trade."
+   ]
+  },
+  {
+   "id": "pack6-card-1117",
+   "mode": "vocab",
+   "word": "yield to maturity",
+   "pron": "(noun)",
+   "def": "The total return of a bond if held until it matures\nहिंदी: परिपक्वता तक रखने पर बॉन्ड का कुल प्रतिफल",
+   "examples": [
+    "The yield to maturity is higher than the coupon rate.",
+    "Compare bonds by yield to maturity, not just the coupon.",
+    "The yield to maturity falls when the bond price rises.",
+    "Brokers show the yield to maturity for each bond."
+   ]
+  }
+ ]
+}

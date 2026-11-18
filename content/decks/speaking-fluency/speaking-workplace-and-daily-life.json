@@ -1,0 +1,1113 @@
+{
+ "id": "pack2-deck-10",
+ "categoryId": "pack2-cat-2",
+ "title": "Speaking: Workplace & Daily Life",
+ "sub": "Practical words for offices, meetings, travel, and everyday conversation.",
+ "cards": [
+  {
+   "id": "pack2-card-848",
+   "mode": "vocab",
+   "word": "Deadline",
+   "pron": "(noun)",
+   "def": "The latest time by which something must be done.\nहिंदी: समय-सीमा",
+   "examples": [
+    "Present: A deadline keeps us focused.",
+    "Past: She missed the deadline.",
+    "Future: We will meet the deadline.",
+    "Perfect: He has extended the deadline."
+   ]
+  },
+  {
+   "id": "pack2-card-849",
+   "mode": "vocab",
+   "word": "Agenda",
+   "pron": "(noun)",
+   "def": "A list of items to be discussed.\nहिंदी: कार्यसूची",
+   "examples": [
+    "Present: An agenda keeps meetings short.",
+    "Past: The agenda had five items.",
+    "Future: I will share the agenda tomorrow.",
+    "Perfect: She has circulated the agenda."
+   ]
+  },
+  {
+   "id": "pack2-card-850",
+   "mode": "vocab",
+   "word": "Minutes",
+   "pron": "(noun)",
+   "def": "Written notes of a meeting.\nहिंदी: बैठक का कार्यवृत्त",
+   "examples": [
+    "Present: Minutes record decisions.",
+    "Past: She took the minutes.",
+    "Future: He will send the minutes tonight.",
+    "Perfect: I have reviewed the minutes."
+   ]
+  },
+  {
+   "id": "pack2-card-851",
+   "mode": "vocab",
+   "word": "Attendee",
+   "pron": "(noun)",
+   "def": "A person present at an event.\nहिंदी: उपस्थित व्यक्ति",
+   "examples": [
+    "Present: An attendee signs in at the desk.",
+    "Past: Every attendee received a badge.",
+    "Future: Attendees will gather at nine.",
+    "Perfect: Hundreds of attendees have registered."
+   ]
+  },
+  {
+   "id": "pack2-card-852",
+   "mode": "vocab",
+   "word": "Presentation",
+   "pron": "(noun)",
+   "def": "A talk showing information to an audience.\nहिंदी: प्रस्तुति",
+   "examples": [
+    "Present: A presentation needs clear slides.",
+    "Past: Her presentation impressed everyone.",
+    "Future: He will give a presentation on Monday.",
+    "Perfect: I have prepared the presentation."
+   ]
+  },
+  {
+   "id": "pack2-card-853",
+   "mode": "vocab",
+   "word": "Proposal",
+   "pron": "(noun)",
+   "def": "A plan put forward for consideration.\nहिंदी: प्रस्ताव",
+   "examples": [
+    "Present: A proposal needs a clear budget.",
+    "Past: The board accepted our proposal.",
+    "Future: He will submit a proposal.",
+    "Perfect: They have rejected the proposal."
+   ]
+  },
+  {
+   "id": "pack2-card-854",
+   "mode": "vocab",
+   "word": "Feedback",
+   "pron": "(noun)",
+   "def": "Comments on how well something was done.\nहिंदी: प्रतिक्रिया / सुझाव",
+   "examples": [
+    "Present: Feedback helps improvement.",
+    "Past: Her feedback was useful.",
+    "Future: I will give feedback tomorrow.",
+    "Perfect: He has received good feedback."
+   ]
+  },
+  {
+   "id": "pack2-card-855",
+   "mode": "vocab",
+   "word": "Appraisal",
+   "pron": "(noun)",
+   "def": "A formal assessment of someone's work.\nहिंदी: मूल्यांकन",
+   "examples": [
+    "Present: An appraisal happens yearly.",
+    "Past: His appraisal was positive.",
+    "Future: Her appraisal will take place in May.",
+    "Perfect: He has completed his appraisal."
+   ]
+  },
+  {
+   "id": "pack2-card-856",
+   "mode": "vocab",
+   "word": "Promotion",
+   "pron": "(noun)",
+   "def": "Advancement to a higher position.\nहिंदी: पदोन्नति",
+   "examples": [
+    "Present: A promotion rewards hard work.",
+    "Past: She earned a promotion.",
+    "Future: He will get a promotion soon.",
+    "Perfect: I have received a promotion."
+   ]
+  },
+  {
+   "id": "pack2-card-857",
+   "mode": "vocab",
+   "word": "Salary",
+   "pron": "(noun)",
+   "def": "Fixed regular payment for work.\nहिंदी: वेतन",
+   "examples": [
+    "Present: A salary arrives monthly.",
+    "Past: His salary doubled.",
+    "Future: Her salary will increase.",
+    "Perfect: My salary has been delayed."
+   ]
+  },
+  {
+   "id": "pack2-card-858",
+   "mode": "vocab",
+   "word": "Colleague",
+   "pron": "(noun)",
+   "def": "A person you work with.\nहिंदी: सहकर्मी",
+   "examples": [
+    "Present: A colleague shares the workload.",
+    "Past: My colleague helped me.",
+    "Future: A colleague will cover for me.",
+    "Perfect: I have thanked my colleague."
+   ]
+  },
+  {
+   "id": "pack2-card-859",
+   "mode": "vocab",
+   "word": "Supervisor",
+   "pron": "(noun)",
+   "def": "A person who oversees workers.\nहिंदी: पर्यवेक्षक",
+   "examples": [
+    "Present: A supervisor assigns tasks.",
+    "Past: The supervisor approved the leave.",
+    "Future: The supervisor will visit tomorrow.",
+    "Perfect: She has told her supervisor."
+   ]
+  },
+  {
+   "id": "pack2-card-860",
+   "mode": "vocab",
+   "word": "Interview",
+   "pron": "(noun)",
+   "def": "A formal meeting to assess a candidate.\nहिंदी: साक्षात्कार",
+   "examples": [
+    "Present: An interview tests communication.",
+    "Past: The interview lasted an hour.",
+    "Future: The interview will be online.",
+    "Perfect: She has cleared the interview."
+   ]
+  },
+  {
+   "id": "pack2-card-861",
+   "mode": "vocab",
+   "word": "Candidate",
+   "pron": "(noun)",
+   "def": "A person applying for a job or position.\nहिंदी: उम्मीदवार",
+   "examples": [
+    "Present: A candidate must show skills.",
+    "Past: The candidate impressed the panel.",
+    "Future: The candidate will start next month.",
+    "Perfect: Many candidates have applied."
+   ]
+  },
+  {
+   "id": "pack2-card-862",
+   "mode": "vocab",
+   "word": "Recruit",
+   "pron": "(verb)",
+   "def": "To hire new staff.\nहिंदी: भर्ती करना",
+   "examples": [
+    "Present: Firms recruit graduates.",
+    "Past: They recruited ten engineers.",
+    "Future: The firm will recruit more staff.",
+    "Perfect: The bank has recruited a manager."
+   ]
+  },
+  {
+   "id": "pack2-card-863",
+   "mode": "vocab",
+   "word": "Retire",
+   "pron": "(verb)",
+   "def": "To stop working permanently at an age.\nहिंदी: सेवानिवृत्त होना",
+   "examples": [
+    "Present: Most people retire at sixty.",
+    "Past: He retired in 2015.",
+    "Future: She will retire next year.",
+    "Perfect: They have retired to a village."
+   ]
+  },
+  {
+   "id": "pack2-card-864",
+   "mode": "vocab",
+   "word": "Probation",
+   "pron": "(noun)",
+   "def": "A trial period in a new job.\nहिंदी: परिवीक्षा अवधि",
+   "examples": [
+    "Present: Probation lasts three months.",
+    "Past: He passed probation easily.",
+    "Future: She will complete probation in June.",
+    "Perfect: I have finished my probation."
+   ]
+  },
+  {
+   "id": "pack2-card-865",
+   "mode": "vocab",
+   "word": "Overtime",
+   "pron": "(noun)",
+   "def": "Extra hours worked beyond schedule.\nहिंदी: ओवरटाइम",
+   "examples": [
+    "Present: Overtime increases pay.",
+    "Past: He worked overtime all week.",
+    "Future: We will work overtime tonight.",
+    "Perfect: She has done a lot of overtime."
+   ]
+  },
+  {
+   "id": "pack2-card-866",
+   "mode": "vocab",
+   "word": "Leave",
+   "pron": "(noun)",
+   "def": "Time away from work with permission.\nहिंदी: छुट्टी",
+   "examples": [
+    "Present: Leave refreshes the mind.",
+    "Past: She took leave in April.",
+    "Future: He will apply for leave.",
+    "Perfect: I have used all my leave."
+   ]
+  },
+  {
+   "id": "pack2-card-867",
+   "mode": "vocab",
+   "word": "Workload",
+   "pron": "(noun)",
+   "def": "The amount of work assigned.\nहिंदी: कार्यभार",
+   "examples": [
+    "Present: A heavy workload causes stress.",
+    "Past: Her workload doubled.",
+    "Future: The workload will ease.",
+    "Perfect: He has managed his workload."
+   ]
+  },
+  {
+   "id": "pack2-card-868",
+   "mode": "vocab",
+   "word": "Teamwork",
+   "pron": "(noun)",
+   "def": "Cooperation among team members.\nहिंदी: टीमवर्क",
+   "examples": [
+    "Present: Teamwork wins matches.",
+    "Past: Teamwork solved the problem.",
+    "Future: Teamwork will help us succeed.",
+    "Perfect: The group has shown great teamwork."
+   ]
+  },
+  {
+   "id": "pack2-card-869",
+   "mode": "vocab",
+   "word": "Brainstorm",
+   "pron": "(verb)",
+   "def": "To generate ideas together.\nहिंदी: विचार-मंथन करना",
+   "examples": [
+    "Present: Teams brainstorm solutions.",
+    "Past: We brainstormed for an hour.",
+    "Future: They will brainstorm tomorrow.",
+    "Perfect: The group has brainstormed several ideas."
+   ]
+  },
+  {
+   "id": "pack2-card-870",
+   "mode": "vocab",
+   "word": "Follow up",
+   "pron": "(verb)",
+   "def": "To continue on something already started.\nहिंदी: अनुवर्ती कार्रवाई करना",
+   "examples": [
+    "Present: I follow up with clients.",
+    "Past: She followed up by email.",
+    "Future: He will follow up on Monday.",
+    "Perfect: I have followed up twice."
+   ]
+  },
+  {
+   "id": "pack2-card-871",
+   "mode": "vocab",
+   "word": "Reschedule",
+   "pron": "(verb)",
+   "def": "To change the time of an event.\nहिंदी: पुनर्निर्धारित करना",
+   "examples": [
+    "Present: We reschedule when needed.",
+    "Past: They rescheduled the call.",
+    "Future: I will reschedule our meeting.",
+    "Perfect: He has rescheduled twice."
+   ]
+  },
+  {
+   "id": "pack2-card-872",
+   "mode": "vocab",
+   "word": "Appointment",
+   "pron": "(noun)",
+   "def": "A planned meeting at a set time.\nहिंदी: मिलने का समय",
+   "examples": [
+    "Present: An appointment needs booking.",
+    "Past: I missed my appointment.",
+    "Future: I will keep my appointment.",
+    "Perfect: She has booked an appointment."
+   ]
+  },
+  {
+   "id": "pack2-card-873",
+   "mode": "vocab",
+   "word": "Reminder",
+   "pron": "(noun)",
+   "def": "Something that helps you remember.\nहिंदी: अनुस्मारक",
+   "examples": [
+    "Present: A reminder saves forgetting.",
+    "Past: She sent a reminder.",
+    "Future: I will send a reminder.",
+    "Perfect: He has set a reminder."
+   ]
+  },
+  {
+   "id": "pack2-card-874",
+   "mode": "vocab",
+   "word": "Attachment",
+   "pron": "(noun)",
+   "def": "A file sent with an email.\nहिंदी: संलग्नक",
+   "examples": [
+    "Present: An attachment carries documents.",
+    "Past: I forgot the attachment.",
+    "Future: I will add the attachment.",
+    "Perfect: She has opened the attachment."
+   ]
+  },
+  {
+   "id": "pack2-card-875",
+   "mode": "vocab",
+   "word": "Forward",
+   "pron": "(verb)",
+   "def": "To send a message to another person.\nहिंदी: आगे भेजना",
+   "examples": [
+    "Present: I forward useful emails.",
+    "Past: She forwarded the mail.",
+    "Future: He will forward the invoice.",
+    "Perfect: I have forwarded the file."
+   ]
+  },
+  {
+   "id": "pack2-card-876",
+   "mode": "vocab",
+   "word": "Draft",
+   "pron": "(noun)",
+   "def": "A rough version of a document.\nहिंदी: प्रारूप",
+   "examples": [
+    "Present: A draft improves with edits.",
+    "Past: I wrote the first draft.",
+    "Future: I will send the draft tomorrow.",
+    "Perfect: She has finished the draft."
+   ]
+  },
+  {
+   "id": "pack2-card-877",
+   "mode": "vocab",
+   "word": "Edit",
+   "pron": "(verb)",
+   "def": "To correct and improve text.\nहिंदी: संपादन करना",
+   "examples": [
+    "Present: Writers edit their work.",
+    "Past: She edited the report.",
+    "Future: He will edit the video.",
+    "Perfect: I have edited the essay."
+   ]
+  },
+  {
+   "id": "pack2-card-878",
+   "mode": "vocab",
+   "word": "Proofread",
+   "pron": "(verb)",
+   "def": "To check text for errors.\nहिंदी: प्रूफ़ पढ़ना",
+   "examples": [
+    "Present: Always proofread emails.",
+    "Past: I proofread the essay.",
+    "Future: She will proofread the report.",
+    "Perfect: He has proofread the book."
+   ]
+  },
+  {
+   "id": "pack2-card-879",
+   "mode": "vocab",
+   "word": "Schedule",
+   "pron": "(noun)",
+   "def": "A plan of times for events.\nहिंदी: समय-सारणी",
+   "examples": [
+    "Present: A schedule keeps order.",
+    "Past: The schedule changed suddenly.",
+    "Future: The schedule will be released soon.",
+    "Perfect: She has updated her schedule."
+   ]
+  },
+  {
+   "id": "pack2-card-880",
+   "mode": "vocab",
+   "word": "Itinerary",
+   "pron": "(noun)",
+   "def": "A planned route or journey.\nहिंदी: यात्रा-कार्यक्रम",
+   "examples": [
+    "Present: An itinerary lists stops.",
+    "Past: Our itinerary included Jaipur.",
+    "Future: The itinerary will be sent tonight.",
+    "Perfect: She has planned the itinerary."
+   ]
+  },
+  {
+   "id": "pack2-card-881",
+   "mode": "vocab",
+   "word": "Reservation",
+   "pron": "(noun)",
+   "def": "An arrangement to keep a seat or room.\nहिंदी: आरक्षण / बुकिंग",
+   "examples": [
+    "Present: A reservation secures a table.",
+    "Past: I made a reservation.",
+    "Future: We will confirm the reservation.",
+    "Perfect: She has cancelled the reservation."
+   ]
+  },
+  {
+   "id": "pack2-card-882",
+   "mode": "vocab",
+   "word": "Boarding pass",
+   "pron": "(noun)",
+   "def": "A document allowing entry to a plane.\nहिंदी: बोर्डिंग पास",
+   "examples": [
+    "Present: A boarding pass shows your seat.",
+    "Past: I lost my boarding pass.",
+    "Future: I will print the boarding pass.",
+    "Perfect: She has scanned her boarding pass."
+   ]
+  },
+  {
+   "id": "pack2-card-883",
+   "mode": "vocab",
+   "word": "Luggage",
+   "pron": "(noun)",
+   "def": "Bags and suitcases for travel.\nहिंदी: सामान",
+   "examples": [
+    "Present: Luggage must be weighed.",
+    "Past: My luggage was delayed.",
+    "Future: We will collect our luggage.",
+    "Perfect: She has packed her luggage."
+   ]
+  },
+  {
+   "id": "pack2-card-884",
+   "mode": "vocab",
+   "word": "Customs",
+   "pron": "(noun)",
+   "def": "The place where goods are checked at borders.\nहिंदी: सीमा शुल्क विभाग",
+   "examples": [
+    "Present: Customs checks bags.",
+    "Past: We cleared customs quickly.",
+    "Future: You will pass customs at the airport.",
+    "Perfect: She has declared her goods at customs."
+   ]
+  },
+  {
+   "id": "pack2-card-885",
+   "mode": "vocab",
+   "word": "Passport",
+   "pron": "(noun)",
+   "def": "An official document for travel abroad.\nहिंदी: पासपोर्ट",
+   "examples": [
+    "Present: A passport proves identity.",
+    "Past: He lost his passport.",
+    "Future: I will renew my passport.",
+    "Perfect: She has applied for a passport."
+   ]
+  },
+  {
+   "id": "pack2-card-886",
+   "mode": "vocab",
+   "word": "Visa",
+   "pron": "(noun)",
+   "def": "Permission to enter a foreign country.\nहिंदी: वीज़ा",
+   "examples": [
+    "Present: A visa allows entry.",
+    "Past: She got a tourist visa.",
+    "Future: He will apply for a visa.",
+    "Perfect: I have received my visa."
+   ]
+  },
+  {
+   "id": "pack2-card-887",
+   "mode": "vocab",
+   "word": "Destination",
+   "pron": "(noun)",
+   "def": "The place to which someone is going.\nहिंदी: गंतव्य",
+   "examples": [
+    "Present: A destination should inspire you.",
+    "Past: Goa was our destination.",
+    "Future: Paris will be the next destination.",
+    "Perfect: We have reached our destination."
+   ]
+  },
+  {
+   "id": "pack2-card-888",
+   "mode": "vocab",
+   "word": "Accommodation",
+   "pron": "(noun)",
+   "def": "A place to stay.\nहिंदी: आवास",
+   "examples": [
+    "Present: Accommodation costs vary.",
+    "Past: The accommodation was clean.",
+    "Future: We will book accommodation soon.",
+    "Perfect: She has found good accommodation."
+   ]
+  },
+  {
+   "id": "pack2-card-889",
+   "mode": "vocab",
+   "word": "Delay",
+   "pron": "(noun)",
+   "def": "A period of being late.\nहिंदी: देरी",
+   "examples": [
+    "Present: A delay causes frustration.",
+    "Past: A delay held up the train.",
+    "Future: A delay will cost money.",
+    "Perfect: There has been a delay."
+   ]
+  },
+  {
+   "id": "pack2-card-890",
+   "mode": "vocab",
+   "word": "Refund",
+   "pron": "(noun)",
+   "def": "Money paid back to a customer.\nहिंदी: धनवापसी",
+   "examples": [
+    "Present: A refund returns your money.",
+    "Past: She got a full refund.",
+    "Future: You will receive a refund.",
+    "Perfect: They have processed the refund."
+   ]
+  },
+  {
+   "id": "pack2-card-891",
+   "mode": "vocab",
+   "word": "Receipt",
+   "pron": "(noun)",
+   "def": "A paper showing payment was made.\nहिंदी: रसीद",
+   "examples": [
+    "Present: A receipt proves purchase.",
+    "Past: I kept the receipt.",
+    "Future: I will keep the receipt.",
+    "Perfect: She has lost the receipt."
+   ]
+  },
+  {
+   "id": "pack2-card-892",
+   "mode": "vocab",
+   "word": "Warranty",
+   "pron": "(noun)",
+   "def": "A written promise to repair a product.\nहिंदी: वारंटी",
+   "examples": [
+    "Present: A warranty covers defects.",
+    "Past: The warranty expired last month.",
+    "Future: The warranty will last two years.",
+    "Perfect: I have claimed the warranty."
+   ]
+  },
+  {
+   "id": "pack2-card-893",
+   "mode": "vocab",
+   "word": "Complaint",
+   "pron": "(noun)",
+   "def": "A statement that something is wrong.\nहिंदी: शिकायत",
+   "examples": [
+    "Present: A complaint should be polite.",
+    "Past: He filed a complaint.",
+    "Future: I will make a complaint.",
+    "Perfect: She has withdrawn her complaint."
+   ]
+  },
+  {
+   "id": "pack2-card-894",
+   "mode": "vocab",
+   "word": "Apology",
+   "pron": "(noun)",
+   "def": "A statement of regret.\nहिंदी: माफ़ी",
+   "examples": [
+    "Present: An apology repairs relationships.",
+    "Past: She offered an apology.",
+    "Future: He will make an apology.",
+    "Perfect: They have accepted my apology."
+   ]
+  },
+  {
+   "id": "pack2-card-895",
+   "mode": "vocab",
+   "word": "Compliment",
+   "pron": "(noun)",
+   "def": "A polite expression of praise.\nहिंदी: प्रशंसा",
+   "examples": [
+    "Present: A compliment makes people smile.",
+    "Past: She gave me a compliment.",
+    "Future: He will pay you a compliment.",
+    "Perfect: I have received many compliments."
+   ]
+  },
+  {
+   "id": "pack2-card-896",
+   "mode": "vocab",
+   "word": "Invitation",
+   "pron": "(noun)",
+   "def": "A request to attend an event.\nहिंदी: निमंत्रण",
+   "examples": [
+    "Present: An invitation shows respect.",
+    "Past: We got an invitation to the wedding.",
+    "Future: I will send you an invitation.",
+    "Perfect: She has accepted the invitation."
+   ]
+  },
+  {
+   "id": "pack2-card-897",
+   "mode": "vocab",
+   "word": "Hospitality",
+   "pron": "(noun)",
+   "def": "Friendly treatment of guests.\nहिंदी: आतिथ्य",
+   "examples": [
+    "Present: Hospitality is valued in India.",
+    "Past: Their hospitality touched us.",
+    "Future: Hospitality will make guests happy.",
+    "Perfect: The family has shown great hospitality."
+   ]
+  },
+  {
+   "id": "pack2-card-898",
+   "mode": "vocab",
+   "word": "Neighbourhood",
+   "pron": "(noun)",
+   "def": "A district or community.\nहिंदी: पड़ोस",
+   "examples": [
+    "Present: A neighbourhood shapes daily life.",
+    "Past: Our neighbourhood was quiet.",
+    "Future: The neighbourhood will get a park.",
+    "Perfect: They have lived in this neighbourhood for years."
+   ]
+  },
+  {
+   "id": "pack2-card-899",
+   "mode": "vocab",
+   "word": "Errand",
+   "pron": "(noun)",
+   "def": "A short trip to do a task.\nहिंदी: छोटा काम",
+   "examples": [
+    "Present: An errand takes little time.",
+    "Past: I ran an errand for my mother.",
+    "Future: I will run errands tomorrow.",
+    "Perfect: She has finished her errands."
+   ]
+  },
+  {
+   "id": "pack2-card-900",
+   "mode": "vocab",
+   "word": "Chore",
+   "pron": "(noun)",
+   "def": "A routine task around the house.\nहिंदी: घरेलू काम",
+   "examples": [
+    "Present: A chore must be done daily.",
+    "Past: He finished his chores.",
+    "Future: I will do the chores later.",
+    "Perfect: She has completed all her chores."
+   ]
+  },
+  {
+   "id": "pack2-card-901",
+   "mode": "vocab",
+   "word": "Groceries",
+   "pron": "(noun)",
+   "def": "Food and household items bought at a shop.\nहिंदी: किराने का सामान",
+   "examples": [
+    "Present: Groceries cost more now.",
+    "Past: I bought groceries yesterday.",
+    "Future: We will buy groceries tomorrow.",
+    "Perfect: She has bought fresh groceries."
+   ]
+  },
+  {
+   "id": "pack2-card-902",
+   "mode": "vocab",
+   "word": "Recipe",
+   "pron": "(noun)",
+   "def": "Instructions for cooking a dish.\nहिंदी: विधि / नुस्ख़ा",
+   "examples": [
+    "Present: A recipe lists ingredients.",
+    "Past: She followed the recipe.",
+    "Future: I will share the recipe.",
+    "Perfect: He has memorised the recipe."
+   ]
+  },
+  {
+   "id": "pack2-card-903",
+   "mode": "vocab",
+   "word": "Ingredient",
+   "pron": "(noun)",
+   "def": "A food item used in a dish.\nहिंदी: सामग्री",
+   "examples": [
+    "Present: Fresh ingredients improve taste.",
+    "Past: Salt was the main ingredient.",
+    "Future: I will add one more ingredient.",
+    "Perfect: She has gathered all ingredients."
+   ]
+  },
+  {
+   "id": "pack2-card-904",
+   "mode": "vocab",
+   "word": "Appetite",
+   "pron": "(noun)",
+   "def": "Desire for food.\nहिंदी: भूख",
+   "examples": [
+    "Present: Exercise improves appetite.",
+    "Past: He lost his appetite.",
+    "Future: Her appetite will return.",
+    "Perfect: She has a good appetite."
+   ]
+  },
+  {
+   "id": "pack2-card-905",
+   "mode": "vocab",
+   "word": "Refreshments",
+   "pron": "(noun)",
+   "def": "Light food and drink.\nहिंदी: जलपान",
+   "examples": [
+    "Present: Refreshments are served at breaks.",
+    "Past: Refreshments were provided.",
+    "Future: Refreshments will be available.",
+    "Perfect: They have arranged refreshments."
+   ]
+  },
+  {
+   "id": "pack2-card-906",
+   "mode": "vocab",
+   "word": "Beverage",
+   "pron": "(noun)",
+   "def": "A drink other than water.\nहिंदी: पेय",
+   "examples": [
+    "Present: A beverage can be hot or cold.",
+    "Past: He ordered a cold beverage.",
+    "Future: I will order a beverage.",
+    "Perfect: She has finished her beverage."
+   ]
+  },
+  {
+   "id": "pack2-card-907",
+   "mode": "vocab",
+   "word": "Appliance",
+   "pron": "(noun)",
+   "def": "A machine for household tasks.\nहिंदी: उपकरण",
+   "examples": [
+    "Present: An appliance saves effort.",
+    "Past: The appliance broke down.",
+    "Future: A new appliance will arrive tomorrow.",
+    "Perfect: We have bought a new appliance."
+   ]
+  },
+  {
+   "id": "pack2-card-908",
+   "mode": "vocab",
+   "word": "Furniture",
+   "pron": "(noun)",
+   "def": "Movable items like chairs and tables.\nहिंदी: फ़र्नीचर",
+   "examples": [
+    "Present: Furniture makes a house comfortable.",
+    "Past: They bought new furniture.",
+    "Future: We will order furniture soon.",
+    "Perfect: She has arranged the furniture."
+   ]
+  },
+  {
+   "id": "pack2-card-909",
+   "mode": "vocab",
+   "word": "Utility",
+   "pron": "(noun)",
+   "def": "A public service like water or electricity.\nहिंदी: बिजली-पानी आदि सेवाएँ",
+   "examples": [
+    "Present: Utilities are essential services.",
+    "Past: The utility cut the power.",
+    "Future: Utilities will cost more.",
+    "Perfect: The firm has paid its utilities."
+   ]
+  },
+  {
+   "id": "pack2-card-910",
+   "mode": "vocab",
+   "word": "Rent",
+   "pron": "(noun)",
+   "def": "Money paid to use property.\nहिंदी: किराया",
+   "examples": [
+    "Present: Rent rises each year.",
+    "Past: She paid rent monthly.",
+    "Future: He will pay rent tomorrow.",
+    "Perfect: They have raised the rent."
+   ]
+  },
+  {
+   "id": "pack2-card-911",
+   "mode": "vocab",
+   "word": "Deposit",
+   "pron": "(noun)",
+   "def": "Money paid as security or into an account.\nहिंदी: जमा राशि",
+   "examples": [
+    "Present: A deposit secures the booking.",
+    "Past: He paid a deposit.",
+    "Future: I will make a deposit.",
+    "Perfect: She has returned the deposit."
+   ]
+  },
+  {
+   "id": "pack2-card-912",
+   "mode": "vocab",
+   "word": "Instalment",
+   "pron": "(noun)",
+   "def": "A part of a payment made over time.\nहिंदी: किस्त",
+   "examples": [
+    "Present: An instalment spreads the cost.",
+    "Past: I paid the first instalment.",
+    "Future: I will pay the next instalment.",
+    "Perfect: She has paid three instalments."
+   ]
+  },
+  {
+   "id": "pack2-card-913",
+   "mode": "vocab",
+   "word": "Invoice",
+   "pron": "(noun)",
+   "def": "A bill listing goods or services supplied.\nहिंदी: चालान / बिल",
+   "examples": [
+    "Present: An invoice requests payment.",
+    "Past: She sent the invoice.",
+    "Future: I will pay the invoice.",
+    "Perfect: He has issued an invoice."
+   ]
+  },
+  {
+   "id": "pack2-card-914",
+   "mode": "vocab",
+   "word": "Transaction",
+   "pron": "(noun)",
+   "def": "An act of buying or selling.\nहिंदी: लेन-देन",
+   "examples": [
+    "Present: A transaction takes seconds online.",
+    "Past: The transaction failed.",
+    "Future: The transaction will be recorded.",
+    "Perfect: She has completed the transaction."
+   ]
+  },
+  {
+   "id": "pack2-card-915",
+   "mode": "vocab",
+   "word": "Balance",
+   "pron": "(noun)",
+   "def": "The amount of money in an account.\nहिंदी: शेष राशि / संतुलन",
+   "examples": [
+    "Present: Check your balance often.",
+    "Past: My balance was low.",
+    "Future: The balance will update tonight.",
+    "Perfect: She has paid the balance."
+   ]
+  },
+  {
+   "id": "pack2-card-916",
+   "mode": "vocab",
+   "word": "Overdue",
+   "pron": "(adjective)",
+   "def": "Not paid or done by the expected time.\nहिंदी: अतिदेय",
+   "examples": [
+    "Present: Overdue bills attract fines.",
+    "Past: The payment was overdue.",
+    "Future: The book will be overdue tomorrow.",
+    "Perfect: The rent has been overdue."
+   ]
+  },
+  {
+   "id": "pack2-card-917",
+   "mode": "vocab",
+   "word": "Discount",
+   "pron": "(noun)",
+   "def": "A reduction in price.\nहिंदी: छूट",
+   "examples": [
+    "Present: A discount attracts buyers.",
+    "Past: She got a discount.",
+    "Future: You will get a discount tomorrow.",
+    "Perfect: The shop has offered a discount."
+   ]
+  },
+  {
+   "id": "pack2-card-918",
+   "mode": "vocab",
+   "word": "Bargain",
+   "pron": "(noun)",
+   "def": "Something bought cheaply.\nहिंदी: सस्ता सौदा",
+   "examples": [
+    "Present: A bargain saves money.",
+    "Past: The jacket was a bargain.",
+    "Future: That deal will be a bargain.",
+    "Perfect: She has found a bargain."
+   ]
+  },
+  {
+   "id": "pack2-card-919",
+   "mode": "vocab",
+   "word": "Expire",
+   "pron": "(verb)",
+   "def": "To reach the end of validity.\nहिंदी: समाप्त होना (वैधता)",
+   "examples": [
+    "Present: Coupons expire.",
+    "Past: My visa expired last week.",
+    "Future: The offer will expire tonight.",
+    "Perfect: The licence has expired."
+   ]
+  },
+  {
+   "id": "pack2-card-920",
+   "mode": "vocab",
+   "word": "Renew",
+   "pron": "(verb)",
+   "def": "To extend the validity.\nहिंदी: नवीनीकरण करना",
+   "examples": [
+    "Present: People renew their licences.",
+    "Past: She renewed her passport.",
+    "Future: He will renew the lease.",
+    "Perfect: They have renewed the contract."
+   ]
+  },
+  {
+   "id": "pack2-card-921",
+   "mode": "vocab",
+   "word": "Convenient",
+   "pron": "(adjective)",
+   "def": "Easy to use or suitable.\nहिंदी: सुविधाजनक",
+   "examples": [
+    "Present: A convenient location saves time.",
+    "Past: The timing was convenient.",
+    "Future: Tomorrow will be convenient.",
+    "Perfect: The shop has been convenient."
+   ]
+  },
+  {
+   "id": "pack2-card-922",
+   "mode": "vocab",
+   "word": "Available",
+   "pron": "(adjective)",
+   "def": "Able to be used or obtained.\nहिंदी: उपलब्ध",
+   "examples": [
+    "Present: Tickets are available online.",
+    "Past: The manager was not available.",
+    "Future: A seat will be available soon.",
+    "Perfect: The product has been available for months."
+   ]
+  },
+  {
+   "id": "pack2-card-923",
+   "mode": "vocab",
+   "word": "Appropriate",
+   "pron": "(adjective)",
+   "def": "Suitable for a situation.\nहिंदी: उपयुक्त",
+   "examples": [
+    "Present: Appropriate dress is expected.",
+    "Past: His reply was appropriate.",
+    "Future: Action will be appropriate.",
+    "Perfect: The measures have been appropriate."
+   ]
+  },
+  {
+   "id": "pack2-card-924",
+   "mode": "vocab",
+   "word": "Punctual",
+   "pron": "(adjective)",
+   "def": "Arriving or happening at the right time.\nहिंदी: समय का पाबंद",
+   "examples": [
+    "Present: A punctual worker earns trust.",
+    "Past: She was punctual for the meeting.",
+    "Future: He will be punctual tomorrow.",
+    "Perfect: They have always been punctual."
+   ]
+  },
+  {
+   "id": "pack2-card-925",
+   "mode": "vocab",
+   "word": "Responsible",
+   "pron": "(adjective)",
+   "def": "Having a duty or being trustworthy.\nहिंदी: ज़िम्मेदार",
+   "examples": [
+    "Present: A responsible citizen follows rules.",
+    "Past: He was responsible for the loss.",
+    "Future: She will be responsible for sales.",
+    "Perfect: They have been responsible parents."
+   ]
+  },
+  {
+   "id": "pack2-card-926",
+   "mode": "vocab",
+   "word": "Cooperative",
+   "pron": "(adjective)",
+   "def": "Willing to work with others.\nहिंदी: सहयोगी",
+   "examples": [
+    "Present: A cooperative team succeeds.",
+    "Past: The staff were cooperative.",
+    "Future: The locals will be cooperative.",
+    "Perfect: He has been cooperative."
+   ]
+  },
+  {
+   "id": "pack2-card-927",
+   "mode": "vocab",
+   "word": "Flexible hours",
+   "pron": "(noun)",
+   "def": "Working times that can be adjusted.\nहिंदी: लचीला समय",
+   "examples": [
+    "Present: Flexible hours help parents.",
+    "Past: She worked flexible hours.",
+    "Future: The firm will offer flexible hours.",
+    "Perfect: Many staff have chosen flexible hours."
+   ]
+  },
+  {
+   "id": "pack2-card-928",
+   "mode": "vocab",
+   "word": "Remote work",
+   "pron": "(noun)",
+   "def": "Working outside a traditional office.\nहिंदी: घर से काम",
+   "examples": [
+    "Present: Remote work saves commuting.",
+    "Past: Remote work grew rapidly.",
+    "Future: Remote work will stay popular.",
+    "Perfect: Many firms have adopted remote work."
+   ]
+  },
+  {
+   "id": "pack2-card-929",
+   "mode": "vocab",
+   "word": "Networking",
+   "pron": "(noun)",
+   "def": "Meeting people for professional benefit.\nहिंदी: संपर्क बनाना",
+   "examples": [
+    "Present: Networking opens doors.",
+    "Past: Networking helped him find a job.",
+    "Future: Networking will boost your career.",
+    "Perfect: She has built a wide network through networking."
+   ]
+  },
+  {
+   "id": "pack2-card-930",
+   "mode": "vocab",
+   "word": "Career",
+   "pron": "(noun)",
+   "def": "A long-term path of work.\nहिंदी: करियर",
+   "examples": [
+    "Present: A career needs planning.",
+    "Past: Her career began in 2010.",
+    "Future: His career will take off.",
+    "Perfect: She has built a strong career."
+   ]
+  },
+  {
+   "id": "pack2-card-931",
+   "mode": "vocab",
+   "word": "Goal",
+   "pron": "(noun)",
+   "def": "Something you aim to achieve.\nहिंदी: लक्ष्य",
+   "examples": [
+    "Present: A clear goal gives direction.",
+    "Past: His goal was to run a marathon.",
+    "Future: Her goal will become real.",
+    "Perfect: I have reached my goal."
+   ]
+  },
+  {
+   "id": "pack2-card-932",
+   "mode": "vocab",
+   "word": "Milestone",
+   "pron": "(noun)",
+   "def": "An important stage in progress.\nहिंदी: मील का पत्थर",
+   "examples": [
+    "Present: A milestone marks progress.",
+    "Past: The launch was a milestone.",
+    "Future: The next milestone will be in May.",
+    "Perfect: We have reached a milestone."
+   ]
+  }
+ ]
+}

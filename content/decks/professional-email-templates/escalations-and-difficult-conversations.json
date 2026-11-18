@@ -1,0 +1,98 @@
+{
+ "id": "pack7-deck-2",
+ "categoryId": "cat-95",
+ "title": "Escalations & Difficult Conversations",
+ "sub": "Push back, escalate, apologise and say no — calmly and in writing.",
+ "cards": [
+  {
+   "id": "pack7-card-11",
+   "mode": "email",
+   "purpose": "Escalate a blocked issue to a manager",
+   "context": "Another team hasn't fixed a bug blocking your launch despite several requests.",
+   "subject": "Escalation: login bug blocking Friday launch",
+   "body": "Hi Suresh,\n\nI'd like your help unblocking our launch. The login timeout bug (ticket AUTH-412) has been open for nine days, and the auth team hasn't been able to prioritise it.\n\nWithout a fix by Wednesday, Friday's launch will slip. Could you raise it with their manager, or help us agree on a workaround?\n\nI've attached the ticket history.\n\nThanks,\nAnjali",
+   "tip": "State the impact and deadline, show you tried, and ask for one specific action."
+  },
+  {
+   "id": "pack7-card-12",
+   "mode": "email",
+   "purpose": "Apologise for a mistake",
+   "context": "You sent a report with wrong numbers to a client.",
+   "subject": "Correction to yesterday's usage report",
+   "body": "Hi Mark,\n\nI'm sorry — yesterday's usage report double-counted March sign-ups, so the total was 12% too high. The corrected report is attached.\n\nWe've added a check to stop this from happening again.\n\nApologies for the confusion,\nNeha",
+   "tip": "Own it, give the fix, explain the prevention — no long excuses."
+  },
+  {
+   "id": "pack7-card-13",
+   "mode": "email",
+   "purpose": "Say no to an extra request",
+   "context": "A stakeholder asks for a new feature in a sprint that's already full.",
+   "subject": "Re: adding filters to the dashboard",
+   "body": "Hi Pooja,\n\nThanks for the idea — filters would clearly help your team. This sprint is fully committed to the billing release, so I can't add it without dropping something.\n\nI've put it at the top of next sprint's list. If it's urgent, let's discuss what we could move.\n\nBest,\nRahul",
+   "tip": "Acknowledge the value, explain the trade-off, offer a path forward."
+  },
+  {
+   "id": "pack7-card-14",
+   "mode": "email",
+   "purpose": "Push back on an unrealistic deadline",
+   "context": "Leadership wants a feature in two weeks; your estimate is five.",
+   "subject": "Timeline for the partner integration",
+   "body": "Hi Leena,\n\nI want to make sure we commit to a date we can hit. Our estimate for the full integration is five weeks, mainly because of the security review.\n\nTwo options:\n1. Launch a read-only version in two weeks, full version in five.\n2. Keep the full scope and launch in five weeks.\n\nHappy to walk through the estimate.\n\nThanks,\nAmit",
+   "tip": "Don't just say no — give the reason and options with dates."
+  },
+  {
+   "id": "pack7-card-15",
+   "mode": "email",
+   "purpose": "Report a production incident",
+   "context": "Checkout was down for 25 minutes and stakeholders need to know.",
+   "subject": "Incident: checkout unavailable 14:05–14:30",
+   "body": "Hi all,\n\nCheckout was unavailable for 25 minutes today (14:05–14:30). About 300 orders failed; customers saw an error and were not charged.\n\nCause: an expired certificate on the payment gateway. We renewed it and added an alert 30 days before expiry.\n\nA full post-mortem will follow on Thursday.\n\nRegards,\nVarun",
+   "tip": "What happened, impact, cause, fix, and what comes next."
+  },
+  {
+   "id": "pack7-card-16",
+   "mode": "email",
+   "purpose": "Disagree politely with a decision",
+   "context": "Your team decided to skip load testing; you think it's risky.",
+   "subject": "Concern about skipping load tests",
+   "body": "Hi Ishaan,\n\nI understand the time pressure, but I'm concerned about skipping load tests before the sale. Last year's traffic peaked at four times normal, and we've changed the cart service since then.\n\nA focused test on checkout would take about a day. Could we keep just that?\n\nThanks,\nTara",
+   "tip": "Acknowledge their reason, give evidence, propose a smaller compromise."
+  },
+  {
+   "id": "pack7-card-17",
+   "mode": "email",
+   "purpose": "Respond to an angry customer",
+   "context": "A customer is upset that their data export failed twice.",
+   "subject": "Re: export failed again",
+   "body": "Hi Ms. Shah,\n\nI'm sorry your export failed twice — that's frustrating, especially before a deadline. I've run the export for you manually and attached the file.\n\nOur engineers found the cause (very large date ranges) and are fixing it this week. I'll update you when it's done.\n\nKind regards,\nAditi",
+   "tip": "Empathise, solve the immediate problem, then explain the lasting fix."
+  },
+  {
+   "id": "pack7-card-18",
+   "mode": "email",
+   "purpose": "Chase an overdue payment",
+   "context": "A client invoice is 30 days overdue.",
+   "subject": "Reminder: invoice #2041 overdue",
+   "body": "Hi Mr. Brown,\n\nA quick reminder that invoice #2041 for £4,800, due on 1 April, is still outstanding. I've attached a copy for convenience.\n\nCould you let me know when we can expect payment? If there's an issue with the invoice, I'm happy to help sort it out.\n\nBest regards,\nSaanvi",
+   "tip": "Polite but specific: amount, due date, and a clear question."
+  },
+  {
+   "id": "pack7-card-19",
+   "mode": "email",
+   "purpose": "Give constructive feedback in writing",
+   "context": "A junior engineer's pull requests are too large to review well.",
+   "subject": "Quick thought on PR size",
+   "body": "Hi Aman,\n\nYour work on the search filters is solid — thank you. One suggestion: the last two pull requests were over 1,500 lines, which makes it hard to review them carefully.\n\nCould you try splitting future changes into smaller steps, say under 400 lines? Happy to pair on how to slice the next one.\n\nCheers,\nGauri",
+   "tip": "Start with genuine praise, describe the behaviour, offer help."
+  },
+  {
+   "id": "pack7-card-20",
+   "mode": "email",
+   "purpose": "Ask for a decision when people disagree",
+   "context": "Two teams disagree on an API design and work is stuck.",
+   "subject": "Decision needed: pagination style for the public API",
+   "body": "Hi Sunil,\n\nThe mobile and web teams disagree on pagination for the public API, and we need a decision by Friday to stay on schedule.\n\n• Cursor-based: handles large data sets well, slightly harder for clients.\n• Page numbers: simpler, but slow and inconsistent on big tables.\n\nThe engineering recommendation is cursor-based. Could you make the call?\n\nThanks,\nMegha",
+   "tip": "Lay out the options fairly, give a recommendation and a deadline."
+  }
+ ]
+}

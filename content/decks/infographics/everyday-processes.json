@@ -1,0 +1,69 @@
+{
+ "id": "pack5-deck-1",
+ "categoryId": "pack5-cat-1",
+ "title": "Everyday processes",
+ "sub": "Step-by-step routines, drawn as a timeline.",
+ "cards": [
+  {
+   "id": "pack5-card-1",
+   "mode": "infographic",
+   "layout": "process",
+   "title": "How to make masala chai",
+   "items": [
+    {
+     "emoji": "💧",
+     "heading": "Boil water",
+     "body": "Bring a cup of water to a rolling boil with crushed ginger and cardamom."
+    },
+    {
+     "emoji": "🍃",
+     "heading": "Add tea leaves",
+     "body": "Stir in a spoon of black tea and let it steep for 2 to 3 minutes."
+    },
+    {
+     "emoji": "🥛",
+     "heading": "Pour in milk",
+     "body": "Add half a cup of milk and sugar to taste."
+    },
+    {
+     "emoji": "🔥",
+     "heading": "Simmer",
+     "body": "Let it rise once or twice on a medium flame, then lower the heat."
+    },
+    {
+     "emoji": "☕",
+     "heading": "Strain and serve",
+     "body": "Pour through a strainer into a cup and serve hot."
+    }
+   ]
+  },
+  {
+   "id": "pack5-card-2",
+   "mode": "infographic",
+   "layout": "process",
+   "title": "How a bill becomes law",
+   "items": [
+    {
+     "emoji": "📝",
+     "heading": "Draft",
+     "body": "A member writes and introduces the bill."
+    },
+    {
+     "emoji": "🏛️",
+     "heading": "Committee",
+     "body": "A small group reviews, amends and votes on it."
+    },
+    {
+     "emoji": "🗳️",
+     "heading": "Floor vote",
+     "body": "The full chamber debates and votes."
+    },
+    {
+     "emoji": "✍️",
+     "heading": "Signature",
+     "body": "The head of state signs it into law."
+    }
+   ]
+  }
+ ]
+}

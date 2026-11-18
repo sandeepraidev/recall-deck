@@ -1,0 +1,400 @@
+{
+ "id": "pack6-deck-14",
+ "categoryId": "pack6-cat-5",
+ "title": "Proposing, Probing & Checking",
+ "sub": "Suggest ideas, ask sharp questions and check you're understood.",
+ "cards": [
+  {
+   "id": "pack6-card-2027",
+   "mode": "expression",
+   "phrase": "Hear me out",
+   "situation": "Asking others to listen before judging",
+   "hindi": "पूरी बात सुन लीजिए",
+   "examples": [
+    "Hear me out; it sounds odd but it saves two weeks.",
+    "Hear me out before you say no.",
+    "Just hear me out for two minutes.",
+    "Hear me out: what if we drop the feature entirely?",
+    "I know it's unusual, but hear me out."
+   ]
+  },
+  {
+   "id": "pack6-card-2028",
+   "mode": "expression",
+   "phrase": "Bear with me",
+   "situation": "Asking for patience while explaining",
+   "hindi": "थोड़ा धैर्य रखें",
+   "examples": [
+    "Bear with me while I walk through the data flow.",
+    "Bear with me, the screen is loading.",
+    "Bear with me while I find the right file.",
+    "Please bear with me; this part is a bit technical.",
+    "Bear with me for a moment — I'll explain why it matters."
+   ]
+  },
+  {
+   "id": "pack6-card-2029",
+   "mode": "expression",
+   "phrase": "If I may",
+   "situation": "Politely asking permission to speak or suggest",
+   "hindi": "यदि आप अनुमति दें",
+   "examples": [
+    "If I may, I'd like to suggest a simpler alternative.",
+    "If I may, I'd like to add one point.",
+    "If I may interrupt, we're running out of time.",
+    "If I may, let's look at the numbers first.",
+    "If I may say so, the plan looks very solid."
+   ]
+  },
+  {
+   "id": "pack6-card-2030",
+   "mode": "expression",
+   "phrase": "Correct me if I'm wrong",
+   "situation": "Inviting correction while stating an assumption",
+   "hindi": "अगर मैं ग़लत हूँ तो सुधारें",
+   "examples": [
+    "Correct me if I'm wrong, but doesn't this break the contract?",
+    "Correct me if I'm wrong, but the deadline is next Friday.",
+    "Correct me if I'm wrong, but we tested this already.",
+    "Correct me if I'm wrong — isn't this owned by the platform team?",
+    "Correct me if I'm wrong, but the budget was approved."
+   ]
+  },
+  {
+   "id": "pack6-card-2031",
+   "mode": "expression",
+   "phrase": "Just to clarify",
+   "situation": "Introducing a clarifying question",
+   "hindi": "बस स्पष्ट करने के लिए",
+   "examples": [
+    "Just to clarify, are we including the weekend files?",
+    "Just to clarify, who's taking the lead on this?",
+    "Just to clarify, is this a hard deadline?",
+    "Just to clarify, you want both reports by Monday?",
+    "Just to clarify, I'm not against the idea."
+   ]
+  },
+  {
+   "id": "pack6-card-2032",
+   "mode": "expression",
+   "phrase": "Just to confirm",
+   "situation": "Checking understanding",
+   "hindi": "बस पुष्टि के लिए",
+   "examples": [
+    "Just to confirm, the cutover is on Saturday at nine.",
+    "Just to confirm, you'll send the slides today?",
+    "Just to confirm, we're meeting at three?",
+    "Just to confirm, the client has signed off?",
+    "Just to confirm, nobody else is working on this?"
+   ]
+  },
+  {
+   "id": "pack6-card-2033",
+   "mode": "expression",
+   "phrase": "Let me play that back",
+   "situation": "I'll repeat what I understood",
+   "hindi": "मैं जो समझा, दोहराता हूँ",
+   "examples": [
+    "Let me play that back to make sure I've got it.",
+    "Let me play that back: you need the data by Monday?",
+    "So let me play that back — the fix goes out tomorrow.",
+    "Let me play that back to check I understood your concern.",
+    "Let me play that back in my own words."
+   ]
+  },
+  {
+   "id": "pack6-card-2034",
+   "mode": "expression",
+   "phrase": "I'd suggest",
+   "situation": "Politely proposing an idea",
+   "hindi": "मेरा सुझाव होगा",
+   "examples": [
+    "I'd suggest we run a smaller pilot first.",
+    "I'd suggest we take a short break.",
+    "I'd suggest asking the client directly.",
+    "I'd suggest documenting this before you go on leave.",
+    "I'd suggest we park this for now."
+   ]
+  },
+  {
+   "id": "pack6-card-2035",
+   "mode": "expression",
+   "phrase": "I'd recommend",
+   "situation": "Formally advising a course of action",
+   "hindi": "मैं सलाह दूँगा",
+   "examples": [
+    "I'd recommend adding retries before launch.",
+    "I'd recommend upgrading before the end of support.",
+    "I'd recommend speaking to HR first.",
+    "I'd recommend a code freeze the week before launch.",
+    "I'd recommend the second option for its lower cost."
+   ]
+  },
+  {
+   "id": "pack6-card-2036",
+   "mode": "expression",
+   "phrase": "May I propose",
+   "situation": "Politely offering a plan",
+   "hindi": "क्या मैं एक प्रस्ताव रखूँ",
+   "examples": [
+    "May I propose a phased rollout?",
+    "May I propose we meet weekly instead?",
+    "May I propose a different approach?",
+    "May I propose we take a vote?",
+    "May I propose that we start with the biggest customers?"
+   ]
+  },
+  {
+   "id": "pack6-card-2037",
+   "mode": "expression",
+   "phrase": "What if we",
+   "situation": "Introducing a hypothetical idea",
+   "hindi": "क्यों न हम ... करें",
+   "examples": [
+    "What if we split the job into two stages?",
+    "What if we ask the users first?",
+    "What if we push the launch by a week?",
+    "What if we automate the manual steps?",
+    "What if we pair the new hire with a senior?"
+   ]
+  },
+  {
+   "id": "pack6-card-2038",
+   "mode": "expression",
+   "phrase": "How about",
+   "situation": "Casually suggesting an option",
+   "hindi": "... कैसा रहेगा",
+   "examples": [
+    "How about we review this on Thursday?",
+    "How about a quick call instead of a long email?",
+    "How about we start with the easy tasks?",
+    "How about asking Ravi for help?",
+    "How about we try it for a month and review?"
+   ]
+  },
+  {
+   "id": "pack6-card-2039",
+   "mode": "expression",
+   "phrase": "Would it make sense to",
+   "situation": "Suggesting an option as a question",
+   "hindi": "क्या यह उचित होगा कि",
+   "examples": [
+    "Would it make sense to wait for the vendor's fix?",
+    "Would it make sense to split the team?",
+    "Would it make sense to add a feature flag?",
+    "Would it make sense to involve legal now?",
+    "Would it make sense to meet in person?"
+   ]
+  },
+  {
+   "id": "pack6-card-2040",
+   "mode": "expression",
+   "phrase": "Is it worth",
+   "situation": "Questioning whether an effort is justified",
+   "hindi": "क्या ... करना फ़ायदेमंद है",
+   "examples": [
+    "Is it worth rewriting the module now?",
+    "Is it worth paying extra for faster delivery?",
+    "Is it worth the risk?",
+    "Is it worth adding another meeting for this?",
+    "Is it worth fixing, or should we replace it?"
+   ]
+  },
+  {
+   "id": "pack6-card-2041",
+   "mode": "expression",
+   "phrase": "What's the rationale",
+   "situation": "Asking for the reason behind a decision",
+   "hindi": "इसके पीछे तर्क क्या है",
+   "examples": [
+    "What's the rationale behind the new schema?",
+    "What's the rationale for changing the process?",
+    "What's the rationale behind this deadline?",
+    "Can you explain the rationale for the price increase?",
+    "What's the rationale for choosing this vendor?"
+   ]
+  },
+  {
+   "id": "pack6-card-2042",
+   "mode": "expression",
+   "phrase": "What are we optimising for",
+   "situation": "Asking what the main goal is",
+   "hindi": "हम किस चीज़ को सबसे अहम मान रहे हैं",
+   "examples": [
+    "What are we optimising for: speed or cost?",
+    "What are we optimising for here — users or revenue?",
+    "Before we decide, what are we optimising for?",
+    "What are we optimising for: speed of delivery or long-term cost?",
+    "I'm not sure what we're optimising for."
+   ]
+  },
+  {
+   "id": "pack6-card-2043",
+   "mode": "expression",
+   "phrase": "What's the impact",
+   "situation": "Asking about consequences",
+   "hindi": "इसका क्या असर होगा",
+   "examples": [
+    "What's the impact on downstream consumers?",
+    "What's the impact on the release date?",
+    "What's the impact if we skip this step?",
+    "What's the impact on our customers?",
+    "What's the impact on the budget?"
+   ]
+  },
+  {
+   "id": "pack6-card-2044",
+   "mode": "expression",
+   "phrase": "What's the worst case",
+   "situation": "Asking about the most negative outcome",
+   "hindi": "सबसे बुरा परिणाम क्या हो सकता है",
+   "examples": [
+    "What's the worst case if the vendor is late?",
+    "What's the worst case if this fails?",
+    "What's the worst case — a short outage?",
+    "Let's plan for the worst case.",
+    "What's the worst case if we do nothing?"
+   ]
+  },
+  {
+   "id": "pack6-card-2045",
+   "mode": "expression",
+   "phrase": "What would it take",
+   "situation": "Asking what is required to achieve something",
+   "hindi": "इसके लिए क्या चाहिए होगा",
+   "examples": [
+    "What would it take to finish by Friday?",
+    "What would it take to get this approved?",
+    "What would it take to reduce the cost by half?",
+    "What would it take to support mobile?",
+    "What would it take for you to feel confident?"
+   ]
+  },
+  {
+   "id": "pack6-card-2046",
+   "mode": "expression",
+   "phrase": "Where do we stand",
+   "situation": "Asking about current status",
+   "hindi": "हम किस स्थिति में हैं",
+   "examples": [
+    "Where do we stand on the security review?",
+    "Where do we stand on the hiring plan?",
+    "Where do we stand with the client?",
+    "So, where do we stand on the budget?",
+    "Where do we stand on the bug fixes?"
+   ]
+  },
+  {
+   "id": "pack6-card-2047",
+   "mode": "expression",
+   "phrase": "Where does that leave us",
+   "situation": "Asking about the situation after new information",
+   "hindi": "तो अब हमारी स्थिति क्या है",
+   "examples": [
+    "Where does that leave us on the timeline?",
+    "The vendor dropped out — where does that leave us?",
+    "Where does that leave us on the budget?",
+    "If he's leaving, where does that leave the project?",
+    "Where does that leave us with the client demo?"
+   ]
+  },
+  {
+   "id": "pack6-card-2048",
+   "mode": "expression",
+   "phrase": "Is that a blocker",
+   "situation": "Asking if something prevents progress",
+   "hindi": "क्या यह रुकावट है",
+   "examples": [
+    "Is that a blocker or just a nice-to-have?",
+    "Is the missing data a blocker?",
+    "Is that a blocker for the release?",
+    "Is that a blocker, or can we work around it?",
+    "Let me know if anything is a blocker."
+   ]
+  },
+  {
+   "id": "pack6-card-2049",
+   "mode": "expression",
+   "phrase": "Can we get a quick show of hands",
+   "situation": "Asking participants to vote visibly",
+   "hindi": "क्या हाथ उठाकर राय ले सकते हैं",
+   "examples": [
+    "Can we get a quick show of hands on option B?",
+    "Can we get a quick show of hands — who's free on Friday?",
+    "Can we get a quick show of hands for the new date?",
+    "Can we get a quick show of hands on whether to continue?",
+    "Let's get a quick show of hands before we decide."
+   ]
+  },
+  {
+   "id": "pack6-card-2050",
+   "mode": "expression",
+   "phrase": "Does that ring a bell",
+   "situation": "Asking whether something is familiar",
+   "hindi": "क्या यह याद आता है",
+   "examples": [
+    "Does the name of that vendor ring a bell?",
+    "Does the project name Phoenix ring a bell?",
+    "Does that error message ring a bell?",
+    "Her name rings a bell, but I can't place her.",
+    "Does any of this ring a bell?"
+   ]
+  },
+  {
+   "id": "pack6-card-2051",
+   "mode": "expression",
+   "phrase": "Does that make sense",
+   "situation": "Checking understanding",
+   "hindi": "क्या यह समझ में आया",
+   "examples": [
+    "Does that make sense, or should I draw it?",
+    "Does that make sense to everyone?",
+    "I'll go through it again if that doesn't make sense.",
+    "Does that make sense so far?",
+    "Does that make sense, or do you have questions?"
+   ]
+  },
+  {
+   "id": "pack6-card-2052",
+   "mode": "expression",
+   "phrase": "Am I making sense",
+   "situation": "Checking that you are being understood",
+   "hindi": "क्या मैं स्पष्ट बोल रहा हूँ",
+   "examples": [
+    "Am I making sense, or should I explain differently?",
+    "Am I making sense so far?",
+    "Sorry, am I making sense?",
+    "Am I making sense, or am I going too fast?",
+    "Am I making sense here, or is it too technical?"
+   ]
+  },
+  {
+   "id": "pack6-card-2053",
+   "mode": "expression",
+   "phrase": "Are we on the same page",
+   "situation": "Checking shared understanding",
+   "hindi": "क्या हम एक ही समझ पर हैं",
+   "examples": [
+    "Are we on the same page about the deadline?",
+    "Are we on the same page about the scope?",
+    "Just to make sure we're on the same page...",
+    "Are we all on the same page now?",
+    "Let's make sure we're on the same page before the demo."
+   ]
+  },
+  {
+   "id": "pack6-card-2054",
+   "mode": "expression",
+   "phrase": "Does anyone have any objections",
+   "situation": "Inviting disagreement before deciding",
+   "hindi": "क्या किसी को आपत्ति है",
+   "examples": [
+    "Does anyone have any objections to moving the release?",
+    "Does anyone have any objections to the new schedule?",
+    "Does anyone have any objections before we sign?",
+    "If nobody has any objections, let's move on.",
+    "Does anyone have any objections to inviting the client?"
+   ]
+  }
+ ]
+}

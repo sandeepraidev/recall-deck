@@ -1,0 +1,1204 @@
+{
+ "id": "pack2-deck-4",
+ "categoryId": "pack2-cat-1",
+ "title": "Newspaper: Science, Tech & Health",
+ "sub": "Terms from technology, medicine, and research stories.",
+ "cards": [
+  {
+   "id": "pack2-card-283",
+   "mode": "vocab",
+   "word": "Algorithm",
+   "pron": "(noun)",
+   "def": "A step-by-step set of rules for solving a problem.\nहिंदी: एल्गोरिद्म / कलन-विधि",
+   "examples": [
+    "Present: An algorithm ranks search results.",
+    "Past: The algorithm flagged the error.",
+    "Future: The algorithm will learn from new data.",
+    "Perfect: Engineers have improved the algorithm."
+   ]
+  },
+  {
+   "id": "pack2-card-284",
+   "mode": "vocab",
+   "word": "Artificial intelligence",
+   "pron": "(noun)",
+   "def": "Computer systems that perform tasks needing human intelligence.\nहिंदी: कृत्रिम बुद्धिमत्ता",
+   "examples": [
+    "Present: Artificial intelligence writes simple reports.",
+    "Past: Artificial intelligence changed the industry.",
+    "Future: Artificial intelligence will transform schools.",
+    "Perfect: Artificial intelligence has entered hospitals."
+   ]
+  },
+  {
+   "id": "pack2-card-285",
+   "mode": "vocab",
+   "word": "Automation",
+   "pron": "(noun)",
+   "def": "Using machines to do work without human effort.\nहिंदी: स्वचालन",
+   "examples": [
+    "Present: Automation reduces repetitive tasks.",
+    "Past: Automation replaced assembly workers.",
+    "Future: Automation will reshape jobs.",
+    "Perfect: Automation has increased output."
+   ]
+  },
+  {
+   "id": "pack2-card-286",
+   "mode": "vocab",
+   "word": "Cybersecurity",
+   "pron": "(noun)",
+   "def": "Protection of computer systems from attack.\nहिंदी: साइबर सुरक्षा",
+   "examples": [
+    "Present: Cybersecurity protects personal data.",
+    "Past: Cybersecurity failed at the bank.",
+    "Future: Cybersecurity will become a top priority.",
+    "Perfect: Firms have strengthened cybersecurity."
+   ]
+  },
+  {
+   "id": "pack2-card-287",
+   "mode": "vocab",
+   "word": "Encryption",
+   "pron": "(noun)",
+   "def": "Turning data into code so others cannot read it.\nहिंदी: एन्क्रिप्शन",
+   "examples": [
+    "Present: Encryption keeps messages private.",
+    "Past: Encryption protected the files.",
+    "Future: Encryption will secure the payments.",
+    "Perfect: Apps have added encryption."
+   ]
+  },
+  {
+   "id": "pack2-card-288",
+   "mode": "vocab",
+   "word": "Data",
+   "pron": "(noun)",
+   "def": "Facts and figures collected for analysis.\nहिंदी: डेटा",
+   "examples": [
+    "Present: Data guides decisions.",
+    "Past: The data showed a steady rise.",
+    "Future: New data will arrive tomorrow.",
+    "Perfect: Researchers have gathered more data."
+   ]
+  },
+  {
+   "id": "pack2-card-289",
+   "mode": "vocab",
+   "word": "Software",
+   "pron": "(noun)",
+   "def": "Programs that run on a computer.\nहिंदी: सॉफ़्टवेयर",
+   "examples": [
+    "Present: Software controls the hardware.",
+    "Past: The software crashed twice.",
+    "Future: New software will arrive next week.",
+    "Perfect: The firm has updated its software."
+   ]
+  },
+  {
+   "id": "pack2-card-290",
+   "mode": "vocab",
+   "word": "Hardware",
+   "pron": "(noun)",
+   "def": "The physical parts of a computer.\nहिंदी: हार्डवेयर",
+   "examples": [
+    "Present: Hardware needs regular upgrades.",
+    "Past: The hardware failed during the test.",
+    "Future: New hardware will improve speed.",
+    "Perfect: Engineers have replaced the hardware."
+   ]
+  },
+  {
+   "id": "pack2-card-291",
+   "mode": "vocab",
+   "word": "Network",
+   "pron": "(noun)",
+   "def": "A system of connected computers or people.\nहिंदी: नेटवर्क",
+   "examples": [
+    "Present: A network shares information.",
+    "Past: The network went down for an hour.",
+    "Future: The network will expand to villages.",
+    "Perfect: The company has built a vast network."
+   ]
+  },
+  {
+   "id": "pack2-card-292",
+   "mode": "vocab",
+   "word": "Platform",
+   "pron": "(noun)",
+   "def": "A digital system on which services run.\nहिंदी: प्लेटफ़ॉर्म",
+   "examples": [
+    "Present: A platform connects buyers and sellers.",
+    "Past: The platform launched in 2019.",
+    "Future: The platform will add new features.",
+    "Perfect: The platform has gained millions of users."
+   ]
+  },
+  {
+   "id": "pack2-card-293",
+   "mode": "vocab",
+   "word": "Upgrade",
+   "pron": "(verb)",
+   "def": "To improve to a higher standard.\nहिंदी: उन्नत करना",
+   "examples": [
+    "Present: Phones upgrade automatically.",
+    "Past: They upgraded the system last month.",
+    "Future: We will upgrade the server tonight.",
+    "Perfect: The firm has upgraded all laptops."
+   ]
+  },
+  {
+   "id": "pack2-card-294",
+   "mode": "vocab",
+   "word": "Glitch",
+   "pron": "(noun)",
+   "def": "A small fault in a system.\nहिंदी: तकनीकी गड़बड़ी",
+   "examples": [
+    "Present: A glitch can delay payments.",
+    "Past: A glitch shut down the app.",
+    "Future: A glitch will be fixed soon.",
+    "Perfect: A glitch has affected many users."
+   ]
+  },
+  {
+   "id": "pack2-card-295",
+   "mode": "vocab",
+   "word": "Prototype",
+   "pron": "(noun)",
+   "def": "A first model of a product.\nहिंदी: प्रोटोटाइप / नमूना",
+   "examples": [
+    "Present: A prototype tests an idea.",
+    "Past: The team built a prototype in June.",
+    "Future: A prototype will be shown tomorrow.",
+    "Perfect: Engineers have completed the prototype."
+   ]
+  },
+  {
+   "id": "pack2-card-296",
+   "mode": "vocab",
+   "word": "Breakthrough",
+   "pron": "(noun)",
+   "def": "An important discovery or advance.\nहिंदी: बड़ी सफलता",
+   "examples": [
+    "Present: A breakthrough can change medicine.",
+    "Past: Scientists announced a breakthrough.",
+    "Future: A breakthrough will save lives.",
+    "Perfect: Researchers have achieved a breakthrough."
+   ]
+  },
+  {
+   "id": "pack2-card-297",
+   "mode": "vocab",
+   "word": "Experiment",
+   "pron": "(noun)",
+   "def": "A scientific test to learn something.\nहिंदी: प्रयोग",
+   "examples": [
+    "Present: An experiment tests a theory.",
+    "Past: The experiment failed twice.",
+    "Future: The experiment will run for a month.",
+    "Perfect: Scientists have repeated the experiment."
+   ]
+  },
+  {
+   "id": "pack2-card-298",
+   "mode": "vocab",
+   "word": "Hypothesis",
+   "pron": "(noun)",
+   "def": "A proposed explanation to be tested.\nहिंदी: परिकल्पना",
+   "examples": [
+    "Present: A hypothesis guides research.",
+    "Past: The hypothesis proved correct.",
+    "Future: The hypothesis will be tested next year.",
+    "Perfect: Researchers have revised the hypothesis."
+   ]
+  },
+  {
+   "id": "pack2-card-299",
+   "mode": "vocab",
+   "word": "Laboratory",
+   "pron": "(noun)",
+   "def": "A room or building for scientific work.\nहिंदी: प्रयोगशाला",
+   "examples": [
+    "Present: A laboratory needs careful safety rules.",
+    "Past: The laboratory was built in 1990.",
+    "Future: The laboratory will open next year.",
+    "Perfect: The university has expanded its laboratory."
+   ]
+  },
+  {
+   "id": "pack2-card-300",
+   "mode": "vocab",
+   "word": "Genome",
+   "pron": "(noun)",
+   "def": "The complete set of genes in a living thing.\nहिंदी: जीनोम",
+   "examples": [
+    "Present: A genome carries genetic information.",
+    "Past: Scientists sequenced the genome.",
+    "Future: The genome will reveal the cause.",
+    "Perfect: Researchers have mapped the genome."
+   ]
+  },
+  {
+   "id": "pack2-card-301",
+   "mode": "vocab",
+   "word": "Mutation",
+   "pron": "(noun)",
+   "def": "A change in genetic material.\nहिंदी: उत्परिवर्तन",
+   "examples": [
+    "Present: A mutation may alter a virus.",
+    "Past: A mutation made the virus spread faster.",
+    "Future: A mutation will be tracked closely.",
+    "Perfect: The virus has undergone a mutation."
+   ]
+  },
+  {
+   "id": "pack2-card-302",
+   "mode": "vocab",
+   "word": "Vaccine",
+   "pron": "(noun)",
+   "def": "A substance that protects against disease.\nहिंदी: टीका",
+   "examples": [
+    "Present: A vaccine trains the immune system.",
+    "Past: Scientists developed a vaccine in a year.",
+    "Future: A vaccine will reach villages soon.",
+    "Perfect: Millions have received the vaccine."
+   ]
+  },
+  {
+   "id": "pack2-card-303",
+   "mode": "vocab",
+   "word": "Immunity",
+   "pron": "(noun)",
+   "def": "The body's ability to resist disease.\nहिंदी: रोग-प्रतिरोधक क्षमता",
+   "examples": [
+    "Present: Immunity weakens with age.",
+    "Past: Immunity developed after infection.",
+    "Future: Immunity will last several months.",
+    "Perfect: Many have gained immunity."
+   ]
+  },
+  {
+   "id": "pack2-card-304",
+   "mode": "vocab",
+   "word": "Outbreak",
+   "pron": "(noun)",
+   "def": "A sudden rise in disease cases.\nहिंदी: प्रकोप",
+   "examples": [
+    "Present: An outbreak can spread fast.",
+    "Past: An outbreak hit the city in May.",
+    "Future: An outbreak will strain hospitals.",
+    "Perfect: An outbreak has been reported."
+   ]
+  },
+  {
+   "id": "pack2-card-305",
+   "mode": "vocab",
+   "word": "Epidemic",
+   "pron": "(noun)",
+   "def": "A widespread outbreak of disease in a region.\nहिंदी: महामारी (स्थानीय)",
+   "examples": [
+    "Present: An epidemic requires quick action.",
+    "Past: An epidemic swept the state.",
+    "Future: An epidemic will be contained soon.",
+    "Perfect: The epidemic has claimed many lives."
+   ]
+  },
+  {
+   "id": "pack2-card-306",
+   "mode": "vocab",
+   "word": "Pandemic",
+   "pron": "(noun)",
+   "def": "A disease outbreak spreading across the world.\nहिंदी: वैश्विक महामारी",
+   "examples": [
+    "Present: A pandemic disrupts economies.",
+    "Past: The pandemic changed daily life.",
+    "Future: Another pandemic will test health systems.",
+    "Perfect: The pandemic has taught us lessons."
+   ]
+  },
+  {
+   "id": "pack2-card-307",
+   "mode": "vocab",
+   "word": "Quarantine",
+   "pron": "(noun)",
+   "def": "Isolation to prevent spreading disease.\nहिंदी: संगरोध",
+   "examples": [
+    "Present: Quarantine protects communities.",
+    "Past: He spent two weeks in quarantine.",
+    "Future: Travellers will enter quarantine.",
+    "Perfect: The ward has been placed in quarantine."
+   ]
+  },
+  {
+   "id": "pack2-card-308",
+   "mode": "vocab",
+   "word": "Symptom",
+   "pron": "(noun)",
+   "def": "A sign of illness felt by a patient.\nहिंदी: लक्षण",
+   "examples": [
+    "Present: A fever is a common symptom.",
+    "Past: Symptoms appeared on the third day.",
+    "Future: Symptoms will fade in a week.",
+    "Perfect: The patient has shown mild symptoms."
+   ]
+  },
+  {
+   "id": "pack2-card-309",
+   "mode": "vocab",
+   "word": "Diagnosis",
+   "pron": "(noun)",
+   "def": "Identifying an illness from its signs.\nहिंदी: निदान",
+   "examples": [
+    "Present: Early diagnosis saves lives.",
+    "Past: The diagnosis surprised him.",
+    "Future: A diagnosis will take two days.",
+    "Perfect: Doctors have confirmed the diagnosis."
+   ]
+  },
+  {
+   "id": "pack2-card-310",
+   "mode": "vocab",
+   "word": "Treatment",
+   "pron": "(noun)",
+   "def": "Medical care given to a patient.\nहिंदी: उपचार",
+   "examples": [
+    "Present: Treatment varies by illness.",
+    "Past: Treatment began immediately.",
+    "Future: Treatment will last six weeks.",
+    "Perfect: She has completed her treatment."
+   ]
+  },
+  {
+   "id": "pack2-card-311",
+   "mode": "vocab",
+   "word": "Chronic",
+   "pron": "(adjective)",
+   "def": "Lasting a long time or constantly recurring.\nहिंदी: दीर्घकालिक",
+   "examples": [
+    "Present: Chronic pain affects daily life.",
+    "Past: He suffered from chronic asthma.",
+    "Future: Chronic conditions will need long-term care.",
+    "Perfect: She has had chronic fatigue for years."
+   ]
+  },
+  {
+   "id": "pack2-card-312",
+   "mode": "vocab",
+   "word": "Acute",
+   "pron": "(adjective)",
+   "def": "Severe and sudden, or sharp.\nहिंदी: तीव्र",
+   "examples": [
+    "Present: Acute pain needs quick treatment.",
+    "Past: He had acute appendicitis.",
+    "Future: An acute shortage will worsen things.",
+    "Perfect: The region has faced an acute crisis."
+   ]
+  },
+  {
+   "id": "pack2-card-313",
+   "mode": "vocab",
+   "word": "Surgery",
+   "pron": "(noun)",
+   "def": "Medical treatment by operating on the body.\nहिंदी: शल्य चिकित्सा",
+   "examples": [
+    "Present: Surgery needs skilled teams.",
+    "Past: Surgery lasted four hours.",
+    "Future: Surgery will take place on Monday.",
+    "Perfect: He has recovered from surgery."
+   ]
+  },
+  {
+   "id": "pack2-card-314",
+   "mode": "vocab",
+   "word": "Prescription",
+   "pron": "(noun)",
+   "def": "A doctor's written order for medicine.\nहिंदी: नुस्ख़ा",
+   "examples": [
+    "Present: A prescription lists the dose.",
+    "Past: She collected her prescription.",
+    "Future: A prescription will be needed.",
+    "Perfect: The doctor has renewed my prescription."
+   ]
+  },
+  {
+   "id": "pack2-card-315",
+   "mode": "vocab",
+   "word": "Dose",
+   "pron": "(noun)",
+   "def": "A measured amount of medicine.\nहिंदी: खुराक",
+   "examples": [
+    "Present: A dose should be taken after meals.",
+    "Past: He took a double dose.",
+    "Future: A second dose will follow in a month.",
+    "Perfect: Patients have received the first dose."
+   ]
+  },
+  {
+   "id": "pack2-card-316",
+   "mode": "vocab",
+   "word": "Side effect",
+   "pron": "(noun)",
+   "def": "An unwanted effect of a medicine.\nहिंदी: दुष्प्रभाव",
+   "examples": [
+    "Present: A side effect may include nausea.",
+    "Past: A side effect appeared after a day.",
+    "Future: Side effects will fade quickly.",
+    "Perfect: The drug has caused few side effects."
+   ]
+  },
+  {
+   "id": "pack2-card-317",
+   "mode": "vocab",
+   "word": "Antibiotic",
+   "pron": "(noun)",
+   "def": "A medicine that kills bacteria.\nहिंदी: प्रतिजैविक",
+   "examples": [
+    "Present: An antibiotic treats bacterial infection.",
+    "Past: Doctors prescribed an antibiotic.",
+    "Future: An antibiotic will clear the infection.",
+    "Perfect: Overuse has weakened antibiotics."
+   ]
+  },
+  {
+   "id": "pack2-card-318",
+   "mode": "vocab",
+   "word": "Nutrition",
+   "pron": "(noun)",
+   "def": "Food needed for health and growth.\nहिंदी: पोषण",
+   "examples": [
+    "Present: Nutrition affects child growth.",
+    "Past: Poor nutrition stunted their growth.",
+    "Future: Better nutrition will improve health.",
+    "Perfect: Schools have improved nutrition."
+   ]
+  },
+  {
+   "id": "pack2-card-319",
+   "mode": "vocab",
+   "word": "Obesity",
+   "pron": "(noun)",
+   "def": "A condition of excessive body fat.\nहिंदी: मोटापा",
+   "examples": [
+    "Present: Obesity raises health risks.",
+    "Past: Obesity increased among children.",
+    "Future: Obesity will strain health budgets.",
+    "Perfect: Obesity has become common."
+   ]
+  },
+  {
+   "id": "pack2-card-320",
+   "mode": "vocab",
+   "word": "Mental health",
+   "pron": "(noun)",
+   "def": "Emotional and psychological wellbeing.\nहिंदी: मानसिक स्वास्थ्य",
+   "examples": [
+    "Present: Mental health matters as much as physical health.",
+    "Past: Mental health suffered during lockdown.",
+    "Future: Mental health will get more funding.",
+    "Perfect: Schools have prioritised mental health."
+   ]
+  },
+  {
+   "id": "pack2-card-321",
+   "mode": "vocab",
+   "word": "Therapy",
+   "pron": "(noun)",
+   "def": "Treatment of a disorder, often through talking.\nहिंदी: चिकित्सा / थेरेपी",
+   "examples": [
+    "Present: Therapy helps manage stress.",
+    "Past: Therapy changed her outlook.",
+    "Future: Therapy will begin next week.",
+    "Perfect: He has attended therapy for a year."
+   ]
+  },
+  {
+   "id": "pack2-card-322",
+   "mode": "vocab",
+   "word": "Addiction",
+   "pron": "(noun)",
+   "def": "Inability to stop using a harmful substance or habit.\nहिंदी: लत",
+   "examples": [
+    "Present: Addiction harms families.",
+    "Past: Addiction ruined his career.",
+    "Future: Treatment will help overcome addiction.",
+    "Perfect: He has battled addiction for years."
+   ]
+  },
+  {
+   "id": "pack2-card-323",
+   "mode": "vocab",
+   "word": "Pollutant",
+   "pron": "(noun)",
+   "def": "A substance that contaminates air, water, or soil.\nहिंदी: प्रदूषक",
+   "examples": [
+    "Present: A pollutant harms health.",
+    "Past: A pollutant seeped into the river.",
+    "Future: Filters will remove the pollutant.",
+    "Perfect: Factories have released a harmful pollutant."
+   ]
+  },
+  {
+   "id": "pack2-card-324",
+   "mode": "vocab",
+   "word": "Renewable",
+   "pron": "(adjective)",
+   "def": "Able to be replaced naturally, like sun or wind.\nहिंदी: नवीकरणीय",
+   "examples": [
+    "Present: Renewable energy is growing.",
+    "Past: Renewable sources powered the town.",
+    "Future: Renewable power will cost less.",
+    "Perfect: The state has invested in renewable energy."
+   ]
+  },
+  {
+   "id": "pack2-card-325",
+   "mode": "vocab",
+   "word": "Solar",
+   "pron": "(adjective)",
+   "def": "Relating to the sun.\nहिंदी: सौर",
+   "examples": [
+    "Present: Solar panels convert sunlight to power.",
+    "Past: Solar power lit the village.",
+    "Future: Solar farms will spread across the desert.",
+    "Perfect: The school has installed solar panels."
+   ]
+  },
+  {
+   "id": "pack2-card-326",
+   "mode": "vocab",
+   "word": "Satellite",
+   "pron": "(noun)",
+   "def": "An object orbiting the earth or another body.\nहिंदी: उपग्रह",
+   "examples": [
+    "Present: A satellite sends images of the earth.",
+    "Past: A satellite launched last night.",
+    "Future: A satellite will track storms.",
+    "Perfect: Engineers have repaired the satellite."
+   ]
+  },
+  {
+   "id": "pack2-card-327",
+   "mode": "vocab",
+   "word": "Orbit",
+   "pron": "(verb)",
+   "def": "To travel around a planet or star.\nहिंदी: परिक्रमा करना",
+   "examples": [
+    "Present: The moon orbits the earth.",
+    "Past: The probe orbited Mars.",
+    "Future: The craft will orbit for a year.",
+    "Perfect: The satellite has orbited ten thousand times."
+   ]
+  },
+  {
+   "id": "pack2-card-328",
+   "mode": "vocab",
+   "word": "Galaxy",
+   "pron": "(noun)",
+   "def": "A huge system of stars, gas, and dust.\nहिंदी: आकाशगंगा",
+   "examples": [
+    "Present: A galaxy contains billions of stars.",
+    "Past: Astronomers discovered a distant galaxy.",
+    "Future: Telescopes will study the galaxy.",
+    "Perfect: Scientists have mapped the galaxy."
+   ]
+  },
+  {
+   "id": "pack2-card-329",
+   "mode": "vocab",
+   "word": "Telescope",
+   "pron": "(noun)",
+   "def": "An instrument for seeing distant objects.\nहिंदी: दूरबीन",
+   "examples": [
+    "Present: A telescope shows faraway stars.",
+    "Past: The telescope captured a new planet.",
+    "Future: A new telescope will launch soon.",
+    "Perfect: Astronomers have upgraded the telescope."
+   ]
+  },
+  {
+   "id": "pack2-card-330",
+   "mode": "vocab",
+   "word": "Gravity",
+   "pron": "(noun)",
+   "def": "The force pulling objects toward each other.\nहिंदी: गुरुत्वाकर्षण",
+   "examples": [
+    "Present: Gravity keeps us on the ground.",
+    "Past: Gravity pulled the rock down.",
+    "Future: Gravity will slow the rocket.",
+    "Perfect: Scientists have measured gravity precisely."
+   ]
+  },
+  {
+   "id": "pack2-card-331",
+   "mode": "vocab",
+   "word": "Atom",
+   "pron": "(noun)",
+   "def": "The smallest unit of an element.\nहिंदी: परमाणु",
+   "examples": [
+    "Present: An atom has a nucleus.",
+    "Past: Scientists split the atom.",
+    "Future: An atom will join with another.",
+    "Perfect: Researchers have imaged a single atom."
+   ]
+  },
+  {
+   "id": "pack2-card-332",
+   "mode": "vocab",
+   "word": "Nuclear",
+   "pron": "(adjective)",
+   "def": "Relating to atoms' nuclei or their energy.\nहिंदी: परमाणु",
+   "examples": [
+    "Present: Nuclear power provides electricity.",
+    "Past: Nuclear tests alarmed the world.",
+    "Future: Nuclear plants will shut by 2030.",
+    "Perfect: The country has built nuclear reactors."
+   ]
+  },
+  {
+   "id": "pack2-card-333",
+   "mode": "vocab",
+   "word": "Radiation",
+   "pron": "(noun)",
+   "def": "Energy emitted as waves or particles.\nहिंदी: विकिरण",
+   "examples": [
+    "Present: Radiation can harm cells.",
+    "Past: Radiation leaked from the plant.",
+    "Future: Radiation will decline over time.",
+    "Perfect: Workers have been exposed to radiation."
+   ]
+  },
+  {
+   "id": "pack2-card-334",
+   "mode": "vocab",
+   "word": "Fossil fuel",
+   "pron": "(noun)",
+   "def": "Fuel formed from ancient plants and animals.\nहिंदी: जीवाश्म ईंधन",
+   "examples": [
+    "Present: Fossil fuel produces carbon dioxide.",
+    "Past: Fossil fuel powered the Industrial Revolution.",
+    "Future: Fossil fuel will decline in use.",
+    "Perfect: Nations have reduced fossil fuel use."
+   ]
+  },
+  {
+   "id": "pack2-card-335",
+   "mode": "vocab",
+   "word": "Emission",
+   "pron": "(noun)",
+   "def": "Release of gas or pollutants into the air.\nहिंदी: उत्सर्जन",
+   "examples": [
+    "Present: Emission from cars pollutes cities.",
+    "Past: Emissions fell during lockdown.",
+    "Future: Emissions will drop by half.",
+    "Perfect: Factories have cut emissions."
+   ]
+  },
+  {
+   "id": "pack2-card-336",
+   "mode": "vocab",
+   "word": "Biodiversity",
+   "pron": "(noun)",
+   "def": "The variety of life in an area.\nहिंदी: जैव विविधता",
+   "examples": [
+    "Present: Biodiversity keeps ecosystems healthy.",
+    "Past: Biodiversity declined with forest loss.",
+    "Future: Biodiversity will recover if forests return.",
+    "Perfect: Scientists have recorded rich biodiversity."
+   ]
+  },
+  {
+   "id": "pack2-card-337",
+   "mode": "vocab",
+   "word": "Ecosystem",
+   "pron": "(noun)",
+   "def": "A community of living things and their environment.\nहिंदी: पारिस्थितिकी तंत्र",
+   "examples": [
+    "Present: An ecosystem depends on balance.",
+    "Past: The oil spill damaged the ecosystem.",
+    "Future: The ecosystem will take decades to heal.",
+    "Perfect: Pollution has harmed the ecosystem."
+   ]
+  },
+  {
+   "id": "pack2-card-338",
+   "mode": "vocab",
+   "word": "Species",
+   "pron": "(noun)",
+   "def": "A group of similar living things.\nहिंदी: प्रजाति",
+   "examples": [
+    "Present: A species adapts to its habitat.",
+    "Past: A new species was discovered.",
+    "Future: The species will disappear without protection.",
+    "Perfect: Scientists have catalogued thousands of species."
+   ]
+  },
+  {
+   "id": "pack2-card-339",
+   "mode": "vocab",
+   "word": "Extinct",
+   "pron": "(adjective)",
+   "def": "No longer existing.\nहिंदी: विलुप्त",
+   "examples": [
+    "Present: Dinosaurs are extinct.",
+    "Past: The bird became extinct in 1900.",
+    "Future: The species will go extinct soon.",
+    "Perfect: Many animals have become extinct."
+   ]
+  },
+  {
+   "id": "pack2-card-340",
+   "mode": "vocab",
+   "word": "Habitat",
+   "pron": "(noun)",
+   "def": "The natural home of an animal or plant.\nहिंदी: आवास / प्राकृतिक वास",
+   "examples": [
+    "Present: A habitat provides food and shelter.",
+    "Past: Loggers destroyed the habitat.",
+    "Future: The habitat will be protected.",
+    "Perfect: Tigers have lost their habitat."
+   ]
+  },
+  {
+   "id": "pack2-card-341",
+   "mode": "vocab",
+   "word": "Conservation",
+   "pron": "(noun)",
+   "def": "Protecting nature and resources.\nहिंदी: संरक्षण",
+   "examples": [
+    "Present: Conservation saves wildlife.",
+    "Past: Conservation efforts began in 1970.",
+    "Future: Conservation will need public support.",
+    "Perfect: Groups have increased conservation work."
+   ]
+  },
+  {
+   "id": "pack2-card-342",
+   "mode": "vocab",
+   "word": "Drought",
+   "pron": "(noun)",
+   "def": "A long period of very little rain.\nहिंदी: सूखा",
+   "examples": [
+    "Present: A drought damages crops.",
+    "Past: A drought hit the region last summer.",
+    "Future: A drought will push up food prices.",
+    "Perfect: The area has suffered a drought."
+   ]
+  },
+  {
+   "id": "pack2-card-343",
+   "mode": "vocab",
+   "word": "Flood",
+   "pron": "(noun)",
+   "def": "An overflow of water onto dry land.\nहिंदी: बाढ़",
+   "examples": [
+    "Present: A flood destroys homes.",
+    "Past: A flood swept through the valley.",
+    "Future: A flood will follow heavy rain.",
+    "Perfect: The river has caused a flood."
+   ]
+  },
+  {
+   "id": "pack2-card-344",
+   "mode": "vocab",
+   "word": "Earthquake",
+   "pron": "(noun)",
+   "def": "A sudden shaking of the ground.\nहिंदी: भूकंप",
+   "examples": [
+    "Present: An earthquake can topple buildings.",
+    "Past: An earthquake struck at dawn.",
+    "Future: An earthquake will test the new design.",
+    "Perfect: The region has experienced an earthquake."
+   ]
+  },
+  {
+   "id": "pack2-card-345",
+   "mode": "vocab",
+   "word": "Cyclone",
+   "pron": "(noun)",
+   "def": "A large rotating storm.\nहिंदी: चक्रवात",
+   "examples": [
+    "Present: A cyclone brings strong winds.",
+    "Past: A cyclone hit the coast.",
+    "Future: A cyclone will arrive tonight.",
+    "Perfect: The state has prepared for the cyclone."
+   ]
+  },
+  {
+   "id": "pack2-card-346",
+   "mode": "vocab",
+   "word": "Evacuate",
+   "pron": "(verb)",
+   "def": "To move people away from danger.\nहिंदी: खाली कराना",
+   "examples": [
+    "Present: Officials evacuate coastal villages.",
+    "Past: Authorities evacuated the town.",
+    "Future: Residents will evacuate by noon.",
+    "Perfect: Thousands have been evacuated."
+   ]
+  },
+  {
+   "id": "pack2-card-347",
+   "mode": "vocab",
+   "word": "Heatwave",
+   "pron": "(noun)",
+   "def": "A long period of unusually hot weather.\nहिंदी: लू / भीषण गर्मी",
+   "examples": [
+    "Present: A heatwave can be deadly.",
+    "Past: A heatwave gripped the north.",
+    "Future: A heatwave will arrive next week.",
+    "Perfect: The city has endured a heatwave."
+   ]
+  },
+  {
+   "id": "pack2-card-348",
+   "mode": "vocab",
+   "word": "Climate change",
+   "pron": "(noun)",
+   "def": "Long-term change in global weather patterns.\nहिंदी: जलवायु परिवर्तन",
+   "examples": [
+    "Present: Climate change melts glaciers.",
+    "Past: Climate change altered rainfall.",
+    "Future: Climate change will raise sea levels.",
+    "Perfect: Scientists have linked storms to climate change."
+   ]
+  },
+  {
+   "id": "pack2-card-349",
+   "mode": "vocab",
+   "word": "Global warming",
+   "pron": "(noun)",
+   "def": "The rise in earth's average temperature.\nहिंदी: वैश्विक तापन",
+   "examples": [
+    "Present: Global warming worries scientists.",
+    "Past: Global warming accelerated after 1980.",
+    "Future: Global warming will melt more ice.",
+    "Perfect: Global warming has changed seasons."
+   ]
+  },
+  {
+   "id": "pack2-card-350",
+   "mode": "vocab",
+   "word": "Glacier",
+   "pron": "(noun)",
+   "def": "A slow-moving mass of ice.\nहिंदी: हिमनद",
+   "examples": [
+    "Present: A glacier feeds rivers.",
+    "Past: The glacier retreated rapidly.",
+    "Future: The glacier will keep shrinking.",
+    "Perfect: The glacier has lost half its mass."
+   ]
+  },
+  {
+   "id": "pack2-card-351",
+   "mode": "vocab",
+   "word": "Smog",
+   "pron": "(noun)",
+   "def": "Fog mixed with smoke and pollution.\nहिंदी: धुआँ-कोहरा",
+   "examples": [
+    "Present: Smog irritates the lungs.",
+    "Past: Smog covered the capital.",
+    "Future: Smog will worsen in winter.",
+    "Perfect: Smog has returned this season."
+   ]
+  },
+  {
+   "id": "pack2-card-352",
+   "mode": "vocab",
+   "word": "Biodegradable",
+   "pron": "(adjective)",
+   "def": "Able to break down naturally.\nहिंदी: जैव-अपघटनीय",
+   "examples": [
+    "Present: Biodegradable bags decompose.",
+    "Past: The plates were biodegradable.",
+    "Future: Biodegradable packaging will replace plastic.",
+    "Perfect: Firms have adopted biodegradable materials."
+   ]
+  },
+  {
+   "id": "pack2-card-353",
+   "mode": "vocab",
+   "word": "Recycle",
+   "pron": "(verb)",
+   "def": "To process used materials for reuse.\nहिंदी: पुनर्चक्रण करना",
+   "examples": [
+    "Present: Cities recycle paper and glass.",
+    "Past: They recycled old bottles.",
+    "Future: We will recycle more next year.",
+    "Perfect: The plant has recycled tonnes of plastic."
+   ]
+  },
+  {
+   "id": "pack2-card-354",
+   "mode": "vocab",
+   "word": "Landfill",
+   "pron": "(noun)",
+   "def": "A site where waste is buried.\nहिंदी: कचरा भराव क्षेत्र",
+   "examples": [
+    "Present: A landfill produces methane.",
+    "Past: The landfill overflowed.",
+    "Future: The landfill will close next year.",
+    "Perfect: The city has expanded its landfill."
+   ]
+  },
+  {
+   "id": "pack2-card-355",
+   "mode": "vocab",
+   "word": "Genetics",
+   "pron": "(noun)",
+   "def": "The study of heredity and genes.\nहिंदी: आनुवंशिकी",
+   "examples": [
+    "Present: Genetics explains inherited traits.",
+    "Past: Genetics advanced rapidly in the 1900s.",
+    "Future: Genetics will guide medicine.",
+    "Perfect: Researchers have unlocked new genetics."
+   ]
+  },
+  {
+   "id": "pack2-card-356",
+   "mode": "vocab",
+   "word": "Clone",
+   "pron": "(verb)",
+   "def": "To create an exact genetic copy.\nहिंदी: क्लोन बनाना",
+   "examples": [
+    "Present: Scientists clone cells.",
+    "Past: They cloned a sheep in 1996.",
+    "Future: Researchers will clone endangered animals.",
+    "Perfect: Labs have cloned several species."
+   ]
+  },
+  {
+   "id": "pack2-card-357",
+   "mode": "vocab",
+   "word": "Stem cell",
+   "pron": "(noun)",
+   "def": "A cell that can develop into many types.\nहिंदी: स्टेम कोशिका",
+   "examples": [
+    "Present: A stem cell can repair tissue.",
+    "Past: Doctors used stem cells to treat burns.",
+    "Future: Stem cells will aid future therapies.",
+    "Perfect: Researchers have grown organs from stem cells."
+   ]
+  },
+  {
+   "id": "pack2-card-358",
+   "mode": "vocab",
+   "word": "Robot",
+   "pron": "(noun)",
+   "def": "A machine that performs tasks automatically.\nहिंदी: रोबोट",
+   "examples": [
+    "Present: A robot assembles cars.",
+    "Past: A robot performed the surgery.",
+    "Future: Robots will fill dangerous jobs.",
+    "Perfect: The firm has deployed hundreds of robots."
+   ]
+  },
+  {
+   "id": "pack2-card-359",
+   "mode": "vocab",
+   "word": "Drone",
+   "pron": "(noun)",
+   "def": "An unmanned flying machine.\nहिंदी: ड्रोन",
+   "examples": [
+    "Present: A drone captures aerial images.",
+    "Past: A drone delivered the package.",
+    "Future: Drones will inspect power lines.",
+    "Perfect: Farmers have used drones for spraying."
+   ]
+  },
+  {
+   "id": "pack2-card-360",
+   "mode": "vocab",
+   "word": "Biometric",
+   "pron": "(adjective)",
+   "def": "Using body features like fingerprints for identification.\nहिंदी: बायोमेट्रिक",
+   "examples": [
+    "Present: Biometric scanners verify identity.",
+    "Past: The airport adopted biometric checks.",
+    "Future: Biometric systems will replace passwords.",
+    "Perfect: Banks have introduced biometric login."
+   ]
+  },
+  {
+   "id": "pack2-card-361",
+   "mode": "vocab",
+   "word": "Cloud",
+   "pron": "(noun)",
+   "def": "Internet-based storage and computing.\nहिंदी: क्लाउड",
+   "examples": [
+    "Present: The cloud stores files online.",
+    "Past: They moved data to the cloud.",
+    "Future: Apps will run on the cloud.",
+    "Perfect: Firms have shifted to the cloud."
+   ]
+  },
+  {
+   "id": "pack2-card-362",
+   "mode": "vocab",
+   "word": "Bandwidth",
+   "pron": "(noun)",
+   "def": "The capacity of a connection to carry data.\nहिंदी: बैंडविड्थ",
+   "examples": [
+    "Present: Bandwidth limits download speed.",
+    "Past: Bandwidth dropped during the match.",
+    "Future: More bandwidth will improve streaming.",
+    "Perfect: The firm has increased its bandwidth."
+   ]
+  },
+  {
+   "id": "pack2-card-363",
+   "mode": "vocab",
+   "word": "Virtual",
+   "pron": "(adjective)",
+   "def": "Existing on a computer rather than physically.\nहिंदी: आभासी",
+   "examples": [
+    "Present: Virtual classrooms connect distant students.",
+    "Past: The meeting was virtual.",
+    "Future: Virtual tours will be available.",
+    "Perfect: Schools have adopted virtual learning."
+   ]
+  },
+  {
+   "id": "pack2-card-364",
+   "mode": "vocab",
+   "word": "Wearable",
+   "pron": "(noun)",
+   "def": "A device worn on the body.\nहिंदी: पहनने योग्य उपकरण",
+   "examples": [
+    "Present: A wearable tracks heart rate.",
+    "Past: A wearable detected his irregular rhythm.",
+    "Future: Wearables will monitor patients.",
+    "Perfect: Sales of wearables have soared."
+   ]
+  },
+  {
+   "id": "pack2-card-365",
+   "mode": "vocab",
+   "word": "Biotechnology",
+   "pron": "(noun)",
+   "def": "Using living organisms to make useful products.\nहिंदी: जैव प्रौद्योगिकी",
+   "examples": [
+    "Present: Biotechnology produces medicines.",
+    "Past: Biotechnology transformed farming.",
+    "Future: Biotechnology will create new cures.",
+    "Perfect: The sector has attracted investment."
+   ]
+  },
+  {
+   "id": "pack2-card-366",
+   "mode": "vocab",
+   "word": "Peer review",
+   "pron": "(noun)",
+   "def": "Evaluation of research by other experts.\nहिंदी: सहकर्मी समीक्षा",
+   "examples": [
+    "Present: Peer review checks scientific quality.",
+    "Past: The paper passed peer review.",
+    "Future: Peer review will take months.",
+    "Perfect: Editors have completed peer review."
+   ]
+  },
+  {
+   "id": "pack2-card-367",
+   "mode": "vocab",
+   "word": "Clinical trial",
+   "pron": "(noun)",
+   "def": "A research study testing a medical treatment.\nहिंदी: चिकित्सीय परीक्षण",
+   "examples": [
+    "Present: A clinical trial tests safety.",
+    "Past: A clinical trial began in January.",
+    "Future: A clinical trial will recruit volunteers.",
+    "Perfect: The drug has passed a clinical trial."
+   ]
+  },
+  {
+   "id": "pack2-card-368",
+   "mode": "vocab",
+   "word": "Placebo",
+   "pron": "(noun)",
+   "def": "A harmless substance used as a control in trials.\nहिंदी: प्लेसीबो",
+   "examples": [
+    "Present: A placebo has no active ingredient.",
+    "Past: Half the group received a placebo.",
+    "Future: A placebo will be given to controls.",
+    "Perfect: Researchers have compared drug and placebo."
+   ]
+  },
+  {
+   "id": "pack2-card-369",
+   "mode": "vocab",
+   "word": "Statistic",
+   "pron": "(noun)",
+   "def": "A number that describes facts about data.\nहिंदी: आँकड़ा",
+   "examples": [
+    "Present: A statistic can mislead.",
+    "Past: The statistic shocked readers.",
+    "Future: A statistic will appear in the report.",
+    "Perfect: Analysts have quoted a new statistic."
+   ]
+  },
+  {
+   "id": "pack2-card-370",
+   "mode": "vocab",
+   "word": "Correlation",
+   "pron": "(noun)",
+   "def": "A link between two things.\nहिंदी: सहसंबंध",
+   "examples": [
+    "Present: Correlation does not prove cause.",
+    "Past: A correlation emerged between sleep and mood.",
+    "Future: A correlation will be tested further.",
+    "Perfect: Studies have found a strong correlation."
+   ]
+  },
+  {
+   "id": "pack2-card-371",
+   "mode": "vocab",
+   "word": "Peak",
+   "pron": "(verb)",
+   "def": "To reach the highest point.\nहिंदी: चरम पर पहुँचना",
+   "examples": [
+    "Present: Cases peak in winter.",
+    "Past: Infections peaked in May.",
+    "Future: Prices will peak in July.",
+    "Perfect: The curve has peaked."
+   ]
+  },
+  {
+   "id": "pack2-card-372",
+   "mode": "vocab",
+   "word": "Mitigate",
+   "pron": "(verb)",
+   "def": "To make something less severe.\nहिंदी: कम करना",
+   "examples": [
+    "Present: Trees mitigate heat in cities.",
+    "Past: Dams mitigated the flood damage.",
+    "Future: New rules will mitigate pollution.",
+    "Perfect: Farmers have mitigated losses."
+   ]
+  },
+  {
+   "id": "pack2-card-373",
+   "mode": "vocab",
+   "word": "Pioneer",
+   "pron": "(noun)",
+   "def": "A person who leads in a new field.\nहिंदी: अग्रणी",
+   "examples": [
+    "Present: A pioneer opens new paths.",
+    "Past: She pioneered cancer research.",
+    "Future: A pioneer will receive the award.",
+    "Perfect: He has become a pioneer in robotics."
+   ]
+  },
+  {
+   "id": "pack2-card-374",
+   "mode": "vocab",
+   "word": "Cutting-edge",
+   "pron": "(adjective)",
+   "def": "Most advanced and modern.\nहिंदी: अत्याधुनिक",
+   "examples": [
+    "Present: Cutting-edge tools help surgeons.",
+    "Past: The lab used cutting-edge technology.",
+    "Future: Cutting-edge designs will appear next year.",
+    "Perfect: The firm has built cutting-edge devices."
+   ]
+  }
+ ]
+}

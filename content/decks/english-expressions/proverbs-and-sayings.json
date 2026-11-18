@@ -1,0 +1,1594 @@
+{
+ "id": "pack4-deck-8",
+ "categoryId": "pack4-cat-2",
+ "title": "Proverbs & Sayings",
+ "sub": "Well-known proverbs with Hindi equivalents.",
+ "cards": [
+  {
+   "id": "pack4-card-768",
+   "mode": "vocab",
+   "word": "A stitch in time saves nine",
+   "pron": "",
+   "def": "fixing a small problem early prevents a bigger one\nहिंदी: समय पर किया गया छोटा काम बड़ी मुसीबत से बचाता है",
+   "examples": [
+    "Repair the roof now; a stitch in time saves nine.",
+    "He fixed the leak early; a stitch in time saves nine.",
+    "Service your car regularly; a stitch in time saves nine.",
+    "Fix small bugs now, because a stitch in time saves nine."
+   ]
+  },
+  {
+   "id": "pack4-card-769",
+   "mode": "vocab",
+   "word": "A friend in need is a friend indeed",
+   "pron": "",
+   "def": "a true friend helps in hard times\nहिंदी: सच्चा मित्र वही जो मुसीबत में काम आए",
+   "examples": [
+    "He helped me when I was jobless; a friend in need is a friend indeed.",
+    "She stayed by me; a friend in need is a friend indeed.",
+    "My neighbour drove me to the hospital at midnight; a friend in need is a friend indeed.",
+    "When I lost my wallet, Ravi lent me money; a friend in need is a friend indeed."
+   ]
+  },
+  {
+   "id": "pack4-card-770",
+   "mode": "vocab",
+   "word": "Actions speak louder than words",
+   "pron": "",
+   "def": "what you do matters more than what you say\nहिंदी: कथनी से करनी बड़ी",
+   "examples": [
+    "He promised a lot but did little; actions speak louder than words.",
+    "Show it; actions speak louder than words.",
+    "Don't just promise to help; actions speak louder than words.",
+    "The manager stayed late with us, and actions speak louder than words."
+   ]
+  },
+  {
+   "id": "pack4-card-771",
+   "mode": "vocab",
+   "word": "All that glitters is not gold",
+   "pron": "",
+   "def": "appearances can be deceptive\nहिंदी: हर चमकती चीज़ सोना नहीं होती",
+   "examples": [
+    "The offer looked great, but all that glitters is not gold.",
+    "Be careful; all that glitters is not gold.",
+    "The job paid well but was very stressful; all that glitters is not gold.",
+    "That shiny phone broke in a month; all that glitters is not gold."
+   ]
+  },
+  {
+   "id": "pack4-card-772",
+   "mode": "vocab",
+   "word": "All's well that ends well",
+   "pron": "",
+   "def": "a good ending makes up for earlier problems\nहिंदी: अंत भला तो सब भला",
+   "examples": [
+    "The trip was stressful, but all's well that ends well.",
+    "We won in the end; all's well that ends well.",
+    "We got lost on the way, but all's well that ends well.",
+    "The project was late, but the client loved it; all's well that ends well."
+   ]
+  },
+  {
+   "id": "pack4-card-773",
+   "mode": "vocab",
+   "word": "An empty vessel makes the most noise",
+   "pron": "",
+   "def": "people with little knowledge talk the most\nहिंदी: थोथा चना बाजे घना",
+   "examples": [
+    "He boasts constantly; an empty vessel makes the most noise.",
+    "The least skilled speak loudest.",
+    "The loudest critic had never done the job; an empty vessel makes the most noise.",
+    "Don't be impressed by his talk; an empty vessel makes the most noise."
+   ]
+  },
+  {
+   "id": "pack4-card-774",
+   "mode": "vocab",
+   "word": "A bad workman blames his tools",
+   "pron": "",
+   "def": "poor workers blame equipment for their failures\nहिंदी: नाच न जाने आँगन टेढ़ा",
+   "examples": [
+    "He blamed the pen; a bad workman blames his tools.",
+    "Stop making excuses.",
+    "He blamed the laptop for his slow work, but a bad workman blames his tools.",
+    "Stop blaming the bat; a bad workman blames his tools."
+   ]
+  },
+  {
+   "id": "pack4-card-775",
+   "mode": "vocab",
+   "word": "A rolling stone gathers no moss",
+   "pron": "",
+   "def": "someone who keeps moving doesn't settle or gain\nहिंदी: लुढ़कते पत्थर पर काई नहीं जमती",
+   "examples": [
+    "He changes jobs often; a rolling stone gathers no moss.",
+    "She never settles anywhere.",
+    "My uncle moved cities every year; a rolling stone gathers no moss.",
+    "If you keep switching courses, remember a rolling stone gathers no moss."
+   ]
+  },
+  {
+   "id": "pack4-card-776",
+   "mode": "vocab",
+   "word": "A penny saved is a penny earned",
+   "pron": "",
+   "def": "saving money is as good as earning it\nहिंदी: बचत भी कमाई के बराबर है",
+   "examples": [
+    "Don't waste money; a penny saved is a penny earned.",
+    "He saves daily.",
+    "I cook at home instead of ordering in; a penny saved is a penny earned.",
+    "Switch off the lights when you leave; a penny saved is a penny earned."
+   ]
+  },
+  {
+   "id": "pack4-card-777",
+   "mode": "vocab",
+   "word": "A watched pot never boils",
+   "pron": "",
+   "def": "waiting impatiently makes time feel slow\nहिंदी: इंतज़ार में समय धीमा लगता है",
+   "examples": [
+    "Stop checking; a watched pot never boils.",
+    "Relax; a watched pot never boils.",
+    "Stop refreshing the results page; a watched pot never boils.",
+    "Waiting by the phone won't help; a watched pot never boils."
+   ]
+  },
+  {
+   "id": "pack4-card-778",
+   "mode": "vocab",
+   "word": "Barking dogs seldom bite",
+   "pron": "",
+   "def": "people who threaten loudly rarely act\nहिंदी: जो गरजते हैं वे बरसते नहीं",
+   "examples": [
+    "Don't worry; barking dogs seldom bite.",
+    "He shouts a lot but is harmless.",
+    "The neighbour threatens to complain every week, but barking dogs seldom bite.",
+    "Ignore his angry emails; barking dogs seldom bite."
+   ]
+  },
+  {
+   "id": "pack4-card-779",
+   "mode": "vocab",
+   "word": "Beggars can't be choosers",
+   "pron": "",
+   "def": "those in need must accept what they get\nहिंदी: भिखारी की पसंद नहीं चलती",
+   "examples": [
+    "Take the job; beggars can't be choosers.",
+    "Accept the room; beggars can't be choosers.",
+    "The only flat left was small, but beggars can't be choosers.",
+    "There was only plain rice for dinner, and beggars can't be choosers."
+   ]
+  },
+  {
+   "id": "pack4-card-780",
+   "mode": "vocab",
+   "word": "Birds of a feather flock together",
+   "pron": "",
+   "def": "similar people stay together\nहिंदी: एक जैसे लोग साथ रहते हैं",
+   "examples": [
+    "Those two are alike; birds of a feather flock together.",
+    "They're always together.",
+    "The two gossips are best friends; birds of a feather flock together.",
+    "All the cricket fans sat together; birds of a feather flock together."
+   ]
+  },
+  {
+   "id": "pack4-card-781",
+   "mode": "vocab",
+   "word": "Blood is thicker than water",
+   "pron": "",
+   "def": "family bonds are stronger than others\nहिंदी: ख़ून का रिश्ता सबसे गहरा होता है",
+   "examples": [
+    "He helped his cousin; blood is thicker than water.",
+    "Family comes first.",
+    "Despite their fights, he lent his brother money; blood is thicker than water.",
+    "She chose her sister's wedding over a work trip; blood is thicker than water."
+   ]
+  },
+  {
+   "id": "pack4-card-782",
+   "mode": "vocab",
+   "word": "Charity begins at home",
+   "pron": "",
+   "def": "help your family first\nहिंदी: दान की शुरुआत घर से होती है",
+   "examples": [
+    "Look after your parents first; charity begins at home.",
+    "Help close ones first.",
+    "Before helping strangers, help your own parents; charity begins at home.",
+    "Teach your children kindness first; charity begins at home."
+   ]
+  },
+  {
+   "id": "pack4-card-783",
+   "mode": "vocab",
+   "word": "Cleanliness is next to godliness",
+   "pron": "",
+   "def": "being clean is almost a virtue\nहिंदी: स्वच्छता ही ईश्वर के समीप है",
+   "examples": [
+    "Wash your hands; cleanliness is next to godliness.",
+    "Keep the house tidy.",
+    "My grandmother cleans the house daily; she says cleanliness is next to godliness.",
+    "The temple is spotless, as cleanliness is next to godliness."
+   ]
+  },
+  {
+   "id": "pack4-card-784",
+   "mode": "vocab",
+   "word": "Don't count your chickens before they hatch",
+   "pron": "",
+   "def": "don't rely on something not yet certain\nहिंदी: अंडे से चूज़े निकलने से पहले गिनती मत करो",
+   "examples": [
+    "Wait for the result; don't count your chickens before they hatch.",
+    "Don't spend the bonus yet.",
+    "The offer letter hasn't come yet, so don't count your chickens before they hatch.",
+    "We might win the contract, but don't count your chickens before they hatch."
+   ]
+  },
+  {
+   "id": "pack4-card-785",
+   "mode": "vocab",
+   "word": "Don't put all your eggs in one basket",
+   "pron": "",
+   "def": "don't risk everything on one thing\nहिंदी: सारे अंडे एक टोकरी में मत रखो",
+   "examples": [
+    "Diversify your savings; don't put all your eggs in one basket.",
+    "Apply to several colleges.",
+    "Invest in different funds; don't put all your eggs in one basket.",
+    "Don't depend on one client; don't put all your eggs in one basket."
+   ]
+  },
+  {
+   "id": "pack4-card-786",
+   "mode": "vocab",
+   "word": "Don't judge a book by its cover",
+   "pron": "",
+   "def": "don't judge by appearance alone\nहिंदी: बाहरी रूप देखकर राय मत बनाओ",
+   "examples": [
+    "He looks plain but is brilliant; don't judge a book by its cover.",
+    "Look beyond appearances.",
+    "The small restaurant serves the best food; don't judge a book by its cover.",
+    "The quiet intern had great ideas, so don't judge a book by its cover."
+   ]
+  },
+  {
+   "id": "pack4-card-787",
+   "mode": "vocab",
+   "word": "Don't bite the hand that feeds you",
+   "pron": "",
+   "def": "don't harm someone who helps you\nहिंदी: जिस थाली में खाओ उसमें छेद मत करो",
+   "examples": [
+    "Don't insult your boss; don't bite the hand that feeds you.",
+    "Be grateful to supporters.",
+    "Speaking badly about your sponsor is foolish; don't bite the hand that feeds you.",
+    "Our biggest client pays on time, so don't bite the hand that feeds you."
+   ]
+  },
+  {
+   "id": "pack4-card-788",
+   "mode": "vocab",
+   "word": "Don't cry over spilt milk",
+   "pron": "",
+   "def": "don't regret what can't be changed\nहिंदी: बीती बात पर आँसू मत बहाओ",
+   "examples": [
+    "It's done; don't cry over spilt milk.",
+    "Move on.",
+    "You missed the bus; don't cry over spilt milk.",
+    "The match is lost, so don't cry over spilt milk."
+   ]
+  },
+  {
+   "id": "pack4-card-789",
+   "mode": "vocab",
+   "word": "Don't put the cart before the horse",
+   "pron": "",
+   "def": "do things in the proper order\nहिंदी: गाड़ी को घोड़े के आगे मत जोड़ो",
+   "examples": [
+    "Plan first; don't put the cart before the horse.",
+    "Learn basics first.",
+    "Find a job before buying a car; don't put the cart before the horse.",
+    "Get the requirements first; don't put the cart before the horse."
+   ]
+  },
+  {
+   "id": "pack4-card-790",
+   "mode": "vocab",
+   "word": "Every dog has its day",
+   "pron": "",
+   "def": "everyone gets a chance to succeed\nहिंदी: हर किसी के दिन फिरते हैं",
+   "examples": [
+    "He'll get his chance; every dog has its day.",
+    "Your time will come.",
+    "The bench player scored the winning goal; every dog has its day.",
+    "Keep working; every dog has its day."
+   ]
+  },
+  {
+   "id": "pack4-card-791",
+   "mode": "vocab",
+   "word": "Every rose has its thorn",
+   "pron": "",
+   "def": "nothing is perfect\nहिंदी: हर गुलाब में काँटा होता है",
+   "examples": [
+    "The job is great, but every rose has its thorn.",
+    "Nothing is flawless.",
+    "The new flat is lovely but noisy; every rose has its thorn.",
+    "Fame brings money and stress; every rose has its thorn."
+   ]
+  },
+  {
+   "id": "pack4-card-792",
+   "mode": "vocab",
+   "word": "Fortune favours the brave",
+   "pron": "",
+   "def": "bold people are more likely to succeed\nहिंदी: साहसी को भाग्य का साथ मिलता है",
+   "examples": [
+    "Take the chance; fortune favours the brave.",
+    "He tried and won.",
+    "She quit her job to start a bakery; fortune favours the brave.",
+    "Ask for the promotion; fortune favours the brave."
+   ]
+  },
+  {
+   "id": "pack4-card-793",
+   "mode": "vocab",
+   "word": "Great minds think alike",
+   "pron": "",
+   "def": "clever people have similar ideas\nहिंदी: बड़े लोग एक जैसा सोचते हैं",
+   "examples": [
+    "We had the same idea; great minds think alike.",
+    "You too? Great minds think alike.",
+    "We both ordered the same dish; great minds think alike.",
+    "You booked the same hotel as me? Great minds think alike."
+   ]
+  },
+  {
+   "id": "pack4-card-794",
+   "mode": "vocab",
+   "word": "Haste makes waste",
+   "pron": "",
+   "def": "rushing leads to mistakes\nहिंदी: जल्दबाज़ी का काम शैतान का",
+   "examples": [
+    "Slow down; haste makes waste.",
+    "He rushed and spoiled it.",
+    "I typed the email too fast and sent it to the wrong person; haste makes waste.",
+    "Read the question carefully; haste makes waste."
+   ]
+  },
+  {
+   "id": "pack4-card-795",
+   "mode": "vocab",
+   "word": "He who laughs last laughs longest",
+   "pron": "",
+   "def": "the final winner has the best joy\nहिंदी: जो अंत में हँसे वही असली विजेता",
+   "examples": [
+    "Don't celebrate yet; he who laughs last laughs longest.",
+    "Wait for the end.",
+    "They mocked his small shop, but he who laughs last laughs longest.",
+    "The underdog won the final; he who laughs last laughs longest."
+   ]
+  },
+  {
+   "id": "pack4-card-796",
+   "mode": "vocab",
+   "word": "Honesty is the best policy",
+   "pron": "",
+   "def": "being honest is always wise\nहिंदी: ईमानदारी सबसे अच्छी नीति है",
+   "examples": [
+    "Tell the truth; honesty is the best policy.",
+    "Honesty pays.",
+    "Tell your manager about the mistake; honesty is the best policy.",
+    "The shopkeeper returned extra change, believing honesty is the best policy."
+   ]
+  },
+  {
+   "id": "pack4-card-797",
+   "mode": "vocab",
+   "word": "If it ain't broke, don't fix it",
+   "pron": "",
+   "def": "don't change something that works\nहिंदी: जो ठीक चल रहा है उसे मत छेड़ो",
+   "examples": [
+    "The system works; if it ain't broke, don't fix it.",
+    "Leave it alone.",
+    "The old process still works well; if it ain't broke, don't fix it.",
+    "Why change the recipe? If it ain't broke, don't fix it."
+   ]
+  },
+  {
+   "id": "pack4-card-798",
+   "mode": "vocab",
+   "word": "If the shoe fits, wear it",
+   "pron": "",
+   "def": "accept a criticism that applies to you\nहिंदी: जिसे बात लगे वह माने",
+   "examples": [
+    "He was upset; if the shoe fits, wear it.",
+    "If it applies, accept it.",
+    "The talk on lateness wasn't about you, but if the shoe fits, wear it.",
+    "If you feel the comment was about you, if the shoe fits, wear it."
+   ]
+  },
+  {
+   "id": "pack4-card-799",
+   "mode": "vocab",
+   "word": "Ignorance is bliss",
+   "pron": "",
+   "def": "not knowing can be happier\nहिंदी: अज्ञानता में सुख है",
+   "examples": [
+    "He didn't know; ignorance is bliss.",
+    "Sometimes ignorance is bliss.",
+    "I didn't know about the price rise, and ignorance is bliss.",
+    "Sometimes I don't check my bank balance; ignorance is bliss."
+   ]
+  },
+  {
+   "id": "pack4-card-800",
+   "mode": "vocab",
+   "word": "It takes two to tango",
+   "pron": "",
+   "def": "both sides are responsible\nहिंदी: ताली दोनों हाथों से बजती है",
+   "examples": [
+    "It was not only him; it takes two to tango.",
+    "Both argued.",
+    "The argument wasn't only her fault; it takes two to tango.",
+    "Both teams caused the delay, because it takes two to tango."
+   ]
+  },
+  {
+   "id": "pack4-card-801",
+   "mode": "vocab",
+   "word": "It's no use crying over spilt milk",
+   "pron": "",
+   "def": "there's no point regretting the past\nहिंदी: जो हो गया सो हो गया",
+   "examples": [
+    "Forget it; it's no use crying over spilt milk.",
+    "Let it go.",
+    "The cake burnt, but it's no use crying over spilt milk.",
+    "You missed the deadline; it's no use crying over spilt milk."
+   ]
+  },
+  {
+   "id": "pack4-card-802",
+   "mode": "vocab",
+   "word": "Laughter is the best medicine",
+   "pron": "",
+   "def": "laughing helps you heal and feel better\nहिंदी: हँसी सबसे अच्छी दवा है",
+   "examples": [
+    "Watch a comedy; laughter is the best medicine.",
+    "Keep smiling.",
+    "After a stressful week, a funny movie helped; laughter is the best medicine.",
+    "My grandfather jokes even in hospital; laughter is the best medicine."
+   ]
+  },
+  {
+   "id": "pack4-card-803",
+   "mode": "vocab",
+   "word": "Look before you leap",
+   "pron": "",
+   "def": "think before you act\nहिंदी: कदम उठाने से पहले सोचो",
+   "examples": [
+    "Read the contract; look before you leap.",
+    "Check first.",
+    "Check reviews before paying a deposit; look before you leap.",
+    "Before quitting your job, look before you leap."
+   ]
+  },
+  {
+   "id": "pack4-card-804",
+   "mode": "vocab",
+   "word": "Make hay while the sun shines",
+   "pron": "",
+   "def": "use opportunities while they exist\nहिंदी: मौक़े का फ़ायदा उठाओ",
+   "examples": [
+    "Study now; make hay while the sun shines.",
+    "Work while you can.",
+    "Sales are high this season, so make hay while the sun shines.",
+    "You're young and healthy; make hay while the sun shines."
+   ]
+  },
+  {
+   "id": "pack4-card-805",
+   "mode": "vocab",
+   "word": "Many hands make light work",
+   "pron": "",
+   "def": "work is easy when many people help\nहिंदी: कई हाथ मिलकर काम हल्का कर देते हैं",
+   "examples": [
+    "Let's all help; many hands make light work.",
+    "Teamwork saves time.",
+    "With all the cousins helping, the wedding prep was quick; many hands make light work.",
+    "Let's all clean the office together; many hands make light work."
+   ]
+  },
+  {
+   "id": "pack4-card-806",
+   "mode": "vocab",
+   "word": "Money doesn't grow on trees",
+   "pron": "",
+   "def": "money is not easy to get\nहिंदी: पैसे पेड़ पर नहीं उगते",
+   "examples": [
+    "Spend wisely; money doesn't grow on trees.",
+    "Value every rupee.",
+    "Don't buy a new phone every year; money doesn't grow on trees.",
+    "My father always told us money doesn't grow on trees."
+   ]
+  },
+  {
+   "id": "pack4-card-807",
+   "mode": "vocab",
+   "word": "Necessity is the mother of invention",
+   "pron": "",
+   "def": "need drives people to create solutions\nहिंदी: आवश्यकता आविष्कार की जननी है",
+   "examples": [
+    "He built it out of need; necessity is the mother of invention.",
+    "Problems spark ideas.",
+    "With no ladder, he used a table; necessity is the mother of invention.",
+    "The lockdown led to new home businesses; necessity is the mother of invention."
+   ]
+  },
+  {
+   "id": "pack4-card-808",
+   "mode": "vocab",
+   "word": "Never look a gift horse in the mouth",
+   "pron": "",
+   "def": "don't criticise a free gift\nहिंदी: मुफ़्त मिली चीज़ में कमी मत निकालो",
+   "examples": [
+    "Say thanks; never look a gift horse in the mouth.",
+    "Accept it gratefully.",
+    "The free laptop is old, but never look a gift horse in the mouth.",
+    "Don't complain about the free ticket's seat; never look a gift horse in the mouth."
+   ]
+  },
+  {
+   "id": "pack4-card-809",
+   "mode": "vocab",
+   "word": "No pain, no gain",
+   "pron": "",
+   "def": "you must work hard to succeed\nहिंदी: बिना मेहनत के फल नहीं",
+   "examples": [
+    "Train harder; no pain, no gain.",
+    "Effort brings reward.",
+    "She studied every weekend for a year; no pain, no gain.",
+    "The gym trainer kept saying no pain, no gain."
+   ]
+  },
+  {
+   "id": "pack4-card-810",
+   "mode": "vocab",
+   "word": "Out of sight, out of mind",
+   "pron": "",
+   "def": "you forget what you no longer see\nहिंदी: आँख से ओझल, दिल से ओझल",
+   "examples": [
+    "He moved away; out of sight, out of mind.",
+    "Forgotten once gone.",
+    "I forgot to water the plants on the balcony; out of sight, out of mind.",
+    "Since moving abroad, my friends rarely call; out of sight, out of mind."
+   ]
+  },
+  {
+   "id": "pack4-card-811",
+   "mode": "vocab",
+   "word": "Practice makes perfect",
+   "pron": "",
+   "def": "repeating improves skill\nहिंदी: अभ्यास से पूर्णता आती है",
+   "examples": [
+    "Keep practising; practice makes perfect.",
+    "Play daily.",
+    "Speak English every day; practice makes perfect.",
+    "My first rotis were round only after months; practice makes perfect."
+   ]
+  },
+  {
+   "id": "pack4-card-812",
+   "mode": "vocab",
+   "word": "Prevention is better than cure",
+   "pron": "",
+   "def": "stopping a problem is better than fixing it\nहिंदी: इलाज से बेहतर है बचाव",
+   "examples": [
+    "Get vaccinated; prevention is better than cure.",
+    "Avoid problems early.",
+    "Wear a helmet; prevention is better than cure.",
+    "Regular check-ups help because prevention is better than cure."
+   ]
+  },
+  {
+   "id": "pack4-card-813",
+   "mode": "vocab",
+   "word": "Rome wasn't built in a day",
+   "pron": "",
+   "def": "great things take time\nहिंदी: रोम एक दिन में नहीं बना",
+   "examples": [
+    "Be patient; Rome wasn't built in a day.",
+    "Success takes time.",
+    "Your English will improve; Rome wasn't built in a day.",
+    "The startup took years to grow, but Rome wasn't built in a day."
+   ]
+  },
+  {
+   "id": "pack4-card-814",
+   "mode": "vocab",
+   "word": "Slow and steady wins the race",
+   "pron": "",
+   "def": "patience and consistency lead to success\nहिंदी: धीमी और स्थिर चाल जीतती है",
+   "examples": [
+    "Don't rush; slow and steady wins the race.",
+    "The tortoise won.",
+    "She saved a little every month and bought a house; slow and steady wins the race.",
+    "Don't cram; slow and steady wins the race."
+   ]
+  },
+  {
+   "id": "pack4-card-815",
+   "mode": "vocab",
+   "word": "The early bird catches the worm",
+   "pron": "",
+   "def": "those who start early succeed\nहिंदी: जो जल्दी उठता है वह फल पाता है",
+   "examples": [
+    "Wake up early; the early bird catches the worm.",
+    "Start early.",
+    "I reach the gym at six to get a machine; the early bird catches the worm.",
+    "Book your train tickets now; the early bird catches the worm."
+   ]
+  },
+  {
+   "id": "pack4-card-816",
+   "mode": "vocab",
+   "word": "The pen is mightier than the sword",
+   "pron": "",
+   "def": "words are more powerful than force\nहिंदी: कलम तलवार से अधिक शक्तिशाली है",
+   "examples": [
+    "Writers shape history; the pen is mightier than the sword.",
+    "Ideas beat weapons.",
+    "One article changed the law; the pen is mightier than the sword.",
+    "Gandhi's letters moved millions; the pen is mightier than the sword."
+   ]
+  },
+  {
+   "id": "pack4-card-817",
+   "mode": "vocab",
+   "word": "The grass is always greener on the other side",
+   "pron": "",
+   "def": "others' situations seem better than yours\nहिंदी: दूर के ढोल सुहावने",
+   "examples": [
+    "He envies others; the grass is always greener on the other side.",
+    "Be content.",
+    "He thinks every other job is better, but the grass is always greener on the other side.",
+    "City people want village life and vice versa; the grass is always greener on the other side."
+   ]
+  },
+  {
+   "id": "pack4-card-818",
+   "mode": "vocab",
+   "word": "Too many cooks spoil the broth",
+   "pron": "",
+   "def": "too many people ruin a task\nहिंदी: ज़्यादा रसोइये खाना बिगाड़ देते हैं",
+   "examples": [
+    "Let one lead; too many cooks spoil the broth.",
+    "Fewer helpers are better.",
+    "Five people edited the poster and it looked messy; too many cooks spoil the broth.",
+    "Let one person lead the design; too many cooks spoil the broth."
+   ]
+  },
+  {
+   "id": "pack4-card-819",
+   "mode": "vocab",
+   "word": "Two wrongs don't make a right",
+   "pron": "",
+   "def": "revenge doesn't fix a wrong\nहिंदी: दो ग़लतियाँ मिलकर सही नहीं बनतीं",
+   "examples": [
+    "Don't retaliate; two wrongs don't make a right.",
+    "Avoid revenge.",
+    "He was rude to you, but two wrongs don't make a right.",
+    "Don't cheat just because others did; two wrongs don't make a right."
+   ]
+  },
+  {
+   "id": "pack4-card-820",
+   "mode": "vocab",
+   "word": "United we stand, divided we fall",
+   "pron": "",
+   "def": "unity gives strength\nहिंदी: एकता में बल है",
+   "examples": [
+    "Stay together; united we stand, divided we fall.",
+    "Unity wins.",
+    "The workers stayed together during the strike; united we stand, divided we fall.",
+    "Our team must support each other; united we stand, divided we fall."
+   ]
+  },
+  {
+   "id": "pack4-card-821",
+   "mode": "vocab",
+   "word": "Variety is the spice of life",
+   "pron": "",
+   "def": "variety makes life interesting\nहिंदी: विविधता जीवन का मसाला है",
+   "examples": [
+    "Try new foods; variety is the spice of life.",
+    "Mix things up.",
+    "We try a new cuisine every weekend; variety is the spice of life.",
+    "Change your routine sometimes; variety is the spice of life."
+   ]
+  },
+  {
+   "id": "pack4-card-822",
+   "mode": "vocab",
+   "word": "Well begun is half done",
+   "pron": "",
+   "def": "a good start is half the work\nहिंदी: अच्छी शुरुआत आधी सफलता है",
+   "examples": [
+    "Start strong; well begun is half done.",
+    "A good start helps.",
+    "Plan your essay before writing; well begun is half done.",
+    "A clear first meeting set up the project; well begun is half done."
+   ]
+  },
+  {
+   "id": "pack4-card-823",
+   "mode": "vocab",
+   "word": "When in Rome, do as the Romans do",
+   "pron": "",
+   "def": "follow local customs\nहिंदी: जैसा देश वैसा भेष",
+   "examples": [
+    "Follow their customs; when in Rome, do as the Romans do.",
+    "Adapt to places.",
+    "In Japan, we bowed to greet people; when in Rome, do as the Romans do.",
+    "At the village wedding, we sat on the floor to eat; when in Rome, do as the Romans do."
+   ]
+  },
+  {
+   "id": "pack4-card-824",
+   "mode": "vocab",
+   "word": "You can't have your cake and eat it too",
+   "pron": "",
+   "def": "you can't enjoy two incompatible things\nहिंदी: आप एक साथ दोनों चीज़ें नहीं पा सकते",
+   "examples": [
+    "Choose one; you can't have your cake and eat it too.",
+    "You can't have both.",
+    "You want a big house and no loan; you can't have your cake and eat it too.",
+    "You can't skip work and get a bonus; you can't have your cake and eat it too."
+   ]
+  },
+  {
+   "id": "pack4-card-825",
+   "mode": "vocab",
+   "word": "You can't teach an old dog new tricks",
+   "pron": "",
+   "def": "it's hard to change old habits\nहिंदी: बूढ़े तोते को पढ़ाना मुश्किल",
+   "examples": [
+    "He won't change; you can't teach an old dog new tricks.",
+    "Habits die hard.",
+    "My grandfather won't use a smartphone; you can't teach an old dog new tricks.",
+    "Some say you can't teach an old dog new tricks, but my mother learned to drive at fifty."
+   ]
+  },
+  {
+   "id": "pack4-card-826",
+   "mode": "vocab",
+   "word": "You reap what you sow",
+   "pron": "",
+   "def": "you face the results of your actions\nहिंदी: जैसा बोओगे वैसा काटोगे",
+   "examples": [
+    "He cheated and lost; you reap what you sow.",
+    "Actions have outcomes.",
+    "She helped others and they helped her back; you reap what you sow.",
+    "He ignored his studies and failed; you reap what you sow."
+   ]
+  },
+  {
+   "id": "pack4-card-827",
+   "mode": "vocab",
+   "word": "A journey of a thousand miles begins with a single step",
+   "pron": "",
+   "def": "big tasks start with small actions\nहिंदी: हज़ार मील का सफ़र पहले क़दम से शुरू होता है",
+   "examples": [
+    "Start today; a journey of a thousand miles begins with a single step.",
+    "Take the first step.",
+    "Write one page today; a journey of a thousand miles begins with a single step.",
+    "Save a hundred rupees this week; a journey of a thousand miles begins with a single step."
+   ]
+  },
+  {
+   "id": "pack4-card-828",
+   "mode": "vocab",
+   "word": "A man is known by the company he keeps",
+   "pron": "",
+   "def": "your friends reflect your character\nहिंदी: संगति का असर पड़ता है",
+   "examples": [
+    "Choose friends wisely; a man is known by the company he keeps.",
+    "Company shapes you.",
+    "His friends are hardworking, and a man is known by the company he keeps.",
+    "My parents warned me that a man is known by the company he keeps."
+   ]
+  },
+  {
+   "id": "pack4-card-829",
+   "mode": "vocab",
+   "word": "A problem shared is a problem halved",
+   "pron": "",
+   "def": "talking about problems makes them lighter\nहिंदी: दुख बाँटने से कम होता है",
+   "examples": [
+    "Talk to someone; a problem shared is a problem halved.",
+    "Share your worries.",
+    "I told my friend about my exam stress; a problem shared is a problem halved.",
+    "Talk to your manager; a problem shared is a problem halved."
+   ]
+  },
+  {
+   "id": "pack4-card-830",
+   "mode": "vocab",
+   "word": "Absence makes the heart grow fonder",
+   "pron": "",
+   "def": "distance increases affection\nहिंदी: दूरी से प्रेम बढ़ता है",
+   "examples": [
+    "She misses him; absence makes the heart grow fonder.",
+    "Distance deepens love.",
+    "After a month abroad, I missed home a lot; absence makes the heart grow fonder.",
+    "My parents call daily since I moved; absence makes the heart grow fonder."
+   ]
+  },
+  {
+   "id": "pack4-card-831",
+   "mode": "vocab",
+   "word": "After a storm comes a calm",
+   "pron": "",
+   "def": "bad times are followed by peace\nहिंदी: तूफ़ान के बाद शांति आती है",
+   "examples": [
+    "Be patient; after a storm comes a calm.",
+    "Peace follows trouble.",
+    "The office was chaotic last week, but after a storm comes a calm.",
+    "Their big fight ended in a hug; after a storm comes a calm."
+   ]
+  },
+  {
+   "id": "pack4-card-832",
+   "mode": "vocab",
+   "word": "All good things must come to an end",
+   "pron": "",
+   "def": "nothing lasts forever\nहिंदी: हर अच्छी चीज़ का अंत होता है",
+   "examples": [
+    "The holidays ended; all good things must come to an end.",
+    "Enjoy while it lasts.",
+    "The college fest is over; all good things must come to an end.",
+    "My favourite show ended this year; all good things must come to an end."
+   ]
+  },
+  {
+   "id": "pack4-card-833",
+   "mode": "vocab",
+   "word": "Appearances can be deceptive",
+   "pron": "",
+   "def": "things may not be as they seem\nहिंदी: दिखावे पर मत जाओ",
+   "examples": [
+    "He looks rich but isn't; appearances can be deceptive.",
+    "Look deeper.",
+    "The quiet student topped the class; appearances can be deceptive.",
+    "The old building looks weak, but appearances can be deceptive."
+   ]
+  },
+  {
+   "id": "pack4-card-834",
+   "mode": "vocab",
+   "word": "As you sow, so shall you reap",
+   "pron": "",
+   "def": "your actions decide your results\nहिंदी: करनी का फल मिलता है",
+   "examples": [
+    "Work honestly; as you sow, so shall you reap.",
+    "Good deeds, good results.",
+    "She was kind to everyone and now has many friends; as you sow, so shall you reap.",
+    "He never studied, and as you sow, so shall you reap."
+   ]
+  },
+  {
+   "id": "pack4-card-835",
+   "mode": "vocab",
+   "word": "Bad news travels fast",
+   "pron": "",
+   "def": "unpleasant news spreads quickly\nहिंदी: बुरी ख़बर हवा की तरह फैलती है",
+   "examples": [
+    "Everyone knew by noon; bad news travels fast.",
+    "Gossip flies.",
+    "The whole office knew about the layoffs by lunch; bad news travels fast.",
+    "My mother heard about my accident before I called; bad news travels fast."
+   ]
+  },
+  {
+   "id": "pack4-card-836",
+   "mode": "vocab",
+   "word": "Be slow to promise and quick to perform",
+   "pron": "",
+   "def": "keep your promises promptly\nहिंदी: वादा सोच-समझकर करो और जल्दी निभाओ",
+   "examples": [
+    "Think before promising; be slow to promise and quick to perform.",
+    "Deliver quickly.",
+    "Don't promise the client a date today; be slow to promise and quick to perform.",
+    "Good managers are slow to promise and quick to perform."
+   ]
+  },
+  {
+   "id": "pack4-card-837",
+   "mode": "vocab",
+   "word": "Better safe than sorry",
+   "pron": "",
+   "def": "being careful is better than regret\nहिंदी: सावधानी हटी, दुर्घटना घटी",
+   "examples": [
+    "Carry an umbrella; better safe than sorry.",
+    "Take precautions.",
+    "Lock the car even for two minutes; better safe than sorry.",
+    "Save your work every few minutes; better safe than sorry."
+   ]
+  },
+  {
+   "id": "pack4-card-838",
+   "mode": "vocab",
+   "word": "Better to light a candle than curse the darkness",
+   "pron": "",
+   "def": "act to fix problems rather than complain\nहिंदी: अँधेरे को कोसने से बेहतर है दीया जलाना",
+   "examples": [
+    "Do something; better to light a candle than curse the darkness.",
+    "Act, don't complain.",
+    "Instead of complaining about dirty streets, she started a clean-up; better to light a candle than curse the darkness.",
+    "Don't just criticise the school; better to light a candle than curse the darkness."
+   ]
+  },
+  {
+   "id": "pack4-card-839",
+   "mode": "vocab",
+   "word": "Cut your coat according to your cloth",
+   "pron": "",
+   "def": "live within your means\nहिंदी: जितनी चादर उतने पैर पसारो",
+   "examples": [
+    "Spend carefully; cut your coat according to your cloth.",
+    "Budget wisely.",
+    "Rent a smaller flat if you must; cut your coat according to your cloth.",
+    "Don't plan a grand wedding on a small salary; cut your coat according to your cloth."
+   ]
+  },
+  {
+   "id": "pack4-card-840",
+   "mode": "vocab",
+   "word": "Do unto others as you would have them do unto you",
+   "pron": "",
+   "def": "treat people as you want to be treated\nहिंदी: दूसरों के साथ वैसा व्यवहार करो जैसा अपने लिए चाहो",
+   "examples": [
+    "Be kind; do unto others as you would have them do unto you.",
+    "Treat others well.",
+    "Be polite to waiters; do unto others as you would have them do unto you.",
+    "Help your new colleagues; do unto others as you would have them do unto you."
+   ]
+  },
+  {
+   "id": "pack4-card-841",
+   "mode": "vocab",
+   "word": "Easy come, easy go",
+   "pron": "",
+   "def": "money got easily is spent easily\nहिंदी: जैसे आया वैसे गया",
+   "examples": [
+    "He won it and lost it; easy come, easy go.",
+    "Wealth vanished.",
+    "He won some money in a quiz and spent it in a day; easy come, easy go.",
+    "My bonus vanished on shopping; easy come, easy go."
+   ]
+  },
+  {
+   "id": "pack4-card-842",
+   "mode": "vocab",
+   "word": "Empty pockets never held anyone back",
+   "pron": "",
+   "def": "poverty can't stop determined people\nहिंदी: ग़रीबी लगन को नहीं रोक सकती",
+   "examples": [
+    "He started with nothing; empty pockets never held anyone back.",
+    "Determination wins.",
+    "He sold tea and later built a big company; empty pockets never held anyone back.",
+    "Many great leaders were born poor; empty pockets never held anyone back."
+   ]
+  },
+  {
+   "id": "pack4-card-843",
+   "mode": "vocab",
+   "word": "Failure is the stepping stone to success",
+   "pron": "",
+   "def": "failures help you succeed\nहिंदी: असफलता सफलता की पहली सीढ़ी है",
+   "examples": [
+    "Don't quit; failure is the stepping stone to success.",
+    "Learn from failing.",
+    "She failed her first startup but learned a lot; failure is the stepping stone to success.",
+    "Don't fear mistakes; failure is the stepping stone to success."
+   ]
+  },
+  {
+   "id": "pack4-card-844",
+   "mode": "vocab",
+   "word": "First come, first served",
+   "pron": "",
+   "def": "those who arrive first get served first\nहिंदी: पहले आओ, पहले पाओ",
+   "examples": [
+    "Queue up; first come, first served.",
+    "Be early.",
+    "Free samples are given first come, first served.",
+    "Seats at the workshop are first come, first served."
+   ]
+  },
+  {
+   "id": "pack4-card-845",
+   "mode": "vocab",
+   "word": "Forgive and forget",
+   "pron": "",
+   "def": "let go of past hurts\nहिंदी: माफ़ करो और भूल जाओ",
+   "examples": [
+    "Let it go; forgive and forget.",
+    "Don't hold grudges.",
+    "Life is short, so forgive and forget.",
+    "After the argument, the brothers decided to forgive and forget."
+   ]
+  },
+  {
+   "id": "pack4-card-846",
+   "mode": "vocab",
+   "word": "Good things come to those who wait",
+   "pron": "",
+   "def": "patience brings rewards\nहिंदी: सब्र का फल मीठा होता है",
+   "examples": [
+    "Be patient; good things come to those who wait.",
+    "Wait calmly.",
+    "The visa took months, but good things come to those who wait.",
+    "Don't rush your career; good things come to those who wait."
+   ]
+  },
+  {
+   "id": "pack4-card-847",
+   "mode": "vocab",
+   "word": "Half a loaf is better than none",
+   "pron": "",
+   "def": "something is better than nothing\nहिंदी: कुछ न होने से थोड़ा होना अच्छा",
+   "examples": [
+    "Accept the offer; half a loaf is better than none.",
+    "Take what you get.",
+    "The salary is lower than I hoped, but half a loaf is better than none.",
+    "We got a partial refund; half a loaf is better than none."
+   ]
+  },
+  {
+   "id": "pack4-card-848",
+   "mode": "vocab",
+   "word": "He that goes a-borrowing goes a-sorrowing",
+   "pron": "",
+   "def": "borrowing leads to trouble\nहिंदी: उधार लेने वाला दुख पाता है",
+   "examples": [
+    "Avoid loans; he that goes a-borrowing goes a-sorrowing.",
+    "Debt hurts.",
+    "He kept taking loans and was always stressed; he that goes a-borrowing goes a-sorrowing.",
+    "My grandmother warned me that he that goes a-borrowing goes a-sorrowing."
+   ]
+  },
+  {
+   "id": "pack4-card-849",
+   "mode": "vocab",
+   "word": "Health is wealth",
+   "pron": "",
+   "def": "good health is the greatest treasure\nहिंदी: स्वास्थ्य ही धन है",
+   "examples": [
+    "Exercise daily; health is wealth.",
+    "Protect your health.",
+    "Spend on good food and sleep; health is wealth.",
+    "After his illness, he understood that health is wealth."
+   ]
+  },
+  {
+   "id": "pack4-card-850",
+   "mode": "vocab",
+   "word": "History repeats itself",
+   "pron": "",
+   "def": "events tend to happen again\nहिंदी: इतिहास स्वयं को दोहराता है",
+   "examples": [
+    "Learn from the past; history repeats itself.",
+    "Mistakes recur.",
+    "Prices crashed again after the boom; history repeats itself.",
+    "If we ignore past mistakes, history repeats itself."
+   ]
+  },
+  {
+   "id": "pack4-card-851",
+   "mode": "vocab",
+   "word": "Hope for the best, prepare for the worst",
+   "pron": "",
+   "def": "be optimistic but ready\nहिंदी: उम्मीद अच्छी रखो, तैयारी बुरे की रखो",
+   "examples": [
+    "Carry backup; hope for the best, prepare for the worst.",
+    "Be ready.",
+    "Book a backup hotel too; hope for the best, prepare for the worst.",
+    "Before the interview, hope for the best, prepare for the worst."
+   ]
+  },
+  {
+   "id": "pack4-card-852",
+   "mode": "vocab",
+   "word": "Idle hands are the devil's workshop",
+   "pron": "",
+   "def": "lazy people get into trouble\nहिंदी: ख़ाली दिमाग़ शैतान का घर",
+   "examples": [
+    "Keep busy; idle hands are the devil's workshop.",
+    "Idleness breeds trouble.",
+    "Keep the kids busy in summer; idle hands are the devil's workshop.",
+    "My father always says idle hands are the devil's workshop."
+   ]
+  },
+  {
+   "id": "pack4-card-853",
+   "mode": "vocab",
+   "word": "It is never too late to learn",
+   "pron": "",
+   "def": "you can learn at any age\nहिंदी: सीखने की कोई उम्र नहीं होती",
+   "examples": [
+    "He studied at sixty; it is never too late to learn.",
+    "Learn always.",
+    "My mother learned computers at fifty; it is never too late to learn.",
+    "Join the course; it is never too late to learn."
+   ]
+  },
+  {
+   "id": "pack4-card-854",
+   "mode": "vocab",
+   "word": "It never rains but it pours",
+   "pron": "",
+   "def": "bad things come together\nहिंदी: मुसीबत अकेली नहीं आती",
+   "examples": [
+    "I lost my job and phone; it never rains but it pours.",
+    "Troubles come in bunches.",
+    "My car broke down and then it started raining; it never rains but it pours.",
+    "Three clients complained on the same day; it never rains but it pours."
+   ]
+  },
+  {
+   "id": "pack4-card-855",
+   "mode": "vocab",
+   "word": "Knowledge is power",
+   "pron": "",
+   "def": "learning gives strength\nहिंदी: ज्ञान ही शक्ति है",
+   "examples": [
+    "Read more; knowledge is power.",
+    "Knowledge helps.",
+    "Read the contract carefully; knowledge is power.",
+    "Learning about your rights helps you; knowledge is power."
+   ]
+  },
+  {
+   "id": "pack4-card-856",
+   "mode": "vocab",
+   "word": "Least said, soonest mended",
+   "pron": "",
+   "def": "the less you say, the sooner a quarrel heals\nहिंदी: कम बोलने से झगड़ा जल्दी मिटता है",
+   "examples": [
+    "Don't argue; least said, soonest mended.",
+    "Stay quiet.",
+    "Don't reply to the angry email; least said, soonest mended.",
+    "After the argument, she kept quiet; least said, soonest mended."
+   ]
+  },
+  {
+   "id": "pack4-card-857",
+   "mode": "vocab",
+   "word": "Let bygones be bygones",
+   "pron": "",
+   "def": "forget past quarrels\nहिंदी: बीती बातों को जाने दो",
+   "examples": [
+    "Shake hands; let bygones be bygones.",
+    "Forget the past.",
+    "The old friends met after years and agreed to let bygones be bygones.",
+    "It's a new year; let bygones be bygones."
+   ]
+  },
+  {
+   "id": "pack4-card-858",
+   "mode": "vocab",
+   "word": "Life is what you make it",
+   "pron": "",
+   "def": "your attitude shapes your life\nहिंदी: ज़िंदगी वैसी ही है जैसी आप बनाओ",
+   "examples": [
+    "Stay positive; life is what you make it.",
+    "Shape your life.",
+    "She turned a small job into a great career; life is what you make it.",
+    "Don't blame luck; life is what you make it."
+   ]
+  },
+  {
+   "id": "pack4-card-859",
+   "mode": "vocab",
+   "word": "Look on the bright side",
+   "pron": "",
+   "def": "focus on the positive\nहिंदी: अच्छा पहलू देखो",
+   "examples": [
+    "Lost the match? Look on the bright side.",
+    "Be positive.",
+    "The flight was cancelled, but look on the bright side: an extra day at home.",
+    "Look on the bright side; at least nobody was hurt."
+   ]
+  },
+  {
+   "id": "pack4-card-860",
+   "mode": "vocab",
+   "word": "Love is blind",
+   "pron": "",
+   "def": "people overlook faults in those they love\nहिंदी: प्यार अंधा होता है",
+   "examples": [
+    "She ignored his flaws; love is blind.",
+    "Love misses faults.",
+    "He thinks his girlfriend is perfect; love is blind.",
+    "Parents never see their children's faults; love is blind."
+   ]
+  },
+  {
+   "id": "pack4-card-861",
+   "mode": "vocab",
+   "word": "Make friends with time",
+   "pron": "",
+   "def": "use time well\nहिंदी: समय का सदुपयोग करो",
+   "examples": [
+    "Plan your day; make friends with time.",
+    "Value every hour.",
+    "Make friends with time and plan your study hours.",
+    "Successful people make friends with time and never waste it."
+   ]
+  },
+  {
+   "id": "pack4-card-862",
+   "mode": "vocab",
+   "word": "Misfortunes never come singly",
+   "pron": "",
+   "def": "bad things come in groups\nहिंदी: विपत्ति अकेली नहीं आती",
+   "examples": [
+    "First the flood, then fire; misfortunes never come singly.",
+    "Troubles pile up.",
+    "First the power cut, then the leak; misfortunes never come singly.",
+    "He lost his job and then fell ill; misfortunes never come singly."
+   ]
+  },
+  {
+   "id": "pack4-card-863",
+   "mode": "vocab",
+   "word": "Necessity knows no law",
+   "pron": "",
+   "def": "desperate people break rules\nहिंदी: मजबूरी में नियम नहीं चलते",
+   "examples": [
+    "He stole for food; necessity knows no law.",
+    "Need overrides rules.",
+    "The hungry man took the bread; necessity knows no law.",
+    "During the flood, people broke into empty houses for shelter; necessity knows no law."
+   ]
+  },
+  {
+   "id": "pack4-card-864",
+   "mode": "vocab",
+   "word": "No news is good news",
+   "pron": "",
+   "def": "lack of news means nothing bad has happened\nहिंदी: कोई ख़बर नहीं तो सब ठीक है",
+   "examples": [
+    "He hasn't called; no news is good news.",
+    "Silence is fine.",
+    "The doctor hasn't called back, but no news is good news.",
+    "My son hasn't messaged from the trip; no news is good news."
+   ]
+  },
+  {
+   "id": "pack4-card-865",
+   "mode": "vocab",
+   "word": "Nothing succeeds like success",
+   "pron": "",
+   "def": "success leads to more success\nहिंदी: सफलता सफलता को खींचती है",
+   "examples": [
+    "One win followed another; nothing succeeds like success.",
+    "Wins breed wins.",
+    "After the first hit film, offers poured in; nothing succeeds like success.",
+    "Our first happy client brought ten more; nothing succeeds like success."
+   ]
+  },
+  {
+   "id": "pack4-card-866",
+   "mode": "vocab",
+   "word": "One good turn deserves another",
+   "pron": "",
+   "def": "help those who help you\nहिंदी: एक एहसान का बदला एहसान",
+   "examples": [
+    "She helped me; one good turn deserves another.",
+    "Return favours.",
+    "He helped me move, so I'll help him paint; one good turn deserves another.",
+    "She covered my shift, and one good turn deserves another."
+   ]
+  },
+  {
+   "id": "pack4-card-867",
+   "mode": "vocab",
+   "word": "One man's meat is another man's poison",
+   "pron": "",
+   "def": "what one likes, another may dislike\nहिंदी: एक का भोजन दूसरे का ज़हर",
+   "examples": [
+    "He loves spicy food; one man's meat is another man's poison.",
+    "Tastes differ.",
+    "I love rainy days, but my friend hates them; one man's meat is another man's poison.",
+    "Loud music relaxes him but annoys me; one man's meat is another man's poison."
+   ]
+  },
+  {
+   "id": "pack4-card-868",
+   "mode": "vocab",
+   "word": "Opportunity never knocks twice",
+   "pron": "",
+   "def": "a good chance rarely returns\nहिंदी: मौक़ा बार-बार नहीं आता",
+   "examples": [
+    "Grab it now; opportunity never knocks twice.",
+    "Seize the day.",
+    "Take the job abroad; opportunity never knocks twice.",
+    "He refused the scholarship and regretted it; opportunity never knocks twice."
+   ]
+  },
+  {
+   "id": "pack4-card-869",
+   "mode": "vocab",
+   "word": "Patience is a virtue",
+   "pron": "",
+   "def": "being patient is a good quality\nहिंदी: धैर्य एक सद्गुण है",
+   "examples": [
+    "Wait calmly; patience is a virtue.",
+    "Stay patient.",
+    "The queue is long, but patience is a virtue.",
+    "Learning a language takes time; patience is a virtue."
+   ]
+  },
+  {
+   "id": "pack4-card-870",
+   "mode": "vocab",
+   "word": "Pride goes before a fall",
+   "pron": "",
+   "def": "arrogance leads to failure\nहिंदी: घमंड का सिर नीचा",
+   "examples": [
+    "He boasted and lost; pride goes before a fall.",
+    "Stay humble.",
+    "He bragged about winning and then lost badly; pride goes before a fall.",
+    "Stay humble after the promotion; pride goes before a fall."
+   ]
+  },
+  {
+   "id": "pack4-card-871",
+   "mode": "vocab",
+   "word": "Rain before seven, fine by eleven",
+   "pron": "",
+   "def": "early rain clears quickly\nहिंदी: सुबह की बारिश जल्दी थम जाती है",
+   "examples": [
+    "It'll clear up soon; rain before seven, fine by eleven.",
+    "Weather lore.",
+    "Don't cancel the picnic; rain before seven, fine by eleven.",
+    "My grandmother says rain before seven, fine by eleven."
+   ]
+  },
+  {
+   "id": "pack4-card-872",
+   "mode": "vocab",
+   "word": "Silence is golden",
+   "pron": "",
+   "def": "saying nothing is often wise\nहिंदी: चुप्पी सोना है",
+   "examples": [
+    "Don't reply; silence is golden.",
+    "Silence is wise.",
+    "When you're angry, silence is golden.",
+    "During the heated meeting, I learned that silence is golden."
+   ]
+  },
+  {
+   "id": "pack4-card-873",
+   "mode": "vocab",
+   "word": "Speech is silver, silence is golden",
+   "pron": "",
+   "def": "sometimes keeping quiet is better\nहिंदी: बोलना चाँदी, चुप रहना सोना",
+   "examples": [
+    "Think before speaking; speech is silver, silence is golden.",
+    "Quiet is better.",
+    "In tough negotiations, speech is silver, silence is golden.",
+    "Before sharing gossip, remember speech is silver, silence is golden."
+   ]
+  },
+  {
+   "id": "pack4-card-874",
+   "mode": "vocab",
+   "word": "Strike while the iron is hot",
+   "pron": "",
+   "def": "act at the right moment\nहिंदी: लोहा गरम हो तभी चोट करो",
+   "examples": [
+    "Ask now; strike while the iron is hot.",
+    "Act promptly.",
+    "The client is happy now, so strike while the iron is hot and ask for the renewal.",
+    "Prices are low; strike while the iron is hot."
+   ]
+  },
+  {
+   "id": "pack4-card-875",
+   "mode": "vocab",
+   "word": "The end justifies the means",
+   "pron": "",
+   "def": "a good result excuses the method\nहिंदी: साध्य साधन को उचित ठहराता है",
+   "examples": [
+    "He cheated claiming the end justifies the means.",
+    "Results matter.",
+    "Lying to win a deal is wrong, even if some say the end justifies the means.",
+    "I don't believe the end justifies the means."
+   ]
+  },
+  {
+   "id": "pack4-card-876",
+   "mode": "vocab",
+   "word": "The best things in life are free",
+   "pron": "",
+   "def": "joy doesn't need money\nहिंदी: ज़िंदगी की सबसे अच्छी चीज़ें मुफ़्त हैं",
+   "examples": [
+    "Walk in the park; the best things in life are free.",
+    "Enjoy simple joys.",
+    "A sunset on the beach costs nothing; the best things in life are free.",
+    "Laughing with family proves the best things in life are free."
+   ]
+  },
+  {
+   "id": "pack4-card-877",
+   "mode": "vocab",
+   "word": "The darkest hour is just before the dawn",
+   "pron": "",
+   "def": "things are worst before they improve\nहिंदी: सबसे घना अँधेरा भोर से ठीक पहले होता है",
+   "examples": [
+    "Hold on; the darkest hour is just before the dawn.",
+    "Hope returns.",
+    "Exams are hardest just before results; the darkest hour is just before the dawn.",
+    "Don't give up now; the darkest hour is just before the dawn."
+   ]
+  },
+  {
+   "id": "pack4-card-878",
+   "mode": "vocab",
+   "word": "The proof of the pudding is in the eating",
+   "pron": "",
+   "def": "you judge by trying\nहिंदी: परिणाम से ही परख होती है",
+   "examples": [
+    "Try it; the proof of the pudding is in the eating.",
+    "Test it.",
+    "The new recipe sounds odd, but the proof of the pudding is in the eating.",
+    "The plan looks good on paper, but the proof of the pudding is in the eating."
+   ]
+  },
+  {
+   "id": "pack4-card-879",
+   "mode": "vocab",
+   "word": "The squeaky wheel gets the grease",
+   "pron": "",
+   "def": "the loudest complainer gets attention\nहिंदी: जो रोता है उसे ही ध्यान मिलता है",
+   "examples": [
+    "Speak up; the squeaky wheel gets the grease.",
+    "Complain to be heard.",
+    "She complained daily and got her laptop fixed first; the squeaky wheel gets the grease.",
+    "In big offices, the squeaky wheel gets the grease."
+   ]
+  },
+  {
+   "id": "pack4-card-880",
+   "mode": "vocab",
+   "word": "There is no smoke without fire",
+   "pron": "",
+   "def": "rumours usually have some truth\nहिंदी: बिना आग के धुआँ नहीं उठता",
+   "examples": [
+    "Maybe it's true; there's no smoke without fire.",
+    "Rumours hint at truth.",
+    "Everyone says the company is in trouble; there is no smoke without fire.",
+    "The rumours about the manager may be true; there is no smoke without fire."
+   ]
+  },
+  {
+   "id": "pack4-card-881",
+   "mode": "vocab",
+   "word": "Time and tide wait for no man",
+   "pron": "",
+   "def": "time doesn't wait for anyone\nहिंदी: समय किसी की प्रतीक्षा नहीं करता",
+   "examples": [
+    "Hurry up; time and tide wait for no man.",
+    "Don't delay.",
+    "The train left on time without us; time and tide wait for no man.",
+    "Submit your form today; time and tide wait for no man."
+   ]
+  },
+  {
+   "id": "pack4-card-882",
+   "mode": "vocab",
+   "word": "Time is money",
+   "pron": "",
+   "def": "time is valuable\nहिंदी: समय ही धन है",
+   "examples": [
+    "Don't waste it; time is money.",
+    "Value time.",
+    "Short meetings save everyone time, and time is money.",
+    "Freelancers know that time is money."
+   ]
+  },
+  {
+   "id": "pack4-card-883",
+   "mode": "vocab",
+   "word": "To err is human, to forgive divine",
+   "pron": "",
+   "def": "everyone makes mistakes; forgiving is noble\nहिंदी: ग़लती करना इंसान का स्वभाव, माफ़ करना देवत्व",
+   "examples": [
+    "Forgive him; to err is human, to forgive divine.",
+    "Be forgiving.",
+    "He apologised sincerely; to err is human, to forgive divine.",
+    "Everyone makes mistakes at work; to err is human, to forgive divine."
+   ]
+  },
+  {
+   "id": "pack4-card-884",
+   "mode": "vocab",
+   "word": "Truth is stranger than fiction",
+   "pron": "",
+   "def": "real events can be odder than stories\nहिंदी: सच कल्पना से अधिक विचित्र होता है",
+   "examples": [
+    "It really happened; truth is stranger than fiction.",
+    "Reality surprises.",
+    "He met his long-lost brother on a train; truth is stranger than fiction.",
+    "That news story sounds like a film; truth is stranger than fiction."
+   ]
+  },
+  {
+   "id": "pack4-card-885",
+   "mode": "vocab",
+   "word": "Where there is a will, there is a way",
+   "pron": "",
+   "def": "determined people find solutions\nहिंदी: जहाँ चाह वहाँ राह",
+   "examples": [
+    "Keep trying; where there is a will, there is a way.",
+    "Willpower wins.",
+    "She studied by streetlight and became a doctor; where there is a will, there is a way.",
+    "We'll find the money somehow; where there is a will, there is a way."
+   ]
+  },
+  {
+   "id": "pack4-card-886",
+   "mode": "vocab",
+   "word": "Winners never quit and quitters never win",
+   "pron": "",
+   "def": "persistence leads to victory\nहिंदी: जो हार नहीं मानते वही जीतते हैं",
+   "examples": [
+    "Keep going; winners never quit and quitters never win.",
+    "Never quit.",
+    "The coach told us that winners never quit and quitters never win.",
+    "Remember, winners never quit and quitters never win."
+   ]
+  },
+  {
+   "id": "pack4-card-887",
+   "mode": "vocab",
+   "word": "You can't make an omelette without breaking eggs",
+   "pron": "",
+   "def": "progress requires some sacrifice\nहिंदी: बिना नुकसान उठाए कुछ नहीं मिलता",
+   "examples": [
+    "Accept the cost; you can't make an omelette without breaking eggs.",
+    "Sacrifice is needed.",
+    "Moving offices will be messy; you can't make an omelette without breaking eggs.",
+    "Some customers won't like the change, but you can't make an omelette without breaking eggs."
+   ]
+  },
+  {
+   "id": "pack4-card-888",
+   "mode": "vocab",
+   "word": "Learn to walk before you run",
+   "pron": "",
+   "def": "master basics first\nहिंदी: पहले चलना सीखो फिर दौड़ना",
+   "examples": [
+    "Start simple; learn to walk before you run.",
+    "Basics first.",
+    "Learn basic grammar first; learn to walk before you run.",
+    "Don't apply for senior roles yet; learn to walk before you run."
+   ]
+  },
+  {
+   "id": "pack4-card-889",
+   "mode": "vocab",
+   "word": "Look after the pennies and the pounds will look after themselves",
+   "pron": "",
+   "def": "small savings add up\nहिंदी: पैसे-पैसे जोड़ने से धन बनता है",
+   "examples": [
+    "Save daily; look after the pennies and the pounds will look after themselves.",
+    "Little savings grow.",
+    "Skip small daily luxuries; look after the pennies and the pounds will look after themselves.",
+    "My grandfather saved coins and always said look after the pennies and the pounds will look after themselves."
+   ]
+  }
+ ]
+}

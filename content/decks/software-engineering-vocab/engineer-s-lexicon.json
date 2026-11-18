@@ -1,0 +1,151 @@
+{
+ "id": "pack1-deck-1",
+ "categoryId": "pack1-cat-1",
+ "title": "Engineer's Lexicon",
+ "sub": "Terms every software engineer should own.",
+ "cards": [
+  {
+   "id": "pack1-card-5",
+   "mode": "vocab",
+   "word": "Memoization",
+   "pron": "/ˌmɛmoʊaɪˈzeɪʃən/",
+   "def": "Caching a function's results so repeated calls with the same input are fast.",
+   "examples": [
+    "Memoization cut the recursive Fibonacci from exponential to linear time.",
+    "We added memoization to the price calculator to avoid repeat work.",
+    "Memoization trades memory for speed.",
+    "The interviewer asked me to improve the solution with memoization."
+   ]
+  },
+  {
+   "id": "pack1-card-11",
+   "mode": "vocab",
+   "word": "Encapsulation",
+   "pron": "/ɪnˌkæpsjʊˈleɪʃən/",
+   "def": "Bundling data with the methods that operate on it and restricting outside access.",
+   "examples": [
+    "Encapsulation keeps the account balance private.",
+    "Encapsulation means other classes can't change the balance directly.",
+    "Good encapsulation makes code easier to change safely.",
+    "We broke encapsulation by making every field public."
+   ]
+  },
+  {
+   "id": "pack1-card-14",
+   "mode": "vocab",
+   "word": "Mutex",
+   "pron": "/ˈmjuːtɛks/",
+   "def": "A lock ensuring only one thread accesses a resource at a time.",
+   "examples": [
+    "Guard the shared counter with a mutex.",
+    "Two threads waited forever because each held a mutex the other needed.",
+    "Release the mutex as soon as the update is done.",
+    "A mutex prevents two users from booking the same seat at once."
+   ]
+  },
+  {
+   "id": "pack1-card-16",
+   "mode": "vocab",
+   "word": "Refactoring debt",
+   "pron": "/riːˈfæktərɪŋ dɛt/",
+   "def": "Accumulated mess that makes the next change harder than it should be.",
+   "examples": [
+    "Refactoring debt slowed every feature in the legacy module.",
+    "We set aside time each sprint to pay down refactoring debt.",
+    "Refactoring debt builds up when deadlines are always tight.",
+    "New joiners struggle most with code full of refactoring debt."
+   ]
+  },
+  {
+   "id": "pack1-card-24",
+   "mode": "vocab",
+   "word": "Idiom",
+   "pron": "/ˈɪdiəm/",
+   "def": "A pattern considered natural and conventional in a language.",
+   "examples": [
+    "Using list comprehensions is the Pythonic idiom.",
+    "Using try-with-resources is the Java idiom for closing files.",
+    "Learn the idioms of a language, not just its syntax.",
+    "Code reviewers asked me to follow the team's idiom for error handling."
+   ]
+  },
+  {
+   "id": "pack1-card-26",
+   "mode": "vocab",
+   "word": "Amortized",
+   "pron": "/ˈæmərtaɪzd/",
+   "def": "Averaged over many operations rather than the worst single case.",
+   "examples": [
+    "Appending to a dynamic array is amortized O(1).",
+    "The amortized cost of each insert is low, even if some are slow.",
+    "Amortized analysis looks at the average over many operations.",
+    "Hash table lookups are amortized constant time."
+   ]
+  },
+  {
+   "id": "pack1-card-28",
+   "mode": "vocab",
+   "word": "Serialization",
+   "pron": "/ˌsɪəriəlaɪˈzeɪʃən/",
+   "def": "Converting an object into a format that can be stored or transmitted.",
+   "examples": [
+    "Serialization to JSON broke on circular references.",
+    "Serialization lets us save the game state to a file.",
+    "Choose a serialization format that other teams can read.",
+    "Slow serialization was the hidden cost in our API."
+   ]
+  },
+  {
+   "id": "pack1-card-29",
+   "mode": "vocab",
+   "word": "Middleware",
+   "pron": "/ˈmɪdəlwɛr/",
+   "def": "Software that sits between a request and the handler to add shared behavior.",
+   "examples": [
+    "Auth is applied as middleware on every route.",
+    "We added logging middleware to record every request.",
+    "The middleware checks the user's language before the page loads.",
+    "Keep middleware small, because it runs on every call."
+   ]
+  },
+  {
+   "id": "pack1-card-32",
+   "mode": "vocab",
+   "word": "Rate limiting",
+   "pron": "/reɪt ˈlɪmɪtɪŋ/",
+   "def": "Restricting how many requests a client may make in a time window.",
+   "examples": [
+    "Rate limiting stopped the scraper.",
+    "Rate limiting protects the login page from password attacks.",
+    "The API returns a 429 error when rate limiting kicks in.",
+    "We relaxed rate limiting for our biggest customers."
+   ]
+  },
+  {
+   "id": "pack1-card-37",
+   "mode": "vocab",
+   "word": "Linter",
+   "pron": "/ˈlɪntər/",
+   "def": "A tool that analyzes code for style problems and likely bugs.",
+   "examples": [
+    "The linter caught an unused variable.",
+    "Run the linter before you open a pull request.",
+    "Our linter enforces one style across the team.",
+    "The linter warned about a possible null value."
+   ]
+  },
+  {
+   "id": "pack1-card-40",
+   "mode": "vocab",
+   "word": "Yak shaving",
+   "pron": "/jæk ˈʃeɪvɪŋ/",
+   "def": "A chain of small tasks you must do before the one you actually wanted.",
+   "examples": [
+    "Updating the toolchain turned into days of yak shaving.",
+    "I wanted to fix one bug but ended up yak shaving all afternoon.",
+    "Yak shaving is common when setting up a new laptop.",
+    "Stop yak shaving and ask someone for help."
+   ]
+  }
+ ]
+}

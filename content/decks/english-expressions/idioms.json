@@ -1,0 +1,1438 @@
+{
+ "id": "pack4-deck-7",
+ "categoryId": "pack4-cat-2",
+ "title": "Idioms",
+ "sub": "Common idioms with meanings and use.",
+ "cards": [
+  {
+   "id": "pack4-card-658",
+   "mode": "vocab",
+   "word": "a piece of cake",
+   "pron": "",
+   "def": "something very easy\nहिंदी: बहुत आसान काम",
+   "examples": [
+    "The exam was a piece of cake.",
+    "Fixing it was a piece of cake.",
+    "For her, cooking biryani is a piece of cake.",
+    "Once you learn the shortcut, the report is a piece of cake."
+   ]
+  },
+  {
+   "id": "pack4-card-659",
+   "mode": "vocab",
+   "word": "break the ice",
+   "pron": "",
+   "def": "to start a conversation in an awkward situation\nहिंदी: बातचीत की शुरुआत करना / झिझक तोड़ना",
+   "examples": [
+    "He told a joke to break the ice.",
+    "A smile can break the ice.",
+    "The trainer started with a fun game to break the ice.",
+    "I broke the ice by asking about her hometown."
+   ]
+  },
+  {
+   "id": "pack4-card-660",
+   "mode": "vocab",
+   "word": "hit the nail on the head",
+   "pron": "",
+   "def": "to describe exactly the right thing\nहिंदी: बिल्कुल सही बात कहना",
+   "examples": [
+    "You hit the nail on the head.",
+    "She hit the nail on the head about costs.",
+    "When he said we need better planning, he hit the nail on the head.",
+    "The review hit the nail on the head about the slow service."
+   ]
+  },
+  {
+   "id": "pack4-card-661",
+   "mode": "vocab",
+   "word": "once in a blue moon",
+   "pron": "",
+   "def": "very rarely\nहिंदी: कभी-कभार / बहुत कम",
+   "examples": [
+    "He visits once in a blue moon.",
+    "We eat out once in a blue moon.",
+    "My brother calls me once in a blue moon.",
+    "Our team gets a free lunch once in a blue moon."
+   ]
+  },
+  {
+   "id": "pack4-card-662",
+   "mode": "vocab",
+   "word": "the ball is in your court",
+   "pron": "",
+   "def": "it is your turn to act\nहिंदी: अब फ़ैसला आपके हाथ में है",
+   "examples": [
+    "I've made my offer; the ball is in your court.",
+    "The ball is in their court now.",
+    "I've sent my resume; now the ball is in the recruiter's court.",
+    "We've given our best price, so the ball is in your court."
+   ]
+  },
+  {
+   "id": "pack4-card-663",
+   "mode": "vocab",
+   "word": "bite the bullet",
+   "pron": "",
+   "def": "to face something unpleasant bravely\nहिंदी: कड़वा घूँट पीना / हिम्मत करके सामना करना",
+   "examples": [
+    "I had to bite the bullet and apologise.",
+    "He bit the bullet and paid.",
+    "I bit the bullet and told my manager about the mistake.",
+    "She bit the bullet and booked the dental appointment."
+   ]
+  },
+  {
+   "id": "pack4-card-664",
+   "mode": "vocab",
+   "word": "cost an arm and a leg",
+   "pron": "",
+   "def": "to be very expensive\nहिंदी: बहुत महँगा होना",
+   "examples": [
+    "The car cost an arm and a leg.",
+    "Houses there cost an arm and a leg.",
+    "The wedding cost an arm and a leg.",
+    "Fixing the phone screen cost me an arm and a leg."
+   ]
+  },
+  {
+   "id": "pack4-card-665",
+   "mode": "vocab",
+   "word": "under the weather",
+   "pron": "",
+   "def": "slightly ill\nहिंदी: तबीयत ठीक न होना",
+   "examples": [
+    "I'm feeling under the weather.",
+    "She's under the weather today.",
+    "I'm a bit under the weather, so I'll work from home.",
+    "The kids were under the weather after the trip."
+   ]
+  },
+  {
+   "id": "pack4-card-666",
+   "mode": "vocab",
+   "word": "spill the beans",
+   "pron": "",
+   "def": "to reveal a secret\nहिंदी: राज़ खोल देना",
+   "examples": [
+    "Who spilled the beans about the party?",
+    "He spilled the beans.",
+    "Don't spill the beans about the surprise party.",
+    "My sister spilled the beans about my new job before I could."
+   ]
+  },
+  {
+   "id": "pack4-card-667",
+   "mode": "vocab",
+   "word": "let the cat out of the bag",
+   "pron": "",
+   "def": "to reveal a secret by mistake\nहिंदी: ग़लती से राज़ खोल देना",
+   "examples": [
+    "She let the cat out of the bag.",
+    "Don't let the cat out of the bag.",
+    "Mum let the cat out of the bag about the gift.",
+    "He let the cat out of the bag about the merger in the canteen."
+   ]
+  },
+  {
+   "id": "pack4-card-668",
+   "mode": "vocab",
+   "word": "cut corners",
+   "pron": "",
+   "def": "to do something cheaply or carelessly\nहिंदी: कम लागत में काम निपटाना / कसर छोड़ना",
+   "examples": [
+    "They cut corners on safety.",
+    "Don't cut corners on quality.",
+    "The builder cut corners, and now the walls are cracking.",
+    "If we cut corners on testing, customers will find the bugs."
+   ]
+  },
+  {
+   "id": "pack4-card-669",
+   "mode": "vocab",
+   "word": "call it a day",
+   "pron": "",
+   "def": "to stop working for the day\nहिंदी: आज का काम बंद करना",
+   "examples": [
+    "Let's call it a day.",
+    "We worked till six, then called it a day.",
+    "It's nearly nine; let's call it a day.",
+    "After painting two rooms, we called it a day."
+   ]
+  },
+  {
+   "id": "pack4-card-670",
+   "mode": "vocab",
+   "word": "back to square one",
+   "pron": "",
+   "def": "back to the beginning\nहिंदी: फिर शुरुआत से",
+   "examples": [
+    "The deal collapsed; we're back to square one.",
+    "We're back to square one.",
+    "The client rejected the design, so we're back to square one.",
+    "I lost my notes and was back to square one."
+   ]
+  },
+  {
+   "id": "pack4-card-671",
+   "mode": "vocab",
+   "word": "get cold feet",
+   "pron": "",
+   "def": "to become nervous before something\nहिंदी: ऐन मौक़े पर घबरा जाना",
+   "examples": [
+    "He got cold feet before the wedding.",
+    "She got cold feet.",
+    "I got cold feet before my first presentation.",
+    "The buyer got cold feet and cancelled the flat deal."
+   ]
+  },
+  {
+   "id": "pack4-card-672",
+   "mode": "vocab",
+   "word": "in hot water",
+   "pron": "",
+   "def": "in trouble\nहिंदी: मुसीबत में",
+   "examples": [
+    "He's in hot water with the boss.",
+    "She landed in hot water.",
+    "He'll be in hot water if he misses another deadline.",
+    "The company is in hot water over the data leak."
+   ]
+  },
+  {
+   "id": "pack4-card-673",
+   "mode": "vocab",
+   "word": "on the fence",
+   "pron": "",
+   "def": "undecided\nहिंदी: असमंजस में",
+   "examples": [
+    "I'm still on the fence about it.",
+    "He's on the fence.",
+    "I'm on the fence about buying a new phone.",
+    "Many voters are still on the fence."
+   ]
+  },
+  {
+   "id": "pack4-card-674",
+   "mode": "vocab",
+   "word": "throw in the towel",
+   "pron": "",
+   "def": "to give up\nहिंदी: हार मान लेना",
+   "examples": [
+    "He refused to throw in the towel.",
+    "She threw in the towel.",
+    "Don't throw in the towel after one failed interview.",
+    "The startup threw in the towel after two years."
+   ]
+  },
+  {
+   "id": "pack4-card-675",
+   "mode": "vocab",
+   "word": "the last straw",
+   "pron": "",
+   "def": "the final problem that makes you lose patience\nहिंदी: सब्र का आख़िरी बूँद",
+   "examples": [
+    "His rudeness was the last straw.",
+    "That was the last straw.",
+    "Being late for the third time was the last straw for the manager.",
+    "The rent increase was the last straw, so we moved."
+   ]
+  },
+  {
+   "id": "pack4-card-676",
+   "mode": "vocab",
+   "word": "a blessing in disguise",
+   "pron": "",
+   "def": "something good that seemed bad\nहिंदी: छिपा हुआ वरदान",
+   "examples": [
+    "Losing the job was a blessing in disguise.",
+    "It turned out a blessing in disguise.",
+    "Missing the train was a blessing in disguise; I met an old friend.",
+    "The rain was a blessing in disguise for the farmers."
+   ]
+  },
+  {
+   "id": "pack4-card-677",
+   "mode": "vocab",
+   "word": "a dime a dozen",
+   "pron": "",
+   "def": "very common\nहिंदी: आम / बहुत सस्ता और सामान्य",
+   "examples": [
+    "Such shops are a dime a dozen.",
+    "Good ideas are a dime a dozen.",
+    "Phone repair shops are a dime a dozen in this market.",
+    "Online courses are a dime a dozen, but good ones are rare."
+   ]
+  },
+  {
+   "id": "pack4-card-678",
+   "mode": "vocab",
+   "word": "add fuel to the fire",
+   "pron": "",
+   "def": "to make a bad situation worse\nहिंदी: आग में घी डालना",
+   "examples": [
+    "His comment added fuel to the fire.",
+    "Don't add fuel to the fire.",
+    "Shouting back will only add fuel to the fire.",
+    "The rumours added fuel to the fire between the teams."
+   ]
+  },
+  {
+   "id": "pack4-card-679",
+   "mode": "vocab",
+   "word": "barking up the wrong tree",
+   "pron": "",
+   "def": "looking in the wrong place\nहिंदी: ग़लत जगह कोशिश करना",
+   "examples": [
+    "You're barking up the wrong tree.",
+    "They were barking up the wrong tree.",
+    "If you think I took your pen, you're barking up the wrong tree.",
+    "The police were barking up the wrong tree for weeks."
+   ]
+  },
+  {
+   "id": "pack4-card-680",
+   "mode": "vocab",
+   "word": "bite off more than you can chew",
+   "pron": "",
+   "def": "to take on too much\nहिंदी: क्षमता से ज़्यादा काम ले लेना",
+   "examples": [
+    "He bit off more than he could chew.",
+    "Don't bite off more than you can chew.",
+    "I bit off more than I could chew by taking two jobs.",
+    "Don't bite off more than you can chew on your first project."
+   ]
+  },
+  {
+   "id": "pack4-card-681",
+   "mode": "vocab",
+   "word": "burn the midnight oil",
+   "pron": "",
+   "def": "to work late into the night\nहिंदी: देर रात तक जागकर काम करना",
+   "examples": [
+    "She burned the midnight oil before exams.",
+    "We burned the midnight oil.",
+    "We burned the midnight oil to finish the proposal.",
+    "Students burn the midnight oil before board exams."
+   ]
+  },
+  {
+   "id": "pack4-card-682",
+   "mode": "vocab",
+   "word": "burn bridges",
+   "pron": "",
+   "def": "to destroy relationships\nहिंदी: रिश्ते बिगाड़ देना",
+   "examples": [
+    "Don't burn your bridges when you resign.",
+    "He burned bridges with his boss.",
+    "Be polite when you leave a company; never burn bridges.",
+    "He burned bridges with his old friends after the argument."
+   ]
+  },
+  {
+   "id": "pack4-card-683",
+   "mode": "vocab",
+   "word": "by the skin of your teeth",
+   "pron": "",
+   "def": "only just\nहिंदी: बाल-बाल बचकर",
+   "examples": [
+    "He passed by the skin of his teeth.",
+    "We escaped by the skin of our teeth.",
+    "I caught the flight by the skin of my teeth.",
+    "The team won by the skin of their teeth."
+   ]
+  },
+  {
+   "id": "pack4-card-684",
+   "mode": "vocab",
+   "word": "catch someone red-handed",
+   "pron": "",
+   "def": "to find someone doing wrong\nहिंदी: रंगे हाथों पकड़ना",
+   "examples": [
+    "The thief was caught red-handed.",
+    "They caught him red-handed.",
+    "The shopkeeper caught the boy red-handed stealing sweets.",
+    "She was caught red-handed copying in the exam."
+   ]
+  },
+  {
+   "id": "pack4-card-685",
+   "mode": "vocab",
+   "word": "come rain or shine",
+   "pron": "",
+   "def": "regardless of the weather or circumstances\nहिंदी: चाहे कुछ भी हो",
+   "examples": [
+    "I'll be there come rain or shine.",
+    "He walks daily, come rain or shine.",
+    "The milkman comes every morning, come rain or shine.",
+    "Our team meets every Monday, come rain or shine."
+   ]
+  },
+  {
+   "id": "pack4-card-686",
+   "mode": "vocab",
+   "word": "cry over spilt milk",
+   "pron": "",
+   "def": "to worry about the past\nहिंदी: बीती बात पर रोना",
+   "examples": [
+    "There's no use crying over spilt milk.",
+    "Don't cry over spilt milk.",
+    "The deal is lost; don't cry over spilt milk.",
+    "Crying over spilt milk won't change your marks."
+   ]
+  },
+  {
+   "id": "pack4-card-687",
+   "mode": "vocab",
+   "word": "cross that bridge when we come to it",
+   "pron": "",
+   "def": "deal with a problem when it happens\nहिंदी: जब वक़्त आएगा तब देखेंगे",
+   "examples": [
+    "We'll cross that bridge when we come to it.",
+    "Let's cross that bridge later.",
+    "If the flight is cancelled, we'll cross that bridge when we come to it.",
+    "Don't worry about the visa yet; cross that bridge when we come to it."
+   ]
+  },
+  {
+   "id": "pack4-card-688",
+   "mode": "vocab",
+   "word": "drop in the ocean",
+   "pron": "",
+   "def": "a very small amount compared to the need\nहिंदी: ऊँट के मुँह में जीरा",
+   "examples": [
+    "Her donation was a drop in the ocean.",
+    "It's a drop in the ocean.",
+    "The government's aid was a drop in the ocean.",
+    "Saving a hundred rupees is a drop in the ocean for a house."
+   ]
+  },
+  {
+   "id": "pack4-card-689",
+   "mode": "vocab",
+   "word": "elephant in the room",
+   "pron": "",
+   "def": "an obvious issue nobody mentions\nहिंदी: ऐसा बड़ा मुद्दा जिस पर कोई बात नहीं करता",
+   "examples": [
+    "Money is the elephant in the room.",
+    "Let's address the elephant in the room.",
+    "The layoffs were the elephant in the room at the party.",
+    "Nobody mentioned the elephant in the room: the delay."
+   ]
+  },
+  {
+   "id": "pack4-card-690",
+   "mode": "vocab",
+   "word": "every cloud has a silver lining",
+   "pron": "",
+   "def": "there is good in every bad situation\nहिंदी: हर बुराई में अच्छाई छिपी होती है",
+   "examples": [
+    "Cheer up, every cloud has a silver lining.",
+    "Remember, every cloud has a silver lining.",
+    "I lost my job but found a better one; every cloud has a silver lining.",
+    "The lockdown was hard, but every cloud has a silver lining."
+   ]
+  },
+  {
+   "id": "pack4-card-691",
+   "mode": "vocab",
+   "word": "fish out of water",
+   "pron": "",
+   "def": "someone in unfamiliar surroundings\nहिंदी: अनजान माहौल में असहज इंसान",
+   "examples": [
+    "He felt like a fish out of water.",
+    "She was a fish out of water there.",
+    "As a vegetarian at the barbecue, I felt like a fish out of water.",
+    "He was a fish out of water at the fashion show."
+   ]
+  },
+  {
+   "id": "pack4-card-692",
+   "mode": "vocab",
+   "word": "get out of hand",
+   "pron": "",
+   "def": "to become uncontrollable\nहिंदी: क़ाबू से बाहर होना",
+   "examples": [
+    "The party got out of hand.",
+    "Things got out of hand.",
+    "The argument got out of hand, and someone called the police.",
+    "Spending can get out of hand during festival sales."
+   ]
+  },
+  {
+   "id": "pack4-card-693",
+   "mode": "vocab",
+   "word": "give someone the cold shoulder",
+   "pron": "",
+   "def": "to ignore someone deliberately\nहिंदी: जानबूझकर अनदेखा करना",
+   "examples": [
+    "She gave him the cold shoulder.",
+    "They gave me the cold shoulder.",
+    "After the argument, my friend gave me the cold shoulder.",
+    "The team gave the new manager the cold shoulder at first."
+   ]
+  },
+  {
+   "id": "pack4-card-694",
+   "mode": "vocab",
+   "word": "go the extra mile",
+   "pron": "",
+   "def": "to make more effort than expected\nहिंदी: उम्मीद से ज़्यादा मेहनत करना",
+   "examples": [
+    "She goes the extra mile for clients.",
+    "He went the extra mile.",
+    "The hotel staff went the extra mile to make our stay special.",
+    "Go the extra mile for customers, and they'll come back."
+   ]
+  },
+  {
+   "id": "pack4-card-695",
+   "mode": "vocab",
+   "word": "hit the books",
+   "pron": "",
+   "def": "to study hard\nहिंदी: जमकर पढ़ाई करना",
+   "examples": [
+    "I need to hit the books tonight.",
+    "He hit the books before exams.",
+    "Exams are next week, so it's time to hit the books.",
+    "She hit the books every evening after work."
+   ]
+  },
+  {
+   "id": "pack4-card-696",
+   "mode": "vocab",
+   "word": "hit the road",
+   "pron": "",
+   "def": "to start a journey\nहिंदी: सफ़र पर निकल पड़ना",
+   "examples": [
+    "Let's hit the road early.",
+    "We hit the road at dawn.",
+    "We need to hit the road by six to avoid traffic.",
+    "After lunch, the family hit the road for Goa."
+   ]
+  },
+  {
+   "id": "pack4-card-697",
+   "mode": "vocab",
+   "word": "hit the sack",
+   "pron": "",
+   "def": "to go to bed\nहिंदी: सोने चले जाना",
+   "examples": [
+    "I'm tired; I'll hit the sack.",
+    "He hit the sack early.",
+    "I have an early flight, so I'll hit the sack now.",
+    "The kids hit the sack right after dinner."
+   ]
+  },
+  {
+   "id": "pack4-card-698",
+   "mode": "vocab",
+   "word": "hold your horses",
+   "pron": "",
+   "def": "to wait and be patient\nहिंदी: ज़रा रुकिए / धीरज रखिए",
+   "examples": [
+    "Hold your horses, I'm coming.",
+    "Hold your horses!",
+    "Hold your horses; we haven't got approval yet.",
+    "Hold your horses before you book the tickets."
+   ]
+  },
+  {
+   "id": "pack4-card-699",
+   "mode": "vocab",
+   "word": "in the same boat",
+   "pron": "",
+   "def": "in the same situation\nहिंदी: एक ही हालात में",
+   "examples": [
+    "We're all in the same boat.",
+    "They're in the same boat.",
+    "Everyone in the office is in the same boat with the new rules.",
+    "All new joiners are in the same boat, so help each other."
+   ]
+  },
+  {
+   "id": "pack4-card-700",
+   "mode": "vocab",
+   "word": "jump the gun",
+   "pron": "",
+   "def": "to act too early\nहिंदी: जल्दबाज़ी करना",
+   "examples": [
+    "Don't jump the gun.",
+    "He jumped the gun and announced it.",
+    "The newspaper jumped the gun and announced the wrong winner.",
+    "Don't jump the gun; wait for the official results."
+   ]
+  },
+  {
+   "id": "pack4-card-701",
+   "mode": "vocab",
+   "word": "keep an eye on",
+   "pron": "",
+   "def": "to watch carefully\nहिंदी: नज़र रखना",
+   "examples": [
+    "Keep an eye on the kids.",
+    "Keep an eye on the clock.",
+    "Can you keep an eye on my bag for a minute?",
+    "Keep an eye on your inbox for the offer letter."
+   ]
+  },
+  {
+   "id": "pack4-card-702",
+   "mode": "vocab",
+   "word": "kill two birds with one stone",
+   "pron": "",
+   "def": "to achieve two things in one go\nहिंदी: एक तीर से दो शिकार",
+   "examples": [
+    "I'll kill two birds with one stone.",
+    "It kills two birds with one stone.",
+    "I visited my parents and the bank in one trip, killing two birds with one stone.",
+    "Cycling to work kills two birds with one stone: exercise and savings."
+   ]
+  },
+  {
+   "id": "pack4-card-703",
+   "mode": "vocab",
+   "word": "leave no stone unturned",
+   "pron": "",
+   "def": "to try every possible way\nहिंदी: कोई कसर नहीं छोड़ना",
+   "examples": [
+    "Police left no stone unturned.",
+    "She left no stone unturned.",
+    "We left no stone unturned to find the lost ring.",
+    "The lawyer left no stone unturned in preparing the case."
+   ]
+  },
+  {
+   "id": "pack4-card-704",
+   "mode": "vocab",
+   "word": "let sleeping dogs lie",
+   "pron": "",
+   "def": "to avoid reopening an old problem\nहिंदी: पुरानी बात को मत कुरेदो",
+   "examples": [
+    "Let sleeping dogs lie.",
+    "It's better to let sleeping dogs lie.",
+    "Don't mention the old fight; let sleeping dogs lie.",
+    "The manager decided to let sleeping dogs lie about the mistake."
+   ]
+  },
+  {
+   "id": "pack4-card-705",
+   "mode": "vocab",
+   "word": "light at the end of the tunnel",
+   "pron": "",
+   "def": "hope after a difficult time\nहिंदी: मुश्किल के बाद उम्मीद की किरण",
+   "examples": [
+    "I can see light at the end of the tunnel.",
+    "There's light at the end of the tunnel.",
+    "After months of treatment, she sees light at the end of the tunnel.",
+    "With one exam left, there's light at the end of the tunnel."
+   ]
+  },
+  {
+   "id": "pack4-card-706",
+   "mode": "vocab",
+   "word": "make ends meet",
+   "pron": "",
+   "def": "to earn just enough to live\nहिंदी: गुज़ारा चलाना",
+   "examples": [
+    "It's hard to make ends meet.",
+    "They barely make ends meet.",
+    "Many families work two jobs to make ends meet.",
+    "Students take part-time jobs to make ends meet."
+   ]
+  },
+  {
+   "id": "pack4-card-707",
+   "mode": "vocab",
+   "word": "miss the boat",
+   "pron": "",
+   "def": "to lose an opportunity\nहिंदी: मौक़ा गँवा देना",
+   "examples": [
+    "He missed the boat on that deal.",
+    "Don't miss the boat.",
+    "I missed the boat on buying shares when they were cheap.",
+    "Apply now or you'll miss the boat."
+   ]
+  },
+  {
+   "id": "pack4-card-708",
+   "mode": "vocab",
+   "word": "on cloud nine",
+   "pron": "",
+   "def": "extremely happy\nहिंदी: बेहद ख़ुश",
+   "examples": [
+    "She was on cloud nine after the win.",
+    "I'm on cloud nine.",
+    "He was on cloud nine after his first salary.",
+    "The couple was on cloud nine on their wedding day."
+   ]
+  },
+  {
+   "id": "pack4-card-709",
+   "mode": "vocab",
+   "word": "out of the blue",
+   "pron": "",
+   "def": "suddenly and unexpectedly\nहिंदी: अचानक / बिना किसी संकेत के",
+   "examples": [
+    "He called me out of the blue.",
+    "The news came out of the blue.",
+    "Out of the blue, my old teacher sent me a message.",
+    "The manager resigned out of the blue."
+   ]
+  },
+  {
+   "id": "pack4-card-710",
+   "mode": "vocab",
+   "word": "pull someone's leg",
+   "pron": "",
+   "def": "to joke with someone\nहिंदी: मज़ाक़ करना / खिंचाई करना",
+   "examples": [
+    "Are you pulling my leg?",
+    "He's just pulling your leg.",
+    "Don't worry, I'm only pulling your leg.",
+    "He pulled my leg about the exam being cancelled."
+   ]
+  },
+  {
+   "id": "pack4-card-711",
+   "mode": "vocab",
+   "word": "pull your socks up",
+   "pron": "",
+   "def": "to try harder to improve\nहिंदी: ज़रा सुधर जाओ / मेहनत बढ़ाओ",
+   "examples": [
+    "You need to pull your socks up.",
+    "Pull your socks up before exams.",
+    "If you want the promotion, you'll have to pull your socks up.",
+    "The team needs to pull its socks up after two bad months."
+   ]
+  },
+  {
+   "id": "pack4-card-712",
+   "mode": "vocab",
+   "word": "rain on someone's parade",
+   "pron": "",
+   "def": "to spoil someone's plans or joy\nहिंदी: ख़ुशी में खलल डालना",
+   "examples": [
+    "Sorry to rain on your parade.",
+    "Don't rain on my parade.",
+    "I hate to rain on your parade, but the event is cancelled.",
+    "A sudden storm rained on our parade at the picnic."
+   ]
+  },
+  {
+   "id": "pack4-card-713",
+   "mode": "vocab",
+   "word": "rule of thumb",
+   "pron": "",
+   "def": "a rough practical guide\nहिंदी: मोटा नियम",
+   "examples": [
+    "As a rule of thumb, save ten percent.",
+    "A rule of thumb is to ask first.",
+    "As a rule of thumb, drink eight glasses of water a day.",
+    "A good rule of thumb is to sleep on big decisions."
+   ]
+  },
+  {
+   "id": "pack4-card-714",
+   "mode": "vocab",
+   "word": "see eye to eye",
+   "pron": "",
+   "def": "to agree\nहिंदी: एकमत होना",
+   "examples": [
+    "We don't see eye to eye on this.",
+    "They see eye to eye.",
+    "My father and I don't see eye to eye on politics.",
+    "The partners finally saw eye to eye on the budget."
+   ]
+  },
+  {
+   "id": "pack4-card-715",
+   "mode": "vocab",
+   "word": "sit on the fence",
+   "pron": "",
+   "def": "to avoid taking sides\nहिंदी: तटस्थ बने रहना",
+   "examples": [
+    "Stop sitting on the fence.",
+    "He sits on the fence.",
+    "You can't sit on the fence forever; choose a side.",
+    "The manager sat on the fence during the team argument."
+   ]
+  },
+  {
+   "id": "pack4-card-716",
+   "mode": "vocab",
+   "word": "speak of the devil",
+   "pron": "",
+   "def": "said when the person you mention appears\nहिंदी: नाम लिया और शैतान हाज़िर",
+   "examples": [
+    "Speak of the devil, here she comes.",
+    "Speak of the devil!",
+    "Speak of the devil, here comes Rahul now.",
+    "We were just talking about you, speak of the devil!"
+   ]
+  },
+  {
+   "id": "pack4-card-717",
+   "mode": "vocab",
+   "word": "steal the show",
+   "pron": "",
+   "def": "to be the most impressive\nहिंदी: महफ़िल लूट लेना",
+   "examples": [
+    "The child stole the show.",
+    "Her performance stole the show.",
+    "The little girl stole the show at the dance competition.",
+    "The dessert stole the show at dinner."
+   ]
+  },
+  {
+   "id": "pack4-card-718",
+   "mode": "vocab",
+   "word": "take it with a pinch of salt",
+   "pron": "",
+   "def": "to not believe completely\nहिंदी: बात पर पूरा यक़ीन न करना",
+   "examples": [
+    "Take his claims with a pinch of salt.",
+    "Take the rumour with a pinch of salt.",
+    "Online reviews should be taken with a pinch of salt.",
+    "Take his promises of a quick raise with a pinch of salt."
+   ]
+  },
+  {
+   "id": "pack4-card-719",
+   "mode": "vocab",
+   "word": "the tip of the iceberg",
+   "pron": "",
+   "def": "a small visible part of a big problem\nहिंदी: बड़ी समस्या का छोटा-सा हिस्सा",
+   "examples": [
+    "These complaints are the tip of the iceberg.",
+    "That's just the tip of the iceberg.",
+    "The leaking tap was the tip of the iceberg; the whole pipe was rotten.",
+    "Those two bugs are just the tip of the iceberg."
+   ]
+  },
+  {
+   "id": "pack4-card-720",
+   "mode": "vocab",
+   "word": "through thick and thin",
+   "pron": "",
+   "def": "in good and bad times\nहिंदी: हर हाल में",
+   "examples": [
+    "They stayed together through thick and thin.",
+    "He supported me through thick and thin.",
+    "My college friends have stood by me through thick and thin.",
+    "A good partner supports you through thick and thin."
+   ]
+  },
+  {
+   "id": "pack4-card-721",
+   "mode": "vocab",
+   "word": "time flies",
+   "pron": "",
+   "def": "time passes quickly\nहिंदी: वक़्त पंख लगाकर उड़ता है",
+   "examples": [
+    "Time flies when you're busy.",
+    "Time flies!",
+    "Time flies; my son is already in college.",
+    "We talked for hours; time flies with old friends."
+   ]
+  },
+  {
+   "id": "pack4-card-722",
+   "mode": "vocab",
+   "word": "to add insult to injury",
+   "pron": "",
+   "def": "to make things worse\nहिंदी: ज़ख़्म पर नमक छिड़कना",
+   "examples": [
+    "To add insult to injury, he laughed.",
+    "Adding insult to injury, it rained.",
+    "My flight was delayed, and to add insult to injury, they lost my bag.",
+    "He was late, and to add insult to injury, he forgot the files."
+   ]
+  },
+  {
+   "id": "pack4-card-723",
+   "mode": "vocab",
+   "word": "turn a blind eye",
+   "pron": "",
+   "def": "to ignore something wrong on purpose\nहिंदी: जानबूझकर अनदेखा करना",
+   "examples": [
+    "Officials turned a blind eye to it.",
+    "He turned a blind eye.",
+    "The teacher turned a blind eye to the students' chatting.",
+    "We can't turn a blind eye to safety problems."
+   ]
+  },
+  {
+   "id": "pack4-card-724",
+   "mode": "vocab",
+   "word": "twist someone's arm",
+   "pron": "",
+   "def": "to persuade by pressure\nहिंदी: दबाव डालकर मनाना",
+   "examples": [
+    "He twisted my arm to join.",
+    "You don't need to twist my arm.",
+    "My friends twisted my arm to come to the party.",
+    "I didn't want dessert, but she twisted my arm."
+   ]
+  },
+  {
+   "id": "pack4-card-725",
+   "mode": "vocab",
+   "word": "up in the air",
+   "pron": "",
+   "def": "undecided\nहिंदी: अधर में / तय नहीं",
+   "examples": [
+    "Our plans are up in the air.",
+    "It's still up in the air.",
+    "The office move is still up in the air.",
+    "My holiday plans are up in the air until my leave is approved."
+   ]
+  },
+  {
+   "id": "pack4-card-726",
+   "mode": "vocab",
+   "word": "a taste of your own medicine",
+   "pron": "",
+   "def": "being treated the way you treat others\nहिंदी: जैसा किया वैसा भरा",
+   "examples": [
+    "He got a taste of his own medicine.",
+    "Give him a taste of his own medicine.",
+    "The prankster got a taste of his own medicine when they tricked him.",
+    "She always interrupts, so we gave her a taste of her own medicine."
+   ]
+  },
+  {
+   "id": "pack4-card-727",
+   "mode": "vocab",
+   "word": "a storm in a teacup",
+   "pron": "",
+   "def": "a big fuss about something small\nहिंदी: मामूली बात पर बड़ा हंगामा",
+   "examples": [
+    "It was a storm in a teacup.",
+    "The row was a storm in a teacup.",
+    "The argument about the seating plan was a storm in a teacup.",
+    "Don't worry; it's a storm in a teacup and will pass."
+   ]
+  },
+  {
+   "id": "pack4-card-728",
+   "mode": "vocab",
+   "word": "at the drop of a hat",
+   "pron": "",
+   "def": "immediately\nहिंदी: ज़रा-सी बात पर तुरंत",
+   "examples": [
+    "He'd fight at the drop of a hat.",
+    "She'd help at the drop of a hat.",
+    "My grandmother can make tea at the drop of a hat.",
+    "He'll travel for work at the drop of a hat."
+   ]
+  },
+  {
+   "id": "pack4-card-729",
+   "mode": "vocab",
+   "word": "better late than never",
+   "pron": "",
+   "def": "doing something late is better than not\nहिंदी: देर आए दुरुस्त आए",
+   "examples": [
+    "Better late than never.",
+    "You came; better late than never.",
+    "He finally paid me back; better late than never.",
+    "I started learning English at forty; better late than never."
+   ]
+  },
+  {
+   "id": "pack4-card-730",
+   "mode": "vocab",
+   "word": "bite your tongue",
+   "pron": "",
+   "def": "to stop yourself from speaking\nहिंदी: ज़बान दबा लेना",
+   "examples": [
+    "I had to bite my tongue.",
+    "She bit her tongue.",
+    "I bit my tongue when the client criticised my work.",
+    "Bite your tongue before you say something you'll regret."
+   ]
+  },
+  {
+   "id": "pack4-card-731",
+   "mode": "vocab",
+   "word": "blow your own trumpet",
+   "pron": "",
+   "def": "to boast\nहिंदी: अपनी तारीफ़ आप करना",
+   "examples": [
+    "He loves to blow his own trumpet.",
+    "Don't blow your own trumpet.",
+    "She did great work but never blew her own trumpet.",
+    "In interviews, it's okay to blow your own trumpet a little."
+   ]
+  },
+  {
+   "id": "pack4-card-732",
+   "mode": "vocab",
+   "word": "bolt from the blue",
+   "pron": "",
+   "def": "a sudden shock\nहिंदी: अचानक आई आफ़त / ख़बर",
+   "examples": [
+    "The news was a bolt from the blue.",
+    "His resignation was a bolt from the blue.",
+    "The layoffs came as a bolt from the blue.",
+    "Her decision to move abroad was a bolt from the blue."
+   ]
+  },
+  {
+   "id": "pack4-card-733",
+   "mode": "vocab",
+   "word": "break a leg",
+   "pron": "",
+   "def": "good luck\nहिंदी: शुभकामनाएँ",
+   "examples": [
+    "Break a leg tonight!",
+    "Break a leg at your audition.",
+    "Break a leg in your presentation tomorrow!",
+    "The actors told each other to break a leg before the show."
+   ]
+  },
+  {
+   "id": "pack4-card-734",
+   "mode": "vocab",
+   "word": "bury the hatchet",
+   "pron": "",
+   "def": "to make peace\nहिंदी: पुरानी दुश्मनी भूलना",
+   "examples": [
+    "They buried the hatchet.",
+    "It's time to bury the hatchet.",
+    "The two neighbours buried the hatchet after years of fighting.",
+    "Let's bury the hatchet and work together."
+   ]
+  },
+  {
+   "id": "pack4-card-735",
+   "mode": "vocab",
+   "word": "by leaps and bounds",
+   "pron": "",
+   "def": "very quickly\nहिंदी: तेज़ी से",
+   "examples": [
+    "Sales are growing by leaps and bounds.",
+    "He improved by leaps and bounds.",
+    "Her English has improved by leaps and bounds.",
+    "The city has grown by leaps and bounds in ten years."
+   ]
+  },
+  {
+   "id": "pack4-card-736",
+   "mode": "vocab",
+   "word": "call the shots",
+   "pron": "",
+   "def": "to be in control\nहिंदी: फ़ैसले लेना / हुक्म चलाना",
+   "examples": [
+    "She calls the shots in the office.",
+    "Who calls the shots here?",
+    "In our house, my mother calls the shots.",
+    "The client calls the shots on the final design."
+   ]
+  },
+  {
+   "id": "pack4-card-737",
+   "mode": "vocab",
+   "word": "chip on your shoulder",
+   "pron": "",
+   "def": "a feeling of resentment\nहिंदी: मन में कड़वाहट / अकड़",
+   "examples": [
+    "He has a chip on his shoulder.",
+    "She carries a chip on her shoulder.",
+    "He has a chip on his shoulder because he wasn't promoted.",
+    "Don't carry a chip on your shoulder about your past."
+   ]
+  },
+  {
+   "id": "pack4-card-738",
+   "mode": "vocab",
+   "word": "close shave",
+   "pron": "",
+   "def": "a narrow escape\nहिंदी: बाल-बाल बचना",
+   "examples": [
+    "That was a close shave.",
+    "It was a close shave with the truck.",
+    "We nearly missed the train; that was a close shave.",
+    "The cyclist had a close shave with a bus."
+   ]
+  },
+  {
+   "id": "pack4-card-739",
+   "mode": "vocab",
+   "word": "come full circle",
+   "pron": "",
+   "def": "to return to the starting point\nहिंदी: घूमकर फिर वहीं आ जाना",
+   "examples": [
+    "Life came full circle.",
+    "We've come full circle.",
+    "She started as a teacher and, after years in business, came full circle.",
+    "The fashion of the seventies has come full circle."
+   ]
+  },
+  {
+   "id": "pack4-card-740",
+   "mode": "vocab",
+   "word": "cut to the chase",
+   "pron": "",
+   "def": "to get to the point\nहिंदी: सीधे मुद्दे पर आना",
+   "examples": [
+    "Let's cut to the chase.",
+    "Cut to the chase and tell me.",
+    "Let's cut to the chase: what's your best price?",
+    "The manager cut to the chase and announced the changes."
+   ]
+  },
+  {
+   "id": "pack4-card-741",
+   "mode": "vocab",
+   "word": "down to earth",
+   "pron": "",
+   "def": "practical and sensible\nहिंदी: ज़मीन से जुड़ा / सरल स्वभाव का",
+   "examples": [
+    "She is very down to earth.",
+    "He's a down-to-earth man.",
+    "Despite his fame, the actor is very down to earth.",
+    "We need a down to earth plan, not big dreams."
+   ]
+  },
+  {
+   "id": "pack4-card-742",
+   "mode": "vocab",
+   "word": "easier said than done",
+   "pron": "",
+   "def": "harder to do than to say\nहिंदी: कहना आसान, करना मुश्किल",
+   "examples": [
+    "Quitting is easier said than done.",
+    "Easier said than done.",
+    "Saving money is easier said than done.",
+    "Waking up at five is easier said than done."
+   ]
+  },
+  {
+   "id": "pack4-card-743",
+   "mode": "vocab",
+   "word": "face the music",
+   "pron": "",
+   "def": "to accept the consequences\nहिंदी: नतीजा भुगतना",
+   "examples": [
+    "He had to face the music.",
+    "It's time to face the music.",
+    "After breaking the vase, he had to face the music.",
+    "The company had to face the music after the scandal."
+   ]
+  },
+  {
+   "id": "pack4-card-744",
+   "mode": "vocab",
+   "word": "get the ball rolling",
+   "pron": "",
+   "def": "to start something\nहिंदी: शुरुआत करना",
+   "examples": [
+    "Let's get the ball rolling.",
+    "She got the ball rolling.",
+    "I'll get the ball rolling by introducing myself.",
+    "Let's get the ball rolling on the wedding plans."
+   ]
+  },
+  {
+   "id": "pack4-card-745",
+   "mode": "vocab",
+   "word": "go back to the drawing board",
+   "pron": "",
+   "def": "to start planning again\nहिंदी: नए सिरे से योजना बनाना",
+   "examples": [
+    "It failed; back to the drawing board.",
+    "We must go back to the drawing board.",
+    "The investors said no, so we had to go back to the drawing board.",
+    "If the test fails, we'll go back to the drawing board."
+   ]
+  },
+  {
+   "id": "pack4-card-746",
+   "mode": "vocab",
+   "word": "go down in flames",
+   "pron": "",
+   "def": "to fail spectacularly\nहिंदी: बुरी तरह नाकाम होना",
+   "examples": [
+    "The plan went down in flames.",
+    "His career went down in flames.",
+    "The new product went down in flames within a month.",
+    "His attempt to impress the boss went down in flames."
+   ]
+  },
+  {
+   "id": "pack4-card-747",
+   "mode": "vocab",
+   "word": "green with envy",
+   "pron": "",
+   "def": "very jealous\nहिंदी: ईर्ष्या से जलना",
+   "examples": [
+    "She was green with envy.",
+    "He turned green with envy.",
+    "I was green with envy when I saw her new car.",
+    "His friends were green with envy about his trip to Europe."
+   ]
+  },
+  {
+   "id": "pack4-card-748",
+   "mode": "vocab",
+   "word": "hang in there",
+   "pron": "",
+   "def": "to persevere\nहिंदी: डटे रहना",
+   "examples": [
+    "Hang in there, it gets better.",
+    "Just hang in there.",
+    "Hang in there; the exams will be over soon.",
+    "The first months of a new job are hard, but hang in there."
+   ]
+  },
+  {
+   "id": "pack4-card-749",
+   "mode": "vocab",
+   "word": "have a heart",
+   "pron": "",
+   "def": "to be kind\nहिंदी: दया करो",
+   "examples": [
+    "Have a heart and help him.",
+    "Please have a heart.",
+    "Have a heart and let the child have one more sweet.",
+    "Have a heart; he's been working since morning."
+   ]
+  },
+  {
+   "id": "pack4-card-750",
+   "mode": "vocab",
+   "word": "head over heels",
+   "pron": "",
+   "def": "deeply in love\nहिंदी: प्यार में पूरी तरह डूबा",
+   "examples": [
+    "He's head over heels in love.",
+    "She fell head over heels.",
+    "They were head over heels for each other in college.",
+    "She's head over heels about her new puppy."
+   ]
+  },
+  {
+   "id": "pack4-card-751",
+   "mode": "vocab",
+   "word": "in the nick of time",
+   "pron": "",
+   "def": "just in time\nहिंदी: ऐन वक़्त पर",
+   "examples": [
+    "We arrived in the nick of time.",
+    "He escaped in the nick of time.",
+    "The ambulance arrived in the nick of time.",
+    "I submitted the form in the nick of time."
+   ]
+  },
+  {
+   "id": "pack4-card-752",
+   "mode": "vocab",
+   "word": "it's not rocket science",
+   "pron": "",
+   "def": "it's not difficult\nहिंदी: यह कोई कठिन काम नहीं",
+   "examples": [
+    "It's not rocket science.",
+    "Cooking isn't rocket science.",
+    "Booking a ticket online is not rocket science.",
+    "Don't worry, it's not rocket science; I'll show you."
+   ]
+  },
+  {
+   "id": "pack4-card-753",
+   "mode": "vocab",
+   "word": "jump on the bandwagon",
+   "pron": "",
+   "def": "to join a popular trend\nहिंदी: भीड़ के साथ हो लेना / चलन में शामिल होना",
+   "examples": [
+    "Everyone jumped on the bandwagon.",
+    "Don't jump on the bandwagon.",
+    "Many brands jumped on the bandwagon of healthy snacks.",
+    "He jumped on the bandwagon and bought crypto at its peak."
+   ]
+  },
+  {
+   "id": "pack4-card-754",
+   "mode": "vocab",
+   "word": "keep your chin up",
+   "pron": "",
+   "def": "to stay positive\nहिंदी: हौसला बनाए रखना",
+   "examples": [
+    "Keep your chin up.",
+    "Keep your chin up, it'll pass.",
+    "Keep your chin up; you'll find a better job.",
+    "The coach told the team to keep their chins up after the loss."
+   ]
+  },
+  {
+   "id": "pack4-card-755",
+   "mode": "vocab",
+   "word": "learn the ropes",
+   "pron": "",
+   "def": "to learn how things work\nहिंदी: काम के तौर-तरीक़े सीखना",
+   "examples": [
+    "She is learning the ropes.",
+    "It takes time to learn the ropes.",
+    "The new intern is still learning the ropes.",
+    "My senior helped me learn the ropes in my first month."
+   ]
+  },
+  {
+   "id": "pack4-card-756",
+   "mode": "vocab",
+   "word": "let your hair down",
+   "pron": "",
+   "def": "to relax and enjoy\nहिंदी: बेफ़िक्र होकर मौज करना",
+   "examples": [
+    "Let your hair down tonight.",
+    "She let her hair down at the party.",
+    "After the exams, the students let their hair down.",
+    "It's the office party, so let your hair down."
+   ]
+  },
+  {
+   "id": "pack4-card-757",
+   "mode": "vocab",
+   "word": "a stroke of luck",
+   "pron": "",
+   "def": "a sudden stroke of luck\nहिंदी: अचानक क़िस्मत चमकना",
+   "examples": [
+    "Winning was a stroke of luck.",
+    "It was a stroke of luck.",
+    "Finding a parking spot right outside was a stroke of luck.",
+    "Meeting my mentor at that event was a real stroke of luck."
+   ]
+  },
+  {
+   "id": "pack4-card-758",
+   "mode": "vocab",
+   "word": "make a long story short",
+   "pron": "",
+   "def": "to tell briefly\nहिंदी: बात छोटी करना",
+   "examples": [
+    "To make a long story short, we left.",
+    "Make a long story short.",
+    "To make a long story short, I got the job.",
+    "To make a long story short, the trip was cancelled."
+   ]
+  },
+  {
+   "id": "pack4-card-759",
+   "mode": "vocab",
+   "word": "no-brainer",
+   "pron": "",
+   "def": "an obvious decision\nहिंदी: सीधा-सादा फ़ैसला",
+   "examples": [
+    "Taking the offer was a no-brainer.",
+    "It's a no-brainer.",
+    "Choosing the flat near the metro was a no-brainer.",
+    "Getting health insurance is a no-brainer."
+   ]
+  },
+  {
+   "id": "pack4-card-760",
+   "mode": "vocab",
+   "word": "off the hook",
+   "pron": "",
+   "def": "freed from responsibility\nहिंदी: ज़िम्मेदारी से बरी",
+   "examples": [
+    "He's off the hook now.",
+    "You're off the hook.",
+    "The real thief was found, so he's off the hook.",
+    "My meeting got cancelled, so I'm off the hook for the presentation."
+   ]
+  },
+  {
+   "id": "pack4-card-761",
+   "mode": "vocab",
+   "word": "on thin ice",
+   "pron": "",
+   "def": "in a risky situation\nहिंदी: ख़तरनाक स्थिति में",
+   "examples": [
+    "He's on thin ice with his boss.",
+    "You're skating on thin ice.",
+    "After missing three deadlines, he's on thin ice.",
+    "You're on thin ice if you keep arriving late."
+   ]
+  },
+  {
+   "id": "pack4-card-762",
+   "mode": "vocab",
+   "word": "play it by ear",
+   "pron": "",
+   "def": "to decide as things happen\nहिंदी: हालात देखकर तय करना",
+   "examples": [
+    "Let's play it by ear.",
+    "We'll play it by ear.",
+    "We don't have a fixed plan for the weekend; let's play it by ear.",
+    "I'll play it by ear and decide after the meeting."
+   ]
+  },
+  {
+   "id": "pack4-card-763",
+   "mode": "vocab",
+   "word": "put your foot down",
+   "pron": "",
+   "def": "to be firm\nहिंदी: सख़्ती से मना करना / अड़ जाना",
+   "examples": [
+    "She put her foot down.",
+    "Parents must put their foot down.",
+    "My mother put her foot down about late nights.",
+    "The manager put her foot down and refused more changes."
+   ]
+  },
+  {
+   "id": "pack4-card-764",
+   "mode": "vocab",
+   "word": "raise the bar",
+   "pron": "",
+   "def": "to set a higher standard\nहिंदी: मानक ऊँचा करना",
+   "examples": [
+    "The film raised the bar.",
+    "They raised the bar for quality.",
+    "The new phone raised the bar for camera quality.",
+    "Her excellent work raised the bar for the whole team."
+   ]
+  },
+  {
+   "id": "pack4-card-765",
+   "mode": "vocab",
+   "word": "read the room",
+   "pron": "",
+   "def": "to sense how people feel\nहिंदी: माहौल भाँप लेना",
+   "examples": [
+    "He knows how to read the room.",
+    "Learn to read the room.",
+    "Read the room before telling jokes at a serious meeting.",
+    "A good speaker reads the room and adjusts."
+   ]
+  },
+  {
+   "id": "pack4-card-766",
+   "mode": "vocab",
+   "word": "sleep on it",
+   "pron": "",
+   "def": "to think overnight before deciding\nहिंदी: रातभर सोचकर तय करना",
+   "examples": [
+    "Let me sleep on it.",
+    "I'll sleep on it.",
+    "The offer sounds good, but I'll sleep on it.",
+    "Don't decide now; sleep on it and call me tomorrow."
+   ]
+  },
+  {
+   "id": "pack4-card-767",
+   "mode": "vocab",
+   "word": "the whole nine yards",
+   "pron": "",
+   "def": "everything possible\nहिंदी: पूरी तरह से / सब कुछ",
+   "examples": [
+    "We gave them the whole nine yards.",
+    "She did the whole nine yards.",
+    "For the wedding, they went the whole nine yards with lights and music.",
+    "The hotel gave us the whole nine yards: flowers, cake and a free upgrade."
+   ]
+  }
+ ]
+}

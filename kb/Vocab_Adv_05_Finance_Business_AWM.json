@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 05 - Finance, Business & AWM Domain",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "asset",
+      "definition": "Something of value owned by a person or company (संपत्ति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Equities and bonds are the fund's main assets."
+    },
+    {
+      "id": "2",
+      "word": "liability",
+      "definition": "A financial obligation or debt (देयता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The pension scheme is a long-term liability."
+    },
+    {
+      "id": "3",
+      "word": "equity",
+      "definition": "Ownership share in a company; also fairness (इक्विटी / हिस्सेदारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The fund holds equity in several technology firms."
+    },
+    {
+      "id": "4",
+      "word": "fixed income",
+      "definition": "Investments paying regular, predictable returns such as bonds (निश्चित आय वाले निवेश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fixed income provides stability to the portfolio."
+    },
+    {
+      "id": "5",
+      "word": "bond",
+      "definition": "A loan to a company or government that pays interest (बॉन्ड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The bond matures in ten years."
+    },
+    {
+      "id": "6",
+      "word": "yield",
+      "definition": "The income return on an investment (प्रतिफल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The yield on government bonds fell last week."
+    },
+    {
+      "id": "7",
+      "word": "coupon",
+      "definition": "The interest payment made on a bond (बॉन्ड का ब्याज भुगतान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The bond pays a five percent annual coupon."
+    },
+    {
+      "id": "8",
+      "word": "maturity",
+      "definition": "The date when a financial instrument becomes payable (परिपक्वता तिथि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The instrument reaches maturity in March."
+    },
+    {
+      "id": "9",
+      "word": "dividend",
+      "definition": "A share of profits paid to shareholders (लाभांश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The company announced a higher dividend this quarter."
+    },
+    {
+      "id": "10",
+      "word": "diversification",
+      "definition": "Spreading investments to reduce risk (निवेश का विविधीकरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Diversification protects against a single market falling."
+    },
+    {
+      "id": "11",
+      "word": "allocation",
+      "definition": "The distribution of funds among different investments (धन का वितरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our allocation to equities is sixty percent."
+    },
+    {
+      "id": "12",
+      "word": "rebalance",
+      "definition": "To adjust a portfolio back to its target mix (पोर्टफ़ोलियो को लक्ष्य अनुपात में लाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The fund rebalances at the end of every quarter."
+    },
+    {
+      "id": "13",
+      "word": "benchmark index",
+      "definition": "A standard against which performance is measured (तुलना का मानक सूचकांक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The fund outperformed its benchmark index by two percent."
+    },
+    {
+      "id": "14",
+      "word": "underperform",
+      "definition": "To achieve worse returns than expected (अपेक्षा से कमज़ोर प्रदर्शन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The sector underperformed after the rate announcement."
+    },
+    {
+      "id": "15",
+      "word": "return",
+      "definition": "The gain or loss on an investment (निवेश पर लाभ/हानि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The annual return was eight percent."
+    },
+    {
+      "id": "16",
+      "word": "risk appetite",
+      "definition": "The level of risk an investor is willing to accept (जोखिम सहने की क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Her low risk appetite favours bonds."
+    },
+    {
+      "id": "17",
+      "word": "volatility",
+      "definition": "The degree of price fluctuation (मूल्य में उतार-चढ़ाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Market volatility rose after the announcement."
+    },
+    {
+      "id": "18",
+      "word": "liquidity",
+      "definition": "How easily an asset can be converted into cash (नकदी में बदलने की आसानी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Low liquidity makes the bond hard to sell quickly."
+    },
+    {
+      "id": "19",
+      "word": "illiquid",
+      "definition": "Not easily sold or converted to cash (आसानी से नकद में न बदलने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Real estate is an illiquid asset."
+    },
+    {
+      "id": "20",
+      "word": "exposure",
+      "definition": "The amount of money at risk in an investment (जोखिम में लगी राशि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our exposure to emerging markets is limited."
+    },
+    {
+      "id": "21",
+      "word": "hedge",
+      "definition": "To reduce risk by making an offsetting investment (जोखिम से बचाव करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The firm hedges currency risk using forward contracts."
+    },
+    {
+      "id": "22",
+      "word": "derivative",
+      "definition": "A financial contract whose value depends on another asset (व्युत्पन्न अनुबंध)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Derivatives are used to manage price risk."
+    },
+    {
+      "id": "23",
+      "word": "futures",
+      "definition": "Contracts to buy or sell an asset at a future date and price (वायदा अनुबंध)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Oil futures rose sharply this morning."
+    },
+    {
+      "id": "24",
+      "word": "option",
+      "definition": "A contract giving the right to buy or sell at a set price (विकल्प अनुबंध)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "He bought an option to protect against a fall."
+    },
+    {
+      "id": "25",
+      "word": "commodity",
+      "definition": "A basic raw material that is traded (वस्तु / कमोडिटी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Gold is the most widely traded commodity."
+    },
+    {
+      "id": "26",
+      "word": "security",
+      "definition": "A tradable financial instrument such as a share or bond (प्रतिभूति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Each security has a unique identifier."
+    },
+    {
+      "id": "27",
+      "word": "ticker",
+      "definition": "A short code identifying a publicly traded company (शेयर का संक्षिप्त कोड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The ticker for the company changed after the merger."
+    },
+    {
+      "id": "28",
+      "word": "identifier",
+      "definition": "A unique code used to recognise an instrument (पहचान कोड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "ISIN is a global identifier for securities."
+    },
+    {
+      "id": "29",
+      "word": "corporate action",
+      "definition": "An event by a company affecting its shares, such as a split (कंपनी द्वारा की गई शेयर संबंधी कार्रवाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Corporate actions must be applied to historical prices."
+    },
+    {
+      "id": "30",
+      "word": "stock split",
+      "definition": "Dividing existing shares into more shares (शेयर विभाजन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The stock split doubled the number of shares."
+    },
+    {
+      "id": "31",
+      "word": "merger",
+      "definition": "The combining of two companies into one (विलय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The merger changed the instrument's identifier."
+    },
+    {
+      "id": "32",
+      "word": "acquisition",
+      "definition": "One company purchasing another (अधिग्रहण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The acquisition was completed last quarter."
+    },
+    {
+      "id": "33",
+      "word": "market data",
+      "definition": "Prices and related information about financial instruments (बाज़ार संबंधी मूल्य डेटा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Market data arrives from dozens of vendors."
+    },
+    {
+      "id": "34",
+      "word": "reference data",
+      "definition": "Static information describing instruments and entities (संदर्भ डेटा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Reference data ensures consistency across systems."
+    },
+    {
+      "id": "35",
+      "word": "price feed",
+      "definition": "A continuous stream of prices from a source (मूल्यों की निरंतर आपूर्ति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The price feed was delayed by ten minutes."
+    },
+    {
+      "id": "36",
+      "word": "corrected price",
+      "definition": "A revised price replacing an earlier incorrect one (संशोधित मूल्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Vendors send a corrected price when errors are found."
+    },
+    {
+      "id": "37",
+      "word": "end-of-day",
+      "definition": "Relating to the close of the trading day (दिन के अंत से संबंधित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "End-of-day prices are loaded by midnight."
+    },
+    {
+      "id": "38",
+      "word": "intraday",
+      "definition": "Occurring within a single trading day (दिन के भीतर)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Intraday prices update every minute."
+    },
+    {
+      "id": "39",
+      "word": "tick",
+      "definition": "The smallest movement in a price (मूल्य में न्यूनतम बदलाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The system stores every tick for later analysis."
+    },
+    {
+      "id": "40",
+      "word": "bid",
+      "definition": "The price a buyer is willing to pay (खरीदार की बोली)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The bid was slightly below the last trade."
+    },
+    {
+      "id": "41",
+      "word": "ask",
+      "definition": "The price a seller is willing to accept (विक्रेता का मूल्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The ask price rose after the news."
+    },
+    {
+      "id": "42",
+      "word": "spread",
+      "definition": "The difference between bid and ask prices (बोली और मांग मूल्य का अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A wide spread signals low liquidity."
+    },
+    {
+      "id": "43",
+      "word": "settlement",
+      "definition": "The completion of a trade through the exchange of money and assets (सौदे का निपटान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Settlement usually occurs one business day after the trade."
+    },
+    {
+      "id": "44",
+      "word": "clearing",
+      "definition": "Confirming and reconciling a trade before settlement (लेन-देन की पुष्टि प्रक्रिया)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The clearing house guarantees both sides of the trade."
+    },
+    {
+      "id": "45",
+      "word": "custodian",
+      "definition": "An institution that safeguards financial assets (संपत्तियों का संरक्षक संस्थान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The custodian holds the fund's securities securely."
+    },
+    {
+      "id": "46",
+      "word": "counterparty",
+      "definition": "The other party in a financial transaction (लेन-देन की दूसरी पार्टी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We assess the counterparty's creditworthiness."
+    },
+    {
+      "id": "47",
+      "word": "creditworthiness",
+      "definition": "The ability of a borrower to repay debt (ऋण चुकाने की क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The agency downgraded the firm's creditworthiness."
+    },
+    {
+      "id": "48",
+      "word": "rating",
+      "definition": "An assessment of credit quality (ऋण साख रेटिंग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The bond has a high credit rating."
+    },
+    {
+      "id": "49",
+      "word": "default",
+      "definition": "Failure to meet a debt obligation (भुगतान में चूक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The risk of default rose after the downturn."
+    },
+    {
+      "id": "50",
+      "word": "trade",
+      "definition": "A transaction to buy or sell an asset (सौदा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The trade was executed at the closing price."
+    },
+    {
+      "id": "51",
+      "word": "execute",
+      "definition": "To carry out a trade or instruction (सौदा या निर्देश पूरा करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The order was executed within seconds."
+    },
+    {
+      "id": "52",
+      "word": "order book",
+      "definition": "A list of buy and sell orders for an asset (खरीद-बिक्री आदेशों की सूची)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Depth in the order book shows market interest."
+    },
+    {
+      "id": "53",
+      "word": "position",
+      "definition": "The amount of an asset held by an investor (किसी संपत्ति की धारित मात्रा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The desk closed its position before the announcement."
+    },
+    {
+      "id": "54",
+      "word": "holdings",
+      "definition": "Assets owned by an investor or fund (धारित संपत्तियाँ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The report lists all the fund's holdings."
+    },
+    {
+      "id": "55",
+      "word": "net asset value",
+      "definition": "The per-share value of a fund after liabilities (शुद्ध संपत्ति मूल्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Net asset value is calculated after market close."
+    },
+    {
+      "id": "56",
+      "word": "AUM",
+      "definition": "The total market value of assets a firm manages (प्रबंधन के अंतर्गत कुल संपत्ति)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "The firm's AUM exceeded two trillion dollars."
+    },
+    {
+      "id": "57",
+      "word": "fiduciary",
+      "definition": "Having a legal duty to act in a client's best interest (विश्वस्त के रूप में कर्तव्यबद्ध)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Advisers have a fiduciary duty to their clients."
+    },
+    {
+      "id": "58",
+      "word": "wealth management",
+      "definition": "Professional advice and services for managing a client's finances (संपत्ति प्रबंधन सेवाएँ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The bank expanded its wealth management division."
+    },
+    {
+      "id": "59",
+      "word": "high-net-worth",
+      "definition": "Having a high level of personal wealth (उच्च निवल संपत्ति वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The service targets high-net-worth individuals."
+    },
+    {
+      "id": "60",
+      "word": "institutional investor",
+      "definition": "An organisation investing large sums on behalf of others (संस्थागत निवेशक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Pension funds are major institutional investors."
+    },
+    {
+      "id": "61",
+      "word": "retail investor",
+      "definition": "An individual who invests their own money (खुदरा निवेशक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Retail investors increased their trading activity."
+    },
+    {
+      "id": "62",
+      "word": "asset class",
+      "definition": "A category of investments with similar characteristics (संपत्ति वर्ग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Equities and bonds are different asset classes."
+    },
+    {
+      "id": "63",
+      "word": "ETF",
+      "definition": "A fund traded on an exchange that tracks an index (एक्सचेंज पर कारोबार होने वाला फ़ंड)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "The ETF tracks the top five hundred companies."
+    },
+    {
+      "id": "64",
+      "word": "mutual fund",
+      "definition": "A pooled investment managed by professionals (म्यूचुअल फ़ंड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The mutual fund charges a low annual fee."
+    },
+    {
+      "id": "65",
+      "word": "hedge fund",
+      "definition": "A pooled investment using complex strategies for high returns (हेज फ़ंड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The hedge fund bet against the currency."
+    },
+    {
+      "id": "66",
+      "word": "index fund",
+      "definition": "A fund designed to match the performance of a market index (सूचकांक आधारित फ़ंड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Index funds offer broad exposure at low cost."
+    },
+    {
+      "id": "67",
+      "word": "expense ratio",
+      "definition": "The annual fee charged as a percentage of fund assets (फ़ंड का वार्षिक शुल्क अनुपात)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A lower expense ratio improves long-term returns."
+    },
+    {
+      "id": "68",
+      "word": "compounding",
+      "definition": "Earning returns on both principal and accumulated returns (चक्रवृद्धि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Compounding rewards patient, long-term investors."
+    },
+    {
+      "id": "69",
+      "word": "inflation",
+      "definition": "A general rise in prices over time (मुद्रास्फीति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Inflation reduces the purchasing power of savings."
+    },
+    {
+      "id": "70",
+      "word": "deflation",
+      "definition": "A general fall in prices over time (अपस्फीति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Deflation can discourage spending and investment."
+    },
+    {
+      "id": "71",
+      "word": "interest rate",
+      "definition": "The cost of borrowing or reward for saving money (ब्याज दर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The central bank raised interest rates again."
+    },
+    {
+      "id": "72",
+      "word": "monetary policy",
+      "definition": "Central bank actions controlling money supply and rates (मौद्रिक नीति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Monetary policy aims to keep inflation stable."
+    },
+    {
+      "id": "73",
+      "word": "fiscal policy",
+      "definition": "Government spending and taxation decisions (राजकोषीय नीति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fiscal policy shapes public investment levels."
+    },
+    {
+      "id": "74",
+      "word": "recession",
+      "definition": "A significant decline in economic activity (आर्थिक मंदी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The economy slipped into recession last year."
+    },
+    {
+      "id": "75",
+      "word": "recovery",
+      "definition": "A return to growth after a downturn (आर्थिक सुधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The recovery has been slow but steady."
+    },
+    {
+      "id": "76",
+      "word": "bull market",
+      "definition": "A period of rising prices (तेज़ी का बाज़ार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The bull market lasted almost a decade."
+    },
+    {
+      "id": "77",
+      "word": "bear market",
+      "definition": "A period of falling prices (मंदी का बाज़ार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Investors panic during a bear market."
+    },
+    {
+      "id": "78",
+      "word": "correction",
+      "definition": "A short-term decline of around ten percent in prices (बाज़ार में अस्थायी गिरावट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The market entered a correction after weak earnings."
+    },
+    {
+      "id": "79",
+      "word": "sell-off",
+      "definition": "A rapid sale of assets causing falling prices (तेज़ बिकवाली)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fear triggered a broad sell-off in bonds."
+    },
+    {
+      "id": "80",
+      "word": "sentiment",
+      "definition": "The overall attitude of investors towards the market (निवेशकों का सामान्य रुझान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Investor sentiment turned cautious."
+    },
+    {
+      "id": "81",
+      "word": "speculation",
+      "definition": "Risky investing in hope of quick profit (जोखिम भरी अटकलबाज़ी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Speculation drove prices far above fundamentals."
+    },
+    {
+      "id": "82",
+      "word": "fundamentals",
+      "definition": "Basic financial factors that determine an asset's value (बुनियादी आर्थिक कारक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The stock's fundamentals remain strong."
+    },
+    {
+      "id": "83",
+      "word": "valuation",
+      "definition": "An estimate of the worth of an asset or company (मूल्यांकन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The startup's valuation doubled in a year."
+    },
+    {
+      "id": "84",
+      "word": "overvalued",
+      "definition": "Priced higher than its worth (अपने मूल्य से अधिक कीमत वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Analysts believe the stock is overvalued."
+    },
+    {
+      "id": "85",
+      "word": "undervalued",
+      "definition": "Priced lower than its worth (अपने मूल्य से कम कीमत वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The company appears undervalued relative to peers."
+    },
+    {
+      "id": "86",
+      "word": "earnings",
+      "definition": "Profit made by a company (कंपनी की कमाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Quarterly earnings beat expectations."
+    },
+    {
+      "id": "87",
+      "word": "revenue",
+      "definition": "Total income from business activities (कुल राजस्व)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Revenue grew twelve percent year on year."
+    },
+    {
+      "id": "88",
+      "word": "margin",
+      "definition": "The difference between revenue and cost (लाभ का अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Higher costs squeezed the profit margin."
+    },
+    {
+      "id": "89",
+      "word": "overhead costs",
+      "definition": "Ongoing business expenses not tied to a specific product (सामान्य परिचालन खर्च)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We reduced overhead costs by consolidating offices."
+    },
+    {
+      "id": "90",
+      "word": "cash flow",
+      "definition": "The movement of money in and out of a business (नकदी का प्रवाह)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Strong cash flow supports the dividend."
+    },
+    {
+      "id": "91",
+      "word": "balance sheet",
+      "definition": "A statement of a company's assets and liabilities (तुलन पत्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The balance sheet shows low debt."
+    },
+    {
+      "id": "92",
+      "word": "audit report",
+      "definition": "An independent examination of financial statements (लेखा परीक्षण रिपोर्ट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The audit report found no material errors."
+    },
+    {
+      "id": "93",
+      "word": "regulation",
+      "definition": "A rule made by authority to control behaviour (विनियमन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "New regulation increased reporting obligations."
+    },
+    {
+      "id": "94",
+      "word": "regulator",
+      "definition": "An authority overseeing and enforcing rules (नियामक संस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The regulator fined the firm for late reporting."
+    },
+    {
+      "id": "95",
+      "word": "compliance officer",
+      "definition": "A person ensuring a firm follows laws and rules (अनुपालन अधिकारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The compliance officer reviewed the new policy."
+    },
+    {
+      "id": "96",
+      "word": "anti-money laundering",
+      "definition": "Rules preventing illegally obtained money from entering the system (धनशोधन निरोधक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Anti-money laundering checks apply to all new clients."
+    },
+    {
+      "id": "97",
+      "word": "KYC",
+      "definition": "The process of verifying a client's identity (ग्राहक पहचान सत्यापन)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "KYC must be completed before opening an account."
+    },
+    {
+      "id": "98",
+      "word": "due diligence process",
+      "definition": "Detailed investigation of a client or investment (विस्तृत जाँच प्रक्रिया)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The due diligence process takes several weeks."
+    },
+    {
+      "id": "99",
+      "word": "disclosure",
+      "definition": "The act of revealing information as required (आवश्यक जानकारी का खुलासा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Full disclosure of fees is required by law."
+    },
+    {
+      "id": "100",
+      "word": "transparency",
+      "definition": "Openness in sharing information (पारदर्शिता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Transparency builds client confidence."
+    },
+    {
+      "id": "101",
+      "word": "conflict of interest",
+      "definition": "A situation where personal gain may affect duty (हितों का टकराव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Advisers must declare any conflict of interest."
+    },
+    {
+      "id": "102",
+      "word": "insider trading",
+      "definition": "Illegal trading based on confidential information (अंदरूनी जानकारी पर कारोबार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Insider trading is a serious criminal offence."
+    },
+    {
+      "id": "103",
+      "word": "ESG",
+      "definition": "Environmental, social and governance criteria used to assess investments (पर्यावरण, सामाजिक व शासन मानदंड)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "ESG factors increasingly influence investment decisions."
+    },
+    {
+      "id": "104",
+      "word": "sustainable investing",
+      "definition": "Investing that considers long-term environmental and social impact (टिकाऊ निवेश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Sustainable investing attracted record inflows."
+    },
+    {
+      "id": "105",
+      "word": "stewardship",
+      "definition": "Responsible management of entrusted assets (ज़िम्मेदार प्रबंधन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Investors expect strong stewardship from asset managers."
+    },
+    {
+      "id": "106",
+      "word": "risk-adjusted",
+      "definition": "Measured after taking the level of risk into account (जोखिम के अनुसार समायोजित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Risk-adjusted returns tell a fuller story."
+    },
+    {
+      "id": "107",
+      "word": "alpha",
+      "definition": "Returns above those of a benchmark (मानक से अधिक अतिरिक्त प्रतिफल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The manager has consistently generated alpha."
+    },
+    {
+      "id": "108",
+      "word": "beta",
+      "definition": "A measure of how much an asset moves with the market (बाज़ार के साथ चाल का माप)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A beta above one means higher volatility than the market."
+    },
+    {
+      "id": "109",
+      "word": "drawdown",
+      "definition": "The decline from a portfolio's peak to its low (शीर्ष से गिरावट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The maximum drawdown was fifteen percent."
+    },
+    {
+      "id": "110",
+      "word": "stress test",
+      "definition": "Simulating extreme conditions to test resilience (चरम परिस्थितियों का अनुकरण परीक्षण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Banks must pass annual stress tests."
+    },
+    {
+      "id": "111",
+      "word": "scenario analysis",
+      "definition": "Evaluating outcomes under different assumed conditions (विभिन्न परिस्थितियों में नतीजों का विश्लेषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Scenario analysis shows how losses change if rates rise."
+    },
+    {
+      "id": "112",
+      "word": "value at risk",
+      "definition": "An estimate of the potential loss over a period (संभावित अधिकतम हानि अनुमान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The model estimates value at risk at ninety-five percent confidence."
+    },
+    {
+      "id": "113",
+      "word": "tail risk",
+      "definition": "The risk of rare but extreme events (दुर्लभ पर गंभीर घटना का जोखिम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tail risk is easy to ignore until it happens."
+    },
+    {
+      "id": "114",
+      "word": "black swan",
+      "definition": "An unpredictable event with severe consequences (अप्रत्याशित बड़ी घटना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The pandemic was a classic black swan event."
+    },
+    {
+      "id": "115",
+      "word": "systemic risk",
+      "definition": "The risk that the failure of one entity collapses the system (तंत्रगत जोखिम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Regulators monitor systemic risk in large banks."
+    },
+    {
+      "id": "116",
+      "word": "contagion",
+      "definition": "The spread of financial trouble from one market to another (संकट का फैलना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fears of contagion hit neighbouring economies."
+    },
+    {
+      "id": "117",
+      "word": "bailout",
+      "definition": "Financial rescue of a failing company (वित्तीय बचाव पैकेज)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The government arranged a bailout for the bank."
+    },
+    {
+      "id": "118",
+      "word": "insolvency",
+      "definition": "The inability to pay debts (दिवालियापन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The company filed for insolvency after losing its biggest client."
+    },
+    {
+      "id": "119",
+      "word": "bankruptcy",
+      "definition": "Legal status of being unable to repay debts (दिवालिया घोषित होना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The retailer declared bankruptcy last month."
+    },
+    {
+      "id": "120",
+      "word": "restructure",
+      "definition": "To reorganise finances or operations (पुनर्गठन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The company restructured its debt to avoid default."
+    },
+    {
+      "id": "121",
+      "word": "consolidation",
+      "definition": "Merging of companies or financial statements (समेकन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Industry consolidation reduced the number of vendors."
+    },
+    {
+      "id": "122",
+      "word": "divestment",
+      "definition": "Selling off assets or business units (संपत्ति की बिक्री)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The divestment of the unit raised two billion dollars."
+    },
+    {
+      "id": "123",
+      "word": "capital",
+      "definition": "Money or assets used to generate income (पूँजी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The startup raised capital from investors."
+    },
+    {
+      "id": "124",
+      "word": "capital expenditure",
+      "definition": "Spending on long-term assets (दीर्घकालिक संपत्ति पर खर्च)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Capital expenditure rose due to new data centres."
+    },
+    {
+      "id": "125",
+      "word": "operating expense",
+      "definition": "Ongoing cost of running a business (परिचालन व्यय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Cloud usage is a major operating expense."
+    },
+    {
+      "id": "126",
+      "word": "budget",
+      "definition": "A plan of expected income and spending (बजट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The budget for next year was cut by ten percent."
+    },
+    {
+      "id": "127",
+      "word": "forecast",
+      "definition": "A prediction of future conditions (पूर्वानुमान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The forecast assumes steady growth."
+    },
+    {
+      "id": "128",
+      "word": "projection",
+      "definition": "An estimate of future figures based on current trends (अनुमानित आँकड़ा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Revenue projections look conservative."
+    },
+    {
+      "id": "129",
+      "word": "variance",
+      "definition": "The difference between planned and actual figures (योजना और वास्तविकता का अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The variance in costs was mainly due to licences."
+    },
+    {
+      "id": "130",
+      "word": "break-even",
+      "definition": "The point at which income equals costs (लाभ-हानि रहित बिंदु)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The product should reach break-even within a year."
+    },
+    {
+      "id": "131",
+      "word": "return on investment",
+      "definition": "A measure of profit relative to cost (निवेश पर प्रतिफल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The automation had a strong return on investment."
+    },
+    {
+      "id": "132",
+      "word": "cost-benefit analysis",
+      "definition": "Comparing the costs of an action with its benefits (लागत-लाभ विश्लेषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A cost-benefit analysis supported the upgrade."
+    },
+    {
+      "id": "133",
+      "word": "procurement",
+      "definition": "The process of acquiring goods or services (ख़रीद प्रक्रिया)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Procurement approved the new vendor contract."
+    },
+    {
+      "id": "134",
+      "word": "vendor",
+      "definition": "A company that supplies goods or services (विक्रेता / आपूर्तिकर्ता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We onboard a new data vendor every month."
+    },
+    {
+      "id": "135",
+      "word": "tender",
+      "definition": "A formal offer to supply goods or services at a stated price (निविदा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The firm won the tender for the platform upgrade."
+    },
+    {
+      "id": "136",
+      "word": "contractual",
+      "definition": "Relating to a legally binding agreement (अनुबंध संबंधी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Late delivery is a contractual breach."
+    },
+    {
+      "id": "137",
+      "word": "obligation",
+      "definition": "A duty or commitment (दायित्व)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We have an obligation to protect client data."
+    },
+    {
+      "id": "138",
+      "word": "penalty clause",
+      "definition": "A contract term imposing a fine for breaching conditions (दंड खंड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The penalty clause applies if delivery is late."
+    },
+    {
+      "id": "139",
+      "word": "negotiating leverage",
+      "definition": "Power to influence the terms of a deal (वार्ता में बढ़त)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Multiple vendors give us stronger negotiating leverage."
+    },
+    {
+      "id": "140",
+      "word": "renewal",
+      "definition": "Extension of a contract or licence for another period (नवीनीकरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The licence renewal is due in April."
+    },
+    {
+      "id": "141",
+      "word": "licence",
+      "definition": "Official permission to use something (लाइसेंस)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The licence limits usage to ten users."
+    },
+    {
+      "id": "142",
+      "word": "subscription",
+      "definition": "A recurring payment for access to a service (सदस्यता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The data subscription costs twenty thousand per month."
+    },
+    {
+      "id": "143",
+      "word": "tiered pricing",
+      "definition": "Pricing that varies by usage or level (स्तरवार मूल्य निर्धारण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tiered pricing makes the service cheaper at higher volumes."
+    },
+    {
+      "id": "144",
+      "word": "volume discount",
+      "definition": "A price reduction for large purchases (अधिक मात्रा पर छूट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We negotiated a volume discount from the vendor."
+    },
+    {
+      "id": "145",
+      "word": "yield curve",
+      "definition": "A graph of bond yields across different maturities (परिपक्वता के अनुसार बॉन्ड प्रतिफल का ग्राफ़)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "An inverted yield curve often signals a slowdown."
+    },
+    {
+      "id": "146",
+      "word": "basis point",
+      "definition": "One hundredth of one percent (एक प्रतिशत का सौवाँ भाग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The bank raised rates by fifty basis points."
+    },
+    {
+      "id": "147",
+      "word": "treasury",
+      "definition": "Government debt securities or finance department (सरकारी प्रतिभूतियाँ / कोषागार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Investors moved money into treasuries."
+    },
+    {
+      "id": "148",
+      "word": "sovereign debt",
+      "definition": "Money borrowed by a national government (सरकारी ऋण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Sovereign debt worries unsettled markets."
+    },
+    {
+      "id": "149",
+      "word": "credit spread",
+      "definition": "The yield difference between corporate and government bonds (कॉर्पोरेट व सरकारी बॉन्ड के प्रतिफल का अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Credit spreads widened during the crisis."
+    },
+    {
+      "id": "150",
+      "word": "investment grade",
+      "definition": "Bonds with a low risk of default (कम जोखिम वाले बॉन्ड वर्ग का)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The fund only buys investment grade bonds."
+    },
+    {
+      "id": "151",
+      "word": "junk bond",
+      "definition": "A high-risk, high-yield bond (उच्च जोखिम वाला बॉन्ड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Junk bonds pay more but carry default risk."
+    },
+    {
+      "id": "152",
+      "word": "equity market",
+      "definition": "A market where shares are traded (शेयर बाज़ार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Equity markets rallied after the announcement."
+    },
+    {
+      "id": "153",
+      "word": "blue chip",
+      "definition": "A large, reliable, well-established company (बड़ी व भरोसेमंद कंपनी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Blue chip stocks suit cautious investors."
+    },
+    {
+      "id": "154",
+      "word": "market capitalisation",
+      "definition": "The total market value of a company's shares (कंपनी का कुल बाज़ार मूल्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Its market capitalisation exceeds one trillion dollars."
+    },
+    {
+      "id": "155",
+      "word": "initial public offering",
+      "definition": "The first sale of a company's shares to the public (कंपनी के शेयरों की पहली सार्वजनिक बिक्री)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The start-up plans an initial public offering next year."
+    },
+    {
+      "id": "156",
+      "word": "share buyback",
+      "definition": "A company repurchasing its own shares (कंपनी द्वारा अपने शेयर वापस ख़रीदना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The share buyback lifted the stock price."
+    },
+    {
+      "id": "157",
+      "word": "stock exchange",
+      "definition": "A market where securities are bought and sold (स्टॉक एक्सचेंज)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The stock exchange closes at three-thirty."
+    },
+    {
+      "id": "158",
+      "word": "index rebalancing",
+      "definition": "Adjusting an index's holdings to match rules (सूचकांक की संरचना में समायोजन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Index rebalancing triggered heavy trading."
+    },
+    {
+      "id": "159",
+      "word": "tracking error",
+      "definition": "The difference between a fund's and its benchmark's returns (फ़ंड और मानक के प्रतिफल का अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Low tracking error indicates faithful replication."
+    },
+    {
+      "id": "160",
+      "word": "passive investing",
+      "definition": "Investing to match a market index rather than beat it (सूचकांक के बराबर निवेश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Passive investing has grown rapidly."
+    },
+    {
+      "id": "161",
+      "word": "active management",
+      "definition": "Choosing investments to try to beat the market (सक्रिय रूप से निवेश चुनना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Active management charges higher fees."
+    },
+    {
+      "id": "162",
+      "word": "market maker",
+      "definition": "A firm that provides buy and sell quotes to ensure liquidity (क्रय-विक्रय भाव देने वाली संस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Market makers keep spreads narrow."
+    },
+    {
+      "id": "163",
+      "word": "dark pool",
+      "definition": "A private venue for trading large blocks of shares (बड़े सौदों के लिए निजी मंच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Large orders often route through dark pools."
+    },
+    {
+      "id": "164",
+      "word": "high-frequency trading",
+      "definition": "Very fast automated trading using algorithms (तेज़ गति से स्वचालित ट्रेडिंग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "High-frequency trading depends on microsecond latency."
+    },
+    {
+      "id": "165",
+      "word": "algorithmic trading",
+      "definition": "Trading using automated rules (एल्गोरिदम आधारित ट्रेडिंग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Algorithmic trading now dominates equity volume."
+    },
+    {
+      "id": "166",
+      "word": "slippage",
+      "definition": "The difference between expected and actual trade price (अपेक्षित व वास्तविक सौदा मूल्य का अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Slippage rose during the volatile open."
+    },
+    {
+      "id": "167",
+      "word": "margin call",
+      "definition": "A demand to add funds to cover losses (नुक़सान की भरपाई हेतु अतिरिक्त धन की माँग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "He faced a margin call after the sharp fall."
+    },
+    {
+      "id": "168",
+      "word": "short selling",
+      "definition": "Selling borrowed assets expecting prices to fall (उधार लेकर बेचना, गिरावट की उम्मीद में)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Short selling can increase market volatility."
+    },
+    {
+      "id": "169",
+      "word": "long position",
+      "definition": "Owning an asset expecting its price to rise (कीमत बढ़ने की उम्मीद में धारित स्थिति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The fund holds a long position in energy stocks."
+    },
+    {
+      "id": "170",
+      "word": "arbitrage",
+      "definition": "Profiting from price differences in different markets (मूल्य अंतर से लाभ कमाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Arbitrage keeps prices aligned across exchanges."
+    },
+    {
+      "id": "171",
+      "word": "mark-to-market",
+      "definition": "Valuing assets at current market prices (वर्तमान बाज़ार मूल्य पर मूल्यांकन)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Positions are marked to market every evening."
+    },
+    {
+      "id": "172",
+      "word": "pricing source",
+      "definition": "The provider from which a price is taken (मूल्य का स्रोत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We define a primary and fallback pricing source."
+    },
+    {
+      "id": "173",
+      "word": "stale price",
+      "definition": "A price that has not been updated recently (पुराना न बदला हुआ मूल्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A stale price distorted the portfolio valuation."
+    },
+    {
+      "id": "174",
+      "word": "price tolerance",
+      "definition": "The permitted variation before a price is flagged (मूल्य में स्वीकार्य अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The check flags moves beyond the price tolerance."
+    },
+    {
+      "id": "175",
+      "word": "vendor entitlement",
+      "definition": "The permission to use a data vendor's information (डेटा विक्रेता की जानकारी उपयोग की अनुमति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Vendor entitlement limits which teams can see raw feeds."
+    },
+    {
+      "id": "176",
+      "word": "data licence",
+      "definition": "Legal permission to use specific data (डेटा उपयोग की क़ानूनी अनुमति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The data licence restricts redistribution."
+    },
+    {
+      "id": "177",
+      "word": "redistribution",
+      "definition": "Passing data to parties outside the licence (लाइसेंस से बाहर डेटा साझा करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Redistribution of vendor data is not allowed."
+    },
+    {
+      "id": "178",
+      "word": "exchange rate",
+      "definition": "The price of one currency in terms of another (विनिमय दर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The exchange rate moved against the rupee."
+    },
+    {
+      "id": "179",
+      "word": "currency hedging",
+      "definition": "Reducing risk from currency movements (मुद्रा जोखिम से बचाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Currency hedging protects overseas returns."
+    },
+    {
+      "id": "180",
+      "word": "foreign exchange",
+      "definition": "The market for trading national currencies (विदेशी मुद्रा बाज़ार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Foreign exchange trading runs around the clock."
+    },
+    {
+      "id": "181",
+      "word": "reserve currency",
+      "definition": "A currency held widely by central banks (आरक्षित मुद्रा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The dollar is the main reserve currency."
+    },
+    {
+      "id": "182",
+      "word": "fiat currency",
+      "definition": "Government-issued money not backed by a physical commodity (सरकार द्वारा जारी मुद्रा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Most modern money is fiat currency."
+    },
+    {
+      "id": "183",
+      "word": "quantitative easing",
+      "definition": "Central bank purchasing assets to increase money supply (केंद्रीय बैंक द्वारा मुद्रा आपूर्ति बढ़ाने की प्रक्रिया)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Quantitative easing lowered long-term rates."
+    },
+    {
+      "id": "184",
+      "word": "rate hike",
+      "definition": "An increase in interest rates (ब्याज दर में वृद्धि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A rate hike cooled the housing market."
+    },
+    {
+      "id": "185",
+      "word": "soft landing",
+      "definition": "Slowing inflation without causing recession (मंदी के बिना महँगाई घटाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Policymakers aim for a soft landing."
+    },
+    {
+      "id": "186",
+      "word": "hard landing",
+      "definition": "A sharp economic downturn after tightening (तीव्र आर्थिक गिरावट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A hard landing would hurt employment."
+    },
+    {
+      "id": "187",
+      "word": "stagflation",
+      "definition": "High inflation combined with slow growth and unemployment (महँगाई के साथ धीमी वृद्धि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Stagflation is difficult for policymakers to tackle."
+    },
+    {
+      "id": "188",
+      "word": "credit crunch",
+      "definition": "A sudden reduction in available loans (ऋण उपलब्धता में अचानक कमी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The credit crunch froze lending."
+    },
+    {
+      "id": "189",
+      "word": "liquidity crisis",
+      "definition": "A shortage of cash or easily sellable assets (नकदी का संकट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A liquidity crisis forced the fund to halt withdrawals."
+    },
+    {
+      "id": "190",
+      "word": "run on the bank",
+      "definition": "A rush of customers withdrawing money (बैंक से एक साथ पैसे निकालने की भीड़)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Rumours triggered a run on the bank."
+    },
+    {
+      "id": "191",
+      "word": "too big to fail",
+      "definition": "So large that its collapse would harm the economy (इतना बड़ा कि गिरने नहीं दिया जा सकता)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Regulators fear banks that are too big to fail."
+    },
+    {
+      "id": "192",
+      "word": "moral hazard",
+      "definition": "Taking risks because someone else bears the cost (दूसरे के जोखिम उठाने की वजह से लापरवाही)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Bailouts can create moral hazard."
+    },
+    {
+      "id": "193",
+      "word": "safe haven",
+      "definition": "An asset expected to hold value in turbulent times (मुश्किल समय में सुरक्षित निवेश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Gold is considered a safe haven."
+    },
+    {
+      "id": "194",
+      "word": "flight to quality",
+      "definition": "Investors moving money to safer assets (सुरक्षित संपत्तियों की ओर पलायन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There was a flight to quality as fears grew."
+    },
+    {
+      "id": "195",
+      "word": "risk-off",
+      "definition": "Market mood in which investors avoid risk (जोखिम से बचने का बाज़ार रुझान)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "It was a risk-off day for equities."
+    },
+    {
+      "id": "196",
+      "word": "risk-on",
+      "definition": "Market mood in which investors seek higher returns (जोखिम उठाने का बाज़ार रुझान)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Risk-on sentiment pushed tech stocks higher."
+    },
+    {
+      "id": "197",
+      "word": "headwinds",
+      "definition": "Factors making progress more difficult (प्रतिकूल परिस्थितियाँ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The sector faces regulatory headwinds."
+    },
+    {
+      "id": "198",
+      "word": "tailwinds",
+      "definition": "Factors helping progress (अनुकूल परिस्थितियाँ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Lower rates provided tailwinds for growth."
+    },
+    {
+      "id": "199",
+      "word": "carry trade",
+      "definition": "Borrowing in a low-interest currency to invest in a higher-yielding one (कम ब्याज में उधार लेकर अधिक ब्याज वाली मुद्रा में निवेश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The carry trade unwound sharply when rates changed."
+    },
+    {
+      "id": "200",
+      "word": "yield to maturity",
+      "definition": "The total return of a bond if held until it matures (परिपक्वता तक रखने पर बॉन्ड का कुल प्रतिफल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The yield to maturity is higher than the coupon rate."
+    }
+  ],
+  "id": "9ba1eaa4-75c8-4dee-9bdf-d62aa050b6e4",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 08 - IELTS: Environment, Health & Economy",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "biodiversity",
+      "definition": "The variety of plant and animal life in an area (जैव विविधता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Deforestation threatens biodiversity."
+    },
+    {
+      "id": "2",
+      "word": "ecosystem",
+      "definition": "A community of living things and their environment (पारिस्थितिकी तंत्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Coral reefs are fragile ecosystems."
+    },
+    {
+      "id": "3",
+      "word": "habitat",
+      "definition": "The natural home of an animal or plant (प्राकृतिक आवास)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Urban growth destroys wildlife habitats."
+    },
+    {
+      "id": "4",
+      "word": "endangered species",
+      "definition": "A species at risk of extinction (विलुप्तप्राय प्रजाति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tigers are an endangered species."
+    },
+    {
+      "id": "5",
+      "word": "extinction",
+      "definition": "The complete disappearance of a species (विलुप्ति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Hunting drove several species to extinction."
+    },
+    {
+      "id": "6",
+      "word": "conservation",
+      "definition": "Protection of nature and natural resources (संरक्षण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Wildlife conservation requires community support."
+    },
+    {
+      "id": "7",
+      "word": "preservation",
+      "definition": "Keeping something in its original state (संरक्षण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The preservation of forests protects water supplies."
+    },
+    {
+      "id": "8",
+      "word": "deforestation",
+      "definition": "Clearing of forests on a large scale (वनों की कटाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Deforestation increases carbon emissions."
+    },
+    {
+      "id": "9",
+      "word": "afforestation",
+      "definition": "Planting trees on land previously without forest (नए वन लगाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Afforestation helps restore soil quality."
+    },
+    {
+      "id": "10",
+      "word": "carbon footprint",
+      "definition": "The total greenhouse gases caused by an activity or person (कार्बन उत्सर्जन का प्रभाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Flying greatly increases an individual's carbon footprint."
+    },
+    {
+      "id": "11",
+      "word": "greenhouse gas",
+      "definition": "A gas that traps heat in the atmosphere (ग्रीनहाउस गैस)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Methane is a powerful greenhouse gas."
+    },
+    {
+      "id": "12",
+      "word": "emissions",
+      "definition": "Gases released into the air (उत्सर्जन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Factories must reduce emissions."
+    },
+    {
+      "id": "13",
+      "word": "fossil fuels",
+      "definition": "Coal, oil and gas formed from ancient organisms (जीवाश्म ईंधन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fossil fuels remain the main source of energy."
+    },
+    {
+      "id": "14",
+      "word": "renewable energy",
+      "definition": "Energy from sources that replenish naturally (नवीकरणीय ऊर्जा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Renewable energy is now cheaper than coal in many places."
+    },
+    {
+      "id": "15",
+      "word": "solar power",
+      "definition": "Energy obtained from the sun (सौर ऊर्जा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Solar power is booming in rural India."
+    },
+    {
+      "id": "16",
+      "word": "wind turbine",
+      "definition": "A machine that converts wind into electricity (पवन टरबाइन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Offshore wind turbines generate large amounts of power."
+    },
+    {
+      "id": "17",
+      "word": "carbon neutral",
+      "definition": "Having no net release of carbon dioxide (कार्बन-तटस्थ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The city aims to be carbon neutral by 2040."
+    },
+    {
+      "id": "18",
+      "word": "net zero",
+      "definition": "Balancing emitted and removed greenhouse gases (शुद्ध शून्य उत्सर्जन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Many countries pledged to reach net zero by 2050."
+    },
+    {
+      "id": "19",
+      "word": "global warming",
+      "definition": "The gradual rise of Earth's temperature (वैश्विक तापमान वृद्धि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Global warming is melting polar ice."
+    },
+    {
+      "id": "20",
+      "word": "climate change",
+      "definition": "Long-term shifts in temperatures and weather patterns (जलवायु परिवर्तन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Climate change increases the frequency of floods."
+    },
+    {
+      "id": "21",
+      "word": "sea level rise",
+      "definition": "The increase in the average level of the oceans (समुद्र स्तर में वृद्धि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Sea level rise threatens coastal cities."
+    },
+    {
+      "id": "22",
+      "word": "extreme weather",
+      "definition": "Severe and unusual weather events (चरम मौसम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Extreme weather is becoming more common."
+    },
+    {
+      "id": "23",
+      "word": "drought",
+      "definition": "A long period of abnormally low rainfall (सूखा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A prolonged drought devastated crops."
+    },
+    {
+      "id": "24",
+      "word": "flooding",
+      "definition": "Overflow of water onto normally dry land (बाढ़)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Heavy rains caused severe flooding."
+    },
+    {
+      "id": "25",
+      "word": "heatwave",
+      "definition": "A long period of unusually hot weather (लू / भीषण गर्मी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The heatwave pushed electricity demand to a record."
+    },
+    {
+      "id": "26",
+      "word": "desertification",
+      "definition": "The process of fertile land becoming desert (मरुस्थलीकरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Overgrazing contributes to desertification."
+    },
+    {
+      "id": "27",
+      "word": "soil erosion",
+      "definition": "The wearing away of topsoil (मिट्टी का कटाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Soil erosion reduces farm productivity."
+    },
+    {
+      "id": "28",
+      "word": "water scarcity",
+      "definition": "A shortage of fresh water (पानी की कमी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Water scarcity affects millions worldwide."
+    },
+    {
+      "id": "29",
+      "word": "groundwater",
+      "definition": "Water held underground in soil and rocks (भूजल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Excessive pumping depletes groundwater."
+    },
+    {
+      "id": "30",
+      "word": "deplete",
+      "definition": "To use up resources so little remains (ख़त्म करते जाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Overfishing has depleted ocean stocks."
+    },
+    {
+      "id": "31",
+      "word": "exhaust",
+      "definition": "To use up completely (पूरी तरह इस्तेमाल कर डालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We risk exhausting natural resources."
+    },
+    {
+      "id": "32",
+      "word": "exploit",
+      "definition": "To use resources, often unfairly or excessively (दोहन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Companies exploit forests for timber."
+    },
+    {
+      "id": "33",
+      "word": "degrade",
+      "definition": "To damage or lower the quality of (बिगाड़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Pollution degrades water quality."
+    },
+    {
+      "id": "34",
+      "word": "contaminate",
+      "definition": "To make impure by adding a harmful substance (दूषित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Industrial waste contaminated the river."
+    },
+    {
+      "id": "35",
+      "word": "pollutant",
+      "definition": "A substance that harms the environment (प्रदूषक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Vehicles release harmful pollutants."
+    },
+    {
+      "id": "36",
+      "word": "smog",
+      "definition": "Fog mixed with smoke and pollution (धुंध और धुएँ का मिश्रण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Smog covers the city every winter."
+    },
+    {
+      "id": "37",
+      "word": "air quality",
+      "definition": "The cleanliness of the air (हवा की गुणवत्ता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Poor air quality causes respiratory disease."
+    },
+    {
+      "id": "38",
+      "word": "landfill",
+      "definition": "A site where waste is buried (कूड़ा-भराव स्थल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Landfills are filling up fast."
+    },
+    {
+      "id": "39",
+      "word": "recycling",
+      "definition": "Converting waste into reusable material (पुनर्चक्रण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Recycling reduces the amount of waste."
+    },
+    {
+      "id": "40",
+      "word": "single-use plastic",
+      "definition": "Plastic products designed to be used once (एक बार इस्तेमाल होने वाला प्लास्टिक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Many countries ban single-use plastic bags."
+    },
+    {
+      "id": "41",
+      "word": "biodegradable",
+      "definition": "Able to decompose naturally (जैव-अपघटनीय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Biodegradable packaging reduces waste."
+    },
+    {
+      "id": "42",
+      "word": "e-waste",
+      "definition": "Discarded electronic devices (इलेक्ट्रॉनिक कचरा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "E-waste contains toxic materials."
+    },
+    {
+      "id": "43",
+      "word": "overconsumption",
+      "definition": "Using resources faster than they can be replaced (अत्यधिक उपभोग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Overconsumption drives environmental damage."
+    },
+    {
+      "id": "44",
+      "word": "consumerism",
+      "definition": "The preoccupation with buying goods (उपभोक्तावाद)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Consumerism encourages wasteful habits."
+    },
+    {
+      "id": "45",
+      "word": "sustainable development",
+      "definition": "Development meeting present needs without harming the future (सतत विकास)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Sustainable development balances growth and nature."
+    },
+    {
+      "id": "46",
+      "word": "eco-friendly",
+      "definition": "Not harmful to the environment (पर्यावरण के अनुकूल)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Eco-friendly products are growing in popularity."
+    },
+    {
+      "id": "47",
+      "word": "green space",
+      "definition": "Areas of parks and nature in cities (हरित क्षेत्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Green spaces improve mental wellbeing."
+    },
+    {
+      "id": "48",
+      "word": "organic",
+      "definition": "Produced without artificial chemicals (जैविक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Organic produce is often more expensive."
+    },
+    {
+      "id": "49",
+      "word": "pesticide",
+      "definition": "A chemical used to kill pests (कीटनाशक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Pesticides can harm bees."
+    },
+    {
+      "id": "50",
+      "word": "monoculture",
+      "definition": "Farming a single crop over a large area (एकल फ़सल खेती)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Monoculture depletes soil nutrients."
+    },
+    {
+      "id": "51",
+      "word": "food security",
+      "definition": "Reliable access to sufficient nutritious food (खाद्य सुरक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Climate change threatens food security."
+    },
+    {
+      "id": "52",
+      "word": "famine",
+      "definition": "Extreme scarcity of food (अकाल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "War and drought caused a famine."
+    },
+    {
+      "id": "53",
+      "word": "malnutrition",
+      "definition": "Lack of proper nutrition (कुपोषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Malnutrition affects children's development."
+    },
+    {
+      "id": "54",
+      "word": "obesity",
+      "definition": "The condition of being very overweight (मोटापा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Childhood obesity has risen sharply."
+    },
+    {
+      "id": "55",
+      "word": "epidemic",
+      "definition": "A widespread occurrence of disease in a community (महामारी (स्थानीय))",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Diabetes is becoming an epidemic."
+    },
+    {
+      "id": "56",
+      "word": "pandemic",
+      "definition": "A disease outbreak spreading worldwide (वैश्विक महामारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The pandemic changed how people work."
+    },
+    {
+      "id": "57",
+      "word": "outbreak",
+      "definition": "A sudden occurrence of disease (रोग का अचानक फैलना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "An outbreak of cholera hit the district."
+    },
+    {
+      "id": "58",
+      "word": "immunity",
+      "definition": "Resistance to disease (रोग प्रतिरोधक क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Vaccines build immunity."
+    },
+    {
+      "id": "59",
+      "word": "vaccination",
+      "definition": "Giving a vaccine to protect against disease (टीकाकरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Mass vaccination reduced infection rates."
+    },
+    {
+      "id": "60",
+      "word": "preventive healthcare",
+      "definition": "Measures taken to avoid illness (निवारक स्वास्थ्य सेवा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Preventive healthcare lowers long-term costs."
+    },
+    {
+      "id": "61",
+      "word": "chronic",
+      "definition": "Persisting for a long time (दीर्घकालिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Chronic stress harms physical health."
+    },
+    {
+      "id": "62",
+      "word": "acute",
+      "definition": "Severe and sudden in onset (तीव्र)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Acute shortages of nurses affected hospitals."
+    },
+    {
+      "id": "63",
+      "word": "life-threatening",
+      "definition": "Capable of causing death (जानलेवा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Delays in treatment can be life-threatening."
+    },
+    {
+      "id": "64",
+      "word": "well-being",
+      "definition": "The state of being comfortable, healthy and happy (कल्याण / स्वास्थ्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Employers should support staff well-being."
+    },
+    {
+      "id": "65",
+      "word": "mental health",
+      "definition": "A person's psychological and emotional condition (मानसिक स्वास्थ्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Mental health needs the same attention as physical health."
+    },
+    {
+      "id": "66",
+      "word": "stigma",
+      "definition": "A mark of disgrace associated with something (कलंक की धारणा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Stigma stops people seeking help for stress."
+    },
+    {
+      "id": "67",
+      "word": "anxiety",
+      "definition": "A feeling of worry or unease (चिंता / बेचैनी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Exam anxiety affects many students."
+    },
+    {
+      "id": "68",
+      "word": "resilient workforce",
+      "definition": "Employees able to cope with stress and change (तनाव झेलने में सक्षम कार्यबल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Training builds a resilient workforce."
+    },
+    {
+      "id": "69",
+      "word": "public health",
+      "definition": "The health of the population as a whole (जन स्वास्थ्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Clean water is vital for public health."
+    },
+    {
+      "id": "70",
+      "word": "healthcare provision",
+      "definition": "The supply of medical services (स्वास्थ्य सेवाओं की उपलब्धता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Rural healthcare provision is inadequate."
+    },
+    {
+      "id": "71",
+      "word": "universal healthcare",
+      "definition": "Health services available to all citizens (सार्वभौमिक स्वास्थ्य सेवा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Universal healthcare reduces inequality."
+    },
+    {
+      "id": "72",
+      "word": "waiting list",
+      "definition": "A list of people waiting for treatment or service (प्रतीक्षा सूची)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Long waiting lists delay surgery."
+    },
+    {
+      "id": "73",
+      "word": "preventable",
+      "definition": "Able to be stopped from happening (रोकथाम योग्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Many deaths are preventable with early screening."
+    },
+    {
+      "id": "74",
+      "word": "lifestyle",
+      "definition": "The way a person lives (जीवनशैली)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A healthy lifestyle includes exercise and good sleep."
+    },
+    {
+      "id": "75",
+      "word": "balanced diet",
+      "definition": "Food containing all necessary nutrients in right proportions (संतुलित आहार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A balanced diet prevents many diseases."
+    },
+    {
+      "id": "76",
+      "word": "junk food",
+      "definition": "Food high in calories but low in nutrition (अस्वास्थ्यकर खाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Junk food advertising targets children."
+    },
+    {
+      "id": "77",
+      "word": "processed food",
+      "definition": "Food altered from its natural state (प्रसंस्कृत खाद्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Processed food often contains too much sugar."
+    },
+    {
+      "id": "78",
+      "word": "nutrient",
+      "definition": "A substance needed for growth and health (पोषक तत्व)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fruit and vegetables provide essential nutrients."
+    },
+    {
+      "id": "79",
+      "word": "physical activity",
+      "definition": "Any movement of the body that uses energy (शारीरिक गतिविधि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Daily physical activity reduces heart disease risk."
+    },
+    {
+      "id": "80",
+      "word": "sedentary lifestyle",
+      "definition": "A way of living involving little exercise (गतिहीन जीवनशैली)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A sedentary lifestyle causes back problems."
+    },
+    {
+      "id": "81",
+      "word": "GDP",
+      "definition": "The total value of goods and services produced in a country (सकल घरेलू उत्पाद)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "GDP growth slowed to two percent."
+    },
+    {
+      "id": "82",
+      "word": "economic growth",
+      "definition": "An increase in a country's production of goods and services (आर्थिक विकास)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Economic growth lifted millions out of poverty."
+    },
+    {
+      "id": "83",
+      "word": "developing nation",
+      "definition": "A country with a lower standard of living and industry (विकासशील देश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Developing nations need affordable technology."
+    },
+    {
+      "id": "84",
+      "word": "emerging economy",
+      "definition": "A country growing rapidly into a developed economy (उभरती अर्थव्यवस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "India is a major emerging economy."
+    },
+    {
+      "id": "85",
+      "word": "trade deficit",
+      "definition": "When imports exceed exports (व्यापार घाटा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The trade deficit widened last year."
+    },
+    {
+      "id": "86",
+      "word": "trade barrier",
+      "definition": "A restriction on international trade (व्यापार बाधा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tariffs act as trade barriers."
+    },
+    {
+      "id": "87",
+      "word": "tariff",
+      "definition": "A tax on imported goods (आयात शुल्क)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The tariff raised the price of imported steel."
+    },
+    {
+      "id": "88",
+      "word": "export",
+      "definition": "A product sold to another country (निर्यात)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Software is India's major export."
+    },
+    {
+      "id": "89",
+      "word": "import",
+      "definition": "A product bought from another country (आयात)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Oil is the country's largest import."
+    },
+    {
+      "id": "90",
+      "word": "foreign investment",
+      "definition": "Money invested from overseas into a country (विदेशी निवेश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Foreign investment boosted the manufacturing sector."
+    },
+    {
+      "id": "91",
+      "word": "outsourcing",
+      "definition": "Contracting work to external parties, often overseas (काम बाहर से करवाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Outsourcing reduces costs but may cut local jobs."
+    },
+    {
+      "id": "92",
+      "word": "offshoring",
+      "definition": "Moving business operations to another country (व्यवसाय विदेश में स्थानांतरित करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Offshoring has transformed the IT industry."
+    },
+    {
+      "id": "93",
+      "word": "multinational",
+      "definition": "A company operating in many countries (बहुराष्ट्रीय कंपनी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Multinationals bring jobs and expertise."
+    },
+    {
+      "id": "94",
+      "word": "monopoly",
+      "definition": "Exclusive control of a market by one company (एकाधिकार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Monopolies can reduce choice and raise prices."
+    },
+    {
+      "id": "95",
+      "word": "competition",
+      "definition": "Rivalry between businesses for customers (प्रतिस्पर्धा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Competition keeps prices low."
+    },
+    {
+      "id": "96",
+      "word": "entrepreneur",
+      "definition": "A person who starts and runs a business (उद्यमी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Young entrepreneurs are launching tech start-ups."
+    },
+    {
+      "id": "97",
+      "word": "start-up",
+      "definition": "A newly established business (नई कंपनी / स्टार्टअप)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The start-up raised funding in its first year."
+    },
+    {
+      "id": "98",
+      "word": "small business",
+      "definition": "A privately owned company with few employees (छोटा व्यवसाय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Small businesses create most new jobs."
+    },
+    {
+      "id": "99",
+      "word": "innovation",
+      "definition": "The introduction of new ideas or methods (नवाचार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Innovation drives long-term economic growth."
+    },
+    {
+      "id": "100",
+      "word": "productivity",
+      "definition": "The efficiency of production (उत्पादकता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Technology improved worker productivity."
+    },
+    {
+      "id": "101",
+      "word": "wage",
+      "definition": "Payment for work, usually hourly or weekly (मज़दूरी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The minimum wage was raised this year."
+    },
+    {
+      "id": "102",
+      "word": "minimum wage",
+      "definition": "The lowest legal pay for workers (न्यूनतम मज़दूरी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The minimum wage should reflect the cost of living."
+    },
+    {
+      "id": "103",
+      "word": "disposable income",
+      "definition": "Money left after taxes and essentials (ख़र्च योग्य आय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Rising prices reduced disposable income."
+    },
+    {
+      "id": "104",
+      "word": "taxation",
+      "definition": "The system of collecting taxes (कराधान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Progressive taxation reduces inequality."
+    },
+    {
+      "id": "105",
+      "word": "public spending",
+      "definition": "Money spent by government on services (सार्वजनिक व्यय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Public spending on health must rise."
+    },
+    {
+      "id": "106",
+      "word": "welfare",
+      "definition": "Support provided by the state for those in need (कल्याण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Welfare payments protect the unemployed."
+    },
+    {
+      "id": "107",
+      "word": "pension",
+      "definition": "Regular payment to retired people (पेंशन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Pensions are under pressure from ageing populations."
+    },
+    {
+      "id": "108",
+      "word": "social security",
+      "definition": "Government support for the unemployed, elderly and disabled (सामाजिक सुरक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Social security prevents extreme hardship."
+    },
+    {
+      "id": "109",
+      "word": "affluent",
+      "definition": "Wealthy and prosperous (संपन्न)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Affluent families can afford private schooling."
+    },
+    {
+      "id": "110",
+      "word": "prosperous",
+      "definition": "Successful and flourishing financially (समृद्ध)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A prosperous economy attracts skilled workers."
+    },
+    {
+      "id": "111",
+      "word": "impoverished",
+      "definition": "Made poor (निर्धन बना दिया गया)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The impoverished region lacks basic services."
+    },
+    {
+      "id": "112",
+      "word": "destitute",
+      "definition": "Extremely poor and lacking basic needs (अत्यंत निर्धन)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "War left thousands of families destitute."
+    },
+    {
+      "id": "113",
+      "word": "wealth gap",
+      "definition": "The difference in wealth between rich and poor (अमीर-ग़रीब के बीच की खाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The wealth gap has widened since the crisis."
+    },
+    {
+      "id": "114",
+      "word": "consumption",
+      "definition": "The use of goods and resources (उपभोग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Energy consumption doubled in twenty years."
+    },
+    {
+      "id": "115",
+      "word": "supply chain",
+      "definition": "The network of producing and delivering goods (आपूर्ति शृंखला)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Pandemic lockdowns disrupted global supply chains."
+    },
+    {
+      "id": "116",
+      "word": "shortage",
+      "definition": "A lack of something needed (कमी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A shortage of skilled labour delayed construction."
+    },
+    {
+      "id": "117",
+      "word": "surplus",
+      "definition": "An amount left over after needs are met (अधिशेष)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A food surplus can be donated to the needy."
+    },
+    {
+      "id": "118",
+      "word": "inflationary pressure",
+      "definition": "Forces causing prices to rise (मुद्रास्फीति का दबाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Higher wages created inflationary pressure."
+    },
+    {
+      "id": "119",
+      "word": "volatile",
+      "definition": "Liable to change rapidly and unpredictably (अस्थिर)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Oil prices are highly volatile."
+    },
+    {
+      "id": "120",
+      "word": "turbulent",
+      "definition": "Characterised by conflict or confusion (उथल-पुथल भरा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The company survived a turbulent decade."
+    },
+    {
+      "id": "121",
+      "word": "stagnant",
+      "definition": "Showing no activity or growth (ठहरा हुआ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Wages remained stagnant for years."
+    },
+    {
+      "id": "122",
+      "word": "downturn",
+      "definition": "A decline in economic activity (आर्थिक गिरावट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The downturn forced companies to cut jobs."
+    },
+    {
+      "id": "123",
+      "word": "upturn",
+      "definition": "An improvement in economic conditions (आर्थिक सुधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "An upturn in exports boosted growth."
+    },
+    {
+      "id": "124",
+      "word": "boom",
+      "definition": "A period of rapid economic growth (तेज़ आर्थिक उछाल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The housing boom pushed prices up."
+    },
+    {
+      "id": "125",
+      "word": "bust",
+      "definition": "A sudden collapse of economic activity (अचानक आर्थिक पतन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The boom ended in a painful bust."
+    },
+    {
+      "id": "126",
+      "word": "tourism",
+      "definition": "The industry of travel for pleasure (पर्यटन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Tourism is a major source of foreign income."
+    },
+    {
+      "id": "127",
+      "word": "ecotourism",
+      "definition": "Responsible travel to natural areas (पर्यावरण-अनुकूल पर्यटन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Ecotourism supports local communities and wildlife."
+    },
+    {
+      "id": "128",
+      "word": "heritage site",
+      "definition": "A place of historic or cultural importance (धरोहर स्थल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The temple is a protected heritage site."
+    },
+    {
+      "id": "129",
+      "word": "overcrowding",
+      "definition": "Too many people in a limited space (अत्यधिक भीड़)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Overcrowding at popular sites damages the environment."
+    },
+    {
+      "id": "130",
+      "word": "mass tourism",
+      "definition": "Large-scale tourism by many visitors (बड़े पैमाने का पर्यटन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Mass tourism strains local infrastructure."
+    },
+    {
+      "id": "131",
+      "word": "cross-cultural",
+      "definition": "Involving more than one culture (अंतर-सांस्कृतिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Cross-cultural understanding reduces conflict."
+    },
+    {
+      "id": "132",
+      "word": "cosmopolitan",
+      "definition": "Including people from many parts of the world (बहुसांस्कृतिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Bengaluru is a cosmopolitan city."
+    },
+    {
+      "id": "133",
+      "word": "multicultural",
+      "definition": "Relating to several cultural groups (बहुसांस्कृतिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A multicultural society benefits from diverse ideas."
+    },
+    {
+      "id": "134",
+      "word": "bilingual",
+      "definition": "Able to speak two languages (द्विभाषी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Bilingual children often have better memory."
+    },
+    {
+      "id": "135",
+      "word": "fluency",
+      "definition": "The ability to speak a language smoothly (प्रवाह)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fluency comes from regular speaking practice."
+    },
+    {
+      "id": "136",
+      "word": "endangered language",
+      "definition": "A language at risk of falling out of use (विलुप्तप्राय भाषा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Many endangered languages have no written form."
+    },
+    {
+      "id": "137",
+      "word": "lingua franca",
+      "definition": "A common language between speakers of different native languages (संपर्क भाषा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "English is the lingua franca of business."
+    },
+    {
+      "id": "138",
+      "word": "mother tongue",
+      "definition": "A person's first language (मातृभाषा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Primary education in the mother tongue improves understanding."
+    },
+    {
+      "id": "139",
+      "word": "cultural exchange",
+      "definition": "Sharing of culture between countries or groups (सांस्कृतिक आदान-प्रदान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Student exchange programmes encourage cultural exchange."
+    },
+    {
+      "id": "140",
+      "word": "soft power",
+      "definition": "Influence gained through culture and values rather than force (सॉफ़्ट पावर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Cinema is a source of soft power."
+    },
+    {
+      "id": "141",
+      "word": "diaspora",
+      "definition": "People settled away from their ancestral homeland (प्रवासी समुदाय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The Indian diaspora supports many causes at home."
+    },
+    {
+      "id": "142",
+      "word": "refugee",
+      "definition": "A person forced to flee their country (शरणार्थी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The country hosts thousands of refugees."
+    },
+    {
+      "id": "143",
+      "word": "asylum",
+      "definition": "Protection granted to someone fleeing persecution (शरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Many seek asylum from conflict zones."
+    },
+    {
+      "id": "144",
+      "word": "humanitarian",
+      "definition": "Concerned with improving human welfare (मानवीय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Humanitarian aid reached the flood victims."
+    },
+    {
+      "id": "145",
+      "word": "aid",
+      "definition": "Help given to those in need (सहायता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "International aid supports rebuilding efforts."
+    },
+    {
+      "id": "146",
+      "word": "charity",
+      "definition": "An organisation helping those in need (दान / सेवा संस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The charity provides free meals to the homeless."
+    },
+    {
+      "id": "147",
+      "word": "volunteer",
+      "definition": "To offer to do something without payment (स्वेच्छा से सेवा करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Many students volunteer at local shelters."
+    },
+    {
+      "id": "148",
+      "word": "philanthropy",
+      "definition": "The giving of money to good causes (परोपकार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Philanthropy funds scholarships for the poor."
+    },
+    {
+      "id": "149",
+      "word": "altruism",
+      "definition": "Selfless concern for others (परोपकारिता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Altruism motivates many to donate blood."
+    },
+    {
+      "id": "150",
+      "word": "carbon sink",
+      "definition": "A natural system that absorbs more carbon than it releases (कार्बन सोखने वाला प्राकृतिक तंत्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Forests act as a vital carbon sink."
+    },
+    {
+      "id": "151",
+      "word": "carbon offset",
+      "definition": "A reduction in emissions made to compensate for others (कार्बन उत्सर्जन की भरपाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Airlines sell carbon offsets to passengers."
+    },
+    {
+      "id": "152",
+      "word": "carbon capture",
+      "definition": "Trapping carbon dioxide before it enters the atmosphere (कार्बन डाइऑक्साइड को पकड़ना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Carbon capture could cut industrial emissions."
+    },
+    {
+      "id": "153",
+      "word": "greenwashing",
+      "definition": "Falsely presenting a product as environmentally friendly (झूठा पर्यावरण-हितैषी दिखावा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Regulators are cracking down on greenwashing."
+    },
+    {
+      "id": "154",
+      "word": "circular economy",
+      "definition": "An economic system that reuses and recycles resources (पुन: उपयोग पर आधारित अर्थव्यवस्था)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A circular economy reduces waste."
+    },
+    {
+      "id": "155",
+      "word": "fast fashion",
+      "definition": "Cheap clothing produced quickly for trends (सस्ते व जल्दी बदलते फ़ैशन के कपड़े)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fast fashion creates huge amounts of textile waste."
+    },
+    {
+      "id": "156",
+      "word": "planned obsolescence",
+      "definition": "Designing products to become outdated quickly (जानबूझकर जल्दी पुराना होने वाली डिज़ाइन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Planned obsolescence pushes people to buy new phones."
+    },
+    {
+      "id": "157",
+      "word": "tipping point",
+      "definition": "The point at which change becomes irreversible (वह बिंदु जिसके बाद बदलाव अपरिवर्तनीय हो जाए)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Scientists warn of climate tipping points."
+    },
+    {
+      "id": "158",
+      "word": "irreversible",
+      "definition": "Impossible to undo (अपरिवर्तनीय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The damage to the glacier is irreversible."
+    },
+    {
+      "id": "159",
+      "word": "mitigation measures",
+      "definition": "Actions to reduce the impact of a problem (प्रभाव घटाने के उपाय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Climate mitigation measures need global cooperation."
+    },
+    {
+      "id": "160",
+      "word": "adaptation",
+      "definition": "Adjusting to new conditions (अनुकूलन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Coastal adaptation will cost billions."
+    },
+    {
+      "id": "161",
+      "word": "resilience planning",
+      "definition": "Preparing systems to withstand shocks (झटके सहने की तैयारी की योजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Cities invest in resilience planning for floods."
+    },
+    {
+      "id": "162",
+      "word": "sustainable agriculture",
+      "definition": "Farming that protects resources for the future (टिकाऊ खेती)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Sustainable agriculture improves soil health."
+    },
+    {
+      "id": "163",
+      "word": "crop rotation",
+      "definition": "Growing different crops in turn on the same land (फ़सल चक्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Crop rotation keeps soil fertile."
+    },
+    {
+      "id": "164",
+      "word": "irrigation",
+      "definition": "Artificial supply of water to land (सिंचाई)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Drip irrigation saves water."
+    },
+    {
+      "id": "165",
+      "word": "fertiliser",
+      "definition": "A substance added to soil to help plants grow (खाद / उर्वरक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Excess fertiliser pollutes rivers."
+    },
+    {
+      "id": "166",
+      "word": "genetically modified",
+      "definition": "Having altered genes (आनुवंशिक रूप से संशोधित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Genetically modified crops can resist pests."
+    },
+    {
+      "id": "167",
+      "word": "aquifer",
+      "definition": "An underground layer holding groundwater (भूमिगत जलभंडार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The aquifer is shrinking each year."
+    },
+    {
+      "id": "168",
+      "word": "watershed",
+      "definition": "An area of land draining into a common water source (जलग्रहण क्षेत्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Protecting the watershed secures city water."
+    },
+    {
+      "id": "169",
+      "word": "reservoir",
+      "definition": "A large natural or artificial lake for water storage (जलाशय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Reservoir levels dropped during the drought."
+    },
+    {
+      "id": "170",
+      "word": "renewable resources",
+      "definition": "Resources that replenish naturally (नवीकरणीय संसाधन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Wind and water are renewable resources."
+    },
+    {
+      "id": "171",
+      "word": "non-renewable",
+      "definition": "Not able to be replaced naturally in a short time (अनवीकरणीय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Coal is a non-renewable resource."
+    },
+    {
+      "id": "172",
+      "word": "energy efficiency",
+      "definition": "Using less energy for the same result (ऊर्जा दक्षता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Energy efficiency cuts bills and emissions."
+    },
+    {
+      "id": "173",
+      "word": "power grid",
+      "definition": "A network delivering electricity (बिजली ग्रिड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Renewables strain the power grid."
+    },
+    {
+      "id": "174",
+      "word": "nuclear power",
+      "definition": "Energy produced by nuclear reactions (परमाणु ऊर्जा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Nuclear power produces low-carbon electricity."
+    },
+    {
+      "id": "175",
+      "word": "geothermal",
+      "definition": "Using heat from within the Earth (भूतापीय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Geothermal energy is stable and clean."
+    },
+    {
+      "id": "176",
+      "word": "hydropower",
+      "definition": "Electricity generated from flowing water (जल विद्युत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Hydropower provides much of the region's energy."
+    },
+    {
+      "id": "177",
+      "word": "electric vehicle",
+      "definition": "A vehicle powered by electricity (इलेक्ट्रिक वाहन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Electric vehicle sales doubled this year."
+    },
+    {
+      "id": "178",
+      "word": "charging infrastructure",
+      "definition": "Facilities for recharging electric vehicles (चार्जिंग की सुविधाएँ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Charging infrastructure remains limited in small towns."
+    },
+    {
+      "id": "179",
+      "word": "public awareness",
+      "definition": "General knowledge of an issue among people (जन जागरूकता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Public awareness campaigns reduced littering."
+    },
+    {
+      "id": "180",
+      "word": "grassroots campaign",
+      "definition": "A movement started by ordinary people (आम लोगों द्वारा शुरू किया गया अभियान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A grassroots campaign saved the local forest."
+    },
+    {
+      "id": "181",
+      "word": "environmental degradation",
+      "definition": "Deterioration of the natural environment (पर्यावरणीय क्षरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Environmental degradation harms public health."
+    },
+    {
+      "id": "182",
+      "word": "ozone layer",
+      "definition": "Atmospheric layer that blocks harmful ultraviolet rays (ओज़ोन परत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The ozone layer is slowly recovering."
+    },
+    {
+      "id": "183",
+      "word": "acid rain",
+      "definition": "Rain made acidic by pollutants (अम्लीय वर्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Acid rain damages forests and buildings."
+    },
+    {
+      "id": "184",
+      "word": "noise pollution",
+      "definition": "Harmful or annoying levels of noise (ध्वनि प्रदूषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Noise pollution affects sleep and stress."
+    },
+    {
+      "id": "185",
+      "word": "light pollution",
+      "definition": "Excessive artificial light at night (प्रकाश प्रदूषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Light pollution disturbs migrating birds."
+    },
+    {
+      "id": "186",
+      "word": "overfishing",
+      "definition": "Catching fish faster than they can reproduce (अत्यधिक मछली पकड़ना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Overfishing is emptying the oceans."
+    },
+    {
+      "id": "187",
+      "word": "poaching",
+      "definition": "Illegal hunting of wildlife (अवैध शिकार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Poaching pushes rhinos towards extinction."
+    },
+    {
+      "id": "188",
+      "word": "wildlife sanctuary",
+      "definition": "A protected area for animals (वन्यजीव अभयारण्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The sanctuary protects endangered tigers."
+    },
+    {
+      "id": "189",
+      "word": "national park",
+      "definition": "A protected natural area (राष्ट्रीय उद्यान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Visitors to the national park must follow strict rules."
+    },
+    {
+      "id": "190",
+      "word": "eco-conscious",
+      "definition": "Aware of and concerned about the environment (पर्यावरण के प्रति जागरूक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Eco-conscious consumers prefer sustainable brands."
+    },
+    {
+      "id": "191",
+      "word": "zero waste",
+      "definition": "Aiming to send nothing to landfill (शून्य कचरा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Many cafes are going zero waste."
+    },
+    {
+      "id": "192",
+      "word": "upcycle",
+      "definition": "To reuse materials to create better-quality items (पुराने से बेहतर चीज़ बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She upcycles old furniture into new designs."
+    },
+    {
+      "id": "193",
+      "word": "compost",
+      "definition": "To turn organic waste into fertiliser (जैविक कचरे से खाद बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Many households compost kitchen waste."
+    },
+    {
+      "id": "194",
+      "word": "reforestation",
+      "definition": "Replanting trees in cleared areas (दोबारा वन लगाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Reforestation restores habitats and soil."
+    },
+    {
+      "id": "195",
+      "word": "rewilding",
+      "definition": "Restoring land to its natural uncultivated state (भूमि को प्राकृतिक अवस्था में लौटाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Rewilding brought back native species."
+    },
+    {
+      "id": "196",
+      "word": "sustainable livelihood",
+      "definition": "A way of earning that doesn't harm resources (टिकाऊ आजीविका)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Ecotourism provides a sustainable livelihood."
+    },
+    {
+      "id": "197",
+      "word": "climate refugee",
+      "definition": "A person displaced by climate effects (जलवायु शरणार्थी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Rising seas will create millions of climate refugees."
+    },
+    {
+      "id": "198",
+      "word": "natural disaster",
+      "definition": "A sudden destructive natural event (प्राकृतिक आपदा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Early warning systems save lives in natural disasters."
+    },
+    {
+      "id": "199",
+      "word": "disaster relief",
+      "definition": "Aid given after a disaster (आपदा राहत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Disaster relief reached the flooded villages quickly."
+    },
+    {
+      "id": "200",
+      "word": "resource depletion",
+      "definition": "The using up of natural resources (संसाधनों का ह्रास)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Resource depletion threatens future generations."
+    }
+  ],
+  "id": "dfe458f4-07dd-4273-a3a1-2c750f969289",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

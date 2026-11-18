@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 10 - Idioms & Collocations",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "hit the nail on the head",
+      "definition": "To describe exactly what is causing a situation (ठीक निशाने पर बात कहना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "You hit the nail on the head: the problem is ownership."
+    },
+    {
+      "id": "2",
+      "word": "the ball is in your court",
+      "definition": "It is your turn to take action (अब कदम उठाने की बारी आपकी है)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We've sent the proposal, so the ball is in their court."
+    },
+    {
+      "id": "3",
+      "word": "drop the ball",
+      "definition": "To make a mistake by failing to do something (ज़िम्मेदारी निभाने में चूक जाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We dropped the ball on communicating the delay."
+    },
+    {
+      "id": "4",
+      "word": "keep someone in the loop",
+      "definition": "To keep someone informed (किसी को जानकारी में बनाए रखना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Please keep me in the loop on the vendor discussions."
+    },
+    {
+      "id": "5",
+      "word": "out of the loop",
+      "definition": "Not informed about recent developments (ताज़ा जानकारी से अनजान)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "I've been on leave, so I'm out of the loop."
+    },
+    {
+      "id": "6",
+      "word": "in the pipeline",
+      "definition": "Being planned or developed (योजना या तैयारी में)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "There are three new features in the pipeline."
+    },
+    {
+      "id": "7",
+      "word": "on the back burner",
+      "definition": "Temporarily postponed or given low priority (कम प्राथमिकता पर रखा हुआ)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The refactor was put on the back burner."
+    },
+    {
+      "id": "8",
+      "word": "on the horizon",
+      "definition": "About to happen soon (जल्द आने वाला)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "A major platform upgrade is on the horizon."
+    },
+    {
+      "id": "9",
+      "word": "up in the air",
+      "definition": "Not yet decided (अनिर्णीत)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The release date is still up in the air."
+    },
+    {
+      "id": "10",
+      "word": "touch and go",
+      "definition": "Uncertain and risky as to outcome (अनिश्चित और जोखिम भरा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "It was touch and go before the cutover succeeded."
+    },
+    {
+      "id": "11",
+      "word": "down to the wire",
+      "definition": "Continuing until the last possible moment (आख़िरी क्षण तक)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The project went down to the wire."
+    },
+    {
+      "id": "12",
+      "word": "against the clock",
+      "definition": "Rushing to finish within limited time (समय से होड़ लगाकर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We worked against the clock to restore service."
+    },
+    {
+      "id": "13",
+      "word": "under the gun",
+      "definition": "Under intense pressure (भारी दबाव में)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The team was under the gun to fix the bug."
+    },
+    {
+      "id": "14",
+      "word": "under the radar",
+      "definition": "Not noticed by many people (चुपचाप, बिना ध्यान में आए)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The issue stayed under the radar for months."
+    },
+    {
+      "id": "15",
+      "word": "in the same boat",
+      "definition": "In the same difficult situation as others (एक जैसी मुश्किल स्थिति में)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "All teams are in the same boat with the deadline."
+    },
+    {
+      "id": "16",
+      "word": "a blessing in disguise",
+      "definition": "Something that seems bad but has a good result (छुपा हुआ वरदान)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The delay was a blessing in disguise; we found a bug."
+    },
+    {
+      "id": "17",
+      "word": "the tip of the iceberg",
+      "definition": "A small visible part of a much larger problem (बड़ी समस्या का छोटा हिस्सा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "These errors are only the tip of the iceberg."
+    },
+    {
+      "id": "18",
+      "word": "a can of worms",
+      "definition": "A situation that creates many unexpected problems (उलझनों से भरा मामला)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Changing the schema opened a can of worms."
+    },
+    {
+      "id": "19",
+      "word": "a double whammy",
+      "definition": "Two bad things happening together (दोहरी मार)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Late files and a system outage were a double whammy."
+    },
+    {
+      "id": "20",
+      "word": "a perfect storm",
+      "definition": "A rare combination of bad factors (बुरे हालात का दुर्लभ संगम)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Holidays and a vendor change created a perfect storm."
+    },
+    {
+      "id": "21",
+      "word": "a domino effect",
+      "definition": "A chain reaction of events (एक के बाद एक असर पड़ना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "One failure caused a domino effect across teams."
+    },
+    {
+      "id": "22",
+      "word": "a knock-on effect",
+      "definition": "An indirect consequence (अप्रत्यक्ष परिणाम)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The delay had a knock-on effect on testing."
+    },
+    {
+      "id": "23",
+      "word": "snowball effect",
+      "definition": "A situation growing quickly from small beginnings (छोटी बात का तेज़ी से बड़ा हो जाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Minor errors had a snowball effect."
+    },
+    {
+      "id": "24",
+      "word": "a steep learning curve",
+      "definition": "A task that is hard to learn at first (शुरुआत में सीखना कठिन)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Kubernetes has a steep learning curve."
+    },
+    {
+      "id": "25",
+      "word": "a tough nut to crack",
+      "definition": "A difficult problem to solve (सुलझाने में कठिन समस्या)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The race condition was a tough nut to crack."
+    },
+    {
+      "id": "26",
+      "word": "a long shot",
+      "definition": "An attempt with little chance of success (कम सफलता की संभावना वाला प्रयास)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "It's a long shot, but let's try restarting the consumer."
+    },
+    {
+      "id": "27",
+      "word": "a step in the right direction",
+      "definition": "An action that moves towards a good result (सही दिशा में कदम)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The new alerts are a step in the right direction."
+    },
+    {
+      "id": "28",
+      "word": "a drop in the ocean",
+      "definition": "A very small amount compared with what is needed (ऊँट के मुँह में जीरा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The extra budget is a drop in the ocean."
+    },
+    {
+      "id": "29",
+      "word": "the last straw",
+      "definition": "The final problem that makes a situation unbearable (आख़िरी तिनका)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The third outage was the last straw for the client."
+    },
+    {
+      "id": "30",
+      "word": "the final nail in the coffin",
+      "definition": "An event that causes the end of something (अंतिम निर्णायक चोट)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The cost overrun was the final nail in the project's coffin."
+    },
+    {
+      "id": "31",
+      "word": "the writing is on the wall",
+      "definition": "Signs show that something bad is about to happen (आने वाली बुरी स्थिति के स्पष्ट संकेत)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The writing was on the wall for the legacy platform."
+    },
+    {
+      "id": "32",
+      "word": "the dust has settled",
+      "definition": "The situation has become calm after confusion (हालात शांत हो गए हैं)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's review once the dust has settled."
+    },
+    {
+      "id": "33",
+      "word": "the calm before the storm",
+      "definition": "A quiet period before a stressful event (तूफ़ान से पहले की शांति)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The quiet morning was the calm before the storm."
+    },
+    {
+      "id": "34",
+      "word": "a wake-up call",
+      "definition": "An event that alerts people to a problem (चेतावनी जगाने वाली घटना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The outage was a wake-up call for resilience."
+    },
+    {
+      "id": "35",
+      "word": "a red flag",
+      "definition": "A warning sign of a problem (ख़तरे का संकेत)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Missing audit logs are a red flag."
+    },
+    {
+      "id": "36",
+      "word": "a grey area",
+      "definition": "A situation not clearly defined by rules (अस्पष्ट क्षेत्र)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Data sharing between teams is a grey area."
+    },
+    {
+      "id": "37",
+      "word": "a litmus test",
+      "definition": "A decisive test of quality or success (निर्णायक कसौटी)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The migration is a litmus test for the new design."
+    },
+    {
+      "id": "38",
+      "word": "the bottom of the barrel",
+      "definition": "The lowest quality or last available option (सबसे निचला विकल्प)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We've reached the bottom of the barrel for quick fixes."
+    },
+    {
+      "id": "39",
+      "word": "by the book",
+      "definition": "Strictly following the rules (नियमों के अनुसार)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Compliance requires doing everything by the book."
+    },
+    {
+      "id": "40",
+      "word": "cut corners",
+      "definition": "To do something cheaply or carelessly (काम में जल्दबाज़ी या कमी करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Never cut corners on security."
+    },
+    {
+      "id": "41",
+      "word": "bend the rules",
+      "definition": "To act slightly outside the rules (नियमों में ढील देना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We can't bend the rules for audit evidence."
+    },
+    {
+      "id": "42",
+      "word": "play it by ear",
+      "definition": "To decide how to act as events unfold (हालात देखकर फ़ैसला करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We'll play it by ear after the first test."
+    },
+    {
+      "id": "43",
+      "word": "play it safe",
+      "definition": "To avoid risk (जोखिम से बचना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's play it safe and roll back."
+    },
+    {
+      "id": "44",
+      "word": "take a rain check",
+      "definition": "To politely decline now but suggest later (बाद के लिए टालना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let me take a rain check on the meeting."
+    },
+    {
+      "id": "45",
+      "word": "call it a day",
+      "definition": "To stop working for the day (आज का काम बंद करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's call it a day and resume tomorrow."
+    },
+    {
+      "id": "46",
+      "word": "call the shots",
+      "definition": "To be in charge and make decisions (फ़ैसले लेना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The product owner calls the shots on scope."
+    },
+    {
+      "id": "47",
+      "word": "take the lead",
+      "definition": "To assume leadership of a task (नेतृत्व संभालना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She took the lead on the incident response."
+    },
+    {
+      "id": "48",
+      "word": "take it with a pinch of salt",
+      "definition": "To not completely believe something (बात पर पूरा भरोसा न करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Take the vendor's estimate with a pinch of salt."
+    },
+    {
+      "id": "49",
+      "word": "read between the lines",
+      "definition": "To understand a hidden meaning (पंक्तियों के बीच का अर्थ समझना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Reading between the lines, the client is unhappy."
+    },
+    {
+      "id": "50",
+      "word": "get the ball rolling",
+      "definition": "To start a process (काम की शुरुआत करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's get the ball rolling on the design doc."
+    },
+    {
+      "id": "51",
+      "word": "back to square one",
+      "definition": "Starting again after a failure (फिर शुरू से शुरुआत)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The failed test sent us back to square one."
+    },
+    {
+      "id": "52",
+      "word": "a blank slate",
+      "definition": "A fresh start with no preconceptions (साफ़ शुरुआत)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "A new project gives us a blank slate."
+    },
+    {
+      "id": "53",
+      "word": "raise eyebrows",
+      "definition": "To cause surprise or disapproval (हैरानी या असहमति पैदा करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The cost estimate raised a few eyebrows."
+    },
+    {
+      "id": "54",
+      "word": "rock the boat",
+      "definition": "To cause trouble by upsetting a stable situation (स्थिति बिगाड़ना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He didn't want to rock the boat before the release."
+    },
+    {
+      "id": "55",
+      "word": "ruffle feathers",
+      "definition": "To upset people (लोगों को नाराज़ करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The new policy ruffled a few feathers."
+    },
+    {
+      "id": "56",
+      "word": "bite the bullet",
+      "definition": "To do something unpleasant that is unavoidable (कड़वा घूँट पीकर करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We decided to bite the bullet and upgrade."
+    },
+    {
+      "id": "57",
+      "word": "face the music",
+      "definition": "To accept the consequences of your actions (परिणाम का सामना करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He faced the music after the missed deadline."
+    },
+    {
+      "id": "58",
+      "word": "own the problem",
+      "definition": "To take responsibility for solving something (समस्या की ज़िम्मेदारी लेना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Own the problem and update stakeholders regularly."
+    },
+    {
+      "id": "59",
+      "word": "take the blame",
+      "definition": "To accept responsibility for a mistake (दोष स्वीकार करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "She took the blame for the missed alert."
+    },
+    {
+      "id": "60",
+      "word": "shift the blame",
+      "definition": "To make someone else seem responsible (दोष दूसरे पर डालना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Don't shift the blame; fix the process."
+    },
+    {
+      "id": "61",
+      "word": "pass the buck",
+      "definition": "To shift responsibility to someone else (ज़िम्मेदारी दूसरों पर टालना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Teams kept passing the buck on data ownership."
+    },
+    {
+      "id": "62",
+      "word": "the buck stops here",
+      "definition": "I take final responsibility (अंतिम ज़िम्मेदारी मेरी है)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "As the lead, the buck stops here."
+    },
+    {
+      "id": "63",
+      "word": "pull strings",
+      "definition": "To use influence to get something done (प्रभाव का उपयोग करके काम निकालना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He pulled strings to get approval quickly."
+    },
+    {
+      "id": "64",
+      "word": "twist someone's arm",
+      "definition": "To persuade by pressure (दबाव डालकर मनाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "It took some arm-twisting to get the budget."
+    },
+    {
+      "id": "65",
+      "word": "sweeten the deal",
+      "definition": "To make an offer more attractive (सौदे को आकर्षक बनाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "They sweetened the deal with free support."
+    },
+    {
+      "id": "66",
+      "word": "strike a balance",
+      "definition": "To find a fair middle ground (संतुलन बनाना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "We must strike a balance between speed and safety."
+    },
+    {
+      "id": "67",
+      "word": "strike a deal",
+      "definition": "To reach an agreement (समझौता करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "We struck a deal with the vendor."
+    },
+    {
+      "id": "68",
+      "word": "strike a chord",
+      "definition": "To produce an emotional or relatable response (दिल को छू लेना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Her story struck a chord with the audience."
+    },
+    {
+      "id": "69",
+      "word": "set the tone",
+      "definition": "To establish the mood or standard (माहौल या मानक तय करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Leaders set the tone for team culture."
+    },
+    {
+      "id": "70",
+      "word": "set a precedent",
+      "definition": "To create an example for future cases (नज़ीर क़ायम करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "The decision sets a precedent for future changes."
+    },
+    {
+      "id": "71",
+      "word": "set the record straight",
+      "definition": "To correct a misunderstanding (ग़लतफ़हमी दूर करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let me set the record straight about the incident."
+    },
+    {
+      "id": "72",
+      "word": "shed light on",
+      "definition": "To help explain something (स्थिति पर प्रकाश डालना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The logs shed light on the root cause."
+    },
+    {
+      "id": "73",
+      "word": "cast doubt on",
+      "definition": "To make something seem less certain (संदेह पैदा करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "The inconsistent results cast doubt on the model."
+    },
+    {
+      "id": "74",
+      "word": "lay the groundwork",
+      "definition": "To prepare for future development (आधार तैयार करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The pilot laid the groundwork for a full rollout."
+    },
+    {
+      "id": "75",
+      "word": "pave the way",
+      "definition": "To make future progress possible (आगे का रास्ता बनाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "This change paves the way for real-time ingestion."
+    },
+    {
+      "id": "76",
+      "word": "open the floodgates",
+      "definition": "To allow a large amount of something to happen (बाढ़-सा प्रवाह शुरू कर देना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "One exception would open the floodgates for more."
+    },
+    {
+      "id": "77",
+      "word": "turn the tide",
+      "definition": "To change the course of a situation (हालात का रुख़ बदलना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The hotfix turned the tide of the incident."
+    },
+    {
+      "id": "78",
+      "word": "tip the balance",
+      "definition": "To make one side more likely to win (संतुलन एक ओर झुकाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Cost savings tipped the balance in favour of the cloud."
+    },
+    {
+      "id": "79",
+      "word": "raise the stakes",
+      "definition": "To increase risk or consequences (दाँव बढ़ाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The audit raised the stakes for compliance."
+    },
+    {
+      "id": "80",
+      "word": "put the cart before the horse",
+      "definition": "To do things in the wrong order (उल्टा क्रम अपनाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Designing the UI before requirements is putting the cart before the horse."
+    },
+    {
+      "id": "81",
+      "word": "reinvent the wheel",
+      "definition": "To waste time redoing what already exists (पहले से मौजूद चीज़ दोबारा बनाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's not reinvent the wheel; use the library."
+    },
+    {
+      "id": "82",
+      "word": "kill two birds with one stone",
+      "definition": "To achieve two aims with one action (एक तीर से दो निशाने)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Automation kills two birds with one stone: speed and accuracy."
+    },
+    {
+      "id": "83",
+      "word": "the whole nine yards",
+      "definition": "Everything possible (पूरा-पूरा सब कुछ)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "They gave us the whole nine yards in training."
+    },
+    {
+      "id": "84",
+      "word": "go the distance",
+      "definition": "To continue until the end (अंत तक डटे रहना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "This project can go the distance if we plan well."
+    },
+    {
+      "id": "85",
+      "word": "go back and forth",
+      "definition": "To exchange repeated discussion or movement (बार-बार आगे-पीछे होना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We went back and forth on the API format."
+    },
+    {
+      "id": "86",
+      "word": "go off track",
+      "definition": "To stray from the intended course (पटरी से उतरना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "The discussion went off track quickly."
+    },
+    {
+      "id": "87",
+      "word": "get cold feet",
+      "definition": "To become nervous about a plan (घबराहट में पीछे हटना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The client got cold feet before the launch."
+    },
+    {
+      "id": "88",
+      "word": "get the green light",
+      "definition": "To receive permission to go ahead (आगे बढ़ने की अनुमति मिलना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We got the green light for the migration."
+    },
+    {
+      "id": "89",
+      "word": "give the thumbs up",
+      "definition": "To approve (मंज़ूरी देना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Security gave the thumbs up to the design."
+    },
+    {
+      "id": "90",
+      "word": "give someone the benefit of the doubt",
+      "definition": "To trust someone when unsure (संदेह का लाभ देना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "I gave the vendor the benefit of the doubt."
+    },
+    {
+      "id": "91",
+      "word": "cover all the bases",
+      "definition": "To deal with every possibility (हर संभावना को कवर करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The test plan covers all the bases."
+    },
+    {
+      "id": "92",
+      "word": "leave no stone unturned",
+      "definition": "To try every possible way (कोई कसर न छोड़ना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We left no stone unturned in finding the cause."
+    },
+    {
+      "id": "93",
+      "word": "keep an eye on",
+      "definition": "To monitor closely (नज़र रखना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Keep an eye on the queue depth tonight."
+    },
+    {
+      "id": "94",
+      "word": "keep tabs on",
+      "definition": "To monitor someone or something (निगरानी रखना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "I keep tabs on all open incidents."
+    },
+    {
+      "id": "95",
+      "word": "keep your cool",
+      "definition": "To stay calm (शांत रहना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She kept her cool during the escalation."
+    },
+    {
+      "id": "96",
+      "word": "lose your temper",
+      "definition": "To suddenly become angry (आपा खो देना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He lost his temper over the repeated mistakes."
+    },
+    {
+      "id": "97",
+      "word": "let off steam",
+      "definition": "To release stress or anger harmlessly (भड़ास निकालना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "A quick walk helps me let off steam."
+    },
+    {
+      "id": "98",
+      "word": "blow off steam",
+      "definition": "To release pent-up energy or frustration (तनाव निकालना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We blow off steam with a Friday game."
+    },
+    {
+      "id": "99",
+      "word": "burn the midnight oil",
+      "definition": "To work late into the night (देर रात तक काम करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The team burned the midnight oil to meet the deadline."
+    },
+    {
+      "id": "100",
+      "word": "pull an all-nighter",
+      "definition": "To work through the entire night (पूरी रात जागकर काम करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He pulled an all-nighter to fix the outage."
+    },
+    {
+      "id": "101",
+      "word": "work around the clock",
+      "definition": "To work continuously day and night (दिन-रात लगातार काम करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Engineers worked around the clock during the incident."
+    },
+    {
+      "id": "102",
+      "word": "juggle priorities",
+      "definition": "To balance competing tasks (प्राथमिकताओं में संतुलन बनाना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Seniors must juggle priorities daily."
+    },
+    {
+      "id": "103",
+      "word": "wear thin",
+      "definition": "To become less effective through overuse (घिस जाना / असर खोना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Our patience is wearing thin with the vendor."
+    },
+    {
+      "id": "104",
+      "word": "run out of steam",
+      "definition": "To lose energy or momentum (जोश खो देना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The initiative ran out of steam after the reorg."
+    },
+    {
+      "id": "105",
+      "word": "gain traction",
+      "definition": "To gain popularity or progress (ज़ोर पकड़ना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The new tool is gaining traction across teams."
+    },
+    {
+      "id": "106",
+      "word": "gain momentum",
+      "definition": "To progress faster over time (गति पकड़ना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "The migration gained momentum in the second month."
+    },
+    {
+      "id": "107",
+      "word": "hit a snag",
+      "definition": "To encounter an unexpected problem (अचानक अड़चन आना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We hit a snag with permissions."
+    },
+    {
+      "id": "108",
+      "word": "hit a wall",
+      "definition": "To be unable to make further progress (आगे बढ़ना असंभव हो जाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We hit a wall trying to scale the database."
+    },
+    {
+      "id": "109",
+      "word": "hit the roof",
+      "definition": "To become extremely angry (आग-बबूला हो जाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The client hit the roof when the report was wrong."
+    },
+    {
+      "id": "110",
+      "word": "hit the jackpot",
+      "definition": "To have great success or luck (बड़ी सफलता पाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We hit the jackpot hiring someone with her skills."
+    },
+    {
+      "id": "111",
+      "word": "hit the books",
+      "definition": "To study hard (पढ़ाई में जुट जाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "I need to hit the books before the IELTS exam."
+    },
+    {
+      "id": "112",
+      "word": "pass with flying colours",
+      "definition": "To succeed with excellent results (शानदार नतीजों के साथ सफल होना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She passed the certification with flying colours."
+    },
+    {
+      "id": "113",
+      "word": "sail through",
+      "definition": "To succeed easily (आसानी से पार कर जाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "He sailed through the system design round."
+    },
+    {
+      "id": "114",
+      "word": "scrape through",
+      "definition": "To succeed with difficulty (मुश्किल से पास होना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We scraped through the audit."
+    },
+    {
+      "id": "115",
+      "word": "fall short of",
+      "definition": "To fail to reach a standard (अपेक्षा से कम रह जाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "The results fell short of expectations."
+    },
+    {
+      "id": "116",
+      "word": "live up to",
+      "definition": "To meet expectations (उम्मीदों पर खरा उतरना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "The tool didn't live up to the hype."
+    },
+    {
+      "id": "117",
+      "word": "come up short",
+      "definition": "To be insufficient or fail to achieve (कम पड़ जाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Our estimate came up short by two weeks."
+    },
+    {
+      "id": "118",
+      "word": "at the end of the day",
+      "definition": "Ultimately; when everything is considered (आख़िरकार)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "At the end of the day, reliability matters most."
+    },
+    {
+      "id": "119",
+      "word": "when push comes to shove",
+      "definition": "When a situation becomes critical (जब नौबत आ जाए)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "When push comes to shove, we'll roll back."
+    },
+    {
+      "id": "120",
+      "word": "in the long run",
+      "definition": "Over a long period of time (लंबे समय में)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Investing in tests pays off in the long run."
+    },
+    {
+      "id": "121",
+      "word": "in the nick of time",
+      "definition": "Just in time before it's too late (ठीक समय पर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The fix arrived in the nick of time."
+    },
+    {
+      "id": "122",
+      "word": "on the spot",
+      "definition": "Immediately and at the place (तुरंत वहीं)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He solved the bug on the spot."
+    },
+    {
+      "id": "123",
+      "word": "off the cuff",
+      "definition": "Without preparation (बिना तैयारी के)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Her off-the-cuff answer was surprisingly thorough."
+    },
+    {
+      "id": "124",
+      "word": "on the fly",
+      "definition": "While in motion; without prior planning (चलते-चलते)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We adjusted the plan on the fly."
+    },
+    {
+      "id": "125",
+      "word": "off the record",
+      "definition": "Unofficially and not to be quoted (अनौपचारिक रूप से)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Off the record, I expect the date to slip."
+    },
+    {
+      "id": "126",
+      "word": "for the time being",
+      "definition": "Temporarily (फ़िलहाल)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We'll use a workaround for the time being."
+    },
+    {
+      "id": "127",
+      "word": "all in all",
+      "definition": "Considering everything (कुल मिलाकर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "All in all, the migration went well."
+    },
+    {
+      "id": "128",
+      "word": "more often than not",
+      "definition": "Usually (ज़्यादातर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "More often than not, the cause is configuration."
+    },
+    {
+      "id": "129",
+      "word": "once in a blue moon",
+      "definition": "Very rarely (बहुत कम कभी-कभार)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The error occurs once in a blue moon."
+    },
+    {
+      "id": "130",
+      "word": "every now and then",
+      "definition": "Occasionally (कभी-कभार)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Every now and then, the feed arrives twice."
+    },
+    {
+      "id": "131",
+      "word": "by leaps and bounds",
+      "definition": "Very quickly (तेज़ी से)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Her English has improved by leaps and bounds."
+    },
+    {
+      "id": "132",
+      "word": "few and far between",
+      "definition": "Rare and widely separated (बहुत कम और दूर-दूर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Good documentation is few and far between."
+    },
+    {
+      "id": "133",
+      "word": "as a rule",
+      "definition": "Usually (आम तौर पर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "As a rule, we freeze changes on Fridays."
+    },
+    {
+      "id": "134",
+      "word": "in a nutshell",
+      "definition": "Briefly (संक्षेप में)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "In a nutshell, we need more time."
+    },
+    {
+      "id": "135",
+      "word": "in a nutshell summary",
+      "definition": "A short statement of the main point (संक्षिप्त सार)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Give me an in-a-nutshell summary of the incident."
+    },
+    {
+      "id": "136",
+      "word": "in the grand scheme of things",
+      "definition": "Considering the overall situation (बड़ी योजना के संदर्भ में)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "In the grand scheme of things, this delay is minor."
+    },
+    {
+      "id": "137",
+      "word": "at stake",
+      "definition": "At risk of being lost (दाँव पर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Client trust is at stake."
+    },
+    {
+      "id": "138",
+      "word": "at odds with",
+      "definition": "In disagreement with (असंगत / विरोध में)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The data is at odds with the report."
+    },
+    {
+      "id": "139",
+      "word": "at large",
+      "definition": "As a whole; in general (कुल मिलाकर / आम तौर पर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The public at large lacks awareness."
+    },
+    {
+      "id": "140",
+      "word": "at hand",
+      "definition": "Close by; being dealt with (हाथ में / सामने)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's focus on the issue at hand."
+    },
+    {
+      "id": "141",
+      "word": "in the pipeline of ideas",
+      "definition": "Ideas being developed (विकासाधीन विचार)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Plenty of ideas are in the pipeline."
+    },
+    {
+      "id": "142",
+      "word": "in a rut",
+      "definition": "Stuck in a boring routine (एक ही ढर्रे में फँसा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "After five years, he felt stuck in a rut."
+    },
+    {
+      "id": "143",
+      "word": "in over your head",
+      "definition": "Involved in something too difficult (क्षमता से बड़ी ज़िम्मेदारी में फँसा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "I felt in over my head during my first on-call."
+    },
+    {
+      "id": "144",
+      "word": "out of your depth",
+      "definition": "In a situation too difficult to handle (क्षमता से बाहर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She felt out of her depth in the architecture review."
+    },
+    {
+      "id": "145",
+      "word": "out of the question",
+      "definition": "Impossible or not allowed (असंभव)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Skipping the security review is out of the question."
+    },
+    {
+      "id": "146",
+      "word": "out of touch",
+      "definition": "Not aware of recent developments (ताज़ा हालात से कटा हुआ)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Leaders can become out of touch with day-to-day issues."
+    },
+    {
+      "id": "147",
+      "word": "over the moon",
+      "definition": "Extremely happy (बेहद ख़ुश)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "I'm over the moon about the promotion."
+    },
+    {
+      "id": "148",
+      "word": "on cloud nine",
+      "definition": "Extremely happy (ख़ुशी के सातवें आसमान पर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The team was on cloud nine after the launch."
+    },
+    {
+      "id": "149",
+      "word": "under the weather",
+      "definition": "Slightly unwell (तबीयत नासाज़)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "I'm under the weather, so I'll work from home."
+    },
+    {
+      "id": "150",
+      "word": "feel burnt out",
+      "definition": "To feel exhausted from stress (थकान और तनाव महसूस करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "I felt burnt out after the release marathon."
+    },
+    {
+      "id": "151",
+      "word": "sleep on it",
+      "definition": "To delay a decision until the next day (एक रात सोचकर तय करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let me sleep on it and reply tomorrow."
+    },
+    {
+      "id": "152",
+      "word": "food for thought",
+      "definition": "Something worth thinking about (सोचने लायक बात)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Your comment gave me food for thought."
+    },
+    {
+      "id": "153",
+      "word": "a no-brainer",
+      "definition": "An obviously easy decision (बिना सोचे लिया जाने वाला फ़ैसला)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Automating the check is a no-brainer."
+    },
+    {
+      "id": "154",
+      "word": "a win-win situation",
+      "definition": "An outcome good for everyone (दोनों पक्षों के लिए फ़ायदेमंद स्थिति)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Shared tooling is a win-win for both teams."
+    },
+    {
+      "id": "155",
+      "word": "a piece of cake",
+      "definition": "Something very easy (बहुत आसान काम)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The migration turned out to be a piece of cake."
+    },
+    {
+      "id": "156",
+      "word": "a necessary evil",
+      "definition": "Something unpleasant but unavoidable (अनिवार्य बुराई)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Some say compliance reviews are a necessary evil."
+    },
+    {
+      "id": "157",
+      "word": "a hot potato",
+      "definition": "A controversial issue nobody wants to handle (विवादित मुद्दा जिसे कोई नहीं छूना चाहता)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Data ownership is a hot potato here."
+    },
+    {
+      "id": "158",
+      "word": "a bone of contention",
+      "definition": "A subject of ongoing disagreement (विवाद की जड़)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The release schedule is a bone of contention."
+    },
+    {
+      "id": "159",
+      "word": "a rule of thumb",
+      "definition": "A rough practical guideline (मोटा व्यावहारिक नियम)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "As a rule of thumb, keep functions short."
+    },
+    {
+      "id": "160",
+      "word": "the gold standard",
+      "definition": "The best example against which others are judged (सर्वोत्तम मानक)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Her design doc is the gold standard for the team."
+    },
+    {
+      "id": "161",
+      "word": "a ripple effect",
+      "definition": "A spreading chain of consequences (लहर जैसा फैलता असर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The change had a ripple effect across services."
+    },
+    {
+      "id": "162",
+      "word": "ballpark estimate",
+      "definition": "A rough approximate figure (मोटा अनुमान)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Give me a ballpark estimate by noon."
+    },
+    {
+      "id": "163",
+      "word": "fine-tune",
+      "definition": "To make small adjustments to improve (बारीक सुधार करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We fine-tuned the retry settings."
+    },
+    {
+      "id": "164",
+      "word": "cut through the noise",
+      "definition": "To focus on what matters amid distractions (शोर के बीच ज़रूरी चीज़ पहचानना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Good dashboards cut through the noise."
+    },
+    {
+      "id": "165",
+      "word": "connect the dots",
+      "definition": "To see how separate facts are related (बिखरे तथ्यों को जोड़कर समझना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She connected the dots between the two outages."
+    },
+    {
+      "id": "166",
+      "word": "think outside the box",
+      "definition": "To think creatively (लीक से हटकर सोचना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We need to think outside the box to cut costs."
+    },
+    {
+      "id": "167",
+      "word": "on the same wavelength",
+      "definition": "Thinking in a similar way (एक जैसी सोच पर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We're on the same wavelength about priorities."
+    },
+    {
+      "id": "168",
+      "word": "speak the same language",
+      "definition": "To understand each other well (एक ही भाषा में समझना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Business and engineering must speak the same language."
+    },
+    {
+      "id": "169",
+      "word": "lost in translation",
+      "definition": "Meaning lost when communicating across groups (अनुवाद में अर्थ खो जाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Requirements got lost in translation between teams."
+    },
+    {
+      "id": "170",
+      "word": "word of mouth",
+      "definition": "Information spread by people talking (मुँह-ज़बानी प्रचार)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The tool spread through word of mouth."
+    },
+    {
+      "id": "171",
+      "word": "get the hang of",
+      "definition": "To learn how to do something (काम का तरीका सीख लेना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "I'm getting the hang of system design interviews."
+    },
+    {
+      "id": "172",
+      "word": "brush up on",
+      "definition": "To improve existing knowledge of a subject (पुराने ज्ञान को ताज़ा करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "I need to brush up on my vocabulary before IELTS."
+    },
+    {
+      "id": "173",
+      "word": "polish",
+      "definition": "To improve by making small changes (निखारना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I'll polish the draft before sending."
+    },
+    {
+      "id": "174",
+      "word": "keep your head above water",
+      "definition": "To manage to survive a difficult period (मुश्किल दौर में टिके रहना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We barely kept our heads above water during the migration."
+    },
+    {
+      "id": "175",
+      "word": "a means to an end",
+      "definition": "Something done only to achieve another aim (लक्ष्य पाने का साधन)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Documentation is a means to an end, not the goal."
+    },
+    {
+      "id": "176",
+      "word": "a labour of love",
+      "definition": "Hard work done for pleasure rather than reward (प्रेम से किया गया श्रम)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The open-source project is a labour of love."
+    },
+    {
+      "id": "177",
+      "word": "a game of two halves",
+      "definition": "A situation with very different parts (दो हिस्सों वाला खेल)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The migration was a game of two halves."
+    },
+    {
+      "id": "178",
+      "word": "a fish out of water",
+      "definition": "Someone in an unfamiliar situation (अनजान माहौल में असहज व्यक्ति)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He felt like a fish out of water in his first meeting."
+    },
+    {
+      "id": "179",
+      "word": "a hard act to follow",
+      "definition": "Someone or something so good that it's hard to match (जिसका मुक़ाबला करना कठिन हो)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "His handover was a hard act to follow."
+    },
+    {
+      "id": "180",
+      "word": "a feather in your cap",
+      "definition": "An achievement to be proud of (गौरव की उपलब्धि)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The certification is a feather in her cap."
+    },
+    {
+      "id": "181",
+      "word": "a shot in the dark",
+      "definition": "A guess with little chance of being right (अँधेरे में तीर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "It's a shot in the dark, but try clearing the cache."
+    },
+    {
+      "id": "182",
+      "word": "a stone's throw away",
+      "definition": "Very close in distance (बहुत पास)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The office is a stone's throw away from the station."
+    },
+    {
+      "id": "183",
+      "word": "a different kettle of fish",
+      "definition": "A completely different matter (बिल्कुल अलग मामला)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Scaling globally is a different kettle of fish."
+    },
+    {
+      "id": "184",
+      "word": "a breath of fresh air",
+      "definition": "Something new and refreshing (ताज़गी भरा बदलाव)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The new lead was a breath of fresh air."
+    },
+    {
+      "id": "185",
+      "word": "a taste of your own medicine",
+      "definition": "Receiving the same bad treatment you gave (अपनी ही दवा का स्वाद)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He got a taste of his own medicine."
+    },
+    {
+      "id": "186",
+      "word": "the icing on the cake",
+      "definition": "An extra good thing on top of something already good (सोने पे सुहागा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The early delivery was the icing on the cake."
+    },
+    {
+      "id": "187",
+      "word": "the best of both worlds",
+      "definition": "Benefits of two different things together (दोनों दुनिया का फ़ायदा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Hybrid work offers the best of both worlds."
+    },
+    {
+      "id": "188",
+      "word": "the lion's share",
+      "definition": "The largest part of something (सबसे बड़ा हिस्सा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Infrastructure takes the lion's share of the budget."
+    },
+    {
+      "id": "189",
+      "word": "the tip of the spear",
+      "definition": "The leading edge of an effort (अग्रिम मोर्चा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The platform team is the tip of the spear."
+    },
+    {
+      "id": "190",
+      "word": "the fine print",
+      "definition": "Detailed terms often overlooked (बारीक शर्तें)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Read the fine print of the vendor contract."
+    },
+    {
+      "id": "191",
+      "word": "the ins and outs",
+      "definition": "The complete details of something (पूरी बारीकियाँ)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She knows the ins and outs of the platform."
+    },
+    {
+      "id": "192",
+      "word": "the nitty-gritty",
+      "definition": "The practical details (बुनियादी व्यावहारिक विवरण)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's get into the nitty-gritty of the design."
+    },
+    {
+      "id": "193",
+      "word": "the gist",
+      "definition": "The main point of something (मूल भाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "I got the gist of the proposal in two minutes."
+    },
+    {
+      "id": "194",
+      "word": "the big picture view",
+      "definition": "A broad overview of a situation (समग्र दृष्टि)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Managers need the big picture view first."
+    },
+    {
+      "id": "195",
+      "word": "beyond the scope",
+      "definition": "Outside the limits of a project (दायरे से बाहर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Reporting is beyond the scope of this release."
+    },
+    {
+      "id": "196",
+      "word": "within reach",
+      "definition": "Close enough to achieve (पहुँच के भीतर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The target is within reach if we stay focused."
+    },
+    {
+      "id": "197",
+      "word": "ahead of the curve",
+      "definition": "More advanced than others (दूसरों से आगे)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Learning AI tools keeps you ahead of the curve."
+    },
+    {
+      "id": "198",
+      "word": "behind the scenes",
+      "definition": "Out of public view (पर्दे के पीछे)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "A lot of effort goes on behind the scenes."
+    },
+    {
+      "id": "199",
+      "word": "up to speed",
+      "definition": "Having the latest knowledge (ताज़ा जानकारी में)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let me bring you up to speed on the incident."
+    },
+    {
+      "id": "200",
+      "word": "up and running",
+      "definition": "Working properly (चालू और ठीक से काम करता)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The service was up and running within ten minutes."
+    }
+  ],
+  "id": "7bca985e-419a-4dd6-b978-0a2af3bcc622",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

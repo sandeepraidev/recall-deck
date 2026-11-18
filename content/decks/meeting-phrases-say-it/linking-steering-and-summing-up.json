@@ -1,0 +1,302 @@
+{
+ "id": "pack6-deck-15",
+ "categoryId": "pack6-cat-5",
+ "title": "Linking, Steering & Summing Up",
+ "sub": "Change topic, add a point, rephrase and wrap things up.",
+ "cards": [
+  {
+   "id": "pack6-card-2055",
+   "mode": "expression",
+   "phrase": "In light of",
+   "situation": "Taking something into consideration",
+   "hindi": "को ध्यान में रखते हुए",
+   "examples": [
+    "In light of the incident, we should revisit our alerts.",
+    "In light of the feedback, we've changed the design.",
+    "In light of recent events, the trip is cancelled.",
+    "In light of the delay, let's update the client.",
+    "In light of the new data, we should rethink the plan."
+   ]
+  },
+  {
+   "id": "pack6-card-2056",
+   "mode": "expression",
+   "phrase": "Given that",
+   "situation": "Considering the fact that",
+   "hindi": "यह देखते हुए कि",
+   "examples": [
+    "Given that the deadline is fixed, we should cut scope.",
+    "Given that we're short-staffed, let's postpone the launch.",
+    "Given that the client is in London, let's meet in the morning.",
+    "Given that it worked last time, let's try it again.",
+    "Given that budgets are tight, we'll use open-source tools."
+   ]
+  },
+  {
+   "id": "pack6-card-2057",
+   "mode": "expression",
+   "phrase": "To put it differently",
+   "situation": "Rephrasing for clarity",
+   "hindi": "दूसरे शब्दों में",
+   "examples": [
+    "To put it differently, we're trading flexibility for speed.",
+    "To put it differently, the feature isn't ready.",
+    "To put it differently, we're spending too much on cloud.",
+    "To put it differently, users are confused by the menu.",
+    "To put it differently, we need a decision today."
+   ]
+  },
+  {
+   "id": "pack6-card-2058",
+   "mode": "expression",
+   "phrase": "In other words",
+   "situation": "Restating something in simpler terms",
+   "hindi": "दूसरे शब्दों में",
+   "examples": [
+    "In other words, we can't deploy until legal approves.",
+    "In other words, we're out of budget.",
+    "In other words, the project is on hold.",
+    "In other words, we need to start again.",
+    "So, in other words, you agree with the plan?"
+   ]
+  },
+  {
+   "id": "pack6-card-2059",
+   "mode": "expression",
+   "phrase": "Long story short",
+   "situation": "Giving a brief summary of a long explanation",
+   "hindi": "संक्षेप में कहें तो",
+   "examples": [
+    "Long story short, the vendor's file was corrupt.",
+    "Long story short, we missed the flight.",
+    "Long story short, the client said yes.",
+    "Long story short, it was a config error.",
+    "Long story short, we need a new plan."
+   ]
+  },
+  {
+   "id": "pack6-card-2060",
+   "mode": "expression",
+   "phrase": "The bottom line",
+   "situation": "The most important conclusion",
+   "hindi": "सबसे ज़रूरी निष्कर्ष",
+   "examples": [
+    "The bottom line is that we need two more engineers.",
+    "The bottom line is we can't afford delays.",
+    "The bottom line is the customer must be happy.",
+    "Bottom line: we ship on Friday.",
+    "The bottom line is that the old system has to go."
+   ]
+  },
+  {
+   "id": "pack6-card-2061",
+   "mode": "expression",
+   "phrase": "The upshot",
+   "situation": "The final result or conclusion",
+   "hindi": "अंतिम नतीजा",
+   "examples": [
+    "The upshot is that we can proceed with minimal risk.",
+    "The upshot is that we'll need a bigger team.",
+    "The upshot of the meeting was a new deadline.",
+    "The upshot is that costs will go down next year.",
+    "The upshot? Everyone gets two extra days off."
+   ]
+  },
+  {
+   "id": "pack6-card-2062",
+   "mode": "expression",
+   "phrase": "The crux of the matter",
+   "situation": "The most important part of an issue",
+   "hindi": "मामले का सार",
+   "examples": [
+    "The crux of the matter is who owns the data quality.",
+    "The crux of the matter is trust.",
+    "The crux of the matter is that we lack data.",
+    "The crux of the matter is the budget, not the timeline.",
+    "Let's get to the crux of the matter."
+   ]
+  },
+  {
+   "id": "pack6-card-2063",
+   "mode": "expression",
+   "phrase": "The key takeaway",
+   "situation": "The main lesson or conclusion",
+   "hindi": "मुख्य निष्कर्ष",
+   "examples": [
+    "The key takeaway is to test failure paths early.",
+    "The key takeaway is that communication matters.",
+    "My key takeaway from the workshop was to keep things simple.",
+    "The key takeaway: automate the boring parts.",
+    "What's your key takeaway from the review?"
+   ]
+  },
+  {
+   "id": "pack6-card-2064",
+   "mode": "expression",
+   "phrase": "Let me rephrase that",
+   "situation": "I'll say that in a clearer way",
+   "hindi": "मैं इसे दूसरे ढंग से कहता हूँ",
+   "examples": [
+    "Let me rephrase that so it's less confusing.",
+    "Let me rephrase that — I meant next month, not next week.",
+    "Let me rephrase that more clearly.",
+    "Sorry, let me rephrase that; it came out wrong.",
+    "Let me rephrase that question."
+   ]
+  },
+  {
+   "id": "pack6-card-2065",
+   "mode": "expression",
+   "phrase": "I'd like to add",
+   "situation": "Politely contributing to a discussion",
+   "hindi": "मैं कुछ जोड़ना चाहूँगा",
+   "examples": [
+    "I'd like to add that we also need a rollback plan.",
+    "I'd like to add a quick update on hiring.",
+    "I'd like to add my thanks to the team.",
+    "I'd like to add one thing before we close.",
+    "I'd like to add that the client was very happy."
+   ]
+  },
+  {
+   "id": "pack6-card-2066",
+   "mode": "expression",
+   "phrase": "If I could just add",
+   "situation": "Politely interjecting to contribute",
+   "hindi": "यदि मैं बस एक बात जोड़ सकूँ",
+   "examples": [
+    "If I could just add one point on security.",
+    "If I could just add something here...",
+    "If I could just add — we've done this before.",
+    "If I could just add a quick note on costs.",
+    "If I could just add to what Neha said."
+   ]
+  },
+  {
+   "id": "pack6-card-2067",
+   "mode": "expression",
+   "phrase": "Before we move on",
+   "situation": "Raising a point before changing topics",
+   "hindi": "आगे बढ़ने से पहले",
+   "examples": [
+    "Before we move on, can I raise one concern?",
+    "Before we move on, does anyone have questions?",
+    "Before we move on, let's assign owners.",
+    "Before we move on, I want to thank Arjun.",
+    "Before we move on, let's agree on the next steps."
+   ]
+  },
+  {
+   "id": "pack6-card-2068",
+   "mode": "expression",
+   "phrase": "Going back to your earlier point",
+   "situation": "Returning to a previously mentioned idea",
+   "hindi": "आपकी पिछली बात पर लौटते हुए",
+   "examples": [
+    "Going back to your earlier point, we should log more.",
+    "Going back to your earlier point, I think you're right.",
+    "Going back to your earlier point about cost...",
+    "Going back to your earlier point, can you share the data?",
+    "Going back to your earlier point, we should involve sales."
+   ]
+  },
+  {
+   "id": "pack6-card-2069",
+   "mode": "expression",
+   "phrase": "To go back to",
+   "situation": "Returning to a topic",
+   "hindi": "वापस ... पर आते हुए",
+   "examples": [
+    "To go back to the cost question, we have two options.",
+    "To go back to what you said earlier, I agree.",
+    "To go back to the timeline for a moment...",
+    "To go back to the first slide, these numbers are monthly.",
+    "To go back to your question, the answer is yes."
+   ]
+  },
+  {
+   "id": "pack6-card-2070",
+   "mode": "expression",
+   "phrase": "Moving on to",
+   "situation": "Changing to the next topic",
+   "hindi": "अगले विषय पर आते हुए",
+   "examples": [
+    "Moving on to the next item, the budget.",
+    "Moving on to the hiring update.",
+    "Moving on to questions from the audience.",
+    "Now, moving on to the last item.",
+    "Moving on to next quarter's goals."
+   ]
+  },
+  {
+   "id": "pack6-card-2071",
+   "mode": "expression",
+   "phrase": "Speaking of which",
+   "situation": "Linking to something just mentioned",
+   "hindi": "इसी की बात करें तो",
+   "examples": [
+    "Speaking of which, the audit is due next week.",
+    "Speaking of which, has anyone seen the new dashboard?",
+    "Speaking of which, we need to book the room.",
+    "Speaking of which, how's the migration going?",
+    "Speaking of which, the client called this morning."
+   ]
+  },
+  {
+   "id": "pack6-card-2072",
+   "mode": "expression",
+   "phrase": "On a related note",
+   "situation": "Introducing a connected point",
+   "hindi": "इसी से जुड़ी बात",
+   "examples": [
+    "On a related note, our alerts need tuning.",
+    "On a related note, we're hiring two more testers.",
+    "On a related note, the office will be closed on Monday.",
+    "On a related note, the new laptops have arrived.",
+    "On a related note, please update your passwords."
+   ]
+  },
+  {
+   "id": "pack6-card-2073",
+   "mode": "expression",
+   "phrase": "By the way",
+   "situation": "Adding a casual extra point",
+   "hindi": "वैसे",
+   "examples": [
+    "By the way, the vendor changed their schema.",
+    "By the way, the meeting has moved to four.",
+    "By the way, great job on the demo.",
+    "By the way, did you get my email?",
+    "By the way, I'm on leave next Friday."
+   ]
+  },
+  {
+   "id": "pack6-card-2074",
+   "mode": "expression",
+   "phrase": "To sum up",
+   "situation": "Giving a final short summary",
+   "hindi": "सारांश में",
+   "examples": [
+    "To sum up, we need more data before deciding.",
+    "To sum up, the project is on track.",
+    "To sum up, we have three options.",
+    "So, to sum up: more tests, fewer meetings.",
+    "To sum up, thanks everyone for a great quarter."
+   ]
+  },
+  {
+   "id": "pack6-card-2075",
+   "mode": "expression",
+   "phrase": "To wrap this up",
+   "situation": "Moving towards a conclusion",
+   "hindi": "इसे समेटते हुए",
+   "examples": [
+    "To wrap this up, here are the three action items.",
+    "To wrap this up, thanks for your time.",
+    "Let's wrap this up — we're over time.",
+    "To wrap this up, please send your feedback by Friday.",
+    "To wrap this up, I'll share the notes after the call."
+   ]
+  }
+ ]
+}

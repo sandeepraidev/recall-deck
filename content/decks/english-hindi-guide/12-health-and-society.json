@@ -1,0 +1,541 @@
+{
+ "id": "pack3-deck-12",
+ "categoryId": "pack3-cat-1",
+ "title": "12. Health & Society",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-551",
+   "mode": "vocab",
+   "word": "Health",
+   "pron": "",
+   "def": "The state of physical and mental well-being.\nहिंदी: स्वास्थ्य",
+   "examples": [
+    "Health is true wealth.",
+    "Health must be prioritized.",
+    "Health depends on lifestyle.",
+    "Health is a fundamental right."
+   ]
+  },
+  {
+   "id": "pack3-card-552",
+   "mode": "vocab",
+   "word": "Public Health",
+   "pron": "",
+   "def": "The health of the population as a whole.\nहिंदी: जन स्वास्थ्य",
+   "examples": [
+    "Public Health prevents disease.",
+    "Public Health needs investment.",
+    "Public Health protects communities.",
+    "Public Health must be accessible."
+   ]
+  },
+  {
+   "id": "pack3-card-553",
+   "mode": "vocab",
+   "word": "Healthcare",
+   "pron": "",
+   "def": "Medical services for maintaining health.\nहिंदी: स्वास्थ्य सेवा",
+   "examples": [
+    "Healthcare must be affordable.",
+    "Healthcare saves lives.",
+    "Healthcare must reach rural areas.",
+    "Healthcare requires trained staff."
+   ]
+  },
+  {
+   "id": "pack3-card-554",
+   "mode": "vocab",
+   "word": "Universal Health Coverage",
+   "pron": "",
+   "def": "Healthcare for all without financial hardship.\nहिंदी: सार्वभौमिक स्वास्थ्य कवरेज",
+   "examples": [
+    "Universal Health Coverage reduces inequality.",
+    "Universal Health Coverage must be achieved.",
+    "Universal Health Coverage protects the poor.",
+    "Universal Health Coverage is a global goal."
+   ]
+  },
+  {
+   "id": "pack3-card-558",
+   "mode": "vocab",
+   "word": "Immunization",
+   "pron": "",
+   "def": "Protection against disease through vaccination.\nहिंदी: टीकाकरण",
+   "examples": [
+    "Immunization eradicates disease.",
+    "Immunization must be universal.",
+    "Immunization protects children.",
+    "Immunization requires cold chains."
+   ]
+  },
+  {
+   "id": "pack3-card-560",
+   "mode": "vocab",
+   "word": "Malnutrition",
+   "pron": "",
+   "def": "Poor health from inadequate diet.\nहिंदी: कुपोषण",
+   "examples": [
+    "Malnutrition stunts growth.",
+    "Malnutrition must be eradicated.",
+    "Malnutrition affects learning.",
+    "Malnutrition weakens immunity."
+   ]
+  },
+  {
+   "id": "pack3-card-562",
+   "mode": "vocab",
+   "word": "Mental Fatigue",
+   "pron": "",
+   "def": "A state of cognitive exhaustion resulting from prolonged periods of demanding mental activity.\nहिंदी: मानसिक थकान",
+   "examples": [
+    "Air traffic controllers take mandatory breaks to prevent debilitating mental fatigue.",
+    "Mental fatigue impairs executive decision-making and slows reaction times considerably.",
+    "Adequate sleep and screen-free intervals are essential to recover from mental fatigue.",
+    "Students facing marathon exam schedules often struggle with acute mental fatigue."
+   ]
+  },
+  {
+   "id": "pack3-card-563",
+   "mode": "vocab",
+   "word": "Psychosomatic Disorder",
+   "pron": "",
+   "def": "A physical illness or symptom caused or aggravated by psychological factors like chronic stress.\nहिंदी: मनोदैहिक विकार",
+   "examples": [
+    "Severe work pressure manifested physically as a debilitating psychosomatic disorder.",
+    "Doctors investigated whether the patient's recurrent stomach pain had psychosomatic origins.",
+    "Treating a psychosomatic disorder requires addressing mental stressors alongside bodily symptoms.",
+    "Chronic anxiety can trigger a psychosomatic disorder involving persistent muscle tension."
+   ]
+  },
+  {
+   "id": "pack3-card-564",
+   "mode": "vocab",
+   "word": "Chronic Exhaustion",
+   "pron": "",
+   "def": "A constant, long-term state of profound physical and mental depletion that rest does not relieve.\nहिंदी: लगातार बनी रहने वाली थकावट",
+   "examples": [
+    "Caregivers of elderly relatives frequently experience chronic exhaustion.",
+    "Medical practitioners screened the patient to rule out underlying causes of chronic exhaustion.",
+    "Chronic exhaustion severely impacts productivity, mood, and immune system resilience.",
+    "Corporate culture that glorifies overwork inevitably drives employees into chronic exhaustion."
+   ]
+  },
+  {
+   "id": "pack3-card-565",
+   "mode": "vocab",
+   "word": "Lifestyle Disease",
+   "pron": "",
+   "def": "Disease caused by daily habits.\nहिंदी: जीवनशैली से जुड़े रोग",
+   "examples": [
+    "Lifestyle Diseases are rising.",
+    "Lifestyle Diseases are preventable.",
+    "Lifestyle Diseases strain health systems.",
+    "Lifestyle Diseases need awareness."
+   ]
+  },
+  {
+   "id": "pack3-card-566",
+   "mode": "vocab",
+   "word": "Diabetes",
+   "pron": "",
+   "def": "A disease of high blood sugar.\nहिंदी: मधुमेह",
+   "examples": [
+    "Diabetes affects millions.",
+    "Diabetes must be managed.",
+    "Diabetes is linked to lifestyle.",
+    "Diabetes can be prevented."
+   ]
+  },
+  {
+   "id": "pack3-card-569",
+   "mode": "vocab",
+   "word": "Hygiene",
+   "pron": "",
+   "def": "Practices for maintaining health and cleanliness.\nहिंदी: साफ़-सफ़ाई",
+   "examples": [
+    "Hygiene prevents infection.",
+    "Hygiene must be taught.",
+    "Hygiene saves lives.",
+    "Hygiene is a daily habit."
+   ]
+  },
+  {
+   "id": "pack3-card-570",
+   "mode": "vocab",
+   "word": "Clean Water",
+   "pron": "",
+   "def": "Safe water for drinking and use.\nहिंदी: स्वच्छ पेयजल",
+   "examples": [
+    "Clean Water is a basic right.",
+    "Clean Water prevents disease.",
+    "Clean Water must be ensured.",
+    "Clean Water is scarce."
+   ]
+  },
+  {
+   "id": "pack3-card-571",
+   "mode": "vocab",
+   "word": "Maternal Health",
+   "pron": "",
+   "def": "Health of women during pregnancy and childbirth.\nहिंदी: मातृ स्वास्थ्य",
+   "examples": [
+    "Maternal Health saves lives.",
+    "Maternal Health must be prioritized.",
+    "Maternal Health reduces mortality.",
+    "Maternal Health needs care."
+   ]
+  },
+  {
+   "id": "pack3-card-572",
+   "mode": "vocab",
+   "word": "Child Mortality",
+   "pron": "",
+   "def": "Deaths of children under five.\nहिंदी: बाल मृत्यु दर",
+   "examples": [
+    "Child Mortality must be reduced.",
+    "Child Mortality reflects inequality.",
+    "Child Mortality falls with healthcare.",
+    "Child Mortality needs attention."
+   ]
+  },
+  {
+   "id": "pack3-card-573",
+   "mode": "vocab",
+   "word": "Life Expectancy",
+   "pron": "",
+   "def": "Average lifespan of a population.\nहिंदी: जीवन प्रत्याशा",
+   "examples": [
+    "Life Expectancy rises with development.",
+    "Life Expectancy reflects health.",
+    "Life Expectancy varies by region.",
+    "Life Expectancy must improve."
+   ]
+  },
+  {
+   "id": "pack3-card-574",
+   "mode": "vocab",
+   "word": "Disability",
+   "pron": "",
+   "def": "A physical or mental condition limiting activity.\nहिंदी: दिव्यांगता / विकलांगता",
+   "examples": [
+    "Disability must not limit rights.",
+    "Disability needs accessibility.",
+    "Disability must be included.",
+    "Disability requires support."
+   ]
+  },
+  {
+   "id": "pack3-card-575",
+   "mode": "vocab",
+   "word": "Accessibility",
+   "pron": "",
+   "def": "The quality of being easy to reach or use.\nहिंदी: सुगम्यता",
+   "examples": [
+    "Accessibility empowers the disabled.",
+    "Accessibility must be ensured.",
+    "Accessibility improves inclusion.",
+    "Accessibility needs design."
+   ]
+  },
+  {
+   "id": "pack3-card-576",
+   "mode": "vocab",
+   "word": "Elderly Care",
+   "pron": "",
+   "def": "Support for older people.\nहिंदी: वृद्धजन देखभाल",
+   "examples": [
+    "Elderly Care must be dignified.",
+    "Elderly Care needs systems.",
+    "Elderly Care reflects values.",
+    "Elderly Care must be accessible."
+   ]
+  },
+  {
+   "id": "pack3-card-577",
+   "mode": "vocab",
+   "word": "Palliative Care",
+   "pron": "",
+   "def": "Care for serious illness relieving suffering.\nहिंदी: उपशामक देखभाल / कष्ट-निवारक देखभाल",
+   "examples": [
+    "Palliative Care relieves pain.",
+    "Palliative Care must be available.",
+    "Palliative Care respects dignity.",
+    "Palliative Care supports families."
+   ]
+  },
+  {
+   "id": "pack3-card-578",
+   "mode": "vocab",
+   "word": "Health Equity",
+   "pron": "",
+   "def": "Fair access to health for all.\nहिंदी: स्वास्थ्य समानता",
+   "examples": [
+    "Health Equity reduces disparity.",
+    "Health Equity must be pursued.",
+    "Health Equity is a moral goal.",
+    "Health Equity needs policy."
+   ]
+  },
+  {
+   "id": "pack3-card-579",
+   "mode": "vocab",
+   "word": "Health Insurance",
+   "pron": "",
+   "def": "Financial protection for medical costs.\nहिंदी: स्वास्थ्य बीमा",
+   "examples": [
+    "Health Insurance protects savings.",
+    "Health Insurance must be affordable.",
+    "Health Insurance expands access.",
+    "Health Insurance needs regulation."
+   ]
+  },
+  {
+   "id": "pack3-card-580",
+   "mode": "vocab",
+   "word": "Out-of-Pocket Expenditure",
+   "pron": "",
+   "def": "Direct payments for healthcare.\nहिंदी: जेब से किया गया ख़र्च",
+   "examples": [
+    "Out-of-Pocket Expenditure pushes poverty.",
+    "Out-of-Pocket Expenditure must fall.",
+    "Out-of-Pocket Expenditure burdens families.",
+    "Out-of-Pocket Expenditure reflects weak systems."
+   ]
+  },
+  {
+   "id": "pack3-card-581",
+   "mode": "vocab",
+   "word": "Doctor",
+   "pron": "",
+   "def": "A medical professional treating illness.\nहिंदी: डॉक्टर / चिकित्सक",
+   "examples": [
+    "Doctors save lives.",
+    "Doctors must be respected.",
+    "Doctors need support.",
+    "Doctors face burnout."
+   ]
+  },
+  {
+   "id": "pack3-card-582",
+   "mode": "vocab",
+   "word": "Nurse",
+   "pron": "",
+   "def": "A health professional caring for patients.\nहिंदी: नर्स / परिचारिका",
+   "examples": [
+    "Nurses are the backbone of care.",
+    "Nurses must be valued.",
+    "Nurses work tirelessly.",
+    "Nurses need training."
+   ]
+  },
+  {
+   "id": "pack3-card-583",
+   "mode": "vocab",
+   "word": "Frontline Worker",
+   "pron": "",
+   "def": "Essential worker during emergencies.\nहिंदी: अग्रिम पंक्ति का कर्मचारी",
+   "examples": [
+    "Frontline Workers risk their lives.",
+    "Frontline Workers must be protected.",
+    "Frontline Workers deserve respect.",
+    "Frontline Workers ensure continuity."
+   ]
+  },
+  {
+   "id": "pack3-card-584",
+   "mode": "vocab",
+   "word": "Medical Ethics",
+   "pron": "",
+   "def": "Moral principles in healthcare.\nहिंदी: चिकित्सा नैतिकता",
+   "examples": [
+    "Medical Ethics protect patients.",
+    "Medical Ethics must be taught.",
+    "Medical Ethics guide decisions.",
+    "Medical Ethics ensure dignity."
+   ]
+  },
+  {
+   "id": "pack3-card-585",
+   "mode": "vocab",
+   "word": "Informed Consent",
+   "pron": "",
+   "def": "Agreement after knowing risks.\nहिंदी: सूचित सहमति",
+   "examples": [
+    "Informed Consent respects autonomy.",
+    "Informed Consent must be obtained.",
+    "Informed Consent protects patients.",
+    "Informed Consent is a right."
+   ]
+  },
+  {
+   "id": "pack3-card-587",
+   "mode": "vocab",
+   "word": "Drug Resistance",
+   "pron": "",
+   "def": "When microbes resist medicines.\nहिंदी: दवा-प्रतिरोध",
+   "examples": [
+    "Drug Resistance threatens health.",
+    "Drug Resistance grows with misuse.",
+    "Drug Resistance must be curbed.",
+    "Drug Resistance needs regulation."
+   ]
+  },
+  {
+   "id": "pack3-card-589",
+   "mode": "vocab",
+   "word": "Health Awareness",
+   "pron": "",
+   "def": "Public knowledge about health.\nहिंदी: स्वास्थ्य जागरूकता",
+   "examples": [
+    "Health Awareness prevents disease.",
+    "Health Awareness must be spread.",
+    "Health Awareness empowers people.",
+    "Health Awareness saves lives."
+   ]
+  },
+  {
+   "id": "pack3-card-590",
+   "mode": "vocab",
+   "word": "Preventive Care",
+   "pron": "",
+   "def": "Healthcare to prevent illness.\nहिंदी: निवारक देखभाल",
+   "examples": [
+    "Preventive Care reduces costs.",
+    "Preventive Care must be promoted.",
+    "Preventive Care saves lives.",
+    "Preventive Care needs awareness."
+   ]
+  },
+  {
+   "id": "pack3-card-591",
+   "mode": "vocab",
+   "word": "Screening",
+   "pron": "",
+   "def": "Testing for early disease detection.\nहिंदी: जाँच / स्क्रीनिंग",
+   "examples": [
+    "Screening detects disease early.",
+    "Screening must be accessible.",
+    "Screening saves lives.",
+    "Screening needs programs."
+   ]
+  },
+  {
+   "id": "pack3-card-592",
+   "mode": "vocab",
+   "word": "Health Infrastructure",
+   "pron": "",
+   "def": "Facilities and systems for healthcare.\nहिंदी: स्वास्थ्य ढाँचा",
+   "examples": [
+    "Health Infrastructure must be strong.",
+    "Health Infrastructure needs investment.",
+    "Health Infrastructure saves lives.",
+    "Health Infrastructure faces gaps."
+   ]
+  },
+  {
+   "id": "pack3-card-593",
+   "mode": "vocab",
+   "word": "Mobile Health",
+   "pron": "",
+   "def": "The practice of medicine and public health supported by mobile communication devices.\nहिंदी: मोबाइल स्वास्थ्य सेवा",
+   "examples": [
+    "Mobile health applications allow rural clinics to transmit diagnostic data to city hospitals.",
+    "Patients in remote villages received diabetic monitoring alerts via mobile health platforms.",
+    "Mobile health revolutionized prenatal care tracking across developing regions.",
+    "Government health ministries rolled out mobile health hotlines for immunization reminders."
+   ]
+  },
+  {
+   "id": "pack3-card-594",
+   "mode": "vocab",
+   "word": "Traditional Medicine",
+   "pron": "",
+   "def": "Healing practices based on tradition.\nहिंदी: पारंपरिक चिकित्सा",
+   "examples": [
+    "Traditional Medicine has deep roots.",
+    "Traditional Medicine must be studied.",
+    "Traditional Medicine complements modern care.",
+    "Traditional Medicine must be regulated."
+   ]
+  },
+  {
+   "id": "pack3-card-595",
+   "mode": "vocab",
+   "word": "Holistic Wellness",
+   "pron": "",
+   "def": "An approach to healthcare and life that emphasizes the interconnected wellbeing of body, mind, and spirit.\nहिंदी: समग्र स्वास्थ्य",
+   "examples": [
+    "The clinic promotes holistic wellness by integrating balanced nutrition, exercise, and therapy.",
+    "Holistic wellness shifts the medical focus from treating illness to sustaining lifelong vitality.",
+    "Workplace initiatives that cultivate holistic wellness report lower absenteeism rates.",
+    "Mind-body practices like yoga and meditation form the bedrock of holistic wellness."
+   ]
+  },
+  {
+   "id": "pack3-card-596",
+   "mode": "vocab",
+   "word": "Substance Dependency",
+   "pron": "",
+   "def": "A compulsive physiological or psychological need for a habit-forming drug or substance.\nहिंदी: नशे पर निर्भरता",
+   "examples": [
+    "Rehabilitation centers provide comprehensive medical detox for substance dependency.",
+    "Substance dependency can destroy personal finances, careers, and family relationships.",
+    "Community support programs offer nonjudgmental pathways to recover from substance dependency.",
+    "Early therapeutic intervention is vital in breaking the grip of substance dependency."
+   ]
+  },
+  {
+   "id": "pack3-card-597",
+   "mode": "vocab",
+   "word": "Substance Abuse",
+   "pron": "",
+   "def": "Harmful use of drugs or alcohol.\nहिंदी: नशीले पदार्थों का दुरुपयोग",
+   "examples": [
+    "Substance Abuse harms youth.",
+    "Substance Abuse must be prevented.",
+    "Substance Abuse needs treatment.",
+    "Substance Abuse ruins lives."
+   ]
+  },
+  {
+   "id": "pack3-card-598",
+   "mode": "vocab",
+   "word": "Tobacco Control",
+   "pron": "",
+   "def": "Measures to reduce tobacco use.\nहिंदी: तंबाकू नियंत्रण",
+   "examples": [
+    "Tobacco Control saves lives.",
+    "Tobacco Control needs enforcement.",
+    "Tobacco Control reduces cancer.",
+    "Tobacco Control must be strict."
+   ]
+  },
+  {
+   "id": "pack3-card-599",
+   "mode": "vocab",
+   "word": "Health Inequality",
+   "pron": "",
+   "def": "Unfair differences in health outcomes.\nहिंदी: स्वास्थ्य असमानता",
+   "examples": [
+    "Health Inequality reflects injustice.",
+    "Health Inequality must be reduced.",
+    "Health Inequality affects the poor.",
+    "Health Inequality needs policy."
+   ]
+  },
+  {
+   "id": "pack3-card-600",
+   "mode": "vocab",
+   "word": "Preventive Healthcare",
+   "pron": "",
+   "def": "Medical measures taken for disease prevention and early health maintenance rather than treatment.\nहिंदी: निवारक स्वास्थ्य सेवा",
+   "examples": [
+    "Annual medical checkups and regular immunizations are essential pillars of preventive healthcare.",
+    "Investing in preventive healthcare significantly reduces long-term hospitalization expenditures.",
+    "Public education regarding balanced nutrition is a high-yield form of preventive healthcare.",
+    "Preventive healthcare catches chronic ailments like hypertension before complications develop."
+   ]
+  }
+ ]
+}

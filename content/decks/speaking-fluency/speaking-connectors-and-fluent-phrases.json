@@ -1,0 +1,1152 @@
+{
+ "id": "pack2-deck-6",
+ "categoryId": "pack2-cat-2",
+ "title": "Speaking: Connectors & Fluent Phrases",
+ "sub": "Linking words and adverbs that make speech smooth and natural.",
+ "cards": [
+  {
+   "id": "pack2-card-466",
+   "mode": "vocab",
+   "word": "Moreover",
+   "pron": "(adverb)",
+   "def": "In addition; further to what was said.\nहिंदी: इसके अलावा",
+   "examples": [
+    "Present: He is skilled; moreover, he is honest.",
+    "Past: She was late; moreover, she forgot the files.",
+    "Future: The plan is cheap; moreover, it will save time.",
+    "Perfect: He has finished; moreover, he has checked it twice."
+   ]
+  },
+  {
+   "id": "pack2-card-467",
+   "mode": "vocab",
+   "word": "Furthermore",
+   "pron": "(adverb)",
+   "def": "Also; used to add a stronger point.\nहिंदी: इसके अतिरिक्त",
+   "examples": [
+    "Present: The car is fast; furthermore, it is safe.",
+    "Past: He left early; furthermore, he took the keys.",
+    "Future: The scheme will help; furthermore, it will create jobs.",
+    "Perfect: They have agreed; furthermore, they have signed."
+   ]
+  },
+  {
+   "id": "pack2-card-468",
+   "mode": "vocab",
+   "word": "However",
+   "pron": "(adverb)",
+   "def": "Used to introduce a contrasting statement.\nहिंदी: हालाँकि",
+   "examples": [
+    "Present: It is cheap; however, it is slow.",
+    "Past: We tried; however, we failed.",
+    "Future: It may rain; however, we will go.",
+    "Perfect: He has apologised; however, I am still upset."
+   ]
+  },
+  {
+   "id": "pack2-card-469",
+   "mode": "vocab",
+   "word": "Nevertheless",
+   "pron": "(adverb)",
+   "def": "In spite of that.\nहिंदी: फिर भी",
+   "examples": [
+    "Present: It is hard; nevertheless, I enjoy it.",
+    "Past: He was tired; nevertheless, he kept going.",
+    "Future: It will be difficult; nevertheless, we will try.",
+    "Perfect: She has failed; nevertheless, she remains hopeful."
+   ]
+  },
+  {
+   "id": "pack2-card-470",
+   "mode": "vocab",
+   "word": "Consequently",
+   "pron": "(adverb)",
+   "def": "As a result.\nहिंदी: परिणामस्वरूप",
+   "examples": [
+    "Present: Prices rise; consequently, people spend less.",
+    "Past: He missed the bus; consequently, he was late.",
+    "Future: Rain will fall; consequently, the match will stop.",
+    "Perfect: She has worked hard; consequently, she has improved."
+   ]
+  },
+  {
+   "id": "pack2-card-471",
+   "mode": "vocab",
+   "word": "Therefore",
+   "pron": "(adverb)",
+   "def": "For that reason.\nहिंदी: इसलिए",
+   "examples": [
+    "Present: I think; therefore, I am.",
+    "Past: It was raining; therefore, we stayed home.",
+    "Future: He is ill; therefore, he will miss the trip.",
+    "Perfect: They have moved; therefore, the address has changed."
+   ]
+  },
+  {
+   "id": "pack2-card-472",
+   "mode": "vocab",
+   "word": "Meanwhile",
+   "pron": "(adverb)",
+   "def": "At the same time, elsewhere.\nहिंदी: इस बीच",
+   "examples": [
+    "Present: He cooks; meanwhile, she sets the table.",
+    "Past: He studied; meanwhile, I watched TV.",
+    "Future: You wait here; meanwhile, I will park.",
+    "Perfect: Prices have risen; meanwhile, wages have stalled."
+   ]
+  },
+  {
+   "id": "pack2-card-473",
+   "mode": "vocab",
+   "word": "Otherwise",
+   "pron": "(adverb)",
+   "def": "If not; in different circumstances.\nहिंदी: वरना",
+   "examples": [
+    "Present: Hurry up, otherwise we will miss it.",
+    "Past: He left early; otherwise he would have met her.",
+    "Future: Study hard, otherwise you will fail.",
+    "Perfect: I have locked the door; otherwise anyone could enter."
+   ]
+  },
+  {
+   "id": "pack2-card-474",
+   "mode": "vocab",
+   "word": "Although",
+   "pron": "(conjunction)",
+   "def": "Despite the fact that.\nहिंदी: यद्यपि",
+   "examples": [
+    "Present: Although it is cold, I enjoy winter.",
+    "Past: Although he was tired, he finished.",
+    "Future: Although it will rain, we will go.",
+    "Perfect: Although she has tried, she has not succeeded."
+   ]
+  },
+  {
+   "id": "pack2-card-475",
+   "mode": "vocab",
+   "word": "Whereas",
+   "pron": "(conjunction)",
+   "def": "In contrast to the fact that.\nहिंदी: जबकि",
+   "examples": [
+    "Present: He likes tea, whereas she likes coffee.",
+    "Past: He was calm, whereas she was angry.",
+    "Future: Rural areas will grow, whereas cities will shrink.",
+    "Perfect: She has finished, whereas he has not started."
+   ]
+  },
+  {
+   "id": "pack2-card-476",
+   "mode": "vocab",
+   "word": "Despite",
+   "pron": "(preposition)",
+   "def": "Without being affected by.\nहिंदी: के बावजूद",
+   "examples": [
+    "Present: Despite the noise, I can concentrate.",
+    "Past: Despite the rain, we played.",
+    "Future: Despite the cost, we will buy it.",
+    "Perfect: Despite her efforts, she has not won."
+   ]
+  },
+  {
+   "id": "pack2-card-477",
+   "mode": "vocab",
+   "word": "In fact",
+   "pron": "(phrase)",
+   "def": "Used to emphasise the truth.\nहिंदी: वास्तव में",
+   "examples": [
+    "Present: In fact, I agree with you.",
+    "Past: In fact, he never came.",
+    "Future: In fact, it will be cheaper.",
+    "Perfect: In fact, she has already gone."
+   ]
+  },
+  {
+   "id": "pack2-card-478",
+   "mode": "vocab",
+   "word": "As a matter of fact",
+   "pron": "(phrase)",
+   "def": "Actually; to tell the truth.\nहिंदी: असल में",
+   "examples": [
+    "Present: As a matter of fact, I like it.",
+    "Past: As a matter of fact, I was there.",
+    "Future: As a matter of fact, I will join you.",
+    "Perfect: As a matter of fact, I have met him."
+   ]
+  },
+  {
+   "id": "pack2-card-479",
+   "mode": "vocab",
+   "word": "On the other hand",
+   "pron": "(phrase)",
+   "def": "Used to present an opposite point.\nहिंदी: दूसरी ओर",
+   "examples": [
+    "Present: It is cheap; on the other hand, it is fragile.",
+    "Past: He was kind; on the other hand, he was strict.",
+    "Future: Cities offer jobs; on the other hand, they will cost more.",
+    "Perfect: She has talent; on the other hand, she lacks discipline."
+   ]
+  },
+  {
+   "id": "pack2-card-480",
+   "mode": "vocab",
+   "word": "In contrast",
+   "pron": "(phrase)",
+   "def": "Showing a clear difference.\nहिंदी: इसके विपरीत",
+   "examples": [
+    "Present: In contrast, the south is dry.",
+    "Past: In contrast, the earlier model failed.",
+    "Future: In contrast, the new plan will succeed.",
+    "Perfect: In contrast, sales have grown abroad."
+   ]
+  },
+  {
+   "id": "pack2-card-481",
+   "mode": "vocab",
+   "word": "As a result",
+   "pron": "(phrase)",
+   "def": "Because of what has just been mentioned.\nहिंदी: नतीजतन",
+   "examples": [
+    "Present: As a result, prices rise.",
+    "Past: As a result, the match was cancelled.",
+    "Future: As a result, taxes will increase.",
+    "Perfect: As a result, many have lost jobs."
+   ]
+  },
+  {
+   "id": "pack2-card-482",
+   "mode": "vocab",
+   "word": "For instance",
+   "pron": "(phrase)",
+   "def": "Used to introduce an example.\nहिंदी: उदाहरण के लिए",
+   "examples": [
+    "Present: For instance, tea is cheaper.",
+    "Past: For instance, he missed two classes.",
+    "Future: For instance, we will visit Jaipur.",
+    "Perfect: For instance, she has read ten books."
+   ]
+  },
+  {
+   "id": "pack2-card-483",
+   "mode": "vocab",
+   "word": "In particular",
+   "pron": "(phrase)",
+   "def": "Especially.\nहिंदी: विशेष रूप से",
+   "examples": [
+    "Present: I like fruit, in particular mangoes.",
+    "Past: He was upset, in particular by her words.",
+    "Future: I will thank, in particular, the volunteers.",
+    "Perfect: She has impressed, in particular, the judges."
+   ]
+  },
+  {
+   "id": "pack2-card-484",
+   "mode": "vocab",
+   "word": "In addition",
+   "pron": "(phrase)",
+   "def": "Also; as an extra.\nहिंदी: इसके अलावा",
+   "examples": [
+    "Present: In addition, there is a fee.",
+    "Past: In addition, she paid the deposit.",
+    "Future: In addition, we will offer discounts.",
+    "Perfect: In addition, they have opened a branch."
+   ]
+  },
+  {
+   "id": "pack2-card-485",
+   "mode": "vocab",
+   "word": "In summary",
+   "pron": "(phrase)",
+   "def": "Used to conclude briefly.\nहिंदी: सारांश में",
+   "examples": [
+    "Present: In summary, the plan is sound.",
+    "Past: In summary, the trip went well.",
+    "Future: In summary, we will start Monday.",
+    "Perfect: In summary, the team has done well."
+   ]
+  },
+  {
+   "id": "pack2-card-486",
+   "mode": "vocab",
+   "word": "To be honest",
+   "pron": "(phrase)",
+   "def": "Used to give your real opinion.\nहिंदी: ईमानदारी से कहूँ तो",
+   "examples": [
+    "Present: To be honest, I disagree.",
+    "Past: To be honest, I did not like it.",
+    "Future: To be honest, I will not attend.",
+    "Perfect: To be honest, I have never tried it."
+   ]
+  },
+  {
+   "id": "pack2-card-487",
+   "mode": "vocab",
+   "word": "By the way",
+   "pron": "(phrase)",
+   "def": "Used to add a new, related remark.\nहिंदी: वैसे",
+   "examples": [
+    "Present: By the way, I met your sister.",
+    "Past: By the way, he called yesterday.",
+    "Future: By the way, I will be late tomorrow.",
+    "Perfect: By the way, have you seen my phone?"
+   ]
+  },
+  {
+   "id": "pack2-card-488",
+   "mode": "vocab",
+   "word": "Anyway",
+   "pron": "(adverb)",
+   "def": "Used to change topic or return to a point.\nहिंदी: ख़ैर / किसी भी तरह",
+   "examples": [
+    "Present: Anyway, let's begin.",
+    "Past: Anyway, he left in the end.",
+    "Future: Anyway, we will decide tomorrow.",
+    "Perfect: Anyway, I have said what I wanted."
+   ]
+  },
+  {
+   "id": "pack2-card-489",
+   "mode": "vocab",
+   "word": "Actually",
+   "pron": "(adverb)",
+   "def": "Used to give true or surprising information.\nहिंदी: दरअसल",
+   "examples": [
+    "Present: Actually, I prefer tea.",
+    "Past: Actually, I met him last year.",
+    "Future: Actually, I will do it myself.",
+    "Perfect: Actually, I have already paid."
+   ]
+  },
+  {
+   "id": "pack2-card-490",
+   "mode": "vocab",
+   "word": "Basically",
+   "pron": "(adverb)",
+   "def": "In the most important respects.\nहिंदी: मूलतः",
+   "examples": [
+    "Present: Basically, it is a simple idea.",
+    "Past: Basically, he refused.",
+    "Future: Basically, we will wait.",
+    "Perfect: Basically, nothing has changed."
+   ]
+  },
+  {
+   "id": "pack2-card-491",
+   "mode": "vocab",
+   "word": "Obviously",
+   "pron": "(adverb)",
+   "def": "In a way that is easy to see.\nहिंदी: ज़ाहिर है",
+   "examples": [
+    "Present: Obviously, health matters most.",
+    "Past: Obviously, she was upset.",
+    "Future: Obviously, it will take time.",
+    "Perfect: Obviously, he has been practising."
+   ]
+  },
+  {
+   "id": "pack2-card-492",
+   "mode": "vocab",
+   "word": "Apparently",
+   "pron": "(adverb)",
+   "def": "As it seems or is said.\nहिंदी: प्रत्यक्षतः / कहा जाता है",
+   "examples": [
+    "Present: Apparently, it is a good film.",
+    "Past: Apparently, he left early.",
+    "Future: Apparently, it will rain tomorrow.",
+    "Perfect: Apparently, she has resigned."
+   ]
+  },
+  {
+   "id": "pack2-card-493",
+   "mode": "vocab",
+   "word": "Presumably",
+   "pron": "(adverb)",
+   "def": "Used when you assume something is true.\nहिंदी: संभवतः",
+   "examples": [
+    "Present: Presumably, he knows the way.",
+    "Past: Presumably, she missed the call.",
+    "Future: Presumably, they will arrive soon.",
+    "Perfect: Presumably, he has forgotten."
+   ]
+  },
+  {
+   "id": "pack2-card-494",
+   "mode": "vocab",
+   "word": "Frankly",
+   "pron": "(adverb)",
+   "def": "In an honest and direct way.\nहिंदी: साफ़-साफ़",
+   "examples": [
+    "Present: Frankly, I am not impressed.",
+    "Past: Frankly, he was rude.",
+    "Future: Frankly, I will not agree.",
+    "Perfect: Frankly, she has been unfair."
+   ]
+  },
+  {
+   "id": "pack2-card-495",
+   "mode": "vocab",
+   "word": "Fortunately",
+   "pron": "(adverb)",
+   "def": "By good luck.\nहिंदी: सौभाग्य से",
+   "examples": [
+    "Present: Fortunately, help is near.",
+    "Past: Fortunately, no one was hurt.",
+    "Future: Fortunately, the weather will clear.",
+    "Perfect: Fortunately, she has recovered."
+   ]
+  },
+  {
+   "id": "pack2-card-496",
+   "mode": "vocab",
+   "word": "Unfortunately",
+   "pron": "(adverb)",
+   "def": "By bad luck.\nहिंदी: दुर्भाग्य से",
+   "examples": [
+    "Present: Unfortunately, shops close early.",
+    "Past: Unfortunately, he missed the train.",
+    "Future: Unfortunately, it will be delayed.",
+    "Perfect: Unfortunately, they have lost the keys."
+   ]
+  },
+  {
+   "id": "pack2-card-497",
+   "mode": "vocab",
+   "word": "Eventually",
+   "pron": "(adverb)",
+   "def": "After a long time.\nहिंदी: अंततः",
+   "examples": [
+    "Present: Eventually, everyone leaves.",
+    "Past: Eventually, he agreed.",
+    "Future: Eventually, you will understand.",
+    "Perfect: Eventually, she has found work."
+   ]
+  },
+  {
+   "id": "pack2-card-498",
+   "mode": "vocab",
+   "word": "Initially",
+   "pron": "(adverb)",
+   "def": "At the beginning.\nहिंदी: शुरू में",
+   "examples": [
+    "Present: Initially, plans seem easy.",
+    "Past: Initially, I disagreed.",
+    "Future: Initially, we will test it.",
+    "Perfect: Initially, he has hesitated."
+   ]
+  },
+  {
+   "id": "pack2-card-499",
+   "mode": "vocab",
+   "word": "Gradually",
+   "pron": "(adverb)",
+   "def": "Slowly, step by step.\nहिंदी: धीरे-धीरे",
+   "examples": [
+    "Present: Gradually, habits form.",
+    "Past: Gradually, the pain faded.",
+    "Future: Gradually, prices will fall.",
+    "Perfect: Gradually, she has improved."
+   ]
+  },
+  {
+   "id": "pack2-card-500",
+   "mode": "vocab",
+   "word": "Immediately",
+   "pron": "(adverb)",
+   "def": "At once.\nहिंदी: तुरंत",
+   "examples": [
+    "Present: Immediately, the alarm rings.",
+    "Past: He replied immediately.",
+    "Future: I will call immediately.",
+    "Perfect: She has left immediately."
+   ]
+  },
+  {
+   "id": "pack2-card-501",
+   "mode": "vocab",
+   "word": "Occasionally",
+   "pron": "(adverb)",
+   "def": "Sometimes, but not often.\nहिंदी: कभी-कभार",
+   "examples": [
+    "Present: I occasionally go to the cinema.",
+    "Past: He occasionally visited us.",
+    "Future: She will occasionally call.",
+    "Perfect: We have occasionally met."
+   ]
+  },
+  {
+   "id": "pack2-card-502",
+   "mode": "vocab",
+   "word": "Constantly",
+   "pron": "(adverb)",
+   "def": "All the time.\nहिंदी: लगातार",
+   "examples": [
+    "Present: Prices constantly change.",
+    "Past: She constantly complained.",
+    "Future: He will constantly check it.",
+    "Perfect: They have constantly argued."
+   ]
+  },
+  {
+   "id": "pack2-card-503",
+   "mode": "vocab",
+   "word": "Rarely",
+   "pron": "(adverb)",
+   "def": "Not often.\nहिंदी: शायद ही कभी",
+   "examples": [
+    "Present: I rarely eat sweets.",
+    "Past: He rarely spoke in class.",
+    "Future: She will rarely refuse.",
+    "Perfect: They have rarely met."
+   ]
+  },
+  {
+   "id": "pack2-card-504",
+   "mode": "vocab",
+   "word": "Barely",
+   "pron": "(adverb)",
+   "def": "Only just; hardly.\nहिंदी: मुश्किल से",
+   "examples": [
+    "Present: I barely know him.",
+    "Past: She barely escaped.",
+    "Future: He will barely finish.",
+    "Perfect: We have barely started."
+   ]
+  },
+  {
+   "id": "pack2-card-505",
+   "mode": "vocab",
+   "word": "Hardly",
+   "pron": "(adverb)",
+   "def": "Almost not.\nहिंदी: मुश्किल से ही",
+   "examples": [
+    "Present: I hardly slept.",
+    "Past: He hardly spoke.",
+    "Future: We will hardly notice.",
+    "Perfect: She has hardly eaten."
+   ]
+  },
+  {
+   "id": "pack2-card-506",
+   "mode": "vocab",
+   "word": "Merely",
+   "pron": "(adverb)",
+   "def": "Only; nothing more.\nहिंदी: केवल",
+   "examples": [
+    "Present: It is merely a rumour.",
+    "Past: He merely smiled.",
+    "Future: She will merely observe.",
+    "Perfect: They have merely begun."
+   ]
+  },
+  {
+   "id": "pack2-card-507",
+   "mode": "vocab",
+   "word": "Virtually",
+   "pron": "(adverb)",
+   "def": "Almost; nearly.\nहिंदी: लगभग",
+   "examples": [
+    "Present: It is virtually impossible.",
+    "Past: The road was virtually empty.",
+    "Future: The task will be virtually finished.",
+    "Perfect: She has virtually recovered."
+   ]
+  },
+  {
+   "id": "pack2-card-508",
+   "mode": "vocab",
+   "word": "Particularly",
+   "pron": "(adverb)",
+   "def": "Especially.\nहिंदी: ख़ासकर",
+   "examples": [
+    "Present: I like soups, particularly in winter.",
+    "Past: He was particularly kind.",
+    "Future: It will be particularly cold.",
+    "Perfect: She has been particularly helpful."
+   ]
+  },
+  {
+   "id": "pack2-card-509",
+   "mode": "vocab",
+   "word": "Remarkably",
+   "pron": "(adverb)",
+   "def": "In a surprising or notable way.\nहिंदी: उल्लेखनीय रूप से",
+   "examples": [
+    "Present: She remarkably remembers everything.",
+    "Past: He performed remarkably well.",
+    "Future: It will remarkably change things.",
+    "Perfect: The team has done remarkably."
+   ]
+  },
+  {
+   "id": "pack2-card-510",
+   "mode": "vocab",
+   "word": "Significantly",
+   "pron": "(adverb)",
+   "def": "To a large or important degree.\nहिंदी: काफ़ी हद तक",
+   "examples": [
+    "Present: Prices vary significantly.",
+    "Past: Sales rose significantly.",
+    "Future: Costs will fall significantly.",
+    "Perfect: She has improved significantly."
+   ]
+  },
+  {
+   "id": "pack2-card-511",
+   "mode": "vocab",
+   "word": "Approximately",
+   "pron": "(adverb)",
+   "def": "Around; not exactly.\nहिंदी: लगभग",
+   "examples": [
+    "Present: It costs approximately fifty rupees.",
+    "Past: About ten came approximately.",
+    "Future: The trip will take approximately two hours.",
+    "Perfect: He has waited approximately an hour."
+   ]
+  },
+  {
+   "id": "pack2-card-512",
+   "mode": "vocab",
+   "word": "Respectively",
+   "pron": "(adverb)",
+   "def": "In the order mentioned.\nहिंदी: क्रमशः",
+   "examples": [
+    "Present: A and B scored ten and twelve respectively.",
+    "Past: They won first and second respectively.",
+    "Future: Rates will be five and six percent respectively.",
+    "Perfect: Ages have been twenty and thirty respectively."
+   ]
+  },
+  {
+   "id": "pack2-card-513",
+   "mode": "vocab",
+   "word": "Whatsoever",
+   "pron": "(adverb)",
+   "def": "Used for emphasis after negatives.\nहिंदी: बिल्कुल भी",
+   "examples": [
+    "Present: I have no doubt whatsoever.",
+    "Past: There was no sign whatsoever.",
+    "Future: There will be no change whatsoever.",
+    "Perfect: He has shown no interest whatsoever."
+   ]
+  },
+  {
+   "id": "pack2-card-514",
+   "mode": "vocab",
+   "word": "Altogether",
+   "pron": "(adverb)",
+   "def": "In total; completely.\nहिंदी: कुल मिलाकर",
+   "examples": [
+    "Present: It costs fifty altogether.",
+    "Past: He stopped altogether.",
+    "Future: We will abandon the plan altogether.",
+    "Perfect: She has quit altogether."
+   ]
+  },
+  {
+   "id": "pack2-card-515",
+   "mode": "vocab",
+   "word": "Likewise",
+   "pron": "(adverb)",
+   "def": "In the same way.\nहिंदी: उसी तरह",
+   "examples": [
+    "Present: She smiled; likewise, he did.",
+    "Past: He agreed; likewise, I did.",
+    "Future: You will help; likewise, we will.",
+    "Perfect: She has paid; likewise, he has."
+   ]
+  },
+  {
+   "id": "pack2-card-516",
+   "mode": "vocab",
+   "word": "Instead",
+   "pron": "(adverb)",
+   "def": "In place of something.\nहिंदी: इसके बजाय",
+   "examples": [
+    "Present: I drink tea instead of coffee.",
+    "Past: He walked instead.",
+    "Future: We will take the train instead.",
+    "Perfect: She has chosen to stay instead."
+   ]
+  },
+  {
+   "id": "pack2-card-517",
+   "mode": "vocab",
+   "word": "Besides",
+   "pron": "(adverb)",
+   "def": "Also; in addition.\nहिंदी: इसके अलावा",
+   "examples": [
+    "Present: It is late; besides, I'm tired.",
+    "Past: He lied; besides, he stole.",
+    "Future: I will go; besides, it's free.",
+    "Perfect: She has paid; besides, she brought food."
+   ]
+  },
+  {
+   "id": "pack2-card-518",
+   "mode": "vocab",
+   "word": "Overall",
+   "pron": "(adverb)",
+   "def": "Taking everything into account.\nहिंदी: कुल मिलाकर",
+   "examples": [
+    "Present: Overall, the plan works.",
+    "Past: Overall, the trip was good.",
+    "Future: Overall, results will improve.",
+    "Perfect: Overall, she has done well."
+   ]
+  },
+  {
+   "id": "pack2-card-519",
+   "mode": "vocab",
+   "word": "Namely",
+   "pron": "(adverb)",
+   "def": "Used to introduce specific details.\nहिंदी: यानी",
+   "examples": [
+    "Present: Two skills matter, namely speed and accuracy.",
+    "Past: He had one fear, namely heights.",
+    "Future: We will visit three cities, namely Delhi, Agra, and Jaipur.",
+    "Perfect: She has two aims, namely to learn and to teach."
+   ]
+  },
+  {
+   "id": "pack2-card-520",
+   "mode": "vocab",
+   "word": "Hence",
+   "pron": "(adverb)",
+   "def": "As a consequence.\nहिंदी: इसलिए",
+   "examples": [
+    "Present: Prices fell; hence demand rose.",
+    "Past: He lied; hence she doubted him.",
+    "Future: Costs will rise; hence profits will drop.",
+    "Perfect: Rain has fallen; hence the fields are green."
+   ]
+  },
+  {
+   "id": "pack2-card-521",
+   "mode": "vocab",
+   "word": "Thus",
+   "pron": "(adverb)",
+   "def": "In this way; as a result.\nहिंदी: इस प्रकार",
+   "examples": [
+    "Present: Practice daily; thus you improve.",
+    "Past: He worked hard; thus he passed.",
+    "Future: Taxes will fall; thus spending will rise.",
+    "Perfect: She has trained; thus she is ready."
+   ]
+  },
+  {
+   "id": "pack2-card-522",
+   "mode": "vocab",
+   "word": "Accordingly",
+   "pron": "(adverb)",
+   "def": "In a way that suits the situation.\nहिंदी: तदनुसार",
+   "examples": [
+    "Present: Read the rules and act accordingly.",
+    "Past: He acted accordingly.",
+    "Future: We will respond accordingly.",
+    "Perfect: They have adjusted accordingly."
+   ]
+  },
+  {
+   "id": "pack2-card-523",
+   "mode": "vocab",
+   "word": "Notably",
+   "pron": "(adverb)",
+   "def": "In a way worth noting.\nहिंदी: विशेष रूप से",
+   "examples": [
+    "Present: Several leaders attended, notably the mayor.",
+    "Past: Many failed, notably the leaders.",
+    "Future: Prices will rise, notably for fuel.",
+    "Perfect: Many have helped, notably the volunteers."
+   ]
+  },
+  {
+   "id": "pack2-card-524",
+   "mode": "vocab",
+   "word": "Presently",
+   "pron": "(adverb)",
+   "def": "Soon, or at the present time.\nहिंदी: फ़िलहाल / शीघ्र",
+   "examples": [
+    "Present: He will arrive presently.",
+    "Past: She joined us presently.",
+    "Future: I will join you presently.",
+    "Perfect: He has arrived presently."
+   ]
+  },
+  {
+   "id": "pack2-card-525",
+   "mode": "vocab",
+   "word": "Regardless",
+   "pron": "(adverb)",
+   "def": "Despite everything.\nहिंदी: बिना परवाह किए",
+   "examples": [
+    "Present: Regardless, we will go.",
+    "Past: He continued regardless.",
+    "Future: She will proceed regardless.",
+    "Perfect: They have carried on regardless."
+   ]
+  },
+  {
+   "id": "pack2-card-526",
+   "mode": "vocab",
+   "word": "Admittedly",
+   "pron": "(adverb)",
+   "def": "Used to admit a point that weakens your argument.\nहिंदी: यह मानना पड़ेगा",
+   "examples": [
+    "Present: Admittedly, it is expensive.",
+    "Past: Admittedly, I was wrong.",
+    "Future: Admittedly, it will take time.",
+    "Perfect: Admittedly, I have made mistakes."
+   ]
+  },
+  {
+   "id": "pack2-card-527",
+   "mode": "vocab",
+   "word": "Allegedly",
+   "pron": "(adverb)",
+   "def": "According to claims, not proven.\nहिंदी: कथित रूप से",
+   "examples": [
+    "Present: He allegedly took the money.",
+    "Past: She allegedly lied to police.",
+    "Future: He will allegedly face charges.",
+    "Perfect: The firm has allegedly cheated customers."
+   ]
+  },
+  {
+   "id": "pack2-card-528",
+   "mode": "vocab",
+   "word": "Reportedly",
+   "pron": "(adverb)",
+   "def": "According to reports.\nहिंदी: सूत्रों के अनुसार",
+   "examples": [
+    "Present: He is reportedly ill.",
+    "Past: The deal was reportedly signed.",
+    "Future: The star will reportedly marry.",
+    "Perfect: Talks have reportedly collapsed."
+   ]
+  },
+  {
+   "id": "pack2-card-529",
+   "mode": "vocab",
+   "word": "Supposedly",
+   "pron": "(adverb)",
+   "def": "According to what is believed.\nहिंदी: कथित तौर पर",
+   "examples": [
+    "Present: It is supposedly safe.",
+    "Past: He supposedly left at noon.",
+    "Future: It will supposedly open soon.",
+    "Perfect: She has supposedly resigned."
+   ]
+  },
+  {
+   "id": "pack2-card-530",
+   "mode": "vocab",
+   "word": "Evidently",
+   "pron": "(adverb)",
+   "def": "In a way that is clear to see.\nहिंदी: स्पष्ट रूप से",
+   "examples": [
+    "Present: Evidently, he is upset.",
+    "Past: Evidently, she knew the answer.",
+    "Future: Evidently, they will agree.",
+    "Perfect: Evidently, nothing has changed."
+   ]
+  },
+  {
+   "id": "pack2-card-531",
+   "mode": "vocab",
+   "word": "Undoubtedly",
+   "pron": "(adverb)",
+   "def": "Without doubt.\nहिंदी: निस्संदेह",
+   "examples": [
+    "Present: She is undoubtedly gifted.",
+    "Past: He was undoubtedly guilty.",
+    "Future: It will undoubtedly succeed.",
+    "Perfect: She has undoubtedly improved."
+   ]
+  },
+  {
+   "id": "pack2-card-532",
+   "mode": "vocab",
+   "word": "Certainly",
+   "pron": "(adverb)",
+   "def": "Without doubt; of course.\nहिंदी: निश्चित रूप से",
+   "examples": [
+    "Present: It is certainly useful.",
+    "Past: He certainly tried.",
+    "Future: I will certainly help.",
+    "Perfect: She has certainly grown."
+   ]
+  },
+  {
+   "id": "pack2-card-533",
+   "mode": "vocab",
+   "word": "Probably",
+   "pron": "(adverb)",
+   "def": "Most likely.\nहिंदी: संभवतः",
+   "examples": [
+    "Present: It will probably rain.",
+    "Past: He probably forgot.",
+    "Future: She will probably call.",
+    "Perfect: They have probably left."
+   ]
+  },
+  {
+   "id": "pack2-card-534",
+   "mode": "vocab",
+   "word": "Possibly",
+   "pron": "(adverb)",
+   "def": "Perhaps.\nहिंदी: शायद",
+   "examples": [
+    "Present: I can possibly join you.",
+    "Past: He possibly missed the train.",
+    "Future: She will possibly resign.",
+    "Perfect: It has possibly changed."
+   ]
+  },
+  {
+   "id": "pack2-card-535",
+   "mode": "vocab",
+   "word": "Definitely",
+   "pron": "(adverb)",
+   "def": "Without any doubt.\nहिंदी: निश्चित रूप से",
+   "examples": [
+    "Present: I will definitely come.",
+    "Past: She definitely saw it.",
+    "Future: It will definitely work.",
+    "Perfect: He has definitely improved."
+   ]
+  },
+  {
+   "id": "pack2-card-536",
+   "mode": "vocab",
+   "word": "Seemingly",
+   "pron": "(adverb)",
+   "def": "Apparently; as it seems.\nहिंदी: प्रतीत होता है",
+   "examples": [
+    "Present: A seemingly simple task.",
+    "Past: He seemingly ignored her.",
+    "Future: It will seemingly end soon.",
+    "Perfect: She has seemingly left."
+   ]
+  },
+  {
+   "id": "pack2-card-537",
+   "mode": "vocab",
+   "word": "Strictly",
+   "pron": "(adverb)",
+   "def": "In a firm and exact way.\nहिंदी: सख़्ती से",
+   "examples": [
+    "Present: Strictly speaking, it is wrong.",
+    "Past: He followed rules strictly.",
+    "Future: Rules will be enforced strictly.",
+    "Perfect: The school has banned phones strictly."
+   ]
+  },
+  {
+   "id": "pack2-card-538",
+   "mode": "vocab",
+   "word": "Primarily",
+   "pron": "(adverb)",
+   "def": "Mainly.\nहिंदी: मुख्यतः",
+   "examples": [
+    "Present: He works primarily at night.",
+    "Past: It was designed primarily for kids.",
+    "Future: The money will primarily go to schools.",
+    "Perfect: She has focused primarily on teaching."
+   ]
+  },
+  {
+   "id": "pack2-card-539",
+   "mode": "vocab",
+   "word": "Essentially",
+   "pron": "(adverb)",
+   "def": "At the most basic level.\nहिंदी: मूलतः",
+   "examples": [
+    "Present: It is essentially a game.",
+    "Past: He essentially quit.",
+    "Future: It will essentially remain the same.",
+    "Perfect: They have essentially agreed."
+   ]
+  },
+  {
+   "id": "pack2-card-540",
+   "mode": "vocab",
+   "word": "Ultimately",
+   "pron": "(adverb)",
+   "def": "In the end.\nहिंदी: अंत में",
+   "examples": [
+    "Present: Ultimately, the choice is yours.",
+    "Past: Ultimately, he failed.",
+    "Future: Ultimately, the truth will emerge.",
+    "Perfect: She has ultimately decided."
+   ]
+  },
+  {
+   "id": "pack2-card-541",
+   "mode": "vocab",
+   "word": "Previously",
+   "pron": "(adverb)",
+   "def": "Before now.\nहिंदी: पहले",
+   "examples": [
+    "Present: He previously worked abroad.",
+    "Past: She previously lived in Pune.",
+    "Future: I will previously inform you.",
+    "Perfect: They have previously met."
+   ]
+  },
+  {
+   "id": "pack2-card-542",
+   "mode": "vocab",
+   "word": "Subsequently",
+   "pron": "(adverb)",
+   "def": "After that.\nहिंदी: तत्पश्चात",
+   "examples": [
+    "Present: He subsequently resigned.",
+    "Past: She was subsequently promoted.",
+    "Future: He will subsequently be informed.",
+    "Perfect: They have subsequently agreed."
+   ]
+  },
+  {
+   "id": "pack2-card-543",
+   "mode": "vocab",
+   "word": "Simultaneously",
+   "pron": "(adverb)",
+   "def": "At the same time.\nहिंदी: एक साथ",
+   "examples": [
+    "Present: Two events happen simultaneously.",
+    "Past: They spoke simultaneously.",
+    "Future: Two trains will arrive simultaneously.",
+    "Perfect: Both have finished simultaneously."
+   ]
+  },
+  {
+   "id": "pack2-card-544",
+   "mode": "vocab",
+   "word": "Respectfully",
+   "pron": "(adverb)",
+   "def": "In a polite and respectful way.\nहिंदी: सम्मानपूर्वक",
+   "examples": [
+    "Present: She speaks respectfully to elders.",
+    "Past: He respectfully declined.",
+    "Future: I will respectfully disagree.",
+    "Perfect: She has respectfully asked."
+   ]
+  },
+  {
+   "id": "pack2-card-545",
+   "mode": "vocab",
+   "word": "Eagerly",
+   "pron": "(adverb)",
+   "def": "In a keen way.\nहिंदी: उत्सुकता से",
+   "examples": [
+    "Present: Children eagerly await holidays.",
+    "Past: She eagerly accepted the offer.",
+    "Future: Fans will eagerly wait.",
+    "Perfect: He has eagerly joined."
+   ]
+  },
+  {
+   "id": "pack2-card-546",
+   "mode": "vocab",
+   "word": "Reluctantly",
+   "pron": "(adverb)",
+   "def": "In an unwilling way.\nहिंदी: अनिच्छा से",
+   "examples": [
+    "Present: He reluctantly agrees.",
+    "Past: She reluctantly left.",
+    "Future: He will reluctantly accept.",
+    "Perfect: They have reluctantly signed."
+   ]
+  },
+  {
+   "id": "pack2-card-547",
+   "mode": "vocab",
+   "word": "Thoroughly",
+   "pron": "(adverb)",
+   "def": "Completely and carefully.\nहिंदी: पूरी तरह",
+   "examples": [
+    "Present: She thoroughly checks her work.",
+    "Past: He thoroughly enjoyed it.",
+    "Future: We will thoroughly inspect it.",
+    "Perfect: She has thoroughly prepared."
+   ]
+  },
+  {
+   "id": "pack2-card-548",
+   "mode": "vocab",
+   "word": "Fluently",
+   "pron": "(adverb)",
+   "def": "Smoothly and easily, especially in speech.\nहिंदी: धाराप्रवाह",
+   "examples": [
+    "Present: She speaks English fluently.",
+    "Past: He answered fluently.",
+    "Future: You will speak fluently with practice.",
+    "Perfect: She has learned to read fluently."
+   ]
+  },
+  {
+   "id": "pack2-card-549",
+   "mode": "vocab",
+   "word": "Confidently",
+   "pron": "(adverb)",
+   "def": "With self-assurance.\nहिंदी: आत्मविश्वास से",
+   "examples": [
+    "Present: She speaks confidently.",
+    "Past: He answered confidently.",
+    "Future: You will present confidently.",
+    "Perfect: She has handled it confidently."
+   ]
+  },
+  {
+   "id": "pack2-card-550",
+   "mode": "vocab",
+   "word": "Clearly",
+   "pron": "(adverb)",
+   "def": "In a way that is easy to understand.\nहिंदी: स्पष्ट रूप से",
+   "examples": [
+    "Present: Speak clearly.",
+    "Past: She explained it clearly.",
+    "Future: He will state it clearly.",
+    "Perfect: I have understood clearly."
+   ]
+  },
+  {
+   "id": "pack2-card-551",
+   "mode": "vocab",
+   "word": "Briefly",
+   "pron": "(adverb)",
+   "def": "In a few words; for a short time.\nहिंदी: संक्षेप में",
+   "examples": [
+    "Present: Briefly explain your idea.",
+    "Past: He spoke briefly.",
+    "Future: She will briefly summarise.",
+    "Perfect: I have briefly mentioned it."
+   ]
+  },
+  {
+   "id": "pack2-card-552",
+   "mode": "vocab",
+   "word": "Carefully",
+   "pron": "(adverb)",
+   "def": "With attention to avoid mistakes.\nहिंदी: सावधानी से",
+   "examples": [
+    "Present: Drive carefully.",
+    "Past: She read the contract carefully.",
+    "Future: He will listen carefully.",
+    "Perfect: They have planned carefully."
+   ]
+  },
+  {
+   "id": "pack2-card-553",
+   "mode": "vocab",
+   "word": "Politely",
+   "pron": "(adverb)",
+   "def": "In a courteous way.\nहिंदी: विनम्रता से",
+   "examples": [
+    "Present: Ask politely.",
+    "Past: He politely refused.",
+    "Future: She will politely decline.",
+    "Perfect: He has politely asked."
+   ]
+  }
+ ]
+}

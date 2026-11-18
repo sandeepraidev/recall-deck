@@ -1,0 +1,484 @@
+{
+ "id": "pack6-deck-13",
+ "categoryId": "pack6-cat-5",
+ "title": "Opinions, Agreement & Disagreement",
+ "sub": "Share a view, concede a point, or push back politely.",
+ "cards": [
+  {
+   "id": "pack6-card-1993",
+   "mode": "expression",
+   "phrase": "Fair point",
+   "situation": "An acknowledgement that someone's argument is reasonable",
+   "hindi": "आपकी बात ठीक है",
+   "examples": [
+    "Fair point; I hadn't considered the audit angle.",
+    "Fair point — let's add a fallback for that case.",
+    "That's a fair point about the on-call load.",
+    "Fair point; maybe we should check with finance first.",
+    "Fair point, but I still think the deadline is realistic."
+   ]
+  },
+  {
+   "id": "pack6-card-1994",
+   "mode": "expression",
+   "phrase": "Good catch",
+   "situation": "Praise for noticing a problem or detail",
+   "hindi": "अच्छा पकड़ा",
+   "examples": [
+    "Good catch on the missing null check.",
+    "Good catch — that typo would have broken the build.",
+    "Good catch on the timezone bug in the report.",
+    "Wow, good catch; I completely missed that edge case.",
+    "Good catch! Can you open a ticket for it?"
+   ]
+  },
+  {
+   "id": "pack6-card-1995",
+   "mode": "expression",
+   "phrase": "To be fair",
+   "situation": "Used to add a balanced or contrasting point",
+   "hindi": "निष्पक्ष होकर कहूँ तो",
+   "examples": [
+    "To be fair, the vendor did warn us about this.",
+    "To be fair, nobody expected traffic to triple overnight.",
+    "To be fair, the docs were out of date when he started.",
+    "It was a rough launch, but to be fair, we had very little time.",
+    "To be fair to the QA team, they flagged this last sprint."
+   ]
+  },
+  {
+   "id": "pack6-card-1996",
+   "mode": "expression",
+   "phrase": "That said",
+   "situation": "Introducing a contrasting point after a concession",
+   "hindi": "ऐसा कहने के बाद भी",
+   "examples": [
+    "The design is solid. That said, the timeline is risky.",
+    "It's a great tool. That said, the licence is expensive.",
+    "I like the proposal. That said, we need buy-in from ops.",
+    "The tests pass. That said, I'd like a second review.",
+    "We're ahead of plan. That said, let's not get complacent."
+   ]
+  },
+  {
+   "id": "pack6-card-1997",
+   "mode": "expression",
+   "phrase": "Having said that",
+   "situation": "Introducing a contrasting statement",
+   "hindi": "यह कहने के बावजूद",
+   "examples": [
+    "Having said that, I understand why the team chose it.",
+    "The new UI is cleaner. Having said that, users may need training.",
+    "I agree with the plan; having said that, the budget is tight.",
+    "It's a quick fix. Having said that, we should track the root cause.",
+    "He's new to the team. Having said that, his code is excellent."
+   ]
+  },
+  {
+   "id": "pack6-card-1998",
+   "mode": "expression",
+   "phrase": "On the other hand",
+   "situation": "Introducing an opposing consideration",
+   "hindi": "दूसरी ओर",
+   "examples": [
+    "On the other hand, a rewrite would take months.",
+    "On the other hand, buying the tool saves us maintenance work.",
+    "Remote work is flexible; on the other hand, onboarding is harder.",
+    "On the other hand, waiting a week gives us better test coverage.",
+    "Caching helps speed. On the other hand, it adds stale-data risk."
+   ]
+  },
+  {
+   "id": "pack6-card-1999",
+   "mode": "expression",
+   "phrase": "By the same token",
+   "situation": "Used to show a similar conclusion follows",
+   "hindi": "इसी तरह",
+   "examples": [
+    "By the same token, if we skip testing we invite bugs.",
+    "By the same token, we should review the other services too.",
+    "If we reward speed, by the same token we must reward quality.",
+    "By the same token, the client should give us feedback on time.",
+    "Juniors need mentoring; by the same token, seniors need time to mentor."
+   ]
+  },
+  {
+   "id": "pack6-card-2000",
+   "mode": "expression",
+   "phrase": "As far as I'm concerned",
+   "situation": "Expressing a personal view",
+   "hindi": "जहाँ तक मेरा सवाल है",
+   "examples": [
+    "As far as I'm concerned, reliability comes first.",
+    "As far as I'm concerned, the design is ready to ship.",
+    "As far as I'm concerned, the meeting can be an email.",
+    "As far as I'm concerned, customer trust is non-negotiable.",
+    "As far as I'm concerned, we've done our part."
+   ]
+  },
+  {
+   "id": "pack6-card-2001",
+   "mode": "expression",
+   "phrase": "From my perspective",
+   "situation": "Introducing one's own point of view",
+   "hindi": "मेरे दृष्टिकोण से",
+   "examples": [
+    "From my perspective, the biggest risk is data quality.",
+    "From my perspective, the onboarding flow is too long.",
+    "From my perspective, this is more a process issue than a tech issue.",
+    "From my perspective, the client cares most about stability.",
+    "From my perspective, we should hire before we scale."
+   ]
+  },
+  {
+   "id": "pack6-card-2002",
+   "mode": "expression",
+   "phrase": "The way I see it",
+   "situation": "Introducing an opinion informally",
+   "hindi": "जैसा मैं देखता हूँ",
+   "examples": [
+    "The way I see it, we're over-engineering this.",
+    "The way I see it, we have two realistic options.",
+    "The way I see it, the delay isn't anyone's fault.",
+    "The way I see it, users just want it to be fast.",
+    "The way I see it, a small pilot is the safest bet."
+   ]
+  },
+  {
+   "id": "pack6-card-2003",
+   "mode": "expression",
+   "phrase": "If anything",
+   "situation": "Used to add a slightly stronger or contrary observation",
+   "hindi": "बल्कि",
+   "examples": [
+    "If anything, the change made the system more stable.",
+    "If anything, we should be spending more on testing.",
+    "The feedback wasn't negative; if anything, it was encouraging.",
+    "If anything, the new process saved us time.",
+    "I don't think it's too early; if anything, we're late."
+   ]
+  },
+  {
+   "id": "pack6-card-2004",
+   "mode": "expression",
+   "phrase": "For what it's worth",
+   "situation": "Offering an opinion modestly",
+   "hindi": "मेरी राय के लिए जो भी मूल्य हो",
+   "examples": [
+    "For what it's worth, I'd prefer the simpler option.",
+    "For what it's worth, I thought your demo went really well.",
+    "For what it's worth, we had the same issue last year.",
+    "For what it's worth, the vendor's support has been good.",
+    "For what it's worth, I'd ask legal before signing."
+   ]
+  },
+  {
+   "id": "pack6-card-2005",
+   "mode": "expression",
+   "phrase": "To my mind",
+   "situation": "In my opinion",
+   "hindi": "मेरे विचार में",
+   "examples": [
+    "To my mind, observability should be a first-class requirement.",
+    "To my mind, the real problem is unclear ownership.",
+    "To my mind, this feature isn't worth the complexity.",
+    "To my mind, the second candidate was the stronger one.",
+    "To my mind, we should document this before we forget."
+   ]
+  },
+  {
+   "id": "pack6-card-2006",
+   "mode": "expression",
+   "phrase": "I tend to think",
+   "situation": "Expressing a considered but tentative opinion",
+   "hindi": "मेरा झुकाव यह सोचने की ओर है",
+   "examples": [
+    "I tend to think we should wait for more data.",
+    "I tend to think smaller releases are less risky.",
+    "I tend to think the users won't notice the change.",
+    "I tend to think we're overestimating the effort.",
+    "I tend to think the problem is in the config, not the code."
+   ]
+  },
+  {
+   "id": "pack6-card-2007",
+   "mode": "expression",
+   "phrase": "I'm inclined to",
+   "situation": "Expressing a leaning towards an option",
+   "hindi": "मेरा झुकाव है",
+   "examples": [
+    "I'm inclined to go with the managed service.",
+    "I'm inclined to agree with Priya on this one.",
+    "I'm inclined to postpone the migration until Q3.",
+    "I'm inclined to give the new vendor a chance.",
+    "I'm inclined to keep the current design for now."
+   ]
+  },
+  {
+   "id": "pack6-card-2008",
+   "mode": "expression",
+   "phrase": "I'm leaning towards",
+   "situation": "Showing a preference without final decision",
+   "hindi": "मैं ... की ओर झुक रहा हूँ",
+   "examples": [
+    "I'm leaning towards option two because of lower risk.",
+    "I'm leaning towards Postgres, but I'm open to other ideas.",
+    "I'm leaning towards a Friday release.",
+    "I'm leaning towards hiring a contractor for this.",
+    "We're leaning towards the cheaper plan for the first year."
+   ]
+  },
+  {
+   "id": "pack6-card-2009",
+   "mode": "expression",
+   "phrase": "I'm torn",
+   "situation": "Feeling unable to decide between options",
+   "hindi": "असमंजस में हूँ",
+   "examples": [
+    "I'm torn between speed and safety here.",
+    "I'm torn on whether to refactor now or later.",
+    "Honestly, I'm torn; both candidates are strong.",
+    "I'm torn between the two vendors.",
+    "I'm a bit torn about cutting that feature."
+   ]
+  },
+  {
+   "id": "pack6-card-2010",
+   "mode": "expression",
+   "phrase": "My gut feeling",
+   "situation": "An instinctive sense without detailed evidence",
+   "hindi": "मेरा अंतर्ज्ञान",
+   "examples": [
+    "My gut feeling is that the issue is in the network layer.",
+    "My gut feeling says the client will push back.",
+    "My gut feeling is that we need another week.",
+    "My gut feeling is that this bug is related to the last deploy.",
+    "I can't prove it yet, but my gut feeling is it's a memory leak."
+   ]
+  },
+  {
+   "id": "pack6-card-2011",
+   "mode": "expression",
+   "phrase": "My take",
+   "situation": "My view or interpretation",
+   "hindi": "मेरी राय / समझ",
+   "examples": [
+    "My take is that we should ship the smaller scope first.",
+    "My take on the survey is that users want simplicity.",
+    "What's your take on the new policy?",
+    "My take is that the meeting was productive.",
+    "My take: start small and measure everything."
+   ]
+  },
+  {
+   "id": "pack6-card-2012",
+   "mode": "expression",
+   "phrase": "With all due respect",
+   "situation": "A polite opener before disagreeing",
+   "hindi": "पूरे सम्मान के साथ",
+   "examples": [
+    "With all due respect, I think the numbers say otherwise.",
+    "With all due respect, that's not what we agreed last week.",
+    "With all due respect, the team needs more time.",
+    "With all due respect, I don't think the customer will accept that.",
+    "With all due respect, we should hear from the engineers first."
+   ]
+  },
+  {
+   "id": "pack6-card-2013",
+   "mode": "expression",
+   "phrase": "No offence",
+   "situation": "Softening a potentially critical remark",
+   "hindi": "बुरा न मानें",
+   "examples": [
+    "No offence, but this section needs more detail.",
+    "No offence, but the slides are a bit hard to read.",
+    "No offence intended, but I think we can do better.",
+    "No offence, but I'd rather someone else review it.",
+    "No offence, but this meeting could have been shorter."
+   ]
+  },
+  {
+   "id": "pack6-card-2014",
+   "mode": "expression",
+   "phrase": "Frankly speaking",
+   "situation": "To say something openly and honestly",
+   "hindi": "साफ़ कहूँ तो",
+   "examples": [
+    "Frankly speaking, the estimate looks optimistic.",
+    "Frankly speaking, we're not ready for the launch.",
+    "Frankly speaking, the process is too slow.",
+    "Frankly speaking, I'd hire more people before buying tools.",
+    "Frankly speaking, the client expects more than we've shown."
+   ]
+  },
+  {
+   "id": "pack6-card-2015",
+   "mode": "expression",
+   "phrase": "On reflection",
+   "situation": "After thinking again carefully",
+   "hindi": "सोचने के बाद",
+   "examples": [
+    "On reflection, I think we should delay the release.",
+    "On reflection, I was too harsh in my review.",
+    "On reflection, the old approach was simpler.",
+    "On reflection, we should have involved support earlier.",
+    "I said yes at first, but on reflection, I need more details."
+   ]
+  },
+  {
+   "id": "pack6-card-2016",
+   "mode": "expression",
+   "phrase": "Come to think of it",
+   "situation": "Used when a new thought occurs",
+   "hindi": "अब सोचता हूँ तो",
+   "examples": [
+    "Come to think of it, we never tested that path.",
+    "Come to think of it, she mentioned this last month.",
+    "Come to think of it, the error started after the upgrade.",
+    "Come to think of it, we don't have a backup for that server.",
+    "Come to think of it, why do we still need this report?"
+   ]
+  },
+  {
+   "id": "pack6-card-2017",
+   "mode": "expression",
+   "phrase": "I couldn't agree more",
+   "situation": "I completely agree",
+   "hindi": "मैं पूरी तरह सहमत हूँ",
+   "examples": [
+    "I couldn't agree more; monitoring should come first.",
+    "I couldn't agree more with your summary.",
+    "I couldn't agree more — the docs need a rewrite.",
+    "I couldn't agree more; let's prioritise it.",
+    "\"We need clearer goals.\" \"I couldn't agree more.\""
+   ]
+  },
+  {
+   "id": "pack6-card-2018",
+   "mode": "expression",
+   "phrase": "I beg to differ",
+   "situation": "A polite way of disagreeing",
+   "hindi": "मैं विनम्रता से असहमत हूँ",
+   "examples": [
+    "I beg to differ; the data tells another story.",
+    "I beg to differ — the old system was slower.",
+    "I beg to differ; the users actually liked that feature.",
+    "I beg to differ on the timeline.",
+    "I beg to differ; I think we can do it in-house."
+   ]
+  },
+  {
+   "id": "pack6-card-2019",
+   "mode": "expression",
+   "phrase": "I see where you're coming from",
+   "situation": "I understand your point of view",
+   "hindi": "मैं आपकी बात समझता हूँ",
+   "examples": [
+    "I see where you're coming from, but the risk is higher.",
+    "I see where you're coming from, but we can't skip the review.",
+    "I see where you're coming from; the deadline is stressful.",
+    "I see where you're coming from, and I partly agree.",
+    "I see where you're coming from — let's look at the data."
+   ]
+  },
+  {
+   "id": "pack6-card-2020",
+   "mode": "expression",
+   "phrase": "I take your point",
+   "situation": "I accept that your argument is valid",
+   "hindi": "मैं आपकी बात मानता हूँ",
+   "examples": [
+    "I take your point about the cost.",
+    "I take your point, but we still need approval.",
+    "I take your point; let's revisit it next sprint.",
+    "I take your point about readability.",
+    "I take your point, though I'd still like a backup plan."
+   ]
+  },
+  {
+   "id": "pack6-card-2021",
+   "mode": "expression",
+   "phrase": "Point taken",
+   "situation": "I accept what you said",
+   "hindi": "बात समझ में आई",
+   "examples": [
+    "Point taken; I'll add more tests.",
+    "Point taken — I'll keep the update shorter next time.",
+    "Point taken; we'll loop in security earlier.",
+    "OK, point taken. Let's move on.",
+    "Point taken about the naming; I'll rename the fields."
+   ]
+  },
+  {
+   "id": "pack6-card-2022",
+   "mode": "expression",
+   "phrase": "I'm not entirely convinced",
+   "situation": "Expressing polite doubt",
+   "hindi": "मुझे पूरी तरह यक़ीन नहीं है",
+   "examples": [
+    "I'm not entirely convinced this will scale.",
+    "I'm not entirely convinced the users need this.",
+    "I'm not entirely convinced by the cost estimate.",
+    "I'm not entirely convinced it's a network issue.",
+    "I'm still not entirely convinced, but let's try it."
+   ]
+  },
+  {
+   "id": "pack6-card-2023",
+   "mode": "expression",
+   "phrase": "I'm afraid I disagree",
+   "situation": "A polite way to disagree",
+   "hindi": "मुझे अफ़सोस है, मैं असहमत हूँ",
+   "examples": [
+    "I'm afraid I disagree with that estimate.",
+    "I'm afraid I disagree; the risk is too high.",
+    "I'm afraid I disagree with the proposed timeline.",
+    "I'm afraid I disagree — the data doesn't support that.",
+    "I'm afraid I disagree, but I'm happy to discuss it."
+   ]
+  },
+  {
+   "id": "pack6-card-2024",
+   "mode": "expression",
+   "phrase": "That's a fair concern",
+   "situation": "Acknowledging a valid worry",
+   "hindi": "यह एक जायज़ चिंता है",
+   "examples": [
+    "That's a fair concern; we'll add a safeguard.",
+    "That's a fair concern, and we've planned for it.",
+    "That's a fair concern about privacy.",
+    "That's a fair concern; let me check with the vendor.",
+    "That's a fair concern — we'll test it under load."
+   ]
+  },
+  {
+   "id": "pack6-card-2025",
+   "mode": "expression",
+   "phrase": "That's debatable",
+   "situation": "Saying a point is open to argument",
+   "hindi": "यह बहस का विषय है",
+   "examples": [
+    "That's debatable; others have seen different results.",
+    "Whether it's faster is debatable.",
+    "That's debatable; it depends on the use case.",
+    "It's debatable whether we need a new tool at all.",
+    "The benefit is debatable, but the cost is clear."
+   ]
+  },
+  {
+   "id": "pack6-card-2026",
+   "mode": "expression",
+   "phrase": "I'd argue that",
+   "situation": "Introducing a reasoned opinion",
+   "hindi": "मेरा तर्क है कि",
+   "examples": [
+    "I'd argue that maintainability matters more than speed here.",
+    "I'd argue that the real issue is the process, not the people.",
+    "I'd argue that we're already over budget.",
+    "I'd argue that simpler is better here.",
+    "I'd argue that the customer won't wait another month."
+   ]
+  }
+ ]
+}

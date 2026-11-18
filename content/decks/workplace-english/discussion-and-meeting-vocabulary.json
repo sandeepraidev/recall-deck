@@ -1,0 +1,1126 @@
+{
+ "id": "pack6-deck-2",
+ "categoryId": "pack6-cat-1",
+ "title": "Discussion & Meeting Vocabulary",
+ "sub": "Verbs, adjectives and idioms for debating ideas and steering meetings.",
+ "cards": [
+  {
+   "id": "pack6-card-201",
+   "mode": "vocab",
+   "word": "build on",
+   "pron": "(phrasal verb)",
+   "def": "To add to or develop someone else's idea\nहिंदी: किसी के विचार को आगे बढ़ाना",
+   "examples": [
+    "I'd like to build on Priya's point about retries.",
+    "Can I build on what Rahul just said about customer feedback?",
+    "We built on last year's plan instead of starting from scratch.",
+    "Her idea was good, and the team built on it to create something better."
+   ]
+  },
+  {
+   "id": "pack6-card-202",
+   "mode": "vocab",
+   "word": "push back",
+   "pron": "(phrasal verb)",
+   "def": "To resist or disagree with a proposal respectfully\nहिंदी: विनम्रता से असहमति जताना",
+   "examples": [
+    "I'd push back slightly on the timeline; it looks tight.",
+    "Don't be afraid to push back if the deadline is unrealistic.",
+    "The client pushed back on the price, so we offered a smaller package.",
+    "My manager pushed back on my leave request because of the release."
+   ]
+  },
+  {
+   "id": "pack6-card-203",
+   "mode": "vocab",
+   "word": "weigh in",
+   "pron": "(phrasal verb)",
+   "def": "To contribute an opinion to a discussion\nहिंदी: अपनी राय रखना",
+   "examples": [
+    "Could someone from security weigh in on this?",
+    "Before we decide, I'd like the finance team to weigh in.",
+    "Everyone weighed in on where to hold the team dinner.",
+    "Can you weigh in on this design before Friday?"
+   ]
+  },
+  {
+   "id": "pack6-card-204",
+   "mode": "vocab",
+   "word": "chime in",
+   "pron": "(phrasal verb)",
+   "def": "To join a conversation with a comment\nहिंदी: बातचीत में बीच में जुड़ना",
+   "examples": [
+    "Feel free to chime in if I miss anything.",
+    "My colleague chimed in with a useful example.",
+    "Anyone can chime in during the open discussion.",
+    "When we talked about cricket, everyone wanted to chime in."
+   ]
+  },
+  {
+   "id": "pack6-card-205",
+   "mode": "vocab",
+   "word": "jump in",
+   "pron": "(phrasal verb)",
+   "def": "To start contributing, often by interrupting politely\nहिंदी: बातचीत में कूदकर शामिल होना",
+   "examples": [
+    "Sorry to jump in, but I have a quick clarification.",
+    "Can I jump in here with a quick update from the client?",
+    "New joiners are welcome to jump in with questions anytime.",
+    "He jumped in before I could finish my sentence."
+   ]
+  },
+  {
+   "id": "pack6-card-208",
+   "mode": "vocab",
+   "word": "flag",
+   "pron": "(verb)",
+   "def": "To draw attention to a potential issue\nहिंदी: संभावित समस्या की ओर ध्यान दिलाना",
+   "examples": [
+    "I want to flag a risk with the current approach.",
+    "Please flag any expenses over five thousand rupees.",
+    "She flagged the missing signature before the contract was sent.",
+    "The tool flags suspicious logins automatically."
+   ]
+  },
+  {
+   "id": "pack6-card-209",
+   "mode": "vocab",
+   "word": "surface",
+   "pron": "(verb)",
+   "def": "To bring a hidden issue to attention\nहिंदी: छुपी समस्या को सामने लाना",
+   "examples": [
+    "The review surfaced several gaps in our testing.",
+    "The survey surfaced some frustration with the new leave policy.",
+    "Please surface blockers early instead of waiting for the review.",
+    "One-on-one meetings help surface problems people won't mention in groups."
+   ]
+  },
+  {
+   "id": "pack6-card-210",
+   "mode": "vocab",
+   "word": "tease out",
+   "pron": "(phrasal verb)",
+   "def": "To extract details carefully from a complex situation\nहिंदी: बारीकी से जानकारी निकालना",
+   "examples": [
+    "We need to tease out the real requirement behind the request.",
+    "The doctor teased out the real cause of my headaches.",
+    "Good interviewers tease out the details behind a candidate's answers.",
+    "We need to tease out which part of the process causes the delay."
+   ]
+  },
+  {
+   "id": "pack6-card-211",
+   "mode": "vocab",
+   "word": "unpack",
+   "pron": "(verb)",
+   "def": "To analyse a complex idea in detail\nहिंदी: जटिल विचार को खोलकर समझना",
+   "examples": [
+    "Let's unpack what failure means in this context.",
+    "Let's unpack the feedback point by point.",
+    "There's a lot to unpack in this customer complaint.",
+    "Can you unpack what you mean by better communication?"
+   ]
+  },
+  {
+   "id": "pack6-card-212",
+   "mode": "vocab",
+   "word": "drill down",
+   "pron": "(phrasal verb)",
+   "def": "To examine something in greater detail\nहिंदी: गहराई में जाकर जाँचना",
+   "examples": [
+    "Let's drill down into why latency spikes at noon.",
+    "The dashboard lets you drill down to a single customer.",
+    "Let's drill down into the reasons for the high returns.",
+    "When we drilled down, the problem was in one region only."
+   ]
+  },
+  {
+   "id": "pack6-card-213",
+   "mode": "vocab",
+   "word": "zoom out",
+   "pron": "(phrasal verb)",
+   "def": "To look at the broader picture\nहिंदी: बड़ी तस्वीर देखना",
+   "examples": [
+    "Let's zoom out and ask what problem we're really solving.",
+    "If we zoom out, this quarter was actually quite good.",
+    "Zoom out for a moment and think about the user's whole day.",
+    "Zooming out helped us see that the bug was a design issue."
+   ]
+  },
+  {
+   "id": "pack6-card-214",
+   "mode": "vocab",
+   "word": "take a step back",
+   "pron": "(idiom)",
+   "def": "To reconsider a situation from a broader perspective\nहिंदी: एक कदम पीछे हटकर सोचना",
+   "examples": [
+    "Let's take a step back and look at the overall design.",
+    "When you feel stressed, take a step back and breathe.",
+    "We took a step back and realised the feature wasn't needed.",
+    "Let's take a step back before we argue about tools."
+   ]
+  },
+  {
+   "id": "pack6-card-215",
+   "mode": "vocab",
+   "word": "play devil's advocate",
+   "pron": "(idiom)",
+   "def": "To argue an opposing view to test an idea\nहिंदी: परीक्षण के लिए विरोधी पक्ष लेना",
+   "examples": [
+    "Let me play devil's advocate and question the need for Kafka here.",
+    "I'll play devil's advocate: what if customers don't want this?",
+    "She often plays devil's advocate to test our plans.",
+    "Playing devil's advocate helped us find weak spots in the proposal."
+   ]
+  },
+  {
+   "id": "pack6-card-216",
+   "mode": "vocab",
+   "word": "steelman",
+   "pron": "(verb)",
+   "def": "To present the strongest version of an opposing argument\nहिंदी: विपरीत तर्क का सबसे मज़बूत रूप रखना",
+   "examples": [
+    "Let me steelman the case for keeping the monolith.",
+    "Before rejecting his idea, let's steelman it first.",
+    "A good debater can steelman the other side's view.",
+    "If you steelman their position, you'll understand the client better."
+   ]
+  },
+  {
+   "id": "pack6-card-223",
+   "mode": "vocab",
+   "word": "reframe",
+   "pron": "(verb)",
+   "def": "To present a problem from a different angle\nहिंदी: समस्या को नए दृष्टिकोण से रखना",
+   "examples": [
+    "Let me reframe the question: what happens when the vendor is late?",
+    "Try to reframe the failure as a chance to learn.",
+    "She reframed the cost as an investment in quality.",
+    "Let's reframe the problem from the customer's point of view."
+   ]
+  },
+  {
+   "id": "pack6-card-224",
+   "mode": "vocab",
+   "word": "frame",
+   "pron": "(verb)",
+   "def": "To present or structure a problem in a particular way\nहिंदी: समस्या को किसी रूप में प्रस्तुत करना",
+   "examples": [
+    "How we frame this will affect which options we consider.",
+    "Frame your request around the benefit to the team.",
+    "The way you frame the question can change the answer.",
+    "He framed the delay as a choice to protect quality."
+   ]
+  },
+  {
+   "id": "pack6-card-225",
+   "mode": "vocab",
+   "word": "rationale",
+   "pron": "(noun)",
+   "def": "The reasoning behind a decision\nहिंदी: तर्कसंगत आधार",
+   "examples": [
+    "Could you share the rationale behind choosing this vendor?",
+    "Please write the rationale for this decision in the document.",
+    "The rationale for the price increase was rising costs.",
+    "I understand the decision, but I don't see the rationale."
+   ]
+  },
+  {
+   "id": "pack6-card-226",
+   "mode": "vocab",
+   "word": "justification",
+   "pron": "(noun)",
+   "def": "A reason given to defend a decision\nहिंदी: औचित्य",
+   "examples": [
+    "We need stronger justification for the extra cost.",
+    "There's no justification for shouting at a colleague.",
+    "Please add a business justification to the budget request.",
+    "His only justification for the delay was a lack of time."
+   ]
+  },
+  {
+   "id": "pack6-card-227",
+   "mode": "vocab",
+   "word": "premise",
+   "pron": "(noun)",
+   "def": "A statement that an argument is based on\nहिंदी: तर्क की आधारभूत धारणा",
+   "examples": [
+    "The premise that volume will double is questionable.",
+    "The whole plan rests on the premise that customers will pay more.",
+    "If the premise is wrong, the conclusion is wrong too.",
+    "The film's premise is simple: two strangers stuck in a lift."
+   ]
+  },
+  {
+   "id": "pack6-card-228",
+   "mode": "vocab",
+   "word": "counterargument",
+   "pron": "(noun)",
+   "def": "An argument against a position\nहिंदी: प्रतितर्क",
+   "examples": [
+    "A strong counterargument is the added operational burden.",
+    "Prepare for the main counterargument before the debate.",
+    "His counterargument was that the project would cost too much.",
+    "Listen fully to a counterargument before you reply."
+   ]
+  },
+  {
+   "id": "pack6-card-229",
+   "mode": "vocab",
+   "word": "objection",
+   "pron": "(noun)",
+   "def": "An expression of disagreement or concern\nहिंदी: आपत्ति",
+   "examples": [
+    "Does anyone have an objection to moving the release?",
+    "The neighbours raised an objection to the new building.",
+    "If there's no objection, we'll go ahead with Monday.",
+    "Her main objection was the lack of testing time."
+   ]
+  },
+  {
+   "id": "pack6-card-231",
+   "mode": "vocab",
+   "word": "misgiving",
+   "pron": "(noun)",
+   "def": "A feeling of doubt about the outcome\nहिंदी: मन में शंका",
+   "examples": [
+    "I have misgivings about relying on a single vendor.",
+    "My parents had misgivings about me moving to another city.",
+    "Despite some misgivings, she accepted the job offer.",
+    "Share any misgivings now, not after we've started."
+   ]
+  },
+  {
+   "id": "pack6-card-232",
+   "mode": "vocab",
+   "word": "skeptical",
+   "pron": "(adjective)",
+   "def": "Having doubts about whether something is true or wise\nहिंदी: संशयी",
+   "examples": [
+    "I'm skeptical that we can finish this by Friday.",
+    "Customers are skeptical of offers that seem too good to be true.",
+    "I was skeptical at first, but the tool really saves time.",
+    "The investors remained skeptical about the growth numbers."
+   ]
+  },
+  {
+   "id": "pack6-card-233",
+   "mode": "vocab",
+   "word": "sceptical",
+   "pron": "(adjective)",
+   "def": "Having doubts (British spelling)\nहिंदी: संशयी",
+   "examples": [
+    "She was sceptical about the benchmark results.",
+    "Many people are sceptical about miracle diets.",
+    "I'm sceptical that a new tool alone will fix our process.",
+    "He was sceptical of the plan until he saw the results."
+   ]
+  },
+  {
+   "id": "pack6-card-238",
+   "mode": "vocab",
+   "word": "feasible",
+   "pron": "(adjective)",
+   "def": "Possible and practical to do\nहिंदी: व्यवहार्य",
+   "examples": [
+    "Is it feasible to deliver this without extra people?",
+    "Working from home three days a week is feasible for our team.",
+    "Is it feasible to finish the course in a month?",
+    "We need a feasible plan, not a perfect one."
+   ]
+  },
+  {
+   "id": "pack6-card-239",
+   "mode": "vocab",
+   "word": "plausible",
+   "pron": "(adjective)",
+   "def": "Reasonable and likely to be true\nहिंदी: संभाव्य और विश्वसनीय",
+   "examples": [
+    "A plausible explanation is that the cache was stale.",
+    "His excuse for being late sounded plausible.",
+    "It's plausible that the email went to spam.",
+    "The detective looked for the most plausible explanation."
+   ]
+  },
+  {
+   "id": "pack6-card-240",
+   "mode": "vocab",
+   "word": "credible",
+   "pron": "(adjective)",
+   "def": "Believable and trustworthy\nहिंदी: विश्वसनीय",
+   "examples": [
+    "We need a credible plan to recover the lost time.",
+    "The news came from a credible source.",
+    "To be credible, your estimate should include some buffer.",
+    "She is a credible speaker because she has done the work herself."
+   ]
+  },
+  {
+   "id": "pack6-card-241",
+   "mode": "vocab",
+   "word": "compelling",
+   "pron": "(adjective)",
+   "def": "Strongly convincing\nहिंदी: ज़ोरदार / प्रभावशाली",
+   "examples": [
+    "The data makes a compelling case for change.",
+    "The book has a compelling story that kept me awake.",
+    "You need a compelling reason to change jobs so soon.",
+    "He gave a compelling demo that impressed the client."
+   ]
+  },
+  {
+   "id": "pack6-card-242",
+   "mode": "vocab",
+   "word": "persuasive",
+   "pron": "(adjective)",
+   "def": "Good at convincing others\nहिंदी: प्रेरक / क़ायल करने वाला",
+   "examples": [
+    "Her persuasive presentation won over the sceptics.",
+    "Be persuasive, but don't pressure the customer.",
+    "She wrote a persuasive email asking for a bigger budget.",
+    "His argument was more persuasive because he used real numbers."
+   ]
+  },
+  {
+   "id": "pack6-card-245",
+   "mode": "vocab",
+   "word": "I'm on the fence",
+   "pron": "(idiom)",
+   "def": "Undecided between two options\nहिंदी: दुविधा में होना",
+   "examples": [
+    "I'm on the fence about adopting the new framework.",
+    "I'm on the fence about buying a car or using cabs.",
+    "The manager was on the fence, so we gave her more data.",
+    "I'm on the fence about the offer; the salary is good, but the commute is long."
+   ]
+  },
+  {
+   "id": "pack6-card-246",
+   "mode": "vocab",
+   "word": "the elephant in the room",
+   "pron": "(idiom)",
+   "def": "An obvious problem that no one wants to discuss\nहिंदी: वह बड़ी समस्या जिस पर कोई बात नहीं करता",
+   "examples": [
+    "The elephant in the room is our lack of test coverage.",
+    "The elephant in the room was the layoffs nobody mentioned.",
+    "Let's address the elephant in the room: we're over budget.",
+    "At the family dinner, his job loss was the elephant in the room."
+   ]
+  },
+  {
+   "id": "pack6-card-247",
+   "mode": "vocab",
+   "word": "a moot point",
+   "pron": "(idiom)",
+   "def": "An issue no longer relevant or open to debate\nहिंदी: अब अप्रासंगिक मुद्दा",
+   "examples": [
+    "Whether to retry is a moot point; the vendor won't resend.",
+    "The ticket is already sold out, so it's a moot point.",
+    "Whether he should apply is a moot point now that he's got the job.",
+    "Arguing about the old design is a moot point after launch."
+   ]
+  },
+  {
+   "id": "pack6-card-248",
+   "mode": "vocab",
+   "word": "off the table",
+   "pron": "(idiom)",
+   "def": "No longer available for consideration\nहिंदी: विचार से बाहर",
+   "examples": [
+    "A full rewrite is off the table this year.",
+    "Working from home is off the table during the audit week.",
+    "Once he shouted at the client, a promotion was off the table.",
+    "Is a salary increase completely off the table?"
+   ]
+  },
+  {
+   "id": "pack6-card-249",
+   "mode": "vocab",
+   "word": "on the table",
+   "pron": "(idiom)",
+   "def": "Available for consideration\nहिंदी: विचाराधीन",
+   "examples": [
+    "Two options are on the table at the moment.",
+    "Everything is on the table, including changing the vendor.",
+    "Let's put all the ideas on the table before we decide.",
+    "A remote role is still on the table if you're interested."
+   ]
+  },
+  {
+   "id": "pack6-card-250",
+   "mode": "vocab",
+   "word": "back to the drawing board",
+   "pron": "(idiom)",
+   "def": "Starting again after a failure\nहिंदी: फिर से शुरुआत करना",
+   "examples": [
+    "The prototype failed, so it's back to the drawing board.",
+    "The client hated the logo, so it's back to the drawing board.",
+    "After the funding fell through, they went back to the drawing board.",
+    "One failed test doesn't mean back to the drawing board."
+   ]
+  },
+  {
+   "id": "pack6-card-252",
+   "mode": "vocab",
+   "word": "dwell on",
+   "pron": "(phrasal verb)",
+   "def": "To spend too much time thinking or talking about something\nहिंदी: किसी बात पर बहुत देर अटके रहना",
+   "examples": [
+    "Let's not dwell on the past; let's fix the process.",
+    "Don't dwell on one bad interview; prepare for the next one.",
+    "He dwelt on the mistake for days.",
+    "Let's not dwell on details that don't change the decision."
+   ]
+  },
+  {
+   "id": "pack6-card-253",
+   "mode": "vocab",
+   "word": "gloss over",
+   "pron": "(phrasal verb)",
+   "def": "To treat a matter too briefly or superficially\nहिंदी: किसी बात को सरसरी तौर पर निपटाना",
+   "examples": [
+    "We shouldn't gloss over the data-loss risk.",
+    "The report glossed over the safety problems.",
+    "Don't gloss over your weaknesses in the interview; explain how you're improving.",
+    "He glossed over the cost and talked only about benefits."
+   ]
+  },
+  {
+   "id": "pack6-card-254",
+   "mode": "vocab",
+   "word": "sidestep",
+   "pron": "(verb)",
+   "def": "To avoid dealing with an issue\nहिंदी: मुद्दे से बचना",
+   "examples": [
+    "We can't sidestep the compliance question any longer.",
+    "The minister sidestepped the reporter's question.",
+    "She sidestepped the argument by changing the topic.",
+    "Sidestepping the problem will only make it bigger later."
+   ]
+  },
+  {
+   "id": "pack6-card-261",
+   "mode": "vocab",
+   "word": "reach a consensus",
+   "pron": "(collocation)",
+   "def": "To arrive at general agreement\nहिंदी: आम सहमति पर पहुँचना",
+   "examples": [
+    "We reached a consensus to postpone the migration.",
+    "The family reached a consensus on where to go for the holiday.",
+    "It took three meetings to reach a consensus on the budget.",
+    "If we can't reach a consensus, the manager will decide."
+   ]
+  },
+  {
+   "id": "pack6-card-262",
+   "mode": "vocab",
+   "word": "come to a decision",
+   "pron": "(collocation)",
+   "def": "To decide after consideration\nहिंदी: निर्णय पर पहुँचना",
+   "examples": [
+    "We need to come to a decision by Thursday.",
+    "Take your time, but please come to a decision by Monday.",
+    "The committee came to a decision after a long debate.",
+    "We couldn't come to a decision without the cost numbers."
+   ]
+  },
+  {
+   "id": "pack6-card-263",
+   "mode": "vocab",
+   "word": "make a case for",
+   "pron": "(collocation)",
+   "def": "To present arguments in support of something\nहिंदी: किसी पक्ष में तर्क देना",
+   "examples": [
+    "She made a strong case for investing in automation.",
+    "I want to make a case for hiring one more tester.",
+    "He made a case for moving the office closer to the metro.",
+    "Use data to make a case for your promotion."
+   ]
+  },
+  {
+   "id": "pack6-card-264",
+   "mode": "vocab",
+   "word": "raise a concern",
+   "pron": "(collocation)",
+   "def": "To mention a worry formally\nहिंदी: चिंता उठाना",
+   "examples": [
+    "I'd like to raise a concern about the rollback plan.",
+    "Several parents raised a concern about school fees.",
+    "If you raise a concern, suggest a solution too.",
+    "She raised a concern about the lack of training."
+   ]
+  },
+  {
+   "id": "pack6-card-265",
+   "mode": "vocab",
+   "word": "voice an opinion",
+   "pron": "(collocation)",
+   "def": "To express a view openly\nहिंदी: राय व्यक्त करना",
+   "examples": [
+    "Please voice your opinion before we finalise.",
+    "Everyone should feel safe to voice an opinion in this team.",
+    "He rarely voices an opinion in large meetings.",
+    "Feel free to voice an opinion, even if it's different."
+   ]
+  },
+  {
+   "id": "pack6-card-267",
+   "mode": "vocab",
+   "word": "drive a discussion",
+   "pron": "(collocation)",
+   "def": "To lead and steer a conversation\nहिंदी: चर्चा का नेतृत्व करना",
+   "examples": [
+    "She drove the discussion towards a clear decision.",
+    "Who will drive the discussion on next year's goals?",
+    "A good facilitator drives the discussion without dominating it.",
+    "He drove the discussion so well that we finished early."
+   ]
+  },
+  {
+   "id": "pack6-card-268",
+   "mode": "vocab",
+   "word": "steer the conversation",
+   "pron": "(collocation)",
+   "def": "To guide a discussion in a chosen direction\nहिंदी: बातचीत को दिशा देना",
+   "examples": [
+    "He steered the conversation back to the customer impact.",
+    "She steered the conversation away from office gossip.",
+    "Try to steer the conversation towards the client's needs.",
+    "When the call got heated, he steered the conversation to solutions."
+   ]
+  },
+  {
+   "id": "pack6-card-269",
+   "mode": "vocab",
+   "word": "keep it on track",
+   "pron": "(collocation)",
+   "def": "To maintain focus and progress\nहिंदी: चर्चा को पटरी पर रखना",
+   "examples": [
+    "I'll keep the meeting on track and timeboxed.",
+    "Use a clear agenda to keep it on track.",
+    "The project had many changes, but she kept it on track.",
+    "If the call starts drifting, I'll gently keep it on track."
+   ]
+  },
+  {
+   "id": "pack6-card-271",
+   "mode": "vocab",
+   "word": "table",
+   "pron": "(verb)",
+   "def": "To postpone discussion of something (British: to bring forward)\nहिंदी: चर्चा को स्थगित करना",
+   "examples": [
+    "Let's table this until we have the cost estimate.",
+    "The committee tabled the proposal until next month.",
+    "We're short of time, so let's table the last agenda item.",
+    "The hiring discussion was tabled until the budget is final."
+   ]
+  },
+  {
+   "id": "pack6-card-272",
+   "mode": "vocab",
+   "word": "defer",
+   "pron": "(verb)",
+   "def": "To postpone to a later time\nहिंदी: आगे के लिए टालना",
+   "examples": [
+    "We decided to defer the refactor to next quarter.",
+    "You can defer your exam to the next session.",
+    "The bank let me defer my loan payment for three months.",
+    "Let's defer this decision until the client confirms the scope."
+   ]
+  },
+  {
+   "id": "pack6-card-273",
+   "mode": "vocab",
+   "word": "reprioritise",
+   "pron": "(verb)",
+   "def": "To change the order of importance\nहिंदी: प्राथमिकता फिर से तय करना",
+   "examples": [
+    "We reprioritised after the client escalation.",
+    "After the budget cut, we had to reprioritise our goals.",
+    "Please reprioritise your tasks; the audit comes first now.",
+    "I reprioritise my to-do list every morning."
+   ]
+  },
+  {
+   "id": "pack6-card-274",
+   "mode": "vocab",
+   "word": "buy-in",
+   "pron": "(noun)",
+   "def": "Agreement and support from stakeholders\nहिंदी: हितधारकों का समर्थन",
+   "examples": [
+    "We need leadership buy-in before we start.",
+    "Get buy-in from the team before changing the process.",
+    "Without buy-in from sales, the new tool won't be used.",
+    "She spent weeks building buy-in for the idea."
+   ]
+  },
+  {
+   "id": "pack6-card-277",
+   "mode": "vocab",
+   "word": "champion",
+   "pron": "(verb)",
+   "def": "To strongly support and promote an idea\nहिंदी: किसी विचार को बढ़ावा देना",
+   "examples": [
+    "She championed the move to infrastructure as code.",
+    "He championed flexible working hours for new parents.",
+    "We need someone senior to champion this project.",
+    "She has always championed women in engineering."
+   ]
+  },
+  {
+   "id": "pack6-card-279",
+   "mode": "vocab",
+   "word": "galvanise",
+   "pron": "(verb)",
+   "def": "To spur people into action\nहिंदी: कार्रवाई के लिए प्रेरित करना",
+   "examples": [
+    "The outage galvanised the company to invest in resilience.",
+    "The flood galvanised the whole neighbourhood to help.",
+    "Her speech galvanised the team before the big launch.",
+    "The new competitor galvanised us to improve our app."
+   ]
+  },
+  {
+   "id": "pack6-card-280",
+   "mode": "vocab",
+   "word": "mobilise",
+   "pron": "(verb)",
+   "def": "To organise resources or people for action\nहिंदी: संसाधनों/लोगों को जुटाना",
+   "examples": [
+    "We mobilised three teams to fix the data issue.",
+    "The NGO mobilised hundreds of volunteers after the cyclone.",
+    "We need to mobilise the support team before the sale starts.",
+    "The company mobilised funds quickly to open the new branch."
+   ]
+  },
+  {
+   "id": "pack6-card-281",
+   "mode": "vocab",
+   "word": "align",
+   "pron": "(verb)",
+   "def": "To bring into agreement or proper position\nहिंदी: तालमेल बिठाना",
+   "examples": [
+    "We should align on priorities before the planning session.",
+    "Make sure your goals align with the team's goals.",
+    "Let's align with marketing on the launch date.",
+    "Her values aligned well with the company culture."
+   ]
+  },
+  {
+   "id": "pack6-card-285",
+   "mode": "vocab",
+   "word": "subjective",
+   "pron": "(adjective)",
+   "def": "Based on personal opinion or feelings\nहिंदी: व्यक्तिपरक",
+   "examples": [
+    "Code readability is partly subjective.",
+    "Taste is subjective; some people love spicy food.",
+    "Performance reviews should not be too subjective.",
+    "Whether the design looks modern is subjective."
+   ]
+  },
+  {
+   "id": "pack6-card-286",
+   "mode": "vocab",
+   "word": "biased",
+   "pron": "(adjective)",
+   "def": "Showing unfair preference\nहिंदी: पक्षपाती",
+   "examples": [
+    "Our estimate is biased towards optimistic outcomes.",
+    "The survey was biased because it asked only happy customers.",
+    "Try not to be biased towards candidates from your own college.",
+    "The news channel gave a biased report of the event."
+   ]
+  },
+  {
+   "id": "pack6-card-287",
+   "mode": "vocab",
+   "word": "impartial",
+   "pron": "(adjective)",
+   "def": "Treating all sides equally\nहिंदी: निष्पक्ष",
+   "examples": [
+    "We need an impartial review of both options.",
+    "A judge must remain impartial.",
+    "We asked an impartial colleague to review both proposals.",
+    "The referee was impartial and fair to both teams."
+   ]
+  },
+  {
+   "id": "pack6-card-288",
+   "mode": "vocab",
+   "word": "open-minded",
+   "pron": "(adjective)",
+   "def": "Willing to consider new ideas\nहिंदी: खुले विचारों वाला",
+   "examples": [
+    "Please be open-minded about the alternative design.",
+    "Travelling has made me more open-minded about food.",
+    "An open-minded manager listens to new ideas from juniors.",
+    "Stay open-minded during the interview; the role may surprise you."
+   ]
+  },
+  {
+   "id": "pack6-card-289",
+   "mode": "vocab",
+   "word": "receptive",
+   "pron": "(adjective)",
+   "def": "Willing to consider and accept ideas\nहिंदी: ग्रहणशील",
+   "examples": [
+    "The team was receptive to the new process.",
+    "The manager was receptive to my idea of flexible hours.",
+    "Customers were receptive to the new menu.",
+    "Be receptive to feedback, even when it's hard to hear."
+   ]
+  },
+  {
+   "id": "pack6-card-290",
+   "mode": "vocab",
+   "word": "defensive",
+   "pron": "(adjective)",
+   "def": "Overly protective of oneself against criticism\nहिंदी: रक्षात्मक",
+   "examples": [
+    "Don't get defensive; it's feedback on the code, not you.",
+    "He became defensive when I asked about the missed deadline.",
+    "Being defensive makes it hard for others to give you feedback.",
+    "Her tone was defensive, so I softened my questions."
+   ]
+  },
+  {
+   "id": "pack6-card-291",
+   "mode": "vocab",
+   "word": "constructive",
+   "pron": "(adjective)",
+   "def": "Helpful and intended to improve\nहिंदी: रचनात्मक",
+   "examples": [
+    "She offered constructive feedback on my design.",
+    "The meeting was constructive, and we agreed on next steps.",
+    "Give constructive criticism with a suggestion for improvement.",
+    "Let's keep the discussion constructive and avoid blaming anyone."
+   ]
+  },
+  {
+   "id": "pack6-card-292",
+   "mode": "vocab",
+   "word": "candid",
+   "pron": "(adjective)",
+   "def": "Honest and direct\nहिंदी: स्पष्टवादी",
+   "examples": [
+    "I appreciate your candid feedback.",
+    "To be candid, I don't think the plan will work.",
+    "She gave a candid interview about her career struggles.",
+    "I like working with him because he is candid and fair."
+   ]
+  },
+  {
+   "id": "pack6-card-293",
+   "mode": "vocab",
+   "word": "tactful",
+   "pron": "(adjective)",
+   "def": "Careful not to offend others\nहिंदी: व्यवहारकुशल",
+   "examples": [
+    "He was tactful when pointing out the mistake.",
+    "Be tactful when you tell a colleague their idea won't work.",
+    "She gave a tactful reply to a very rude email.",
+    "A tactful manager praises in public and corrects in private."
+   ]
+  },
+  {
+   "id": "pack6-card-294",
+   "mode": "vocab",
+   "word": "diplomatic",
+   "pron": "(adjective)",
+   "def": "Skilled at handling sensitive situations\nहिंदी: कूटनीतिक / चतुर",
+   "examples": [
+    "Her diplomatic response defused the tension.",
+    "He gave a diplomatic answer to avoid taking sides.",
+    "Be diplomatic when you discuss salary with your manager.",
+    "The diplomatic way to decline is to thank them first."
+   ]
+  },
+  {
+   "id": "pack6-card-295",
+   "mode": "vocab",
+   "word": "assertive",
+   "pron": "(adjective)",
+   "def": "Confident and direct without being aggressive\nहिंदी: दृढ़ पर विनम्र",
+   "examples": [
+    "Be assertive about the risks without sounding aggressive.",
+    "Be assertive and ask for the raise you deserve.",
+    "She was assertive but polite with the rude customer.",
+    "Assertive people say no without feeling guilty."
+   ]
+  },
+  {
+   "id": "pack6-card-297",
+   "mode": "vocab",
+   "word": "coherent",
+   "pron": "(adjective)",
+   "def": "Logical and consistent\nहिंदी: सुसंगत",
+   "examples": [
+    "Your argument is clear and coherent.",
+    "The essay was short but coherent.",
+    "Let's write a coherent plan instead of a list of ideas.",
+    "After the long flight, I was too tired to speak in coherent sentences."
+   ]
+  },
+  {
+   "id": "pack6-card-298",
+   "mode": "vocab",
+   "word": "cogent",
+   "pron": "(adjective)",
+   "def": "Clear, logical and convincing\nहिंदी: ठोस और तर्कसंगत",
+   "examples": [
+    "She made a cogent argument for refactoring now.",
+    "The lawyer presented a cogent case to the judge.",
+    "He gave cogent reasons for changing the vendor.",
+    "Her cogent summary convinced the board."
+   ]
+  },
+  {
+   "id": "pack6-card-299",
+   "mode": "vocab",
+   "word": "lucid",
+   "pron": "(adjective)",
+   "def": "Clearly expressed and easy to understand\nहिंदी: स्पष्ट और सुबोध",
+   "examples": [
+    "His lucid explanation helped the whole team.",
+    "The book gives a lucid explanation of how money works.",
+    "Even late at night, his emails were lucid and clear.",
+    "Make your slides lucid so anyone can follow them."
+   ]
+  },
+  {
+   "id": "pack6-card-300",
+   "mode": "vocab",
+   "word": "vague",
+   "pron": "(adjective)",
+   "def": "Not clearly expressed or defined\nहिंदी: अस्पष्ट",
+   "examples": [
+    "The requirements are too vague to estimate.",
+    "His answer was vague, so I asked for a date.",
+    "Vague goals like do better are hard to measure.",
+    "I have only a vague memory of that meeting."
+   ]
+  },
+  {
+   "id": "pack6-card-301",
+   "mode": "vocab",
+   "word": "ambiguous",
+   "pron": "(adjective)",
+   "def": "Open to more than one interpretation\nहिंदी: दो अर्थ वाला",
+   "examples": [
+    "The ambiguous wording led to confusion.",
+    "The sign was ambiguous, so many drivers took the wrong turn.",
+    "Avoid ambiguous words like soon in your emails.",
+    "Her reply was ambiguous; I couldn't tell if she agreed."
+   ]
+  },
+  {
+   "id": "pack6-card-302",
+   "mode": "vocab",
+   "word": "explicit",
+   "pron": "(adjective)",
+   "def": "Stated clearly and in detail\nहिंदी: स्पष्ट रूप से कहा गया",
+   "examples": [
+    "Please be explicit about who owns each task.",
+    "The rules are explicit: no phones in the exam hall.",
+    "Be explicit about the deadline, not just say early next week.",
+    "He gave explicit instructions for the handover."
+   ]
+  },
+  {
+   "id": "pack6-card-303",
+   "mode": "vocab",
+   "word": "implicit",
+   "pron": "(adjective)",
+   "def": "Implied but not directly stated\nहिंदी: अप्रत्यक्ष / निहित",
+   "examples": [
+    "There's an implicit assumption that data arrives on time.",
+    "There was an implicit agreement that seniors would mentor juniors.",
+    "Trust is implicit in a good team.",
+    "Make the implicit rules of the team written and clear."
+   ]
+  },
+  {
+   "id": "pack6-card-304",
+   "mode": "vocab",
+   "word": "tangent",
+   "pron": "(noun)",
+   "def": "A digression from the main topic\nहिंदी: विषय से भटकाव",
+   "examples": [
+    "We went off on a tangent about tooling.",
+    "The teacher went off on a tangent about her college days.",
+    "Sorry, that was a tangent; back to the budget.",
+    "Long tangents make meetings run over time."
+   ]
+  },
+  {
+   "id": "pack6-card-305",
+   "mode": "vocab",
+   "word": "digress",
+   "pron": "(verb)",
+   "def": "To leave the main subject temporarily\nहिंदी: मुख्य विषय से भटकना",
+   "examples": [
+    "Sorry to digress, but this relates to our earlier issue.",
+    "Let me digress for a moment to tell you a quick story.",
+    "He tends to digress when he's nervous.",
+    "Try not to digress during a short presentation."
+   ]
+  },
+  {
+   "id": "pack6-card-306",
+   "mode": "vocab",
+   "word": "rambling",
+   "pron": "(adjective)",
+   "def": "Long, unfocused and confusing\nहिंदी: बेतरतीब और लंबा",
+   "examples": [
+    "The rambling update lost the audience.",
+    "She sent a rambling email that nobody fully read.",
+    "His rambling answer didn't impress the interviewer.",
+    "The speech was rambling and went on for an hour."
+   ]
+  },
+  {
+   "id": "pack6-card-307",
+   "mode": "vocab",
+   "word": "verbose",
+   "pron": "(adjective)",
+   "def": "Using more words than necessary\nहिंदी: शब्दों की भरमार वाला",
+   "examples": [
+    "The documentation is too verbose to be useful.",
+    "Your cover letter is too verbose; cut it to half a page.",
+    "Verbose code comments can hide the important points.",
+    "He is verbose in emails but quiet in meetings."
+   ]
+  },
+  {
+   "id": "pack6-card-308",
+   "mode": "vocab",
+   "word": "terse",
+   "pron": "(adjective)",
+   "def": "Using very few words, sometimes abruptly\nहिंदी: बहुत संक्षिप्त / रूखा",
+   "examples": [
+    "His terse reply felt dismissive.",
+    "The manager sent a terse message: see me now.",
+    "Her terse answers made the interview awkward.",
+    "A terse reply can look rude in a chat message."
+   ]
+  },
+  {
+   "id": "pack6-card-309",
+   "mode": "vocab",
+   "word": "blunt",
+   "pron": "(adjective)",
+   "def": "Direct to the point of being rude\nहिंदी: रूखा-सूखा स्पष्ट",
+   "examples": [
+    "I'll be blunt: this design won't scale.",
+    "My friend was blunt and said the dress didn't suit me.",
+    "Being blunt with clients can damage the relationship.",
+    "To be blunt, we're not ready for the launch."
+   ]
+  },
+  {
+   "id": "pack6-card-310",
+   "mode": "vocab",
+   "word": "tentative",
+   "pron": "(adjective)",
+   "def": "Not certain or final\nहिंदी: अस्थायी / संकोची",
+   "examples": [
+    "This is a tentative plan pending approval.",
+    "We've made a tentative booking for the hall.",
+    "She gave a tentative yes to the job offer.",
+    "Our tentative plan is to travel in December."
+   ]
+  },
+  {
+   "id": "pack6-card-311",
+   "mode": "vocab",
+   "word": "provisional",
+   "pron": "(adjective)",
+   "def": "Arranged for now but likely to change\nहिंदी: अनंतिम",
+   "examples": [
+    "We've set a provisional release date for March.",
+    "You have provisional admission until your documents are verified.",
+    "The provisional figures will be updated next week.",
+    "He has a provisional driving licence for now."
+   ]
+  },
+  {
+   "id": "pack6-card-312",
+   "mode": "vocab",
+   "word": "definitive",
+   "pron": "(adjective)",
+   "def": "Final and authoritative\nहिंदी: निर्णायक",
+   "examples": [
+    "We don't yet have a definitive answer on cost.",
+    "This book is the definitive guide to Indian cooking.",
+    "We'll send a definitive schedule once the venue confirms.",
+    "There is no definitive answer to this question yet."
+   ]
+  },
+  {
+   "id": "pack6-card-313",
+   "mode": "vocab",
+   "word": "conclusive",
+   "pron": "(adjective)",
+   "def": "Decisive and settling a question\nहिंदी: निर्णायक रूप से प्रमाणित करने वाला",
+   "examples": [
+    "The test results were not conclusive.",
+    "The CCTV footage was conclusive proof of the theft.",
+    "There's no conclusive evidence that the update caused the crash.",
+    "We need conclusive data before changing the pricing."
+   ]
+  },
+  {
+   "id": "pack6-card-314",
+   "mode": "vocab",
+   "word": "inconclusive",
+   "pron": "(adjective)",
+   "def": "Not leading to a firm result\nहिंदी: अनिर्णायक",
+   "examples": [
+    "The investigation was inconclusive.",
+    "The meeting was inconclusive, so we'll meet again on Monday.",
+    "Early tests of the medicine were inconclusive.",
+    "The A/B test was inconclusive because too few users saw it."
+   ]
+  },
+  {
+   "id": "pack6-card-315",
+   "mode": "vocab",
+   "word": "granted",
+   "pron": "(adverb)",
+   "def": "Used to admit a point before giving a contrast\nहिंदी: माना कि / ठीक है कि",
+   "examples": [
+    "Granted, the fix is quick, but is it safe?",
+    "Granted, the rent is high, but the location is excellent.",
+    "Granted, he was late, but his work was excellent.",
+    "Granted, it's a small team, but they deliver a lot."
+   ]
+  },
+  {
+   "id": "pack6-card-316",
+   "mode": "vocab",
+   "word": "incidentally",
+   "pron": "(adverb)",
+   "def": "Adding a point that is not central\nहिंदी: संयोग से / प्रसंगवश",
+   "examples": [
+    "Incidentally, that library is deprecated.",
+    "Incidentally, I met your old manager at the conference.",
+    "Incidentally, the office will close early on Friday.",
+    "We discussed the budget and, incidentally, the new hire."
+   ]
+  },
+  {
+   "id": "pack6-card-317",
+   "mode": "vocab",
+   "word": "in a nutshell, my view",
+   "pron": "(collocation)",
+   "def": "A brief statement of your opinion\nहिंदी: संक्षेप में मेरी राय",
+   "examples": [
+    "In a nutshell, my view is that we should wait.",
+    "In a nutshell, my view is that the price is too high.",
+    "In a nutshell, my view is that we need more testers.",
+    "In a nutshell, my view is that she's ready for promotion."
+   ]
+  }
+ ]
+}

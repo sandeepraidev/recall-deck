@@ -1,0 +1,2010 @@
+{
+ "id": "pack6-deck-3",
+ "categoryId": "pack6-cat-1",
+ "title": "Leadership, Influence & Career Growth",
+ "sub": "Mentoring, influence, ownership and growing into senior roles.",
+ "cards": [
+  {
+   "id": "pack6-card-318",
+   "mode": "vocab",
+   "word": "leadership",
+   "pron": "(noun)",
+   "def": "The ability to guide and inspire others toward a goal\nहिंदी: नेतृत्व क्षमता",
+   "examples": [
+    "Strong leadership kept the team calm during the outage.",
+    "Leadership is not about a title; it's about taking responsibility.",
+    "She showed leadership by guiding the new joiners without being asked.",
+    "The company is investing in leadership training for young managers."
+   ]
+  },
+  {
+   "id": "pack6-card-323",
+   "mode": "vocab",
+   "word": "empower",
+   "pron": "(verb)",
+   "def": "To give people authority and confidence to act\nहिंदी: सशक्त बनाना",
+   "examples": [
+    "Good managers empower engineers to make decisions.",
+    "Training empowers support staff to solve problems without escalation.",
+    "We want to empower women in rural areas through education.",
+    "The new policy empowers teams to choose their own tools."
+   ]
+  },
+  {
+   "id": "pack6-card-324",
+   "mode": "vocab",
+   "word": "cultivate",
+   "pron": "(verb)",
+   "def": "To develop and nurture a quality or relationship\nहिंदी: विकसित और पोषित करना",
+   "examples": [
+    "She cultivated strong relationships with the business teams.",
+    "Reading every day helps you cultivate patience.",
+    "He cultivated good habits like waking early and exercising.",
+    "Cultivate a network outside your own company."
+   ]
+  },
+  {
+   "id": "pack6-card-325",
+   "mode": "vocab",
+   "word": "foster",
+   "pron": "(verb)",
+   "def": "To encourage the development of something\nहिंदी: बढ़ावा देना",
+   "examples": [
+    "We want to foster a culture of open feedback.",
+    "Team lunches help foster friendship among colleagues.",
+    "Good teachers foster curiosity in their students.",
+    "The company fosters innovation through monthly hackathons."
+   ]
+  },
+  {
+   "id": "pack6-card-330",
+   "mode": "vocab",
+   "word": "sway",
+   "pron": "(verb)",
+   "def": "To persuade or change someone's opinion\nहिंदी: राय बदलना",
+   "examples": [
+    "The prototype swayed the sceptics.",
+    "Don't let one bad review sway your decision.",
+    "The final speech swayed many undecided voters.",
+    "Her honest answers swayed the interview panel in her favour."
+   ]
+  },
+  {
+   "id": "pack6-card-332",
+   "mode": "vocab",
+   "word": "mediate",
+   "pron": "(verb)",
+   "def": "To help resolve a dispute between parties\nहिंदी: विवाद सुलझाने में मध्यस्थता करना",
+   "examples": [
+    "He mediated between the two teams on API ownership.",
+    "The HR manager mediated between the two employees.",
+    "A neutral friend mediated the argument between the brothers.",
+    "The court asked a lawyer to mediate the property dispute."
+   ]
+  },
+  {
+   "id": "pack6-card-333",
+   "mode": "vocab",
+   "word": "de-escalate",
+   "pron": "(verb)",
+   "def": "To reduce the intensity of a conflict\nहिंदी: तनाव कम करना",
+   "examples": [
+    "A calm tone helped de-escalate the situation.",
+    "The support agent apologised to de-escalate the angry customer.",
+    "Listening first is the best way to de-escalate an argument.",
+    "The police were trained to de-escalate tense situations."
+   ]
+  },
+  {
+   "id": "pack6-card-335",
+   "mode": "vocab",
+   "word": "spearhead",
+   "pron": "(verb)",
+   "def": "To lead an initiative or effort\nहिंदी: किसी पहल का नेतृत्व करना",
+   "examples": [
+    "He spearheaded the move to automated testing.",
+    "She spearheaded the campaign to make the office plastic-free.",
+    "Who will spearhead the new market launch?",
+    "The NGO spearheaded clean-water projects in fifty villages."
+   ]
+  },
+  {
+   "id": "pack6-card-336",
+   "mode": "vocab",
+   "word": "oversee",
+   "pron": "(verb)",
+   "def": "To supervise and ensure work is done properly\nहिंदी: देखरेख करना",
+   "examples": [
+    "He oversees the migration across four teams.",
+    "A senior engineer will oversee the new joiners' first project.",
+    "The principal oversees all the school's activities.",
+    "She was hired to oversee the construction of the new office."
+   ]
+  },
+  {
+   "id": "pack6-card-337",
+   "mode": "vocab",
+   "word": "steward",
+   "pron": "(noun)",
+   "def": "A person responsible for caring for something\nहिंदी: देखभाल का ज़िम्मेदार व्यक्ति",
+   "examples": [
+    "He acts as steward of the shared platform.",
+    "As steward of the company's brand, she approves every campaign.",
+    "The new CEO sees himself as a steward of the company's values.",
+    "Each dataset needs a steward who keeps it accurate."
+   ]
+  },
+  {
+   "id": "pack6-card-338",
+   "mode": "vocab",
+   "word": "visionary",
+   "pron": "(adjective)",
+   "def": "Having original ideas about the future\nहिंदी: दूरदर्शी",
+   "examples": [
+    "The architect has a visionary approach to data platforms.",
+    "Her visionary ideas transformed a small shop into a national brand.",
+    "A visionary leader sees opportunities others miss.",
+    "The visionary plan seemed impossible ten years ago."
+   ]
+  },
+  {
+   "id": "pack6-card-339",
+   "mode": "vocab",
+   "word": "strategic",
+   "pron": "(adjective)",
+   "def": "Relating to long-term planning\nहिंदी: रणनीतिक",
+   "examples": [
+    "This is a strategic investment, not a quick fix.",
+    "Opening an office in Bengaluru was a strategic move.",
+    "Make strategic choices about where you spend your time.",
+    "The partnership is strategic for our growth in Asia."
+   ]
+  },
+  {
+   "id": "pack6-card-340",
+   "mode": "vocab",
+   "word": "tactical",
+   "pron": "(adjective)",
+   "def": "Relating to short-term actions toward a goal\nहिंदी: युक्तिपरक",
+   "examples": [
+    "The patch is a tactical fix while we plan the real solution.",
+    "Offering a discount was a tactical move to clear old stock.",
+    "Our tactical goal this week is to close the top ten bugs.",
+    "He's good at tactical work but needs to think long term."
+   ]
+  },
+  {
+   "id": "pack6-card-341",
+   "mode": "vocab",
+   "word": "holistic",
+   "pron": "(adjective)",
+   "def": "Considering the whole rather than just the parts\nहिंदी: समग्र",
+   "examples": [
+    "We need a holistic view of reliability, cost and speed.",
+    "The doctor took a holistic approach to my health.",
+    "A holistic review looks at skills, attitude and teamwork.",
+    "We need a holistic plan, not separate fixes for each team."
+   ]
+  },
+  {
+   "id": "pack6-card-342",
+   "mode": "vocab",
+   "word": "big picture",
+   "pron": "(noun)",
+   "def": "The overall view or general situation\nहिंदी: बड़ी तस्वीर",
+   "examples": [
+    "Keep the big picture in mind while solving details.",
+    "Don't lose sight of the big picture over small details.",
+    "The CEO explained the big picture in the town hall.",
+    "In the big picture, one bad month doesn't matter much."
+   ]
+  },
+  {
+   "id": "pack6-card-345",
+   "mode": "vocab",
+   "word": "key result",
+   "pron": "(noun)",
+   "def": "A measurable outcome showing progress towards an objective\nहिंदी: मापने योग्य परिणाम",
+   "examples": [
+    "One key result is zero missed file deadlines.",
+    "Our key result for the quarter is a 20 percent drop in complaints.",
+    "Each objective should have two or three key results.",
+    "We missed one key result but met the others."
+   ]
+  },
+  {
+   "id": "pack6-card-346",
+   "mode": "vocab",
+   "word": "KPI",
+   "pron": "(abbreviation)",
+   "def": "A measurable value showing how well goals are met\nहिंदी: प्रदर्शन मापक संकेतक",
+   "examples": [
+    "File delivery time is our main KPI.",
+    "Customer satisfaction is a key KPI for our support team.",
+    "Choose a KPI that the team can actually influence.",
+    "We review every KPI in the monthly business meeting."
+   ]
+  },
+  {
+   "id": "pack6-card-349",
+   "mode": "vocab",
+   "word": "visibility",
+   "pron": "(noun)",
+   "def": "The degree to which work is seen and recognised\nहिंदी: कार्य की दृश्यता/पहचान",
+   "examples": [
+    "Increase your visibility by sharing results in team forums.",
+    "Presenting at the town hall gave her good visibility with leadership.",
+    "Quiet workers sometimes lack visibility despite doing great work.",
+    "The new dashboard gives managers visibility into project status."
+   ]
+  },
+  {
+   "id": "pack6-card-353",
+   "mode": "vocab",
+   "word": "trustworthy",
+   "pron": "(adjective)",
+   "def": "Deserving of confidence\nहिंदी: भरोसेमंद",
+   "examples": [
+    "A trustworthy engineer raises issues early.",
+    "Choose a trustworthy person to handle the company's money.",
+    "He proved trustworthy by keeping confidential information private.",
+    "Look for reviews to find a trustworthy electrician."
+   ]
+  },
+  {
+   "id": "pack6-card-354",
+   "mode": "vocab",
+   "word": "dependable",
+   "pron": "(adjective)",
+   "def": "Consistently reliable\nहिंदी: भरोसेमंद",
+   "examples": [
+    "She's the most dependable person on the team.",
+    "My old scooter is not fast, but it's dependable.",
+    "We need a dependable vendor who delivers on time.",
+    "She is dependable, so I gave her the most important task."
+   ]
+  },
+  {
+   "id": "pack6-card-357",
+   "mode": "vocab",
+   "word": "self-starter",
+   "pron": "(noun)",
+   "def": "A person who works without needing direction\nहिंदी: स्वयं पहल करने वाला",
+   "examples": [
+    "We want a self-starter who can pick up ambiguous problems.",
+    "As a self-starter, she set up the new project without waiting for instructions.",
+    "Startups prefer self-starters who don't need daily guidance.",
+    "Mention in your interview that you're a self-starter, with an example."
+   ]
+  },
+  {
+   "id": "pack6-card-358",
+   "mode": "vocab",
+   "word": "go-getter",
+   "pron": "(noun)",
+   "def": "An ambitious person who actively pursues goals\nहिंदी: महत्वाकांक्षी और सक्रिय व्यक्ति",
+   "examples": [
+    "He's a go-getter who volunteers for challenging tasks.",
+    "She's a real go-getter who started a business at twenty-two.",
+    "Sales roles suit go-getters who love targets.",
+    "The new intern is a go-getter and asks for more work."
+   ]
+  },
+  {
+   "id": "pack6-card-359",
+   "mode": "vocab",
+   "word": "resourceful",
+   "pron": "(adjective)",
+   "def": "Able to find clever solutions with limited means\nहिंदी: संसाधनपूर्ण / तरकीबी",
+   "examples": [
+    "A resourceful engineer finds a way around blockers.",
+    "When the power went out, she was resourceful and used her phone light.",
+    "Resourceful students find free courses online.",
+    "The team was resourceful and reused old servers for testing."
+   ]
+  },
+  {
+   "id": "pack6-card-360",
+   "mode": "vocab",
+   "word": "adaptable",
+   "pron": "(adjective)",
+   "def": "Able to adjust to new conditions\nहिंदी: परिस्थिति के अनुसार ढलने वाला",
+   "examples": [
+    "Adaptable teams recover quickly from changing priorities.",
+    "Be adaptable when plans change at the last minute.",
+    "Children are very adaptable to new schools.",
+    "Adaptable employees do well in fast-growing companies."
+   ]
+  },
+  {
+   "id": "pack6-card-362",
+   "mode": "vocab",
+   "word": "agile",
+   "pron": "(adjective)",
+   "def": "Able to move and respond quickly\nहिंदी: फुर्तीला",
+   "examples": [
+    "We stay agile by releasing small changes often.",
+    "Small companies can be more agile than big ones.",
+    "An agile team quickly changes direction when the market shifts.",
+    "She stayed agile by learning new tools every year."
+   ]
+  },
+  {
+   "id": "pack6-card-363",
+   "mode": "vocab",
+   "word": "well-rounded",
+   "pron": "(adjective)",
+   "def": "Having a balanced set of skills\nहिंदी: संतुलित क्षमताओं वाला",
+   "examples": [
+    "Senior roles need well-rounded engineers, not just coders.",
+    "A well-rounded student does well in studies and sports.",
+    "Reading widely helps you become a well-rounded professional.",
+    "We want a well-rounded candidate with both technical and people skills."
+   ]
+  },
+  {
+   "id": "pack6-card-364",
+   "mode": "vocab",
+   "word": "T-shaped",
+   "pron": "(adjective)",
+   "def": "Having deep expertise in one area and broad knowledge in others\nहिंदी: एक क्षेत्र में गहरा और बाकी में व्यापक ज्ञान",
+   "examples": [
+    "Our best engineers are T-shaped.",
+    "A T-shaped designer knows design deeply and understands coding basics.",
+    "Becoming T-shaped helps you work well with other teams.",
+    "Hiring T-shaped people makes small teams more flexible."
+   ]
+  },
+  {
+   "id": "pack6-card-365",
+   "mode": "vocab",
+   "word": "subject matter expert",
+   "pron": "(noun)",
+   "def": "A person with deep knowledge in a particular area\nहिंदी: विषय विशेषज्ञ",
+   "examples": [
+    "She's our subject matter expert on market data vendors.",
+    "We invited a subject matter expert to explain the tax rules.",
+    "He is the subject matter expert on our billing system.",
+    "Ask a subject matter expert to review the training content."
+   ]
+  },
+  {
+   "id": "pack6-card-366",
+   "mode": "vocab",
+   "word": "thought leader",
+   "pron": "(noun)",
+   "def": "An expert whose ideas influence others\nहिंदी: विचार-नेता",
+   "examples": [
+    "He became a thought leader on data resilience.",
+    "She writes weekly articles and is seen as a thought leader in HR.",
+    "Speaking at conferences can make you a thought leader.",
+    "The company invited thought leaders to its annual summit."
+   ]
+  },
+  {
+   "id": "pack6-card-367",
+   "mode": "vocab",
+   "word": "go-to person",
+   "pron": "(noun)",
+   "def": "The person others turn to for help in a topic\nहिंदी: जिनसे सब सलाह लेते हैं",
+   "examples": [
+    "She's the go-to person for Kafka issues.",
+    "He's the go-to person for anything related to Excel.",
+    "Become the go-to person for one skill on your team.",
+    "My neighbour is the go-to person for plumbing advice."
+   ]
+  },
+  {
+   "id": "pack6-card-368",
+   "mode": "vocab",
+   "word": "force multiplier",
+   "pron": "(noun)",
+   "def": "Someone or something that greatly increases others' effectiveness\nहिंदी: दूसरों की क्षमता बढ़ाने वाला",
+   "examples": [
+    "Good tooling is a force multiplier for the whole team.",
+    "A good mentor is a force multiplier for junior engineers.",
+    "Automation has been a force multiplier for our small team.",
+    "She acts as a force multiplier by unblocking others."
+   ]
+  },
+  {
+   "id": "pack6-card-369",
+   "mode": "vocab",
+   "word": "trailblazer",
+   "pron": "(noun)",
+   "def": "A pioneer who creates a new path\nहिंदी: नई राह बनाने वाला",
+   "examples": [
+    "She's a trailblazer in adopting infrastructure as code.",
+    "She was a trailblazer as the first woman engineer in her town.",
+    "The startup was a trailblazer in online grocery delivery.",
+    "Trailblazers often face criticism before success."
+   ]
+  },
+  {
+   "id": "pack6-card-370",
+   "mode": "vocab",
+   "word": "cross-functional",
+   "pron": "(adjective)",
+   "def": "Involving people from different specialities\nहिंदी: विभिन्न विशेषज्ञताओं को जोड़ने वाला",
+   "examples": [
+    "A cross-functional team ships features faster.",
+    "The launch needs a cross-functional team of sales, design and engineering.",
+    "Cross-functional meetings help avoid surprises late in the project.",
+    "She led a cross-functional project for the first time."
+   ]
+  },
+  {
+   "id": "pack6-card-371",
+   "mode": "vocab",
+   "word": "collaboration",
+   "pron": "(noun)",
+   "def": "Working jointly with others on a task\nहिंदी: सहयोग",
+   "examples": [
+    "Collaboration between engineers and analysts improved data quality.",
+    "The project succeeded because of strong collaboration across teams.",
+    "Online tools make collaboration easy for remote teams.",
+    "The film was a collaboration between two famous directors."
+   ]
+  },
+  {
+   "id": "pack6-card-372",
+   "mode": "vocab",
+   "word": "synergy",
+   "pron": "(noun)",
+   "def": "Combined effect greater than the sum of parts\nहिंदी: सहयोग से बढ़ा हुआ प्रभाव",
+   "examples": [
+    "There's real synergy between the platform and data teams.",
+    "The merger created synergy between the two sales teams.",
+    "There's good synergy between the designer and the developer.",
+    "The companies hoped for synergy, but cultures clashed."
+   ]
+  },
+  {
+   "id": "pack6-card-373",
+   "mode": "vocab",
+   "word": "rapport",
+   "pron": "(noun)",
+   "def": "A harmonious relationship of mutual understanding\nहिंदी: आपसी तालमेल",
+   "examples": [
+    "Building rapport with stakeholders makes negotiations easier.",
+    "She quickly built rapport with the new client.",
+    "A good teacher has rapport with students.",
+    "Small talk before a meeting helps build rapport."
+   ]
+  },
+  {
+   "id": "pack6-card-374",
+   "mode": "vocab",
+   "word": "camaraderie",
+   "pron": "(noun)",
+   "def": "Friendship and mutual trust within a group\nहिंदी: मित्रवत साथ",
+   "examples": [
+    "The team's camaraderie helped us through a tough quarter.",
+    "There's great camaraderie among the night-shift workers.",
+    "Team sports build camaraderie among colleagues.",
+    "The camaraderie in our old office is what I miss most."
+   ]
+  },
+  {
+   "id": "pack6-card-376",
+   "mode": "vocab",
+   "word": "psychological safety",
+   "pron": "(noun)",
+   "def": "A climate where people feel safe to speak up\nहिंदी: बोलने में सुरक्षित महसूस करने का वातावरण",
+   "examples": [
+    "Psychological safety lets people admit mistakes early.",
+    "Psychological safety helps new joiners ask basic questions.",
+    "Teams with psychological safety share bad news quickly.",
+    "The manager built psychological safety by admitting her own mistakes."
+   ]
+  },
+  {
+   "id": "pack6-card-377",
+   "mode": "vocab",
+   "word": "blameless",
+   "pron": "(adjective)",
+   "def": "Focused on learning rather than assigning fault\nहिंदी: दोषारोपण से मुक्त",
+   "examples": [
+    "We hold blameless postmortems after every incident.",
+    "A blameless culture encourages people to report problems.",
+    "Keep the review blameless and focus on the process.",
+    "The blameless report named no individuals, only the gaps."
+   ]
+  },
+  {
+   "id": "pack6-card-378",
+   "mode": "vocab",
+   "word": "transparent",
+   "pron": "(adjective)",
+   "def": "Open and honest about information\nहिंदी: पारदर्शी",
+   "examples": [
+    "Be transparent about risks, even when the news is bad.",
+    "Be transparent with customers about the delay.",
+    "The company is transparent about salary bands.",
+    "A transparent process makes promotions feel fair."
+   ]
+  },
+  {
+   "id": "pack6-card-379",
+   "mode": "vocab",
+   "word": "candour",
+   "pron": "(noun)",
+   "def": "Honest and open expression\nहिंदी: स्पष्टवादिता",
+   "examples": [
+    "Her candour about delays built trust with the client.",
+    "I appreciate your candour, even though it was hard to hear.",
+    "His candour in the interview impressed the panel.",
+    "Leaders who show candour earn more trust."
+   ]
+  },
+  {
+   "id": "pack6-card-380",
+   "mode": "vocab",
+   "word": "feedback loop",
+   "pron": "(noun)",
+   "def": "A cycle where results inform future actions\nहिंदी: प्रतिक्रिया चक्र",
+   "examples": [
+    "A fast feedback loop helps us catch issues early.",
+    "Weekly user calls create a quick feedback loop for the product team.",
+    "A short feedback loop helps students learn faster.",
+    "Code reviews are an important feedback loop for developers."
+   ]
+  },
+  {
+   "id": "pack6-card-381",
+   "mode": "vocab",
+   "word": "actionable",
+   "pron": "(adjective)",
+   "def": "Specific enough to act upon\nहिंदी: कार्रवाई योग्य",
+   "examples": [
+    "Give actionable feedback, not general criticism.",
+    "The survey gave us actionable ideas to improve the office.",
+    "Turn the meeting notes into actionable tasks with owners.",
+    "Generic advice isn't helpful; make it actionable."
+   ]
+  },
+  {
+   "id": "pack6-card-383",
+   "mode": "vocab",
+   "word": "upskill",
+   "pron": "(verb)",
+   "def": "To learn new skills to stay relevant\nहिंदी: नए कौशल सीखना",
+   "examples": [
+    "I'm upskilling in cloud security this year.",
+    "The company pays for courses to help staff upskill.",
+    "Upskill regularly to stay valuable in a changing job market.",
+    "She upskilled in data analysis and got a promotion."
+   ]
+  },
+  {
+   "id": "pack6-card-384",
+   "mode": "vocab",
+   "word": "reskill",
+   "pron": "(verb)",
+   "def": "To learn entirely new skills for a different role\nहिंदी: नए क्षेत्र के कौशल सीखना",
+   "examples": [
+    "Many analysts reskilled into data engineering.",
+    "After the factory closed, many workers reskilled as electricians.",
+    "The government runs programmes to reskill unemployed youth.",
+    "He reskilled from teaching to software testing."
+   ]
+  },
+  {
+   "id": "pack6-card-385",
+   "mode": "vocab",
+   "word": "proficiency",
+   "pron": "(noun)",
+   "def": "A high degree of skill\nहिंदी: दक्षता",
+   "examples": [
+    "Proficiency in system design is expected at senior level.",
+    "The job requires proficiency in English and Hindi.",
+    "Her proficiency with spreadsheets saves the team hours.",
+    "You can show your language proficiency with a certificate."
+   ]
+  },
+  {
+   "id": "pack6-card-389",
+   "mode": "vocab",
+   "word": "calibre",
+   "pron": "(noun)",
+   "def": "The quality of a person's ability\nहिंदी: योग्यता का स्तर",
+   "examples": [
+    "The team hired engineers of exceptional calibre.",
+    "Players of his calibre are rare.",
+    "The calibre of applicants this year was very high.",
+    "We need a leader of real calibre for this role."
+   ]
+  },
+  {
+   "id": "pack6-card-390",
+   "mode": "vocab",
+   "word": "track record",
+   "pron": "(noun)",
+   "def": "A history of past achievements\nहिंदी: पिछली उपलब्धियों का रिकॉर्ड",
+   "examples": [
+    "She has a strong track record of delivering on time.",
+    "The builder has a good track record of finishing on time.",
+    "With your track record, you should apply for the senior role.",
+    "The startup has no track record, so investors are careful."
+   ]
+  },
+  {
+   "id": "pack6-card-392",
+   "mode": "vocab",
+   "word": "accomplishment",
+   "pron": "(noun)",
+   "def": "Something successfully achieved\nहिंदी: उपलब्धि",
+   "examples": [
+    "List measurable accomplishments on your resume.",
+    "Running my first marathon was a big accomplishment.",
+    "Celebrate small accomplishments to keep the team motivated.",
+    "Her biggest accomplishment was cutting costs by thirty percent."
+   ]
+  },
+  {
+   "id": "pack6-card-393",
+   "mode": "vocab",
+   "word": "milestone achievement",
+   "pron": "(noun)",
+   "def": "Reaching a significant point of progress\nहिंदी: महत्वपूर्ण उपलब्धि",
+   "examples": [
+    "The launch was a milestone achievement for the team.",
+    "Crossing one lakh users was a milestone achievement for the app.",
+    "Her first promotion was a milestone achievement in her career.",
+    "We celebrated the milestone achievement with cake in the office."
+   ]
+  },
+  {
+   "id": "pack6-card-396",
+   "mode": "vocab",
+   "word": "performance review",
+   "pron": "(noun)",
+   "def": "A periodic evaluation of an employee's work\nहिंदी: कार्य-प्रदर्शन समीक्षा",
+   "examples": [
+    "Prepare examples before your performance review.",
+    "My performance review is scheduled for next week.",
+    "Keep notes on your wins through the year for the performance review.",
+    "The performance review led to a good raise."
+   ]
+  },
+  {
+   "id": "pack6-card-397",
+   "mode": "vocab",
+   "word": "self-assessment",
+   "pron": "(noun)",
+   "def": "An evaluation of one's own performance\nहिंदी: स्वयं का मूल्यांकन",
+   "examples": [
+    "Be specific and honest in your self-assessment.",
+    "The self-assessment form asks about your strengths and weaknesses.",
+    "Use numbers in your self-assessment to show impact.",
+    "Writing a self-assessment helped me see how much I'd grown."
+   ]
+  },
+  {
+   "id": "pack6-card-398",
+   "mode": "vocab",
+   "word": "growth area",
+   "pron": "(noun)",
+   "def": "A skill or aspect needing development\nहिंदी: सुधार का क्षेत्र",
+   "examples": [
+    "My growth area is presenting to senior leaders.",
+    "My manager said time management is my main growth area.",
+    "Mention one honest growth area when asked about weaknesses.",
+    "Public speaking used to be a growth area, but I've improved."
+   ]
+  },
+  {
+   "id": "pack6-card-399",
+   "mode": "vocab",
+   "word": "stretch assignment",
+   "pron": "(noun)",
+   "def": "A challenging task beyond a person's current level\nहिंदी: चुनौतीपूर्ण अतिरिक्त ज़िम्मेदारी",
+   "examples": [
+    "The migration was a stretch assignment for me.",
+    "Leading the client workshop was a stretch assignment for her.",
+    "Ask your manager for a stretch assignment if you want to grow.",
+    "The stretch assignment helped him get promoted within a year."
+   ]
+  },
+  {
+   "id": "pack6-card-400",
+   "mode": "vocab",
+   "word": "career trajectory",
+   "pron": "(noun)",
+   "def": "The path of someone's professional progress\nहिंदी: करियर की दिशा",
+   "examples": [
+    "Leading incidents has shaped my career trajectory.",
+    "An MBA changed her career trajectory completely.",
+    "Think about your career trajectory before accepting the offer.",
+    "His career trajectory went from support to product management."
+   ]
+  },
+  {
+   "id": "pack6-card-401",
+   "mode": "vocab",
+   "word": "career ladder",
+   "pron": "(noun)",
+   "def": "The structured progression of job levels\nहिंदी: पदोन्नति की सीढ़ी",
+   "examples": [
+    "The company defines expectations at each rung of the career ladder.",
+    "She climbed the career ladder quickly at the bank.",
+    "Moving up the career ladder isn't the only way to grow.",
+    "Our company has a separate career ladder for engineers and managers."
+   ]
+  },
+  {
+   "id": "pack6-card-402",
+   "mode": "vocab",
+   "word": "lateral move",
+   "pron": "(noun)",
+   "def": "A job change to a similar level in a different area\nहिंदी: समान स्तर पर दूसरे क्षेत्र में बदलाव",
+   "examples": [
+    "A lateral move into data engineering broadened my skills.",
+    "A lateral move to marketing gave her a fresh start.",
+    "He made a lateral move to work closer to home.",
+    "Don't see a lateral move as a step back; it builds new skills."
+   ]
+  },
+  {
+   "id": "pack6-card-403",
+   "mode": "vocab",
+   "word": "individual contributor",
+   "pron": "(noun)",
+   "def": "An employee who doesn't manage others\nहिंदी: बिना टीम संभाले योगदान देने वाला कर्मचारी",
+   "examples": [
+    "You can grow as an individual contributor without managing people.",
+    "As an individual contributor, I focus on design and coding.",
+    "Many great individual contributors don't want to become managers.",
+    "Her role changed from individual contributor to team lead."
+   ]
+  },
+  {
+   "id": "pack6-card-404",
+   "mode": "vocab",
+   "word": "staff engineer",
+   "pron": "(noun)",
+   "def": "A senior technical role focused on cross-team impact\nहिंदी: वरिष्ठ तकनीकी भूमिका",
+   "examples": [
+    "A staff engineer shapes technical direction across teams.",
+    "He was promoted to staff engineer after leading two major projects.",
+    "The staff engineer mentors seniors across several teams.",
+    "Becoming a staff engineer needs influence beyond your own team."
+   ]
+  },
+  {
+   "id": "pack6-card-405",
+   "mode": "vocab",
+   "word": "tech lead",
+   "pron": "(noun)",
+   "def": "An engineer who guides a team's technical decisions\nहिंदी: तकनीकी अगुआ",
+   "examples": [
+    "The tech lead reviews all design proposals.",
+    "Our tech lead decides which framework the team uses.",
+    "As tech lead, she balances coding with planning.",
+    "Ask the tech lead before changing the database design."
+   ]
+  },
+  {
+   "id": "pack6-card-407",
+   "mode": "vocab",
+   "word": "span of influence",
+   "pron": "(noun)",
+   "def": "The range of people and decisions one affects\nहिंदी: प्रभाव का दायरा",
+   "examples": [
+    "Senior engineers widen their span of influence.",
+    "Her span of influence grew when she began leading the guild.",
+    "A manager's span of influence includes hiring decisions.",
+    "Mentoring juniors widens your span of influence."
+   ]
+  },
+  {
+   "id": "pack6-card-408",
+   "mode": "vocab",
+   "word": "sphere of influence",
+   "pron": "(noun)",
+   "def": "The area in which someone has influence\nहिंदी: प्रभाव क्षेत्र",
+   "examples": [
+    "Focus on what's within your sphere of influence.",
+    "Pricing is outside my sphere of influence.",
+    "The minister's sphere of influence covers the whole state.",
+    "Grow your sphere of influence by helping other teams."
+   ]
+  },
+  {
+   "id": "pack6-card-409",
+   "mode": "vocab",
+   "word": "stakeholder management",
+   "pron": "(noun)",
+   "def": "Handling expectations and communication with interested parties\nहिंदी: हितधारकों के साथ संवाद प्रबंधन",
+   "examples": [
+    "Stakeholder management is half of a lead's job.",
+    "Good stakeholder management means no surprises for the client.",
+    "She is strong technically but needs to improve stakeholder management.",
+    "Weekly updates are a simple part of stakeholder management."
+   ]
+  },
+  {
+   "id": "pack6-card-410",
+   "mode": "vocab",
+   "word": "expectation setting",
+   "pron": "(noun)",
+   "def": "Agreeing clearly on what will be delivered\nहिंदी: अपेक्षाओं का स्पष्ट निर्धारण",
+   "examples": [
+    "Early expectation setting prevents painful surprises.",
+    "Clear expectation setting with the client saved us many arguments.",
+    "Expectation setting is important when you start a new job.",
+    "Poor expectation setting led to an unhappy customer."
+   ]
+  },
+  {
+   "id": "pack6-card-411",
+   "mode": "vocab",
+   "word": "manage up",
+   "pron": "(phrasal verb)",
+   "def": "To work effectively with and support one's manager\nहिंदी: अपने प्रबंधक के साथ प्रभावी तालमेल बनाना",
+   "examples": [
+    "Learning to manage up helps you get the support you need.",
+    "Managing up includes sharing bad news with your boss early.",
+    "She manages up well by sending short weekly summaries.",
+    "Learning to manage up made my one-on-ones more useful."
+   ]
+  },
+  {
+   "id": "pack6-card-412",
+   "mode": "vocab",
+   "word": "advocate for",
+   "pron": "(phrasal verb)",
+   "def": "To publicly support something on behalf of others\nहिंदी: पक्ष में आवाज़ उठाना",
+   "examples": [
+    "He advocated for more time to pay down technical debt.",
+    "She advocated for better maternity leave in the company.",
+    "Who will advocate for the users in this meeting?",
+    "Learn to advocate for yourself during appraisals."
+   ]
+  },
+  {
+   "id": "pack6-card-414",
+   "mode": "vocab",
+   "word": "step in",
+   "pron": "(phrasal verb)",
+   "def": "To become involved to help or solve a problem\nहिंदी: मदद के लिए आगे आना",
+   "examples": [
+    "She stepped in to resolve the vendor dispute.",
+    "When the presenter fell ill, his colleague stepped in.",
+    "The teacher stepped in to stop the fight.",
+    "The manager had to step in when the deadline was at risk."
+   ]
+  },
+  {
+   "id": "pack6-card-415",
+   "mode": "vocab",
+   "word": "own up",
+   "pron": "(phrasal verb)",
+   "def": "To admit a mistake honestly\nहिंदी: ग़लती स्वीकार करना",
+   "examples": [
+    "He owned up to the config error immediately.",
+    "The student owned up to breaking the window.",
+    "It takes courage to own up to a mistake in front of the team.",
+    "If you own up early, people will trust you more."
+   ]
+  },
+  {
+   "id": "pack6-card-417",
+   "mode": "vocab",
+   "word": "see through",
+   "pron": "(phrasal verb)",
+   "def": "To continue something until it's finished\nहिंदी: काम पूरा होने तक डटे रहना",
+   "examples": [
+    "She saw the migration through to the end.",
+    "It was a hard project, but we saw it through.",
+    "Once you start the course, see it through to the end.",
+    "He promised to see the hiring process through before leaving."
+   ]
+  },
+  {
+   "id": "pack6-card-418",
+   "mode": "vocab",
+   "word": "hold yourself accountable",
+   "pron": "(collocation)",
+   "def": "To take responsibility for your own commitments\nहिंदी: अपनी जवाबदेही खुद तय करना",
+   "examples": [
+    "Hold yourself accountable for deadlines you set.",
+    "Hold yourself accountable for your daily exercise goal.",
+    "Great leaders hold themselves accountable before blaming others.",
+    "I hold myself accountable by sharing my weekly goals with my manager."
+   ]
+  },
+  {
+   "id": "pack6-card-419",
+   "mode": "vocab",
+   "word": "lead by example",
+   "pron": "(idiom)",
+   "def": "To behave in a way that others will follow\nहिंदी: उदाहरण पेश कर नेतृत्व करना",
+   "examples": [
+    "Good leaders lead by example during incidents.",
+    "Parents should lead by example and avoid phones at dinner.",
+    "The manager led by example and arrived on time every day.",
+    "If you want people to document their work, lead by example."
+   ]
+  },
+  {
+   "id": "pack6-card-420",
+   "mode": "vocab",
+   "word": "walk the talk",
+   "pron": "(idiom)",
+   "def": "To act in accordance with what one says\nहिंदी: कथनी और करनी एक रखना",
+   "examples": [
+    "She walks the talk on code quality.",
+    "He talks about saving money but never walks the talk.",
+    "Our CEO walks the talk on work-life balance and logs off at six.",
+    "Companies must walk the talk on sustainability."
+   ]
+  },
+  {
+   "id": "pack6-card-423",
+   "mode": "vocab",
+   "word": "take the initiative",
+   "pron": "(idiom)",
+   "def": "To act first without being told\nहिंदी: आगे बढ़कर पहल करना",
+   "examples": [
+    "She took the initiative to improve onboarding docs.",
+    "She took the initiative and organised the farewell party.",
+    "Take the initiative to learn the new tool before it's required.",
+    "Managers notice people who take the initiative."
+   ]
+  },
+  {
+   "id": "pack6-card-424",
+   "mode": "vocab",
+   "word": "step out of your comfort zone",
+   "pron": "(idiom)",
+   "def": "To try something unfamiliar and challenging\nहिंदी: सहज दायरे से बाहर निकलना",
+   "examples": [
+    "Presenting to executives pushed me out of my comfort zone.",
+    "Moving to a new city made me step out of my comfort zone.",
+    "Step out of your comfort zone and speak at the next meeting.",
+    "Learning to swim at forty meant stepping out of my comfort zone."
+   ]
+  },
+  {
+   "id": "pack6-card-425",
+   "mode": "vocab",
+   "word": "hit the ground running",
+   "pron": "(idiom)",
+   "def": "To start a new role or task with immediate effectiveness\nहिंदी: पहले दिन से प्रभावी शुरुआत करना",
+   "examples": [
+    "She hit the ground running and fixed bugs in week one.",
+    "We need someone who can hit the ground running on Monday.",
+    "Good onboarding helps new hires hit the ground running.",
+    "He hit the ground running and closed two deals in his first month."
+   ]
+  },
+  {
+   "id": "pack6-card-427",
+   "mode": "vocab",
+   "word": "pull your weight",
+   "pron": "(idiom)",
+   "def": "To do your fair share of work\nहिंदी: अपने हिस्से का काम करना",
+   "examples": [
+    "Everyone on the team has to pull their weight.",
+    "In a small startup, everyone must pull their weight.",
+    "My flatmate doesn't pull his weight with the housework.",
+    "If one person doesn't pull their weight, the team suffers."
+   ]
+  },
+  {
+   "id": "pack6-card-428",
+   "mode": "vocab",
+   "word": "carry the load",
+   "pron": "(idiom)",
+   "def": "To take on a large share of the work\nहिंदी: ज़्यादा काम का बोझ उठाना",
+   "examples": [
+    "He carried the load while the team was short-staffed.",
+    "She carried the load while her colleague was on leave.",
+    "The senior players carried the load in the final match.",
+    "It's not fair for one person to always carry the load."
+   ]
+  },
+  {
+   "id": "pack6-card-429",
+   "mode": "vocab",
+   "word": "wear many hats",
+   "pron": "(idiom)",
+   "def": "To have many different roles or responsibilities\nहिंदी: कई भूमिकाएँ निभाना",
+   "examples": [
+    "In a small team, you wear many hats.",
+    "At home, mothers often wear many hats.",
+    "As a founder, he wears many hats, from sales to coding.",
+    "I enjoy wearing many hats in a small company."
+   ]
+  },
+  {
+   "id": "pack6-card-430",
+   "mode": "vocab",
+   "word": "juggle",
+   "pron": "(verb)",
+   "def": "To manage several tasks simultaneously\nहिंदी: एक साथ कई काम संभालना",
+   "examples": [
+    "She juggles incident work and roadmap planning.",
+    "She juggles a full-time job and evening classes.",
+    "I'm juggling three projects this month.",
+    "It's hard to juggle family and work during exams."
+   ]
+  },
+  {
+   "id": "pack6-card-431",
+   "mode": "vocab",
+   "word": "multitask",
+   "pron": "(verb)",
+   "def": "To handle more than one task at a time\nहिंदी: एक साथ कई काम करना",
+   "examples": [
+    "Constant multitasking reduces the quality of deep work.",
+    "I can't multitask while driving; I need full focus.",
+    "People think they can multitask, but quality suffers.",
+    "Don't multitask during interviews; give the candidate your attention."
+   ]
+  },
+  {
+   "id": "pack6-card-432",
+   "mode": "vocab",
+   "word": "context switching",
+   "pron": "(noun)",
+   "def": "Shifting attention between different tasks\nहिंदी: एक काम से दूसरे पर ध्यान बदलना",
+   "examples": [
+    "Context switching is the biggest productivity drain.",
+    "Too many meetings cause constant context switching.",
+    "Group similar tasks together to reduce context switching.",
+    "Context switching between projects tires me out by evening."
+   ]
+  },
+  {
+   "id": "pack6-card-433",
+   "mode": "vocab",
+   "word": "deep work",
+   "pron": "(noun)",
+   "def": "Focused work free from distraction\nहिंदी: एकाग्र होकर किया गया काम",
+   "examples": [
+    "Block mornings for deep work.",
+    "I turn off notifications for two hours of deep work.",
+    "Writing a strategy document needs deep work, not quick replies.",
+    "Our team has a no-meeting afternoon for deep work."
+   ]
+  },
+  {
+   "id": "pack6-card-434",
+   "mode": "vocab",
+   "word": "work-life balance",
+   "pron": "(noun)",
+   "def": "Healthy division of time between work and personal life\nहिंदी: काम और निजी जीवन का संतुलन",
+   "examples": [
+    "Good work-life balance reduces burnout.",
+    "Flexible hours help employees maintain work-life balance.",
+    "She left the job because there was no work-life balance.",
+    "Work-life balance means different things to different people."
+   ]
+  },
+  {
+   "id": "pack6-card-440",
+   "mode": "vocab",
+   "word": "composure",
+   "pron": "(noun)",
+   "def": "A calm and controlled state of mind\nहिंदी: धैर्य और संयम",
+   "examples": [
+    "He maintained his composure during the escalation.",
+    "She kept her composure when the client shouted.",
+    "He lost his composure and walked out of the meeting.",
+    "Deep breaths help me regain composure before a speech."
+   ]
+  },
+  {
+   "id": "pack6-card-441",
+   "mode": "vocab",
+   "word": "poise",
+   "pron": "(noun)",
+   "def": "Calm confidence under pressure\nहिंदी: संतुलित आत्मविश्वास",
+   "examples": [
+    "She handled tough questions with poise.",
+    "The young singer performed with remarkable poise.",
+    "She answered the reporter's questions with poise and humour.",
+    "Practice gives you poise in front of large audiences."
+   ]
+  },
+  {
+   "id": "pack6-card-442",
+   "mode": "vocab",
+   "word": "levelheaded",
+   "pron": "(adjective)",
+   "def": "Calm and sensible\nहिंदी: शांत और समझदार",
+   "examples": [
+    "A levelheaded response prevented panic.",
+    "We need a levelheaded person to handle customer complaints.",
+    "My father stayed levelheaded when our car broke down at night.",
+    "Her levelheaded advice stopped me from quitting in anger."
+   ]
+  },
+  {
+   "id": "pack6-card-443",
+   "mode": "vocab",
+   "word": "steadfast",
+   "pron": "(adjective)",
+   "def": "Firmly committed and unwavering\nहिंदी: अडिग",
+   "examples": [
+    "She was steadfast in her commitment to quality.",
+    "Her parents were steadfast in their support during her studies.",
+    "He remained steadfast in his belief that the product would succeed.",
+    "A steadfast friend stays with you in hard times."
+   ]
+  },
+  {
+   "id": "pack6-card-444",
+   "mode": "vocab",
+   "word": "conscientious",
+   "pron": "(adjective)",
+   "def": "Careful and thorough in doing one's work\nहिंदी: कर्तव्यनिष्ठ",
+   "examples": [
+    "A conscientious reviewer catches subtle bugs.",
+    "She is a conscientious student who never misses a deadline.",
+    "A conscientious employee double-checks numbers before sending them.",
+    "Be conscientious about protecting customer data."
+   ]
+  },
+  {
+   "id": "pack6-card-445",
+   "mode": "vocab",
+   "word": "dedicated",
+   "pron": "(adjective)",
+   "def": "Devoted to a task or purpose\nहिंदी: समर्पित",
+   "examples": [
+    "A dedicated team worked through the weekend.",
+    "The nurses are dedicated to their patients.",
+    "He is dedicated to learning English every day.",
+    "We have a dedicated team for large customers."
+   ]
+  },
+  {
+   "id": "pack6-card-446",
+   "mode": "vocab",
+   "word": "committed",
+   "pron": "(adjective)",
+   "def": "Pledged to a cause or activity\nहिंदी: प्रतिबद्ध",
+   "examples": [
+    "We're committed to delivering by the end of March.",
+    "The company is committed to reducing its carbon footprint.",
+    "I'm committed to finishing this course by June.",
+    "Only committed members should join the core team."
+   ]
+  },
+  {
+   "id": "pack6-card-447",
+   "mode": "vocab",
+   "word": "passionate",
+   "pron": "(adjective)",
+   "def": "Having strong enthusiasm for something\nहिंदी: उत्साही / जुनूनी",
+   "examples": [
+    "He's passionate about clean architecture.",
+    "She is passionate about teaching children to read.",
+    "Be passionate in your interview, but stay professional.",
+    "He's passionate about cricket and watches every match."
+   ]
+  },
+  {
+   "id": "pack6-card-448",
+   "mode": "vocab",
+   "word": "driven",
+   "pron": "(adjective)",
+   "def": "Motivated by a strong desire to succeed\nहिंदी: लक्ष्य के प्रति प्रेरित",
+   "examples": [
+    "A driven engineer seeks out hard problems.",
+    "She is driven and studies at night to get ahead.",
+    "Driven people set their own goals without being pushed.",
+    "He is so driven that he sometimes forgets to rest."
+   ]
+  },
+  {
+   "id": "pack6-card-449",
+   "mode": "vocab",
+   "word": "ambitious goal",
+   "pron": "(noun)",
+   "def": "A challenging target requiring significant effort\nहिंदी: महत्वाकांक्षी लक्ष्य",
+   "examples": [
+    "They set an ambitious goal of zero downtime.",
+    "Our ambitious goal is to double sales in one year.",
+    "Saving ten lakh rupees in two years is an ambitious goal.",
+    "An ambitious goal motivates the team if it's realistic."
+   ]
+  },
+  {
+   "id": "pack6-card-450",
+   "mode": "vocab",
+   "word": "thrive",
+   "pron": "(verb)",
+   "def": "To flourish and grow successfully\nहिंदी: फलना-फूलना",
+   "examples": [
+    "She thrives in ambiguous, fast-moving projects.",
+    "Plants thrive in this sunny balcony.",
+    "Some people thrive under pressure.",
+    "Small businesses thrive when customers shop locally."
+   ]
+  },
+  {
+   "id": "pack6-card-451",
+   "mode": "vocab",
+   "word": "flourish",
+   "pron": "(verb)",
+   "def": "To grow and develop successfully\nहिंदी: पनपना",
+   "examples": [
+    "Mentored engineers tend to flourish quickly.",
+    "The town flourished after the new highway opened.",
+    "Her painting skills flourished after she joined the class.",
+    "Good ideas flourish in an open team culture."
+   ]
+  },
+  {
+   "id": "pack6-card-452",
+   "mode": "vocab",
+   "word": "excel",
+   "pron": "(verb)",
+   "def": "To be exceptionally good at something\nहिंदी: उत्कृष्ट प्रदर्शन करना",
+   "examples": [
+    "He excels at explaining complex systems simply.",
+    "She excels at maths but struggles with writing.",
+    "Our team excels at customer support.",
+    "He excelled in his first year and got a quick promotion."
+   ]
+  },
+  {
+   "id": "pack6-card-453",
+   "mode": "vocab",
+   "word": "outperform",
+   "pron": "(verb)",
+   "def": "To do better than expected or others\nहिंदी: अपेक्षा से बेहतर प्रदर्शन करना",
+   "examples": [
+    "The new design outperformed the old one by far.",
+    "The new phone outperforms older models on battery life.",
+    "Our team outperformed its targets this quarter.",
+    "Small cap funds outperformed large caps last year."
+   ]
+  },
+  {
+   "id": "pack6-card-454",
+   "mode": "vocab",
+   "word": "exceed expectations",
+   "pron": "(collocation)",
+   "def": "To do better than what was anticipated\nहिंदी: अपेक्षाओं से आगे निकलना",
+   "examples": [
+    "The team exceeded expectations by delivering early.",
+    "The hotel exceeded our expectations with its service.",
+    "Her first project exceeded expectations in quality and speed.",
+    "Under-promise and over-deliver to exceed expectations."
+   ]
+  },
+  {
+   "id": "pack6-card-455",
+   "mode": "vocab",
+   "word": "rise to the occasion",
+   "pron": "(idiom)",
+   "def": "To perform well in a challenging situation\nहिंदी: चुनौती पर खरा उतरना",
+   "examples": [
+    "She rose to the occasion during the outage.",
+    "The young bowler rose to the occasion in the final over.",
+    "When the manager fell sick, she rose to the occasion.",
+    "I was nervous, but I rose to the occasion in the interview."
+   ]
+  },
+  {
+   "id": "pack6-card-456",
+   "mode": "vocab",
+   "word": "make a difference",
+   "pron": "(idiom)",
+   "def": "To have a positive effect\nहिंदी: फ़र्क़ पैदा करना",
+   "examples": [
+    "Clear documentation makes a real difference to new joiners.",
+    "Small donations can make a difference to poor families.",
+    "A kind word from a manager can make a difference to morale.",
+    "I want a job where I can make a difference."
+   ]
+  },
+  {
+   "id": "pack6-card-457",
+   "mode": "vocab",
+   "word": "make an impact",
+   "pron": "(collocation)",
+   "def": "To have a strong effect on something\nहिंदी: गहरा प्रभाव डालना",
+   "examples": [
+    "You can make an impact by solving customer pain points.",
+    "She made an impact in her first month by fixing the billing errors.",
+    "The new policy made an impact on employee retention.",
+    "If you want to make an impact, focus on fewer goals."
+   ]
+  },
+  {
+   "id": "pack6-card-458",
+   "mode": "vocab",
+   "word": "add value",
+   "pron": "(collocation)",
+   "def": "To contribute something useful or beneficial\nहिंदी: मूल्य जोड़ना",
+   "examples": [
+    "Think about how your work adds value to the business.",
+    "Ask yourself if this meeting adds value.",
+    "A good consultant adds value beyond what the client expects.",
+    "Fresh graduates can add value with new ideas."
+   ]
+  },
+  {
+   "id": "pack6-card-461",
+   "mode": "vocab",
+   "word": "elevator pitch",
+   "pron": "(noun)",
+   "def": "A brief persuasive summary of an idea\nहिंदी: संक्षिप्त प्रेरक परिचय",
+   "examples": [
+    "Prepare a thirty-second elevator pitch for your project.",
+    "She practised her elevator pitch before the networking event.",
+    "Your elevator pitch should explain what you do in one breath.",
+    "The founder's elevator pitch impressed the investor in the lift."
+   ]
+  },
+  {
+   "id": "pack6-card-463",
+   "mode": "vocab",
+   "word": "executive summary",
+   "pron": "(noun)",
+   "def": "A short overview for senior readers\nहिंदी: वरिष्ठों के लिए संक्षिप्त सारांश",
+   "examples": [
+    "Start the report with an executive summary.",
+    "The CEO only reads the executive summary.",
+    "Write the executive summary last, after the full report.",
+    "Keep the executive summary to one page."
+   ]
+  },
+  {
+   "id": "pack6-card-464",
+   "mode": "vocab",
+   "word": "present",
+   "pron": "(verb)",
+   "def": "To show or explain something to an audience\nहिंदी: प्रस्तुत करना",
+   "examples": [
+    "I'll present the findings at Thursday's review.",
+    "She will present the new product to the board.",
+    "Practise twice before you present to the client.",
+    "Each intern presents their project on the last day."
+   ]
+  },
+  {
+   "id": "pack6-card-465",
+   "mode": "vocab",
+   "word": "executive presence",
+   "pron": "(noun)",
+   "def": "A commanding, confident manner that inspires trust\nहिंदी: प्रभावशाली व आत्मविश्वासी व्यक्तित्व",
+   "examples": [
+    "Executive presence helps you influence senior leaders.",
+    "Speaking slowly and clearly helps build executive presence.",
+    "He has the skills, but he needs more executive presence.",
+    "Executive presence includes staying calm when challenged."
+   ]
+  },
+  {
+   "id": "pack6-card-466",
+   "mode": "vocab",
+   "word": "gravitas",
+   "pron": "(noun)",
+   "def": "Dignity and seriousness of manner\nहिंदी: गंभीरता और प्रभाव",
+   "examples": [
+    "She speaks with gravitas about reliability.",
+    "The senior doctor's words carried gravitas.",
+    "His deep voice gives him gravitas in meetings.",
+    "She lacked gravitas at first but grew into the role."
+   ]
+  },
+  {
+   "id": "pack6-card-468",
+   "mode": "vocab",
+   "word": "take credit",
+   "pron": "(collocation)",
+   "def": "To claim recognition for work\nहिंदी: श्रेय लेना",
+   "examples": [
+    "Don't take credit for work the team did.",
+    "He loves to take credit but avoids blame.",
+    "She refused to take credit and thanked her team instead.",
+    "It's fine to take credit for your own good work."
+   ]
+  },
+  {
+   "id": "pack6-card-469",
+   "mode": "vocab",
+   "word": "share the spotlight",
+   "pron": "(idiom)",
+   "def": "To give others recognition\nहिंदी: दूसरों को भी श्रेय देना",
+   "examples": [
+    "Great leaders share the spotlight.",
+    "The captain shared the spotlight with the young players.",
+    "Share the spotlight by naming everyone who helped.",
+    "A confident leader is happy to share the spotlight."
+   ]
+  },
+  {
+   "id": "pack6-card-470",
+   "mode": "vocab",
+   "word": "sponsor",
+   "pron": "(noun)",
+   "def": "A senior person who advocates for your career\nहिंदी: वरिष्ठ संरक्षक जो आगे बढ़ाए",
+   "examples": [
+    "A sponsor recommended her for the lead role.",
+    "Finding a sponsor can speed up your promotion.",
+    "Her sponsor spoke up for her in the leadership meeting.",
+    "A mentor gives advice, but a sponsor opens doors."
+   ]
+  },
+  {
+   "id": "pack6-card-471",
+   "mode": "vocab",
+   "word": "skip-level meeting",
+   "pron": "(noun)",
+   "def": "A meeting with your manager's manager\nहिंदी: प्रबंधक के प्रबंधक से बैठक",
+   "examples": [
+    "A skip-level meeting gives a broader view of priorities.",
+    "In the skip-level meeting, I shared ideas about our process.",
+    "Our director holds a skip-level meeting with each team every quarter.",
+    "Prepare a few questions before your skip-level meeting."
+   ]
+  },
+  {
+   "id": "pack6-card-472",
+   "mode": "vocab",
+   "word": "one-on-one",
+   "pron": "(noun)",
+   "def": "A private meeting between two people\nहिंदी: आमने-सामने की बैठक",
+   "examples": [
+    "Use your one-on-one to discuss career goals.",
+    "My manager and I have a one-on-one every Tuesday.",
+    "Don't cancel one-on-ones just because you're busy.",
+    "I raised my workload concern in our one-on-one."
+   ]
+  },
+  {
+   "id": "pack6-card-473",
+   "mode": "vocab",
+   "word": "career conversation",
+   "pron": "(noun)",
+   "def": "A discussion about professional growth\nहिंदी: करियर विकास पर चर्चा",
+   "examples": [
+    "I asked for a career conversation with my manager.",
+    "After the career conversation, I knew what skills to build.",
+    "Managers should have a career conversation with each person twice a year.",
+    "A good career conversation focuses on your goals, not just the next role."
+   ]
+  },
+  {
+   "id": "pack6-card-474",
+   "mode": "vocab",
+   "word": "development plan",
+   "pron": "(noun)",
+   "def": "A structured plan for building skills\nहिंदी: कौशल विकास योजना",
+   "examples": [
+    "We agreed on a six-month development plan.",
+    "My development plan includes a leadership course.",
+    "Review your development plan with your manager every quarter.",
+    "The development plan helped her move into a senior role."
+   ]
+  },
+  {
+   "id": "pack6-card-475",
+   "mode": "vocab",
+   "word": "skill gap",
+   "pron": "(noun)",
+   "def": "The difference between current and required skills\nहिंदी: कौशल का अंतर",
+   "examples": [
+    "We identified a skill gap in cloud security.",
+    "Training can close the skill gap in our support team.",
+    "There is a skill gap between college learning and industry needs.",
+    "He identified his own skill gap and joined an online course."
+   ]
+  },
+  {
+   "id": "pack6-card-476",
+   "mode": "vocab",
+   "word": "knowledge transfer",
+   "pron": "(noun)",
+   "def": "Passing expertise from one person to another\nहिंदी: ज्ञान का हस्तांतरण",
+   "examples": [
+    "Knowledge transfer prevents single-person dependency.",
+    "Plan two weeks of knowledge transfer before you leave the job.",
+    "The knowledge transfer sessions were recorded for future joiners.",
+    "Poor knowledge transfer left the new team confused."
+   ]
+  },
+  {
+   "id": "pack6-card-477",
+   "mode": "vocab",
+   "word": "bus factor",
+   "pron": "(noun)",
+   "def": "The number of people whose absence would stall a project\nहिंदी: कितने लोगों के जाने से काम रुक जाए",
+   "examples": [
+    "Our bus factor on this service is one.",
+    "Increase the bus factor by documenting the setup steps.",
+    "Our bus factor improved after we trained two more people.",
+    "A bus factor of one is a big risk for any project."
+   ]
+  },
+  {
+   "id": "pack6-card-478",
+   "mode": "vocab",
+   "word": "succession planning",
+   "pron": "(noun)",
+   "def": "Preparing people to take over key roles\nहिंदी: उत्तराधिकारी तैयार करना",
+   "examples": [
+    "Succession planning reduces risk when leads leave.",
+    "Succession planning ensures someone can replace the CEO if needed.",
+    "Family businesses often ignore succession planning.",
+    "Good succession planning keeps the team stable after promotions."
+   ]
+  },
+  {
+   "id": "pack6-card-479",
+   "mode": "vocab",
+   "word": "backfill role",
+   "pron": "(noun)",
+   "def": "A position created to replace a departing employee\nहिंदी: जाने वाले कर्मचारी की जगह भरने वाली नियुक्ति",
+   "examples": [
+    "We're hiring a backfill for the senior engineer.",
+    "The backfill role will be open until we find the right person.",
+    "We got approval for a backfill role after she resigned.",
+    "Interviews for the backfill role start next week."
+   ]
+  },
+  {
+   "id": "pack6-card-480",
+   "mode": "vocab",
+   "word": "attrition",
+   "pron": "(noun)",
+   "def": "Gradual loss of employees\nहिंदी: कर्मचारियों का धीरे-धीरे छोड़ना",
+   "examples": [
+    "High attrition hurt delivery.",
+    "The company is worried about attrition after the bonus cut.",
+    "Attrition in call centres is usually very high.",
+    "Better pay helped reduce attrition this year."
+   ]
+  },
+  {
+   "id": "pack6-card-481",
+   "mode": "vocab",
+   "word": "retention",
+   "pron": "(noun)",
+   "def": "The ability to keep employees\nहिंदी: कर्मचारियों को रोके रखना",
+   "examples": [
+    "Good culture improves retention.",
+    "Flexible work is a big factor in employee retention.",
+    "Customer retention is cheaper than finding new customers.",
+    "The bank offers bonuses to improve retention of top performers."
+   ]
+  },
+  {
+   "id": "pack6-card-482",
+   "mode": "vocab",
+   "word": "morale",
+   "pron": "(noun)",
+   "def": "The confidence and enthusiasm of a group\nहिंदी: टीम का मनोबल",
+   "examples": [
+    "Frequent outages lowered team morale.",
+    "Team morale went up after the successful launch.",
+    "A sudden policy change hurt staff morale.",
+    "Celebrating small wins keeps morale high."
+   ]
+  },
+  {
+   "id": "pack6-card-483",
+   "mode": "vocab",
+   "word": "engagement",
+   "pron": "(noun)",
+   "def": "The level of commitment and enthusiasm at work\nहिंदी: कार्य में जुड़ाव",
+   "examples": [
+    "Autonomy increases employee engagement.",
+    "The engagement survey showed people want more growth opportunities.",
+    "Employee engagement drops when people feel ignored.",
+    "Regular feedback improves engagement in remote teams."
+   ]
+  },
+  {
+   "id": "pack6-card-485",
+   "mode": "vocab",
+   "word": "micromanage",
+   "pron": "(verb)",
+   "def": "To control every detail of someone's work\nहिंदी: हर छोटी बात पर नियंत्रण रखना",
+   "examples": [
+    "Micromanaging kills creativity.",
+    "Please don't micromanage the team; trust them to deliver.",
+    "She left because her boss micromanaged every email.",
+    "New managers sometimes micromanage because they're nervous."
+   ]
+  },
+  {
+   "id": "pack6-card-487",
+   "mode": "vocab",
+   "word": "hands-off",
+   "pron": "(adjective)",
+   "def": "Not directly involved; allowing independence\nहिंदी: हस्तक्षेप न करने वाला",
+   "examples": [
+    "He takes a hands-off approach with senior engineers.",
+    "My parents were hands-off and let me choose my career.",
+    "A hands-off manager works well with experienced people.",
+    "Being too hands-off can leave new joiners feeling lost."
+   ]
+  },
+  {
+   "id": "pack6-card-488",
+   "mode": "vocab",
+   "word": "approachable",
+   "pron": "(adjective)",
+   "def": "Friendly and easy to talk to\nहिंदी: सहज उपलब्ध और मिलनसार",
+   "examples": [
+    "An approachable lead encourages questions.",
+    "Our principal is approachable and listens to every student.",
+    "Being approachable helps managers hear problems early.",
+    "She's senior, but very approachable and friendly."
+   ]
+  },
+  {
+   "id": "pack6-card-489",
+   "mode": "vocab",
+   "word": "empathetic",
+   "pron": "(adjective)",
+   "def": "Able to understand others' feelings\nहिंदी: संवेदनशील / सहानुभूतिपूर्ण",
+   "examples": [
+    "Empathetic managers handle conflict better.",
+    "An empathetic doctor makes patients feel heard.",
+    "Be empathetic when a colleague is going through a hard time.",
+    "Empathetic listening calmed the upset customer."
+   ]
+  },
+  {
+   "id": "pack6-card-490",
+   "mode": "vocab",
+   "word": "supportive",
+   "pron": "(adjective)",
+   "def": "Providing encouragement and help\nहिंदी: सहयोगी",
+   "examples": [
+    "Her supportive feedback built my confidence.",
+    "My family was very supportive when I changed careers.",
+    "A supportive team makes hard projects easier.",
+    "Thank you for being so supportive during my first month."
+   ]
+  },
+  {
+   "id": "pack6-card-491",
+   "mode": "vocab",
+   "word": "decisive",
+   "pron": "(adjective)",
+   "def": "Able to make decisions quickly and effectively\nहिंदी: निर्णायक",
+   "examples": [
+    "A decisive lead prevents endless debate.",
+    "In an emergency, you need someone decisive.",
+    "She was decisive and chose the vendor in one meeting.",
+    "Be decisive, but stay open to new information."
+   ]
+  },
+  {
+   "id": "pack6-card-492",
+   "mode": "vocab",
+   "word": "indecisive",
+   "pron": "(adjective)",
+   "def": "Unable to make decisions\nहिंदी: अनिर्णायक",
+   "examples": [
+    "Indecisive leadership delays delivery.",
+    "I'm so indecisive that I take ages to order food.",
+    "An indecisive client kept changing the requirements.",
+    "Being indecisive in a crisis can make things worse."
+   ]
+  },
+  {
+   "id": "pack6-card-493",
+   "mode": "vocab",
+   "word": "influential",
+   "pron": "(adjective)",
+   "def": "Having great influence on others\nहिंदी: प्रभावशाली",
+   "examples": [
+    "She is an influential voice in design reviews.",
+    "She is influential in the local business community.",
+    "His blog became influential among young developers.",
+    "Teachers are influential in shaping children's values."
+   ]
+  },
+  {
+   "id": "pack6-card-494",
+   "mode": "vocab",
+   "word": "credible voice",
+   "pron": "(collocation)",
+   "def": "A person whose opinion is trusted\nहिंदी: विश्वसनीय आवाज़",
+   "examples": [
+    "He became a credible voice on data quality.",
+    "She's a credible voice on women's health.",
+    "Build a track record to become a credible voice in your field.",
+    "When a credible voice raises a risk, leaders listen."
+   ]
+  },
+  {
+   "id": "pack6-card-495",
+   "mode": "vocab",
+   "word": "build trust",
+   "pron": "(collocation)",
+   "def": "To develop confidence between people\nहिंदी: भरोसा बनाना",
+   "examples": [
+    "Delivering small promises builds trust.",
+    "Being on time for meetings helps build trust.",
+    "It takes years to build trust and seconds to lose it.",
+    "New managers should build trust before making big changes."
+   ]
+  },
+  {
+   "id": "pack6-card-496",
+   "mode": "vocab",
+   "word": "earn respect",
+   "pron": "(collocation)",
+   "def": "To gain admiration through actions\nहिंदी: सम्मान अर्जित करना",
+   "examples": [
+    "You earn respect by listening first.",
+    "You can't demand respect; you have to earn respect.",
+    "She earned respect by always keeping her promises.",
+    "The new coach earned respect by working harder than the players."
+   ]
+  },
+  {
+   "id": "pack6-card-497",
+   "mode": "vocab",
+   "word": "set boundaries",
+   "pron": "(collocation)",
+   "def": "To define acceptable limits\nहिंदी: सीमाएँ तय करना",
+   "examples": [
+    "Set boundaries to protect your focus time.",
+    "Set boundaries so work calls don't happen after nine at night.",
+    "It's healthy to set boundaries with demanding relatives.",
+    "She set boundaries early, and her team respected them."
+   ]
+  },
+  {
+   "id": "pack6-card-498",
+   "mode": "vocab",
+   "word": "say no gracefully",
+   "pron": "(collocation)",
+   "def": "To decline politely and professionally\nहिंदी: विनम्रता से मना करना",
+   "examples": [
+    "Learn to say no gracefully to low-priority requests.",
+    "It's hard for me to say no gracefully to my relatives.",
+    "Say no gracefully by offering another time or option.",
+    "She said no gracefully, and the client still felt valued."
+   ]
+  },
+  {
+   "id": "pack6-card-499",
+   "mode": "vocab",
+   "word": "negotiate a raise",
+   "pron": "(collocation)",
+   "def": "To discuss a salary increase\nहिंदी: वेतन वृद्धि पर बातचीत करना",
+   "examples": [
+    "Prepare evidence before you negotiate a raise.",
+    "Check market salaries before you negotiate a raise.",
+    "He negotiated a raise after taking on more responsibility.",
+    "The best time to negotiate a raise is after a big success."
+   ]
+  },
+  {
+   "id": "pack6-card-500",
+   "mode": "vocab",
+   "word": "make a business case",
+   "pron": "(collocation)",
+   "def": "To justify a proposal with benefits and costs\nहिंदी: व्यावसायिक औचित्य प्रस्तुत करना",
+   "examples": [
+    "She made a business case for hiring two engineers.",
+    "Make a business case before you ask for new laptops.",
+    "He made a business case showing the tool would save money.",
+    "Without a strong business case, the project won't be approved."
+   ]
+  },
+  {
+   "id": "pack6-card-501",
+   "mode": "vocab",
+   "word": "secure funding",
+   "pron": "(collocation)",
+   "def": "To obtain money for a project\nहिंदी: धन की व्यवस्था करना",
+   "examples": [
+    "We secured funding for the platform upgrade.",
+    "The startup secured funding from two investors.",
+    "We need to secure funding before we can hire.",
+    "The school secured funding for a new science lab."
+   ]
+  },
+  {
+   "id": "pack6-card-502",
+   "mode": "vocab",
+   "word": "win over",
+   "pron": "(phrasal verb)",
+   "def": "To gain someone's support\nहिंदी: समर्थन जीतना",
+   "examples": [
+    "His demo won over the sceptical director.",
+    "The salesperson won over the customer with honest advice.",
+    "It took months to win over my new manager.",
+    "Her cooking won over the whole family."
+   ]
+  },
+  {
+   "id": "pack6-card-504",
+   "mode": "vocab",
+   "word": "get everyone on board",
+   "pron": "(idiom)",
+   "def": "To gain agreement and support from everyone\nहिंदी: सबको साथ लेना",
+   "examples": [
+    "We need to get everyone on board before launching.",
+    "It took a few meetings to get everyone on board with the new tool.",
+    "Get everyone on board with the plan before the trip.",
+    "The manager got everyone on board by explaining the reasons."
+   ]
+  },
+  {
+   "id": "pack6-card-505",
+   "mode": "vocab",
+   "word": "bring to the table",
+   "pron": "(idiom)",
+   "def": "To contribute skills or value\nहिंदी: योगदान या कौशल लाना",
+   "examples": [
+    "She brings deep domain expertise to the table.",
+    "What skills do you bring to the table?",
+    "Each partner brings something different to the table.",
+    "He brings years of client experience to the table."
+   ]
+  },
+  {
+   "id": "pack6-card-506",
+   "mode": "vocab",
+   "word": "punch above your weight",
+   "pron": "(idiom)",
+   "def": "To perform better than expected for your size or level\nहिंदी: अपने स्तर से बेहतर प्रदर्शन करना",
+   "examples": [
+    "The small team punches above its weight.",
+    "Our small startup punches above its weight against big brands.",
+    "The junior analyst punches above her weight in client meetings.",
+    "The tiny country punches above its weight in sports."
+   ]
+  },
+  {
+   "id": "pack6-card-507",
+   "mode": "vocab",
+   "word": "a safe pair of hands",
+   "pron": "(idiom)",
+   "def": "A reliable person who can be trusted with tasks\nहिंदी: भरोसेमंद व्यक्ति",
+   "examples": [
+    "He is a safe pair of hands for critical releases.",
+    "The manager chose him because he's a safe pair of hands.",
+    "For the audit, we need a safe pair of hands.",
+    "She proved to be a safe pair of hands during the crisis."
+   ]
+  },
+  {
+   "id": "pack6-card-508",
+   "mode": "vocab",
+   "word": "a team player",
+   "pron": "(idiom)",
+   "def": "Someone who cooperates well with others\nहिंदी: टीम भावना वाला व्यक्ति",
+   "examples": [
+    "We value a team player over a lone hero.",
+    "Be a team player and help your colleague finish on time.",
+    "The coach wants team players, not just stars.",
+    "He is a team player who shares credit generously."
+   ]
+  },
+  {
+   "id": "pack6-card-509",
+   "mode": "vocab",
+   "word": "a quick study",
+   "pron": "(idiom)",
+   "def": "Someone who learns fast\nहिंदी: जल्दी सीखने वाला",
+   "examples": [
+    "She's a quick study and mastered Kafka in weeks.",
+    "The new intern is a quick study and needs little training.",
+    "She's a quick study, so she'll learn our tools fast.",
+    "Being a quick study helped him in his first job."
+   ]
+  },
+  {
+   "id": "pack6-card-510",
+   "mode": "vocab",
+   "word": "a fast learner",
+   "pron": "(noun)",
+   "def": "A person who picks up new skills quickly\nहिंदी: तेज़ी से सीखने वाला",
+   "examples": [
+    "As a fast learner, he adapted to the new stack.",
+    "I'm a fast learner and enjoy new challenges.",
+    "As a fast learner, she was handling clients within a month.",
+    "Show you're a fast learner with a real example, not just a claim."
+   ]
+  },
+  {
+   "id": "pack6-card-511",
+   "mode": "vocab",
+   "word": "a rising star",
+   "pron": "(idiom)",
+   "def": "A person who is rapidly becoming successful\nहिंदी: उभरता सितारा",
+   "examples": [
+    "She's a rising star in the platform team.",
+    "The young singer is a rising star in Bollywood.",
+    "Management sees him as a rising star in sales.",
+    "Rising stars need mentors to keep growing."
+   ]
+  },
+  {
+   "id": "pack6-card-512",
+   "mode": "vocab",
+   "word": "an unsung hero",
+   "pron": "(idiom)",
+   "def": "A person who contributes a lot without recognition\nहिंदी: अनदेखा नायक",
+   "examples": [
+    "The on-call engineers are the unsung heroes.",
+    "The cleaning staff are the unsung heroes of the hospital.",
+    "She was an unsung hero who quietly fixed many issues.",
+    "Let's thank the unsung heroes behind this successful event."
+   ]
+  },
+  {
+   "id": "pack6-card-513",
+   "mode": "vocab",
+   "word": "a seasoned professional",
+   "pron": "(collocation)",
+   "def": "A highly experienced person\nहिंदी: अनुभवी पेशेवर",
+   "examples": [
+    "A seasoned professional stays calm in crises.",
+    "The new CFO is a seasoned professional with twenty years in banking.",
+    "A seasoned professional knows when to ask for help.",
+    "We need a seasoned professional to lead the negotiation."
+   ]
+  },
+  {
+   "id": "pack6-card-514",
+   "mode": "vocab",
+   "word": "a well-oiled machine",
+   "pron": "(idiom)",
+   "def": "A team that works very smoothly\nहिंदी: सुचारू रूप से चलने वाली टीम",
+   "examples": [
+    "After a year, the team ran like a well-oiled machine.",
+    "The restaurant kitchen runs like a well-oiled machine.",
+    "By the third event, our team was a well-oiled machine.",
+    "Good processes turn a group into a well-oiled machine."
+   ]
+  },
+  {
+   "id": "pack6-card-515",
+   "mode": "vocab",
+   "word": "a tight-knit team",
+   "pron": "(collocation)",
+   "def": "A close and supportive group\nहिंदी: आपस में जुड़ी टीम",
+   "examples": [
+    "A tight-knit team communicates with little friction.",
+    "Our building has a tight-knit community of families.",
+    "The small office has a tight-knit team that celebrates every birthday.",
+    "Joining a tight-knit team can feel hard at first."
+   ]
+  },
+  {
+   "id": "pack6-card-516",
+   "mode": "vocab",
+   "word": "a high-performing team",
+   "pron": "(collocation)",
+   "def": "A group consistently achieving excellent results\nहिंदी: उच्च प्रदर्शन करने वाली टीम",
+   "examples": [
+    "High-performing teams value feedback.",
+    "A high-performing team needs trust as much as talent.",
+    "She built a high-performing team from scratch.",
+    "High-performing teams set clear goals and measure progress."
+   ]
+  },
+  {
+   "id": "pack6-card-517",
+   "mode": "vocab",
+   "word": "a steep ask",
+   "pron": "(collocation)",
+   "def": "A demanding request\nहिंदी: कठिन माँग",
+   "examples": [
+    "Delivering in two weeks is a steep ask.",
+    "Asking a new joiner to lead the project is a steep ask.",
+    "Getting the client to pay double is a steep ask.",
+    "I know it's a steep ask, but can you work this Saturday?"
+   ]
+  }
+ ]
+}

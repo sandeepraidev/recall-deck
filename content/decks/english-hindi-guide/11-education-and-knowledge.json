@@ -1,0 +1,528 @@
+{
+ "id": "pack3-deck-11",
+ "categoryId": "pack3-cat-1",
+ "title": "11. Education & Knowledge",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-501",
+   "mode": "vocab",
+   "word": "Education",
+   "pron": "",
+   "def": "The process of acquiring knowledge and skills.\nहिंदी: शिक्षा",
+   "examples": [
+    "Education transforms lives.",
+    "Education must be accessible to all.",
+    "Education builds nations.",
+    "Education shapes character."
+   ]
+  },
+  {
+   "id": "pack3-card-503",
+   "mode": "vocab",
+   "word": "Learning",
+   "pron": "",
+   "def": "The acquisition of knowledge or skills.\nहिंदी: सीखना / अधिगम",
+   "examples": [
+    "Learning never stops.",
+    "Learning requires curiosity.",
+    "Learning shapes behavior.",
+    "Learning must be encouraged."
+   ]
+  },
+  {
+   "id": "pack3-card-507",
+   "mode": "vocab",
+   "word": "Syllabus",
+   "pron": "",
+   "def": "An outline of topics in a course.\nहिंदी: पाठ्य-सूची",
+   "examples": [
+    "Syllabus guides teaching.",
+    "Syllabus must be clear.",
+    "Syllabus organizes content.",
+    "Syllabus helps students prepare."
+   ]
+  },
+  {
+   "id": "pack3-card-508",
+   "mode": "vocab",
+   "word": "Andragogy",
+   "pron": "",
+   "def": "The specific methods, practices, and principles utilized in teaching adult learners.\nहिंदी: वयस्क शिक्षण-शास्त्र",
+   "examples": [
+    "Andragogy emphasizes self-directed learning and practical, real-world application.",
+    "Professional development programs are designed around the proven principles of andragogy.",
+    "Unlike child education, andragogy leverages the extensive life experiences of adult students.",
+    "Trainers in corporate academies study andragogy to engage working professionals effectively."
+   ]
+  },
+  {
+   "id": "pack3-card-510",
+   "mode": "vocab",
+   "word": "Inquisitiveness",
+   "pron": "",
+   "def": "A disposition characterized by eager curiosity and an intellectual drive to investigate things.\nहिंदी: जिज्ञासु प्रवृत्ति",
+   "examples": [
+    "The young scientist's natural inquisitiveness drove her to explore uncharted phenomena.",
+    "Good teachers nurture intellectual inquisitiveness rather than demanding rote memorization.",
+    "Inquisitiveness is the underlying catalyst for all groundbreaking scientific breakthroughs.",
+    "Her unrelenting inquisitiveness led to the discovery of a major accounting oversight."
+   ]
+  },
+  {
+   "id": "pack3-card-511",
+   "mode": "vocab",
+   "word": "Research",
+   "pron": "",
+   "def": "Systematic investigation to gain knowledge.\nहिंदी: शोध / अनुसंधान",
+   "examples": [
+    "Research advances knowledge.",
+    "Research requires funding.",
+    "Research must be ethical.",
+    "Research solves problems."
+   ]
+  },
+  {
+   "id": "pack3-card-513",
+   "mode": "vocab",
+   "word": "Academic Freedom",
+   "pron": "",
+   "def": "The freedom to teach and research without interference.\nहिंदी: अकादमिक स्वतंत्रता",
+   "examples": [
+    "Academic Freedom enables inquiry.",
+    "Academic Freedom must be protected.",
+    "Academic Freedom faces threats.",
+    "Academic Freedom strengthens universities."
+   ]
+  },
+  {
+   "id": "pack3-card-514",
+   "mode": "vocab",
+   "word": "University",
+   "pron": "",
+   "def": "An institution of higher education and research.\nहिंदी: विश्वविद्यालय",
+   "examples": [
+    "University shapes future leaders.",
+    "University must remain independent.",
+    "University encourages inquiry.",
+    "University serves society."
+   ]
+  },
+  {
+   "id": "pack3-card-515",
+   "mode": "vocab",
+   "word": "Higher Education",
+   "pron": "",
+   "def": "Education beyond secondary school.\nहिंदी: उच्च शिक्षा",
+   "examples": [
+    "Higher Education builds skills.",
+    "Higher Education must be affordable.",
+    "Higher Education drives growth.",
+    "Higher Education expands opportunity."
+   ]
+  },
+  {
+   "id": "pack3-card-516",
+   "mode": "vocab",
+   "word": "Vocational Training",
+   "pron": "",
+   "def": "Education for specific trades or skills.\nहिंदी: व्यावसायिक प्रशिक्षण",
+   "examples": [
+    "Vocational Training creates jobs.",
+    "Vocational Training must be valued.",
+    "Vocational Training meets industry needs.",
+    "Vocational Training empowers youth."
+   ]
+  },
+  {
+   "id": "pack3-card-517",
+   "mode": "vocab",
+   "word": "Skill Development",
+   "pron": "",
+   "def": "Improving abilities for employment.\nहिंदी: कौशल विकास",
+   "examples": [
+    "Skill Development boosts employability.",
+    "Skill Development must be prioritized.",
+    "Skill Development closes gaps.",
+    "Skill Development empowers workers."
+   ]
+  },
+  {
+   "id": "pack3-card-518",
+   "mode": "vocab",
+   "word": "Lifelong Learning",
+   "pron": "",
+   "def": "Continuous learning throughout life.\nहिंदी: आजीवन सीखना",
+   "examples": [
+    "Lifelong Learning adapts to change.",
+    "Lifelong Learning must be encouraged.",
+    "Lifelong Learning enriches life.",
+    "Lifelong Learning keeps skills fresh."
+   ]
+  },
+  {
+   "id": "pack3-card-519",
+   "mode": "vocab",
+   "word": "Inclusive Education",
+   "pron": "",
+   "def": "Education that includes all learners.\nहिंदी: समावेशी शिक्षा",
+   "examples": [
+    "Inclusive Education respects diversity.",
+    "Inclusive Education must be ensured.",
+    "Inclusive Education benefits everyone.",
+    "Inclusive Education removes barriers."
+   ]
+  },
+  {
+   "id": "pack3-card-520",
+   "mode": "vocab",
+   "word": "Special Education",
+   "pron": "",
+   "def": "Education for students with special needs.\nहिंदी: विशेष शिक्षा",
+   "examples": [
+    "Special Education supports unique learners.",
+    "Special Education needs trained teachers.",
+    "Special Education must be funded.",
+    "Special Education promotes dignity."
+   ]
+  },
+  {
+   "id": "pack3-card-521",
+   "mode": "vocab",
+   "word": "Scholarship (Financial Aid)",
+   "pron": "",
+   "def": "Financial support for students.\nहिंदी: छात्रवृत्ति (आर्थिक सहायता)",
+   "examples": [
+    "Scholarships enable access.",
+    "Scholarships must be fair.",
+    "Scholarships reward merit.",
+    "Scholarships reduce dropout."
+   ]
+  },
+  {
+   "id": "pack3-card-522",
+   "mode": "vocab",
+   "word": "Digital Learning",
+   "pron": "",
+   "def": "Learning through digital technology.\nहिंदी: डिजिटल शिक्षण",
+   "examples": [
+    "Digital Learning expands access.",
+    "Digital Learning must be inclusive.",
+    "Digital Learning transforms classrooms.",
+    "Digital Learning requires connectivity."
+   ]
+  },
+  {
+   "id": "pack3-card-523",
+   "mode": "vocab",
+   "word": "Online Education",
+   "pron": "",
+   "def": "Education delivered over the internet.\nहिंदी: ऑनलाइन शिक्षा",
+   "examples": [
+    "Online Education reaches remote areas.",
+    "Online Education must be quality-assured.",
+    "Online Education offers flexibility.",
+    "Online Education grew during pandemics."
+   ]
+  },
+  {
+   "id": "pack3-card-524",
+   "mode": "vocab",
+   "word": "Teacher",
+   "pron": "",
+   "def": "A person who educates others.\nहिंदी: शिक्षक",
+   "examples": [
+    "Teachers shape futures.",
+    "Teachers must be respected.",
+    "Teachers inspire curiosity.",
+    "Teachers need training."
+   ]
+  },
+  {
+   "id": "pack3-card-526",
+   "mode": "vocab",
+   "word": "Student",
+   "pron": "",
+   "def": "A person who studies at an institution.\nहिंदी: विद्यार्थी",
+   "examples": [
+    "Students are future leaders.",
+    "Students must be encouraged.",
+    "Students face pressure.",
+    "Students need support."
+   ]
+  },
+  {
+   "id": "pack3-card-527",
+   "mode": "vocab",
+   "word": "Assessment",
+   "pron": "",
+   "def": "Evaluation of learning or performance.\nहिंदी: मूल्यांकन",
+   "examples": [
+    "Assessment measures progress.",
+    "Assessment must be fair.",
+    "Assessment guides teaching.",
+    "Assessment should be holistic."
+   ]
+  },
+  {
+   "id": "pack3-card-528",
+   "mode": "vocab",
+   "word": "Examination",
+   "pron": "",
+   "def": "A formal test of knowledge.\nहिंदी: परीक्षा",
+   "examples": [
+    "Examinations test learning.",
+    "Examinations must be fair.",
+    "Examinations cause stress.",
+    "Examinations must be reformed."
+   ]
+  },
+  {
+   "id": "pack3-card-529",
+   "mode": "vocab",
+   "word": "Rote Learning",
+   "pron": "",
+   "def": "Memorization without understanding.\nहिंदी: रटंत शिक्षा",
+   "examples": [
+    "Rote Learning limits creativity.",
+    "Rote Learning must be reduced.",
+    "Rote Learning fails in application.",
+    "Rote Learning ignores meaning."
+   ]
+  },
+  {
+   "id": "pack3-card-530",
+   "mode": "vocab",
+   "word": "Conceptual Understanding",
+   "pron": "",
+   "def": "Grasping underlying ideas.\nहिंदी: अवधारणात्मक समझ",
+   "examples": [
+    "Conceptual Understanding lasts longer.",
+    "Conceptual Understanding must be emphasized.",
+    "Conceptual Understanding enables application.",
+    "Conceptual Understanding deepens learning."
+   ]
+  },
+  {
+   "id": "pack3-card-531",
+   "mode": "vocab",
+   "word": "Intelligence",
+   "pron": "",
+   "def": "The ability to learn and reason.\nहिंदी: बुद्धि",
+   "examples": [
+    "Intelligence takes many forms.",
+    "Intelligence must be nurtured.",
+    "Intelligence is not fixed.",
+    "Intelligence combines skills."
+   ]
+  },
+  {
+   "id": "pack3-card-532",
+   "mode": "vocab",
+   "word": "Aptitude",
+   "pron": "",
+   "def": "Natural ability to learn or do something.\nहिंदी: अभिरुचि / योग्यता",
+   "examples": [
+    "Aptitude guides career choices.",
+    "Aptitude must be identified.",
+    "Aptitude differs among people.",
+    "Aptitude can be developed."
+   ]
+  },
+  {
+   "id": "pack3-card-534",
+   "mode": "vocab",
+   "word": "Merit",
+   "pron": "",
+   "def": "Quality of deserving reward based on ability.\nहिंदी: योग्यता / गुणवत्ता",
+   "examples": [
+    "Merit must be rewarded.",
+    "Merit ensures fairness.",
+    "Merit must be assessed fairly.",
+    "Merit drives excellence."
+   ]
+  },
+  {
+   "id": "pack3-card-535",
+   "mode": "vocab",
+   "word": "Equality of Opportunity",
+   "pron": "",
+   "def": "Fair chance for all to succeed.\nहिंदी: अवसर की समानता",
+   "examples": [
+    "Equality of Opportunity strengthens society.",
+    "Equality of Opportunity must be ensured.",
+    "Equality of Opportunity reduces inequality.",
+    "Equality of Opportunity empowers the poor."
+   ]
+  },
+  {
+   "id": "pack3-card-538",
+   "mode": "vocab",
+   "word": "Illiteracy",
+   "pron": "",
+   "def": "Inability to read and write.\nहिंदी: निरक्षरता",
+   "examples": [
+    "Illiteracy traps people in poverty.",
+    "Illiteracy must be eradicated.",
+    "Illiteracy limits opportunity.",
+    "Illiteracy affects health."
+   ]
+  },
+  {
+   "id": "pack3-card-539",
+   "mode": "vocab",
+   "word": "Intellectual",
+   "pron": "",
+   "def": "A person devoted to thought and learning.\nहिंदी: बुद्धिजीवी",
+   "examples": [
+    "Intellectuals shape public debate.",
+    "Intellectuals must remain independent.",
+    "Intellectuals challenge authority.",
+    "Intellectuals advance ideas."
+   ]
+  },
+  {
+   "id": "pack3-card-540",
+   "mode": "vocab",
+   "word": "Enlightenment",
+   "pron": "",
+   "def": "A movement emphasizing reason and science.\nहिंदी: ज्ञानोदय / प्रबोधन",
+   "examples": [
+    "Enlightenment transformed Europe.",
+    "Enlightenment championed reason.",
+    "Enlightenment promoted liberty.",
+    "Enlightenment shaped democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-541",
+   "mode": "vocab",
+   "word": "Scientific Method",
+   "pron": "",
+   "def": "A systematic approach to inquiry.\nहिंदी: वैज्ञानिक पद्धति",
+   "examples": [
+    "Scientific Method ensures rigor.",
+    "Scientific Method tests hypotheses.",
+    "Scientific Method must be taught.",
+    "Scientific Method advances knowledge."
+   ]
+  },
+  {
+   "id": "pack3-card-542",
+   "mode": "vocab",
+   "word": "Rationalism",
+   "pron": "",
+   "def": "The belief that reason is the source of knowledge.\nहिंदी: बुद्धिवाद",
+   "examples": [
+    "Rationalism values logic.",
+    "Rationalism challenged tradition.",
+    "Rationalism drives inquiry.",
+    "Rationalism must be balanced."
+   ]
+  },
+  {
+   "id": "pack3-card-543",
+   "mode": "vocab",
+   "word": "Empiricism",
+   "pron": "",
+   "def": "The belief that knowledge comes from experience.\nहिंदी: अनुभववाद",
+   "examples": [
+    "Empiricism relies on observation.",
+    "Empiricism shapes science.",
+    "Empiricism must be tested.",
+    "Empiricism grounds evidence."
+   ]
+  },
+  {
+   "id": "pack3-card-544",
+   "mode": "vocab",
+   "word": "Philosophy",
+   "pron": "",
+   "def": "The study of fundamental questions.\nहिंदी: दर्शनशास्त्र",
+   "examples": [
+    "Philosophy asks deep questions.",
+    "Philosophy sharpens thought.",
+    "Philosophy must be accessible.",
+    "Philosophy shapes ethics."
+   ]
+  },
+  {
+   "id": "pack3-card-545",
+   "mode": "vocab",
+   "word": "Ethics Education",
+   "pron": "",
+   "def": "Teaching moral reasoning.\nहिंदी: नैतिक शिक्षा",
+   "examples": [
+    "Ethics Education builds character.",
+    "Ethics Education must be integrated.",
+    "Ethics Education reduces corruption.",
+    "Ethics Education guides choices."
+   ]
+  },
+  {
+   "id": "pack3-card-546",
+   "mode": "vocab",
+   "word": "Civic Education",
+   "pron": "",
+   "def": "Teaching citizens their rights and duties.\nहिंदी: नागरिक शिक्षा",
+   "examples": [
+    "Civic Education strengthens democracy.",
+    "Civic Education must be taught.",
+    "Civic Education builds participation.",
+    "Civic Education promotes responsibility."
+   ]
+  },
+  {
+   "id": "pack3-card-547",
+   "mode": "vocab",
+   "word": "Information Literacy",
+   "pron": "",
+   "def": "The ability to identify, locate, critically evaluate, and effectively utilize information.\nहिंदी: सूचना साक्षरता",
+   "examples": [
+    "Information literacy is indispensable for navigating the deluge of digital internet content.",
+    "University courses teach information literacy to help students distinguish peer-reviewed scholarship.",
+    "Without solid information literacy, users easily fall prey to sensationalized online hoaxes.",
+    "Librarians play a leading role in conducting information literacy workshops for the public."
+   ]
+  },
+  {
+   "id": "pack3-card-548",
+   "mode": "vocab",
+   "word": "Knowledge Economy",
+   "pron": "",
+   "def": "An economy based on knowledge and innovation.\nहिंदी: ज्ञान अर्थव्यवस्था",
+   "examples": [
+    "Knowledge Economy rewards skills.",
+    "Knowledge Economy must be built.",
+    "Knowledge Economy drives growth.",
+    "Knowledge Economy needs education."
+   ]
+  },
+  {
+   "id": "pack3-card-549",
+   "mode": "vocab",
+   "word": "Brain Drain",
+   "pron": "",
+   "def": "Emigration of skilled workers.\nहिंदी: प्रतिभा पलायन",
+   "examples": [
+    "Brain Drain weakens nations.",
+    "Brain Drain must be reversed.",
+    "Brain Drain results from opportunity gaps.",
+    "Brain Drain costs economies."
+   ]
+  },
+  {
+   "id": "pack3-card-550",
+   "mode": "vocab",
+   "word": "Erudition",
+   "pron": "",
+   "def": "Extensive learning and profound scholarly knowledge acquired through diligent study.\nहिंदी: प्रकांड विद्वत्ता",
+   "examples": [
+    "The professor's impressive erudition was evident in his thorough analysis of ancient texts.",
+    "Audiences were captivated by the author's rare blend of humility and deep erudition.",
+    "His written treatises reflect decades of dedicated scholarship and philosophical erudition.",
+    "Genuine erudition illuminates complex historical dilemmas with clarity and balance."
+   ]
+  }
+ ]
+}

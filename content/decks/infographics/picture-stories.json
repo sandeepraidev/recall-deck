@@ -1,0 +1,36 @@
+{
+ "id": "pack5-deck-3",
+ "categoryId": "pack5-cat-1",
+ "title": "Picture stories",
+ "sub": "Short stories told in numbered panels.",
+ "cards": [
+  {
+   "id": "pack5-card-5",
+   "mode": "infographic",
+   "layout": "story",
+   "title": "The Tortoise and the Hare",
+   "items": [
+    {
+     "emoji": "🐇",
+     "heading": "A boastful hare",
+     "body": "The hare laughs at the slow tortoise and challenges it to a race."
+    },
+    {
+     "emoji": "🏃",
+     "heading": "Racing ahead",
+     "body": "The hare sprints far in front and decides to nap under a tree."
+    },
+    {
+     "emoji": "🐢",
+     "heading": "Slow and steady",
+     "body": "The tortoise keeps walking and never stops."
+    },
+    {
+     "emoji": "🏆",
+     "heading": "The winner",
+     "body": "The tortoise crosses the line first. Steady effort beats overconfidence."
+    }
+   ]
+  }
+ ]
+}

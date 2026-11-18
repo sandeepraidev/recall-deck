@@ -1,0 +1,461 @@
+{
+  "name": "Phrasal Verbs and Proverbs for Spoken English",
+  "templateId": "word-examples",
+  "color": "emerald",
+  "textAlign": "left",
+  "cards": [
+    {
+      "id": "1",
+      "word": "bring up",
+      "meaning": "To mention or introduce a topic in conversation",
+      "examples": "I didn't want to bring up the bug in the sprint review.\nShe brought up a great point about code reusability.\nCan we bring up the deployment issue in tomorrow's standup?\nHe brought up the idea of switching to a microservices architecture.\nSomeone finally brought up the question of team bandwidth."
+    },
+    {
+      "id": "2",
+      "word": "carry on",
+      "meaning": "To continue doing something despite difficulties",
+      "examples": "Even with the server down, we carried on testing locally.\nLet's carry on with the meeting — the manager will join late.\nShe carried on working even after the deadline was pushed back.\nWe need to carry on refactoring despite the pressure to ship.\nCarry on with what you were doing; I'll handle this issue."
+    },
+    {
+      "id": "3",
+      "word": "catch up",
+      "meaning": "To reach the same level as others; to update with someone",
+      "examples": "I missed the design review — can you catch me up?\nLet's catch up over coffee and talk about the project status.\nI need to catch up on the tickets I missed during leave.\nShe caught up with the new tech stack over the weekend.\nCan we catch up after the standup to discuss the blockers?"
+    },
+    {
+      "id": "4",
+      "word": "check in",
+      "meaning": "To briefly report on status or confirm with someone",
+      "examples": "I'll check in with the QA team to see where things stand.\nCan you check in by EOD and let me know the progress?\nWe check in every morning to share what we're working on.\nI just wanted to check in and see if you need any help.\nShe checked in with the client before pushing the final release."
+    },
+    {
+      "id": "5",
+      "word": "come across",
+      "meaning": "To find or encounter something unexpectedly",
+      "examples": "I came across a really useful Stack Overflow answer for this bug.\nYou came across as very confident in the technical interview.\nShe came across an interesting article on AI ethics.\nWe came across a performance bottleneck during load testing.\nHe came across poorly in the meeting because he wasn't prepared."
+    },
+    {
+      "id": "6",
+      "word": "come up with",
+      "meaning": "To think of or create an idea or solution",
+      "examples": "We need to come up with a better caching strategy.\nShe came up with a clever workaround for the legacy API.\nCan you come up with a rough estimate for this feature?\nThe team came up with three options for the system architecture.\nI couldn't come up with a good name for the variable."
+    },
+    {
+      "id": "7",
+      "word": "cut down on",
+      "meaning": "To reduce the amount of something",
+      "examples": "We need to cut down on the number of unnecessary API calls.\nI'm trying to cut down on meetings by using async updates.\nThe new linter helps us cut down on code style issues.\nLet's cut down on technical debt before adding new features.\nThe team cut down on bugs by writing more unit tests."
+    },
+    {
+      "id": "8",
+      "word": "deal with",
+      "meaning": "To handle, manage, or take care of a problem or situation",
+      "examples": "I'll deal with the production issue right away.\nShe dealt with the angry client very professionally.\nWe need to deal with the security vulnerability before shipping.\nHow do you deal with conflicting priorities in your day?\nHe dealt with three critical bugs before lunch."
+    },
+    {
+      "id": "9",
+      "word": "fall behind",
+      "meaning": "To fail to keep up with a schedule or standard",
+      "examples": "We're falling behind on the sprint because of unplanned work.\nI fell behind on code reviews this week due to on-call duties.\nDon't fall behind on documentation — it compounds quickly.\nThe project fell behind after two team members went on leave.\nIf we fall behind now, it'll be hard to catch up before the release."
+    },
+    {
+      "id": "10",
+      "word": "figure out",
+      "meaning": "To understand, solve, or find the answer to something",
+      "examples": "I finally figured out why the tests were failing intermittently.\nCan you figure out the root cause before our next sync?\nShe figured out the algorithm in under 30 minutes.\nWe need to figure out the data flow before writing any code.\nI'm still trying to figure out how the caching layer works."
+    },
+    {
+      "id": "11",
+      "word": "follow up",
+      "meaning": "To take further action after an initial step; to check on progress",
+      "examples": "I'll follow up with the design team about the UI changes.\nDid you follow up on the access request you sent last week?\nPlease follow up if you don't hear back by tomorrow.\nShe followed up after the interview and got the job.\nLet's follow up on the action items from yesterday's meeting."
+    },
+    {
+      "id": "12",
+      "word": "get across",
+      "meaning": "To communicate an idea clearly and successfully",
+      "examples": "I struggled to get my point across during the architecture discussion.\nShe got her concerns across without being confrontational.\nUse diagrams to get complex ideas across more easily.\nHe couldn't get his explanation across, so he wrote it down.\nA good presenter can get technical concepts across to non-engineers."
+    },
+    {
+      "id": "13",
+      "word": "give up",
+      "meaning": "To stop trying; to abandon an effort",
+      "examples": "Don't give up on the fix — the solution is probably one line away.\nShe gave up trying to debug the third-party library.\nWe gave up on that approach after the proof of concept failed.\nNever give up on writing clean code even under pressure.\nHe almost gave up on the project, but then had a breakthrough."
+    },
+    {
+      "id": "14",
+      "word": "go over",
+      "meaning": "To review, check, or explain something in detail",
+      "examples": "Can we go over the pull request together before merging?\nLet's go over the requirements one more time to avoid misunderstanding.\nShe went over the technical documentation before the interview.\nI'll go over the code changes with you in the afternoon.\nCould you go over the deployment steps with the new engineer?"
+    },
+    {
+      "id": "15",
+      "word": "hold off",
+      "meaning": "To delay or postpone an action",
+      "examples": "Let's hold off on the release until the critical bug is fixed.\nI held off on responding to the email until I had more information.\nCan we hold off on refactoring until after the launch?\nShe held off on making a decision until she heard from the team.\nHold off on pushing that commit — the tests haven't passed yet."
+    },
+    {
+      "id": "16",
+      "word": "keep up with",
+      "meaning": "To stay at the same pace; to remain informed about something",
+      "examples": "It's hard to keep up with the latest JavaScript frameworks.\nShe keeps up with all the sprint tickets by using a Kanban board.\nHow do you keep up with new developments in machine learning?\nI follow a few newsletters to keep up with industry trends.\nHe struggled to keep up with the fast pace of the startup."
+    },
+    {
+      "id": "17",
+      "word": "lay out",
+      "meaning": "To explain something clearly; to present or arrange details",
+      "examples": "Can you lay out the pros and cons of each approach?\nShe laid out the entire architecture before writing a single line.\nLet me lay out the plan for the next two sprints.\nHe laid out the steps clearly so the junior engineer could follow.\nPlease lay out your assumptions before presenting the estimate."
+    },
+    {
+      "id": "18",
+      "word": "look into",
+      "meaning": "To investigate or research a problem",
+      "examples": "I'll look into why the API is returning a 500 error.\nCan you look into the performance issues in the reporting module?\nShe looked into the new cloud pricing before switching providers.\nWe need to look into this customer complaint as soon as possible.\nHe looked into alternative database solutions over the weekend."
+    },
+    {
+      "id": "19",
+      "word": "move on",
+      "meaning": "To progress past a topic or difficulty; to start the next thing",
+      "examples": "Let's move on to the next agenda item.\nI think we've discussed this enough — time to move on.\nShe moved on from the rejected proposal and tried a different approach.\nAfter the failed project, the team moved on with renewed focus.\nLet's move on to the testing phase once code review is done."
+    },
+    {
+      "id": "20",
+      "word": "narrow down",
+      "meaning": "To reduce a list of options to a smaller set",
+      "examples": "We need to narrow down the candidates to three before the final round.\nLet's narrow down the root causes to make debugging faster.\nShe narrowed down the design options to two after user testing.\nCan you narrow down the scope of this ticket before the sprint?\nWe narrowed down the tech stack choices to React and Vue."
+    },
+    {
+      "id": "21",
+      "word": "pick up",
+      "meaning": "To learn casually without formal training; to collect or acquire",
+      "examples": "I picked up TypeScript by working on a side project.\nShe picked up a lot of soft skills during her first year at work.\nCan you pick up the slack while I'm on leave?\nHe picked up the basics of Docker in just a few days.\nI need to pick up the printed reports before the presentation."
+    },
+    {
+      "id": "22",
+      "word": "point out",
+      "meaning": "To draw attention to something; to indicate or highlight",
+      "examples": "She pointed out a critical edge case in the code review.\nI want to point out that this issue was raised two sprints ago.\nHe pointed out the inconsistency in the API documentation.\nThe linter pointed out 12 unused variables in the codebase.\nCan you point out where in the code this error is thrown?"
+    },
+    {
+      "id": "23",
+      "word": "pull off",
+      "meaning": "To succeed at something challenging or unlikely",
+      "examples": "They pulled off the migration with zero downtime.\nShe pulled off a flawless product demo despite the last-minute changes.\nI can't believe we pulled off that feature in just one sprint.\nHe pulled off a perfect score in the system design interview.\nThe team pulled off the launch against all odds."
+    },
+    {
+      "id": "24",
+      "word": "put off",
+      "meaning": "To postpone; to cause someone to lose interest or enthusiasm",
+      "examples": "Don't put off writing tests — it creates technical debt.\nShe put off the difficult conversation for too long.\nI keep putting off learning Kubernetes because it seems complex.\nHe was put off by the aggressive tone in the code review.\nLet's not put off this discussion — it's blocking the whole team."
+    },
+    {
+      "id": "25",
+      "word": "reach out",
+      "meaning": "To contact someone, especially to ask for help or offer support",
+      "examples": "Feel free to reach out if you get stuck on the implementation.\nShe reached out to the vendor for clarification on the API docs.\nI'll reach out to the stakeholders before making this change.\nPlease reach out to the security team before deploying this update.\nHe reached out to his network and found a job within two weeks."
+    },
+    {
+      "id": "26",
+      "word": "run into",
+      "meaning": "To encounter a problem or person unexpectedly",
+      "examples": "We ran into a compatibility issue after the library upgrade.\nI ran into my old colleague at the tech conference.\nShe ran into some trouble setting up the local development environment.\nWe keep running into the same issue with memory leaks.\nHe ran into a wall trying to integrate the two systems."
+    },
+    {
+      "id": "27",
+      "word": "run out of",
+      "meaning": "To have no more of something left",
+      "examples": "We're running out of time before the demo — focus on the core feature.\nThe team ran out of sprint capacity midway through the cycle.\nI ran out of ideas for optimizing this query.\nWe ran out of storage space on the server.\nShe ran out of patience waiting for the deployment to finish."
+    },
+    {
+      "id": "28",
+      "word": "set aside",
+      "meaning": "To reserve time, money, or resources for a specific purpose",
+      "examples": "Set aside at least 20% of the sprint for technical debt.\nShe sets aside one hour each day for learning new skills.\nWe need to set aside a budget for the cloud migration.\nI set aside time every Friday to write documentation.\nLet's set aside this discussion and come back to it later."
+    },
+    {
+      "id": "29",
+      "word": "set up",
+      "meaning": "To establish, configure, or arrange something",
+      "examples": "I'll set up the CI/CD pipeline by end of day.\nCan you set up a meeting with the product team for tomorrow?\nShe set up the new developer's environment in under an hour.\nWe need to set up monitoring before we go live.\nHe set up automated alerts for any spike in error rates."
+    },
+    {
+      "id": "30",
+      "word": "show up",
+      "meaning": "To arrive or appear, especially unexpectedly or noticeably",
+      "examples": "The bug only shows up in production, not locally.\nShe always shows up prepared with data to support her arguments.\nPlease show up on time for the client presentation.\nThe memory leak shows up after running the app for 24 hours.\nHe showed up to the retrospective with a detailed action plan."
+    },
+    {
+      "id": "31",
+      "word": "sort out",
+      "meaning": "To resolve a problem or organize something that is in disorder",
+      "examples": "Let me sort out the merge conflicts and get back to you.\nCan you sort out the sprint board before the planning session?\nShe sorted out the billing issue with the cloud provider.\nWe need to sort out the team responsibilities before the project starts.\nI'll sort out the access permissions for the new joiners today."
+    },
+    {
+      "id": "32",
+      "word": "stand out",
+      "meaning": "To be noticeably different or better than others",
+      "examples": "Your clean code and clear comments really stood out during the review.\nShe stood out in the interview because she asked excellent questions.\nThis feature will make our product stand out from competitors.\nHis communication skills stood out as much as his technical ability.\nWhat makes you stand out as a candidate for this role?"
+    },
+    {
+      "id": "33",
+      "word": "take on",
+      "meaning": "To accept a task, responsibility, or challenge",
+      "examples": "I'm happy to take on the role of release manager this sprint.\nShe took on the most complex module in the project without hesitation.\nAre you comfortable taking on this task given your current workload?\nHe took on the mentorship of two junior engineers.\nWe shouldn't take on new features until the backlog is cleared."
+    },
+    {
+      "id": "34",
+      "word": "take over",
+      "meaning": "To assume control or responsibility from someone else",
+      "examples": "Can you take over the on-call shift for me on Friday?\nShe took over the project after the original lead resigned.\nAI is slowly taking over repetitive tasks in the software industry.\nHe took over the meeting when the facilitator lost connection.\nPlease take over this ticket — I'll be tied up in interviews today."
+    },
+    {
+      "id": "35",
+      "word": "touch base",
+      "meaning": "To briefly make contact with someone to share updates or check in",
+      "examples": "Let's touch base after the standup to go over the design.\nI'll touch base with the client once we have a preliminary answer.\nShe touched base with every team member before the quarterly review.\nCan we touch base tomorrow morning before the sprint planning?\nHe touched base with the security team about the new feature."
+    },
+    {
+      "id": "36",
+      "word": "track down",
+      "meaning": "To find something or someone after a search",
+      "examples": "I spent two hours trying to track down the source of the memory leak.\nShe tracked down the original author of the legacy code.\nCan you track down the ticket where this decision was documented?\nHe tracked down the missing requirement by reviewing old meeting notes.\nI finally tracked down the issue to a timezone conversion bug."
+    },
+    {
+      "id": "37",
+      "word": "turn around",
+      "meaning": "To reverse a negative situation; to complete quickly",
+      "examples": "The new team lead turned the struggling project around in two sprints.\nCan you turn around a quick fix for this by end of day?\nShe turned around the client relationship with one honest conversation.\nWe turned the product around by focusing on user feedback.\nHe turned around a full report in just three hours."
+    },
+    {
+      "id": "38",
+      "word": "walk through",
+      "meaning": "To explain something step by step in detail",
+      "examples": "Can you walk me through the codebase before I start?\nShe walked the new joiner through the deployment process.\nLet's walk through the user journey together to find the gap.\nHe walked us through his technical design in the architecture review.\nPlease walk me through how you arrived at this solution."
+    },
+    {
+      "id": "39",
+      "word": "work out",
+      "meaning": "To solve a problem; to result in a good outcome; to exercise",
+      "examples": "I'm sure we can work out a solution that satisfies everyone.\nIt took three attempts, but we worked out the optimal algorithm.\nThings worked out well after the last-minute refactor.\nShe works out before her shift to stay focused throughout the day.\nI need to work out the edge cases before submitting the PR."
+    },
+    {
+      "id": "40",
+      "word": "wrap up",
+      "meaning": "To finish or conclude something; to summarize",
+      "examples": "Let's wrap up the meeting — we're five minutes over.\nI'll wrap up the remaining tasks before logging off.\nShe wrapped up the project documentation before her last day.\nWe're almost done — just need to wrap up the final testing.\nCan you wrap up with a quick summary of the key decisions?"
+    },
+    {
+      "id": "41",
+      "word": "back up",
+      "meaning": "To support a claim or person; to create a copy of data",
+      "examples": "Always back up your database before running a migration.\nCan you back up your estimate with some data?\nShe backed up the team's decision in front of the stakeholders.\nMake sure to back up the config files before the system update.\nHe backed up his colleague when the manager questioned the approach."
+    },
+    {
+      "id": "42",
+      "word": "break down",
+      "meaning": "To stop working; to analyze or divide into smaller parts",
+      "examples": "Let's break down this large ticket into smaller subtasks.\nThe legacy system finally broke down after years of neglect.\nShe broke down the complex algorithm into simple steps.\nCan you break down the cost estimate by phase?\nWhen things break down in production, stay calm and check the logs."
+    },
+    {
+      "id": "43",
+      "word": "burn out",
+      "meaning": "To become exhausted from overwork and stress",
+      "examples": "Many engineers burn out when they work long hours without rest.\nShe burned out after three months of on-call duties every week.\nTake breaks to avoid burning out during intense project phases.\nHe burned out and took two weeks off to recover.\nManagers should watch for signs of burnout in their team."
+    },
+    {
+      "id": "44",
+      "word": "get around to",
+      "meaning": "To finally find time to do something you've been postponing",
+      "examples": "I'll get around to reviewing your PR after this meeting.\nI never got around to learning Docker Swarm before Kubernetes took over.\nShe finally got around to refactoring the authentication module.\nWhen will you get around to finishing the documentation?\nI keep meaning to get around to setting up my dev environment properly."
+    },
+    {
+      "id": "45",
+      "word": "iron out",
+      "meaning": "To resolve small problems or smooth out difficulties",
+      "examples": "We still need to iron out the edge cases in the payment flow.\nLet's iron out the disagreement before the next sprint.\nShe ironed out the communication gaps between the frontend and backend teams.\nWe ironed out the last few bugs before the release.\nCan we iron out the ambiguous requirements before estimation?"
+    },
+    {
+      "id": "46",
+      "word": "look up to",
+      "meaning": "To admire and respect someone as a role model",
+      "examples": "I look up to engineers who write clean, well-documented code.\nShe looks up to her mentor who taught her how to handle tough conversations.\nJunior developers look up to seniors who take time to explain things.\nHe looks up to open-source contributors who give back to the community.\nI look up to people who can stay calm under pressure."
+    },
+    {
+      "id": "47",
+      "word": "miss out on",
+      "meaning": "To fail to experience or benefit from something",
+      "examples": "Don't miss out on the knowledge transfer session — it's really useful.\nShe missed out on the promotion because she didn't speak up.\nYou'll miss out on a lot if you skip the code review process.\nHe missed out on early ownership because he joined the team late.\nDon't miss out on networking opportunities at tech conferences."
+    },
+    {
+      "id": "48",
+      "word": "open up",
+      "meaning": "To share thoughts or feelings; to become available or possible",
+      "examples": "It's important to open up about blockers early in the sprint.\nShe opened up about her concerns during the one-on-one meeting.\nThis technology opens up new possibilities for real-time collaboration.\nHe was hesitant to open up at first, but gradually became more vocal.\nOpening up honest communication channels makes teams stronger."
+    },
+    {
+      "id": "49",
+      "word": "step up",
+      "meaning": "To increase effort; to take on more responsibility",
+      "examples": "She stepped up and led the project when the team lead was absent.\nWe need someone to step up and own the deployment process.\nHe stepped up his contributions after the quarterly review feedback.\nIt's time to step up and tackle the most challenging problems.\nThe team stepped up under pressure and delivered on time."
+    },
+    {
+      "id": "50",
+      "word": "zoom in",
+      "meaning": "To focus closely on a specific detail or issue",
+      "examples": "Let's zoom in on the bottleneck in the data pipeline.\nShe zoomed in on user feedback to identify the core pain point.\nZoom in on this part of the diagram — that's where the issue is.\nWe need to zoom in on what's causing the latency spike.\nHe zoomed in on the failing test case to understand the root cause."
+    },
+    {
+      "id": "51",
+      "word": "Actions speak louder than words",
+      "meaning": "What you do is more important than what you say",
+      "examples": "He promised to improve his delivery, but actions speak louder than words — let's see it in the next sprint.\nIn IELTS speaking: 'Actions speak louder than words — real change requires effort, not just promises.'\nDon't just say you're a team player; actions speak louder than words.\nGovernments that claim to protect the environment must remember: actions speak louder than words.\nShe didn't make promises in the interview — she showed her portfolio, because actions speak louder than words."
+    },
+    {
+      "id": "52",
+      "word": "A stitch in time saves nine",
+      "meaning": "Fixing a small problem early prevents it from becoming a bigger one",
+      "examples": "A stitch in time saves nine — fix that memory leak before it crashes production.\nIf we write tests now, we avoid major regressions later; a stitch in time saves nine.\nIn IELTS writing: 'As the saying goes, a stitch in time saves nine, and preventive healthcare is far cheaper than treatment.'\nAddress the technical debt this sprint — a stitch in time saves nine.\nShe caught the security flaw early; a stitch in time truly saves nine."
+    },
+    {
+      "id": "53",
+      "word": "Practice makes perfect",
+      "meaning": "Repeated effort and practice leads to improvement and mastery",
+      "examples": "I keep doing mock interviews because practice makes perfect.\nIn IELTS speaking: 'Practice makes perfect, and language fluency is no exception.'\nShe improved her public speaking because she believed practice makes perfect.\nPractice makes perfect — write code every day, even if it's small.\nHe repeated the algorithm problems until they felt natural; practice truly makes perfect."
+    },
+    {
+      "id": "54",
+      "word": "Don't judge a book by its cover",
+      "meaning": "Don't form an opinion based on appearance alone",
+      "examples": "Don't judge a book by its cover — that junior engineer wrote the most elegant solution.\nIn IELTS: 'Society would benefit greatly if we stopped judging books by their covers.'\nThe old-looking codebase was actually brilliant inside — don't judge a book by its cover.\nShe seemed quiet in meetings, but don't judge a book by its cover — her work was outstanding.\nDon't judge a book by its cover when hiring; focus on skills, not background."
+    },
+    {
+      "id": "55",
+      "word": "The early bird catches the worm",
+      "meaning": "Starting early gives you an advantage",
+      "examples": "The early bird catches the worm — apply for that role before it closes.\nShe finished her IELTS prep early because the early bird catches the worm.\nIn writing: 'Entrepreneurs who act early thrive — the early bird always catches the worm.'\nStart the sprint planning the day before — the early bird catches the worm.\nHe invested in cloud skills early in his career because the early bird catches the worm."
+    },
+    {
+      "id": "56",
+      "word": "Every cloud has a silver lining",
+      "meaning": "Every difficult situation has a positive aspect",
+      "examples": "The project was cancelled, but every cloud has a silver lining — we learned a lot.\nIn IELTS speaking: 'Even during the pandemic, every cloud had a silver lining for remote work culture.'\nThe failed deployment taught us to automate rollbacks — every cloud has a silver lining.\nShe didn't get the promotion, but it pushed her to upskill; every cloud has a silver lining.\nEvery cloud has a silver lining — the criticism helped me write better code."
+    },
+    {
+      "id": "57",
+      "word": "Two heads are better than one",
+      "meaning": "Collaboration and working together produces better results",
+      "examples": "Let's pair program on this — two heads are better than one.\nIn IELTS: 'Team projects encourage collaboration because two heads are better than one.'\nShe asked a colleague to review her design because two heads are better than one.\nWe brainstormed together and found a smarter solution; two heads are better than one.\nIn code reviews, two heads are better than one — bugs get caught faster."
+    },
+    {
+      "id": "58",
+      "word": "Better late than never",
+      "meaning": "It is better to do something late than not to do it at all",
+      "examples": "I finally wrote the unit tests — better late than never.\nIn IELTS: 'Starting to exercise in middle age is better late than never.'\nHe finally documented the API; better late than never.\nShe joined the team two weeks late, but better late than never — she made a big impact.\nBetter late than never — I finally got around to learning Git properly."
+    },
+    {
+      "id": "59",
+      "word": "Don't put all your eggs in one basket",
+      "meaning": "Avoid depending on a single option or plan",
+      "examples": "Don't put all your eggs in one basket — back up to multiple storage regions.\nIn IELTS: 'Investing in a diverse skill set means you don't put all your eggs in one basket.'\nApply to multiple companies; don't put all your eggs in one basket.\nShe had a backup plan ready because she never puts all her eggs in one basket.\nDiversify your tech stack — don't put all your eggs in one basket."
+    },
+    {
+      "id": "60",
+      "word": "Rome wasn't built in a day",
+      "meaning": "Important things take time and effort to build",
+      "examples": "Be patient with your IELTS preparation — Rome wasn't built in a day.\nIn IELTS writing: 'Sustainable development is a long process; Rome was not built in a day.'\nOur platform took three years to mature — Rome wasn't built in a day.\nShe didn't become a senior engineer overnight; Rome wasn't built in a day.\nDon't rush the architecture — Rome wasn't built in a day, and neither is a good system."
+    },
+    {
+      "id": "61",
+      "word": "Where there's a will, there's a way",
+      "meaning": "If you are determined, you can find a way to achieve your goal",
+      "examples": "I didn't know Kubernetes, but where there's a will, there's a way — I learned it in a month.\nIn IELTS: 'Where there's a will, there's a way — motivated students overcome resource limitations.'\nThe team had no prior experience in blockchain, but where there's a will, there's a way.\nShe passed the interview despite limited preparation — where there's a will, there's a way.\nWhere there's a will, there's a way; we shipped the feature despite the tight deadline."
+    },
+    {
+      "id": "62",
+      "word": "You reap what you sow",
+      "meaning": "The results you get in life reflect the effort or actions you put in",
+      "examples": "In IELTS: 'You reap what you sow — consistent effort in education leads to long-term success.'\nHe invested in his team and they delivered brilliantly — you truly reap what you sow.\nYou reap what you sow: skip testing today and you'll debug crashes tomorrow.\nShe worked hard for years, and the recognition came — you reap what you sow.\nYou reap what you sow in relationships; treat colleagues well and you'll build a strong network."
+    },
+    {
+      "id": "63",
+      "word": "Knowledge is power",
+      "meaning": "Having information and education gives you an advantage",
+      "examples": "In IELTS: 'Knowledge is power, and access to quality education is essential for equality.'\nKnowledge is power — the more you understand the codebase, the faster you can debug.\nShe reads widely because she believes knowledge is power.\nIn the information age, knowledge is power — digital literacy is a critical skill.\nKnowledge is power; the more you understand about the system, the more influence you have."
+    },
+    {
+      "id": "64",
+      "word": "Don't burn your bridges",
+      "meaning": "Avoid damaging important relationships that may be useful in the future",
+      "examples": "Even if you're leaving the company, don't burn your bridges — the tech world is small.\nIn IELTS: 'Professional relationships matter; it's wise to never burn your bridges.'\nShe left her previous job gracefully because she knew not to burn her bridges.\nHe gave honest but respectful feedback so as not to burn his bridges.\nDon't burn your bridges over a disagreement — you may work with them again."
+    },
+    {
+      "id": "65",
+      "word": "Strike while the iron is hot",
+      "meaning": "Take advantage of an opportunity before it passes",
+      "examples": "The client is interested right now — let's strike while the iron is hot and close the deal.\nIn IELTS: 'Entrepreneurs should strike while the iron is hot when new markets emerge.'\nApply for the job now — strike while the iron is hot before it's filled.\nShe got an introduction to the CTO and followed up immediately — she knew to strike while the iron is hot.\nStrike while the iron is hot and deploy the fix while the system is in maintenance mode."
+    },
+    {
+      "id": "66",
+      "word": "The pen is mightier than the sword",
+      "meaning": "Written words and ideas have more power than physical force",
+      "examples": "In IELTS: 'The pen is mightier than the sword — journalism has toppled more regimes than armies.'\nThe pen is mightier than the sword; a well-written email can resolve what a heated meeting cannot.\nShe chose to write a detailed report rather than argue — the pen is mightier than the sword.\nIn software, good documentation is power — the pen is mightier than the sword.\nHistory shows the pen is mightier than the sword — ideas outlast empires."
+    },
+    {
+      "id": "67",
+      "word": "All that glitters is not gold",
+      "meaning": "Not everything that looks good or attractive is valuable",
+      "examples": "In IELTS: 'All that glitters is not gold — social media success doesn't reflect true happiness.'\nThat new framework looks great, but all that glitters is not gold — check the community support.\nHe learned that all that glitters is not gold after taking a high-salary job with a toxic culture.\nThe startup had great branding, but all that glitters is not gold — their product had serious flaws.\nIn interviews, all that glitters is not gold; evaluate the culture, not just the salary."
+    },
+    {
+      "id": "68",
+      "word": "Too many cooks spoil the broth",
+      "meaning": "Having too many people involved in something can make it worse",
+      "examples": "In IELTS: 'Committee decisions can be slow and ineffective — too many cooks spoil the broth.'\nWe had seven people in the design meeting and nothing got decided — too many cooks spoil the broth.\nAssign clear ownership to tasks; too many cooks spoil the broth in complex projects.\nShe limited the code reviewers to two — too many cooks spoil the broth.\nToo many cooks spoil the broth: keep your core decision-making team small."
+    },
+    {
+      "id": "69",
+      "word": "Necessity is the mother of invention",
+      "meaning": "When people truly need something, they will find a way to create it",
+      "examples": "In IELTS: 'Necessity is the mother of invention — most breakthrough technologies emerged from critical problems.'\nWe had no budget for a third-party tool, so we built our own — necessity is the mother of invention.\nThe pandemic forced schools to innovate online; necessity truly is the mother of invention.\nShe built the monitoring dashboard herself out of need — necessity is the mother of invention.\nGreat startups solve real problems because necessity is the mother of invention."
+    },
+    {
+      "id": "70",
+      "word": "Don't count your chickens before they hatch",
+      "meaning": "Don't assume success before it is certain",
+      "examples": "Don't count your chickens before they hatch — wait for the client's written confirmation.\nIn IELTS: 'Investors should not count their chickens before they hatch when entering volatile markets.'\nThe deployment looked smooth, but don't count your chickens before they hatch until monitoring confirms it.\nShe was celebrating too early — she shouldn't count her chickens before they hatch.\nDon't count your chickens before they hatch; always have a contingency plan."
+    },
+    {
+      "id": "71",
+      "word": "It takes two to tango",
+      "meaning": "Some situations or problems require the cooperation of two parties",
+      "examples": "In IELTS: 'Conflict resolution requires effort from both sides — it takes two to tango.'\nIt takes two to tango — both the frontend and backend need to agree on the API contract.\nDon't blame only one side; it takes two to tango.\nSuccessful stakeholder alignment takes two to tango — the team and the client both need to compromise.\nShe reminded her colleague that it takes two to tango when discussing communication failures."
+    },
+    {
+      "id": "72",
+      "word": "A chain is only as strong as its weakest link",
+      "meaning": "A system or team is only as effective as its least capable part",
+      "examples": "In IELTS: 'A team is only as strong as its weakest link — investing in every member's growth is vital.'\nA chain is only as strong as its weakest link — that's why code quality standards apply to everyone.\nShe made sure even junior team members were well-supported because a chain is only as strong as its weakest link.\nIn security, a chain is only as strong as its weakest link — one vulnerability can compromise everything.\nSupport the struggling team member; a chain is only as strong as its weakest link."
+    },
+    {
+      "id": "73",
+      "word": "The squeaky wheel gets the grease",
+      "meaning": "The person or thing that makes the most noise gets attention",
+      "examples": "In IELTS: 'In democracies, the squeaky wheel gets the grease — vocal communities get better services.'\nIn open-source, the squeaky wheel gets the grease — file that bug report and follow up.\nShe raised the issue repeatedly because the squeaky wheel gets the grease.\nHe learned that in corporate environments, the squeaky wheel gets the grease — speak up for your team.\nIf your ticket isn't moving, comment on it — the squeaky wheel gets the grease."
+    },
+    {
+      "id": "74",
+      "word": "Look before you leap",
+      "meaning": "Think carefully before taking action to avoid making mistakes",
+      "examples": "In IELTS: 'Look before you leap — major life decisions should be made after careful thought.'\nLook before you leap when switching to a new technology without testing it thoroughly.\nShe researched the company thoroughly because she believes in looking before you leap.\nDon't merge that PR without reading it — look before you leap.\nLook before you leap: a hasty refactor can break more than it fixes."
+    },
+    {
+      "id": "75",
+      "word": "The best time to plant a tree was 20 years ago; the second best time is now",
+      "meaning": "It's never too late to start something important — act now",
+      "examples": "In IELTS: 'The best time to plant a tree was 20 years ago; the second best time is now — start investing in education today.'\nI wish I'd started learning English earlier, but the best time to plant a tree was 20 years ago — the second best is now.\nStart writing tests today; the best time was when the project began, but the second best time is now.\nShe started her fitness journey at 35 — the best time to plant a tree was 20 years ago; the second best is now.\nBegin your IELTS preparation today; the second best time to start is always now."
+    }
+  ],
+  "id": "pv-prov-2026-11-17",
+  "createdAt": "2026-11-17T00:00:00.000Z",
+  "updatedAt": "2026-11-17T00:00:00.000Z"
+}

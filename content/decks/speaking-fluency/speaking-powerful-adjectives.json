@@ -1,0 +1,1230 @@
+{
+ "id": "pack2-deck-7",
+ "categoryId": "pack2-cat-2",
+ "title": "Speaking: Powerful Adjectives",
+ "sub": "Precise describing words for people, ideas, and situations.",
+ "cards": [
+  {
+   "id": "pack2-card-554",
+   "mode": "vocab",
+   "word": "Ambitious",
+   "pron": "(adjective)",
+   "def": "Having a strong desire to succeed.\nहिंदी: महत्वाकांक्षी",
+   "examples": [
+    "Present: She is ambitious and works hard.",
+    "Past: He was ambitious from childhood.",
+    "Future: An ambitious student will aim high.",
+    "Perfect: She has always been ambitious."
+   ]
+  },
+  {
+   "id": "pack2-card-555",
+   "mode": "vocab",
+   "word": "Diligent",
+   "pron": "(adjective)",
+   "def": "Showing steady, careful effort.\nहिंदी: परिश्रमी",
+   "examples": [
+    "Present: A diligent student revises daily.",
+    "Past: He was diligent in his work.",
+    "Future: She will remain diligent.",
+    "Perfect: They have been diligent all term."
+   ]
+  },
+  {
+   "id": "pack2-card-556",
+   "mode": "vocab",
+   "word": "Humble",
+   "pron": "(adjective)",
+   "def": "Not proud; modest.\nहिंदी: विनम्र",
+   "examples": [
+    "Present: A humble person listens.",
+    "Past: He remained humble after winning.",
+    "Future: She will stay humble.",
+    "Perfect: He has always been humble."
+   ]
+  },
+  {
+   "id": "pack2-card-557",
+   "mode": "vocab",
+   "word": "Generous",
+   "pron": "(adjective)",
+   "def": "Willing to give freely.\nहिंदी: उदार",
+   "examples": [
+    "Present: A generous host shares food.",
+    "Past: He was generous with his time.",
+    "Future: She will be generous with praise.",
+    "Perfect: They have been generous donors."
+   ]
+  },
+  {
+   "id": "pack2-card-558",
+   "mode": "vocab",
+   "word": "Stubborn",
+   "pron": "(adjective)",
+   "def": "Unwilling to change one's mind.\nहिंदी: ज़िद्दी",
+   "examples": [
+    "Present: A stubborn child refuses advice.",
+    "Past: He was stubborn about the plan.",
+    "Future: She will be stubborn in talks.",
+    "Perfect: He has always been stubborn."
+   ]
+  },
+  {
+   "id": "pack2-card-559",
+   "mode": "vocab",
+   "word": "Reliable",
+   "pron": "(adjective)",
+   "def": "Able to be trusted.\nहिंदी: भरोसेमंद",
+   "examples": [
+    "Present: A reliable friend keeps promises.",
+    "Past: He was reliable in a crisis.",
+    "Future: This car will stay reliable.",
+    "Perfect: She has proven reliable."
+   ]
+  },
+  {
+   "id": "pack2-card-560",
+   "mode": "vocab",
+   "word": "Sincere",
+   "pron": "(adjective)",
+   "def": "Honest and genuine in feeling.\nहिंदी: सच्चा / निष्कपट",
+   "examples": [
+    "Present: A sincere apology matters.",
+    "Past: His thanks were sincere.",
+    "Future: She will be sincere in her speech.",
+    "Perfect: He has been sincere with me."
+   ]
+  },
+  {
+   "id": "pack2-card-561",
+   "mode": "vocab",
+   "word": "Arrogant",
+   "pron": "(adjective)",
+   "def": "Having too much pride in oneself.\nहिंदी: घमंडी",
+   "examples": [
+    "Present: An arrogant person ignores advice.",
+    "Past: He was arrogant after the win.",
+    "Future: Success will make him arrogant.",
+    "Perfect: She has become arrogant."
+   ]
+  },
+  {
+   "id": "pack2-card-562",
+   "mode": "vocab",
+   "word": "Cautious",
+   "pron": "(adjective)",
+   "def": "Careful to avoid danger or mistakes.\nहिंदी: सतर्क",
+   "examples": [
+    "Present: A cautious driver slows down.",
+    "Past: He was cautious with money.",
+    "Future: Investors will be cautious.",
+    "Perfect: She has remained cautious."
+   ]
+  },
+  {
+   "id": "pack2-card-563",
+   "mode": "vocab",
+   "word": "Reckless",
+   "pron": "(adjective)",
+   "def": "Careless of danger.\nहिंदी: लापरवाह",
+   "examples": [
+    "Present: Reckless driving kills.",
+    "Past: He was reckless with money.",
+    "Future: A reckless move will cost him.",
+    "Perfect: She has been reckless lately."
+   ]
+  },
+  {
+   "id": "pack2-card-564",
+   "mode": "vocab",
+   "word": "Eloquent",
+   "pron": "(adjective)",
+   "def": "Fluent and persuasive in speaking.\nहिंदी: वाक्पटु",
+   "examples": [
+    "Present: An eloquent speaker moves crowds.",
+    "Past: Her speech was eloquent.",
+    "Future: He will give an eloquent talk.",
+    "Perfect: She has become eloquent."
+   ]
+  },
+  {
+   "id": "pack2-card-565",
+   "mode": "vocab",
+   "word": "Vivid",
+   "pron": "(adjective)",
+   "def": "Producing strong, clear images in the mind.\nहिंदी: जीवंत / स्पष्ट",
+   "examples": [
+    "Present: A vivid story stays with you.",
+    "Past: She had vivid dreams.",
+    "Future: The film will leave vivid memories.",
+    "Perfect: He has given a vivid account."
+   ]
+  },
+  {
+   "id": "pack2-card-566",
+   "mode": "vocab",
+   "word": "Trivial",
+   "pron": "(adjective)",
+   "def": "Of little importance.\nहिंदी: तुच्छ",
+   "examples": [
+    "Present: A trivial issue shouldn't cause a fight.",
+    "Past: The error was trivial.",
+    "Future: The cost will be trivial.",
+    "Perfect: The matter has become trivial."
+   ]
+  },
+  {
+   "id": "pack2-card-567",
+   "mode": "vocab",
+   "word": "Crucial",
+   "pron": "(adjective)",
+   "def": "Extremely important.\nहिंदी: अत्यंत महत्वपूर्ण",
+   "examples": [
+    "Present: Sleep is crucial for health.",
+    "Past: His advice was crucial.",
+    "Future: This meeting will be crucial.",
+    "Perfect: The data has been crucial."
+   ]
+  },
+  {
+   "id": "pack2-card-568",
+   "mode": "vocab",
+   "word": "Essential",
+   "pron": "(adjective)",
+   "def": "Absolutely necessary.\nहिंदी: आवश्यक",
+   "examples": [
+    "Present: Water is essential for life.",
+    "Past: Her help was essential.",
+    "Future: Training will be essential.",
+    "Perfect: Practice has been essential."
+   ]
+  },
+  {
+   "id": "pack2-card-569",
+   "mode": "vocab",
+   "word": "Inevitable",
+   "pron": "(adjective)",
+   "def": "Certain to happen.\nहिंदी: अपरिहार्य",
+   "examples": [
+    "Present: Change is inevitable.",
+    "Past: Defeat was inevitable.",
+    "Future: Delays will be inevitable.",
+    "Perfect: The outcome has been inevitable."
+   ]
+  },
+  {
+   "id": "pack2-card-570",
+   "mode": "vocab",
+   "word": "Substantial",
+   "pron": "(adjective)",
+   "def": "Large in amount or importance.\nहिंदी: पर्याप्त / काफ़ी",
+   "examples": [
+    "Present: A substantial meal fills you.",
+    "Past: He made a substantial profit.",
+    "Future: The gain will be substantial.",
+    "Perfect: She has made substantial progress."
+   ]
+  },
+  {
+   "id": "pack2-card-571",
+   "mode": "vocab",
+   "word": "Significant",
+   "pron": "(adjective)",
+   "def": "Important enough to notice.\nहिंदी: महत्वपूर्ण",
+   "examples": [
+    "Present: A significant change affects all.",
+    "Past: It was a significant victory.",
+    "Future: The impact will be significant.",
+    "Perfect: Progress has been significant."
+   ]
+  },
+  {
+   "id": "pack2-card-572",
+   "mode": "vocab",
+   "word": "Minor",
+   "pron": "(adjective)",
+   "def": "Less important or serious.\nहिंदी: छोटा / मामूली",
+   "examples": [
+    "Present: A minor injury heals quickly.",
+    "Past: It was a minor mistake.",
+    "Future: The change will be minor.",
+    "Perfect: The damage has been minor."
+   ]
+  },
+  {
+   "id": "pack2-card-573",
+   "mode": "vocab",
+   "word": "Obvious",
+   "pron": "(adjective)",
+   "def": "Easy to see or understand.\nहिंदी: स्पष्ट",
+   "examples": [
+    "Present: The answer is obvious.",
+    "Past: His fear was obvious.",
+    "Future: The benefit will be obvious.",
+    "Perfect: The mistake has been obvious."
+   ]
+  },
+  {
+   "id": "pack2-card-574",
+   "mode": "vocab",
+   "word": "Subtle",
+   "pron": "(adjective)",
+   "def": "Not obvious; delicate.\nहिंदी: सूक्ष्म",
+   "examples": [
+    "Present: A subtle hint is easy to miss.",
+    "Past: She gave a subtle smile.",
+    "Future: The change will be subtle.",
+    "Perfect: He has made subtle changes."
+   ]
+  },
+  {
+   "id": "pack2-card-575",
+   "mode": "vocab",
+   "word": "Complex",
+   "pron": "(adjective)",
+   "def": "Made of many connected parts.\nहिंदी: जटिल",
+   "examples": [
+    "Present: A complex problem needs time.",
+    "Past: The case was complex.",
+    "Future: The system will be complex.",
+    "Perfect: The issue has become complex."
+   ]
+  },
+  {
+   "id": "pack2-card-576",
+   "mode": "vocab",
+   "word": "Simple",
+   "pron": "(adjective)",
+   "def": "Easy to understand or do.\nहिंदी: सरल",
+   "examples": [
+    "Present: A simple rule is easy to follow.",
+    "Past: The plan was simple.",
+    "Future: The task will be simple.",
+    "Perfect: The solution has been simple."
+   ]
+  },
+  {
+   "id": "pack2-card-577",
+   "mode": "vocab",
+   "word": "Fragile",
+   "pron": "(adjective)",
+   "def": "Easily broken or damaged.\nहिंदी: नाज़ुक",
+   "examples": [
+    "Present: Glass is fragile.",
+    "Past: The peace was fragile.",
+    "Future: The deal will be fragile.",
+    "Perfect: The economy has remained fragile."
+   ]
+  },
+  {
+   "id": "pack2-card-578",
+   "mode": "vocab",
+   "word": "Robust",
+   "pron": "(adjective)",
+   "def": "Strong and healthy.\nहिंदी: मज़बूत",
+   "examples": [
+    "Present: A robust system survives shocks.",
+    "Past: The economy was robust.",
+    "Future: Growth will remain robust.",
+    "Perfect: Sales have been robust."
+   ]
+  },
+  {
+   "id": "pack2-card-579",
+   "mode": "vocab",
+   "word": "Flexible",
+   "pron": "(adjective)",
+   "def": "Able to change easily.\nहिंदी: लचीला",
+   "examples": [
+    "Present: A flexible schedule helps parents.",
+    "Past: She was flexible about timing.",
+    "Future: The plan will be flexible.",
+    "Perfect: He has been flexible with deadlines."
+   ]
+  },
+  {
+   "id": "pack2-card-580",
+   "mode": "vocab",
+   "word": "Rigid",
+   "pron": "(adjective)",
+   "def": "Not able to change; stiff.\nहिंदी: कठोर",
+   "examples": [
+    "Present: Rigid rules discourage creativity.",
+    "Past: The system was rigid.",
+    "Future: The rules will remain rigid.",
+    "Perfect: He has been rigid in his views."
+   ]
+  },
+  {
+   "id": "pack2-card-581",
+   "mode": "vocab",
+   "word": "Efficient",
+   "pron": "(adjective)",
+   "def": "Working well without waste.\nहिंदी: कुशल",
+   "examples": [
+    "Present: An efficient worker saves time.",
+    "Past: The service was efficient.",
+    "Future: The new system will be efficient.",
+    "Perfect: She has been efficient all week."
+   ]
+  },
+  {
+   "id": "pack2-card-582",
+   "mode": "vocab",
+   "word": "Productive",
+   "pron": "(adjective)",
+   "def": "Achieving a great deal.\nहिंदी: उत्पादक",
+   "examples": [
+    "Present: A productive day feels good.",
+    "Past: The meeting was productive.",
+    "Future: The talks will be productive.",
+    "Perfect: She has had a productive year."
+   ]
+  },
+  {
+   "id": "pack2-card-583",
+   "mode": "vocab",
+   "word": "Innovative",
+   "pron": "(adjective)",
+   "def": "Using new ideas or methods.\nहिंदी: नवोन्मेषी",
+   "examples": [
+    "Present: An innovative firm leads the market.",
+    "Past: Her design was innovative.",
+    "Future: The product will be innovative.",
+    "Perfect: The team has been innovative."
+   ]
+  },
+  {
+   "id": "pack2-card-584",
+   "mode": "vocab",
+   "word": "Practical",
+   "pron": "(adjective)",
+   "def": "Concerned with real use, not theory.\nहिंदी: व्यावहारिक",
+   "examples": [
+    "Present: A practical person solves problems.",
+    "Past: His advice was practical.",
+    "Future: The plan will be practical.",
+    "Perfect: The course has been practical."
+   ]
+  },
+  {
+   "id": "pack2-card-585",
+   "mode": "vocab",
+   "word": "Realistic",
+   "pron": "(adjective)",
+   "def": "Showing awareness of what can be achieved.\nहिंदी: यथार्थवादी",
+   "examples": [
+    "Present: A realistic goal is achievable.",
+    "Past: The plan was realistic.",
+    "Future: The budget will be realistic.",
+    "Perfect: He has been realistic about the risks."
+   ]
+  },
+  {
+   "id": "pack2-card-586",
+   "mode": "vocab",
+   "word": "Optimistic",
+   "pron": "(adjective)",
+   "def": "Hopeful about the future.\nहिंदी: आशावादी",
+   "examples": [
+    "Present: An optimistic person sees chances.",
+    "Past: She was optimistic about results.",
+    "Future: He will remain optimistic.",
+    "Perfect: They have stayed optimistic."
+   ]
+  },
+  {
+   "id": "pack2-card-587",
+   "mode": "vocab",
+   "word": "Pessimistic",
+   "pron": "(adjective)",
+   "def": "Expecting the worst.\nहिंदी: निराशावादी",
+   "examples": [
+    "Present: A pessimistic view lowers morale.",
+    "Past: He was pessimistic about the match.",
+    "Future: Analysts will be pessimistic.",
+    "Perfect: She has grown pessimistic."
+   ]
+  },
+  {
+   "id": "pack2-card-588",
+   "mode": "vocab",
+   "word": "Anxious",
+   "pron": "(adjective)",
+   "def": "Worried and uneasy.\nहिंदी: चिंतित",
+   "examples": [
+    "Present: An anxious student can't sleep.",
+    "Past: He felt anxious before the exam.",
+    "Future: She will be anxious tomorrow.",
+    "Perfect: They have been anxious for days."
+   ]
+  },
+  {
+   "id": "pack2-card-589",
+   "mode": "vocab",
+   "word": "Thrilled",
+   "pron": "(adjective)",
+   "def": "Extremely pleased and excited.\nहिंदी: रोमांचित",
+   "examples": [
+    "Present: Kids are thrilled by fireworks.",
+    "Past: She was thrilled with the gift.",
+    "Future: He will be thrilled to hear it.",
+    "Perfect: We have been thrilled by the news."
+   ]
+  },
+  {
+   "id": "pack2-card-590",
+   "mode": "vocab",
+   "word": "Furious",
+   "pron": "(adjective)",
+   "def": "Extremely angry.\nहिंदी: क्रोधित",
+   "examples": [
+    "Present: A furious customer demands a refund.",
+    "Past: He was furious about the delay.",
+    "Future: She will be furious if she finds out.",
+    "Perfect: They have been furious for days."
+   ]
+  },
+  {
+   "id": "pack2-card-591",
+   "mode": "vocab",
+   "word": "Exhausted",
+   "pron": "(adjective)",
+   "def": "Completely tired.\nहिंदी: थका हुआ",
+   "examples": [
+    "Present: An exhausted driver should rest.",
+    "Past: She was exhausted after the climb.",
+    "Future: He will be exhausted tonight.",
+    "Perfect: I have been exhausted all week."
+   ]
+  },
+  {
+   "id": "pack2-card-592",
+   "mode": "vocab",
+   "word": "Overwhelmed",
+   "pron": "(adjective)",
+   "def": "Having too much to deal with.\nहिंदी: अभिभूत / दबा हुआ",
+   "examples": [
+    "Present: She feels overwhelmed by work.",
+    "Past: He was overwhelmed by emotion.",
+    "Future: You will be overwhelmed at first.",
+    "Perfect: I have been overwhelmed lately."
+   ]
+  },
+  {
+   "id": "pack2-card-593",
+   "mode": "vocab",
+   "word": "Relieved",
+   "pron": "(adjective)",
+   "def": "Feeling comfort after worry ends.\nहिंदी: राहत महसूस करता",
+   "examples": [
+    "Present: I am relieved to be home.",
+    "Past: She was relieved when he called.",
+    "Future: He will be relieved to hear it.",
+    "Perfect: We have been relieved by the news."
+   ]
+  },
+  {
+   "id": "pack2-card-594",
+   "mode": "vocab",
+   "word": "Embarrassed",
+   "pron": "(adjective)",
+   "def": "Feeling shy or ashamed.\nहिंदी: शर्मिंदा",
+   "examples": [
+    "Present: I get embarrassed easily.",
+    "Past: He was embarrassed by the mistake.",
+    "Future: She will be embarrassed to see it.",
+    "Perfect: I have been embarrassed before."
+   ]
+  },
+  {
+   "id": "pack2-card-595",
+   "mode": "vocab",
+   "word": "Jealous",
+   "pron": "(adjective)",
+   "def": "Resentful of someone else's success.\nहिंदी: ईर्ष्यालु",
+   "examples": [
+    "Present: A jealous friend can hurt you.",
+    "Past: She was jealous of her sister.",
+    "Future: He will be jealous of the award.",
+    "Perfect: I have never been jealous."
+   ]
+  },
+  {
+   "id": "pack2-card-596",
+   "mode": "vocab",
+   "word": "Grateful",
+   "pron": "(adjective)",
+   "def": "Thankful.\nहिंदी: आभारी",
+   "examples": [
+    "Present: I am grateful for your help.",
+    "Past: She was grateful for the lift.",
+    "Future: He will be grateful for the advice.",
+    "Perfect: We have been grateful for support."
+   ]
+  },
+  {
+   "id": "pack2-card-597",
+   "mode": "vocab",
+   "word": "Curious",
+   "pron": "(adjective)",
+   "def": "Eager to know or learn.\nहिंदी: जिज्ञासु",
+   "examples": [
+    "Present: A curious child asks many questions.",
+    "Past: She was curious about the box.",
+    "Future: He will be curious about the result.",
+    "Perfect: I have been curious for years."
+   ]
+  },
+  {
+   "id": "pack2-card-598",
+   "mode": "vocab",
+   "word": "Confident",
+   "pron": "(adjective)",
+   "def": "Believing in one's own ability.\nहिंदी: आत्मविश्वासी",
+   "examples": [
+    "Present: A confident speaker holds attention.",
+    "Past: She was confident of victory.",
+    "Future: He will be confident on stage.",
+    "Perfect: They have been confident from the start."
+   ]
+  },
+  {
+   "id": "pack2-card-599",
+   "mode": "vocab",
+   "word": "Nervous",
+   "pron": "(adjective)",
+   "def": "Feeling uneasy before something.\nहिंदी: घबराया हुआ",
+   "examples": [
+    "Present: I get nervous before interviews.",
+    "Past: He was nervous on stage.",
+    "Future: She will be nervous tomorrow.",
+    "Perfect: I have been nervous all day."
+   ]
+  },
+  {
+   "id": "pack2-card-600",
+   "mode": "vocab",
+   "word": "Skilful",
+   "pron": "(adjective)",
+   "def": "Having or showing great ability.\nहिंदी: कुशल",
+   "examples": [
+    "Present: A skilful surgeon works carefully.",
+    "Past: Her play was skilful.",
+    "Future: He will become skilful with practice.",
+    "Perfect: She has been skilful in negotiations."
+   ]
+  },
+  {
+   "id": "pack2-card-601",
+   "mode": "vocab",
+   "word": "Talented",
+   "pron": "(adjective)",
+   "def": "Having natural ability.\nहिंदी: प्रतिभाशाली",
+   "examples": [
+    "Present: A talented singer wins hearts.",
+    "Past: He was a talented painter.",
+    "Future: She will be a talented leader.",
+    "Perfect: They have been talented from childhood."
+   ]
+  },
+  {
+   "id": "pack2-card-602",
+   "mode": "vocab",
+   "word": "Versatile",
+   "pron": "(adjective)",
+   "def": "Able to do many things.\nहिंदी: बहुमुखी",
+   "examples": [
+    "Present: A versatile actor plays any role.",
+    "Past: She was a versatile writer.",
+    "Future: He will prove versatile.",
+    "Perfect: The tool has been versatile."
+   ]
+  },
+  {
+   "id": "pack2-card-603",
+   "mode": "vocab",
+   "word": "Meticulous",
+   "pron": "(adjective)",
+   "def": "Very careful about details.\nहिंदी: सावधान / बारीकी से",
+   "examples": [
+    "Present: A meticulous editor catches every error.",
+    "Past: He was meticulous in his notes.",
+    "Future: She will be meticulous with figures.",
+    "Perfect: They have been meticulous."
+   ]
+  },
+  {
+   "id": "pack2-card-604",
+   "mode": "vocab",
+   "word": "Spontaneous",
+   "pron": "(adjective)",
+   "def": "Done without planning.\nहिंदी: सहज / स्वतःस्फूर्त",
+   "examples": [
+    "Present: A spontaneous trip can be fun.",
+    "Past: Her laugh was spontaneous.",
+    "Future: The crowd will be spontaneous.",
+    "Perfect: The decision has been spontaneous."
+   ]
+  },
+  {
+   "id": "pack2-card-605",
+   "mode": "vocab",
+   "word": "Peculiar",
+   "pron": "(adjective)",
+   "def": "Strange or unusual.\nहिंदी: अजीब",
+   "examples": [
+    "Present: A peculiar smell filled the room.",
+    "Past: He had a peculiar habit.",
+    "Future: It will seem peculiar at first.",
+    "Perfect: She has acted peculiar lately."
+   ]
+  },
+  {
+   "id": "pack2-card-606",
+   "mode": "vocab",
+   "word": "Mysterious",
+   "pron": "(adjective)",
+   "def": "Difficult to understand or explain.\nहिंदी: रहस्यमय",
+   "examples": [
+    "Present: A mysterious letter arrived.",
+    "Past: The cause was mysterious.",
+    "Future: The case will remain mysterious.",
+    "Perfect: The man has been mysterious."
+   ]
+  },
+  {
+   "id": "pack2-card-607",
+   "mode": "vocab",
+   "word": "Fascinating",
+   "pron": "(adjective)",
+   "def": "Extremely interesting.\nहिंदी: आकर्षक / मनोहारी",
+   "examples": [
+    "Present: A fascinating book keeps you reading.",
+    "Past: The lecture was fascinating.",
+    "Future: The visit will be fascinating.",
+    "Perfect: The story has been fascinating."
+   ]
+  },
+  {
+   "id": "pack2-card-608",
+   "mode": "vocab",
+   "word": "Tedious",
+   "pron": "(adjective)",
+   "def": "Boring and long.\nहिंदी: उबाऊ",
+   "examples": [
+    "Present: A tedious task tests patience.",
+    "Past: The lecture was tedious.",
+    "Future: The process will be tedious.",
+    "Perfect: The work has been tedious."
+   ]
+  },
+  {
+   "id": "pack2-card-609",
+   "mode": "vocab",
+   "word": "Stunning",
+   "pron": "(adjective)",
+   "def": "Extremely beautiful or impressive.\nहिंदी: शानदार",
+   "examples": [
+    "Present: A stunning view takes your breath away.",
+    "Past: The view was stunning.",
+    "Future: The result will be stunning.",
+    "Perfect: The film has been stunning."
+   ]
+  },
+  {
+   "id": "pack2-card-610",
+   "mode": "vocab",
+   "word": "Spacious",
+   "pron": "(adjective)",
+   "def": "Having plenty of room.\nहिंदी: विशाल / खुला",
+   "examples": [
+    "Present: A spacious hall holds crowds.",
+    "Past: The flat was spacious.",
+    "Future: The new office will be spacious.",
+    "Perfect: The room has been spacious enough."
+   ]
+  },
+  {
+   "id": "pack2-card-611",
+   "mode": "vocab",
+   "word": "Cramped",
+   "pron": "(adjective)",
+   "def": "Too small and crowded.\nहिंदी: तंग",
+   "examples": [
+    "Present: A cramped room feels stuffy.",
+    "Past: The train was cramped.",
+    "Future: The office will be cramped.",
+    "Perfect: The flat has been cramped."
+   ]
+  },
+  {
+   "id": "pack2-card-612",
+   "mode": "vocab",
+   "word": "Peaceful",
+   "pron": "(adjective)",
+   "def": "Calm and quiet.\nहिंदी: शांतिपूर्ण",
+   "examples": [
+    "Present: A peaceful village rests at night.",
+    "Past: The evening was peaceful.",
+    "Future: The journey will be peaceful.",
+    "Perfect: The protest has remained peaceful."
+   ]
+  },
+  {
+   "id": "pack2-card-613",
+   "mode": "vocab",
+   "word": "Chaotic",
+   "pron": "(adjective)",
+   "def": "In complete disorder.\nहिंदी: अव्यवस्थित",
+   "examples": [
+    "Present: A chaotic market is noisy.",
+    "Past: The scene was chaotic.",
+    "Future: The morning will be chaotic.",
+    "Perfect: The week has been chaotic."
+   ]
+  },
+  {
+   "id": "pack2-card-614",
+   "mode": "vocab",
+   "word": "Hostile",
+   "pron": "(adjective)",
+   "def": "Unfriendly and aggressive.\nहिंदी: शत्रुतापूर्ण",
+   "examples": [
+    "Present: A hostile crowd shouted.",
+    "Past: The reception was hostile.",
+    "Future: The talks will be hostile.",
+    "Perfect: The press has been hostile."
+   ]
+  },
+  {
+   "id": "pack2-card-615",
+   "mode": "vocab",
+   "word": "Friendly",
+   "pron": "(adjective)",
+   "def": "Kind and pleasant.\nहिंदी: मित्रवत",
+   "examples": [
+    "Present: A friendly neighbour greets everyone.",
+    "Past: The staff were friendly.",
+    "Future: The locals will be friendly.",
+    "Perfect: He has always been friendly."
+   ]
+  },
+  {
+   "id": "pack2-card-616",
+   "mode": "vocab",
+   "word": "Hospitable",
+   "pron": "(adjective)",
+   "def": "Welcoming to guests.\nहिंदी: मेहमाननवाज़",
+   "examples": [
+    "Present: A hospitable family feeds visitors.",
+    "Past: The villagers were hospitable.",
+    "Future: The hosts will be hospitable.",
+    "Perfect: They have been hospitable."
+   ]
+  },
+  {
+   "id": "pack2-card-617",
+   "mode": "vocab",
+   "word": "Crowded",
+   "pron": "(adjective)",
+   "def": "Full of people.\nहिंदी: भीड़-भाड़ वाला",
+   "examples": [
+    "Present: A crowded train is uncomfortable.",
+    "Past: The market was crowded.",
+    "Future: The stadium will be crowded.",
+    "Perfect: The streets have been crowded."
+   ]
+  },
+  {
+   "id": "pack2-card-618",
+   "mode": "vocab",
+   "word": "Deserted",
+   "pron": "(adjective)",
+   "def": "Empty of people.\nहिंदी: सुनसान",
+   "examples": [
+    "Present: A deserted road feels unsafe.",
+    "Past: The street was deserted.",
+    "Future: The beach will be deserted in winter.",
+    "Perfect: The village has been deserted for years."
+   ]
+  },
+  {
+   "id": "pack2-card-619",
+   "mode": "vocab",
+   "word": "Ancient",
+   "pron": "(adjective)",
+   "def": "Very old; from long ago.\nहिंदी: प्राचीन",
+   "examples": [
+    "Present: An ancient temple draws pilgrims.",
+    "Past: The ruins were ancient.",
+    "Future: The relic will remain ancient.",
+    "Perfect: The city has stayed ancient in spirit."
+   ]
+  },
+  {
+   "id": "pack2-card-620",
+   "mode": "vocab",
+   "word": "Modern",
+   "pron": "(adjective)",
+   "def": "Of the present or recent times.\nहिंदी: आधुनिक",
+   "examples": [
+    "Present: A modern office uses digital tools.",
+    "Past: The design was modern.",
+    "Future: The hospital will be modern.",
+    "Perfect: The town has become modern."
+   ]
+  },
+  {
+   "id": "pack2-card-621",
+   "mode": "vocab",
+   "word": "Urgent",
+   "pron": "(adjective)",
+   "def": "Needing immediate attention.\nहिंदी: अत्यावश्यक",
+   "examples": [
+    "Present: An urgent message needs a reply.",
+    "Past: The matter was urgent.",
+    "Future: The repair will be urgent.",
+    "Perfect: The need has been urgent."
+   ]
+  },
+  {
+   "id": "pack2-card-622",
+   "mode": "vocab",
+   "word": "Scarce",
+   "pron": "(adjective)",
+   "def": "Not enough in supply.\nहिंदी: दुर्लभ / कम",
+   "examples": [
+    "Present: Water is scarce in summer.",
+    "Past: Jobs were scarce.",
+    "Future: Food will be scarce.",
+    "Perfect: Resources have been scarce."
+   ]
+  },
+  {
+   "id": "pack2-card-623",
+   "mode": "vocab",
+   "word": "Abundant",
+   "pron": "(adjective)",
+   "def": "Existing in large quantities.\nहिंदी: प्रचुर",
+   "examples": [
+    "Present: Fruit is abundant in summer.",
+    "Past: Rain was abundant that year.",
+    "Future: Food will be abundant.",
+    "Perfect: Resources have been abundant."
+   ]
+  },
+  {
+   "id": "pack2-card-624",
+   "mode": "vocab",
+   "word": "Steady",
+   "pron": "(adjective)",
+   "def": "Regular and not changing.\nहिंदी: स्थिर",
+   "examples": [
+    "Present: A steady income gives security.",
+    "Past: Growth was steady.",
+    "Future: Progress will be steady.",
+    "Perfect: Sales have been steady."
+   ]
+  },
+  {
+   "id": "pack2-card-625",
+   "mode": "vocab",
+   "word": "Sudden",
+   "pron": "(adjective)",
+   "def": "Happening quickly and unexpectedly.\nहिंदी: अचानक",
+   "examples": [
+    "Present: A sudden noise startles us.",
+    "Past: The change was sudden.",
+    "Future: A sudden storm will pass.",
+    "Perfect: The drop has been sudden."
+   ]
+  },
+  {
+   "id": "pack2-card-626",
+   "mode": "vocab",
+   "word": "Gradual",
+   "pron": "(adjective)",
+   "def": "Happening slowly over time.\nहिंदी: क्रमिक",
+   "examples": [
+    "Present: Gradual change is easier to accept.",
+    "Past: His recovery was gradual.",
+    "Future: The rise will be gradual.",
+    "Perfect: Improvement has been gradual."
+   ]
+  },
+  {
+   "id": "pack2-card-627",
+   "mode": "vocab",
+   "word": "Temporary",
+   "pron": "(adjective)",
+   "def": "Lasting only for a short time.\nहिंदी: अस्थायी",
+   "examples": [
+    "Present: A temporary job pays for now.",
+    "Past: The fix was temporary.",
+    "Future: The ban will be temporary.",
+    "Perfect: The measure has been temporary."
+   ]
+  },
+  {
+   "id": "pack2-card-628",
+   "mode": "vocab",
+   "word": "Permanent",
+   "pron": "(adjective)",
+   "def": "Lasting forever or for a very long time.\nहिंदी: स्थायी",
+   "examples": [
+    "Present: A permanent job offers security.",
+    "Past: The damage was permanent.",
+    "Future: The move will be permanent.",
+    "Perfect: The change has been permanent."
+   ]
+  },
+  {
+   "id": "pack2-card-629",
+   "mode": "vocab",
+   "word": "Mandatory",
+   "pron": "(adjective)",
+   "def": "Required by rule or law.\nहिंदी: अनिवार्य",
+   "examples": [
+    "Present: A mandatory test is compulsory.",
+    "Past: Attendance was mandatory.",
+    "Future: Helmets will be mandatory.",
+    "Perfect: Training has been mandatory."
+   ]
+  },
+  {
+   "id": "pack2-card-630",
+   "mode": "vocab",
+   "word": "Optional",
+   "pron": "(adjective)",
+   "def": "Left to individual choice.\nहिंदी: वैकल्पिक",
+   "examples": [
+    "Present: An optional class is not required.",
+    "Past: The course was optional.",
+    "Future: The trip will be optional.",
+    "Perfect: The test has been optional."
+   ]
+  },
+  {
+   "id": "pack2-card-631",
+   "mode": "vocab",
+   "word": "Eligible",
+   "pron": "(adjective)",
+   "def": "Qualified to receive or do something.\nहिंदी: पात्र",
+   "examples": [
+    "Present: An eligible person can apply.",
+    "Past: She was eligible for a grant.",
+    "Future: He will be eligible next year.",
+    "Perfect: They have been eligible for months."
+   ]
+  },
+  {
+   "id": "pack2-card-632",
+   "mode": "vocab",
+   "word": "Valid",
+   "pron": "(adjective)",
+   "def": "Legally or logically acceptable.\nहिंदी: वैध / मान्य",
+   "examples": [
+    "Present: A valid ticket allows entry.",
+    "Past: The reason was valid.",
+    "Future: The licence will be valid for a year.",
+    "Perfect: His point has been valid."
+   ]
+  },
+  {
+   "id": "pack2-card-633",
+   "mode": "vocab",
+   "word": "Genuine",
+   "pron": "(adjective)",
+   "def": "Real and not fake.\nहिंदी: असली / सच्चा",
+   "examples": [
+    "Present: A genuine smile reaches the eyes.",
+    "Past: Her concern was genuine.",
+    "Future: The leather will be genuine.",
+    "Perfect: His interest has been genuine."
+   ]
+  },
+  {
+   "id": "pack2-card-634",
+   "mode": "vocab",
+   "word": "Suspicious",
+   "pron": "(adjective)",
+   "def": "Causing or feeling doubt.\nहिंदी: संदेहास्पद",
+   "examples": [
+    "Present: A suspicious bag was left.",
+    "Past: The behaviour was suspicious.",
+    "Future: The deal will look suspicious.",
+    "Perfect: He has been suspicious of her."
+   ]
+  },
+  {
+   "id": "pack2-card-635",
+   "mode": "vocab",
+   "word": "Reasonable",
+   "pron": "(adjective)",
+   "def": "Fair and sensible.\nहिंदी: उचित",
+   "examples": [
+    "Present: A reasonable price attracts buyers.",
+    "Past: His request was reasonable.",
+    "Future: The plan will be reasonable.",
+    "Perfect: The offer has been reasonable."
+   ]
+  },
+  {
+   "id": "pack2-card-636",
+   "mode": "vocab",
+   "word": "Ridiculous",
+   "pron": "(adjective)",
+   "def": "Silly and absurd.\nहिंदी: हास्यास्पद",
+   "examples": [
+    "Present: A ridiculous rule confuses people.",
+    "Past: The idea was ridiculous.",
+    "Future: The price will be ridiculous.",
+    "Perfect: The claim has been ridiculous."
+   ]
+  },
+  {
+   "id": "pack2-card-637",
+   "mode": "vocab",
+   "word": "Impressive",
+   "pron": "(adjective)",
+   "def": "Causing admiration.\nहिंदी: प्रभावशाली",
+   "examples": [
+    "Present: An impressive speech earns applause.",
+    "Past: The result was impressive.",
+    "Future: The show will be impressive.",
+    "Perfect: Her record has been impressive."
+   ]
+  },
+  {
+   "id": "pack2-card-638",
+   "mode": "vocab",
+   "word": "Disappointing",
+   "pron": "(adjective)",
+   "def": "Failing to meet hopes.\nहिंदी: निराशाजनक",
+   "examples": [
+    "Present: A disappointing result upsets fans.",
+    "Past: The film was disappointing.",
+    "Future: The outcome will be disappointing.",
+    "Perfect: The year has been disappointing."
+   ]
+  },
+  {
+   "id": "pack2-card-639",
+   "mode": "vocab",
+   "word": "Remarkable",
+   "pron": "(adjective)",
+   "def": "Worthy of notice; extraordinary.\nहिंदी: उल्लेखनीय",
+   "examples": [
+    "Present: A remarkable talent stands out.",
+    "Past: Her recovery was remarkable.",
+    "Future: The result will be remarkable.",
+    "Perfect: He has shown remarkable courage."
+   ]
+  },
+  {
+   "id": "pack2-card-640",
+   "mode": "vocab",
+   "word": "Ordinary",
+   "pron": "(adjective)",
+   "def": "Normal; not special.\nहिंदी: साधारण",
+   "examples": [
+    "Present: An ordinary day can bring surprises.",
+    "Past: It was an ordinary morning.",
+    "Future: It will be an ordinary week.",
+    "Perfect: He has led an ordinary life."
+   ]
+  },
+  {
+   "id": "pack2-card-641",
+   "mode": "vocab",
+   "word": "Extraordinary",
+   "pron": "(adjective)",
+   "def": "Very unusual or remarkable.\nहिंदी: असाधारण",
+   "examples": [
+    "Present: An extraordinary effort wins praise.",
+    "Past: Her talent was extraordinary.",
+    "Future: The event will be extraordinary.",
+    "Perfect: He has shown extraordinary skill."
+   ]
+  },
+  {
+   "id": "pack2-card-642",
+   "mode": "vocab",
+   "word": "Familiar",
+   "pron": "(adjective)",
+   "def": "Well known from experience.\nहिंदी: परिचित",
+   "examples": [
+    "Present: A familiar face feels comforting.",
+    "Past: The song was familiar.",
+    "Future: The route will be familiar.",
+    "Perfect: The place has always been familiar."
+   ]
+  },
+  {
+   "id": "pack2-card-643",
+   "mode": "vocab",
+   "word": "Unique",
+   "pron": "(adjective)",
+   "def": "Being the only one of its kind.\nहिंदी: अद्वितीय",
+   "examples": [
+    "Present: A unique idea stands out.",
+    "Past: Her style was unique.",
+    "Future: The design will be unique.",
+    "Perfect: The result has been unique."
+   ]
+  },
+  {
+   "id": "pack2-card-644",
+   "mode": "vocab",
+   "word": "Widespread",
+   "pron": "(adjective)",
+   "def": "Found over a large area.\nहिंदी: व्यापक",
+   "examples": [
+    "Present: Widespread anger followed the ruling.",
+    "Past: The damage was widespread.",
+    "Future: Support will be widespread.",
+    "Perfect: Flooding has been widespread."
+   ]
+  },
+  {
+   "id": "pack2-card-645",
+   "mode": "vocab",
+   "word": "Mutual",
+   "pron": "(adjective)",
+   "def": "Shared by two or more parties.\nहिंदी: आपसी",
+   "examples": [
+    "Present: Mutual respect builds friendships.",
+    "Past: The feeling was mutual.",
+    "Future: The benefit will be mutual.",
+    "Perfect: Their trust has been mutual."
+   ]
+  },
+  {
+   "id": "pack2-card-646",
+   "mode": "vocab",
+   "word": "Fierce",
+   "pron": "(adjective)",
+   "def": "Very intense or aggressive.\nहिंदी: तीव्र / उग्र",
+   "examples": [
+    "Present: Fierce competition drives innovation.",
+    "Past: The storm was fierce.",
+    "Future: The battle will be fierce.",
+    "Perfect: The debate has been fierce."
+   ]
+  },
+  {
+   "id": "pack2-card-647",
+   "mode": "vocab",
+   "word": "Harsh",
+   "pron": "(adjective)",
+   "def": "Cruel or severe.\nहिंदी: कठोर",
+   "examples": [
+    "Present: Harsh winters kill crops.",
+    "Past: The criticism was harsh.",
+    "Future: The punishment will be harsh.",
+    "Perfect: The weather has been harsh."
+   ]
+  }
+ ]
+}

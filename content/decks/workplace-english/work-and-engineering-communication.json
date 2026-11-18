@@ -1,0 +1,1945 @@
+{
+ "id": "pack6-deck-1",
+ "categoryId": "pack6-cat-1",
+ "title": "Work & Engineering Communication",
+ "sub": "Incidents, delivery, reliability and code-quality words you use every day.",
+ "cards": [
+  {
+   "id": "pack6-card-1",
+   "mode": "vocab",
+   "word": "escalate",
+   "pron": "(verb)",
+   "def": "To raise an issue to a higher authority for resolution\nहिंदी: मामला ऊपर के अधिकारी तक ले जाना",
+   "examples": [
+    "If the vendor doesn't respond by noon, I'll escalate it to the incident manager.",
+    "The customer was unhappy, so the support agent escalated the complaint to her manager.",
+    "Please don't escalate small issues before talking to the team first.",
+    "We escalated the payment failure because it was blocking hundreds of users."
+   ]
+  },
+  {
+   "id": "pack6-card-3",
+   "mode": "vocab",
+   "word": "remediate",
+   "pron": "(verb)",
+   "def": "To fix or correct a problem, especially a vulnerability\nहिंदी: सुधारना / उपचार करना",
+   "examples": [
+    "The security team asked us to remediate the critical findings within a week.",
+    "The landlord promised to remediate the leaking pipe before we move in.",
+    "We have a plan to remediate the data quality issues by next sprint.",
+    "The auditor gave us thirty days to remediate the access control gaps."
+   ]
+  },
+  {
+   "id": "pack6-card-4",
+   "mode": "vocab",
+   "word": "triage",
+   "pron": "(verb)",
+   "def": "To prioritise issues by urgency and impact\nहिंदी: प्राथमिकता तय करना",
+   "examples": [
+    "Let's triage the open bugs before planning the sprint.",
+    "The on-call engineer will triage new alerts every morning.",
+    "Nurses triage patients so the most serious cases are seen first.",
+    "I triage my inbox first thing and answer only the urgent mails."
+   ]
+  },
+  {
+   "id": "pack6-card-8",
+   "mode": "vocab",
+   "word": "postmortem",
+   "pron": "(noun)",
+   "def": "A structured review held after an incident\nहिंदी: घटना के बाद की समीक्षा",
+   "examples": [
+    "We will share the postmortem with all stakeholders by Friday.",
+    "In the postmortem, we agreed not to blame any one person.",
+    "The postmortem showed that a missing config caused the outage.",
+    "Write the postmortem while the details are still fresh."
+   ]
+  },
+  {
+   "id": "pack6-card-10",
+   "mode": "vocab",
+   "word": "deliverable",
+   "pron": "(noun)",
+   "def": "A tangible output promised as part of a project\nहिंदी: वितरण योग्य परिणाम",
+   "examples": [
+    "The main deliverable for this milestone is the migration runbook.",
+    "Please list every deliverable with its owner and due date.",
+    "The client signed off on the first deliverable this morning.",
+    "A clear deliverable helps everyone know what done looks like."
+   ]
+  },
+  {
+   "id": "pack6-card-18",
+   "mode": "vocab",
+   "word": "ownership",
+   "pron": "(noun)",
+   "def": "Responsibility and accountability for a piece of work\nहिंदी: ज़िम्मेदारी लेना",
+   "examples": [
+    "The team needs clearer ownership of the ingestion pipeline.",
+    "Taking ownership of a mistake builds trust with your manager.",
+    "She showed real ownership by fixing the issue over the weekend.",
+    "Who has ownership of the onboarding documents now?"
+   ]
+  },
+  {
+   "id": "pack6-card-19",
+   "mode": "vocab",
+   "word": "accountable",
+   "pron": "(adjective)",
+   "def": "Required to explain or justify one's actions\nहिंदी: जवाबदेह",
+   "examples": [
+    "Each lead is accountable for the quality of their module.",
+    "The manager is accountable for the team's delivery dates.",
+    "If I promise a date, I hold myself accountable for meeting it.",
+    "Nobody felt accountable, so the bug stayed open for months."
+   ]
+  },
+  {
+   "id": "pack6-card-22",
+   "mode": "vocab",
+   "word": "ramp up",
+   "pron": "(phrasal verb)",
+   "def": "To increase speed, output or familiarity gradually\nहिंदी: धीरे-धीरे गति बढ़ाना",
+   "examples": [
+    "It takes about a month for new engineers to ramp up on the codebase.",
+    "We will ramp up hiring in the second half of the year.",
+    "The new joiner ramped up quickly thanks to good documentation.",
+    "Production will ramp up slowly after the factory reopens."
+   ]
+  },
+  {
+   "id": "pack6-card-23",
+   "mode": "vocab",
+   "word": "ballpark",
+   "pron": "(noun)",
+   "def": "A rough estimate\nहिंदी: मोटा अनुमान",
+   "examples": [
+    "Can you give me a ballpark figure for the effort?",
+    "I don't need an exact cost, just a ballpark.",
+    "Ballpark, how many people will attend the offsite?",
+    "His estimate wasn't even in the right ballpark."
+   ]
+  },
+  {
+   "id": "pack6-card-25",
+   "mode": "vocab",
+   "word": "contingency",
+   "pron": "(noun)",
+   "def": "A provision for an unexpected event\nहिंदी: आकस्मिक योजना",
+   "examples": [
+    "We built two days of contingency into the plan.",
+    "Keep some money aside as a contingency for medical bills.",
+    "Our contingency plan is to switch to the backup vendor.",
+    "The budget includes a ten percent contingency for surprises."
+   ]
+  },
+  {
+   "id": "pack6-card-26",
+   "mode": "vocab",
+   "word": "timeline",
+   "pron": "(noun)",
+   "def": "A schedule showing when events are expected\nहिंदी: समय-सीमा",
+   "examples": [
+    "The vendor delay pushes our timeline by a week.",
+    "Can you share a realistic timeline for the migration?",
+    "The wedding planner gave us a timeline for the whole day.",
+    "We agreed on a tight timeline with the client."
+   ]
+  },
+  {
+   "id": "pack6-card-27",
+   "mode": "vocab",
+   "word": "slip",
+   "pron": "(verb)",
+   "def": "To fall behind schedule\nहिंदी: समय से पीछे खिसकना",
+   "examples": [
+    "The release date slipped because of late security approvals.",
+    "If testing slips by two days, the launch will move too.",
+    "Don't let the small tasks slip while you focus on the big one.",
+    "Our delivery slipped twice, and the client lost patience."
+   ]
+  },
+  {
+   "id": "pack6-card-29",
+   "mode": "vocab",
+   "word": "deprioritise",
+   "pron": "(verb)",
+   "def": "To lower the importance of a task\nहिंदी: प्राथमिकता घटाना",
+   "examples": [
+    "The dashboard work was deprioritised in favour of the outage fix.",
+    "We deprioritised the redesign to focus on customer bugs.",
+    "If everything is urgent, something must be deprioritised.",
+    "I had to deprioritise my course work during the busy month."
+   ]
+  },
+  {
+   "id": "pack6-card-30",
+   "mode": "vocab",
+   "word": "descope",
+   "pron": "(verb)",
+   "def": "To remove items from a project's scope\nहिंदी: दायरा घटाना",
+   "examples": [
+    "To hit the date, we had to descope the reporting module.",
+    "The client agreed to descope the mobile app from phase one.",
+    "Let's descope the nice-to-have features and ship the core first.",
+    "We descoped two reports after the budget was cut."
+   ]
+  },
+  {
+   "id": "pack6-card-31",
+   "mode": "vocab",
+   "word": "alignment",
+   "pron": "(noun)",
+   "def": "Agreement among people on goals or approach\nहिंदी: सहमति / तालमेल",
+   "examples": [
+    "We need alignment on the definition of done before starting.",
+    "There is strong alignment between sales and product this quarter.",
+    "Let's get alignment with the client before we write any code.",
+    "Lack of alignment between teams caused the delay."
+   ]
+  },
+  {
+   "id": "pack6-card-33",
+   "mode": "vocab",
+   "word": "walkthrough",
+   "pron": "(noun)",
+   "def": "A guided, step-by-step explanation\nहिंदी: क्रमवार समझाना",
+   "examples": [
+    "I'll record a walkthrough of the deployment process.",
+    "The trainer gave us a walkthrough of the new HR portal.",
+    "Can you do a quick walkthrough of your code before I review it?",
+    "We did a walkthrough of the flat before signing the lease."
+   ]
+  },
+  {
+   "id": "pack6-card-34",
+   "mode": "vocab",
+   "word": "runbook",
+   "pron": "(noun)",
+   "def": "A documented procedure for operating or recovering a system\nहिंदी: संचालन प्रक्रिया दस्तावेज़",
+   "examples": [
+    "Follow the runbook if the consumer lag keeps growing.",
+    "The new on-call engineer fixed the issue just by following the runbook.",
+    "Please update the runbook after every incident.",
+    "Without a runbook, every restart depended on one person's memory."
+   ]
+  },
+  {
+   "id": "pack6-card-35",
+   "mode": "vocab",
+   "word": "playbook",
+   "pron": "(noun)",
+   "def": "A set of established steps for handling a situation\nहिंदी: कार्य-योजना की रूपरेखा",
+   "examples": [
+    "We have a playbook for vendor file delays.",
+    "Sales has a playbook for handling price objections.",
+    "We followed the security playbook as soon as the breach was reported.",
+    "Every new market needs its own launch playbook."
+   ]
+  },
+  {
+   "id": "pack6-card-36",
+   "mode": "vocab",
+   "word": "SLA",
+   "pron": "(noun)",
+   "def": "A formal commitment on service levels such as response time\nहिंदी: सेवा स्तर समझौता",
+   "examples": [
+    "We breached the SLA for file delivery twice last month.",
+    "The SLA promises a reply to critical tickets within one hour.",
+    "Check the SLA before you promise the client a fix date.",
+    "Our new vendor offers a stronger SLA at the same price."
+   ]
+  },
+  {
+   "id": "pack6-card-37",
+   "mode": "vocab",
+   "word": "uptime",
+   "pron": "(noun)",
+   "def": "The proportion of time a system is operational\nहिंदी: सिस्टम चालू रहने का समय",
+   "examples": [
+    "The platform maintained 99.95 percent uptime this quarter.",
+    "Customers expect near perfect uptime from a payments app.",
+    "We track uptime on a dashboard that the whole team can see.",
+    "Better monitoring helped us improve uptime this year."
+   ]
+  },
+  {
+   "id": "pack6-card-38",
+   "mode": "vocab",
+   "word": "downtime",
+   "pron": "(noun)",
+   "def": "A period when a system is unavailable\nहिंदी: सिस्टम बंद रहने का समय",
+   "examples": [
+    "Planned downtime is scheduled for Sunday night.",
+    "The bank's app had two hours of downtime during the upgrade.",
+    "We moved to a new database without any downtime.",
+    "Please inform users about the downtime a day in advance."
+   ]
+  },
+  {
+   "id": "pack6-card-39",
+   "mode": "vocab",
+   "word": "outage",
+   "pron": "(noun)",
+   "def": "A period when a service fails completely\nहिंदी: सेवा का पूरी तरह बंद होना",
+   "examples": [
+    "The outage lasted forty minutes and affected two vendors.",
+    "A power outage shut down the office for the afternoon.",
+    "During the outage, customers could not log in at all.",
+    "The cloud provider apologised for last night's outage."
+   ]
+  },
+  {
+   "id": "pack6-card-40",
+   "mode": "vocab",
+   "word": "degradation",
+   "pron": "(noun)",
+   "def": "A decline in performance or quality\nहिंदी: प्रदर्शन में गिरावट",
+   "examples": [
+    "We observed a gradual degradation in query latency.",
+    "Users noticed some degradation in video quality during peak hours.",
+    "We saw no degradation after moving to the new servers.",
+    "Slow degradation is harder to spot than a sudden failure."
+   ]
+  },
+  {
+   "id": "pack6-card-41",
+   "mode": "vocab",
+   "word": "latency",
+   "pron": "(noun)",
+   "def": "The delay between a request and its response\nहिंदी: विलंब",
+   "examples": [
+    "The added hop increased latency by about 40 milliseconds.",
+    "Users in Chennai saw higher latency than users in Mumbai.",
+    "Low latency matters a lot for video calls.",
+    "We added a cache to bring the latency down."
+   ]
+  },
+  {
+   "id": "pack6-card-42",
+   "mode": "vocab",
+   "word": "throughput",
+   "pron": "(noun)",
+   "def": "The amount of work processed in a given time\nहिंदी: प्रति इकाई समय में प्रसंस्कृत कार्य",
+   "examples": [
+    "Batching improved throughput without raising costs.",
+    "The new machine doubled the factory's throughput.",
+    "Our team's throughput dropped when two people went on leave.",
+    "We measure throughput as tickets closed per week."
+   ]
+  },
+  {
+   "id": "pack6-card-43",
+   "mode": "vocab",
+   "word": "bottleneck",
+   "pron": "(noun)",
+   "def": "A point that limits overall performance\nहिंदी: अवरोध बिंदु",
+   "examples": [
+    "The database writes are the bottleneck, not the parsing.",
+    "Manual approval is the biggest bottleneck in our release process.",
+    "The single lift became a bottleneck at office opening time.",
+    "Adding more servers won't help if the bottleneck is the network."
+   ]
+  },
+  {
+   "id": "pack6-card-44",
+   "mode": "vocab",
+   "word": "spike",
+   "pron": "(noun)",
+   "def": "A sudden sharp increase\nहिंदी: अचानक तेज़ उछाल",
+   "examples": [
+    "There was a spike in error rates right after the deploy.",
+    "We saw a spike in traffic during the festival sale.",
+    "There was a spike in calls after the new bill went out.",
+    "A sudden spike in prices worried the customers."
+   ]
+  },
+  {
+   "id": "pack6-card-45",
+   "mode": "vocab",
+   "word": "anomaly",
+   "pron": "(noun)",
+   "def": "Something that deviates from what is normal\nहिंदी: असामान्य विचलन",
+   "examples": [
+    "The monitoring flagged an anomaly in the daily file counts.",
+    "The bank called me about an anomaly in my card spending.",
+    "One anomaly in the data can skew the whole average.",
+    "Let's investigate this anomaly before we publish the report."
+   ]
+  },
+  {
+   "id": "pack6-card-46",
+   "mode": "vocab",
+   "word": "flaky",
+   "pron": "(adjective)",
+   "def": "Unreliable and inconsistently failing\nहिंदी: अविश्वसनीय / कभी चलने कभी न चलने वाला",
+   "examples": [
+    "That integration test is flaky and fails one run in ten.",
+    "The office Wi-Fi is so flaky that calls keep dropping.",
+    "Please fix or skip the flaky tests before the release.",
+    "A flaky build wastes everyone's time and patience."
+   ]
+  },
+  {
+   "id": "pack6-card-47",
+   "mode": "vocab",
+   "word": "brittle",
+   "pron": "(adjective)",
+   "def": "Easily broken by small changes\nहिंदी: नाज़ुक",
+   "examples": [
+    "The parser is brittle and breaks whenever a vendor changes a header.",
+    "Tests that depend on exact timing are very brittle.",
+    "The old process is brittle and depends on one person.",
+    "We rewrote the brittle script so it handles missing fields."
+   ]
+  },
+  {
+   "id": "pack6-card-50",
+   "mode": "vocab",
+   "word": "idempotent",
+   "pron": "(adjective)",
+   "def": "Producing the same result however many times it runs\nहिंदी: बार-बार चलाने पर भी समान परिणाम देने वाला",
+   "examples": [
+    "Make the consumer idempotent so replays don't create duplicates.",
+    "A payment API must be idempotent so customers aren't charged twice.",
+    "Is this script idempotent, or will running it twice cause problems?",
+    "We made the setup step idempotent, so retries are safe."
+   ]
+  },
+  {
+   "id": "pack6-card-51",
+   "mode": "vocab",
+   "word": "deterministic",
+   "pron": "(adjective)",
+   "def": "Always producing the same output for the same input\nहिंदी: निश्चित परिणाम देने वाला",
+   "examples": [
+    "Tests should be deterministic, not dependent on timing.",
+    "Random seeds make the test results deterministic.",
+    "The build is now deterministic, so the same code gives the same output.",
+    "Pricing should be deterministic and easy to explain to customers."
+   ]
+  },
+  {
+   "id": "pack6-card-52",
+   "mode": "vocab",
+   "word": "graceful",
+   "pron": "(adjective)",
+   "def": "Handling failure without abrupt breakage\nहिंदी: सहज रूप से संभालने वाला",
+   "examples": [
+    "We need graceful degradation when the vendor API is down.",
+    "The app shows a friendly message, a graceful way to handle errors.",
+    "We need a graceful shutdown so no orders are lost.",
+    "Graceful handling of timeouts keeps users from seeing a blank screen."
+   ]
+  },
+  {
+   "id": "pack6-card-53",
+   "mode": "vocab",
+   "word": "backward compatible",
+   "pron": "(adjective)",
+   "def": "Working with earlier versions without breaking\nहिंदी: पुराने संस्करणों के साथ भी चलने वाला",
+   "examples": [
+    "The new schema must remain backward compatible with existing consumers.",
+    "Is the new app version backward compatible with old phones?",
+    "Keep the API backward compatible so mobile users aren't affected.",
+    "The update wasn't backward compatible, so old reports stopped loading."
+   ]
+  },
+  {
+   "id": "pack6-card-54",
+   "mode": "vocab",
+   "word": "deprecate",
+   "pron": "(verb)",
+   "def": "To mark something as obsolete and discourage its use\nहिंदी: अप्रचलित घोषित करना",
+   "examples": [
+    "We will deprecate the v1 endpoint at the end of the year.",
+    "The company plans to deprecate the old desktop app next year.",
+    "Once we deprecate a feature, we stop adding fixes to it.",
+    "Please tell users clearly before you deprecate any setting."
+   ]
+  },
+  {
+   "id": "pack6-card-55",
+   "mode": "vocab",
+   "word": "decommission",
+   "pron": "(verb)",
+   "def": "To retire a system from service\nहिंदी: सेवा से हटाना",
+   "examples": [
+    "The legacy batch job was finally decommissioned.",
+    "We will decommission the old servers after the data is moved.",
+    "The plant was decommissioned after forty years of use.",
+    "Before we decommission the tool, let's export the old records."
+   ]
+  },
+  {
+   "id": "pack6-card-57",
+   "mode": "vocab",
+   "word": "technical debt",
+   "pron": "(noun)",
+   "def": "Future cost of choosing a quick solution now\nहिंदी: तकनीकी उधार",
+   "examples": [
+    "We are paying interest on technical debt every sprint.",
+    "Rushing the release left us with a lot of technical debt.",
+    "We spend one day each sprint paying down technical debt.",
+    "Technical debt makes even small changes slow and risky."
+   ]
+  },
+  {
+   "id": "pack6-card-58",
+   "mode": "vocab",
+   "word": "boilerplate",
+   "pron": "(noun)",
+   "def": "Repetitive standard code written again and again\nहिंदी: दोहराया जाने वाला मानक कोड",
+   "examples": [
+    "Annotations removed most of the boilerplate.",
+    "The template gives you the boilerplate, so you only write the logic.",
+    "Most of the contract is boilerplate, but read the payment terms carefully.",
+    "I wrote a script to generate the boilerplate for new services."
+   ]
+  },
+  {
+   "id": "pack6-card-59",
+   "mode": "vocab",
+   "word": "abstraction",
+   "pron": "(noun)",
+   "def": "Hiding complexity behind a simpler interface\nहिंदी: जटिलता छुपाकर सरल रूप देना",
+   "examples": [
+    "This abstraction leaks implementation details to callers.",
+    "A good abstraction lets new developers work without knowing every detail.",
+    "We added an abstraction over the payment providers.",
+    "Too much abstraction can make simple code hard to follow."
+   ]
+  },
+  {
+   "id": "pack6-card-60",
+   "mode": "vocab",
+   "word": "encapsulate",
+   "pron": "(verb)",
+   "def": "To enclose details within a single unit or module\nहिंदी: विवरण को एक इकाई में समेटना",
+   "examples": [
+    "Encapsulate the vendor-specific logic behind one interface.",
+    "Encapsulate the database calls in one class so they're easy to change.",
+    "The report tries to encapsulate a year of work in one page.",
+    "We encapsulated the retry logic in a small helper."
+   ]
+  },
+  {
+   "id": "pack6-card-61",
+   "mode": "vocab",
+   "word": "decouple",
+   "pron": "(verb)",
+   "def": "To reduce the dependence between components\nहिंदी: आपसी निर्भरता घटाना",
+   "examples": [
+    "Using events lets us decouple ingestion from reporting.",
+    "A message queue helps decouple the order service from billing.",
+    "We decoupled the release schedule from the marketing calendar.",
+    "Decouple the UI from the backend so each can change independently."
+   ]
+  },
+  {
+   "id": "pack6-card-62",
+   "mode": "vocab",
+   "word": "modular",
+   "pron": "(adjective)",
+   "def": "Built from independent, interchangeable parts\nहिंदी: मॉड्यूल आधारित",
+   "examples": [
+    "A modular design makes vendor onboarding faster.",
+    "The modular kitchen lets us change the cabinets easily.",
+    "Our training course is modular, so people can pick the topics they need.",
+    "A modular codebase lets teams work without blocking each other."
+   ]
+  },
+  {
+   "id": "pack6-card-63",
+   "mode": "vocab",
+   "word": "maintainable",
+   "pron": "(adjective)",
+   "def": "Easy to update and fix over time\nहिंदी: आसानी से रखरखाव योग्य",
+   "examples": [
+    "Readable names make the code more maintainable.",
+    "Small functions with clear names are more maintainable.",
+    "We want a solution that is simple and maintainable, not clever.",
+    "The old system worked, but it wasn't maintainable anymore."
+   ]
+  },
+  {
+   "id": "pack6-card-65",
+   "mode": "vocab",
+   "word": "extensible",
+   "pron": "(adjective)",
+   "def": "Designed to be easily extended with new features\nहिंदी: आसानी से बढ़ाने योग्य",
+   "examples": [
+    "An extensible rule engine saves us rework later.",
+    "The form builder is extensible, so we can add new field types easily.",
+    "Plugins make the editor highly extensible.",
+    "Design the config to be extensible for future countries."
+   ]
+  },
+  {
+   "id": "pack6-card-66",
+   "mode": "vocab",
+   "word": "observability",
+   "pron": "(noun)",
+   "def": "The ability to understand a system's state from its outputs\nहिंदी: प्रणाली की स्थिति समझने की क्षमता",
+   "examples": [
+    "Better observability would have shortened this incident.",
+    "Good observability helps us find problems before customers do.",
+    "We invested in observability after a long night of guessing.",
+    "Logs, metrics and traces are the basics of observability."
+   ]
+  },
+  {
+   "id": "pack6-card-67",
+   "mode": "vocab",
+   "word": "telemetry",
+   "pron": "(noun)",
+   "def": "Automatically collected data about system behaviour\nहिंदी: प्रणाली से स्वचालित रूप से एकत्र डेटा",
+   "examples": [
+    "We emit telemetry on every file processed.",
+    "The app sends telemetry only if the user agrees.",
+    "Telemetry showed that most users never open the settings page.",
+    "Car makers use telemetry to track engine health."
+   ]
+  },
+  {
+   "id": "pack6-card-68",
+   "mode": "vocab",
+   "word": "instrument",
+   "pron": "(verb)",
+   "def": "To add monitoring or measurement to code\nहिंदी: निगरानी जोड़ना",
+   "examples": [
+    "Let's instrument the retry path so we can see how often it fires.",
+    "We instrumented the checkout flow to see where users drop off.",
+    "Instrument the slow API before you try to optimise it.",
+    "The library makes it easy to instrument every request."
+   ]
+  },
+  {
+   "id": "pack6-card-69",
+   "mode": "vocab",
+   "word": "alerting",
+   "pron": "(noun)",
+   "def": "Automated notification when metrics cross thresholds\nहिंदी: चेतावनी सूचना व्यवस्था",
+   "examples": [
+    "Our alerting is too noisy to be useful.",
+    "Set up alerting so the team knows when payments fail.",
+    "Good alerting wakes you up only for real problems.",
+    "We reviewed our alerting rules after missing an incident."
+   ]
+  },
+  {
+   "id": "pack6-card-70",
+   "mode": "vocab",
+   "word": "threshold",
+   "pron": "(noun)",
+   "def": "A limit at which something changes or triggers\nहिंदी: सीमा-स्तर",
+   "examples": [
+    "The alert fires when lag crosses the threshold for five minutes.",
+    "Your account is flagged if spending crosses a certain threshold.",
+    "We lowered the threshold so alerts fire earlier.",
+    "Tax applies only above an income threshold."
+   ]
+  },
+  {
+   "id": "pack6-card-71",
+   "mode": "vocab",
+   "word": "baseline",
+   "pron": "(noun)",
+   "def": "A reference measurement used for comparison\nहिंदी: तुलना हेतु आधार स्तर",
+   "examples": [
+    "We need a baseline before we can claim an improvement.",
+    "Measure the page load time today so we have a baseline.",
+    "Compared to the baseline, error rates fell by half.",
+    "The doctor took a baseline reading before starting the medicine."
+   ]
+  },
+  {
+   "id": "pack6-card-73",
+   "mode": "vocab",
+   "word": "profiling",
+   "pron": "(noun)",
+   "def": "Analysing where a program spends time or memory\nहिंदी: कोड के समय/मेमोरी उपयोग का विश्लेषण",
+   "examples": [
+    "Profiling revealed that serialisation was the hot spot.",
+    "Let's do some profiling before we guess why the app is slow.",
+    "Memory profiling showed that images were never released.",
+    "The profiling report pointed to one slow database call."
+   ]
+  },
+  {
+   "id": "pack6-card-74",
+   "mode": "vocab",
+   "word": "optimise",
+   "pron": "(verb)",
+   "def": "To make something as efficient as possible\nहिंदी: अनुकूलित करना",
+   "examples": [
+    "Optimise the query only after measuring it.",
+    "We optimised the images so the page loads twice as fast.",
+    "Try to optimise your daily schedule around your most focused hours.",
+    "The delivery company optimised its routes to save fuel."
+   ]
+  },
+  {
+   "id": "pack6-card-75",
+   "mode": "vocab",
+   "word": "premature optimisation",
+   "pron": "(noun)",
+   "def": "Optimising before knowing it is necessary\nहिंदी: समय से पहले अनुकूलन",
+   "examples": [
+    "Caching everything now would be premature optimisation.",
+    "Writing custom code for a hundred users is premature optimisation.",
+    "He spent a week on premature optimisation instead of shipping the feature.",
+    "Avoid premature optimisation; first make it work, then make it fast."
+   ]
+  },
+  {
+   "id": "pack6-card-77",
+   "mode": "vocab",
+   "word": "constraint",
+   "pron": "(noun)",
+   "def": "A limitation that restricts options\nहिंदी: बाध्यता",
+   "examples": [
+    "Our main constraint is the vendor's rate limit.",
+    "Time is our biggest constraint on this project.",
+    "Budget constraints mean we can't hire this year.",
+    "Work within the constraints you have instead of waiting for perfect ones."
+   ]
+  },
+  {
+   "id": "pack6-card-78",
+   "mode": "vocab",
+   "word": "assumption",
+   "pron": "(noun)",
+   "def": "Something accepted as true without proof\nहिंदी: मान्यता",
+   "examples": [
+    "Let's validate that assumption before committing.",
+    "My assumption was that the client wanted a mobile app first.",
+    "Write down every assumption in the project plan.",
+    "The estimate was based on a wrong assumption about data size."
+   ]
+  },
+  {
+   "id": "pack6-card-79",
+   "mode": "vocab",
+   "word": "validate",
+   "pron": "(verb)",
+   "def": "To check that something is correct or acceptable\nहिंदी: सत्यापित करना",
+   "examples": [
+    "We validate each file against the schema on arrival.",
+    "The form validates the phone number before you can submit it.",
+    "Talk to five customers to validate the idea before building it.",
+    "We validated the new process with a small pilot team."
+   ]
+  },
+  {
+   "id": "pack6-card-80",
+   "mode": "vocab",
+   "word": "verify",
+   "pron": "(verb)",
+   "def": "To confirm that something is true\nहिंदी: पुष्टि करना",
+   "examples": [
+    "Please verify the numbers before sending the report.",
+    "Please verify your email address to activate the account.",
+    "The bank called to verify a large transaction on my card.",
+    "I verified the fix on staging before closing the ticket."
+   ]
+  },
+  {
+   "id": "pack6-card-81",
+   "mode": "vocab",
+   "word": "reconcile",
+   "pron": "(verb)",
+   "def": "To make two sets of data or accounts agree\nहिंदी: मिलान करना",
+   "examples": [
+    "We reconcile the vendor totals with our own counts every night.",
+    "I reconcile my bank statement with my expenses every month.",
+    "Finance couldn't reconcile the invoice with the purchase order.",
+    "We need a script to reconcile orders between the two systems."
+   ]
+  },
+  {
+   "id": "pack6-card-82",
+   "mode": "vocab",
+   "word": "discrepancy",
+   "pron": "(noun)",
+   "def": "A difference between things that should match\nहिंदी: असंगति / अंतर",
+   "examples": [
+    "There's a discrepancy between the two price feeds.",
+    "The auditor found a discrepancy in the travel claims.",
+    "There's a discrepancy between the stock count and the system.",
+    "Please explain the discrepancy before we close the books."
+   ]
+  },
+  {
+   "id": "pack6-card-83",
+   "mode": "vocab",
+   "word": "inconsistency",
+   "pron": "(noun)",
+   "def": "A lack of agreement or uniformity\nहिंदी: असंगति",
+   "examples": [
+    "The inconsistency in date formats caused the failures.",
+    "Customers noticed the inconsistency between the app and the website prices.",
+    "Inconsistency in naming makes the code hard to read.",
+    "His story had one small inconsistency that the manager noticed."
+   ]
+  },
+  {
+   "id": "pack6-card-84",
+   "mode": "vocab",
+   "word": "ambiguity",
+   "pron": "(noun)",
+   "def": "Uncertainty because something can be read in more than one way\nहिंदी: अस्पष्टता",
+   "examples": [
+    "The ticket's ambiguity led to two different implementations.",
+    "To avoid ambiguity, please write the exact date and time.",
+    "The contract had some ambiguity about who pays for travel.",
+    "Ask questions early to clear up any ambiguity in the requirements."
+   ]
+  },
+  {
+   "id": "pack6-card-87",
+   "mode": "vocab",
+   "word": "articulate",
+   "pron": "(verb)",
+   "def": "To express an idea clearly and effectively\nहिंदी: स्पष्ट रूप से व्यक्त करना",
+   "examples": [
+    "She articulated the risks without sounding alarmist.",
+    "He found it hard to articulate why he wanted to change teams.",
+    "A good leader can articulate the vision in a few simple words.",
+    "Practise articulating your achievements before the appraisal meeting."
+   ]
+  },
+  {
+   "id": "pack6-card-88",
+   "mode": "vocab",
+   "word": "concise",
+   "pron": "(adjective)",
+   "def": "Brief but comprehensive\nहिंदी: संक्षिप्त और सारगर्भित",
+   "examples": [
+    "Keep the update concise and lead with the impact.",
+    "Your answer was concise and to the point.",
+    "Write concise commit messages that explain the why.",
+    "Senior leaders prefer concise emails with a clear ask."
+   ]
+  },
+  {
+   "id": "pack6-card-89",
+   "mode": "vocab",
+   "word": "succinct",
+   "pron": "(adjective)",
+   "def": "Briefly and clearly expressed\nहिंदी: संक्षेप में कहा गया",
+   "examples": [
+    "Her succinct summary saved the meeting ten minutes.",
+    "Give a succinct answer when the interviewer asks about yourself.",
+    "The poster had a succinct message that everyone remembered.",
+    "His succinct reply was just: done, deployed, monitoring."
+   ]
+  },
+  {
+   "id": "pack6-card-90",
+   "mode": "vocab",
+   "word": "comprehensive",
+   "pron": "(adjective)",
+   "def": "Complete and covering all aspects\nहिंदी: व्यापक",
+   "examples": [
+    "We wrote comprehensive documentation for the new service.",
+    "The insurance plan offers comprehensive cover for the whole family.",
+    "She gave a comprehensive overview of the market in twenty minutes.",
+    "We need a comprehensive test plan before the launch."
+   ]
+  },
+  {
+   "id": "pack6-card-91",
+   "mode": "vocab",
+   "word": "thorough",
+   "pron": "(adjective)",
+   "def": "Careful and complete\nहिंदी: गहन / संपूर्ण",
+   "examples": [
+    "He did a thorough review and caught three edge cases.",
+    "The doctor was thorough and asked about my whole medical history.",
+    "Be thorough when you check the contract terms.",
+    "Thanks for the thorough feedback on my design document."
+   ]
+  },
+  {
+   "id": "pack6-card-93",
+   "mode": "vocab",
+   "word": "rigorous",
+   "pron": "(adjective)",
+   "def": "Strict and carefully precise\nहिंदी: कठोर और सटीक",
+   "examples": [
+    "We apply a rigorous review process to every change.",
+    "The selection process is rigorous, with three rounds of interviews.",
+    "Rigorous testing gave us confidence in the release.",
+    "Her research is rigorous and well documented."
+   ]
+  },
+  {
+   "id": "pack6-card-94",
+   "mode": "vocab",
+   "word": "pragmatic",
+   "pron": "(adjective)",
+   "def": "Practical rather than idealistic\nहिंदी: व्यावहारिक",
+   "examples": [
+    "A pragmatic fix now is better than a perfect one next quarter.",
+    "Let's be pragmatic and fix the top three issues first.",
+    "My manager takes a pragmatic approach to deadlines.",
+    "A pragmatic choice was to buy the tool instead of building it."
+   ]
+  },
+  {
+   "id": "pack6-card-96",
+   "mode": "vocab",
+   "word": "due diligence",
+   "pron": "(noun)",
+   "def": "Thorough investigation before a decision or agreement\nहिंदी: निर्णय से पहले की गहन जाँच",
+   "examples": [
+    "Please do your due diligence before adopting the library.",
+    "Do your due diligence before investing in any startup.",
+    "The buyer's lawyers did due diligence on the property papers.",
+    "Due diligence on the vendor revealed some security gaps."
+   ]
+  },
+  {
+   "id": "pack6-card-97",
+   "mode": "vocab",
+   "word": "proactive",
+   "pron": "(adjective)",
+   "def": "Acting in advance to deal with expected issues\nहिंदी: पहले से सक्रिय रहने वाला",
+   "examples": [
+    "Being proactive with vendors avoided another late-file incident.",
+    "She was proactive and booked the meeting room in advance.",
+    "Be proactive and tell your manager about risks early.",
+    "A proactive health check-up can catch problems early."
+   ]
+  },
+  {
+   "id": "pack6-card-98",
+   "mode": "vocab",
+   "word": "reactive",
+   "pron": "(adjective)",
+   "def": "Responding only after a problem occurs\nहिंदी: घटना के बाद प्रतिक्रिया देने वाला",
+   "examples": [
+    "Our support has been too reactive and needs better monitoring.",
+    "We want to stop being reactive and plan our work properly.",
+    "Reactive maintenance costs more than regular servicing.",
+    "His style is reactive; he waits until the client complains."
+   ]
+  },
+  {
+   "id": "pack6-card-101",
+   "mode": "vocab",
+   "word": "standardise",
+   "pron": "(verb)",
+   "def": "To make things conform to a common standard\nहिंदी: मानकीकृत करना",
+   "examples": [
+    "We need to standardise how errors are logged.",
+    "The company standardised laptops for all new joiners.",
+    "Let's standardise the format of our weekly reports.",
+    "Standardising the process cut onboarding time by half."
+   ]
+  },
+  {
+   "id": "pack6-card-102",
+   "mode": "vocab",
+   "word": "consolidate",
+   "pron": "(verb)",
+   "def": "To combine several things into one\nहिंदी: एकीकृत करना",
+   "examples": [
+    "We consolidated three similar jobs into one.",
+    "I consolidated my three loans into one with a lower interest rate.",
+    "We consolidated all the feedback into a single document.",
+    "The company plans to consolidate its two offices in Pune."
+   ]
+  },
+  {
+   "id": "pack6-card-103",
+   "mode": "vocab",
+   "word": "leverage",
+   "pron": "(verb)",
+   "def": "To use something to maximum advantage\nहिंदी: का भरपूर लाभ उठाना",
+   "examples": [
+    "We can leverage the existing validation library.",
+    "Leverage your network when you look for a new job.",
+    "We can leverage our existing customers to test the new product.",
+    "She leveraged her data skills to move into analytics."
+   ]
+  },
+  {
+   "id": "pack6-card-104",
+   "mode": "vocab",
+   "word": "utilise",
+   "pron": "(verb)",
+   "def": "To make practical use of something\nहिंदी: उपयोग में लाना",
+   "examples": [
+    "The team utilises serverless functions for lightweight tasks.",
+    "The hospital utilises every bed during the flu season.",
+    "We should utilise the training budget before March.",
+    "The new tool is not being utilised by most teams."
+   ]
+  },
+  {
+   "id": "pack6-card-105",
+   "mode": "vocab",
+   "word": "facilitate",
+   "pron": "(verb)",
+   "def": "To make an action or process easier\nहिंदी: सुविधाजनक बनाना",
+   "examples": [
+    "The new tool facilitates faster vendor onboarding.",
+    "The HR team will facilitate the workshop on Friday.",
+    "Good documentation facilitates faster code reviews.",
+    "The new metro line facilitates travel between the two cities."
+   ]
+  },
+  {
+   "id": "pack6-card-106",
+   "mode": "vocab",
+   "word": "expedite",
+   "pron": "(verb)",
+   "def": "To speed up the progress of something\nहिंदी: तेज़ी से निपटाना",
+   "examples": [
+    "Can we expedite the approval given the deadline?",
+    "The passport office can expedite your application for an extra fee.",
+    "Please expedite the shipment; the customer is waiting.",
+    "We expedited the hiring because the project started early."
+   ]
+  },
+  {
+   "id": "pack6-card-107",
+   "mode": "vocab",
+   "word": "streamlined",
+   "pron": "(adjective)",
+   "def": "Efficient and free of unnecessary steps\nहिंदी: सुव्यवस्थित",
+   "examples": [
+    "The streamlined deploy process takes five minutes.",
+    "The bank now has a streamlined process for opening accounts online.",
+    "A streamlined checkout means fewer abandoned carts.",
+    "After the changes, our onboarding is much more streamlined."
+   ]
+  },
+  {
+   "id": "pack6-card-108",
+   "mode": "vocab",
+   "word": "turnaround",
+   "pron": "(noun)",
+   "def": "The time taken to complete a task after receiving it\nहिंदी: कार्य पूरा होने में लगा समय",
+   "examples": [
+    "Our turnaround on support tickets is under a day.",
+    "The print shop offers a same-day turnaround on business cards.",
+    "What is the usual turnaround for a code review here?",
+    "Fast turnaround on feedback keeps the project moving."
+   ]
+  },
+  {
+   "id": "pack6-card-109",
+   "mode": "vocab",
+   "word": "traceability",
+   "pron": "(noun)",
+   "def": "The ability to track an item through its lifecycle\nहिंदी: ट्रैक करने की क्षमता",
+   "examples": [
+    "Audit requirements demand full traceability of each file.",
+    "Traceability lets us link every test to a requirement.",
+    "Food companies need traceability to track where ingredients came from.",
+    "The new system improves traceability of every order."
+   ]
+  },
+  {
+   "id": "pack6-card-110",
+   "mode": "vocab",
+   "word": "audit trail",
+   "pron": "(noun)",
+   "def": "A chronological record of actions for review\nहिंदी: कार्यों का क्रमवार रिकॉर्ड",
+   "examples": [
+    "Every manual change must leave an audit trail.",
+    "The audit trail shows who approved the payment and when.",
+    "Use the ticket system so there's an audit trail of decisions.",
+    "Without an audit trail, we couldn't prove the data wasn't changed."
+   ]
+  },
+  {
+   "id": "pack6-card-114",
+   "mode": "vocab",
+   "word": "sign-off",
+   "pron": "(noun)",
+   "def": "Formal approval to proceed\nहिंदी: औपचारिक स्वीकृति",
+   "examples": [
+    "We still need sign-off from the risk team.",
+    "The design is ready, but we're waiting for the client's sign-off.",
+    "Get sign-off from your manager before you book the travel.",
+    "Final sign-off on the budget came on Friday evening."
+   ]
+  },
+  {
+   "id": "pack6-card-116",
+   "mode": "vocab",
+   "word": "rollback",
+   "pron": "(noun)",
+   "def": "Reverting a system to a previous state\nहिंदी: पिछली स्थिति में लौटाना",
+   "examples": [
+    "We triggered a rollback within ten minutes of the alert.",
+    "Always have a rollback plan before a production release.",
+    "The rollback was smooth, and users noticed nothing.",
+    "We practised a rollback in staging before the big deploy."
+   ]
+  },
+  {
+   "id": "pack6-card-118",
+   "mode": "vocab",
+   "word": "cutover",
+   "pron": "(noun)",
+   "def": "The moment of switching from an old system to a new one\nहिंदी: पुराने से नए सिस्टम में बदलाव का क्षण",
+   "examples": [
+    "The cutover is planned for the weekend.",
+    "During the cutover, the old system will be read-only.",
+    "The bank's cutover to the new core system went smoothly.",
+    "We rehearsed the cutover twice before the real night."
+   ]
+  },
+  {
+   "id": "pack6-card-119",
+   "mode": "vocab",
+   "word": "canary release",
+   "pron": "(noun)",
+   "def": "Releasing to a small group first to detect problems\nहिंदी: पहले छोटे समूह में रिलीज़",
+   "examples": [
+    "A canary release exposed the memory leak early.",
+    "We did a canary release to five percent of users first.",
+    "The canary release showed no errors, so we rolled out to everyone.",
+    "A canary release limits the damage if something goes wrong."
+   ]
+  },
+  {
+   "id": "pack6-card-120",
+   "mode": "vocab",
+   "word": "feature flag",
+   "pron": "(noun)",
+   "def": "A switch that enables or disables a feature without redeploying\nहिंदी: फ़ीचर चालू/बंद करने वाला स्विच",
+   "examples": [
+    "Put the change behind a feature flag so we can disable it quickly.",
+    "We turned on the feature flag for internal users only.",
+    "Remove old feature flags once the feature is fully launched.",
+    "With a feature flag, marketing can launch the feature on their own schedule."
+   ]
+  },
+  {
+   "id": "pack6-card-122",
+   "mode": "vocab",
+   "word": "parity",
+   "pron": "(noun)",
+   "def": "The state of being equal or equivalent\nहिंदी: समानता",
+   "examples": [
+    "Staging should have parity with production.",
+    "Women demand pay parity with men in the same role.",
+    "The mobile app has reached feature parity with the website.",
+    "Keep test data in parity with real customer patterns."
+   ]
+  },
+  {
+   "id": "pack6-card-123",
+   "mode": "vocab",
+   "word": "drift",
+   "pron": "(noun)",
+   "def": "Gradual divergence from an intended state\nहिंदी: धीरे-धीरे भटकाव",
+   "examples": [
+    "Configuration drift caused the environments to behave differently.",
+    "Over time, there was drift between the documentation and the code.",
+    "We run a weekly check to detect infrastructure drift.",
+    "Without regular reviews, project goals tend to drift."
+   ]
+  },
+  {
+   "id": "pack6-card-124",
+   "mode": "vocab",
+   "word": "provision",
+   "pron": "(verb)",
+   "def": "To set up and make resources available\nहिंदी: संसाधन उपलब्ध कराना",
+   "examples": [
+    "Terraform provisions the entire environment in minutes.",
+    "IT will provision your laptop and email before you join.",
+    "It takes minutes to provision a new database in the cloud.",
+    "Please provision access for the new contractors by Monday."
+   ]
+  },
+  {
+   "id": "pack6-card-125",
+   "mode": "vocab",
+   "word": "orchestrate",
+   "pron": "(verb)",
+   "def": "To coordinate multiple components or tasks\nहिंदी: कई घटकों का समन्वय करना",
+   "examples": [
+    "Step Functions orchestrate the whole ingestion workflow.",
+    "She orchestrated the whole product launch across five teams.",
+    "Kubernetes orchestrates containers across many machines.",
+    "The event manager orchestrated the conference smoothly."
+   ]
+  },
+  {
+   "id": "pack6-card-126",
+   "mode": "vocab",
+   "word": "ingest",
+   "pron": "(verb)",
+   "def": "To take in data for processing\nहिंदी: डेटा ग्रहण करना",
+   "examples": [
+    "The platform ingests over a thousand files every day.",
+    "The system can ingest data from emails and spreadsheets.",
+    "We ingest logs from all servers into one search tool.",
+    "If we can't ingest the file, we send the vendor an alert."
+   ]
+  },
+  {
+   "id": "pack6-card-127",
+   "mode": "vocab",
+   "word": "propagate",
+   "pron": "(verb)",
+   "def": "To spread or transmit through a system\nहिंदी: फैलना / आगे पहुँचना",
+   "examples": [
+    "The change takes a few minutes to propagate to all regions.",
+    "DNS changes can take a few hours to propagate.",
+    "Errors in one service can propagate and break others.",
+    "The news propagated quickly through the office chat groups."
+   ]
+  },
+  {
+   "id": "pack6-card-128",
+   "mode": "vocab",
+   "word": "throttle",
+   "pron": "(verb)",
+   "def": "To deliberately limit the rate of requests\nहिंदी: गति सीमित करना",
+   "examples": [
+    "The API throttles us after one hundred requests per minute.",
+    "We throttle login attempts to stop password guessing.",
+    "The ISP throttled my internet speed after I crossed the limit.",
+    "Throttle the batch job so it doesn't slow down the live site."
+   ]
+  },
+  {
+   "id": "pack6-card-129",
+   "mode": "vocab",
+   "word": "backoff",
+   "pron": "(noun)",
+   "def": "A strategy of waiting longer between retries\nहिंदी: पुनः प्रयास में बढ़ता अंतराल",
+   "examples": [
+    "Use exponential backoff to avoid overloading the vendor.",
+    "Add a backoff so the client waits longer after each failure.",
+    "Without backoff, retries can make an outage worse.",
+    "The backoff starts at one second and doubles each time."
+   ]
+  },
+  {
+   "id": "pack6-card-130",
+   "mode": "vocab",
+   "word": "failover",
+   "pron": "(noun)",
+   "def": "Automatic switch to a standby system on failure\nहिंदी: विफलता पर स्टैंडबाय पर स्विच",
+   "examples": [
+    "Failover to the secondary region took about two minutes.",
+    "We test failover every quarter to make sure it works.",
+    "The database failover happened automatically at 3 am.",
+    "Failover kept the website running when one data centre went down."
+   ]
+  },
+  {
+   "id": "pack6-card-131",
+   "mode": "vocab",
+   "word": "redundancy",
+   "pron": "(noun)",
+   "def": "Duplicate components that provide backup\nहिंदी: अतिरिक्त बैकअप व्यवस्था",
+   "examples": [
+    "Redundancy at the queue level protects against data loss.",
+    "The office has redundancy with two internet connections.",
+    "Hospitals build redundancy into their power supply.",
+    "Redundancy costs money, but it saves us during outages."
+   ]
+  },
+  {
+   "id": "pack6-card-132",
+   "mode": "vocab",
+   "word": "fault tolerance",
+   "pron": "(noun)",
+   "def": "A system's ability to continue despite failures\nहिंदी: दोष सहनशीलता",
+   "examples": [
+    "Kafka gives us strong fault tolerance for event delivery.",
+    "Fault tolerance means one server failure won't stop the service.",
+    "We tested fault tolerance by switching off random machines.",
+    "Aircraft systems are designed with high fault tolerance."
+   ]
+  },
+  {
+   "id": "pack6-card-133",
+   "mode": "vocab",
+   "word": "single point of failure",
+   "pron": "(noun)",
+   "def": "A component whose failure stops the whole system\nहिंदी: एकल विफलता बिंदु",
+   "examples": [
+    "The shared config server is a single point of failure.",
+    "If only one person knows the system, they are a single point of failure.",
+    "The one router in the office is a single point of failure.",
+    "We removed every single point of failure before the big sale."
+   ]
+  },
+  {
+   "id": "pack6-card-134",
+   "mode": "vocab",
+   "word": "race condition",
+   "pron": "(noun)",
+   "def": "A bug caused by the timing of concurrent operations\nहिंदी: समयबद्धता पर निर्भर बग",
+   "examples": [
+    "The duplicate rows came from a race condition between two consumers.",
+    "A race condition let two users book the same seat.",
+    "The bug appeared only under load, a classic race condition.",
+    "Use a lock to prevent a race condition when updating the balance."
+   ]
+  },
+  {
+   "id": "pack6-card-135",
+   "mode": "vocab",
+   "word": "deadlock",
+   "pron": "(noun)",
+   "def": "A situation where processes wait on each other forever\nहिंदी: आपसी प्रतीक्षा में अटकना",
+   "examples": [
+    "Two transactions caused a deadlock in the database.",
+    "The app froze because of a deadlock between two threads.",
+    "Talks reached a deadlock when neither side would compromise.",
+    "Always take locks in the same order to avoid a deadlock."
+   ]
+  },
+  {
+   "id": "pack6-card-136",
+   "mode": "vocab",
+   "word": "concurrency",
+   "pron": "(noun)",
+   "def": "Multiple tasks making progress at overlapping times\nहिंदी: समवर्तिता",
+   "examples": [
+    "Concurrency bugs are hard to reproduce.",
+    "The new web server handles high concurrency without slowing down.",
+    "We limited concurrency to ten jobs so the database stays healthy.",
+    "Concurrency lets the app download images while the user keeps scrolling."
+   ]
+  },
+  {
+   "id": "pack6-card-137",
+   "mode": "vocab",
+   "word": "asynchronous",
+   "pron": "(adjective)",
+   "def": "Not happening at the same time or in sequence\nहिंदी: अतुल्यकालिक",
+   "examples": [
+    "We process files asynchronously to keep the API responsive.",
+    "Our team works asynchronously across three time zones.",
+    "Send an asynchronous update in the channel instead of calling a meeting.",
+    "The upload is asynchronous, so you can close the page."
+   ]
+  },
+  {
+   "id": "pack6-card-138",
+   "mode": "vocab",
+   "word": "payload",
+   "pron": "(noun)",
+   "def": "The actual data carried in a message or request\nहिंदी: संदेश का मुख्य डेटा",
+   "examples": [
+    "The payload exceeded the size limit of the queue.",
+    "Keep the payload small so the mobile app loads quickly.",
+    "The webhook payload includes the order id and status.",
+    "Log the payload when a request fails, but hide personal data."
+   ]
+  },
+  {
+   "id": "pack6-card-139",
+   "mode": "vocab",
+   "word": "schema",
+   "pron": "(noun)",
+   "def": "The defined structure of data\nहिंदी: डेटा की संरचना",
+   "examples": [
+    "The vendor changed the schema without notice.",
+    "Please share the database schema before we start the report.",
+    "A clear schema makes the data easy for other teams to use.",
+    "We added two optional fields to the schema."
+   ]
+  },
+  {
+   "id": "pack6-card-141",
+   "mode": "vocab",
+   "word": "payload validation",
+   "pron": "(noun)",
+   "def": "Checking incoming data for correctness\nहिंदी: आने वाले डेटा की जाँच",
+   "examples": [
+    "Payload validation rejects malformed files early.",
+    "Payload validation caught a request with a negative price.",
+    "Without payload validation, bad data reached the database.",
+    "We return a clear error message when payload validation fails."
+   ]
+  },
+  {
+   "id": "pack6-card-142",
+   "mode": "vocab",
+   "word": "edge case",
+   "pron": "(noun)",
+   "def": "An unusual situation at the extreme of normal operation\nहिंदी: असामान्य सीमांत स्थिति",
+   "examples": [
+    "Leap-year dates were an edge case we missed.",
+    "What happens if the user has no middle name? That's an edge case.",
+    "Test the edge cases, like zero items and very large orders.",
+    "A good tester always thinks about edge cases."
+   ]
+  },
+  {
+   "id": "pack6-card-143",
+   "mode": "vocab",
+   "word": "corner case",
+   "pron": "(noun)",
+   "def": "A rare situation involving multiple extreme conditions together\nहिंदी: दुर्लभ जटिल स्थिति",
+   "examples": [
+    "The bug only appears in a corner case with empty files and retries.",
+    "The crash was a corner case: offline mode, low battery and a big file.",
+    "We found a corner case where two discounts applied together.",
+    "Don't block the release for a corner case that affects one user."
+   ]
+  },
+  {
+   "id": "pack6-card-144",
+   "mode": "vocab",
+   "word": "reproducible",
+   "pron": "(adjective)",
+   "def": "Able to be recreated consistently\nहिंदी: दोहराने योग्य",
+   "examples": [
+    "The bug is reproducible with this sample file.",
+    "Please share reproducible steps so we can fix the bug.",
+    "The error is not reproducible on my laptop.",
+    "Good science needs results that are reproducible by others."
+   ]
+  },
+  {
+   "id": "pack6-card-145",
+   "mode": "vocab",
+   "word": "intermittent",
+   "pron": "(adjective)",
+   "def": "Occurring at irregular intervals\nहिंदी: रुक-रुक कर होने वाला",
+   "examples": [
+    "The intermittent timeout is hard to diagnose.",
+    "My phone has an intermittent charging problem.",
+    "The intermittent error happens maybe twice a week.",
+    "Intermittent network issues made the video call choppy."
+   ]
+  },
+  {
+   "id": "pack6-card-146",
+   "mode": "vocab",
+   "word": "sporadic",
+   "pron": "(adjective)",
+   "def": "Occurring occasionally and unpredictably\nहिंदी: यदा-कदा होने वाला",
+   "examples": [
+    "We saw sporadic failures during peak hours.",
+    "We get sporadic complaints about late deliveries.",
+    "There was sporadic rain throughout the day.",
+    "His attendance at the weekly meeting has been sporadic."
+   ]
+  },
+  {
+   "id": "pack6-card-147",
+   "mode": "vocab",
+   "word": "persistent",
+   "pron": "(adjective)",
+   "def": "Continuing without stopping\nहिंदी: लगातार बना रहने वाला",
+   "examples": [
+    "A persistent error indicates a configuration problem.",
+    "She had a persistent cough for three weeks.",
+    "The persistent noise from construction made it hard to focus.",
+    "Persistent follow-ups finally got the vendor to respond."
+   ]
+  },
+  {
+   "id": "pack6-card-148",
+   "mode": "vocab",
+   "word": "pinpoint",
+   "pron": "(verb)",
+   "def": "To identify exactly the cause or location\nहिंदी: ठीक-ठीक पहचानना",
+   "examples": [
+    "The logs helped us pinpoint the failing step.",
+    "Can you pinpoint when the problem first started?",
+    "The mechanic pinpointed the noise to a loose belt.",
+    "It's hard to pinpoint one reason for the drop in sales."
+   ]
+  },
+  {
+   "id": "pack6-card-149",
+   "mode": "vocab",
+   "word": "isolate",
+   "pron": "(verb)",
+   "def": "To separate something to study it independently\nहिंदी: अलग करके जाँचना",
+   "examples": [
+    "First, isolate the component that's producing bad output.",
+    "Isolate the patient to stop the infection from spreading.",
+    "We isolated the slow query by turning off features one by one.",
+    "Try to isolate the issue to a single file before asking for help."
+   ]
+  },
+  {
+   "id": "pack6-card-151",
+   "mode": "vocab",
+   "word": "corroborate",
+   "pron": "(verb)",
+   "def": "To confirm with additional evidence\nहिंदी: अतिरिक्त प्रमाण से पुष्टि करना",
+   "examples": [
+    "The metrics corroborate what the customers reported.",
+    "Two other witnesses corroborated her story.",
+    "Sales data corroborates the customer survey results.",
+    "Can anyone corroborate that the server was restarted at noon?"
+   ]
+  },
+  {
+   "id": "pack6-card-152",
+   "mode": "vocab",
+   "word": "substantiate",
+   "pron": "(verb)",
+   "def": "To provide evidence supporting a claim\nहिंदी: प्रमाण देकर सिद्ध करना",
+   "examples": [
+    "Can you substantiate that estimate with historical data?",
+    "You'll need receipts to substantiate your expense claim.",
+    "He couldn't substantiate his claim that the vendor was at fault.",
+    "Substantiate your feedback with specific examples."
+   ]
+  },
+  {
+   "id": "pack6-card-153",
+   "mode": "vocab",
+   "word": "caveat",
+   "pron": "(noun)",
+   "def": "A warning or condition that qualifies a statement\nहिंदी: चेतावनी / शर्त",
+   "examples": [
+    "One caveat is that this only works for files under 1 GB.",
+    "The offer sounds great, but there's a caveat: it's only for new users.",
+    "I'll agree, with one caveat: we review it after a month.",
+    "Please add a caveat that these numbers are not final."
+   ]
+  },
+  {
+   "id": "pack6-card-154",
+   "mode": "vocab",
+   "word": "disclaimer",
+   "pron": "(noun)",
+   "def": "A statement limiting responsibility or certainty\nहिंदी: अस्वीकरण",
+   "examples": [
+    "A quick disclaimer: this is based on partial data.",
+    "The advert had a small disclaimer about hidden charges.",
+    "The video starts with a disclaimer that it is not financial advice.",
+    "I'll start with a disclaimer: I'm not an expert in tax."
+   ]
+  },
+  {
+   "id": "pack6-card-155",
+   "mode": "vocab",
+   "word": "nuance",
+   "pron": "(noun)",
+   "def": "A subtle difference in meaning or detail\nहिंदी: सूक्ष्म अंतर",
+   "examples": [
+    "There's a nuance in how vendors define a corrected price.",
+    "Learning a language means understanding its nuances.",
+    "The nuance in his feedback was that the idea is good but early.",
+    "A good translator captures every nuance of the original."
+   ]
+  },
+  {
+   "id": "pack6-card-156",
+   "mode": "vocab",
+   "word": "implication",
+   "pron": "(noun)",
+   "def": "A likely consequence or effect\nहिंदी: निहितार्थ",
+   "examples": [
+    "What are the implications for downstream reports?",
+    "Have you thought about the cost implications of this plan?",
+    "The implication of his comment was that we were too slow.",
+    "The new law has big implications for small businesses."
+   ]
+  },
+  {
+   "id": "pack6-card-157",
+   "mode": "vocab",
+   "word": "ramification",
+   "pron": "(noun)",
+   "def": "A complicating consequence of an action\nहिंदी: जटिल परिणाम",
+   "examples": [
+    "The ramifications of changing the key are significant.",
+    "The merger had ramifications for every department.",
+    "Consider the legal ramifications before you sign.",
+    "Nobody expected the ramifications of that small pricing change."
+   ]
+  },
+  {
+   "id": "pack6-card-158",
+   "mode": "vocab",
+   "word": "repercussion",
+   "pron": "(noun)",
+   "def": "An unintended consequence, usually negative\nहिंदी: दुष्परिणाम",
+   "examples": [
+    "Skipping validation had serious repercussions.",
+    "Missing the deadline could have repercussions for your appraisal.",
+    "The repercussions of the data leak are still being felt.",
+    "He spoke honestly, without fear of repercussions."
+   ]
+  },
+  {
+   "id": "pack6-card-159",
+   "mode": "vocab",
+   "word": "mitigation",
+   "pron": "(noun)",
+   "def": "Action taken to reduce harm or risk\nहिंदी: जोखिम घटाने की कार्रवाई",
+   "examples": [
+    "The mitigation plan includes automatic retries.",
+    "Wearing a helmet is a simple mitigation against head injury.",
+    "List each risk along with its mitigation in the plan.",
+    "Our mitigation for vendor delays is a backup supplier."
+   ]
+  },
+  {
+   "id": "pack6-card-160",
+   "mode": "vocab",
+   "word": "contingency plan",
+   "pron": "(noun)",
+   "def": "A plan for use if something goes wrong\nहिंदी: आपात योजना",
+   "examples": [
+    "We need a contingency plan if the vendor misses the deadline.",
+    "If it rains, our contingency plan is to move the party indoors.",
+    "Every big launch needs a contingency plan.",
+    "Our contingency plan for the outage was a manual process."
+   ]
+  },
+  {
+   "id": "pack6-card-161",
+   "mode": "vocab",
+   "word": "fallback",
+   "pron": "(noun)",
+   "def": "An alternative to use if the main option fails\nहिंदी: विकल्प / वैकल्पिक व्यवस्था",
+   "examples": [
+    "The fallback is to load yesterday's file.",
+    "If the card payment fails, cash on delivery is the fallback.",
+    "My fallback option is to take the train if the flight is cancelled.",
+    "Always have a fallback when you depend on one supplier."
+   ]
+  },
+  {
+   "id": "pack6-card-162",
+   "mode": "vocab",
+   "word": "safeguard",
+   "pron": "(noun)",
+   "def": "A measure that protects against harm\nहिंदी: सुरक्षा उपाय",
+   "examples": [
+    "Validation acts as a safeguard against corrupt data.",
+    "Two-step verification is a safeguard for your bank account.",
+    "The law includes safeguards to protect workers.",
+    "We added a safeguard so nobody can delete data by mistake."
+   ]
+  },
+  {
+   "id": "pack6-card-163",
+   "mode": "vocab",
+   "word": "pitfall",
+   "pron": "(noun)",
+   "def": "A hidden danger or common mistake\nहिंदी: छुपा हुआ ख़तरा",
+   "examples": [
+    "A common pitfall is ignoring time zones.",
+    "One pitfall of working from home is never switching off.",
+    "The guide lists common pitfalls for first-time home buyers.",
+    "Avoid the pitfall of promising dates before you understand the work."
+   ]
+  },
+  {
+   "id": "pack6-card-164",
+   "mode": "vocab",
+   "word": "gotcha",
+   "pron": "(noun)",
+   "def": "An unexpected catch or hidden difficulty\nहिंदी: अनपेक्षित अड़चन",
+   "examples": [
+    "Here's a gotcha: the vendor timestamps are in local time.",
+    "The gotcha with this phone plan is the high roaming charge.",
+    "One gotcha in this library is that dates are zero-indexed by month.",
+    "Read the fine print; there's always a gotcha."
+   ]
+  },
+  {
+   "id": "pack6-card-168",
+   "mode": "vocab",
+   "word": "EOD",
+   "pron": "(abbreviation)",
+   "def": "End of day\nहिंदी: दिन का अंत",
+   "examples": [
+    "I'll send the summary by EOD.",
+    "Please share the draft by EOD tomorrow.",
+    "Can I get back to you by EOD?",
+    "EOD in India is early morning for our US clients."
+   ]
+  },
+  {
+   "id": "pack6-card-169",
+   "mode": "vocab",
+   "word": "TL;DR",
+   "pron": "(abbreviation)",
+   "def": "A very short summary of a long text\nहिंदी: संक्षेप में",
+   "examples": [
+    "TL;DR, we need two more weeks to finish safely.",
+    "TL;DR: the launch is on track, with one small risk.",
+    "Add a TL;DR at the top of long emails.",
+    "Here is the TL;DR of the hour-long meeting."
+   ]
+  },
+  {
+   "id": "pack6-card-170",
+   "mode": "vocab",
+   "word": "touchpoint",
+   "pron": "(noun)",
+   "def": "A point of contact or interaction\nहिंदी: संपर्क बिंदु",
+   "examples": [
+    "We have a weekly touchpoint with the vendor.",
+    "The app is our main touchpoint with customers.",
+    "Every touchpoint should give the customer the same experience.",
+    "Let's set up a short daily touchpoint during the release week."
+   ]
+  },
+  {
+   "id": "pack6-card-171",
+   "mode": "vocab",
+   "word": "cadence",
+   "pron": "(noun)",
+   "def": "A regular rhythm or frequency of events\nहिंदी: नियमित अंतराल / लय",
+   "examples": [
+    "Let's set a fortnightly cadence for reviews.",
+    "We release to production on a weekly cadence.",
+    "The team found a good cadence after a few sprints.",
+    "Monthly one-on-ones are a good cadence for most people."
+   ]
+  },
+  {
+   "id": "pack6-card-172",
+   "mode": "vocab",
+   "word": "retrospective",
+   "pron": "(noun)",
+   "def": "A team meeting to reflect on what went well and what didn't\nहिंदी: कार्य-समीक्षा बैठक",
+   "examples": [
+    "The retrospective surfaced the same communication gaps.",
+    "In the retrospective, we agreed to write smaller tickets.",
+    "Keep the retrospective safe so people speak honestly.",
+    "Each retrospective should end with two or three action items."
+   ]
+  },
+  {
+   "id": "pack6-card-174",
+   "mode": "vocab",
+   "word": "takeaway",
+   "pron": "(noun)",
+   "def": "A key lesson or point to remember\nहिंदी: मुख्य निष्कर्ष",
+   "examples": [
+    "My main takeaway is that we need earlier testing.",
+    "The key takeaway from the training was to listen more.",
+    "Please share your takeaways from the conference with the team.",
+    "One takeaway from the incident was to test backups regularly."
+   ]
+  },
+  {
+   "id": "pack6-card-176",
+   "mode": "vocab",
+   "word": "parking lot",
+   "pron": "(noun)",
+   "def": "A place to note off-topic items for later discussion\nहिंदी: बाद में चर्चा के लिए रखे गए विषय",
+   "examples": [
+    "Let's put that in the parking lot and return to it later.",
+    "I've added your budget question to the parking lot.",
+    "We ran out of time, so the parking lot items move to Friday.",
+    "Use a parking lot to keep the meeting on track."
+   ]
+  },
+  {
+   "id": "pack6-card-177",
+   "mode": "vocab",
+   "word": "deep dive",
+   "pron": "(noun)",
+   "def": "An in-depth examination of a topic\nहिंदी: गहन अध्ययन",
+   "examples": [
+    "We scheduled a deep dive into the retry logic.",
+    "Let's do a deep dive into why customers cancel their orders.",
+    "The training ended with a deep dive on security basics.",
+    "I need a deep dive into the numbers before I approve the budget."
+   ]
+  },
+  {
+   "id": "pack6-card-178",
+   "mode": "vocab",
+   "word": "whiteboarding",
+   "pron": "(noun)",
+   "def": "Explaining ideas visually on a board\nहिंदी: बोर्ड पर चित्र बनाकर समझाना",
+   "examples": [
+    "The whiteboarding session clarified the data flow.",
+    "We spent an hour whiteboarding the new user journey.",
+    "Whiteboarding works well for explaining complex systems.",
+    "In the interview, they asked me to do some whiteboarding."
+   ]
+  },
+  {
+   "id": "pack6-card-181",
+   "mode": "vocab",
+   "word": "dry run",
+   "pron": "(noun)",
+   "def": "A rehearsal without real effects\nहिंदी: बिना असर वाला अभ्यास",
+   "examples": [
+    "Do a dry run of the migration first.",
+    "Let's do a dry run of the presentation before the client call.",
+    "The dry run showed that the script missed two tables.",
+    "We did a dry run of the fire drill last week."
+   ]
+  },
+  {
+   "id": "pack6-card-183",
+   "mode": "vocab",
+   "word": "feasibility",
+   "pron": "(noun)",
+   "def": "The degree to which something can be done\nहिंदी: व्यवहार्यता",
+   "examples": [
+    "We are assessing the feasibility of real-time ingestion.",
+    "The study looked at the feasibility of a new metro line.",
+    "Before we promise anything, let's check the feasibility.",
+    "A short feasibility test showed the idea could work."
+   ]
+  },
+  {
+   "id": "pack6-card-184",
+   "mode": "vocab",
+   "word": "viability",
+   "pron": "(noun)",
+   "def": "The ability to work successfully\nहिंदी: व्यवहार्यता / टिकाऊपन",
+   "examples": [
+    "The pilot confirmed the viability of the approach.",
+    "Investors questioned the long-term viability of the business.",
+    "The survey helped us judge the viability of the new product.",
+    "Rising costs threaten the viability of small restaurants."
+   ]
+  },
+  {
+   "id": "pack6-card-189",
+   "mode": "vocab",
+   "word": "definition of done",
+   "pron": "(noun)",
+   "def": "Agreed criteria for a task to be considered finished\nहिंदी: कार्य पूर्ण मानने के मानदंड",
+   "examples": [
+    "Tests and documentation are part of our definition of done.",
+    "Code review is part of our definition of done.",
+    "Agree on a definition of done before the sprint starts.",
+    "The ticket isn't closed until it meets the definition of done."
+   ]
+  },
+  {
+   "id": "pack6-card-190",
+   "mode": "vocab",
+   "word": "acceptance criteria",
+   "pron": "(noun)",
+   "def": "Conditions a feature must meet to be accepted\nहिंदी: स्वीकृति की शर्तें",
+   "examples": [
+    "Write clear acceptance criteria before development starts.",
+    "The tester checked every acceptance criteria item before approving.",
+    "Vague acceptance criteria lead to arguments at the demo.",
+    "Please add acceptance criteria to the story before planning."
+   ]
+  },
+  {
+   "id": "pack6-card-191",
+   "mode": "vocab",
+   "word": "burndown",
+   "pron": "(noun)",
+   "def": "A chart showing remaining work over time\nहिंदी: शेष कार्य दर्शाने वाला चार्ट",
+   "examples": [
+    "The burndown shows we're behind schedule.",
+    "The burndown dropped sharply after we closed the big tickets.",
+    "Check the burndown chart in the daily stand-up.",
+    "A flat burndown means work is stuck somewhere."
+   ]
+  },
+  {
+   "id": "pack6-card-192",
+   "mode": "vocab",
+   "word": "grooming",
+   "pron": "(noun)",
+   "def": "Reviewing and refining backlog items before planning\nहिंदी: बैकलॉग की समीक्षा व परिष्कार",
+   "examples": [
+    "Backlog grooming clarified the vague tickets.",
+    "We do backlog grooming every Wednesday afternoon.",
+    "After grooming, each ticket had a clear estimate.",
+    "Skipping grooming made our sprint planning very long."
+   ]
+  },
+  {
+   "id": "pack6-card-194",
+   "mode": "vocab",
+   "word": "nitpick",
+   "pron": "(verb)",
+   "def": "To criticise minor details excessively\nहिंदी: छोटी बातों पर टोकना",
+   "examples": [
+    "I don't want to nitpick, but the variable name is unclear.",
+    "My manager tends to nitpick every slide I make.",
+    "Please don't nitpick spacing; focus on the logic in the review.",
+    "One small nitpick: there's a typo in the subject line."
+   ]
+  },
+  {
+   "id": "pack6-card-195",
+   "mode": "vocab",
+   "word": "merge conflict",
+   "pron": "(noun)",
+   "def": "A clash between changes made to the same code\nहिंदी: कोड बदलावों का टकराव",
+   "examples": [
+    "I'll resolve the merge conflict before lunch.",
+    "Small, frequent commits reduce the chance of a merge conflict.",
+    "The merge conflict happened because we both edited the same file.",
+    "Ask the other developer before resolving a tricky merge conflict."
+   ]
+  },
+  {
+   "id": "pack6-card-196",
+   "mode": "vocab",
+   "word": "rebase",
+   "pron": "(verb)",
+   "def": "To reapply commits on top of another base\nहिंदी: कमिट्स को नए आधार पर दोबारा लगाना",
+   "examples": [
+    "Please rebase your branch on the latest main.",
+    "I rebased my changes so the history stays clean.",
+    "Don't rebase a branch that others are already using.",
+    "After the rebase, all the tests passed again."
+   ]
+  },
+  {
+   "id": "pack6-card-198",
+   "mode": "vocab",
+   "word": "on-call",
+   "pron": "(adjective)",
+   "def": "Available to respond to urgent issues outside work hours\nहिंदी: आपात स्थिति के लिए उपलब्ध",
+   "examples": [
+    "I'm on-call this weekend.",
+    "The on-call engineer got paged at 2 am.",
+    "We rotate on-call duty every week.",
+    "Being on-call means keeping your laptop close."
+   ]
+  },
+  {
+   "id": "pack6-card-199",
+   "mode": "vocab",
+   "word": "incident commander",
+   "pron": "(noun)",
+   "def": "The person leading the response to an incident\nहिंदी: घटना संभालने वाला नेतृत्वकर्ता",
+   "examples": [
+    "The incident commander assigned roles within minutes.",
+    "The incident commander decides when to roll back.",
+    "She was the incident commander during the payment outage.",
+    "The incident commander sends updates every thirty minutes."
+   ]
+  },
+  {
+   "id": "pack6-card-200",
+   "mode": "vocab",
+   "word": "war room",
+   "pron": "(noun)",
+   "def": "A dedicated space or channel for handling a crisis\nहिंदी: संकट संभालने का विशेष कक्ष",
+   "examples": [
+    "We opened a war room for the production outage.",
+    "The war room had people from engineering, support and legal.",
+    "We set up a war room for the big sale weekend.",
+    "The war room closed once the system was stable again."
+   ]
+  }
+ ]
+}

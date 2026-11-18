@@ -1,0 +1,1321 @@
+{
+ "id": "pack4-deck-1",
+ "categoryId": "pack4-cat-1",
+ "title": "Stand-up Meetings",
+ "sub": "What to say in daily stand-ups and quick team updates.",
+ "cards": [
+  {
+   "id": "pack4-card-1",
+   "mode": "vocab",
+   "word": "stand-up",
+   "pron": "",
+   "def": "a short daily team meeting held standing up\nहिंदी: स्टैंड-अप / रोज़ की छोटी टीम मीटिंग",
+   "examples": [
+    "Our stand-up starts at ten sharp.",
+    "I'll share it in tomorrow's stand-up.",
+    "Can we keep the stand-up under fifteen minutes?",
+    "I missed the stand-up, so I posted my update in the channel."
+   ]
+  },
+  {
+   "id": "pack4-card-2",
+   "mode": "vocab",
+   "word": "daily scrum",
+   "pron": "",
+   "def": "a brief daily meeting in agile teams\nहिंदी: डेली स्क्रम",
+   "examples": [
+    "The daily scrum takes fifteen minutes.",
+    "We cover blockers in the daily scrum.",
+    "The scrum master runs the daily scrum on video.",
+    "Let's raise the release question after the daily scrum."
+   ]
+  },
+  {
+   "id": "pack4-card-3",
+   "mode": "vocab",
+   "word": "yesterday I worked on",
+   "pron": "",
+   "def": "a standard opening to report past work\nहिंदी: कल मैंने ... पर काम किया",
+   "examples": [
+    "Yesterday I worked on the login page.",
+    "Yesterday I worked on fixing two bugs.",
+    "Yesterday I worked on the export feature and got it mostly done.",
+    "Yesterday I worked on the review comments from Priya."
+   ]
+  },
+  {
+   "id": "pack4-card-4",
+   "mode": "vocab",
+   "word": "today I'm planning to",
+   "pron": "",
+   "def": "a standard phrase to state today's work\nहिंदी: आज मैं ... करने की योजना बना रहा हूँ",
+   "examples": [
+    "Today I'm planning to write unit tests.",
+    "Today I'm planning to review two pull requests.",
+    "Today I'm planning to finish the dashboard filters.",
+    "Today I'm planning to pair with Ravi on the flaky test."
+   ]
+  },
+  {
+   "id": "pack4-card-5",
+   "mode": "vocab",
+   "word": "I'm currently working on",
+   "pron": "",
+   "def": "a phrase describing ongoing work\nहिंदी: मैं अभी ... पर काम कर रहा हूँ",
+   "examples": [
+    "I'm currently working on the payment module.",
+    "I'm currently working on the API changes.",
+    "I'm currently working on the performance issue in search.",
+    "I'm currently working on the docs for the new endpoint."
+   ]
+  },
+  {
+   "id": "pack4-card-6",
+   "mode": "vocab",
+   "word": "I wrapped up",
+   "pron": "",
+   "def": "I finished something\nहिंदी: मैंने ... पूरा कर लिया",
+   "examples": [
+    "I wrapped up the report yesterday.",
+    "I wrapped up the migration script.",
+    "I wrapped up the code review before lunch.",
+    "Once I've wrapped up this ticket, I'll help with testing."
+   ]
+  },
+  {
+   "id": "pack4-card-7",
+   "mode": "vocab",
+   "word": "I picked up",
+   "pron": "",
+   "def": "I started taking on a task\nहिंदी: मैंने ... उठा लिया / शुरू किया",
+   "examples": [
+    "I picked up a ticket from the backlog.",
+    "I picked up the search task.",
+    "I picked up the bug that Neha reported.",
+    "Yesterday I picked up the onboarding story."
+   ]
+  },
+  {
+   "id": "pack4-card-8",
+   "mode": "vocab",
+   "word": "I'm picking up",
+   "pron": "",
+   "def": "I am about to start a task\nहिंदी: मैं ... शुरू करने जा रहा हूँ",
+   "examples": [
+    "I'm picking up the profile page next.",
+    "I'm picking up a new story today.",
+    "After this, I'm picking up the email notifications task.",
+    "Is anyone picking up the logging ticket, or shall I?"
+   ]
+  },
+  {
+   "id": "pack4-card-9",
+   "mode": "vocab",
+   "word": "blocker",
+   "pron": "",
+   "def": "something that prevents progress\nहिंदी: रुकावट / अटकाने वाली चीज़",
+   "examples": [
+    "I have a blocker on the database access.",
+    "No blockers from my side.",
+    "The missing API key is a blocker for the integration.",
+    "Let me know if any blocker comes up during the day."
+   ]
+  },
+  {
+   "id": "pack4-card-10",
+   "mode": "vocab",
+   "word": "I'm blocked on",
+   "pron": "",
+   "def": "I cannot proceed until something is resolved\nहिंदी: मैं ... पर अटका हुआ हूँ",
+   "examples": [
+    "I'm blocked on the design approval.",
+    "I'm blocked on the test environment.",
+    "I'm blocked on access to the production logs.",
+    "We're blocked on the legal review for the new terms."
+   ]
+  },
+  {
+   "id": "pack4-card-11",
+   "mode": "vocab",
+   "word": "no blockers",
+   "pron": "",
+   "def": "nothing is stopping my work\nहिंदी: कोई रुकावट नहीं",
+   "examples": [
+    "No blockers, all good.",
+    "I have no blockers today.",
+    "No blockers right now, but I'll shout if that changes.",
+    "Everything's moving; no blockers on the release."
+   ]
+  },
+  {
+   "id": "pack4-card-12",
+   "mode": "vocab",
+   "word": "dependency",
+   "pron": "",
+   "def": "something my work relies on\nहिंदी: निर्भरता",
+   "examples": [
+    "We have a dependency on the backend team.",
+    "The task has a hidden dependency.",
+    "The mobile release has a dependency on the new API.",
+    "Let's list every dependency before we commit to a date."
+   ]
+  },
+  {
+   "id": "pack4-card-13",
+   "mode": "vocab",
+   "word": "waiting on",
+   "pron": "",
+   "def": "not able to continue until someone delivers\nहिंदी: ... का इंतज़ार कर रहा हूँ",
+   "examples": [
+    "I'm waiting on a review from Sam.",
+    "We're waiting on the vendor's reply.",
+    "We're still waiting on the final designs.",
+    "I'm waiting on QA to sign off on the fix."
+   ]
+  },
+  {
+   "id": "pack4-card-14",
+   "mode": "vocab",
+   "word": "need a hand",
+   "pron": "",
+   "def": "need help\nहिंदी: मदद चाहिए",
+   "examples": [
+    "I need a hand with this deployment.",
+    "Could someone give me a hand?",
+    "Do you need a hand with the release notes?",
+    "I'll need a hand moving the old data later."
+   ]
+  },
+  {
+   "id": "pack4-card-15",
+   "mode": "vocab",
+   "word": "could use some help",
+   "pron": "",
+   "def": "would benefit from assistance\nहिंदी: थोड़ी मदद मिल जाए तो अच्छा",
+   "examples": [
+    "I could use some help with the tests.",
+    "I could use some help debugging this.",
+    "I could use some help understanding the billing code.",
+    "If you're free later, I could use some help with the setup."
+   ]
+  },
+  {
+   "id": "pack4-card-16",
+   "mode": "vocab",
+   "word": "can we take it offline",
+   "pron": "",
+   "def": "let's discuss this after the meeting\nहिंदी: इसे मीटिंग के बाद अलग से देख लें",
+   "examples": [
+    "Can we take this offline?",
+    "Let's take it offline after stand-up.",
+    "This is getting detailed; can we take it offline?",
+    "Good question — can we take it offline and include Sam?"
+   ]
+  },
+  {
+   "id": "pack4-card-17",
+   "mode": "vocab",
+   "word": "let's park it",
+   "pron": "",
+   "def": "set aside for later\nहिंदी: इसे बाद के लिए रख दें",
+   "examples": [
+    "Let's park that for now.",
+    "We'll park this discussion until Friday.",
+    "Let's park the naming debate and focus on the bug.",
+    "I'll note it so we don't forget the item we parked."
+   ]
+  },
+  {
+   "id": "pack4-card-18",
+   "mode": "vocab",
+   "word": "circle back",
+   "pron": "",
+   "def": "return to a topic later\nहिंदी: बाद में इस पर लौटेंगे",
+   "examples": [
+    "We'll circle back on this tomorrow.",
+    "Let me circle back after checking.",
+    "I'll circle back once I have the numbers.",
+    "Can we circle back to the budget at the end?"
+   ]
+  },
+  {
+   "id": "pack4-card-19",
+   "mode": "vocab",
+   "word": "heads-up",
+   "pron": "",
+   "def": "an early warning or notice\nहिंदी: पहले से सूचना",
+   "examples": [
+    "Just a heads-up, the server will restart.",
+    "Quick heads-up: I'll be out on Friday.",
+    "Thanks for the heads-up about the outage.",
+    "I'll give the support team a heads-up before we deploy."
+   ]
+  },
+  {
+   "id": "pack4-card-20",
+   "mode": "vocab",
+   "word": "FYI",
+   "pron": "",
+   "def": "for your information\nहिंदी: आपकी जानकारी के लिए",
+   "examples": [
+    "FYI, the release is delayed.",
+    "FYI, the doc is updated.",
+    "FYI, I've moved the meeting to three.",
+    "Just FYI, the client approved the new design."
+   ]
+  },
+  {
+   "id": "pack4-card-21",
+   "mode": "vocab",
+   "word": "quick update",
+   "pron": "",
+   "def": "a brief status message\nहिंदी: संक्षिप्त अपडेट",
+   "examples": [
+    "Here's a quick update on the bug.",
+    "Quick update from my side.",
+    "I'll post a quick update after the call.",
+    "Quick update: the fix is deployed and working."
+   ]
+  },
+  {
+   "id": "pack4-card-22",
+   "mode": "vocab",
+   "word": "status update",
+   "pron": "",
+   "def": "a report on current progress\nहिंदी: स्थिति की जानकारी",
+   "examples": [
+    "I'll send a status update by evening.",
+    "Here is my status update.",
+    "Please include risks in your status update.",
+    "The status update goes to the client every Monday."
+   ]
+  },
+  {
+   "id": "pack4-card-23",
+   "mode": "vocab",
+   "word": "on track",
+   "pron": "",
+   "def": "progressing as planned\nहिंदी: योजना के अनुसार चल रहा",
+   "examples": [
+    "The project is on track.",
+    "We're on track to release Friday.",
+    "Are we still on track for the demo?",
+    "Testing is on track, but the docs are a bit behind."
+   ]
+  },
+  {
+   "id": "pack4-card-24",
+   "mode": "vocab",
+   "word": "behind schedule",
+   "pron": "",
+   "def": "later than planned\nहिंदी: समय से पीछे",
+   "examples": [
+    "The module is behind schedule.",
+    "We're two days behind schedule.",
+    "We fell behind schedule because of the outage.",
+    "If we're behind schedule, let's tell the client early."
+   ]
+  },
+  {
+   "id": "pack4-card-25",
+   "mode": "vocab",
+   "word": "ahead of schedule",
+   "pron": "",
+   "def": "earlier than planned\nहिंदी: समय से आगे",
+   "examples": [
+    "We're ahead of schedule on testing.",
+    "The task finished ahead of schedule.",
+    "We finished the backend ahead of schedule.",
+    "Being ahead of schedule gives us time for extra testing."
+   ]
+  },
+  {
+   "id": "pack4-card-26",
+   "mode": "vocab",
+   "word": "at risk",
+   "pron": "",
+   "def": "likely to miss the plan\nहिंदी: जोखिम में",
+   "examples": [
+    "The deadline is at risk.",
+    "This feature is at risk.",
+    "Without more testers, the launch date is at risk.",
+    "I've marked the integration as at risk in the tracker."
+   ]
+  },
+  {
+   "id": "pack4-card-27",
+   "mode": "vocab",
+   "word": "slipping",
+   "pron": "",
+   "def": "falling behind schedule\nहिंदी: पिछड़ रहा",
+   "examples": [
+    "The release date is slipping.",
+    "The sprint goal is slipping.",
+    "If the design keeps slipping, we'll miss the launch.",
+    "Our timeline is slipping because of unclear requirements."
+   ]
+  },
+  {
+   "id": "pack4-card-28",
+   "mode": "vocab",
+   "word": "ETA",
+   "pron": "",
+   "def": "estimated time of arrival or completion\nहिंदी: अनुमानित समय",
+   "examples": [
+    "What's the ETA for the fix?",
+    "My ETA is tomorrow noon.",
+    "Do we have an ETA from the vendor?",
+    "I'll update the ticket with a new ETA."
+   ]
+  },
+  {
+   "id": "pack4-card-29",
+   "mode": "vocab",
+   "word": "by end of day",
+   "pron": "",
+   "def": "before the working day finishes\nहिंदी: आज दिन के अंत तक",
+   "examples": [
+    "I'll finish this by end of day.",
+    "Please send it by end of day.",
+    "Can you confirm by end of day?",
+    "The draft will be in your inbox by end of day."
+   ]
+  },
+  {
+   "id": "pack4-card-30",
+   "mode": "vocab",
+   "word": "by EOD",
+   "pron": "",
+   "def": "short form of by end of day\nहिंदी: आज शाम तक",
+   "examples": [
+    "I'll push the code by EOD.",
+    "Can you reply by EOD?",
+    "Please share the slides by EOD Thursday.",
+    "I won't make it by EOD; is tomorrow morning okay?"
+   ]
+  },
+  {
+   "id": "pack4-card-31",
+   "mode": "vocab",
+   "word": "first thing tomorrow",
+   "pron": "",
+   "def": "as the earliest task next day\nहिंदी: कल सबसे पहले",
+   "examples": [
+    "I'll fix it first thing tomorrow.",
+    "I'll review it first thing tomorrow.",
+    "I'll call the client first thing tomorrow.",
+    "Let's deploy first thing tomorrow when traffic is low."
+   ]
+  },
+  {
+   "id": "pack4-card-32",
+   "mode": "vocab",
+   "word": "in progress",
+   "pron": "",
+   "def": "currently being worked on\nहिंदी: प्रगति पर",
+   "examples": [
+    "The task is in progress.",
+    "Two tickets are in progress.",
+    "The design review is still in progress.",
+    "Please don't merge changes that are in progress."
+   ]
+  },
+  {
+   "id": "pack4-card-33",
+   "mode": "vocab",
+   "word": "done and dusted",
+   "pron": "",
+   "def": "completely finished\nहिंदी: पूरी तरह निपट गया",
+   "examples": [
+    "The migration is done and dusted.",
+    "That bug is done and dusted.",
+    "Once the tests pass, this feature is done and dusted.",
+    "The audit was done and dusted before the deadline."
+   ]
+  },
+  {
+   "id": "pack4-card-34",
+   "mode": "vocab",
+   "word": "ready for review",
+   "pron": "",
+   "def": "finished and waiting to be checked\nहिंदी: समीक्षा के लिए तैयार",
+   "examples": [
+    "The pull request is ready for review.",
+    "My code is ready for review.",
+    "I'll mark the ticket ready for review.",
+    "Two pull requests are ready for review if anyone's free."
+   ]
+  },
+  {
+   "id": "pack4-card-35",
+   "mode": "vocab",
+   "word": "pull request",
+   "pron": "",
+   "def": "a request to merge code changes\nहिंदी: पुल रिक्वेस्ट / कोड मर्ज का अनुरोध",
+   "examples": [
+    "I raised a pull request this morning.",
+    "Please look at my pull request.",
+    "Can you add a description to your pull request?",
+    "The pull request needs one more approval."
+   ]
+  },
+  {
+   "id": "pack4-card-36",
+   "mode": "vocab",
+   "word": "code review",
+   "pron": "",
+   "def": "checking a teammate's code\nहिंदी: कोड समीक्षा",
+   "examples": [
+    "The code review found two issues.",
+    "I have a code review pending.",
+    "I'll do the code review after lunch.",
+    "Thanks for the thorough code review."
+   ]
+  },
+  {
+   "id": "pack4-card-37",
+   "mode": "vocab",
+   "word": "merge",
+   "pron": "",
+   "def": "to combine code changes into one branch\nहिंदी: मर्ज करना",
+   "examples": [
+    "I'll merge the branch after approval.",
+    "The PR was merged yesterday.",
+    "Don't merge until the tests pass.",
+    "Let's merge the feature branch on Monday."
+   ]
+  },
+  {
+   "id": "pack4-card-38",
+   "mode": "vocab",
+   "word": "push",
+   "pron": "",
+   "def": "to upload code changes to a repository\nहिंदी: कोड पुश करना",
+   "examples": [
+    "I'll push the fix shortly.",
+    "He pushed the changes last night.",
+    "Did you push your latest changes?",
+    "I pushed a small fix for the typo."
+   ]
+  },
+  {
+   "id": "pack4-card-39",
+   "mode": "vocab",
+   "word": "deploy",
+   "pron": "",
+   "def": "to release software to an environment\nहिंदी: डिप्लॉय करना",
+   "examples": [
+    "We'll deploy to staging today.",
+    "The team deployed the update.",
+    "We deploy to production every Tuesday.",
+    "Can you deploy the fix to staging so I can test it?"
+   ]
+  },
+  {
+   "id": "pack4-card-40",
+   "mode": "vocab",
+   "word": "roll back",
+   "pron": "",
+   "def": "to revert to a previous version\nहिंदी: पिछले संस्करण पर लौटाना",
+   "examples": [
+    "We had to roll back the release.",
+    "Let's roll back and investigate.",
+    "If errors go up, roll back immediately.",
+    "We rolled back within five minutes, so few users noticed."
+   ]
+  },
+  {
+   "id": "pack4-card-41",
+   "mode": "vocab",
+   "word": "hotfix",
+   "pron": "",
+   "def": "an urgent quick bug fix released immediately\nहिंदी: तुरंत जारी होने वाला सुधार",
+   "examples": [
+    "We shipped a hotfix last night.",
+    "A hotfix is needed for production.",
+    "The hotfix went live an hour ago.",
+    "Let's not add features to the hotfix; keep it small."
+   ]
+  },
+  {
+   "id": "pack4-card-42",
+   "mode": "vocab",
+   "word": "bug",
+   "pron": "",
+   "def": "a defect in software\nहिंदी: बग / सॉफ़्टवेयर की ख़ामी",
+   "examples": [
+    "I found a bug in the checkout flow.",
+    "The bug is now fixed.",
+    "Can you log a bug with the steps you followed?",
+    "This bug only happens on older phones."
+   ]
+  },
+  {
+   "id": "pack4-card-43",
+   "mode": "vocab",
+   "word": "reproduce",
+   "pron": "",
+   "def": "to make a bug happen again on purpose\nहिंदी: बग दोबारा पैदा करना",
+   "examples": [
+    "I couldn't reproduce the issue.",
+    "Can you reproduce it on staging?",
+    "Could you send me the steps to reproduce it?",
+    "I reproduced the bug on my machine."
+   ]
+  },
+  {
+   "id": "pack4-card-44",
+   "mode": "vocab",
+   "word": "root cause",
+   "pron": "",
+   "def": "the underlying reason for a problem\nहिंदी: मूल कारण",
+   "examples": [
+    "We found the root cause of the crash.",
+    "The root cause was a memory leak.",
+    "Let's fix the root cause, not just the symptom.",
+    "We're still looking for the root cause."
+   ]
+  },
+  {
+   "id": "pack4-card-45",
+   "mode": "vocab",
+   "word": "workaround",
+   "pron": "",
+   "def": "a temporary way of avoiding a problem\nहिंदी: अस्थायी उपाय / जुगाड़",
+   "examples": [
+    "There is a workaround for now.",
+    "I applied a workaround.",
+    "Until the fix ships, users can use this workaround.",
+    "The workaround is to clear the cache and log in again."
+   ]
+  },
+  {
+   "id": "pack4-card-46",
+   "mode": "vocab",
+   "word": "quick fix",
+   "pron": "",
+   "def": "a fast but possibly temporary solution\nहिंदी: त्वरित सुधार",
+   "examples": [
+    "It's just a quick fix.",
+    "A quick fix solved the crash.",
+    "A quick fix is fine for now, but let's log the real fix.",
+    "I don't want another quick fix; let's do it properly."
+   ]
+  },
+  {
+   "id": "pack4-card-47",
+   "mode": "vocab",
+   "word": "regression",
+   "pron": "",
+   "def": "a bug in something that previously worked\nहिंदी: पुरानी चीज़ में नई गड़बड़ी",
+   "examples": [
+    "The update caused a regression.",
+    "We caught a regression in testing.",
+    "Let's add a test so this regression doesn't come back.",
+    "Was this regression introduced in the last release?"
+   ]
+  },
+  {
+   "id": "pack4-card-48",
+   "mode": "vocab",
+   "word": "ticket",
+   "pron": "",
+   "def": "a tracked task or issue in a system\nहिंदी: टिकट / कार्य-पर्ची",
+   "examples": [
+    "I'm closing the ticket today.",
+    "There's a ticket for that bug.",
+    "Please raise a ticket for that request.",
+    "I've linked the ticket in the pull request."
+   ]
+  },
+  {
+   "id": "pack4-card-49",
+   "mode": "vocab",
+   "word": "story",
+   "pron": "",
+   "def": "a feature request written from a user's view\nहिंदी: स्टोरी / फ़ीचर का विवरण",
+   "examples": [
+    "This story is in the current sprint.",
+    "I finished two stories.",
+    "Let's split this story into two smaller ones.",
+    "Who's picking up the search story?"
+   ]
+  },
+  {
+   "id": "pack4-card-50",
+   "mode": "vocab",
+   "word": "backlog",
+   "pron": "",
+   "def": "a list of pending work\nहिंदी: बैकलॉग / लंबित कार्यों की सूची",
+   "examples": [
+    "Add it to the backlog.",
+    "The backlog is growing.",
+    "We'll review the backlog on Thursday.",
+    "This idea goes to the bottom of the backlog for now."
+   ]
+  },
+  {
+   "id": "pack4-card-51",
+   "mode": "vocab",
+   "word": "sprint",
+   "pron": "",
+   "def": "a fixed work period in agile development\nहिंदी: स्प्रिंट",
+   "examples": [
+    "We are halfway through the sprint.",
+    "The sprint ends on Friday.",
+    "This task won't fit into the current sprint.",
+    "At the start of each sprint we agree on the scope."
+   ]
+  },
+  {
+   "id": "pack4-card-52",
+   "mode": "vocab",
+   "word": "sprint goal",
+   "pron": "",
+   "def": "the main aim of a sprint\nहिंदी: स्प्रिंट का लक्ष्य",
+   "examples": [
+    "Our sprint goal is a working checkout.",
+    "We're on course for the sprint goal.",
+    "Does this ticket help the sprint goal?",
+    "We met the sprint goal despite the outage."
+   ]
+  },
+  {
+   "id": "pack4-card-53",
+   "mode": "vocab",
+   "word": "velocity",
+   "pron": "",
+   "def": "the amount of work a team completes per sprint\nहिंदी: टीम की गति / वेलोसिटी",
+   "examples": [
+    "The team's velocity has improved.",
+    "Velocity dropped this sprint.",
+    "We use velocity to plan the next sprint.",
+    "Don't compare velocity between different teams."
+   ]
+  },
+  {
+   "id": "pack4-card-54",
+   "mode": "vocab",
+   "word": "scope creep",
+   "pron": "",
+   "def": "uncontrolled growth in project requirements\nहिंदी: काम का दायरा बढ़ते जाना",
+   "examples": [
+    "Scope creep delayed the launch.",
+    "We must avoid scope creep.",
+    "Let's put new requests in phase two to avoid scope creep.",
+    "The project suffered from constant scope creep."
+   ]
+  },
+  {
+   "id": "pack4-card-55",
+   "mode": "vocab",
+   "word": "story points",
+   "pron": "",
+   "def": "units used to estimate effort\nहिंदी: स्टोरी पॉइंट्स / प्रयास का अनुमान",
+   "examples": [
+    "We estimated five story points.",
+    "This task is eight story points.",
+    "How many story points should we give this?",
+    "We completed thirty story points last sprint."
+   ]
+  },
+  {
+   "id": "pack4-card-57",
+   "mode": "vocab",
+   "word": "prioritise",
+   "pron": "",
+   "def": "to decide what is most important\nहिंदी: प्राथमिकता तय करना",
+   "examples": [
+    "We need to prioritise the bugs.",
+    "Let's prioritise the login fix.",
+    "With limited time, we have to prioritise.",
+    "I'll prioritise the client's request this week."
+   ]
+  },
+  {
+   "id": "pack4-card-58",
+   "mode": "vocab",
+   "word": "top priority",
+   "pron": "",
+   "def": "the most important item\nहिंदी: सर्वोच्च प्राथमिकता",
+   "examples": [
+    "This is our top priority.",
+    "Security is a top priority.",
+    "Fixing the outage is our top priority today.",
+    "Let's agree on the top priority for this sprint."
+   ]
+  },
+  {
+   "id": "pack4-card-59",
+   "mode": "vocab",
+   "word": "blocker removed",
+   "pron": "",
+   "def": "a problem that is now resolved\nहिंदी: रुकावट दूर हो गई",
+   "examples": [
+    "The blocker is removed, I can continue.",
+    "Good news, the blocker is removed.",
+    "Blocker removed — the access was granted this morning.",
+    "Once the blocker is removed, the work should move fast."
+   ]
+  },
+  {
+   "id": "pack4-card-60",
+   "mode": "vocab",
+   "word": "unblock",
+   "pron": "",
+   "def": "to remove an obstacle for someone\nहिंदी: रुकावट हटाना",
+   "examples": [
+    "Can you unblock me on the API?",
+    "I'll unblock you today.",
+    "Thanks for unblocking me so quickly.",
+    "What do you need from me to unblock you?"
+   ]
+  },
+  {
+   "id": "pack4-card-61",
+   "mode": "vocab",
+   "word": "sync up",
+   "pron": "",
+   "def": "to meet to align on information\nहिंदी: आपस में तालमेल बैठाना",
+   "examples": [
+    "Let's sync up after lunch.",
+    "We sync up every morning.",
+    "Let's sync up before the client call.",
+    "We should sync up with the design team on Friday."
+   ]
+  },
+  {
+   "id": "pack4-card-62",
+   "mode": "vocab",
+   "word": "touch base",
+   "pron": "",
+   "def": "to make brief contact to share updates\nहिंदी: संपर्क में रहना / हाल-चाल लेना",
+   "examples": [
+    "Let's touch base tomorrow.",
+    "I'll touch base with the client.",
+    "Let's touch base next week about the hiring plan.",
+    "I just wanted to touch base on the project status."
+   ]
+  },
+  {
+   "id": "pack4-card-63",
+   "mode": "vocab",
+   "word": "loop in",
+   "pron": "",
+   "def": "to include someone in a conversation\nहिंदी: किसी को शामिल करना",
+   "examples": [
+    "I'll loop in the design team.",
+    "Please loop me in on that thread.",
+    "Can you loop in someone from security?",
+    "Thanks for looping me in."
+   ]
+  },
+  {
+   "id": "pack4-card-64",
+   "mode": "vocab",
+   "word": "ping",
+   "pron": "",
+   "def": "to send a quick message\nहिंदी: हल्का संदेश भेजना",
+   "examples": [
+    "I'll ping you when it's done.",
+    "Ping me if you need anything.",
+    "Ping me on chat if it's urgent.",
+    "I pinged Ravi, but he hasn't replied yet."
+   ]
+  },
+  {
+   "id": "pack4-card-65",
+   "mode": "vocab",
+   "word": "reach out",
+   "pron": "",
+   "def": "to contact someone for help\nहिंदी: संपर्क करना",
+   "examples": [
+    "I'll reach out to the vendor.",
+    "Feel free to reach out.",
+    "Reach out to the platform team about the outage.",
+    "Thanks for reaching out about the bug."
+   ]
+  },
+  {
+   "id": "pack4-card-66",
+   "mode": "vocab",
+   "word": "take ownership",
+   "pron": "",
+   "def": "to be responsible for something\nहिंदी: ज़िम्मेदारी लेना",
+   "examples": [
+    "I'll take ownership of this bug.",
+    "Who will take ownership?",
+    "She took ownership of the release process.",
+    "Please take ownership of the follow-up actions."
+   ]
+  },
+  {
+   "id": "pack4-card-67",
+   "mode": "vocab",
+   "word": "own it",
+   "pron": "",
+   "def": "to be fully responsible\nहिंदी: उसकी पूरी ज़िम्मेदारी लेना",
+   "examples": [
+    "I'll own the release.",
+    "Someone needs to own it.",
+    "You found the issue, so you should own it.",
+    "We need one person to own the migration plan."
+   ]
+  },
+  {
+   "id": "pack4-card-68",
+   "mode": "vocab",
+   "word": "action item",
+   "pron": "",
+   "def": "a task assigned in a meeting\nहिंदी: कार्य-बिंदु / मीटिंग में दिया गया काम",
+   "examples": [
+    "I have two action items.",
+    "The action items are in the notes.",
+    "Each action item needs an owner and a date.",
+    "I'll send the action items after the meeting."
+   ]
+  },
+  {
+   "id": "pack4-card-70",
+   "mode": "vocab",
+   "word": "next steps",
+   "pron": "",
+   "def": "the actions to be done next\nहिंदी: अगले क़दम",
+   "examples": [
+    "Let's agree on the next steps.",
+    "The next steps are clear.",
+    "What are the next steps from our side?",
+    "I'll email the next steps to everyone."
+   ]
+  },
+  {
+   "id": "pack4-card-71",
+   "mode": "vocab",
+   "word": "wrap up",
+   "pron": "",
+   "def": "to finish or conclude\nहिंदी: समाप्त करना",
+   "examples": [
+    "Let's wrap up the stand-up.",
+    "I'll wrap up the work today.",
+    "We have five minutes left, so let's wrap up.",
+    "Before we wrap up, any other questions?"
+   ]
+  },
+  {
+   "id": "pack4-card-72",
+   "mode": "vocab",
+   "word": "timebox",
+   "pron": "",
+   "def": "to limit a task to a fixed time\nहिंदी: समय-सीमा तय करना",
+   "examples": [
+    "Let's timebox this to one hour.",
+    "We timeboxed the discussion.",
+    "We timeboxed the spike to two days.",
+    "If we timebox the discussion, we'll finish on time."
+   ]
+  },
+  {
+   "id": "pack4-card-75",
+   "mode": "vocab",
+   "word": "overloaded",
+   "pron": "",
+   "def": "having too much work\nहिंदी: काम से लदा हुआ",
+   "examples": [
+    "I'm a bit overloaded this week.",
+    "The team is overloaded.",
+    "If you're overloaded, let's move some tickets.",
+    "The support team is overloaded after the launch."
+   ]
+  },
+  {
+   "id": "pack4-card-76",
+   "mode": "vocab",
+   "word": "out of office",
+   "pron": "",
+   "def": "not available at work\nहिंदी: दफ़्तर से बाहर",
+   "examples": [
+    "I'm out of office on Friday.",
+    "She is out of office until Monday.",
+    "My out of office says who to contact.",
+    "I'll set an out of office reply before I leave."
+   ]
+  },
+  {
+   "id": "pack4-card-77",
+   "mode": "vocab",
+   "word": "on leave",
+   "pron": "",
+   "def": "absent from work with permission\nहिंदी: छुट्टी पर",
+   "examples": [
+    "He is on leave next week.",
+    "I'll be on leave tomorrow.",
+    "Who covers his tasks while he's on leave?",
+    "She's on leave, so the review will wait until Monday."
+   ]
+  },
+  {
+   "id": "pack4-card-78",
+   "mode": "vocab",
+   "word": "working from home",
+   "pron": "",
+   "def": "doing the job remotely at home\nहिंदी: घर से काम",
+   "examples": [
+    "I'm working from home today.",
+    "He is working from home this week.",
+    "I'll be working from home, but online as usual.",
+    "Working from home helps me focus on deep work."
+   ]
+  },
+  {
+   "id": "pack4-card-79",
+   "mode": "vocab",
+   "word": "handover",
+   "pron": "",
+   "def": "passing responsibility to someone else\nहिंदी: काम सौंपना / हैंडओवर",
+   "examples": [
+    "I'll prepare a handover note.",
+    "The handover is complete.",
+    "The handover went smoothly.",
+    "Please add the open tickets to the handover document."
+   ]
+  },
+  {
+   "id": "pack4-card-80",
+   "mode": "vocab",
+   "word": "pair up",
+   "pron": "",
+   "def": "to work together with another person\nहिंदी: साथ मिलकर काम करना",
+   "examples": [
+    "Let's pair up on this bug.",
+    "Can we pair up after stand-up?",
+    "Let's pair up to speed up the review.",
+    "New joiners pair up with a mentor for the first week."
+   ]
+  },
+  {
+   "id": "pack4-card-81",
+   "mode": "vocab",
+   "word": "pair programming",
+   "pron": "",
+   "def": "two people coding together at one machine\nहिंदी: जोड़ी में कोडिंग",
+   "examples": [
+    "Pair programming helped us fix it.",
+    "We tried pair programming.",
+    "Pair programming is great for onboarding.",
+    "We used pair programming to share knowledge across the team."
+   ]
+  },
+  {
+   "id": "pack4-card-82",
+   "mode": "vocab",
+   "word": "sanity check",
+   "pron": "",
+   "def": "a quick test to confirm things are basically right\nहिंदी: मोटी-मोटी जाँच",
+   "examples": [
+    "Let me do a sanity check first.",
+    "Run a sanity check on the build.",
+    "Can you give my numbers a quick sanity check?",
+    "The sanity check caught a wrong config value."
+   ]
+  },
+  {
+   "id": "pack4-card-83",
+   "mode": "vocab",
+   "word": "smoke test",
+   "pron": "",
+   "def": "a basic test that the main functions work\nहिंदी: बुनियादी जाँच",
+   "examples": [
+    "The smoke test passed.",
+    "We ran a smoke test after deploying.",
+    "Run a smoke test before announcing the release.",
+    "If the smoke test fails, we roll back."
+   ]
+  },
+  {
+   "id": "pack4-card-84",
+   "mode": "vocab",
+   "word": "staging",
+   "pron": "",
+   "def": "a test environment resembling production\nहिंदी: स्टेजिंग / परीक्षण वातावरण",
+   "examples": [
+    "The fix is live on staging.",
+    "Test it on staging first.",
+    "Staging is down, so testing is paused.",
+    "Please don't use real customer data on staging."
+   ]
+  },
+  {
+   "id": "pack4-card-85",
+   "mode": "vocab",
+   "word": "production",
+   "pron": "",
+   "def": "the live environment used by real users\nहिंदी: प्रोडक्शन / लाइव वातावरण",
+   "examples": [
+    "The bug appeared in production.",
+    "We released to production.",
+    "Never test directly in production.",
+    "The change has been running in production for a week."
+   ]
+  },
+  {
+   "id": "pack4-card-86",
+   "mode": "vocab",
+   "word": "release",
+   "pron": "",
+   "def": "to make software available to users\nहिंदी: रिलीज़ करना",
+   "examples": [
+    "The release is scheduled for Friday.",
+    "We released version two.",
+    "The release notes are ready.",
+    "We'll release the update in stages."
+   ]
+  },
+  {
+   "id": "pack4-card-87",
+   "mode": "vocab",
+   "word": "feature freeze",
+   "pron": "",
+   "def": "a stop on adding new features\nहिंदी: फ़ीचर जोड़ना रोकना",
+   "examples": [
+    "The feature freeze begins on Monday.",
+    "We're in feature freeze.",
+    "After the feature freeze, we only fix bugs.",
+    "Can this wait until after the feature freeze?"
+   ]
+  },
+  {
+   "id": "pack4-card-88",
+   "mode": "vocab",
+   "word": "test coverage",
+   "pron": "",
+   "def": "how much code is checked by tests\nहिंदी: टेस्ट कवरेज",
+   "examples": [
+    "Test coverage is at eighty percent.",
+    "We need better test coverage.",
+    "The new module has good test coverage.",
+    "Low test coverage makes refactoring risky."
+   ]
+  },
+  {
+   "id": "pack4-card-89",
+   "mode": "vocab",
+   "word": "tech debt",
+   "pron": "",
+   "def": "extra work caused by quick but poor solutions\nहिंदी: तकनीकी बकाया / कमज़ोर कोड का बोझ",
+   "examples": [
+    "We should reduce our tech debt.",
+    "Tech debt slows us down.",
+    "Let's spend one day each sprint on tech debt.",
+    "This shortcut will add to our tech debt."
+   ]
+  },
+  {
+   "id": "pack4-card-90",
+   "mode": "vocab",
+   "word": "refactor",
+   "pron": "",
+   "def": "to restructure code without changing behaviour\nहिंदी: कोड को सुधारना / दोबारा गढ़ना",
+   "examples": [
+    "I'll refactor the payment module.",
+    "We need to refactor this function.",
+    "Let's refactor after the release, not before.",
+    "The refactor made the code much easier to read."
+   ]
+  },
+  {
+   "id": "pack4-card-91",
+   "mode": "vocab",
+   "word": "documentation",
+   "pron": "",
+   "def": "written explanation of how software works\nहिंदी: दस्तावेज़ीकरण",
+   "examples": [
+    "I updated the documentation.",
+    "The docs need a refresh.",
+    "Please add documentation for the new endpoint.",
+    "Good documentation saves new joiners a lot of time."
+   ]
+  },
+  {
+   "id": "pack4-card-92",
+   "mode": "vocab",
+   "word": "retro",
+   "pron": "",
+   "def": "a meeting to reflect on what went well or not\nहिंदी: रेट्रो / पिछली अवधि की समीक्षा बैठक",
+   "examples": [
+    "We'll discuss it in the retro.",
+    "The retro is on Friday.",
+    "In the retro we agreed to shorten our meetings.",
+    "Let's add this to the retro board."
+   ]
+  },
+  {
+   "id": "pack4-card-93",
+   "mode": "vocab",
+   "word": "blockers and risks",
+   "pron": "",
+   "def": "problems and possible threats to progress\nहिंदी: रुकावटें और जोखिम",
+   "examples": [
+    "Any blockers or risks to share?",
+    "My blockers and risks are listed.",
+    "Let's go through blockers and risks first.",
+    "I'll flag blockers and risks in the weekly report."
+   ]
+  },
+  {
+   "id": "pack4-card-94",
+   "mode": "vocab",
+   "word": "good to go",
+   "pron": "",
+   "def": "ready and approved\nहिंदी: बिल्कुल तैयार",
+   "examples": [
+    "The release is good to go.",
+    "The patch is good to go.",
+    "Once QA signs off, we're good to go.",
+    "Are we good to go for tomorrow's launch?"
+   ]
+  },
+  {
+   "id": "pack4-card-95",
+   "mode": "vocab",
+   "word": "sounds good",
+   "pron": "",
+   "def": "I agree with the plan\nहिंदी: ठीक है / सही लग रहा है",
+   "examples": [
+    "Sounds good, let's do it.",
+    "Sounds good to me.",
+    "Sounds good — I'll book the room.",
+    "\"Shall we meet at ten?\" \"Sounds good.\""
+   ]
+  },
+  {
+   "id": "pack4-card-96",
+   "mode": "vocab",
+   "word": "works for me",
+   "pron": "",
+   "def": "acceptable to me\nहिंदी: मुझे मंज़ूर है",
+   "examples": [
+    "Tomorrow works for me.",
+    "That time works for me.",
+    "Either option works for me.",
+    "Friday works for me if it works for the team."
+   ]
+  },
+  {
+   "id": "pack4-card-97",
+   "mode": "vocab",
+   "word": "I'll take it",
+   "pron": "",
+   "def": "I will handle this task\nहिंदी: मैं इसे ले लेता हूँ",
+   "examples": [
+    "I'll take it, no problem.",
+    "I'll take the login bug.",
+    "Nobody's on that bug? I'll take it.",
+    "If it's small, I'll take it this afternoon."
+   ]
+  },
+  {
+   "id": "pack4-card-98",
+   "mode": "vocab",
+   "word": "count me in",
+   "pron": "",
+   "def": "include me\nहिंदी: मुझे भी शामिल समझें",
+   "examples": [
+    "Count me in for the review.",
+    "Count me in for pairing.",
+    "If you need testers, count me in.",
+    "Count me in for the hackathon."
+   ]
+  },
+  {
+   "id": "pack4-card-99",
+   "mode": "vocab",
+   "word": "leave it with me",
+   "pron": "",
+   "def": "let me handle it\nहिंदी: मुझ पर छोड़ दीजिए",
+   "examples": [
+    "Leave it with me, I'll fix it.",
+    "Leave it with me, I'll check.",
+    "Leave it with me and I'll update you tomorrow.",
+    "Don't worry about the invoice; leave it with me."
+   ]
+  },
+  {
+   "id": "pack4-card-100",
+   "mode": "vocab",
+   "word": "I'll get back to you",
+   "pron": "",
+   "def": "I'll respond later\nहिंदी: मैं आपको बताता हूँ",
+   "examples": [
+    "I'll get back to you by noon.",
+    "Let me get back to you on that.",
+    "I'll get back to you once I've checked with the team.",
+    "Can I get back to you after lunch?"
+   ]
+  },
+  {
+   "id": "pack4-card-101",
+   "mode": "vocab",
+   "word": "quick question",
+   "pron": "",
+   "def": "a short query to ask\nहिंदी: एक छोटा सवाल",
+   "examples": [
+    "I have a quick question about the API.",
+    "Quick question — is the build green?",
+    "Quick question: who owns the login service?",
+    "Sorry to interrupt — just a quick question."
+   ]
+  },
+  {
+   "id": "pack4-card-102",
+   "mode": "vocab",
+   "word": "for the record",
+   "pron": "",
+   "def": "to be noted officially\nहिंदी: रिकॉर्ड के लिए",
+   "examples": [
+    "For the record, I raised this earlier.",
+    "For the record, we agreed on Friday.",
+    "For the record, the client approved this change.",
+    "Just for the record, the tests passed before the deploy."
+   ]
+  },
+  {
+   "id": "pack4-card-103",
+   "mode": "vocab",
+   "word": "to be clear",
+   "pron": "",
+   "def": "used to avoid confusion\nहिंदी: स्पष्ट कर दूँ",
+   "examples": [
+    "To be clear, I can take two tasks.",
+    "To be clear, the deadline is Monday.",
+    "To be clear, nothing has been deployed yet.",
+    "To be clear, I'm not blaming anyone."
+   ]
+  },
+  {
+   "id": "pack4-card-104",
+   "mode": "vocab",
+   "word": "my two cents",
+   "pron": "",
+   "def": "my personal opinion\nहिंदी: मेरी छोटी-सी राय",
+   "examples": [
+    "Just my two cents, but let's test first.",
+    "Here's my two cents on the design.",
+    "If you want my two cents, we should wait.",
+    "My two cents: keep the first version simple."
+   ]
+  },
+  {
+   "id": "pack4-card-105",
+   "mode": "vocab",
+   "word": "make sense",
+   "pron": "",
+   "def": "to be logical or understandable\nहिंदी: समझ में आना",
+   "examples": [
+    "Does that make sense?",
+    "That makes sense to me.",
+    "Does the plan make sense to everyone?",
+    "It makes sense to test on staging first."
+   ]
+  }
+ ]
+}

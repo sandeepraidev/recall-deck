@@ -1,0 +1,295 @@
+{
+ "id": "pack1-deck-4",
+ "categoryId": "pack1-cat-4",
+ "title": "Proverbs & Meanings",
+ "sub": "Read the proverb, then recall its meaning.",
+ "cards": [
+  {
+   "id": "pack1-card-121",
+   "mode": "qa",
+   "q": "A stitch in time saves nine.",
+   "a": "Fix a small problem early to avoid a bigger one later.",
+   "note": "Common in maintenance and engineering."
+  },
+  {
+   "id": "pack1-card-122",
+   "mode": "qa",
+   "q": "Actions speak louder than words.",
+   "a": "What you do matters more than what you say.",
+   "note": "Often used about promises."
+  },
+  {
+   "id": "pack1-card-123",
+   "mode": "qa",
+   "q": "All that glitters is not gold.",
+   "a": "Appearances can be deceiving.",
+   "note": "Shakespeare used a version in The Merchant of Venice."
+  },
+  {
+   "id": "pack1-card-124",
+   "mode": "qa",
+   "q": "A bird in the hand is worth two in the bush.",
+   "a": "A sure thing is better than a risky possibility.",
+   "note": "Advice to value what you have."
+  },
+  {
+   "id": "pack1-card-125",
+   "mode": "qa",
+   "q": "Better late than never.",
+   "a": "It is better to do something late than not at all.",
+   "note": "Often used to excuse tardiness."
+  },
+  {
+   "id": "pack1-card-126",
+   "mode": "qa",
+   "q": "Don't count your chickens before they hatch.",
+   "a": "Don't rely on a result that hasn't happened yet.",
+   "note": "Warns against premature optimism."
+  },
+  {
+   "id": "pack1-card-127",
+   "mode": "qa",
+   "q": "Don't put all your eggs in one basket.",
+   "a": "Don't risk everything on one thing.",
+   "note": "Basis of diversification."
+  },
+  {
+   "id": "pack1-card-128",
+   "mode": "qa",
+   "q": "Every cloud has a silver lining.",
+   "a": "Even bad situations have some good in them.",
+   "note": "A message of hope."
+  },
+  {
+   "id": "pack1-card-129",
+   "mode": "qa",
+   "q": "Fortune favors the bold.",
+   "a": "Those who take risks are more likely to succeed.",
+   "note": "Latin origin: audentes fortuna iuvat."
+  },
+  {
+   "id": "pack1-card-130",
+   "mode": "qa",
+   "q": "Honesty is the best policy.",
+   "a": "Telling the truth is the wisest course.",
+   "note": "Often credited to Benjamin Franklin."
+  },
+  {
+   "id": "pack1-card-131",
+   "mode": "qa",
+   "q": "If it ain't broke, don't fix it.",
+   "a": "Leave working things alone.",
+   "note": "Contrast with refactoring urges."
+  },
+  {
+   "id": "pack1-card-132",
+   "mode": "qa",
+   "q": "It takes two to tango.",
+   "a": "Both parties share responsibility.",
+   "note": "Used about arguments."
+  },
+  {
+   "id": "pack1-card-133",
+   "mode": "qa",
+   "q": "Look before you leap.",
+   "a": "Think carefully before acting.",
+   "note": "Counsels caution."
+  },
+  {
+   "id": "pack1-card-134",
+   "mode": "qa",
+   "q": "Many hands make light work.",
+   "a": "Tasks go faster when people share them.",
+   "note": "Used for teamwork."
+  },
+  {
+   "id": "pack1-card-135",
+   "mode": "qa",
+   "q": "No pain, no gain.",
+   "a": "Progress requires effort and discomfort.",
+   "note": "Popular in fitness."
+  },
+  {
+   "id": "pack1-card-136",
+   "mode": "qa",
+   "q": "Out of sight, out of mind.",
+   "a": "We forget what we don't see.",
+   "note": "About fading attention."
+  },
+  {
+   "id": "pack1-card-137",
+   "mode": "qa",
+   "q": "Practice makes perfect.",
+   "a": "Repetition builds skill.",
+   "note": "Core idea behind spaced repetition."
+  },
+  {
+   "id": "pack1-card-138",
+   "mode": "qa",
+   "q": "Rome wasn't built in a day.",
+   "a": "Great things take time.",
+   "note": "Encourages patience."
+  },
+  {
+   "id": "pack1-card-139",
+   "mode": "qa",
+   "q": "The early bird catches the worm.",
+   "a": "Those who act early gain the advantage.",
+   "note": "Praises promptness."
+  },
+  {
+   "id": "pack1-card-140",
+   "mode": "qa",
+   "q": "The pen is mightier than the sword.",
+   "a": "Words and ideas have more power than force.",
+   "note": "Edward Bulwer-Lytton, 1839."
+  },
+  {
+   "id": "pack1-card-141",
+   "mode": "qa",
+   "q": "Too many cooks spoil the broth.",
+   "a": "Too many people on a task ruin it.",
+   "note": "Warns against over-staffing."
+  },
+  {
+   "id": "pack1-card-142",
+   "mode": "qa",
+   "q": "When in Rome, do as the Romans do.",
+   "a": "Follow the customs of where you are.",
+   "note": "Travel etiquette."
+  },
+  {
+   "id": "pack1-card-143",
+   "mode": "qa",
+   "q": "You can't judge a book by its cover.",
+   "a": "Don't judge by appearances alone.",
+   "note": "About first impressions."
+  },
+  {
+   "id": "pack1-card-144",
+   "mode": "qa",
+   "q": "A friend in need is a friend indeed.",
+   "a": "A true friend helps in hard times.",
+   "note": "About loyalty."
+  },
+  {
+   "id": "pack1-card-145",
+   "mode": "qa",
+   "q": "Barking dogs seldom bite.",
+   "a": "Those who threaten loudly rarely act.",
+   "note": "About empty threats."
+  },
+  {
+   "id": "pack1-card-146",
+   "mode": "qa",
+   "q": "Beggars can't be choosers.",
+   "a": "When you need help, accept what is offered.",
+   "note": "About limited options."
+  },
+  {
+   "id": "pack1-card-147",
+   "mode": "qa",
+   "q": "Birds of a feather flock together.",
+   "a": "People with similar traits stay together.",
+   "note": "About friendships."
+  },
+  {
+   "id": "pack1-card-148",
+   "mode": "qa",
+   "q": "Curiosity killed the cat.",
+   "a": "Being too inquisitive can get you into trouble.",
+   "note": "Often completed with 'but satisfaction brought it back.'"
+  },
+  {
+   "id": "pack1-card-149",
+   "mode": "qa",
+   "q": "Don't bite the hand that feeds you.",
+   "a": "Don't harm those who support you.",
+   "note": "About gratitude."
+  },
+  {
+   "id": "pack1-card-150",
+   "mode": "qa",
+   "q": "Easy come, easy go.",
+   "a": "What is gained effortlessly is lost easily.",
+   "note": "About windfalls."
+  },
+  {
+   "id": "pack1-card-151",
+   "mode": "qa",
+   "q": "Familiarity breeds contempt.",
+   "a": "Knowing someone too well can cause disrespect.",
+   "note": "Aesop-era saying."
+  },
+  {
+   "id": "pack1-card-152",
+   "mode": "qa",
+   "q": "Great minds think alike.",
+   "a": "Smart people often reach the same ideas.",
+   "note": "Said when two people agree."
+  },
+  {
+   "id": "pack1-card-153",
+   "mode": "qa",
+   "q": "Haste makes waste.",
+   "a": "Rushing leads to mistakes.",
+   "note": "Counsel for careful work."
+  },
+  {
+   "id": "pack1-card-154",
+   "mode": "qa",
+   "q": "Knowledge is power.",
+   "a": "Understanding gives you influence.",
+   "note": "Associated with Francis Bacon."
+  },
+  {
+   "id": "pack1-card-155",
+   "mode": "qa",
+   "q": "Laughter is the best medicine.",
+   "a": "Humor helps heal stress and pain.",
+   "note": "About wellbeing."
+  },
+  {
+   "id": "pack1-card-156",
+   "mode": "qa",
+   "q": "Necessity is the mother of invention.",
+   "a": "Need drives people to create solutions.",
+   "note": "About innovation."
+  },
+  {
+   "id": "pack1-card-157",
+   "mode": "qa",
+   "q": "The grass is always greener on the other side.",
+   "a": "Others' situations seem better than your own.",
+   "note": "About envy."
+  },
+  {
+   "id": "pack1-card-158",
+   "mode": "qa",
+   "q": "There's no smoke without fire.",
+   "a": "Rumors usually have some truth behind them.",
+   "note": "About suspicion."
+  },
+  {
+   "id": "pack1-card-159",
+   "mode": "qa",
+   "q": "Slow and steady wins the race.",
+   "a": "Consistent effort beats fast, erratic bursts.",
+   "note": "From Aesop's tortoise and hare."
+  },
+  {
+   "id": "pack1-card-160",
+   "mode": "qa",
+   "q": "Two wrongs don't make a right.",
+   "a": "Revenge doesn't fix a wrong.",
+   "note": "About ethics."
+  },
+  {
+   "id": "pack1-card-161",
+   "mode": "qa",
+   "q": "Where there's a will, there's a way.",
+   "a": "Determination finds a path.",
+   "note": "About perseverance."
+  }
+ ]
+}

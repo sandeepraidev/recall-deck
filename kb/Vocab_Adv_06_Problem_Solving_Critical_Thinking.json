@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 06 - Problem-Solving & Critical Thinking",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "analyse",
+      "definition": "To examine something in detail to understand it (विस्तार से विश्लेषण करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We analysed the logs to understand the failure pattern."
+    },
+    {
+      "id": "2",
+      "word": "scrutinise",
+      "definition": "To examine very carefully (बारीकी से जाँचना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The auditors scrutinised every transaction."
+    },
+    {
+      "id": "3",
+      "word": "interrogate",
+      "definition": "To examine data or systems deeply by asking probing questions (गहराई से प्रश्न पूछकर जाँचना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's interrogate the data before drawing conclusions."
+    },
+    {
+      "id": "4",
+      "word": "dissect",
+      "definition": "To analyse something piece by piece (टुकड़ों में बाँटकर विश्लेषण करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The team dissected the incident minute by minute."
+    },
+    {
+      "id": "5",
+      "word": "deconstruct",
+      "definition": "To break down a complex idea into its parts (जटिल विचार को घटकों में तोड़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's deconstruct the requirement into testable pieces."
+    },
+    {
+      "id": "6",
+      "word": "synthesise",
+      "definition": "To combine different ideas into a coherent whole (विभिन्न विचारों को जोड़कर एक रूप देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She synthesised feedback from five teams into one proposal."
+    },
+    {
+      "id": "7",
+      "word": "extrapolate",
+      "definition": "To estimate beyond known data based on trends (ज्ञात डेटा से आगे का अनुमान लगाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We extrapolated next year's storage from current growth."
+    },
+    {
+      "id": "8",
+      "word": "infer",
+      "definition": "To conclude from evidence and reasoning (प्रमाण से निष्कर्ष निकालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We can infer from the logs that the retry never ran."
+    },
+    {
+      "id": "9",
+      "word": "deduce",
+      "definition": "To reach a conclusion by logical reasoning (तर्क से निष्कर्ष निकालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "He deduced the cause from the sequence of errors."
+    },
+    {
+      "id": "10",
+      "word": "conclude",
+      "definition": "To arrive at a judgement after consideration (निष्कर्ष पर पहुँचना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We concluded that the cache was not the culprit."
+    },
+    {
+      "id": "11",
+      "word": "surmise",
+      "definition": "To suppose without firm evidence (बिना ठोस प्रमाण अनुमान लगाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I surmise the vendor changed their format overnight."
+    },
+    {
+      "id": "12",
+      "word": "speculate",
+      "definition": "To form a theory without firm evidence (अटकल लगाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "It's pointless to speculate before we see the logs."
+    },
+    {
+      "id": "13",
+      "word": "correlate",
+      "definition": "To show a mutual relationship between things (आपसी संबंध दिखाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Errors correlate strongly with the nightly batch."
+    },
+    {
+      "id": "14",
+      "word": "correlation",
+      "definition": "A statistical relationship between two variables (सह-संबंध)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Correlation doesn't prove causation."
+    },
+    {
+      "id": "15",
+      "word": "causation",
+      "definition": "The relationship of cause and effect (कारण-परिणाम संबंध)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We need evidence of causation, not just correlation."
+    },
+    {
+      "id": "16",
+      "word": "causal",
+      "definition": "Relating to cause and effect (कारणात्मक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "There's no causal link between the two incidents."
+    },
+    {
+      "id": "17",
+      "word": "contributing factor",
+      "definition": "One of several things that led to a result (योगदान देने वाला कारक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Time pressure was a contributing factor to the error."
+    },
+    {
+      "id": "18",
+      "word": "trigger",
+      "definition": "An event that sets off a process or problem (शुरुआत करने वाली घटना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The deployment was the trigger for the failures."
+    },
+    {
+      "id": "19",
+      "word": "underlying",
+      "definition": "Fundamental but not immediately obvious (अंतर्निहित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The underlying problem is a lack of ownership."
+    },
+    {
+      "id": "20",
+      "word": "symptom",
+      "definition": "A sign that something is wrong, not the cause itself (लक्षण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Slow responses are a symptom, not the disease."
+    },
+    {
+      "id": "21",
+      "word": "manifest",
+      "definition": "To show or appear clearly (प्रकट होना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The bug manifests only under heavy load."
+    },
+    {
+      "id": "22",
+      "word": "exacerbate",
+      "definition": "To make a problem worse (समस्या को और बिगाड़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Retrying aggressively exacerbated the overload."
+    },
+    {
+      "id": "23",
+      "word": "compound",
+      "definition": "To make a problem worse by adding to it (समस्या को और जटिल बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Late approvals compounded the delay."
+    },
+    {
+      "id": "24",
+      "word": "alleviate",
+      "definition": "To make a problem less severe (समस्या की गंभीरता कम करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Caching alleviated the pressure on the database."
+    },
+    {
+      "id": "25",
+      "word": "resolve",
+      "definition": "To find a solution to a problem (समाधान ढूँढना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We resolved the issue by upgrading the driver."
+    },
+    {
+      "id": "26",
+      "word": "rectify",
+      "definition": "To put something right (ठीक करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Please rectify the error in the report."
+    },
+    {
+      "id": "27",
+      "word": "address",
+      "definition": "To deal with a problem (समस्या से निपटना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We must address the root cause, not just the symptom."
+    },
+    {
+      "id": "28",
+      "word": "tackle",
+      "definition": "To confront and deal with a difficult problem (कठिन समस्या से जूझना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The team tackled the backlog one category at a time."
+    },
+    {
+      "id": "29",
+      "word": "overcome",
+      "definition": "To succeed in dealing with a difficulty (बाधा पर विजय पाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We overcame the integration issues after a week."
+    },
+    {
+      "id": "30",
+      "word": "circumvent",
+      "definition": "To find a way around an obstacle (बाधा से बचकर निकलना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "They circumvented the limit by batching requests."
+    },
+    {
+      "id": "31",
+      "word": "bypass",
+      "definition": "To go around something instead of through it (किसी को छोड़कर आगे बढ़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Don't bypass the approval process for convenience."
+    },
+    {
+      "id": "32",
+      "word": "workaround solution",
+      "definition": "An alternative approach that avoids a problem (अस्थायी विकल्प)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A workaround solution kept the service running."
+    },
+    {
+      "id": "33",
+      "word": "quick fix",
+      "definition": "A fast but possibly temporary solution (तुरंत किया गया सुधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A quick fix won't remove the underlying problem."
+    },
+    {
+      "id": "34",
+      "word": "band-aid solution",
+      "definition": "A temporary remedy that doesn't solve the real problem (कामचलाऊ उपाय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Restarting the service is a band-aid solution."
+    },
+    {
+      "id": "35",
+      "word": "silver bullet",
+      "definition": "A simple solution that seems to solve a complex problem (हर समस्या का जादुई हल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There's no silver bullet for data quality."
+    },
+    {
+      "id": "36",
+      "word": "long-term solution",
+      "definition": "A fix designed to last (दीर्घकालिक समाधान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We need a long-term solution for vendor delays."
+    },
+    {
+      "id": "37",
+      "word": "iterate",
+      "definition": "To repeat a process to improve results (बार-बार सुधार करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's iterate on the design based on feedback."
+    },
+    {
+      "id": "38",
+      "word": "incremental",
+      "definition": "Happening in small, gradual steps (धीरे-धीरे आगे बढ़ने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "An incremental rollout reduces risk."
+    },
+    {
+      "id": "39",
+      "word": "experiment",
+      "definition": "To try new ideas to see what works (प्रयोग करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We experimented with three caching strategies."
+    },
+    {
+      "id": "40",
+      "word": "hypothesise",
+      "definition": "To propose an explanation to be tested (परिकल्पना बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We hypothesised that the delay came from the network."
+    },
+    {
+      "id": "41",
+      "word": "test the theory",
+      "definition": "To check whether an idea is correct (सिद्धांत की जाँच करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Let's test the theory with a smaller dataset."
+    },
+    {
+      "id": "42",
+      "word": "rule out",
+      "definition": "To eliminate a possibility (संभावना को ख़ारिज करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We ruled out hardware as the cause."
+    },
+    {
+      "id": "43",
+      "word": "narrow it down",
+      "definition": "To reduce possibilities to find the answer (कारणों को सीमित करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Narrow it down by disabling features one by one."
+    },
+    {
+      "id": "44",
+      "word": "eliminate",
+      "definition": "To remove or exclude something (हटाना / समाप्त करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Eliminate other variables before blaming the library."
+    },
+    {
+      "id": "45",
+      "word": "control variable",
+      "definition": "A factor kept constant in an experiment (नियंत्रित चर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Keep data volume as a control variable in the test."
+    },
+    {
+      "id": "46",
+      "word": "sample size",
+      "definition": "The number of observations in a study (नमूने का आकार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The sample size is too small to draw conclusions."
+    },
+    {
+      "id": "47",
+      "word": "outlier",
+      "definition": "A data point far from the others (सामान्य से बहुत अलग मान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "One outlier skewed the average latency."
+    },
+    {
+      "id": "48",
+      "word": "skew",
+      "definition": "To distort a result in a particular direction (परिणाम को एक ओर झुका देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "A few huge files skew the processing time."
+    },
+    {
+      "id": "49",
+      "word": "statistically significant",
+      "definition": "Unlikely to have occurred by chance (सांख्यिकीय रूप से महत्वपूर्ण)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The improvement is statistically significant."
+    },
+    {
+      "id": "50",
+      "word": "margin of error",
+      "definition": "The possible range of difference in a measurement (त्रुटि की संभावित सीमा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The margin of error is about three percent."
+    },
+    {
+      "id": "51",
+      "word": "confidence interval",
+      "definition": "A range likely to contain the true value (विश्वास अंतराल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The confidence interval is narrow, so we trust the estimate."
+    },
+    {
+      "id": "52",
+      "word": "median",
+      "definition": "The middle value in a sorted data set (माध्यिका)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The median latency is better than the average suggests."
+    },
+    {
+      "id": "53",
+      "word": "percentile",
+      "definition": "A value below which a given percentage of data falls (प्रतिशतक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The ninety-ninth percentile latency matters most to customers."
+    },
+    {
+      "id": "54",
+      "word": "distribution",
+      "definition": "How values are spread across a data set (वितरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "File sizes follow a skewed distribution."
+    },
+    {
+      "id": "55",
+      "word": "trend",
+      "definition": "A general direction of change over time (रुझान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The trend shows steady growth in file volume."
+    },
+    {
+      "id": "56",
+      "word": "seasonality",
+      "definition": "Predictable patterns that repeat at certain times (मौसमी पैटर्न)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Month-end seasonality drives our peak load."
+    },
+    {
+      "id": "57",
+      "word": "pattern",
+      "definition": "A repeated or regular form (पैटर्न)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We noticed a pattern of failures every Monday."
+    },
+    {
+      "id": "58",
+      "word": "fluctuation",
+      "definition": "An irregular rise and fall (उतार-चढ़ाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Fluctuations in volume make capacity planning hard."
+    },
+    {
+      "id": "59",
+      "word": "plateau",
+      "definition": "A period where progress levels off (स्थिरता का दौर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Performance gains reached a plateau after the third change."
+    },
+    {
+      "id": "60",
+      "word": "decline",
+      "definition": "A gradual decrease (गिरावट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There was a steady decline in error rates."
+    },
+    {
+      "id": "61",
+      "word": "surge",
+      "definition": "A sudden strong increase (अचानक उछाल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A surge in traffic overwhelmed the service."
+    },
+    {
+      "id": "62",
+      "word": "plummet",
+      "definition": "To fall sharply and suddenly (तेज़ी से गिरना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Throughput plummeted after the change."
+    },
+    {
+      "id": "63",
+      "word": "soar",
+      "definition": "To rise rapidly to a high level (तेज़ी से ऊपर चढ़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Cloud costs soared during the migration."
+    },
+    {
+      "id": "64",
+      "word": "fluctuate",
+      "definition": "To rise and fall irregularly (ऊपर-नीचे होते रहना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Response times fluctuate throughout the day."
+    },
+    {
+      "id": "65",
+      "word": "stabilise",
+      "definition": "To become steady and unchanging (स्थिर होना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Error rates stabilised after the patch."
+    },
+    {
+      "id": "66",
+      "word": "converge",
+      "definition": "To come together towards a common point (एक बिंदु पर मिलना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Estimates from both teams converged on four weeks."
+    },
+    {
+      "id": "67",
+      "word": "diverge",
+      "definition": "To move apart or differ (अलग दिशा में जाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The two environments have started to diverge."
+    },
+    {
+      "id": "68",
+      "word": "deviate",
+      "definition": "To depart from the expected path (सामान्य से हटना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Results deviate from the model in extreme conditions."
+    },
+    {
+      "id": "69",
+      "word": "discrepancy analysis",
+      "definition": "Examination of differences between expected and actual figures (अंतर का विश्लेषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Discrepancy analysis found a missing currency conversion."
+    },
+    {
+      "id": "70",
+      "word": "root cause analysis",
+      "definition": "A method of identifying the fundamental reason for a problem (मूल कारण विश्लेषण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Root cause analysis pointed to an unchecked assumption."
+    },
+    {
+      "id": "71",
+      "word": "five whys",
+      "definition": "A technique of repeatedly asking why to find the root cause (पाँच बार क्यों पूछने की विधि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The five whys revealed a missing alert."
+    },
+    {
+      "id": "72",
+      "word": "fishbone diagram",
+      "definition": "A visual tool mapping possible causes of a problem (कारणों का रेखाचित्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We used a fishbone diagram to list possible causes."
+    },
+    {
+      "id": "73",
+      "word": "decision matrix",
+      "definition": "A table scoring options against criteria (निर्णय तालिका)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We scored vendors using a decision matrix."
+    },
+    {
+      "id": "74",
+      "word": "criteria",
+      "definition": "Standards on which a judgement is based (मानदंड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The selection criteria include cost and reliability."
+    },
+    {
+      "id": "75",
+      "word": "weighting",
+      "definition": "The importance assigned to a factor (महत्व का भार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We gave resilience a higher weighting than cost."
+    },
+    {
+      "id": "76",
+      "word": "prioritisation framework",
+      "definition": "A structured method for ranking work (प्राथमिकता तय करने का ढाँचा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We use a simple prioritisation framework of impact and effort."
+    },
+    {
+      "id": "77",
+      "word": "impact and effort",
+      "definition": "A comparison of benefit against work needed (प्रभाव बनाम प्रयास)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Plot tasks by impact and effort to pick quick wins."
+    },
+    {
+      "id": "78",
+      "word": "quick win",
+      "definition": "A small action producing a noticeable result (कम प्रयास में स्पष्ट लाभ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Better alert names were a quick win."
+    },
+    {
+      "id": "79",
+      "word": "low-hanging fruit",
+      "definition": "Easy tasks that bring immediate benefit (आसानी से मिलने वाला लाभ)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's pick the low-hanging fruit before tackling the redesign."
+    },
+    {
+      "id": "80",
+      "word": "move the needle",
+      "definition": "To make a noticeable difference (ठोस असर डालना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Small tweaks won't move the needle on reliability."
+    },
+    {
+      "id": "81",
+      "word": "game changer",
+      "definition": "Something that significantly changes a situation (खेल बदलने वाली चीज़)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Automated reconciliation was a game changer."
+    },
+    {
+      "id": "82",
+      "word": "paradigm shift",
+      "definition": "A fundamental change in approach or thinking (सोच में बुनियादी बदलाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Event-driven design was a paradigm shift for the team."
+    },
+    {
+      "id": "83",
+      "word": "disruptive",
+      "definition": "Radically changing an industry or process (क्रांतिकारी बदलाव लाने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "AI is a disruptive force in software development."
+    },
+    {
+      "id": "84",
+      "word": "innovative",
+      "definition": "Introducing new ideas or methods (नवोन्मेषी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "They proposed an innovative way to validate files."
+    },
+    {
+      "id": "85",
+      "word": "novel",
+      "definition": "New and unusual (नया और अनोखा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The team came up with a novel approach to deduplication."
+    },
+    {
+      "id": "86",
+      "word": "unconventional",
+      "definition": "Not following accepted norms (परंपरागत से हटकर)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "An unconventional solution solved the problem cheaply."
+    },
+    {
+      "id": "87",
+      "word": "creative",
+      "definition": "Using imagination to produce original ideas (रचनात्मक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A creative workaround saved us a week."
+    },
+    {
+      "id": "88",
+      "word": "brainstorm",
+      "definition": "To generate ideas freely in a group (विचार-मंथन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We brainstormed ways to reduce file delays."
+    },
+    {
+      "id": "89",
+      "word": "ideate",
+      "definition": "To form and develop ideas (विचार गढ़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's ideate before locking in a design."
+    },
+    {
+      "id": "90",
+      "word": "conceptualise",
+      "definition": "To form an idea or concept in the mind (अवधारणा बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "It's hard to conceptualise the whole flow without a diagram."
+    },
+    {
+      "id": "91",
+      "word": "visualise",
+      "definition": "To form a mental picture of something (मन में चित्र बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "A diagram helps us visualise the data flow."
+    },
+    {
+      "id": "92",
+      "word": "prototype",
+      "definition": "An early model built to test an idea (प्रारंभिक नमूना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A rough prototype validated the concept."
+    },
+    {
+      "id": "93",
+      "word": "iterate quickly",
+      "definition": "To make fast successive improvements (तेज़ी से बार-बार सुधार करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Iterate quickly and learn from each release."
+    },
+    {
+      "id": "94",
+      "word": "fail fast",
+      "definition": "To find out quickly whether an idea will not work (जल्दी विफल होकर सीखना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Fail fast to avoid wasting months on a bad design."
+    },
+    {
+      "id": "95",
+      "word": "pivot",
+      "definition": "To change direction in strategy or approach (रणनीति की दिशा बदलना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We pivoted to a managed service after the prototype struggled."
+    },
+    {
+      "id": "96",
+      "word": "course correction",
+      "definition": "An adjustment to get back on the right path (दिशा सुधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A course correction in week three saved the project."
+    },
+    {
+      "id": "97",
+      "word": "revisit",
+      "definition": "To consider again after a period of time (दोबारा विचार करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's revisit this decision once we have more data."
+    },
+    {
+      "id": "98",
+      "word": "reassess",
+      "definition": "To evaluate again (पुनर्मूल्यांकन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We should reassess the risk after the pilot."
+    },
+    {
+      "id": "99",
+      "word": "reconsider",
+      "definition": "To think again about a decision (पुनर्विचार करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Would you reconsider extending the deadline?"
+    },
+    {
+      "id": "100",
+      "word": "second-guess",
+      "definition": "To doubt a decision or criticise it afterwards (निर्णय पर बाद में शक करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Don't second-guess the call; we had good reasons then."
+    },
+    {
+      "id": "101",
+      "word": "hindsight",
+      "definition": "Understanding something after it has happened (बीती घटना की बाद में समझ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "In hindsight, we should have load-tested earlier."
+    },
+    {
+      "id": "102",
+      "word": "foresight",
+      "definition": "The ability to predict and prepare for the future (दूरदर्शिता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Her foresight saved us from a major outage."
+    },
+    {
+      "id": "103",
+      "word": "anticipate",
+      "definition": "To expect and prepare for something (पहले से अनुमान लगाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We anticipated heavy traffic at month-end."
+    },
+    {
+      "id": "104",
+      "word": "foresee",
+      "definition": "To predict a future event (भविष्य की घटना देख लेना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Nobody could have foreseen that edge case."
+    },
+    {
+      "id": "105",
+      "word": "preempt",
+      "definition": "To take action in advance to prevent something (पहले से रोकथाम करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We preempted the problem by adding validation."
+    },
+    {
+      "id": "106",
+      "word": "forestall",
+      "definition": "To prevent something by acting in advance (पहले से रोकना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Early communication forestalled a lot of confusion."
+    },
+    {
+      "id": "107",
+      "word": "avert",
+      "definition": "To prevent something bad from happening (संकट टालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Quick action averted a major data loss."
+    },
+    {
+      "id": "108",
+      "word": "thwart",
+      "definition": "To prevent someone or something from succeeding (विफल करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Strict validation thwarted the corrupt file from loading."
+    },
+    {
+      "id": "109",
+      "word": "jeopardise",
+      "definition": "To put something at risk (ख़तरे में डालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Skipping tests could jeopardise the release."
+    },
+    {
+      "id": "110",
+      "word": "compromise",
+      "definition": "To weaken or put at risk (समझौता करना / कमज़ोर करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "A leaked key could compromise the entire system."
+    },
+    {
+      "id": "111",
+      "word": "undermine",
+      "definition": "To gradually weaken something (धीरे-धीरे कमज़ोर करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Repeated outages undermined client confidence."
+    },
+    {
+      "id": "112",
+      "word": "erode",
+      "definition": "To gradually reduce or destroy (धीरे-धीरे क्षीण करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Constant firefighting erodes team morale."
+    },
+    {
+      "id": "113",
+      "word": "hamper",
+      "definition": "To hinder or obstruct (बाधा डालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Poor documentation hampers onboarding."
+    },
+    {
+      "id": "114",
+      "word": "impede",
+      "definition": "To delay or prevent progress (प्रगति में रुकावट डालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Slow approvals impede delivery."
+    },
+    {
+      "id": "115",
+      "word": "hinder",
+      "definition": "To make it difficult for something to happen (कठिनाई पैदा करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Frequent meetings hinder deep work."
+    },
+    {
+      "id": "116",
+      "word": "curb",
+      "definition": "To restrain or keep within limits (नियंत्रित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "New rules helped curb unnecessary access."
+    },
+    {
+      "id": "117",
+      "word": "curtail",
+      "definition": "To reduce or limit something (घटाना / सीमित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Budget cuts curtailed our hiring plans."
+    },
+    {
+      "id": "118",
+      "word": "constrain",
+      "definition": "To limit or restrict (सीमित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Legacy systems constrain what we can change."
+    },
+    {
+      "id": "119",
+      "word": "streamlining",
+      "definition": "Making a process more efficient (प्रक्रिया को सुव्यवस्थित करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Streamlining approvals saved two days per release."
+    },
+    {
+      "id": "120",
+      "word": "optimisation",
+      "definition": "Making something as effective as possible (अनुकूलन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Query optimisation reduced costs significantly."
+    },
+    {
+      "id": "121",
+      "word": "efficiency",
+      "definition": "Achieving results with minimal wasted effort (कार्य-कुशलता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Automation improved our operational efficiency."
+    },
+    {
+      "id": "122",
+      "word": "inefficiency",
+      "definition": "Waste of time, effort or resources (अकुशलता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Manual steps create inefficiency and risk."
+    },
+    {
+      "id": "123",
+      "word": "redundant",
+      "definition": "Unnecessary because it duplicates something (अनावश्यक रूप से दोहराया गया)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Remove redundant checks that slow the pipeline."
+    },
+    {
+      "id": "124",
+      "word": "obsolete",
+      "definition": "No longer used or useful (अप्रचलित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The old interface is now obsolete."
+    },
+    {
+      "id": "125",
+      "word": "outdated",
+      "definition": "Old-fashioned or no longer current (पुराना पड़ चुका)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The documentation is outdated and misleading."
+    },
+    {
+      "id": "126",
+      "word": "stale",
+      "definition": "No longer fresh or up to date (बासी / पुराना)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Stale data caused the wrong report."
+    },
+    {
+      "id": "127",
+      "word": "fragmented",
+      "definition": "Broken into disconnected parts (बिखरा हुआ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Fragmented tooling slows down investigations."
+    },
+    {
+      "id": "128",
+      "word": "siloed",
+      "definition": "Isolated from other teams or systems (अलग-थलग)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Siloed teams duplicate effort."
+    },
+    {
+      "id": "129",
+      "word": "duplicated",
+      "definition": "Repeated unnecessarily (दोहराया गया)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Duplicated logic is hard to maintain."
+    },
+    {
+      "id": "130",
+      "word": "fragile",
+      "definition": "Easily broken or damaged (आसानी से टूटने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The fragile script fails whenever a column moves."
+    },
+    {
+      "id": "131",
+      "word": "convoluted",
+      "definition": "Extremely complex and hard to follow (उलझा हुआ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The convoluted approval flow confuses new joiners."
+    },
+    {
+      "id": "132",
+      "word": "cumbersome",
+      "definition": "Slow and inefficient because of size or complexity (बोझिल)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The manual process is too cumbersome."
+    },
+    {
+      "id": "133",
+      "word": "tedious",
+      "definition": "Tiresome because of length or repetition (उबाऊ और थकाऊ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Manually checking files is tedious and error-prone."
+    },
+    {
+      "id": "134",
+      "word": "labour-intensive",
+      "definition": "Requiring a lot of human effort (अधिक मानवीय श्रम वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Reconciliation was labour-intensive until we automated it."
+    },
+    {
+      "id": "135",
+      "word": "error-prone",
+      "definition": "Likely to produce mistakes (त्रुटि की संभावना वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Manual deployment is error-prone."
+    },
+    {
+      "id": "136",
+      "word": "time-consuming",
+      "definition": "Taking a lot of time (समय लेने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Debugging without logs is time-consuming."
+    },
+    {
+      "id": "137",
+      "word": "straightforward",
+      "definition": "Simple and uncomplicated (सीधा-सादा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The fix itself was straightforward."
+    },
+    {
+      "id": "138",
+      "word": "intuitive",
+      "definition": "Easy to understand without instruction (सहज-बोधगम्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The dashboard is intuitive for new users."
+    },
+    {
+      "id": "139",
+      "word": "seamless",
+      "definition": "Smooth with no visible gaps (निर्बाध)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The cutover was seamless for end users."
+    },
+    {
+      "id": "140",
+      "word": "effortless",
+      "definition": "Requiring no apparent effort (बिना श्रम के)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "With good tooling, deployment feels effortless."
+    },
+    {
+      "id": "141",
+      "word": "trivial",
+      "definition": "Of little importance or difficulty (मामूली)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The change looks trivial but affects every consumer."
+    },
+    {
+      "id": "142",
+      "word": "negligible",
+      "definition": "So small that it is not worth considering (नगण्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The performance impact is negligible."
+    },
+    {
+      "id": "143",
+      "word": "marginal",
+      "definition": "Small and of minor importance (मामूली / सीमांत)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The gain from caching was only marginal."
+    },
+    {
+      "id": "144",
+      "word": "substantial",
+      "definition": "Large in size or importance (काफ़ी बड़ा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We saw substantial improvements in throughput."
+    },
+    {
+      "id": "145",
+      "word": "considerable",
+      "definition": "Notably large (उल्लेखनीय रूप से बड़ा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Considerable effort went into the migration."
+    },
+    {
+      "id": "146",
+      "word": "significant",
+      "definition": "Important enough to have an effect (महत्वपूर्ण)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "There was a significant drop in error rates."
+    },
+    {
+      "id": "147",
+      "word": "profound",
+      "definition": "Very great or intense (गहरा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The decision had a profound effect on delivery."
+    },
+    {
+      "id": "148",
+      "word": "drastic",
+      "definition": "Extreme and far-reaching (कठोर / भारी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Drastic measures were needed to stop the data loss."
+    },
+    {
+      "id": "149",
+      "word": "radical",
+      "definition": "Thorough and far-reaching (मूलभूत / क्रांतिकारी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We made radical changes to the processing model."
+    },
+    {
+      "id": "150",
+      "word": "incremental improvement",
+      "definition": "A small step forward in quality (क्रमिक सुधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Incremental improvement adds up to big gains."
+    },
+    {
+      "id": "151",
+      "word": "overhaul",
+      "definition": "To thoroughly examine and improve something (पूरी तरह बदल देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We overhauled the alerting rules completely."
+    },
+    {
+      "id": "152",
+      "word": "revamp",
+      "definition": "To renovate or improve the form of something (नया रूप देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The team revamped the onboarding guide."
+    },
+    {
+      "id": "153",
+      "word": "revitalise",
+      "definition": "To give new life to something (नई जान डालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "New tooling revitalised the stagnant project."
+    },
+    {
+      "id": "154",
+      "word": "modernise",
+      "definition": "To update to suit current needs (आधुनिक बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We are modernising the legacy batch system."
+    },
+    {
+      "id": "155",
+      "word": "transition",
+      "definition": "To change from one state to another (एक अवस्था से दूसरी में बदलना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We will transition all vendors to the new pipeline by June."
+    },
+    {
+      "id": "156",
+      "word": "phase out",
+      "definition": "To gradually stop using something (धीरे-धीरे बंद करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We'll phase out the old endpoint by December."
+    },
+    {
+      "id": "157",
+      "word": "roll out",
+      "definition": "To introduce something gradually (चरणबद्ध रूप से लागू करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We'll roll out the fix to one region first."
+    },
+    {
+      "id": "158",
+      "word": "wind down",
+      "definition": "To gradually reduce activity until it stops (धीरे-धीरे काम समेटना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "The project is winding down after launch."
+    },
+    {
+      "id": "159",
+      "word": "ramp down",
+      "definition": "To gradually reduce effort or output (धीरे-धीरे गति घटाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We will ramp down support once the new system is stable."
+    },
+    {
+      "id": "160",
+      "word": "scale back",
+      "definition": "To reduce in size or extent (दायरा छोटा करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We scaled back the project to meet the deadline."
+    },
+    {
+      "id": "161",
+      "word": "scale up",
+      "definition": "To increase in size or capacity (क्षमता बढ़ाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We can scale up the workers when load rises."
+    },
+    {
+      "id": "162",
+      "word": "first principles",
+      "definition": "Basic truths from which reasoning starts (मूल सिद्धांत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Let's think from first principles instead of copying others."
+    },
+    {
+      "id": "163",
+      "word": "Occam's razor",
+      "definition": "The simplest explanation is usually the best (सबसे सरल व्याख्या अक्सर सही होती है)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Occam's razor suggests it's just a config typo."
+    },
+    {
+      "id": "164",
+      "word": "confirmation bias",
+      "definition": "Favouring information that supports existing beliefs (अपनी मान्यता की पुष्टि वाली जानकारी चुनना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Confirmation bias made us ignore the warning signs."
+    },
+    {
+      "id": "165",
+      "word": "sunk cost",
+      "definition": "Money or effort already spent that cannot be recovered (पहले ही ख़र्च हो चुकी लागत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Don't let sunk cost keep a failing project alive."
+    },
+    {
+      "id": "166",
+      "word": "survivorship bias",
+      "definition": "Judging only from successful examples (केवल सफल उदाहरणों से निष्कर्ष निकालना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Case studies often suffer from survivorship bias."
+    },
+    {
+      "id": "167",
+      "word": "cognitive bias",
+      "definition": "A systematic error in thinking (सोचने में व्यवस्थित त्रुटि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Cognitive bias affects estimation."
+    },
+    {
+      "id": "168",
+      "word": "anchoring",
+      "definition": "Relying too heavily on the first piece of information (पहली जानकारी पर अधिक निर्भर होना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Anchoring on the first quote skewed negotiations."
+    },
+    {
+      "id": "169",
+      "word": "groupthink",
+      "definition": "Poor decision-making due to desire for harmony (एकमत बनाए रखने के दबाव में ग़लत फ़ैसले)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Groupthink silenced the dissenting engineer."
+    },
+    {
+      "id": "170",
+      "word": "false dichotomy",
+      "definition": "Presenting two options as the only ones available (केवल दो विकल्प दिखाना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Speed versus quality is a false dichotomy."
+    },
+    {
+      "id": "171",
+      "word": "slippery slope",
+      "definition": "An argument that a small step leads to extreme results (छोटे कदम से बड़े नतीजे की दलील)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "One exception isn't necessarily a slippery slope."
+    },
+    {
+      "id": "172",
+      "word": "straw man",
+      "definition": "Misrepresenting someone's argument to attack it easily (विरोधी तर्क को तोड़-मरोड़कर पेश करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "That's a straw man; nobody suggested removing tests."
+    },
+    {
+      "id": "173",
+      "word": "red herring",
+      "definition": "A misleading clue that distracts from the real issue (भटकाने वाला संकेत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The memory warning was a red herring."
+    },
+    {
+      "id": "174",
+      "word": "ad hoc",
+      "definition": "Created for a specific purpose without general planning (तात्कालिक / विशेष उद्देश्य हेतु)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Ad hoc fixes make the system harder to maintain."
+    },
+    {
+      "id": "175",
+      "word": "heuristic",
+      "definition": "A practical rule of thumb for problem-solving (अनुभव आधारित व्यावहारिक तरीका)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We used a simple heuristic to rank incidents."
+    },
+    {
+      "id": "176",
+      "word": "algorithmic thinking",
+      "definition": "Breaking problems into clear step-by-step solutions (चरणबद्ध समाधान सोचने की क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Algorithmic thinking improves debugging."
+    },
+    {
+      "id": "177",
+      "word": "decompose",
+      "definition": "To break a problem into smaller parts (समस्या को छोटे भागों में बाँटना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Decompose the task into tickets of one day each."
+    },
+    {
+      "id": "178",
+      "word": "abstract away",
+      "definition": "To hide complexity behind a simpler layer (जटिलता को सरल परत के पीछे छुपाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "The library abstracts away the retry logic."
+    },
+    {
+      "id": "179",
+      "word": "generalise",
+      "definition": "To apply a specific finding more broadly (विशेष निष्कर्ष को व्यापक रूप से लागू करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We can't generalise from one vendor's behaviour."
+    },
+    {
+      "id": "180",
+      "word": "oversimplify",
+      "definition": "To make something seem simpler than it is (ज़रूरत से ज़्यादा सरल बना देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Blaming one engineer oversimplifies the incident."
+    },
+    {
+      "id": "181",
+      "word": "qualify",
+      "definition": "To limit or modify a statement (कथन में शर्त जोड़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let me qualify that: it works only for small files."
+    },
+    {
+      "id": "182",
+      "word": "substantiated claim",
+      "definition": "A statement supported by evidence (प्रमाण से समर्थित दावा)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Only substantiated claims belong in the report."
+    },
+    {
+      "id": "183",
+      "word": "unfounded",
+      "definition": "Having no basis in fact (निराधार)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The rumour about data loss was unfounded."
+    },
+    {
+      "id": "184",
+      "word": "baseless",
+      "definition": "Without evidence or reason (बेबुनियाद)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The accusation was baseless."
+    },
+    {
+      "id": "185",
+      "word": "sweeping statement",
+      "definition": "A broad claim made without considering details (बिना बारीकी के व्यापक कथन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Saying all vendors are unreliable is a sweeping statement."
+    },
+    {
+      "id": "186",
+      "word": "oversight",
+      "definition": "A failure to notice or consider something (चूक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The missing alert was an oversight."
+    },
+    {
+      "id": "187",
+      "word": "blind spot",
+      "definition": "An area where one lacks awareness (जिस पर ध्यान न जाए वह क्षेत्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Security was a blind spot in our design."
+    },
+    {
+      "id": "188",
+      "word": "loophole",
+      "definition": "A gap in a rule that allows avoidance (नियम में कमी का छेद)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The loophole let invalid files pass validation."
+    },
+    {
+      "id": "189",
+      "word": "pitfalls and safeguards",
+      "definition": "Possible dangers and protective measures (ख़तरे और बचाव के उपाय)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "The guide lists pitfalls and safeguards."
+    },
+    {
+      "id": "190",
+      "word": "trade secrets",
+      "definition": "Confidential business information (व्यावसायिक गोपनीय जानकारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The contract protects trade secrets."
+    },
+    {
+      "id": "191",
+      "word": "a leap of faith",
+      "definition": "Acting without certainty about the outcome (अनिश्चितता में भरोसा करके कदम उठाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Adopting the new platform was a leap of faith."
+    },
+    {
+      "id": "192",
+      "word": "a calculated risk",
+      "definition": "A risk taken after careful thought (सोच-समझकर लिया गया जोखिम)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Shipping early was a calculated risk."
+    },
+    {
+      "id": "193",
+      "word": "a double-check",
+      "definition": "A second verification (दोबारा जाँच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Do a double-check before sending the numbers."
+    },
+    {
+      "id": "194",
+      "word": "cross-check",
+      "definition": "To verify using a different source (दूसरे स्रोत से मिलान करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Cross-check the totals with the vendor report."
+    },
+    {
+      "id": "195",
+      "word": "benchmark against",
+      "definition": "To compare performance with a standard (मानक से तुलना करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We benchmarked the new parser against the old one."
+    },
+    {
+      "id": "196",
+      "word": "stress-test",
+      "definition": "To test under extreme conditions (चरम स्थितियों में परखना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We stress-tested the platform with ten times the volume."
+    },
+    {
+      "id": "197",
+      "word": "sanity-check",
+      "definition": "To quickly verify that a result is reasonable (तर्कसंगतता जाँचना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Sanity-check the report totals before sharing."
+    },
+    {
+      "id": "198",
+      "word": "debrief",
+      "definition": "A discussion after an event to review what happened (घटना के बाद की समीक्षा चर्चा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We held a debrief after the release."
+    },
+    {
+      "id": "199",
+      "word": "lessons learned",
+      "definition": "Insights gained from experience (अनुभव से मिली सीख)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Capture lessons learned in the postmortem."
+    },
+    {
+      "id": "200",
+      "word": "institutional knowledge",
+      "definition": "Information held by long-term employees (संस्था में दीर्घकालिक अनुभव से बना ज्ञान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Institutional knowledge leaves when seniors resign."
+    }
+  ],
+  "id": "a11fbc25-3b42-44cd-95db-2bc4231e1bdf",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

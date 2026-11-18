@@ -1,0 +1,580 @@
+{
+ "id": "pack3-deck-13",
+ "categoryId": "pack3-cat-1",
+ "title": "13. Economy & Development",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-601",
+   "mode": "vocab",
+   "word": "Economy",
+   "pron": "",
+   "def": "The system of production, distribution, and consumption.\nहिंदी: अर्थव्यवस्था",
+   "examples": [
+    "Economy determines livelihoods.",
+    "Economy must serve people.",
+    "Economy grows with investment.",
+    "Economy faces cycles."
+   ]
+  },
+  {
+   "id": "pack3-card-602",
+   "mode": "vocab",
+   "word": "Economic Growth",
+   "pron": "",
+   "def": "An increase in a country's output.\nहिंदी: आर्थिक वृद्धि",
+   "examples": [
+    "Economic Growth reduces poverty.",
+    "Economic Growth must be inclusive.",
+    "Economic Growth requires investment.",
+    "Economic Growth alone is not enough."
+   ]
+  },
+  {
+   "id": "pack3-card-603",
+   "mode": "vocab",
+   "word": "Economic Development",
+   "pron": "",
+   "def": "Improvement in living standards and welfare.\nहिंदी: आर्थिक विकास",
+   "examples": [
+    "Economic Development improves lives.",
+    "Economic Development needs equity.",
+    "Economic Development requires planning.",
+    "Economic Development must be sustainable."
+   ]
+  },
+  {
+   "id": "pack3-card-604",
+   "mode": "vocab",
+   "word": "Development",
+   "pron": "",
+   "def": "Progress in social and economic conditions.\nहिंदी: विकास",
+   "examples": [
+    "Development must be inclusive.",
+    "Development requires infrastructure.",
+    "Development must be sustainable.",
+    "Development empowers people."
+   ]
+  },
+  {
+   "id": "pack3-card-605",
+   "mode": "vocab",
+   "word": "Underdevelopment",
+   "pron": "",
+   "def": "A state of low economic progress.\nहिंदी: अल्पविकास / पिछड़ापन",
+   "examples": [
+    "Underdevelopment results from exploitation.",
+    "Underdevelopment traps nations.",
+    "Underdevelopment must be overcome.",
+    "Underdevelopment reflects inequality."
+   ]
+  },
+  {
+   "id": "pack3-card-606",
+   "mode": "vocab",
+   "word": "Green Economy",
+   "pron": "",
+   "def": "An economic model aimed at reducing environmental risks while fostering sustainable societal prosperity.\nहिंदी: हरित अर्थव्यवस्था",
+   "examples": [
+    "Transitioning to a green economy creates millions of new jobs in renewable energy.",
+    "The national budget allocated substantial subsidies to accelerate the green economy.",
+    "A robust green economy prioritizes clean industrial manufacturing and circular resources.",
+    "International banks provide preferential green loans to businesses advancing the green economy."
+   ]
+  },
+  {
+   "id": "pack3-card-607",
+   "mode": "vocab",
+   "word": "Human Development",
+   "pron": "",
+   "def": "Improving people's well-being and capabilities.\nहिंदी: मानव विकास",
+   "examples": [
+    "Human Development focuses on people.",
+    "Human Development measures health and education.",
+    "Human Development must be prioritized.",
+    "Human Development goes beyond income."
+   ]
+  },
+  {
+   "id": "pack3-card-608",
+   "mode": "vocab",
+   "word": "Per Capita Output",
+   "pron": "",
+   "def": "The total economic output of a nation divided equally among its entire resident population.\nहिंदी: प्रति व्यक्ति उत्पादन",
+   "examples": [
+    "Steady growth in per capita output is a key indicator of rising living standards.",
+    "Economists analyzed regional differences in industrial per capita output across provinces.",
+    "Investments in automation and education dramatically boosted national per capita output.",
+    "High population growth can outpace productivity, leading to stagnation in per capita output."
+   ]
+  },
+  {
+   "id": "pack3-card-609",
+   "mode": "vocab",
+   "word": "Fiscal Deficit",
+   "pron": "",
+   "def": "The negative balance that occurs when a government's total expenditure exceeds its total revenues.\nहिंदी: राजकोषीय घाटा",
+   "examples": [
+    "The finance ministry announced austerity measures to curb the ballooning fiscal deficit.",
+    "A high fiscal deficit often forces governments to issue long-term sovereign bonds.",
+    "Targeted public investments can stimulate growth even if they temporarily widen the fiscal deficit.",
+    "Credit rating agencies downgraded the sovereign rating due to an unmanageable fiscal deficit."
+   ]
+  },
+  {
+   "id": "pack3-card-610",
+   "mode": "vocab",
+   "word": "Gross National Income",
+   "pron": "",
+   "def": "Total income earned by a nation's residents.\nहिंदी: सकल राष्ट्रीय आय",
+   "examples": [
+    "Gross National Income measures earnings.",
+    "Gross National Income differs from GDP.",
+    "Gross National Income reflects income flows.",
+    "Gross National Income guides comparisons."
+   ]
+  },
+  {
+   "id": "pack3-card-611",
+   "mode": "vocab",
+   "word": "Per Capita Income",
+   "pron": "",
+   "def": "Average income per person.\nहिंदी: प्रति व्यक्ति आय",
+   "examples": [
+    "Per Capita Income measures prosperity.",
+    "Per Capita Income hides inequality.",
+    "Per Capita Income guides policy.",
+    "Per Capita Income varies widely."
+   ]
+  },
+  {
+   "id": "pack3-card-612",
+   "mode": "vocab",
+   "word": "Purchasing Power Parity",
+   "pron": "",
+   "def": "Comparing currencies by buying power.\nहिंदी: क्रय शक्ति समता",
+   "examples": [
+    "Purchasing Power Parity adjusts comparisons.",
+    "Purchasing Power Parity reflects real income.",
+    "Purchasing Power Parity guides economists.",
+    "Purchasing Power Parity is useful globally."
+   ]
+  },
+  {
+   "id": "pack3-card-613",
+   "mode": "vocab",
+   "word": "Purchasing Power",
+   "pron": "",
+   "def": "The financial capacity of a currency to purchase a given quantity of goods and services.\nहिंदी: क्रय शक्ति",
+   "examples": [
+    "Persistent inflation steadily erodes the purchasing power of middle-class families.",
+    "Salaries must be adjusted periodically to maintain household purchasing power.",
+    "Purchasing power parity allows realistic economic comparisons between different countries.",
+    "A stronger domestic currency enhances the purchasing power of consumers buying imported goods."
+   ]
+  },
+  {
+   "id": "pack3-card-614",
+   "mode": "vocab",
+   "word": "Deflation",
+   "pron": "",
+   "def": "A general fall in prices.\nहिंदी: अपस्फीति / कीमतों में गिरावट",
+   "examples": [
+    "Deflation slows spending.",
+    "Deflation harms debtors.",
+    "Deflation must be avoided.",
+    "Deflation signals weak demand."
+   ]
+  },
+  {
+   "id": "pack3-card-615",
+   "mode": "vocab",
+   "word": "Stagflation",
+   "pron": "",
+   "def": "An economic condition characterized by stagnant growth, high unemployment, and high price inflation.\nहिंदी: मंदी के साथ महँगाई",
+   "examples": [
+    "Central bankers face extreme policy dilemmas when attempting to resolve stagflation.",
+    "The 1970s oil shocks triggered an unprecedented era of worldwide economic stagflation.",
+    "Cutting interest rates to fight unemployment during stagflation can worsen inflationary spirals.",
+    "Stagflation inflicts heavy economic pain by combining job scarcity with skyrocketing living costs."
+   ]
+  },
+  {
+   "id": "pack3-card-616",
+   "mode": "vocab",
+   "word": "Depression (Economic)",
+   "pron": "",
+   "def": "A severe and prolonged recession.\nहिंदी: महामंदी",
+   "examples": [
+    "Economic Depression devastates nations.",
+    "Economic Depression causes mass unemployment.",
+    "Economic Depression must be prevented.",
+    "Economic Depression shaped history."
+   ]
+  },
+  {
+   "id": "pack3-card-617",
+   "mode": "vocab",
+   "word": "Fiscal Policy",
+   "pron": "",
+   "def": "Government use of taxes and spending.\nहिंदी: राजकोषीय नीति",
+   "examples": [
+    "Fiscal Policy manages demand.",
+    "Fiscal Policy must be prudent.",
+    "Fiscal Policy funds welfare.",
+    "Fiscal Policy affects growth."
+   ]
+  },
+  {
+   "id": "pack3-card-618",
+   "mode": "vocab",
+   "word": "Monetary Policy",
+   "pron": "",
+   "def": "Central bank control of money and interest.\nहिंदी: मौद्रिक नीति",
+   "examples": [
+    "Monetary Policy controls inflation.",
+    "Monetary Policy must be independent.",
+    "Monetary Policy affects borrowing.",
+    "Monetary Policy guides growth."
+   ]
+  },
+  {
+   "id": "pack3-card-619",
+   "mode": "vocab",
+   "word": "Trade Imbalance",
+   "pron": "",
+   "def": "A significant disparity between the monetary value of a nation's imports and its exports.\nहिंदी: व्यापार असंतुलन",
+   "examples": [
+    "The government introduced export incentives to correct the persistent bilateral trade imbalance.",
+    "A chronic trade imbalance can place severe downward pressure on domestic foreign exchange reserves.",
+    "Tariff negotiations were initiated to address the widening commercial trade imbalance.",
+    "Trade imbalance often reflects fundamental differences in national manufacturing capacity."
+   ]
+  },
+  {
+   "id": "pack3-card-621",
+   "mode": "vocab",
+   "word": "Tax",
+   "pron": "",
+   "def": "A compulsory payment to the government.\nहिंदी: कर / टैक्स",
+   "examples": [
+    "Taxes fund public services.",
+    "Taxes must be fair.",
+    "Taxes must be collected efficiently.",
+    "Taxes reduce inequality."
+   ]
+  },
+  {
+   "id": "pack3-card-622",
+   "mode": "vocab",
+   "word": "Progressive Tax",
+   "pron": "",
+   "def": "A tax that rises with income.\nहिंदी: प्रगतिशील कर",
+   "examples": [
+    "Progressive Tax reduces inequality.",
+    "Progressive Tax is fair.",
+    "Progressive Tax funds welfare.",
+    "Progressive Tax faces debate."
+   ]
+  },
+  {
+   "id": "pack3-card-623",
+   "mode": "vocab",
+   "word": "Regressive Tax",
+   "pron": "",
+   "def": "A tax that burdens the poor more.\nहिंदी: प्रतिगामी कर",
+   "examples": [
+    "Regressive Tax hurts the poor.",
+    "Regressive Tax widens inequality.",
+    "Regressive Tax must be reconsidered.",
+    "Regressive Tax affects consumption."
+   ]
+  },
+  {
+   "id": "pack3-card-624",
+   "mode": "vocab",
+   "word": "Tax Evasion",
+   "pron": "",
+   "def": "Illegal avoidance of taxes.\nहिंदी: कर चोरी",
+   "examples": [
+    "Tax Evasion robs nations.",
+    "Tax Evasion must be punished.",
+    "Tax Evasion weakens services.",
+    "Tax Evasion harms honest citizens."
+   ]
+  },
+  {
+   "id": "pack3-card-625",
+   "mode": "vocab",
+   "word": "Tax Avoidance",
+   "pron": "",
+   "def": "Legal reduction of tax liability.\nहिंदी: कर-बचाव / कानूनी तरीके से कर घटाना",
+   "examples": [
+    "Tax Avoidance exploits loopholes.",
+    "Tax Avoidance must be checked.",
+    "Tax Avoidance harms revenue.",
+    "Tax Avoidance needs reform."
+   ]
+  },
+  {
+   "id": "pack3-card-626",
+   "mode": "vocab",
+   "word": "Capital Flight",
+   "pron": "",
+   "def": "The rapid movement of financial assets out of a country due to economic instability or political fear.\nहिंदी: पूंजी पलायन",
+   "examples": [
+    "Sudden currency devaluations triggered massive capital flight toward safe offshore havens.",
+    "The government introduced foreign exchange controls to prevent destabilizing capital flight.",
+    "Political turmoil and expropriation fears are the primary catalysts of rapid capital flight.",
+    "Capital flight deprives domestic developing industries of urgently needed investment liquidity."
+   ]
+  },
+  {
+   "id": "pack3-card-627",
+   "mode": "vocab",
+   "word": "Welfare Scheme",
+   "pron": "",
+   "def": "A program for social support.\nहिंदी: कल्याण योजना",
+   "examples": [
+    "Welfare Schemes reduce poverty.",
+    "Welfare Schemes must be efficient.",
+    "Welfare Schemes need funding.",
+    "Welfare Schemes empower the poor."
+   ]
+  },
+  {
+   "id": "pack3-card-628",
+   "mode": "vocab",
+   "word": "Destitution",
+   "pron": "",
+   "def": "Poverty so severe and extreme that a person lacks the absolute basic necessities of life.\nहिंदी: अत्यंत दरिद्रता / बदहाली",
+   "examples": [
+    "Emergency shelter networks protect vulnerable street populations from terminal destitution.",
+    "War and displacement pushed thousands of civilian families into acute destitution.",
+    "Social welfare pensions provide a critical safety net that prevents elderly destitution.",
+    "Charitable soup kitchens work to alleviate immediate hunger and visible destitution."
+   ]
+  },
+  {
+   "id": "pack3-card-629",
+   "mode": "vocab",
+   "word": "Living Wage",
+   "pron": "",
+   "def": "A wage level high enough to maintain a decent, healthy, and dignified standard of living.\nहिंदी: जीवनयापन योग्य मज़दूरी",
+   "examples": [
+    "Labor unions campaign vigorously for employers to pay a living wage rather than the minimum wage.",
+    "A living wage ensures that a full-time worker can afford housing, food, and healthcare.",
+    "Progressive corporations voluntarily adopted a living wage policy across their supply chains.",
+    "Paying a living wage boosts worker retention, job satisfaction, and overall productivity."
+   ]
+  },
+  {
+   "id": "pack3-card-630",
+   "mode": "vocab",
+   "word": "Extreme Poverty",
+   "pron": "",
+   "def": "Severe lack of basic necessities.\nहिंदी: अत्यधिक ग़रीबी",
+   "examples": [
+    "Extreme Poverty must end.",
+    "Extreme Poverty affects billions.",
+    "Extreme Poverty is a moral crisis.",
+    "Extreme Poverty needs action."
+   ]
+  },
+  {
+   "id": "pack3-card-631",
+   "mode": "vocab",
+   "word": "Multidimensional Poverty",
+   "pron": "",
+   "def": "Poverty measured across many deprivations.\nहिंदी: बहुआयामी ग़रीबी",
+   "examples": [
+    "Multidimensional Poverty captures complexity.",
+    "Multidimensional Poverty measures health and education.",
+    "Multidimensional Poverty guides policy.",
+    "Multidimensional Poverty reveals inequality."
+   ]
+  },
+  {
+   "id": "pack3-card-632",
+   "mode": "vocab",
+   "word": "Economic Disparity",
+   "pron": "",
+   "def": "The unequal distribution of economic wealth, financial assets, and opportunities among groups.\nहिंदी: आर्थिक विषमता",
+   "examples": [
+    "Widening economic disparity between rural and urban districts fuels mass youth migration.",
+    "Progressive income taxation is designed to moderate excessive economic disparity.",
+    "Unchecked economic disparity weakens democratic institutions and erodes social cohesion.",
+    "Scholars examine how unequal educational funding perpetuates generational economic disparity."
+   ]
+  },
+  {
+   "id": "pack3-card-633",
+   "mode": "vocab",
+   "word": "Wealth Disproportion",
+   "pron": "",
+   "def": "An extreme and unbalanced concentration of national assets in the hands of a small elite.\nहिंदी: संपत्ति का असमान बँटवारा",
+   "examples": [
+    "Reports highlighted the staggering wealth disproportion where the top one percent held half the capital.",
+    "Severe wealth disproportion distorts political decision-making and public policy priorities.",
+    "Inheritance taxes and capital gains levies are advocated to curb wealth disproportion.",
+    "Economic historians study the societal upheavals frequently caused by extreme wealth disproportion."
+   ]
+  },
+  {
+   "id": "pack3-card-634",
+   "mode": "vocab",
+   "word": "Income Inequality",
+   "pron": "",
+   "def": "Unequal distribution of income.\nहिंदी: आय असमानता",
+   "examples": [
+    "Income Inequality is rising.",
+    "Income Inequality harms growth.",
+    "Income Inequality must be reduced.",
+    "Income Inequality affects health."
+   ]
+  },
+  {
+   "id": "pack3-card-635",
+   "mode": "vocab",
+   "word": "Intergenerational Mobility",
+   "pron": "",
+   "def": "The extent to which an individual's economic status changes relative to that of their parents.\nहिंदी: पीढ़ी-दर-पीढ़ी आर्थिक उन्नति",
+   "examples": [
+    "High-quality public schooling is the most reliable engine of upward intergenerational mobility.",
+    "Societies with high intergenerational mobility offer realistic hope to children from poor backgrounds.",
+    "Studies revealed that family wealth still heavily determines intergenerational mobility rates.",
+    "Affordable higher education opens vital avenues for positive intergenerational mobility."
+   ]
+  },
+  {
+   "id": "pack3-card-637",
+   "mode": "vocab",
+   "word": "Underemployment",
+   "pron": "",
+   "def": "Work below one's skill level.\nहिंदी: अल्प-रोज़गार / क्षमता से कम काम",
+   "examples": [
+    "Underemployment wastes talent.",
+    "Underemployment hides joblessness.",
+    "Underemployment must be addressed.",
+    "Underemployment affects productivity."
+   ]
+  },
+  {
+   "id": "pack3-card-638",
+   "mode": "vocab",
+   "word": "Informal Economy",
+   "pron": "",
+   "def": "Unregulated economic activity.\nहिंदी: अनौपचारिक अर्थव्यवस्था",
+   "examples": [
+    "Informal Economy employs millions.",
+    "Informal Economy lacks protection.",
+    "Informal Economy must be formalized.",
+    "Informal Economy is vulnerable."
+   ]
+  },
+  {
+   "id": "pack3-card-639",
+   "mode": "vocab",
+   "word": "Formal Economy",
+   "pron": "",
+   "def": "Regulated and taxed economic activity.\nहिंदी: औपचारिक अर्थव्यवस्था",
+   "examples": [
+    "Formal Economy provides security.",
+    "Formal Economy must expand.",
+    "Formal Economy funds welfare.",
+    "Formal Economy offers benefits."
+   ]
+  },
+  {
+   "id": "pack3-card-641",
+   "mode": "vocab",
+   "word": "Small Business",
+   "pron": "",
+   "def": "A privately owned small enterprise.\nहिंदी: छोटा व्यवसाय",
+   "examples": [
+    "Small Businesses drive employment.",
+    "Small Businesses need credit.",
+    "Small Businesses face competition.",
+    "Small Businesses must be supported."
+   ]
+  },
+  {
+   "id": "pack3-card-642",
+   "mode": "vocab",
+   "word": "Microfinance",
+   "pron": "",
+   "def": "Small loans to the poor.\nहिंदी: सूक्ष्म वित्त / छोटे ऋण",
+   "examples": [
+    "Microfinance empowers the poor.",
+    "Microfinance supports entrepreneurs.",
+    "Microfinance must be affordable.",
+    "Microfinance expands inclusion."
+   ]
+  },
+  {
+   "id": "pack3-card-643",
+   "mode": "vocab",
+   "word": "Financial Inclusion",
+   "pron": "",
+   "def": "Access to financial services for all.\nहिंदी: वित्तीय समावेशन",
+   "examples": [
+    "Financial Inclusion reduces poverty.",
+    "Financial Inclusion must be pursued.",
+    "Financial Inclusion empowers women.",
+    "Financial Inclusion needs technology."
+   ]
+  },
+  {
+   "id": "pack3-card-644",
+   "mode": "vocab",
+   "word": "Banking",
+   "pron": "",
+   "def": "System for managing money and credit.\nहिंदी: बैंकिंग",
+   "examples": [
+    "Banking mobilizes savings.",
+    "Banking must be regulated.",
+    "Banking supports investment.",
+    "Banking must be inclusive."
+   ]
+  },
+  {
+   "id": "pack3-card-648",
+   "mode": "vocab",
+   "word": "Industrialization",
+   "pron": "",
+   "def": "Development of industries.\nहिंदी: औद्योगीकरण",
+   "examples": [
+    "Industrialization creates jobs.",
+    "Industrialization must be sustainable.",
+    "Industrialization transforms economies.",
+    "Industrialization can harm ecology."
+   ]
+  },
+  {
+   "id": "pack3-card-649",
+   "mode": "vocab",
+   "word": "Urbanization",
+   "pron": "",
+   "def": "Growth of cities and urban populations.\nहिंदी: शहरीकरण",
+   "examples": [
+    "Urbanization strains infrastructure.",
+    "Urbanization must be managed.",
+    "Urbanization drives growth.",
+    "Urbanization changes societies."
+   ]
+  },
+  {
+   "id": "pack3-card-650",
+   "mode": "vocab",
+   "word": "Inclusive Growth",
+   "pron": "",
+   "def": "Growth benefiting all sections of society.\nहिंदी: समावेशी विकास",
+   "examples": [
+    "Inclusive Growth reduces inequality.",
+    "Inclusive Growth must be the goal.",
+    "Inclusive Growth empowers the poor.",
+    "Inclusive Growth strengthens democracy."
+   ]
+  }
+ ]
+}

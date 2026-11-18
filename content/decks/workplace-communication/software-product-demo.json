@@ -1,0 +1,1217 @@
+{
+ "id": "pack4-deck-2",
+ "categoryId": "pack4-cat-1",
+ "title": "Software Product Demo",
+ "sub": "Phrases to present, explain and sell a software product.",
+ "cards": [
+  {
+   "id": "pack4-card-106",
+   "mode": "vocab",
+   "word": "demo",
+   "pron": "",
+   "def": "a showing of how a product works\nहिंदी: डेमो / प्रदर्शन",
+   "examples": [
+    "Let me start the demo.",
+    "We have a demo for the client tomorrow.",
+    "The demo went well and the client asked for a trial.",
+    "Let's rehearse the demo once before the call."
+   ]
+  },
+  {
+   "id": "pack4-card-107",
+   "mode": "vocab",
+   "word": "walk you through",
+   "pron": "",
+   "def": "to explain step by step\nहिंदी: आपको क़दम-दर-क़दम दिखाना",
+   "examples": [
+    "Let me walk you through the dashboard.",
+    "I'll walk you through the new feature.",
+    "Can you walk us through the setup process?",
+    "I'll walk you through the main screens first."
+   ]
+  },
+  {
+   "id": "pack4-card-108",
+   "mode": "vocab",
+   "word": "let me share my screen",
+   "pron": "",
+   "def": "offering to display your screen\nहिंदी: मैं अपनी स्क्रीन साझा करता हूँ",
+   "examples": [
+    "Let me share my screen first.",
+    "Can everyone see my screen?",
+    "Before we start, let me share my screen.",
+    "Let me share my screen so you can follow along."
+   ]
+  },
+  {
+   "id": "pack4-card-109",
+   "mode": "vocab",
+   "word": "as you can see",
+   "pron": "",
+   "def": "pointing to something visible\nहिंदी: जैसा कि आप देख सकते हैं",
+   "examples": [
+    "As you can see, the report is updated live.",
+    "As you can see, it's easy to use.",
+    "As you can see, the error rate dropped to zero.",
+    "As you can see on this slide, costs are down."
+   ]
+  },
+  {
+   "id": "pack4-card-110",
+   "mode": "vocab",
+   "word": "if you look at",
+   "pron": "",
+   "def": "directing attention to something\nहिंदी: अगर आप ... देखें",
+   "examples": [
+    "If you look at the top right, you'll see the menu.",
+    "If you look at this chart, sales are rising.",
+    "If you look at the left panel, you'll find your projects.",
+    "If you look at last month's numbers, the trend is clear."
+   ]
+  },
+  {
+   "id": "pack4-card-111",
+   "mode": "vocab",
+   "word": "notice that",
+   "pron": "",
+   "def": "asking the audience to observe something\nहिंदी: ध्यान दीजिए कि",
+   "examples": [
+    "Notice that the form saves automatically.",
+    "Notice that no refresh is needed.",
+    "Notice that the total updates as you type.",
+    "Notice that the button turns green when it's ready."
+   ]
+  },
+  {
+   "id": "pack4-card-112",
+   "mode": "vocab",
+   "word": "the key feature",
+   "pron": "",
+   "def": "the most important function\nहिंदी: मुख्य ख़ूबी",
+   "examples": [
+    "The key feature is real-time sync.",
+    "Search is the key feature here.",
+    "The key feature for finance teams is automatic reports.",
+    "Let me show you the key feature first."
+   ]
+  },
+  {
+   "id": "pack4-card-114",
+   "mode": "vocab",
+   "word": "showcase",
+   "pron": "",
+   "def": "to display the best qualities\nहिंदी: प्रदर्शित करना",
+   "examples": [
+    "Today we will showcase our new app.",
+    "The demo showcases our latest tools.",
+    "The conference is a chance to showcase our work.",
+    "We'll showcase three customer stories in the demo."
+   ]
+  },
+  {
+   "id": "pack4-card-115",
+   "mode": "vocab",
+   "word": "overview",
+   "pron": "",
+   "def": "a general summary\nहिंदी: संक्षिप्त परिचय",
+   "examples": [
+    "Let me give you a quick overview.",
+    "Here's an overview of the product.",
+    "This slide gives an overview of the architecture.",
+    "After a short overview, I'll go into the details."
+   ]
+  },
+  {
+   "id": "pack4-card-116",
+   "mode": "vocab",
+   "word": "use case",
+   "pron": "",
+   "def": "a situation in which a product is used\nहिंदी: उपयोग का परिदृश्य",
+   "examples": [
+    "A common use case is invoice tracking.",
+    "This use case is popular with teams.",
+    "Let me show you a real use case from a customer.",
+    "Which use case matters most to your team?"
+   ]
+  },
+  {
+   "id": "pack4-card-117",
+   "mode": "vocab",
+   "word": "user journey",
+   "pron": "",
+   "def": "the steps a user takes through a product\nहिंदी: उपयोगकर्ता की यात्रा",
+   "examples": [
+    "Let's follow a typical user journey.",
+    "The user journey starts at sign-up.",
+    "We mapped the user journey from first visit to purchase.",
+    "There are too many steps in this user journey."
+   ]
+  },
+  {
+   "id": "pack4-card-118",
+   "mode": "vocab",
+   "word": "user flow",
+   "pron": "",
+   "def": "the path a user follows to complete a task\nहिंदी: उपयोगकर्ता का प्रवाह",
+   "examples": [
+    "The user flow is simple.",
+    "We shortened the user flow.",
+    "Let me show you the user flow for booking a meeting.",
+    "A clear user flow reduces support questions."
+   ]
+  },
+  {
+   "id": "pack4-card-119",
+   "mode": "vocab",
+   "word": "onboarding",
+   "pron": "",
+   "def": "the process of getting new users started\nहिंदी: नए उपयोगकर्ता को जोड़ना / ऑनबोर्डिंग",
+   "examples": [
+    "Onboarding takes under two minutes.",
+    "We improved the onboarding experience.",
+    "Good onboarding helps users see value quickly.",
+    "The onboarding checklist guides users through setup."
+   ]
+  },
+  {
+   "id": "pack4-card-120",
+   "mode": "vocab",
+   "word": "sign up",
+   "pron": "",
+   "def": "to register for a service\nहिंदी: साइन-अप करना",
+   "examples": [
+    "Users can sign up with their email.",
+    "Click here to sign up.",
+    "You can sign up with Google or Microsoft.",
+    "Most visitors sign up after the free demo."
+   ]
+  },
+  {
+   "id": "pack4-card-121",
+   "mode": "vocab",
+   "word": "log in",
+   "pron": "",
+   "def": "to enter an account with credentials\nहिंदी: लॉग इन करना",
+   "examples": [
+    "Log in using your password.",
+    "Users log in with one click.",
+    "You'll need to log in again after an hour.",
+    "If you can't log in, reset your password here."
+   ]
+  },
+  {
+   "id": "pack4-card-122",
+   "mode": "vocab",
+   "word": "dashboard",
+   "pron": "",
+   "def": "a screen showing key information at a glance\nहिंदी: डैशबोर्ड",
+   "examples": [
+    "The dashboard shows live metrics.",
+    "Open the dashboard to see trends.",
+    "Each team gets its own dashboard.",
+    "The dashboard updates every few seconds."
+   ]
+  },
+  {
+   "id": "pack4-card-123",
+   "mode": "vocab",
+   "word": "interface",
+   "pron": "",
+   "def": "the screen and controls users interact with\nहिंदी: इंटरफ़ेस",
+   "examples": [
+    "The interface is clean and simple.",
+    "We redesigned the interface.",
+    "The interface works the same on phone and laptop.",
+    "We kept the interface simple for new users."
+   ]
+  },
+  {
+   "id": "pack4-card-124",
+   "mode": "vocab",
+   "word": "user-friendly",
+   "pron": "",
+   "def": "easy for people to use\nहिंदी: उपयोगकर्ता के अनुकूल",
+   "examples": [
+    "The app is very user-friendly.",
+    "It has a user-friendly design.",
+    "We made the forms more user-friendly.",
+    "A user-friendly app needs less training."
+   ]
+  },
+  {
+   "id": "pack4-card-125",
+   "mode": "vocab",
+   "word": "intuitive",
+   "pron": "",
+   "def": "easy to understand without instructions\nहिंदी: सहज / आसानी से समझ आने वाला",
+   "examples": [
+    "The layout is intuitive.",
+    "Users find it intuitive.",
+    "The new editor is far more intuitive.",
+    "Good design should feel intuitive."
+   ]
+  },
+  {
+   "id": "pack4-card-126",
+   "mode": "vocab",
+   "word": "seamless",
+   "pron": "",
+   "def": "smooth, with no breaks or problems\nहिंदी: निर्बाध / सहज",
+   "examples": [
+    "The integration is seamless.",
+    "It offers a seamless experience.",
+    "Moving your data over is seamless.",
+    "Switching between devices is seamless."
+   ]
+  },
+  {
+   "id": "pack4-card-127",
+   "mode": "vocab",
+   "word": "real-time",
+   "pron": "",
+   "def": "happening instantly as events occur\nहिंदी: वास्तविक समय में",
+   "examples": [
+    "Data updates in real time.",
+    "You get real-time alerts.",
+    "Managers see team progress in real time.",
+    "Real-time tracking helps drivers avoid delays."
+   ]
+  },
+  {
+   "id": "pack4-card-128",
+   "mode": "vocab",
+   "word": "in one click",
+   "pron": "",
+   "def": "using just one click\nहिंदी: एक क्लिक में",
+   "examples": [
+    "You can export in one click.",
+    "Share the report in one click.",
+    "You can invite your whole team in one click.",
+    "Approve all requests in one click."
+   ]
+  },
+  {
+   "id": "pack4-card-129",
+   "mode": "vocab",
+   "word": "drag and drop",
+   "pron": "",
+   "def": "moving items with the mouse to place them\nहिंदी: खींचकर छोड़ना",
+   "examples": [
+    "Just drag and drop the file.",
+    "The editor supports drag and drop.",
+    "Drag and drop the cards to reorder tasks.",
+    "You can drag and drop images into the email."
+   ]
+  },
+  {
+   "id": "pack4-card-130",
+   "mode": "vocab",
+   "word": "click on",
+   "pron": "",
+   "def": "to press a button using the mouse\nहिंदी: क्लिक करना",
+   "examples": [
+    "Click on the settings icon.",
+    "Click on \"Save\" to continue.",
+    "Click on any row to see the details.",
+    "Now click on the blue button at the bottom."
+   ]
+  },
+  {
+   "id": "pack4-card-131",
+   "mode": "vocab",
+   "word": "tap on",
+   "pron": "",
+   "def": "to touch a screen button\nहिंदी: टैप करना",
+   "examples": [
+    "Tap on the menu to open it.",
+    "Tap on the photo to enlarge.",
+    "Tap on the bell to see your notifications.",
+    "Tap on any item to edit it."
+   ]
+  },
+  {
+   "id": "pack4-card-132",
+   "mode": "vocab",
+   "word": "navigate",
+   "pron": "",
+   "def": "to move around a product\nहिंदी: नेविगेट करना / आगे बढ़ना",
+   "examples": [
+    "You can navigate using the sidebar.",
+    "Users navigate easily.",
+    "You can navigate back with the arrow at the top.",
+    "The tabs help users navigate between sections."
+   ]
+  },
+  {
+   "id": "pack4-card-133",
+   "mode": "vocab",
+   "word": "toggle",
+   "pron": "",
+   "def": "to switch something on or off\nहिंदी: चालू / बंद करना",
+   "examples": [
+    "Toggle the switch to enable dark mode.",
+    "You can toggle notifications.",
+    "Toggle this option to hide finished tasks.",
+    "Use the toggle to switch between list and grid view."
+   ]
+  },
+  {
+   "id": "pack4-card-134",
+   "mode": "vocab",
+   "word": "dropdown",
+   "pron": "",
+   "def": "a menu that opens downward to pick an option\nहिंदी: ड्रॉपडाउन मेनू",
+   "examples": [
+    "Choose from the dropdown.",
+    "The dropdown lists all teams.",
+    "Pick your country from the dropdown.",
+    "The dropdown remembers your last choice."
+   ]
+  },
+  {
+   "id": "pack4-card-135",
+   "mode": "vocab",
+   "word": "filter",
+   "pron": "",
+   "def": "to show only items matching conditions\nहिंदी: फ़िल्टर करना",
+   "examples": [
+    "You can filter results by date.",
+    "Filter the list by status.",
+    "Let me filter the report to show only this week.",
+    "You can save filters for later."
+   ]
+  },
+  {
+   "id": "pack4-card-136",
+   "mode": "vocab",
+   "word": "search bar",
+   "pron": "",
+   "def": "a box for typing search terms\nहिंदी: सर्च बार",
+   "examples": [
+    "Type the name into the search bar.",
+    "The search bar is at the top.",
+    "Just type a customer's name in the search bar.",
+    "The search bar suggests results as you type."
+   ]
+  },
+  {
+   "id": "pack4-card-137",
+   "mode": "vocab",
+   "word": "notification",
+   "pron": "",
+   "def": "an alert sent to a user\nहिंदी: सूचना / नोटिफ़िकेशन",
+   "examples": [
+    "You'll get a notification when it's done.",
+    "Turn off the notifications.",
+    "You can choose which notifications you receive.",
+    "A notification pops up when someone mentions you."
+   ]
+  },
+  {
+   "id": "pack4-card-138",
+   "mode": "vocab",
+   "word": "settings",
+   "pron": "",
+   "def": "options for adjusting how a product works\nहिंदी: सेटिंग्स",
+   "examples": [
+    "Open settings to change the theme.",
+    "The settings page lets you customise.",
+    "Language options are in settings.",
+    "Admins can change the settings for the whole team."
+   ]
+  },
+  {
+   "id": "pack4-card-139",
+   "mode": "vocab",
+   "word": "customise",
+   "pron": "",
+   "def": "to change something to suit needs\nहिंदी: अपनी ज़रूरत के अनुसार बदलना",
+   "examples": [
+    "You can customise your dashboard.",
+    "It is easy to customise.",
+    "Customise the colours to match your brand.",
+    "Every report can be customised."
+   ]
+  },
+  {
+   "id": "pack4-card-140",
+   "mode": "vocab",
+   "word": "personalise",
+   "pron": "",
+   "def": "to adapt to an individual\nहिंदी: व्यक्तिगत बनाना",
+   "examples": [
+    "Personalise your feed in settings.",
+    "The app personalises suggestions.",
+    "Users can personalise their home screen.",
+    "We personalise the emails based on user activity."
+   ]
+  },
+  {
+   "id": "pack4-card-141",
+   "mode": "vocab",
+   "word": "integrate",
+   "pron": "",
+   "def": "to connect with other tools\nहिंदी: एकीकृत करना / जोड़ना",
+   "examples": [
+    "It integrates with Slack.",
+    "We can integrate with your CRM.",
+    "Does it integrate with Microsoft Teams?",
+    "It takes five minutes to integrate with your calendar."
+   ]
+  },
+  {
+   "id": "pack4-card-142",
+   "mode": "vocab",
+   "word": "integration",
+   "pron": "",
+   "def": "a connection between two systems\nहिंदी: एकीकरण / इंटीग्रेशन",
+   "examples": [
+    "The integration took a day.",
+    "There's a Gmail integration.",
+    "Let me show you the Salesforce integration.",
+    "Each integration can be turned on in settings."
+   ]
+  },
+  {
+   "id": "pack4-card-143",
+   "mode": "vocab",
+   "word": "API",
+   "pron": "",
+   "def": "a way for software to talk to other software\nहिंदी: एपीआई / सॉफ़्टवेयर को जोड़ने का तरीक़ा",
+   "examples": [
+    "Our API is well documented.",
+    "You can connect using the API.",
+    "Developers can pull the data through our API.",
+    "The API supports both JSON and CSV."
+   ]
+  },
+  {
+   "id": "pack4-card-144",
+   "mode": "vocab",
+   "word": "plug-in",
+   "pron": "",
+   "def": "an add-on that extends a software's features\nहिंदी: प्लग-इन / अतिरिक्त सुविधा",
+   "examples": [
+    "Install the plug-in from the store.",
+    "There's a plug-in for exports.",
+    "The plug-in adds a button to your browser.",
+    "We built a plug-in for WordPress."
+   ]
+  },
+  {
+   "id": "pack4-card-145",
+   "mode": "vocab",
+   "word": "automate",
+   "pron": "",
+   "def": "to make a process run without manual work\nहिंदी: स्वचालित करना",
+   "examples": [
+    "The tool automates reporting.",
+    "You can automate reminders.",
+    "Let's automate the weekly report.",
+    "You can automate invoices so they go out on time."
+   ]
+  },
+  {
+   "id": "pack4-card-147",
+   "mode": "vocab",
+   "word": "workflow",
+   "pron": "",
+   "def": "a sequence of steps to complete work\nहिंदी: कार्य-प्रवाह",
+   "examples": [
+    "The workflow is fully customisable.",
+    "We streamlined the workflow.",
+    "Let me show you the approval workflow.",
+    "The new workflow saves each manager an hour a week."
+   ]
+  },
+  {
+   "id": "pack4-card-148",
+   "mode": "vocab",
+   "word": "streamline",
+   "pron": "",
+   "def": "to make a process simpler and faster\nहिंदी: सुव्यवस्थित करना",
+   "examples": [
+    "The app streamlines approvals.",
+    "We streamlined our workflow.",
+    "The new form streamlines expense claims.",
+    "We want to streamline the hiring process."
+   ]
+  },
+  {
+   "id": "pack4-card-149",
+   "mode": "vocab",
+   "word": "scalable",
+   "pron": "",
+   "def": "able to grow without problems\nहिंदी: विस्तार योग्य",
+   "examples": [
+    "The system is highly scalable.",
+    "We need a scalable solution.",
+    "The platform is scalable to millions of users.",
+    "Is this design scalable if traffic doubles?"
+   ]
+  },
+  {
+   "id": "pack4-card-151",
+   "mode": "vocab",
+   "word": "secure",
+   "pron": "",
+   "def": "protected from threats\nहिंदी: सुरक्षित",
+   "examples": [
+    "All data is stored securely.",
+    "The platform is secure.",
+    "Logins are secure with two-factor authentication.",
+    "We keep customer data secure at every step."
+   ]
+  },
+  {
+   "id": "pack4-card-152",
+   "mode": "vocab",
+   "word": "encrypted",
+   "pron": "",
+   "def": "converted into secret code for protection\nहिंदी: एन्क्रिप्टेड / कूटबद्ध",
+   "examples": [
+    "Your data is encrypted.",
+    "Messages are encrypted end to end.",
+    "Backups are encrypted as well.",
+    "All files are encrypted before they're stored."
+   ]
+  },
+  {
+   "id": "pack4-card-153",
+   "mode": "vocab",
+   "word": "access control",
+   "pron": "",
+   "def": "rules about who can see or do what\nहिंदी: पहुँच नियंत्रण",
+   "examples": [
+    "Access control is role-based.",
+    "You can manage access control easily.",
+    "Access control lets you hide salary data.",
+    "Let me show you the access control settings."
+   ]
+  },
+  {
+   "id": "pack4-card-154",
+   "mode": "vocab",
+   "word": "permission",
+   "pron": "",
+   "def": "authorisation to use a feature\nहिंदी: अनुमति",
+   "examples": [
+    "Admins can set permissions.",
+    "You need permission to edit.",
+    "Only managers have permission to approve.",
+    "Ask your admin for permission to export."
+   ]
+  },
+  {
+   "id": "pack4-card-155",
+   "mode": "vocab",
+   "word": "role-based",
+   "pron": "",
+   "def": "depending on a user's job or role\nहिंदी: भूमिका-आधारित",
+   "examples": [
+    "Access is role-based.",
+    "It has role-based dashboards.",
+    "We set up role-based access for each department.",
+    "Role-based menus show users only what they need."
+   ]
+  },
+  {
+   "id": "pack4-card-156",
+   "mode": "vocab",
+   "word": "analytics",
+   "pron": "",
+   "def": "analysis of usage data\nहिंदी: एनालिटिक्स / आँकड़ों का विश्लेषण",
+   "examples": [
+    "The analytics page shows daily users.",
+    "Use analytics to track growth.",
+    "Analytics show which features people use most.",
+    "You can export analytics to a spreadsheet."
+   ]
+  },
+  {
+   "id": "pack4-card-157",
+   "mode": "vocab",
+   "word": "metric",
+   "pron": "",
+   "def": "a measure used to track performance\nहिंदी: मापदंड / मेट्रिक",
+   "examples": [
+    "We track five key metrics.",
+    "Choose the metrics that matter.",
+    "Which metric matters most to your business?",
+    "This metric shows how many users come back."
+   ]
+  },
+  {
+   "id": "pack4-card-158",
+   "mode": "vocab",
+   "word": "insight",
+   "pron": "",
+   "def": "useful understanding drawn from data\nहिंदी: अंतर्दृष्टि",
+   "examples": [
+    "The tool gives deep insights.",
+    "This chart offers valuable insight.",
+    "The weekly report gives insight into customer behaviour.",
+    "These insights helped the team cut costs."
+   ]
+  },
+  {
+   "id": "pack4-card-161",
+   "mode": "vocab",
+   "word": "upload",
+   "pron": "",
+   "def": "to send a file to a system\nहिंदी: अपलोड करना",
+   "examples": [
+    "Upload your photo here.",
+    "Files upload in seconds.",
+    "You can upload several files at once.",
+    "Upload the contract and we'll fill in the details."
+   ]
+  },
+  {
+   "id": "pack4-card-162",
+   "mode": "vocab",
+   "word": "download",
+   "pron": "",
+   "def": "to receive a file from a system\nहिंदी: डाउनलोड करना",
+   "examples": [
+    "Download the report below.",
+    "You can download it offline.",
+    "Download the app from the store.",
+    "You can download any report as a PDF."
+   ]
+  },
+  {
+   "id": "pack4-card-163",
+   "mode": "vocab",
+   "word": "sync",
+   "pron": "",
+   "def": "to keep data matching across devices\nहिंदी: सिंक करना / मिलान रखना",
+   "examples": [
+    "Your notes sync across devices.",
+    "The app syncs automatically.",
+    "Changes sync even after you've been offline.",
+    "Your calendar syncs with Google and Outlook."
+   ]
+  },
+  {
+   "id": "pack4-card-164",
+   "mode": "vocab",
+   "word": "backup",
+   "pron": "",
+   "def": "a saved copy of data\nहिंदी: बैकअप",
+   "examples": [
+    "The app takes automatic backups.",
+    "Restore from the last backup.",
+    "We keep daily backups for thirty days.",
+    "You can restore a backup with one click."
+   ]
+  },
+  {
+   "id": "pack4-card-165",
+   "mode": "vocab",
+   "word": "cross-platform",
+   "pron": "",
+   "def": "working on multiple operating systems\nहिंदी: कई प्लेटफ़ॉर्म पर चलने वाला",
+   "examples": [
+    "It's a cross-platform app.",
+    "We build cross-platform tools.",
+    "Being cross-platform, it runs on Windows and Mac.",
+    "We chose a cross-platform framework to save time."
+   ]
+  },
+  {
+   "id": "pack4-card-166",
+   "mode": "vocab",
+   "word": "responsive",
+   "pron": "",
+   "def": "adapting to different screen sizes\nहिंदी: हर स्क्रीन के अनुसार ढलने वाला",
+   "examples": [
+    "The design is fully responsive.",
+    "It's responsive on mobile.",
+    "The responsive layout fits tablets too.",
+    "Let me show how responsive it is on a phone."
+   ]
+  },
+  {
+   "id": "pack4-card-167",
+   "mode": "vocab",
+   "word": "lightweight",
+   "pron": "",
+   "def": "using few resources, fast and simple\nहिंदी: हल्का / कम संसाधन वाला",
+   "examples": [
+    "It's a lightweight tool.",
+    "The app is lightweight.",
+    "The lightweight app works well on old phones.",
+    "We kept the installer lightweight."
+   ]
+  },
+  {
+   "id": "pack4-card-168",
+   "mode": "vocab",
+   "word": "beta version",
+   "pron": "",
+   "def": "an early version released for testing\nहिंदी: बीटा संस्करण",
+   "examples": [
+    "We are launching a beta version.",
+    "Try the beta version.",
+    "The beta version is open to selected customers.",
+    "Feedback from the beta version shaped this release."
+   ]
+  },
+  {
+   "id": "pack4-card-170",
+   "mode": "vocab",
+   "word": "proof of concept",
+   "pron": "",
+   "def": "a small test showing an idea is workable\nहिंदी: अवधारणा-प्रमाण",
+   "examples": [
+    "The proof of concept worked.",
+    "We presented a proof of concept.",
+    "Let's build a proof of concept before committing.",
+    "The proof of concept convinced the client."
+   ]
+  },
+  {
+   "id": "pack4-card-171",
+   "mode": "vocab",
+   "word": "MVP",
+   "pron": "",
+   "def": "a basic product with just enough features to test\nहिंदी: न्यूनतम व्यावहारिक उत्पाद",
+   "examples": [
+    "We launched the MVP in March.",
+    "The MVP has three features.",
+    "Our MVP helped us learn what users really need.",
+    "We'll add more features after the MVP."
+   ]
+  },
+  {
+   "id": "pack4-card-172",
+   "mode": "vocab",
+   "word": "roadmap",
+   "pron": "",
+   "def": "a plan of upcoming features\nहिंदी: रोडमैप / भावी योजना",
+   "examples": [
+    "It's on our product roadmap.",
+    "Here is the roadmap for next quarter.",
+    "Dark mode is on the roadmap for next quarter.",
+    "We share our roadmap with key customers."
+   ]
+  },
+  {
+   "id": "pack4-card-173",
+   "mode": "vocab",
+   "word": "release notes",
+   "pron": "",
+   "def": "a summary of changes in a new version\nहिंदी: रिलीज़ नोट्स",
+   "examples": [
+    "The release notes list all fixes.",
+    "Read the release notes first.",
+    "The release notes mention the new export option.",
+    "We publish release notes with every update."
+   ]
+  },
+  {
+   "id": "pack4-card-174",
+   "mode": "vocab",
+   "word": "pain point",
+   "pron": "",
+   "def": "a specific problem users face\nहिंदी: उपयोगकर्ता की मुख्य परेशानी",
+   "examples": [
+    "We solve a major pain point.",
+    "Slow loading is a pain point.",
+    "Manual reporting is the biggest pain point for managers.",
+    "Tell us about your team's pain points."
+   ]
+  },
+  {
+   "id": "pack4-card-175",
+   "mode": "vocab",
+   "word": "value proposition",
+   "pron": "",
+   "def": "the main benefit a product promises\nहिंदी: उत्पाद का मुख्य लाभ-वादा",
+   "examples": [
+    "Our value proposition is saving time.",
+    "The value proposition is clear.",
+    "Our value proposition is simple: less admin, more selling.",
+    "Let's open the demo with the value proposition."
+   ]
+  },
+  {
+   "id": "pack4-card-176",
+   "mode": "vocab",
+   "word": "selling point",
+   "pron": "",
+   "def": "a feature that attracts buyers\nहिंदी: बिक्री का आकर्षण",
+   "examples": [
+    "Speed is our biggest selling point.",
+    "Security is a strong selling point.",
+    "Its main selling point is how easy it is to set up.",
+    "Price is not our only selling point."
+   ]
+  },
+  {
+   "id": "pack4-card-177",
+   "mode": "vocab",
+   "word": "competitive edge",
+   "pron": "",
+   "def": "an advantage over rivals\nहिंदी: प्रतिस्पर्धी बढ़त",
+   "examples": [
+    "Real-time sync is our competitive edge.",
+    "This gives us an edge.",
+    "Fast support gives us a competitive edge.",
+    "We need a competitive edge in this crowded market."
+   ]
+  },
+  {
+   "id": "pack4-card-178",
+   "mode": "vocab",
+   "word": "game-changer",
+   "pron": "",
+   "def": "something that greatly changes things\nहिंदी: खेल बदल देने वाली चीज़",
+   "examples": [
+    "This feature is a game-changer.",
+    "It's a real game-changer.",
+    "Customers say automatic tagging is a game-changer.",
+    "Offline mode could be a game-changer for field teams."
+   ]
+  },
+  {
+   "id": "pack4-card-179",
+   "mode": "vocab",
+   "word": "differentiator",
+   "pron": "",
+   "def": "a feature that makes a product stand out\nहिंदी: अलग पहचान देने वाली ख़ूबी",
+   "examples": [
+    "AI search is our key differentiator.",
+    "What's your differentiator?",
+    "Our biggest differentiator is the price.",
+    "Ease of use is the main differentiator."
+   ]
+  },
+  {
+   "id": "pack4-card-180",
+   "mode": "vocab",
+   "word": "end user",
+   "pron": "",
+   "def": "the person who finally uses a product\nहिंदी: अंतिम उपयोगकर्ता",
+   "examples": [
+    "The end user sees a simple screen.",
+    "We designed it for the end user.",
+    "We tested the design with real end users.",
+    "The end user never sees this setting."
+   ]
+  },
+  {
+   "id": "pack4-card-183",
+   "mode": "vocab",
+   "word": "questions at the end",
+   "pron": "",
+   "def": "a request to hold questions until the finish\nहिंदी: सवाल अंत में",
+   "examples": [
+    "Please keep questions for the end.",
+    "I'll take questions at the end.",
+    "I'll leave time for questions at the end.",
+    "We'll have ten minutes for questions at the end."
+   ]
+  },
+  {
+   "id": "pack4-card-184",
+   "mode": "vocab",
+   "word": "any questions so far",
+   "pron": "",
+   "def": "checking audience understanding\nहिंदी: अब तक कोई सवाल?",
+   "examples": [
+    "Any questions so far?",
+    "Pause here—any questions so far?",
+    "Before I continue, any questions so far?",
+    "Any questions so far about the setup?"
+   ]
+  },
+  {
+   "id": "pack4-card-185",
+   "mode": "vocab",
+   "word": "let me know if",
+   "pron": "",
+   "def": "inviting the audience to speak up\nहिंदी: बताइए अगर",
+   "examples": [
+    "Let me know if anything is unclear.",
+    "Let me know if you want a closer look.",
+    "Let me know if you'd like to see the mobile version.",
+    "Let me know if I'm going too fast."
+   ]
+  },
+  {
+   "id": "pack4-card-186",
+   "mode": "vocab",
+   "word": "live demo",
+   "pron": "",
+   "def": "a demo using the real product at that moment\nहिंदी: लाइव डेमो",
+   "examples": [
+    "We'll do a live demo now.",
+    "The live demo went smoothly.",
+    "A live demo is more convincing than slides.",
+    "We have a backup video in case the live demo fails."
+   ]
+  },
+  {
+   "id": "pack4-card-187",
+   "mode": "vocab",
+   "word": "pre-recorded",
+   "pron": "",
+   "def": "filmed or saved before the event\nहिंदी: पहले से रिकॉर्ड किया हुआ",
+   "examples": [
+    "This is a pre-recorded demo.",
+    "The video is pre-recorded.",
+    "We'll use a pre-recorded video for the conference.",
+    "The pre-recorded demo avoids network problems."
+   ]
+  },
+  {
+   "id": "pack4-card-188",
+   "mode": "vocab",
+   "word": "fingers crossed",
+   "pron": "",
+   "def": "hoping nothing goes wrong\nहिंदी: उम्मीद है सब ठीक रहे",
+   "examples": [
+    "Fingers crossed the demo works.",
+    "Fingers crossed, here we go.",
+    "Fingers crossed the internet holds up.",
+    "Fingers crossed the client likes it."
+   ]
+  },
+  {
+   "id": "pack4-card-189",
+   "mode": "vocab",
+   "word": "bear with me",
+   "pron": "",
+   "def": "please be patient\nहिंदी: थोड़ा धैर्य रखिए",
+   "examples": [
+    "Bear with me, it's loading.",
+    "Bear with me for a moment.",
+    "Bear with me while I log in.",
+    "Please bear with me; the connection is slow."
+   ]
+  },
+  {
+   "id": "pack4-card-190",
+   "mode": "vocab",
+   "word": "one moment please",
+   "pron": "",
+   "def": "asking for brief patience\nहिंदी: एक पल कृपया",
+   "examples": [
+    "One moment please, it's loading.",
+    "One moment please while I switch screens.",
+    "One moment please — I'm opening the file.",
+    "One moment please while I find that page."
+   ]
+  },
+  {
+   "id": "pack4-card-191",
+   "mode": "vocab",
+   "word": "let me switch to",
+   "pron": "",
+   "def": "moving to another screen or tab\nहिंदी: मैं ... पर चला जाता हूँ",
+   "examples": [
+    "Let me switch to the report view.",
+    "Let me switch to the mobile app.",
+    "Let me switch to the admin view.",
+    "Let me switch to my phone to show the app."
+   ]
+  },
+  {
+   "id": "pack4-card-192",
+   "mode": "vocab",
+   "word": "moving on to",
+   "pron": "",
+   "def": "going to the next point\nहिंदी: अब आगे ... की ओर",
+   "examples": [
+    "Moving on to reports now.",
+    "Moving on to pricing.",
+    "Moving on to integrations.",
+    "Now, moving on to the last section."
+   ]
+  },
+  {
+   "id": "pack4-card-193",
+   "mode": "vocab",
+   "word": "to sum up",
+   "pron": "",
+   "def": "to give a short final summary\nहिंदी: संक्षेप में",
+   "examples": [
+    "To sum up, the tool saves time.",
+    "To sum up, it's simple and secure.",
+    "To sum up, setup takes five minutes.",
+    "To sum up, you get faster reports and fewer errors."
+   ]
+  },
+  {
+   "id": "pack4-card-194",
+   "mode": "vocab",
+   "word": "next steps for you",
+   "pron": "",
+   "def": "what the customer should do next\nहिंदी: आपके अगले क़दम",
+   "examples": [
+    "The next steps for you are to sign up.",
+    "Next steps for you — book a trial.",
+    "I'll email the next steps for you after this call.",
+    "The next steps for you are to invite your team."
+   ]
+  },
+  {
+   "id": "pack4-card-195",
+   "mode": "vocab",
+   "word": "free trial",
+   "pron": "",
+   "def": "a period of using a product free of charge\nहिंदी: मुफ़्त परीक्षण",
+   "examples": [
+    "Start your free trial today.",
+    "We offer a thirty-day free trial.",
+    "The free trial includes all features.",
+    "No card is needed for the free trial."
+   ]
+  },
+  {
+   "id": "pack4-card-196",
+   "mode": "vocab",
+   "word": "get started",
+   "pron": "",
+   "def": "to begin using something\nहिंदी: शुरू कीजिए",
+   "examples": [
+    "It takes a minute to get started.",
+    "Click to get started.",
+    "Here's how to get started in three steps.",
+    "Our team can help you get started."
+   ]
+  },
+  {
+   "id": "pack4-card-197",
+   "mode": "vocab",
+   "word": "pricing plan",
+   "pron": "",
+   "def": "a set of costs and features offered\nहिंदी: मूल्य-योजना",
+   "examples": [
+    "Choose a pricing plan that fits.",
+    "Our pricing plans start low.",
+    "The business pricing plan includes priority support.",
+    "You can change your pricing plan at any time."
+   ]
+  },
+  {
+   "id": "pack4-card-198",
+   "mode": "vocab",
+   "word": "subscription",
+   "pron": "",
+   "def": "regular payment for ongoing access\nहिंदी: सदस्यता",
+   "examples": [
+    "The subscription renews monthly.",
+    "Cancel the subscription anytime.",
+    "An annual subscription saves you twenty percent.",
+    "Your subscription includes all future updates."
+   ]
+  },
+  {
+   "id": "pack4-card-200",
+   "mode": "vocab",
+   "word": "rollout",
+   "pron": "",
+   "def": "the gradual release of a product\nहिंदी: चरणबद्ध लॉन्च",
+   "examples": [
+    "The rollout begins next month.",
+    "A phased rollout is planned.",
+    "The rollout will start with ten percent of users.",
+    "We paused the rollout to fix a bug."
+   ]
+  },
+  {
+   "id": "pack4-card-201",
+   "mode": "vocab",
+   "word": "go live",
+   "pron": "",
+   "def": "to become available for real use\nहिंदी: लाइव होना",
+   "examples": [
+    "The site goes live on Monday.",
+    "We go live next week.",
+    "The new checkout will go live after testing.",
+    "Once we go live, support will be on standby."
+   ]
+  },
+  {
+   "id": "pack4-card-203",
+   "mode": "vocab",
+   "word": "under the hood",
+   "pron": "",
+   "def": "how something works internally\nहिंदी: अंदर से / पर्दे के पीछे",
+   "examples": [
+    "Let me show what's under the hood.",
+    "Under the hood, it uses caching.",
+    "Under the hood, every action is logged.",
+    "Let's look under the hood at how syncing works."
+   ]
+  },
+  {
+   "id": "pack4-card-204",
+   "mode": "vocab",
+   "word": "out of the box",
+   "pron": "",
+   "def": "ready to use without extra setup\nहिंदी: सीधे इस्तेमाल के लिए तैयार",
+   "examples": [
+    "It works out of the box.",
+    "The tool comes with templates out of the box.",
+    "Single sign-on works out of the box.",
+    "Most teams use it out of the box with no changes."
+   ]
+  },
+  {
+   "id": "pack4-card-205",
+   "mode": "vocab",
+   "word": "at a glance",
+   "pron": "",
+   "def": "seen quickly without effort\nहिंदी: एक नज़र में",
+   "examples": [
+    "You see all sales at a glance.",
+    "The dashboard gives status at a glance.",
+    "See overdue tasks at a glance.",
+    "The colour codes show risk at a glance."
+   ]
+  },
+  {
+   "id": "pack4-card-206",
+   "mode": "vocab",
+   "word": "step by step",
+   "pron": "",
+   "def": "one stage at a time\nहिंदी: क़दम-दर-क़दम",
+   "examples": [
+    "I'll explain it step by step.",
+    "Follow the steps step by step.",
+    "The guide takes you through setup step by step.",
+    "Let's build the report step by step."
+   ]
+  },
+  {
+   "id": "pack4-card-207",
+   "mode": "vocab",
+   "word": "hands-on",
+   "pron": "",
+   "def": "involving direct practical use\nहिंदी: व्यावहारिक रूप से स्वयं करना",
+   "examples": [
+    "Let's try a hands-on session.",
+    "The workshop is hands-on.",
+    "After the demo, there's a hands-on session.",
+    "Hands-on practice helps users learn faster."
+   ]
+  },
+  {
+   "id": "pack4-card-208",
+   "mode": "vocab",
+   "word": "user adoption",
+   "pron": "",
+   "def": "how many people start using a product\nहिंदी: उपयोगकर्ताओं द्वारा अपनाया जाना",
+   "examples": [
+    "User adoption has doubled.",
+    "We track user adoption weekly.",
+    "Training improves user adoption.",
+    "Low user adoption is our biggest risk."
+   ]
+  }
+ ]
+}

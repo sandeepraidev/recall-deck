@@ -1,0 +1,1685 @@
+{
+ "id": "pack4-deck-6",
+ "categoryId": "pack4-cat-2",
+ "title": "More Phrasal Verbs",
+ "sub": "Everyday phrasal verbs beyond the basics.",
+ "cards": [
+  {
+   "id": "pack4-card-529",
+   "mode": "vocab",
+   "word": "act up",
+   "pron": "",
+   "def": "to behave badly or not work properly\nहिंदी: शरारत करना / ख़राबी दिखाना",
+   "examples": [
+    "The kids are acting up again.",
+    "My laptop is acting up.",
+    "My car always acts up in the cold.",
+    "The printer started acting up just before the meeting."
+   ]
+  },
+  {
+   "id": "pack4-card-530",
+   "mode": "vocab",
+   "word": "add up",
+   "pron": "",
+   "def": "to make sense; to total\nहिंदी: हिसाब मिलना / समझ में आना",
+   "examples": [
+    "His story doesn't add up.",
+    "The bills add up quickly.",
+    "The numbers in the report don't add up.",
+    "Small daily expenses add up to a lot by month end."
+   ]
+  },
+  {
+   "id": "pack4-card-531",
+   "mode": "vocab",
+   "word": "back down",
+   "pron": "",
+   "def": "to withdraw a claim or demand\nहिंदी: पीछे हट जाना",
+   "examples": [
+    "He refused to back down.",
+    "She backed down after the warning.",
+    "The company backed down and withdrew the price rise.",
+    "Neither side wanted to back down in the argument."
+   ]
+  },
+  {
+   "id": "pack4-card-532",
+   "mode": "vocab",
+   "word": "back out",
+   "pron": "",
+   "def": "to withdraw from an agreement\nहिंदी: वादे से मुकर जाना",
+   "examples": [
+    "He backed out of the deal.",
+    "Don't back out now.",
+    "Two speakers backed out of the conference at the last minute.",
+    "If you back out now, we'll lose the booking money."
+   ]
+  },
+  {
+   "id": "pack4-card-533",
+   "mode": "vocab",
+   "word": "bail out",
+   "pron": "",
+   "def": "to rescue from difficulty\nहिंदी: संकट से उबारना",
+   "examples": [
+    "The government bailed out the bank.",
+    "Can you bail me out?",
+    "My brother bailed me out when I lost my wallet.",
+    "The investors bailed out the struggling startup."
+   ]
+  },
+  {
+   "id": "pack4-card-534",
+   "mode": "vocab",
+   "word": "blow up",
+   "pron": "",
+   "def": "to explode; to get very angry\nहिंदी: फट जाना / भड़क उठना",
+   "examples": [
+    "The tyre blew up.",
+    "He blew up at me.",
+    "The gas cylinder blew up and damaged the kitchen.",
+    "My dad blew up when he saw my marks."
+   ]
+  },
+  {
+   "id": "pack4-card-535",
+   "mode": "vocab",
+   "word": "boil down to",
+   "pron": "",
+   "def": "to be mainly about\nहिंदी: सार यह निकलना कि",
+   "examples": [
+    "It all boils down to money.",
+    "It boils down to trust.",
+    "The choice boils down to cost or comfort.",
+    "Good teamwork boils down to clear communication."
+   ]
+  },
+  {
+   "id": "pack4-card-536",
+   "mode": "vocab",
+   "word": "bounce back",
+   "pron": "",
+   "def": "to recover quickly\nहिंदी: जल्दी उबर जाना",
+   "examples": [
+    "The team bounced back after defeat.",
+    "She bounced back from illness.",
+    "The economy bounced back after the slowdown.",
+    "He bounced back quickly after losing his job."
+   ]
+  },
+  {
+   "id": "pack4-card-537",
+   "mode": "vocab",
+   "word": "branch out",
+   "pron": "",
+   "def": "to expand into new areas\nहिंदी: नए क्षेत्र में फैलना",
+   "examples": [
+    "The firm branched out into software.",
+    "He branched out into films.",
+    "The bakery branched out into cakes and coffee.",
+    "After years in sales, she branched out into marketing."
+   ]
+  },
+  {
+   "id": "pack4-card-538",
+   "mode": "vocab",
+   "word": "break in",
+   "pron": "",
+   "def": "to enter illegally; to interrupt\nहिंदी: घुस आना / बीच में टोकना",
+   "examples": [
+    "Thieves broke in last night.",
+    "Sorry to break in, but...",
+    "Someone broke in and stole our laptop.",
+    "May I break in with a quick question?"
+   ]
+  },
+  {
+   "id": "pack4-card-539",
+   "mode": "vocab",
+   "word": "break out",
+   "pron": "",
+   "def": "to start suddenly\nहिंदी: अचानक शुरू हो जाना",
+   "examples": [
+    "A fire broke out.",
+    "War broke out in 1939.",
+    "Panic broke out when the lights went off.",
+    "An argument broke out between the two drivers."
+   ]
+  },
+  {
+   "id": "pack4-card-540",
+   "mode": "vocab",
+   "word": "break through",
+   "pron": "",
+   "def": "to make a major advance\nहिंदी: बड़ी सफलता पाना",
+   "examples": [
+    "Scientists broke through in cancer research.",
+    "She broke through the barrier.",
+    "The team finally broke through and won the trophy.",
+    "After years of trying, the band broke through with a hit song."
+   ]
+  },
+  {
+   "id": "pack4-card-541",
+   "mode": "vocab",
+   "word": "bring about",
+   "pron": "",
+   "def": "to cause to happen\nहिंदी: ले आना / घटित करना",
+   "examples": [
+    "The reforms brought about change.",
+    "What brought this about?",
+    "The internet brought about huge changes in banking.",
+    "Her hard work brought about a big improvement in sales."
+   ]
+  },
+  {
+   "id": "pack4-card-542",
+   "mode": "vocab",
+   "word": "bring down",
+   "pron": "",
+   "def": "to cause the fall of\nहिंदी: गिरा देना / कम करना",
+   "examples": [
+    "The scandal brought down the government.",
+    "Bring down the price.",
+    "The shop brought down prices to attract customers.",
+    "One bad decision brought down the whole company."
+   ]
+  },
+  {
+   "id": "pack4-card-543",
+   "mode": "vocab",
+   "word": "bring forward",
+   "pron": "",
+   "def": "to move to an earlier time\nहिंदी: पहले कर देना",
+   "examples": [
+    "The meeting was brought forward.",
+    "Bring the date forward.",
+    "The exam has been brought forward to Monday.",
+    "Can we bring forward the meeting to ten?"
+   ]
+  },
+  {
+   "id": "pack4-card-544",
+   "mode": "vocab",
+   "word": "bring in",
+   "pron": "",
+   "def": "to introduce; to earn\nहिंदी: लाना / कमाई करना",
+   "examples": [
+    "The law brought in new rules.",
+    "The shop brings in good money.",
+    "The school brought in a new uniform.",
+    "Her freelance work brings in extra income."
+   ]
+  },
+  {
+   "id": "pack4-card-545",
+   "mode": "vocab",
+   "word": "build up",
+   "pron": "",
+   "def": "to increase gradually\nहिंदी: धीरे-धीरे बढ़ाना",
+   "examples": [
+    "Build up your strength slowly.",
+    "Traffic builds up at five.",
+    "Savings build up slowly over the years.",
+    "Tension built up before the results were announced."
+   ]
+  },
+  {
+   "id": "pack4-card-546",
+   "mode": "vocab",
+   "word": "burn out",
+   "pron": "",
+   "def": "to become exhausted from overwork\nहिंदी: थककर चूर हो जाना",
+   "examples": [
+    "He burned out after years of overwork.",
+    "Don't burn yourself out.",
+    "Many doctors burn out after years of long shifts.",
+    "Take breaks so you don't burn out."
+   ]
+  },
+  {
+   "id": "pack4-card-547",
+   "mode": "vocab",
+   "word": "call back",
+   "pron": "",
+   "def": "to return a phone call\nहिंदी: वापस फ़ोन करना",
+   "examples": [
+    "I'll call you back later.",
+    "She called back at noon.",
+    "The bank called back to confirm my address.",
+    "Please call back after lunch; he's in a meeting."
+   ]
+  },
+  {
+   "id": "pack4-card-548",
+   "mode": "vocab",
+   "word": "call for",
+   "pron": "",
+   "def": "to demand or require\nहिंदी: माँग करना / ज़रूरत होना",
+   "examples": [
+    "The situation calls for action.",
+    "They called for his resignation.",
+    "This recipe calls for two cups of rice.",
+    "Doctors called for stricter rules on junk food."
+   ]
+  },
+  {
+   "id": "pack4-card-549",
+   "mode": "vocab",
+   "word": "calm down",
+   "pron": "",
+   "def": "to become less angry or excited\nहिंदी: शांत हो जाना",
+   "examples": [
+    "Calm down and listen.",
+    "He calmed down after a while.",
+    "Calm down; we'll find your passport.",
+    "The crowd calmed down when the police arrived."
+   ]
+  },
+  {
+   "id": "pack4-card-550",
+   "mode": "vocab",
+   "word": "carry out",
+   "pron": "",
+   "def": "to perform or complete a task\nहिंदी: कर दिखाना / अंजाम देना",
+   "examples": [
+    "Police carried out the raid.",
+    "Carry out the instructions.",
+    "The team carried out a survey of customers.",
+    "Engineers carried out repairs overnight."
+   ]
+  },
+  {
+   "id": "pack4-card-551",
+   "mode": "vocab",
+   "word": "cash in on",
+   "pron": "",
+   "def": "to profit from\nहिंदी: फ़ायदा उठाना",
+   "examples": [
+    "Shops cash in on festivals.",
+    "He cashed in on his fame.",
+    "Hotels cash in on the holiday season with high prices.",
+    "The company cashed in on the cricket craze."
+   ]
+  },
+  {
+   "id": "pack4-card-552",
+   "mode": "vocab",
+   "word": "cheer up",
+   "pron": "",
+   "def": "to become happier\nहिंदी: ख़ुश हो जाना",
+   "examples": [
+    "Cheer up, things will improve.",
+    "The gift cheered her up.",
+    "A cup of chai always cheers me up.",
+    "Cheer up; you'll do better next time."
+   ]
+  },
+  {
+   "id": "pack4-card-553",
+   "mode": "vocab",
+   "word": "chip in",
+   "pron": "",
+   "def": "to contribute to a cost\nहिंदी: मिलकर हिस्सा देना",
+   "examples": [
+    "We all chipped in for the gift.",
+    "Everyone chipped in.",
+    "Everyone chipped in for the farewell cake.",
+    "Can you chip in with ideas for the event?"
+   ]
+  },
+  {
+   "id": "pack4-card-554",
+   "mode": "vocab",
+   "word": "clamp down on",
+   "pron": "",
+   "def": "to act strictly against\nहिंदी: सख़्ती से रोकना",
+   "examples": [
+    "Police clamped down on speeding.",
+    "The state clamped down on fraud.",
+    "The city clamped down on illegal parking.",
+    "Schools are clamping down on phone use in class."
+   ]
+  },
+  {
+   "id": "pack4-card-555",
+   "mode": "vocab",
+   "word": "clear up",
+   "pron": "",
+   "def": "to make clear; to tidy\nहिंदी: साफ़ करना / स्पष्ट करना",
+   "examples": [
+    "Let's clear up the confusion.",
+    "Clear up the mess.",
+    "The weather cleared up by afternoon.",
+    "Can you clear up a doubt about the fees?"
+   ]
+  },
+  {
+   "id": "pack4-card-556",
+   "mode": "vocab",
+   "word": "close down",
+   "pron": "",
+   "def": "to stop operating\nहिंदी: बंद हो जाना",
+   "examples": [
+    "The factory closed down.",
+    "Many shops closed down.",
+    "The old cinema closed down last year.",
+    "Many small shops closed down during the lockdown."
+   ]
+  },
+  {
+   "id": "pack4-card-557",
+   "mode": "vocab",
+   "word": "come down with",
+   "pron": "",
+   "def": "to catch an illness\nहिंदी: बीमार पड़ना",
+   "examples": [
+    "I came down with a cold.",
+    "He came down with fever.",
+    "She came down with the flu before her trip.",
+    "Half the class came down with chickenpox."
+   ]
+  },
+  {
+   "id": "pack4-card-558",
+   "mode": "vocab",
+   "word": "come forward",
+   "pron": "",
+   "def": "to volunteer information\nहिंदी: आगे आना",
+   "examples": [
+    "Witnesses came forward.",
+    "Nobody came forward.",
+    "The police asked anyone with information to come forward.",
+    "Two employees came forward with complaints."
+   ]
+  },
+  {
+   "id": "pack4-card-559",
+   "mode": "vocab",
+   "word": "come off",
+   "pron": "",
+   "def": "to succeed; to become detached\nहिंदी: सफल होना / निकल जाना",
+   "examples": [
+    "The plan didn't come off.",
+    "The button came off.",
+    "The handle came off the suitcase at the airport.",
+    "The surprise party came off perfectly."
+   ]
+  },
+  {
+   "id": "pack4-card-560",
+   "mode": "vocab",
+   "word": "come out",
+   "pron": "",
+   "def": "to be published or revealed\nहिंदी: प्रकाशित होना / सामने आना",
+   "examples": [
+    "The truth came out.",
+    "Her book comes out in May.",
+    "The exam results come out next week.",
+    "The new phone comes out in October."
+   ]
+  },
+  {
+   "id": "pack4-card-561",
+   "mode": "vocab",
+   "word": "come round",
+   "pron": "",
+   "def": "to change opinion; to regain consciousness\nहिंदी: मान जाना / होश में आना",
+   "examples": [
+    "He'll come round to the idea.",
+    "She came round after the surgery.",
+    "My parents came round to the idea of my moving abroad.",
+    "He fainted but came round in a few minutes."
+   ]
+  },
+  {
+   "id": "pack4-card-562",
+   "mode": "vocab",
+   "word": "come through",
+   "pron": "",
+   "def": "to survive or deliver\nहिंदी: खरा उतरना",
+   "examples": [
+    "She came through in the crisis.",
+    "He always comes through.",
+    "When we needed help, our neighbours came through.",
+    "The patient came through the operation well."
+   ]
+  },
+  {
+   "id": "pack4-card-563",
+   "mode": "vocab",
+   "word": "come up",
+   "pron": "",
+   "def": "to arise or be mentioned\nहिंदी: सामने आना",
+   "examples": [
+    "Something came up at work.",
+    "The topic came up.",
+    "Your name came up in the meeting today.",
+    "Sorry, something came up, and I can't come tonight."
+   ]
+  },
+  {
+   "id": "pack4-card-564",
+   "mode": "vocab",
+   "word": "count on",
+   "pron": "",
+   "def": "to rely on\nहिंदी: भरोसा करना",
+   "examples": [
+    "You can count on me.",
+    "We're counting on your support.",
+    "You can always count on your family.",
+    "Can I count on you to finish this by Friday?"
+   ]
+  },
+  {
+   "id": "pack4-card-565",
+   "mode": "vocab",
+   "word": "crack down on",
+   "pron": "",
+   "def": "to deal strictly with\nहिंदी: सख़्त कार्रवाई करना",
+   "examples": [
+    "The police cracked down on crime.",
+    "Authorities cracked down on fraud.",
+    "The government is cracking down on tax evasion.",
+    "The school cracked down on bullying."
+   ]
+  },
+  {
+   "id": "pack4-card-566",
+   "mode": "vocab",
+   "word": "cut back",
+   "pron": "",
+   "def": "to reduce spending or amount\nहिंदी: कटौती करना",
+   "examples": [
+    "The firm cut back on costs.",
+    "Cut back on sugar.",
+    "We're cutting back on eating out to save money.",
+    "The factory cut back production during the slow season."
+   ]
+  },
+  {
+   "id": "pack4-card-567",
+   "mode": "vocab",
+   "word": "cut off",
+   "pron": "",
+   "def": "to stop supply; to interrupt\nहिंदी: काट देना / बीच में रोकना",
+   "examples": [
+    "Power was cut off.",
+    "He cut me off mid-sentence.",
+    "Our water was cut off for two hours.",
+    "The call got cut off in the tunnel."
+   ]
+  },
+  {
+   "id": "pack4-card-568",
+   "mode": "vocab",
+   "word": "cut out",
+   "pron": "",
+   "def": "to stop doing; to remove\nहिंदी: छोड़ देना / काट देना",
+   "examples": [
+    "Cut out junk food.",
+    "She cut out the article.",
+    "The doctor told me to cut out fried food.",
+    "Cut out the coupon from the newspaper."
+   ]
+  },
+  {
+   "id": "pack4-card-569",
+   "mode": "vocab",
+   "word": "die down",
+   "pron": "",
+   "def": "to become less strong\nहिंदी: कम पड़ जाना",
+   "examples": [
+    "The storm died down.",
+    "The noise died down.",
+    "The excitement died down after the match.",
+    "Wait for the wind to die down before you go out."
+   ]
+  },
+  {
+   "id": "pack4-card-570",
+   "mode": "vocab",
+   "word": "dig into",
+   "pron": "",
+   "def": "to investigate deeply\nहिंदी: गहराई से जाँचना",
+   "examples": [
+    "Reporters dug into the case.",
+    "Let's dig into the data.",
+    "The auditors dug into last year's accounts.",
+    "Let's dig into why customers are leaving."
+   ]
+  },
+  {
+   "id": "pack4-card-571",
+   "mode": "vocab",
+   "word": "do away with",
+   "pron": "",
+   "def": "to get rid of\nहिंदी: ख़त्म करना",
+   "examples": [
+    "They did away with the old rule.",
+    "Do away with waste.",
+    "The company did away with paper forms.",
+    "We should do away with unnecessary meetings."
+   ]
+  },
+  {
+   "id": "pack4-card-572",
+   "mode": "vocab",
+   "word": "do up",
+   "pron": "",
+   "def": "to fasten; to renovate\nहिंदी: बाँधना / सजाना",
+   "examples": [
+    "Do up your seatbelt.",
+    "They did up the house.",
+    "Do up your coat; it's cold outside.",
+    "They're doing up the old shop into a cafe."
+   ]
+  },
+  {
+   "id": "pack4-card-573",
+   "mode": "vocab",
+   "word": "draw up",
+   "pron": "",
+   "def": "to prepare a document or plan\nहिंदी: मसौदा तैयार करना",
+   "examples": [
+    "The lawyer drew up a contract.",
+    "Draw up a plan.",
+    "HR drew up a list of new policies.",
+    "Let's draw up a budget for the trip."
+   ]
+  },
+  {
+   "id": "pack4-card-574",
+   "mode": "vocab",
+   "word": "dress up",
+   "pron": "",
+   "def": "to wear formal or fancy clothes\nहिंदी: सज-धजकर तैयार होना",
+   "examples": [
+    "They dressed up for the party.",
+    "Dress up for the interview.",
+    "Everyone dressed up for the wedding.",
+    "The kids dressed up as superheroes for the school event."
+   ]
+  },
+  {
+   "id": "pack4-card-575",
+   "mode": "vocab",
+   "word": "drop by",
+   "pron": "",
+   "def": "to visit briefly\nहिंदी: यूँ ही मिलने आना",
+   "examples": [
+    "Drop by anytime.",
+    "He dropped by yesterday.",
+    "Drop by my desk if you have questions.",
+    "My aunt dropped by with sweets for Diwali."
+   ]
+  },
+  {
+   "id": "pack4-card-576",
+   "mode": "vocab",
+   "word": "drop off",
+   "pron": "",
+   "def": "to deliver; to fall asleep\nहिंदी: छोड़ आना / ऊँघ जाना",
+   "examples": [
+    "I'll drop off the parcel.",
+    "He dropped off during the film.",
+    "Can you drop off the kids at school?",
+    "I dropped off while reading on the sofa."
+   ]
+  },
+  {
+   "id": "pack4-card-577",
+   "mode": "vocab",
+   "word": "drop out",
+   "pron": "",
+   "def": "to leave a course or school\nहिंदी: पढ़ाई बीच में छोड़ना",
+   "examples": [
+    "He dropped out of college.",
+    "She dropped out of the race.",
+    "Some students drop out because of money problems.",
+    "Two players dropped out of the tournament."
+   ]
+  },
+  {
+   "id": "pack4-card-578",
+   "mode": "vocab",
+   "word": "end up",
+   "pron": "",
+   "def": "to finally be in a situation\nहिंदी: आख़िर में ... हो जाना",
+   "examples": [
+    "We ended up walking home.",
+    "He ended up in Delhi.",
+    "We ended up eating at a roadside dhaba.",
+    "If you don't save, you'll end up in debt."
+   ]
+  },
+  {
+   "id": "pack4-card-579",
+   "mode": "vocab",
+   "word": "fall apart",
+   "pron": "",
+   "def": "to break or fail completely\nहिंदी: बिखर जाना",
+   "examples": [
+    "The plan fell apart.",
+    "His life fell apart.",
+    "My old shoes are falling apart.",
+    "The team fell apart after the captain left."
+   ]
+  },
+  {
+   "id": "pack4-card-580",
+   "mode": "vocab",
+   "word": "fall behind",
+   "pron": "",
+   "def": "to fail to keep pace\nहिंदी: पिछड़ जाना",
+   "examples": [
+    "She fell behind with her work.",
+    "Don't fall behind.",
+    "He fell behind with his loan payments.",
+    "If you miss classes, you'll fall behind."
+   ]
+  },
+  {
+   "id": "pack4-card-581",
+   "mode": "vocab",
+   "word": "fall for",
+   "pron": "",
+   "def": "to be tricked or fall in love\nहिंदी: झाँसे में आना / प्यार हो जाना",
+   "examples": [
+    "He fell for the scam.",
+    "She fell for him.",
+    "Many people fall for fake lottery messages.",
+    "He fell for her at the college fest."
+   ]
+  },
+  {
+   "id": "pack4-card-582",
+   "mode": "vocab",
+   "word": "fall through",
+   "pron": "",
+   "def": "to fail to happen\nहिंदी: रद्द हो जाना / विफल होना",
+   "examples": [
+    "The deal fell through.",
+    "Our plans fell through.",
+    "The flat purchase fell through at the last minute.",
+    "Our trip fell through because of the strike."
+   ]
+  },
+  {
+   "id": "pack4-card-583",
+   "mode": "vocab",
+   "word": "fit in",
+   "pron": "",
+   "def": "to belong to a group\nहिंदी: घुल-मिल जाना",
+   "examples": [
+    "She fits in well with the team.",
+    "He found it hard to fit in.",
+    "It took me a few months to fit in at the new school.",
+    "The new sofa fits in well with the room."
+   ]
+  },
+  {
+   "id": "pack4-card-584",
+   "mode": "vocab",
+   "word": "follow through",
+   "pron": "",
+   "def": "to complete what was started\nहिंदी: काम पूरा करके दिखाना",
+   "examples": [
+    "He never follows through.",
+    "Follow through on your promises.",
+    "She followed through on her plan to learn coding.",
+    "Managers must follow through on what they promise."
+   ]
+  },
+  {
+   "id": "pack4-card-585",
+   "mode": "vocab",
+   "word": "get ahead",
+   "pron": "",
+   "def": "to make progress\nहिंदी: आगे बढ़ना",
+   "examples": [
+    "Hard work helps you get ahead.",
+    "She wants to get ahead in life.",
+    "Learning English can help you get ahead at work.",
+    "He works late to get ahead of his colleagues."
+   ]
+  },
+  {
+   "id": "pack4-card-586",
+   "mode": "vocab",
+   "word": "get around",
+   "pron": "",
+   "def": "to travel; to avoid a problem\nहिंदी: घूमना-फिरना / बच निकलना",
+   "examples": [
+    "It's easy to get around the city.",
+    "He got around the rule.",
+    "The metro makes it easy to get around Delhi.",
+    "We found a way to get around the traffic jam."
+   ]
+  },
+  {
+   "id": "pack4-card-587",
+   "mode": "vocab",
+   "word": "get at",
+   "pron": "",
+   "def": "to hint; to reach\nहिंदी: इशारा करना / पहुँचना",
+   "examples": [
+    "What are you getting at?",
+    "I can't get at the files.",
+    "I'm not sure what she's getting at with that comment.",
+    "Keep the medicines where children can't get at them."
+   ]
+  },
+  {
+   "id": "pack4-card-588",
+   "mode": "vocab",
+   "word": "get away",
+   "pron": "",
+   "def": "to escape\nहिंदी: बच निकलना",
+   "examples": [
+    "The thief got away.",
+    "Let's get away this weekend.",
+    "We're planning to get away to the hills next month.",
+    "The robbers got away in a car."
+   ]
+  },
+  {
+   "id": "pack4-card-589",
+   "mode": "vocab",
+   "word": "get back",
+   "pron": "",
+   "def": "to return; to recover\nहिंदी: लौटना / वापस पाना",
+   "examples": [
+    "When did you get back?",
+    "I got my money back.",
+    "I'll get back to the office by four.",
+    "She got back her lost phone from the cab driver."
+   ]
+  },
+  {
+   "id": "pack4-card-590",
+   "mode": "vocab",
+   "word": "get by",
+   "pron": "",
+   "def": "to manage with difficulty\nहिंदी: जैसे-तैसे गुज़ारा करना",
+   "examples": [
+    "They get by on a small income.",
+    "I can get by on little.",
+    "We get by on one salary.",
+    "I know enough Hindi to get by in Delhi."
+   ]
+  },
+  {
+   "id": "pack4-card-591",
+   "mode": "vocab",
+   "word": "get down to",
+   "pron": "",
+   "def": "to begin seriously\nहिंदी: गंभीरता से शुरू करना",
+   "examples": [
+    "Let's get down to business.",
+    "He got down to work.",
+    "After small talk, we got down to the budget discussion.",
+    "It's time to get down to studying."
+   ]
+  },
+  {
+   "id": "pack4-card-592",
+   "mode": "vocab",
+   "word": "get on",
+   "pron": "",
+   "def": "to progress; to board\nहिंदी: आगे बढ़ना / चढ़ना",
+   "examples": [
+    "How are you getting on?",
+    "Get on the bus.",
+    "How are you getting on with your new job?",
+    "We got on the train just before it left."
+   ]
+  },
+  {
+   "id": "pack4-card-593",
+   "mode": "vocab",
+   "word": "get through",
+   "pron": "",
+   "def": "to survive or complete\nहिंदी: पार पाना / पूरा करना",
+   "examples": [
+    "I got through the exam.",
+    "We'll get through this.",
+    "I got through the interview without any problems.",
+    "We got through a difficult year together."
+   ]
+  },
+  {
+   "id": "pack4-card-594",
+   "mode": "vocab",
+   "word": "get together",
+   "pron": "",
+   "def": "to meet socially\nहिंदी: मिलना-जुलना",
+   "examples": [
+    "Let's get together on Sunday.",
+    "Friends got together for dinner.",
+    "Our college group gets together every December.",
+    "The family got together for grandfather's birthday."
+   ]
+  },
+  {
+   "id": "pack4-card-595",
+   "mode": "vocab",
+   "word": "get up to",
+   "pron": "",
+   "def": "to be involved in\nहिंदी: करने में लगे रहना",
+   "examples": [
+    "What did you get up to?",
+    "The kids got up to mischief.",
+    "What did you get up to over the long weekend?",
+    "I wonder what the kids are getting up to upstairs."
+   ]
+  },
+  {
+   "id": "pack4-card-596",
+   "mode": "vocab",
+   "word": "give away",
+   "pron": "",
+   "def": "to donate; to reveal\nहिंदी: दान करना / राज़ खोल देना",
+   "examples": [
+    "They gave away free books.",
+    "His smile gave him away.",
+    "We gave away our old clothes to the shelter.",
+    "Don't give away the ending of the movie!"
+   ]
+  },
+  {
+   "id": "pack4-card-597",
+   "mode": "vocab",
+   "word": "give back",
+   "pron": "",
+   "def": "to return\nहिंदी: लौटा देना",
+   "examples": [
+    "Give back my pen.",
+    "She gave back the money.",
+    "Please give back the book when you've finished it.",
+    "He volunteers on weekends to give back to the community."
+   ]
+  },
+  {
+   "id": "pack4-card-598",
+   "mode": "vocab",
+   "word": "give off",
+   "pron": "",
+   "def": "to produce a smell or light\nहिंदी: छोड़ना (गंध, रोशनी)",
+   "examples": [
+    "The flowers give off a sweet smell.",
+    "The lamp gave off warmth.",
+    "The heater gives off a strange smell.",
+    "Rotting fruit gives off a bad odour."
+   ]
+  },
+  {
+   "id": "pack4-card-599",
+   "mode": "vocab",
+   "word": "give out",
+   "pron": "",
+   "def": "to distribute; to stop working\nहिंदी: बाँटना / जवाब दे जाना",
+   "examples": [
+    "He gave out leaflets.",
+    "My legs gave out.",
+    "Volunteers gave out water bottles at the marathon.",
+    "The old fridge finally gave out last week."
+   ]
+  },
+  {
+   "id": "pack4-card-600",
+   "mode": "vocab",
+   "word": "go ahead",
+   "pron": "",
+   "def": "to proceed\nहिंदी: आगे बढ़ना / शुरू करना",
+   "examples": [
+    "Go ahead and speak.",
+    "The project went ahead.",
+    "Can I go ahead and book the tickets?",
+    "The wedding went ahead despite the rain."
+   ]
+  },
+  {
+   "id": "pack4-card-601",
+   "mode": "vocab",
+   "word": "go along with",
+   "pron": "",
+   "def": "to agree with\nहिंदी: सहमत होना",
+   "examples": [
+    "I'll go along with your plan.",
+    "She went along with it.",
+    "I didn't like the idea, but I went along with it.",
+    "Most of the team went along with the manager's plan."
+   ]
+  },
+  {
+   "id": "pack4-card-602",
+   "mode": "vocab",
+   "word": "go off",
+   "pron": "",
+   "def": "to explode; to ring; to spoil\nहिंदी: फटना / बजना / ख़राब होना",
+   "examples": [
+    "The alarm went off.",
+    "The milk has gone off.",
+    "My phone alarm went off at six.",
+    "The bomb went off near the market."
+   ]
+  },
+  {
+   "id": "pack4-card-603",
+   "mode": "vocab",
+   "word": "go over",
+   "pron": "",
+   "def": "to review\nहिंदी: दोहराना / जाँचना",
+   "examples": [
+    "Let's go over the notes.",
+    "She went over the report.",
+    "Can we go over the plan once more?",
+    "The teacher went over the answers in class."
+   ]
+  },
+  {
+   "id": "pack4-card-604",
+   "mode": "vocab",
+   "word": "go through",
+   "pron": "",
+   "def": "to experience or examine\nहिंदी: गुज़रना / जाँचना",
+   "examples": [
+    "He went through hard times.",
+    "Go through the file.",
+    "She went through a lot after her father's illness.",
+    "I went through all my emails this morning."
+   ]
+  },
+  {
+   "id": "pack4-card-605",
+   "mode": "vocab",
+   "word": "go without",
+   "pron": "",
+   "def": "to manage lacking something\nहिंदी: बिना गुज़ारा करना",
+   "examples": [
+    "They went without food.",
+    "We can go without.",
+    "During the strike, many families went without a salary.",
+    "I can't go without my morning tea."
+   ]
+  },
+  {
+   "id": "pack4-card-606",
+   "mode": "vocab",
+   "word": "grow up",
+   "pron": "",
+   "def": "to become an adult\nहिंदी: बड़ा होना",
+   "examples": [
+    "She grew up in Pune.",
+    "When I grow up, I'll be a pilot.",
+    "I grew up in a small town near Nagpur.",
+    "Kids grow up so fast these days."
+   ]
+  },
+  {
+   "id": "pack4-card-607",
+   "mode": "vocab",
+   "word": "hand in",
+   "pron": "",
+   "def": "to submit\nहिंदी: जमा करना",
+   "examples": [
+    "Hand in your homework.",
+    "He handed in his resignation.",
+    "Please hand in your ID card on your last day.",
+    "Students must hand in assignments by Friday."
+   ]
+  },
+  {
+   "id": "pack4-card-608",
+   "mode": "vocab",
+   "word": "hand out",
+   "pron": "",
+   "def": "to distribute\nहिंदी: बाँटना",
+   "examples": [
+    "The teacher handed out papers.",
+    "They handed out food.",
+    "Volunteers handed out food packets to flood victims.",
+    "The trainer handed out notes after the session."
+   ]
+  },
+  {
+   "id": "pack4-card-609",
+   "mode": "vocab",
+   "word": "hang on",
+   "pron": "",
+   "def": "to wait; to hold tightly\nहिंदी: ठहरिए / कसकर पकड़ना",
+   "examples": [
+    "Hang on a second.",
+    "Hang on tight.",
+    "Hang on, I'll check my calendar.",
+    "Hang on to the railing on the stairs."
+   ]
+  },
+  {
+   "id": "pack4-card-610",
+   "mode": "vocab",
+   "word": "hang out",
+   "pron": "",
+   "def": "to spend time casually\nहिंदी: समय बिताना / घूमना",
+   "examples": [
+    "We hang out on weekends.",
+    "He hangs out with friends.",
+    "Teenagers love to hang out at the mall.",
+    "We used to hang out at the college canteen."
+   ]
+  },
+  {
+   "id": "pack4-card-611",
+   "mode": "vocab",
+   "word": "head off",
+   "pron": "",
+   "def": "to depart; to prevent\nहिंदी: निकल पड़ना / रोकना",
+   "examples": [
+    "They headed off early.",
+    "He headed off a disaster.",
+    "We headed off to the airport at five.",
+    "Quick action headed off a strike at the factory."
+   ]
+  },
+  {
+   "id": "pack4-card-612",
+   "mode": "vocab",
+   "word": "hit back",
+   "pron": "",
+   "def": "to respond to an attack\nहिंदी: पलटवार करना",
+   "examples": [
+    "She hit back at critics.",
+    "The party hit back.",
+    "The actor hit back at the rumours on social media.",
+    "The company hit back with lower prices."
+   ]
+  },
+  {
+   "id": "pack4-card-613",
+   "mode": "vocab",
+   "word": "hold back",
+   "pron": "",
+   "def": "to restrain\nहिंदी: रोके रखना",
+   "examples": [
+    "She held back her tears.",
+    "Don't hold back.",
+    "I held back from saying what I really thought.",
+    "Fear of failure held her back for years."
+   ]
+  },
+  {
+   "id": "pack4-card-614",
+   "mode": "vocab",
+   "word": "hold off",
+   "pron": "",
+   "def": "to delay\nहिंदी: टालना",
+   "examples": [
+    "Hold off on the decision.",
+    "The rain held off.",
+    "Let's hold off on buying a car until next year.",
+    "The company held off hiring until the budget was clear."
+   ]
+  },
+  {
+   "id": "pack4-card-615",
+   "mode": "vocab",
+   "word": "hold out",
+   "pron": "",
+   "def": "to resist; to last\nहिंदी: डटे रहना / टिकना",
+   "examples": [
+    "The town held out for weeks.",
+    "Supplies won't hold out.",
+    "Our water supply won't hold out much longer.",
+    "The workers held out for better pay."
+   ]
+  },
+  {
+   "id": "pack4-card-616",
+   "mode": "vocab",
+   "word": "hold up",
+   "pron": "",
+   "def": "to delay; to rob\nहिंदी: देरी करना / लूटना",
+   "examples": [
+    "Traffic held us up.",
+    "Robbers held up the bank.",
+    "Sorry I'm late; I was held up in a meeting.",
+    "Two men held up the petrol pump last night."
+   ]
+  },
+  {
+   "id": "pack4-card-617",
+   "mode": "vocab",
+   "word": "iron out",
+   "pron": "",
+   "def": "to solve minor problems\nहिंदी: छोटी समस्याएँ सुलझाना",
+   "examples": [
+    "Let's iron out the details.",
+    "They ironed out the issues.",
+    "We need to iron out a few problems before launch.",
+    "The partners ironed out their differences over lunch."
+   ]
+  },
+  {
+   "id": "pack4-card-618",
+   "mode": "vocab",
+   "word": "join in",
+   "pron": "",
+   "def": "to participate\nहिंदी: शामिल होना",
+   "examples": [
+    "Come and join in.",
+    "Everyone joined in the singing.",
+    "The whole office joined in the Holi celebration.",
+    "Feel free to join in the discussion."
+   ]
+  },
+  {
+   "id": "pack4-card-619",
+   "mode": "vocab",
+   "word": "keep away",
+   "pron": "",
+   "def": "to avoid\nहिंदी: दूर रहना",
+   "examples": [
+    "Keep away from the edge.",
+    "Keep away from strangers.",
+    "Keep away from the stray dogs near the gate.",
+    "Keep the medicines away from children."
+   ]
+  },
+  {
+   "id": "pack4-card-620",
+   "mode": "vocab",
+   "word": "keep off",
+   "pron": "",
+   "def": "to stay away from\nहिंदी: दूर रखना",
+   "examples": [
+    "Keep off the grass.",
+    "Keep off junk food.",
+    "Please keep off the wet floor.",
+    "I'm trying to keep off sugar this month."
+   ]
+  },
+  {
+   "id": "pack4-card-621",
+   "mode": "vocab",
+   "word": "keep on",
+   "pron": "",
+   "def": "to continue\nहिंदी: लगातार करते रहना",
+   "examples": [
+    "Keep on trying.",
+    "He kept on talking.",
+    "Keep on practising, and your English will improve.",
+    "The phone kept on ringing during the meeting."
+   ]
+  },
+  {
+   "id": "pack4-card-622",
+   "mode": "vocab",
+   "word": "knock down",
+   "pron": "",
+   "def": "to demolish\nहिंदी: गिरा देना",
+   "examples": [
+    "They knocked down the old building.",
+    "A car knocked him down.",
+    "The city knocked down the old bridge.",
+    "The cyclist was knocked down by a bike."
+   ]
+  },
+  {
+   "id": "pack4-card-623",
+   "mode": "vocab",
+   "word": "knock out",
+   "pron": "",
+   "def": "to make unconscious; to eliminate\nहिंदी: बेहोश कर देना / बाहर कर देना",
+   "examples": [
+    "He was knocked out.",
+    "They were knocked out of the cup.",
+    "The boxer knocked out his opponent in round two.",
+    "Our team was knocked out in the semi-final."
+   ]
+  },
+  {
+   "id": "pack4-card-624",
+   "mode": "vocab",
+   "word": "lay off",
+   "pron": "",
+   "def": "to dismiss workers\nहिंदी: नौकरी से निकालना",
+   "examples": [
+    "The company laid off staff.",
+    "He was laid off last month.",
+    "The factory laid off a hundred workers.",
+    "Many tech firms laid off staff this year."
+   ]
+  },
+  {
+   "id": "pack4-card-625",
+   "mode": "vocab",
+   "word": "lead to",
+   "pron": "",
+   "def": "to result in\nहिंदी: ... की ओर ले जाना",
+   "examples": [
+    "Stress leads to illness.",
+    "This led to confusion.",
+    "Skipping breakfast can lead to headaches.",
+    "Clear goals lead to better results."
+   ]
+  },
+  {
+   "id": "pack4-card-626",
+   "mode": "vocab",
+   "word": "leave out",
+   "pron": "",
+   "def": "to omit\nहिंदी: छोड़ देना",
+   "examples": [
+    "Don't leave anyone out.",
+    "He left out the details.",
+    "Please don't leave out any details in your report.",
+    "I felt left out when they didn't invite me."
+   ]
+  },
+  {
+   "id": "pack4-card-627",
+   "mode": "vocab",
+   "word": "let in",
+   "pron": "",
+   "def": "to allow to enter\nहिंदी: अंदर आने देना",
+   "examples": [
+    "Let in some fresh air.",
+    "She let him in.",
+    "Open the window to let in some light.",
+    "The guard didn't let us in without ID."
+   ]
+  },
+  {
+   "id": "pack4-card-628",
+   "mode": "vocab",
+   "word": "let off",
+   "pron": "",
+   "def": "to excuse from punishment\nहिंदी: माफ़ कर देना / छोड़ देना",
+   "examples": [
+    "The teacher let him off.",
+    "She was let off with a warning.",
+    "The police let him off with a warning.",
+    "The teacher let us off homework for the festival."
+   ]
+  },
+  {
+   "id": "pack4-card-629",
+   "mode": "vocab",
+   "word": "line up",
+   "pron": "",
+   "def": "to arrange in a row\nहिंदी: क़तार में लगना",
+   "examples": [
+    "Students lined up for lunch.",
+    "Line up the chairs.",
+    "People lined up outside the bank at nine.",
+    "We've lined up three speakers for the event."
+   ]
+  },
+  {
+   "id": "pack4-card-630",
+   "mode": "vocab",
+   "word": "live on",
+   "pron": "",
+   "def": "to survive using\nहिंदी: ... पर जीना",
+   "examples": [
+    "They live on a small pension.",
+    "He lives on rice.",
+    "Many students live on instant noodles.",
+    "My grandparents live on their savings."
+   ]
+  },
+  {
+   "id": "pack4-card-631",
+   "mode": "vocab",
+   "word": "live up to",
+   "pron": "",
+   "def": "to meet expectations\nहिंदी: उम्मीदों पर खरा उतरना",
+   "examples": [
+    "The film lived up to the hype.",
+    "He lived up to his name.",
+    "The new restaurant didn't live up to the reviews.",
+    "She worked hard to live up to her parents' hopes."
+   ]
+  },
+  {
+   "id": "pack4-card-632",
+   "mode": "vocab",
+   "word": "log out",
+   "pron": "",
+   "def": "to exit an account\nहिंदी: लॉग आउट करना",
+   "examples": [
+    "Log out when you finish.",
+    "Don't forget to log out.",
+    "Always log out of your bank account on shared computers.",
+    "I logged out of all my social media accounts for a week."
+   ]
+  },
+  {
+   "id": "pack4-card-633",
+   "mode": "vocab",
+   "word": "look back",
+   "pron": "",
+   "def": "to think about the past\nहिंदी: पीछे मुड़कर देखना",
+   "examples": [
+    "I look back on those days fondly.",
+    "She looked back at her career.",
+    "When I look back, college was the best time.",
+    "Don't look back; focus on the future."
+   ]
+  },
+  {
+   "id": "pack4-card-634",
+   "mode": "vocab",
+   "word": "look down on",
+   "pron": "",
+   "def": "to think of as inferior\nहिंदी: तुच्छ समझना",
+   "examples": [
+    "Don't look down on others.",
+    "He looks down on beginners.",
+    "Some people look down on manual work.",
+    "She never looks down on anyone, whatever their job."
+   ]
+  },
+  {
+   "id": "pack4-card-635",
+   "mode": "vocab",
+   "word": "look out",
+   "pron": "",
+   "def": "to be careful\nहिंदी: सावधान रहना",
+   "examples": [
+    "Look out for the car!",
+    "Look out for scams.",
+    "Look out! There's a pothole ahead.",
+    "Look out for my message about the meeting time."
+   ]
+  },
+  {
+   "id": "pack4-card-636",
+   "mode": "vocab",
+   "word": "look over",
+   "pron": "",
+   "def": "to examine quickly\nहिंदी: सरसरी नज़र से जाँचना",
+   "examples": [
+    "Look over my essay.",
+    "I'll look over the contract.",
+    "Can you look over my cover letter?",
+    "The mechanic looked over the car before the trip."
+   ]
+  },
+  {
+   "id": "pack4-card-637",
+   "mode": "vocab",
+   "word": "look up",
+   "pron": "",
+   "def": "to search for information\nहिंदी: खोजना / शब्दकोश में देखना",
+   "examples": [
+    "Look up the word.",
+    "I looked up the address.",
+    "Look up the train times before we leave.",
+    "I looked up the restaurant's reviews online."
+   ]
+  },
+  {
+   "id": "pack4-card-638",
+   "mode": "vocab",
+   "word": "look up to",
+   "pron": "",
+   "def": "to admire\nहिंदी: आदर करना",
+   "examples": [
+    "I look up to my teacher.",
+    "Kids look up to him.",
+    "Many young players look up to Virat Kohli.",
+    "I've always looked up to my elder sister."
+   ]
+  },
+  {
+   "id": "pack4-card-639",
+   "mode": "vocab",
+   "word": "make out",
+   "pron": "",
+   "def": "to understand or see with difficulty\nहिंदी: मुश्किल से समझ पाना",
+   "examples": [
+    "I can't make out his handwriting.",
+    "She couldn't make out the sign.",
+    "I could barely make out the voice on the bad line.",
+    "Can you make out what the sign says?"
+   ]
+  },
+  {
+   "id": "pack4-card-640",
+   "mode": "vocab",
+   "word": "make up for",
+   "pron": "",
+   "def": "to compensate\nहिंदी: भरपाई करना",
+   "examples": [
+    "I'll make up for the delay.",
+    "Make up for lost time.",
+    "He bought her flowers to make up for forgetting her birthday.",
+    "We'll work Saturday to make up for the holiday."
+   ]
+  },
+  {
+   "id": "pack4-card-641",
+   "mode": "vocab",
+   "word": "mess up",
+   "pron": "",
+   "def": "to spoil\nहिंदी: बिगाड़ देना",
+   "examples": [
+    "I messed up the interview.",
+    "Don't mess up the plan.",
+    "I messed up the recipe and burnt the rice.",
+    "Don't mess up your chances by arriving late."
+   ]
+  },
+  {
+   "id": "pack4-card-642",
+   "mode": "vocab",
+   "word": "miss out",
+   "pron": "",
+   "def": "to lose a chance\nहिंदी: मौक़ा गँवाना",
+   "examples": [
+    "You'll miss out on the fun.",
+    "Don't miss out on this offer.",
+    "I missed out on the sale because I was busy.",
+    "Students who skip the trip will miss out."
+   ]
+  },
+  {
+   "id": "pack4-card-643",
+   "mode": "vocab",
+   "word": "mix up",
+   "pron": "",
+   "def": "to confuse one thing with another\nहिंदी: गड़बड़ा देना",
+   "examples": [
+    "I mixed up the dates.",
+    "They mixed up our names.",
+    "The twins are often mixed up by teachers.",
+    "I mixed up the meeting room and went to the wrong floor."
+   ]
+  },
+  {
+   "id": "pack4-card-644",
+   "mode": "vocab",
+   "word": "move on",
+   "pron": "",
+   "def": "to progress; to forget the past\nहिंदी: आगे बढ़ना",
+   "examples": [
+    "It's time to move on.",
+    "Let's move on to the next topic.",
+    "After the breakup, she decided to move on.",
+    "If there are no questions, let's move on."
+   ]
+  },
+  {
+   "id": "pack4-card-645",
+   "mode": "vocab",
+   "word": "narrow down",
+   "pron": "",
+   "def": "to reduce the number of options\nहिंदी: विकल्प घटाना",
+   "examples": [
+    "Narrow down the list.",
+    "We narrowed it down to two.",
+    "Let's narrow down the list of venues to three.",
+    "The police narrowed down the suspects."
+   ]
+  },
+  {
+   "id": "pack4-card-646",
+   "mode": "vocab",
+   "word": "note down",
+   "pron": "",
+   "def": "to write briefly\nहिंदी: लिख लेना",
+   "examples": [
+    "Note down the address.",
+    "She noted down his number.",
+    "Note down the key points from the call.",
+    "I noted down the doctor's instructions."
+   ]
+  },
+  {
+   "id": "pack4-card-647",
+   "mode": "vocab",
+   "word": "opt for",
+   "pron": "",
+   "def": "to choose\nहिंदी: चुनना",
+   "examples": [
+    "She opted for a quiet life.",
+    "We opted for the cheaper plan.",
+    "Most customers opt for home delivery.",
+    "I opted for the vegetarian thali."
+   ]
+  },
+  {
+   "id": "pack4-card-648",
+   "mode": "vocab",
+   "word": "pass away",
+   "pron": "",
+   "def": "to die politely\nहिंदी: चल बसना",
+   "examples": [
+    "His grandfather passed away.",
+    "She passed away peacefully.",
+    "Our old neighbour passed away last week.",
+    "She passed away surrounded by her family."
+   ]
+  },
+  {
+   "id": "pack4-card-649",
+   "mode": "vocab",
+   "word": "pass out",
+   "pron": "",
+   "def": "to faint; to distribute\nहिंदी: बेहोश होना / बाँटना",
+   "examples": [
+    "He passed out in the heat.",
+    "They passed out sweets.",
+    "One runner passed out near the finish line.",
+    "The teacher passed out the exam papers."
+   ]
+  },
+  {
+   "id": "pack4-card-650",
+   "mode": "vocab",
+   "word": "pay back",
+   "pron": "",
+   "def": "to repay\nहिंदी: चुका देना",
+   "examples": [
+    "I'll pay you back tomorrow.",
+    "He paid back the loan.",
+    "I'll pay back the loan in twelve months.",
+    "He paid me back with interest."
+   ]
+  },
+  {
+   "id": "pack4-card-651",
+   "mode": "vocab",
+   "word": "pay off",
+   "pron": "",
+   "def": "to be successful; to finish paying\nहिंदी: सफल होना / क़र्ज़ चुकाना",
+   "examples": [
+    "Hard work pays off.",
+    "She paid off her debt.",
+    "All her late-night studying paid off.",
+    "We paid off the car loan early."
+   ]
+  },
+  {
+   "id": "pack4-card-652",
+   "mode": "vocab",
+   "word": "phase out",
+   "pron": "",
+   "def": "to stop gradually\nहिंदी: धीरे-धीरे बंद करना",
+   "examples": [
+    "They are phasing out plastic.",
+    "The scheme will be phased out.",
+    "The bank is phasing out cheque books.",
+    "Old buses will be phased out by 2030."
+   ]
+  },
+  {
+   "id": "pack4-card-653",
+   "mode": "vocab",
+   "word": "pick on",
+   "pron": "",
+   "def": "to treat unfairly\nहिंदी: तंग करना",
+   "examples": [
+    "Don't pick on him.",
+    "She was picked on at school.",
+    "The older boys picked on him because he was small.",
+    "Why does the manager always pick on me?"
+   ]
+  },
+  {
+   "id": "pack4-card-654",
+   "mode": "vocab",
+   "word": "pile up",
+   "pron": "",
+   "def": "to accumulate\nहिंदी: ढेर लगना",
+   "examples": [
+    "Work piled up.",
+    "Bills pile up quickly.",
+    "Dirty dishes piled up while we were away.",
+    "Emails pile up when I'm on leave."
+   ]
+  },
+  {
+   "id": "pack4-card-655",
+   "mode": "vocab",
+   "word": "play down",
+   "pron": "",
+   "def": "to make seem less important\nहिंदी: कम महत्व दिखाना",
+   "examples": [
+    "He played down the risk.",
+    "Don't play down the problem.",
+    "The minister played down the price rise.",
+    "She played down her role in the success."
+   ]
+  },
+  {
+   "id": "pack4-card-656",
+   "mode": "vocab",
+   "word": "pull off",
+   "pron": "",
+   "def": "to succeed in doing something difficult\nहिंदी: कर दिखाना",
+   "examples": [
+    "She pulled off a big deal.",
+    "He pulled off the trick.",
+    "We pulled off the surprise party without her knowing.",
+    "Nobody thought he could pull off the deal."
+   ]
+  },
+  {
+   "id": "pack4-card-657",
+   "mode": "vocab",
+   "word": "pull through",
+   "pron": "",
+   "def": "to recover\nहिंदी: उबर जाना",
+   "examples": [
+    "He pulled through the surgery.",
+    "We'll pull through.",
+    "The doctors say he will pull through.",
+    "The business pulled through the tough year."
+   ]
+  }
+ ]
+}

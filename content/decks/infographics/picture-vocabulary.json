@@ -1,0 +1,74 @@
+{
+ "id": "pack5-deck-2",
+ "categoryId": "pack5-cat-1",
+ "title": "Picture vocabulary",
+ "sub": "Words with an image cue, laid out as a grid.",
+ "cards": [
+  {
+   "id": "pack5-card-3",
+   "mode": "infographic",
+   "layout": "vocab",
+   "title": "Fruits",
+   "items": [
+    {
+     "emoji": "🍎",
+     "heading": "Apple",
+     "body": "A round red or green fruit."
+    },
+    {
+     "emoji": "🍌",
+     "heading": "Banana",
+     "body": "A long yellow fruit with a peel."
+    },
+    {
+     "emoji": "🍇",
+     "heading": "Grapes",
+     "body": "Small fruits that grow in bunches."
+    },
+    {
+     "emoji": "🍊",
+     "heading": "Orange",
+     "body": "A juicy citrus fruit."
+    },
+    {
+     "emoji": "🍉",
+     "heading": "Watermelon",
+     "body": "A large green fruit, red inside."
+    },
+    {
+     "emoji": "🥭",
+     "heading": "Mango",
+     "body": "A sweet tropical fruit."
+    }
+   ]
+  },
+  {
+   "id": "pack5-card-4",
+   "mode": "infographic",
+   "layout": "vocab",
+   "title": "Weather words",
+   "items": [
+    {
+     "emoji": "☀️",
+     "heading": "Sunny",
+     "body": "Bright, with a clear sky."
+    },
+    {
+     "emoji": "🌧️",
+     "heading": "Rainy",
+     "body": "Water falling from clouds."
+    },
+    {
+     "emoji": "⛈️",
+     "heading": "Stormy",
+     "body": "Thunder, lightning and strong wind."
+    },
+    {
+     "emoji": "❄️",
+     "heading": "Snowy",
+     "body": "Frozen flakes falling."
+    }
+   ]
+  }
+ ]
+}

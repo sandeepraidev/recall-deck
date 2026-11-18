@@ -1,0 +1,44 @@
+{
+ "id": "deck-81",
+ "categoryId": "cat-76",
+ "title": "Keynote: The Attention Economy",
+ "sub": "A 6-minute conference talk.",
+ "cards": [
+  {
+   "id": "card-77",
+   "mode": "speech",
+   "section": "Opening",
+   "time": "0:15",
+   "cue": "Hook — grab the room in 15 seconds",
+   "line": "Raise your hand if you have checked your phone in the last five minutes. Now keep it up if it was in the last thirty seconds.",
+   "note": "Pause. Scan the room. Let the hands drop on their own."
+  },
+  {
+   "id": "card-78",
+   "mode": "speech",
+   "section": "Problem",
+   "time": "1:10",
+   "cue": "Name the stakes — why should they care?",
+   "line": "We are not short on information. We are short on attention — and it is the one resource we can never manufacture more of.",
+   "note": "Slow down. Land “never” with a beat of silence."
+  },
+  {
+   "id": "card-79",
+   "mode": "speech",
+   "section": "Solution",
+   "time": "3:30",
+   "cue": "The one idea they must remember",
+   "line": "Protect attention like a budget: decide what it is worth before the notifications decide for you.",
+   "note": "This is the quotable line. Say it, then repeat it."
+  },
+  {
+   "id": "card-80",
+   "mode": "speech",
+   "section": "Close",
+   "time": "5:40",
+   "cue": "Call to action — what do they do Monday?",
+   "line": "Tonight, turn off one notification. Just one. Tomorrow you will feel the quiet, and you will want more of it.",
+   "note": "Warm tone. End on eye contact, not the slide."
+  }
+ ]
+}

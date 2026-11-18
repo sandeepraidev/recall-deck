@@ -1,0 +1,44 @@
+{
+ "id": "deck-100",
+ "categoryId": "cat-95",
+ "title": "Everyday Requests",
+ "sub": "Common asks — declines, follow-ups, intros.",
+ "cards": [
+  {
+   "id": "card-96",
+   "mode": "email",
+   "purpose": "Decline a meeting politely",
+   "context": "You cannot attend but want to stay in the loop.",
+   "subject": "Re: Thursday sync — can’t make it",
+   "body": "Hi Sam,\n\nThanks for the invite. I won’t be able to join Thursday’s sync, but I don’t want to hold things up.\n\nCould you share the notes afterward? I’ll follow up on anything that needs my input.\n\nBest,\nAlex",
+   "tip": "Decline, offer an alternative, keep it short."
+  },
+  {
+   "id": "card-97",
+   "mode": "email",
+   "purpose": "Follow up without nagging",
+   "context": "It has been a week with no reply.",
+   "subject": "Quick nudge: proposal feedback",
+   "body": "Hi Jordan,\n\nJust floating this back to the top of your inbox — no rush, I know things are busy.\n\nIf it helps, I’m happy to jump on a 10-minute call instead of trading emails.\n\nThanks,\nAlex",
+   "tip": "Assume good intent. Give an easy out."
+  },
+  {
+   "id": "card-98",
+   "mode": "email",
+   "purpose": "Ask for a deadline extension",
+   "context": "You need two more days to do it well.",
+   "subject": "Request: 2-day extension on the report",
+   "body": "Hi Priya,\n\nThe report is coming together well, but I’d like two more days to get the analysis right rather than rush it.\n\nWould Friday instead of Wednesday work? I can share a draft in the meantime.\n\nBest,\nAlex",
+   "tip": "State the ask, the reason, and a concrete new date."
+  },
+  {
+   "id": "card-99",
+   "mode": "email",
+   "purpose": "Introduce two contacts",
+   "context": "A warm intro between colleagues.",
+   "subject": "Intro: Maya <> Chris",
+   "body": "Hi both,\n\nMaya, meet Chris — he leads design at Northwind and knows onboarding cold.\nChris, Maya is scaling our activation work and had great questions for you.\n\nI’ll step back and let you two take it from here.\n\nCheers,\nAlex",
+   "tip": "One line on each person, then get out of the way."
+  }
+ ]
+}

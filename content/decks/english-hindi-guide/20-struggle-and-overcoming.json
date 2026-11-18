@@ -1,0 +1,502 @@
+{
+ "id": "pack3-deck-20",
+ "categoryId": "pack3-cat-1",
+ "title": "20. Struggle & Overcoming",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-952",
+   "mode": "vocab",
+   "word": "Hardship",
+   "pron": "",
+   "def": "Severe suffering or difficulty.\nहिंदी: कठिनाई / कष्ट",
+   "examples": [
+    "Hardship tests resilience.",
+    "Hardship must be endured.",
+    "Hardship builds strength.",
+    "Hardship teaches patience."
+   ]
+  },
+  {
+   "id": "pack3-card-953",
+   "mode": "vocab",
+   "word": "Adversity",
+   "pron": "",
+   "def": "A difficult or unlucky situation.\nहिंदी: विपत्ति",
+   "examples": [
+    "Adversity reveals true character.",
+    "Adversity must be overcome.",
+    "Adversity builds resilience.",
+    "Adversity teaches wisdom."
+   ]
+  },
+  {
+   "id": "pack3-card-954",
+   "mode": "vocab",
+   "word": "Difficulty",
+   "pron": "",
+   "def": "The state of being hard to do.\nहिंदी: मुश्किल",
+   "examples": [
+    "Difficulty must be faced.",
+    "Difficulty builds patience.",
+    "Difficulty tests commitment.",
+    "Difficulty teaches lessons."
+   ]
+  },
+  {
+   "id": "pack3-card-957",
+   "mode": "vocab",
+   "word": "Barrier",
+   "pron": "",
+   "def": "Something preventing progress.\nहिंदी: अवरोध",
+   "examples": [
+    "Barriers must be broken.",
+    "Barriers limit opportunity.",
+    "Barriers build determination.",
+    "Barriers must be challenged."
+   ]
+  },
+  {
+   "id": "pack3-card-958",
+   "mode": "vocab",
+   "word": "Setback",
+   "pron": "",
+   "def": "A reversal in progress.\nहिंदी: झटका / असफलता का दौर",
+   "examples": [
+    "Setbacks are temporary.",
+    "Setbacks must be accepted.",
+    "Setbacks build resilience.",
+    "Setbacks teach lessons."
+   ]
+  },
+  {
+   "id": "pack3-card-959",
+   "mode": "vocab",
+   "word": "Failure",
+   "pron": "",
+   "def": "Lack of success.\nहिंदी: असफलता",
+   "examples": [
+    "Failure teaches success.",
+    "Failure must be accepted.",
+    "Failure builds resilience.",
+    "Failure is not final."
+   ]
+  },
+  {
+   "id": "pack3-card-962",
+   "mode": "vocab",
+   "word": "Pain",
+   "pron": "",
+   "def": "Physical or emotional suffering.\nहिंदी: पीड़ा / दर्द",
+   "examples": [
+    "Pain teaches endurance.",
+    "Pain must be faced.",
+    "Pain builds strength.",
+    "Pain strengthens empathy."
+   ]
+  },
+  {
+   "id": "pack3-card-963",
+   "mode": "vocab",
+   "word": "Suffering",
+   "pron": "",
+   "def": "The state of undergoing pain.\nहिंदी: दुख / कष्ट सहना",
+   "examples": [
+    "Suffering tests faith.",
+    "Suffering builds compassion.",
+    "Suffering must be endured.",
+    "Suffering teaches patience."
+   ]
+  },
+  {
+   "id": "pack3-card-964",
+   "mode": "vocab",
+   "word": "Self-Abnegation",
+   "pron": "",
+   "def": "The denial, setting aside, or sacrifice of one's own personal interests and desires for others.\nहिंदी: आत्म-त्याग",
+   "examples": [
+    "Mother Teresa's life of service was a supreme testament to humble self-abnegation.",
+    "Soldiers on the frontier demonstrate profound self-abnegation to guard national borders.",
+    "Parents often practice quiet self-abnegation so their children can afford higher education.",
+    "Spiritual traditions revere self-abnegation as a path to transcending the ego."
+   ]
+  },
+  {
+   "id": "pack3-card-966",
+   "mode": "vocab",
+   "word": "Steadfastness",
+   "pron": "",
+   "def": "The quality of being resolute, unwavering, firmly loyal, and constant in duty or belief.\nहिंदी: अडिगता",
+   "examples": [
+    "His steadfastness in defending democratic values earned him global international respect.",
+    "Despite ferocious opposition, the reformist leader maintained unwavering steadfastness.",
+    "The lighthouse stood with granite steadfastness against the pounding ocean waves.",
+    "True friendship is proven by steadfastness during another's darkest hours of sorrow."
+   ]
+  },
+  {
+   "id": "pack3-card-967",
+   "mode": "vocab",
+   "word": "Persistence",
+   "pron": "",
+   "def": "Continuing firmly despite opposition.\nहिंदी: लगातार प्रयास",
+   "examples": [
+    "Persistence achieves goals.",
+    "Persistence must be balanced.",
+    "Persistence overcomes resistance.",
+    "Persistence builds success."
+   ]
+  },
+  {
+   "id": "pack3-card-968",
+   "mode": "vocab",
+   "word": "Unyielding Spirit",
+   "pron": "",
+   "def": "An indomitable, tenacious inner strength that refuses to submit, give up, or surrender to defeat.\nहिंदी: अदम्य भावना",
+   "examples": [
+    "The paralyzed athlete triumphed at the Paralympics through sheer unyielding spirit.",
+    "History celebrates the unyielding spirit of freedom fighters who defied colonial empires.",
+    "An unyielding spirit enables entrepreneurs to rebuild stronger after bankruptcy.",
+    "Despite devastating natural disasters, the islanders' unyielding spirit shone brightly."
+   ]
+  },
+  {
+   "id": "pack3-card-969",
+   "mode": "vocab",
+   "word": "Grit",
+   "pron": "",
+   "def": "Courage and resolve.\nहिंदी: जुझारूपन / हौसला",
+   "examples": [
+    "Grit drives achievement.",
+    "Grit must be cultivated.",
+    "Grit overcomes obstacles.",
+    "Grit builds success."
+   ]
+  },
+  {
+   "id": "pack3-card-970",
+   "mode": "vocab",
+   "word": "Iron Resolve",
+   "pron": "",
+   "def": "A firm, unbreakable determination to achieve an objective regardless of obstacles.\nहिंदी: लोहे जैसा संकल्प",
+   "examples": [
+    "The prime minister tackled the economic crisis with iron resolve and decisive leadership.",
+    "Quitting a lifelong addiction requires immense personal support and an iron resolve.",
+    "Mountaineers need an iron resolve to push through sub-zero blizzard conditions.",
+    "Her iron resolve to finish law school while working two jobs yielded top academic honors."
+   ]
+  },
+  {
+   "id": "pack3-card-971",
+   "mode": "vocab",
+   "word": "Self-Mastery",
+   "pron": "",
+   "def": "The power to control one's own impulses, emotions, desires, and actions through conscious will.\nहिंदी: आत्म-नियंत्रण में महारत",
+   "examples": [
+    "Ancient philosophers taught that self-mastery is the highest and most noble victory.",
+    "Elite athletes achieve peak performance through years of disciplined self-mastery.",
+    "Self-mastery protects individuals from destructive addictions and impulsive outbursts.",
+    "Learning to respond thoughtfully rather than react angrily is a hallmark of self-mastery."
+   ]
+  },
+  {
+   "id": "pack3-card-972",
+   "mode": "vocab",
+   "word": "Valour",
+   "pron": "",
+   "def": "Great courage, boldness, and heroism in the face of immense danger, especially in battle.\nहिंदी: शौर्य",
+   "examples": [
+    "The soldier was awarded the highest military decoration for conspicuous valour in combat.",
+    "Tales of historical valour inspire generations with stories of selfless patriotism.",
+    "Firefighters displayed astonishing personal valour entering the collapsing inferno.",
+    "True valour is conquering inner terror to protect innocent lives under threat."
+   ]
+  },
+  {
+   "id": "pack3-card-973",
+   "mode": "vocab",
+   "word": "Dauntlessness",
+   "pron": "",
+   "def": "Fearlessness, bold intrepidity, and determination that cannot be intimidated.\nहिंदी: निडरता",
+   "examples": [
+    "Her dauntlessness in investigating the criminal cartel exposed corruption at the highest level.",
+    "Explorers charted unknown polar waters with awe-inspiring dauntlessness.",
+    "Dauntlessness in the courtroom allowed the young prosecutor to challenge mafia bosses.",
+    "Facing tyranny with peaceful dauntlessness has toppled oppressive regimes throughout history."
+   ]
+  },
+  {
+   "id": "pack3-card-974",
+   "mode": "vocab",
+   "word": "Valor",
+   "pron": "",
+   "def": "Great courage in danger.\nहिंदी: शौर्य / वीरता",
+   "examples": [
+    "Valor inspires nations.",
+    "Valor must be honored.",
+    "Valor reflects sacrifice.",
+    "Valor strengthens resolve."
+   ]
+  },
+  {
+   "id": "pack3-card-975",
+   "mode": "vocab",
+   "word": "Heroism",
+   "pron": "",
+   "def": "Great bravery and sacrifice.\nहिंदी: वीरता",
+   "examples": [
+    "Heroism inspires others.",
+    "Heroism must be remembered.",
+    "Heroism reflects courage.",
+    "Heroism strengthens society."
+   ]
+  },
+  {
+   "id": "pack3-card-976",
+   "mode": "vocab",
+   "word": "Resistance",
+   "pron": "",
+   "def": "The refusal to accept something.\nहिंदी: प्रतिरोध",
+   "examples": [
+    "Resistance challenges injustice.",
+    "Resistance must be peaceful.",
+    "Resistance reflects courage.",
+    "Resistance strengthens resolve."
+   ]
+  },
+  {
+   "id": "pack3-card-977",
+   "mode": "vocab",
+   "word": "Defiance",
+   "pron": "",
+   "def": "Bold, open resistance and refusal to submit to an unjust authority or insurmountable odds.\nहिंदी: अवज्ञा / खुली चुनौती",
+   "examples": [
+    "The lone student stood in heroic defiance against the row of armored tanks.",
+    "Striking miners sang anthems of defiance on the picket lines through freezing winter days.",
+    "Her fiery speech was a bold act of defiance against the corrupt municipal council.",
+    "The community raised their national flag in open defiance of the occupying forces."
+   ]
+  },
+  {
+   "id": "pack3-card-978",
+   "mode": "vocab",
+   "word": "Revolution",
+   "pron": "",
+   "def": "A fundamental change in society.\nहिंदी: क्रांति",
+   "examples": [
+    "Revolution transforms nations.",
+    "Revolution must be just.",
+    "Revolution reflects determination.",
+    "Revolution shapes history."
+   ]
+  },
+  {
+   "id": "pack3-card-980",
+   "mode": "vocab",
+   "word": "Agitation",
+   "pron": "",
+   "def": "Public campaigning for change.\nहिंदी: आंदोलन / उग्र विरोध",
+   "examples": [
+    "Agitation drives reform.",
+    "Agitation must be peaceful.",
+    "Agitation reflects grievances.",
+    "Agitation shapes politics."
+   ]
+  },
+  {
+   "id": "pack3-card-981",
+   "mode": "vocab",
+   "word": "Movement",
+   "pron": "",
+   "def": "A group working for change.\nहिंदी: आंदोलन / अभियान",
+   "examples": [
+    "Movements drive social change.",
+    "Movements must be organized.",
+    "Movements reflect solidarity.",
+    "Movements inspire hope."
+   ]
+  },
+  {
+   "id": "pack3-card-982",
+   "mode": "vocab",
+   "word": "Indomitability",
+   "pron": "",
+   "def": "The quality of having an invincible courage and resolve that cannot be subdued or conquered.\nहिंदी: अजेय भावना",
+   "examples": [
+    "The heroic resistance fighter's indomitability became a legend passed down through generations.",
+    "Facing relentless legal intimidation, the investigative journalist displayed total indomitability.",
+    "Physical handicaps could not diminish the indomitability of the record-breaking mountaineer.",
+    "Indomitability of spirit allows ordinary citizens to stand tall against authoritarian regimes."
+   ]
+  },
+  {
+   "id": "pack3-card-983",
+   "mode": "vocab",
+   "word": "Righteous Struggle",
+   "pron": "",
+   "def": "A moral, principled campaign fought against oppression, cruelty, or injustice.\nहिंदी: धर्मयुद्ध / न्यायसंगत संघर्ष",
+   "examples": [
+    "Freedom fighters dedicated their entire youth to the righteous struggle for independence.",
+    "History validates those who sacrifice personal comfort to lead a righteous struggle.",
+    "A righteous struggle against racial segregation mobilized millions of ordinary citizens.",
+    "Patience and unwavering moral conviction sustain activists through a long righteous struggle."
+   ]
+  },
+  {
+   "id": "pack3-card-986",
+   "mode": "vocab",
+   "word": "Transformation",
+   "pron": "",
+   "def": "A complete change.\nहिंदी: रूपांतरण / बदलाव",
+   "examples": [
+    "Transformation begins within.",
+    "Transformation must be embraced.",
+    "Transformation drives growth.",
+    "Transformation shapes destiny."
+   ]
+  },
+  {
+   "id": "pack3-card-989",
+   "mode": "vocab",
+   "word": "Evolution",
+   "pron": "",
+   "def": "Gradual development.\nहिंदी: विकासक्रम",
+   "examples": [
+    "Evolution takes time.",
+    "Evolution reflects adaptation.",
+    "Evolution drives progress.",
+    "Evolution shapes life."
+   ]
+  },
+  {
+   "id": "pack3-card-990",
+   "mode": "vocab",
+   "word": "Struggle for Justice",
+   "pron": "",
+   "def": "Effort to achieve fairness.\nहिंदी: न्याय के लिए संघर्ष",
+   "examples": [
+    "Struggle for Justice inspires reform.",
+    "Struggle for Justice must be peaceful.",
+    "Struggle for Justice reflects courage.",
+    "Struggle for Justice shapes history."
+   ]
+  },
+  {
+   "id": "pack3-card-991",
+   "mode": "vocab",
+   "word": "Struggle for Freedom",
+   "pron": "",
+   "def": "Effort to gain liberty.\nहिंदी: स्वतंत्रता के लिए संघर्ष",
+   "examples": [
+    "Struggle for Freedom inspires nations.",
+    "Struggle for Freedom must be remembered.",
+    "Struggle for Freedom reflects sacrifice.",
+    "Struggle for Freedom shapes destiny."
+   ]
+  },
+  {
+   "id": "pack3-card-992",
+   "mode": "vocab",
+   "word": "Struggle for Equality",
+   "pron": "",
+   "def": "Effort to achieve equal rights.\nहिंदी: समानता के लिए संघर्ष",
+   "examples": [
+    "Struggle for Equality drives reform.",
+    "Struggle for Equality must continue.",
+    "Struggle for Equality reflects justice.",
+    "Struggle for Equality shapes society."
+   ]
+  },
+  {
+   "id": "pack3-card-993",
+   "mode": "vocab",
+   "word": "Struggle for Survival",
+   "pron": "",
+   "def": "Effort to stay alive.\nहिंदी: अस्तित्व के लिए संघर्ष",
+   "examples": [
+    "Struggle for Survival tests resolve.",
+    "Struggle for Survival must be respected.",
+    "Struggle for Survival reflects instinct.",
+    "Struggle for Survival builds resilience."
+   ]
+  },
+  {
+   "id": "pack3-card-994",
+   "mode": "vocab",
+   "word": "Struggle for Recognition",
+   "pron": "",
+   "def": "Effort to be acknowledged.\nहिंदी: पहचान/मान्यता के लिए संघर्ष",
+   "examples": [
+    "Struggle for Recognition drives effort.",
+    "Struggle for Recognition must be respected.",
+    "Struggle for Recognition reflects dignity.",
+    "Struggle for Recognition shapes identity."
+   ]
+  },
+  {
+   "id": "pack3-card-995",
+   "mode": "vocab",
+   "word": "Struggle for Identity",
+   "pron": "",
+   "def": "Effort to define oneself.\nहिंदी: अस्मिता के लिए संघर्ष",
+   "examples": [
+    "Struggle for Identity shapes growth.",
+    "Struggle for Identity must be respected.",
+    "Struggle for Identity reflects courage.",
+    "Struggle for Identity builds character."
+   ]
+  },
+  {
+   "id": "pack3-card-996",
+   "mode": "vocab",
+   "word": "Inner Struggle",
+   "pron": "",
+   "def": "Conflict within oneself.\nहिंदी: आंतरिक संघर्ष",
+   "examples": [
+    "Inner Struggle builds character.",
+    "Inner Struggle must be faced.",
+    "Inner Struggle reflects growth.",
+    "Inner Struggle strengthens resolve."
+   ]
+  },
+  {
+   "id": "pack3-card-997",
+   "mode": "vocab",
+   "word": "Overcoming",
+   "pron": "",
+   "def": "Defeating a difficulty.\nहिंदी: उबर जाना / पार पाना",
+   "examples": [
+    "Overcoming obstacles builds confidence.",
+    "Overcoming must be celebrated.",
+    "Overcoming reflects resilience.",
+    "Overcoming inspires others."
+   ]
+  },
+  {
+   "id": "pack3-card-999",
+   "mode": "vocab",
+   "word": "Victory",
+   "pron": "",
+   "def": "Success in a contest.\nहिंदी: जीत",
+   "examples": [
+    "Victory rewards effort.",
+    "Victory must be humble.",
+    "Victory reflects perseverance.",
+    "Victory inspires others."
+   ]
+  },
+  {
+   "id": "pack3-card-1000",
+   "mode": "vocab",
+   "word": "Redemption",
+   "pron": "",
+   "def": "Being saved from wrongdoing.\nहिंदी: मुक्ति / उद्धार / भूल-सुधार",
+   "examples": [
+    "Redemption follows repentance.",
+    "Redemption must be earned.",
+    "Redemption reflects growth.",
+    "Redemption inspires hope."
+   ]
+  }
+ ]
+}

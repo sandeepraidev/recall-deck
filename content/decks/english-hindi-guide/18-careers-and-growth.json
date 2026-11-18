@@ -1,0 +1,502 @@
+{
+ "id": "pack3-deck-18",
+ "categoryId": "pack3-cat-1",
+ "title": "18. Careers & Growth",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-852",
+   "mode": "vocab",
+   "word": "Profession",
+   "pron": "",
+   "def": "A paid occupation requiring training.\nहिंदी: पेशा",
+   "examples": [
+    "Profession demands expertise.",
+    "Profession must be respected.",
+    "Profession reflects commitment.",
+    "Profession builds identity."
+   ]
+  },
+  {
+   "id": "pack3-card-853",
+   "mode": "vocab",
+   "word": "Vocation",
+   "pron": "",
+   "def": "A strong calling to a type of work.\nहिंदी: व्यवसाय-बुलावा / अंतर्मन की पुकार वाला काम",
+   "examples": [
+    "Vocation reflects passion.",
+    "Vocation brings fulfillment.",
+    "Vocation may differ from job.",
+    "Vocation guides purpose."
+   ]
+  },
+  {
+   "id": "pack3-card-854",
+   "mode": "vocab",
+   "word": "Occupation",
+   "pron": "",
+   "def": "A person's regular work.\nहिंदी: कामकाज / व्यवसाय",
+   "examples": [
+    "Occupation provides livelihood.",
+    "Occupation shapes daily life.",
+    "Occupation must be chosen wisely.",
+    "Occupation reflects skills."
+   ]
+  },
+  {
+   "id": "pack3-card-855",
+   "mode": "vocab",
+   "word": "Employment",
+   "pron": "",
+   "def": "The state of having paid work.\nहिंदी: रोज़गार",
+   "examples": [
+    "Employment ensures dignity.",
+    "Employment must be expanded.",
+    "Employment drives growth.",
+    "Employment reduces poverty."
+   ]
+  },
+  {
+   "id": "pack3-card-856",
+   "mode": "vocab",
+   "word": "Employability",
+   "pron": "",
+   "def": "The ability to get and keep a job.\nहिंदी: रोज़गार-योग्यता",
+   "examples": [
+    "Employability depends on skills.",
+    "Employability must be built.",
+    "Employability grows with learning.",
+    "Employability reflects adaptability."
+   ]
+  },
+  {
+   "id": "pack3-card-858",
+   "mode": "vocab",
+   "word": "Skill Enhancement",
+   "pron": "",
+   "def": "The ongoing process of developing and upgrading professional abilities to remain competitive.\nहिंदी: कौशल संवर्धन",
+   "examples": [
+    "The ministry sponsored workshops for the skill enhancement of rural textile artisans.",
+    "Online learning portals provide affordable avenues for career skill enhancement.",
+    "Employers invest heavily in employee skill enhancement to keep pace with technological change.",
+    "Continuous skill enhancement is essential for navigating modern automated industries."
+   ]
+  },
+  {
+   "id": "pack3-card-859",
+   "mode": "vocab",
+   "word": "Upskilling",
+   "pron": "",
+   "def": "Learning new skills for advancement.\nहिंदी: कौशल उन्नयन",
+   "examples": [
+    "Upskilling keeps careers relevant.",
+    "Upskilling must be continuous.",
+    "Upskilling boosts confidence.",
+    "Upskilling expands opportunities."
+   ]
+  },
+  {
+   "id": "pack3-card-860",
+   "mode": "vocab",
+   "word": "Reskilling",
+   "pron": "",
+   "def": "Learning new skills for a different job.\nहिंदी: नया कौशल सीखना",
+   "examples": [
+    "Reskilling helps career shifts.",
+    "Reskilling must be encouraged.",
+    "Reskilling addresses automation.",
+    "Reskilling builds resilience."
+   ]
+  },
+  {
+   "id": "pack3-card-863",
+   "mode": "vocab",
+   "word": "Mastery",
+   "pron": "",
+   "def": "Complete command of a skill.\nहिंदी: महारत",
+   "examples": [
+    "Mastery requires practice.",
+    "Mastery builds confidence.",
+    "Mastery reflects dedication.",
+    "Mastery inspires others."
+   ]
+  },
+  {
+   "id": "pack3-card-864",
+   "mode": "vocab",
+   "word": "Competency",
+   "pron": "",
+   "def": "The proven ability and knowledge required to perform a specific professional role effectively.\nहिंदी: दक्षता",
+   "examples": [
+    "The licensing exam evaluates a surgeon's clinical competency under simulated emergencies.",
+    "Human resource departments use competency matrices to assess candidates objectively.",
+    "Developing linguistic competency in multiple languages enhances global career prospects.",
+    "Demonstrated competency in financial forecasting opened doors to executive leadership."
+   ]
+  },
+  {
+   "id": "pack3-card-865",
+   "mode": "vocab",
+   "word": "Professional Acumen",
+   "pron": "",
+   "def": "Sharpness and keen insight in making sound business and workplace judgments quickly.\nहिंदी: पेशेवर कुशाग्रता",
+   "examples": [
+    "Her sharp professional acumen helped the startup avoid a catastrophic supplier partnership.",
+    "Senior executives are prized for their strategic foresight and refined professional acumen.",
+    "Mentorship from experienced industry leaders accelerates a young manager's professional acumen.",
+    "Navigating complex contract negotiations requires patience, diplomacy, and professional acumen."
+   ]
+  },
+  {
+   "id": "pack3-card-866",
+   "mode": "vocab",
+   "word": "Interest",
+   "pron": "",
+   "def": "Curiosity or concern in something.\nहिंदी: रुचि",
+   "examples": [
+    "Interest drives learning.",
+    "Interest must be explored.",
+    "Interest shapes careers.",
+    "Interest builds passion."
+   ]
+  },
+  {
+   "id": "pack3-card-867",
+   "mode": "vocab",
+   "word": "Passion",
+   "pron": "",
+   "def": "Strong enthusiasm for something.\nहिंदी: जुनून",
+   "examples": [
+    "Passion fuels excellence.",
+    "Passion must be pursued.",
+    "Passion drives perseverance.",
+    "Passion brings fulfillment."
+   ]
+  },
+  {
+   "id": "pack3-card-868",
+   "mode": "vocab",
+   "word": "Purpose",
+   "pron": "",
+   "def": "A sense of meaning and direction.\nहिंदी: उद्देश्य",
+   "examples": [
+    "Purpose guides careers.",
+    "Purpose brings satisfaction.",
+    "Purpose must be discovered.",
+    "Purpose drives commitment."
+   ]
+  },
+  {
+   "id": "pack3-card-870",
+   "mode": "vocab",
+   "word": "Goal Setting",
+   "pron": "",
+   "def": "The process of deciding aims.\nहिंदी: लक्ष्य निर्धारण",
+   "examples": [
+    "Goal Setting improves focus.",
+    "Goal Setting must be realistic.",
+    "Goal Setting builds motivation.",
+    "Goal Setting guides action."
+   ]
+  },
+  {
+   "id": "pack3-card-871",
+   "mode": "vocab",
+   "word": "Planning",
+   "pron": "",
+   "def": "Deciding steps to achieve a goal.\nहिंदी: योजना बनाना",
+   "examples": [
+    "Planning prevents failure.",
+    "Planning must be flexible.",
+    "Planning saves time.",
+    "Planning builds confidence."
+   ]
+  },
+  {
+   "id": "pack3-card-873",
+   "mode": "vocab",
+   "word": "Vision",
+   "pron": "",
+   "def": "A clear idea of the future.\nहिंदी: दृष्टि / दूरदर्शिता",
+   "examples": [
+    "Vision inspires action.",
+    "Vision must be shared.",
+    "Vision guides decisions.",
+    "Vision builds commitment."
+   ]
+  },
+  {
+   "id": "pack3-card-874",
+   "mode": "vocab",
+   "word": "Mission",
+   "pron": "",
+   "def": "A purpose guiding action.\nहिंदी: मिशन / ध्येय",
+   "examples": [
+    "Mission gives focus.",
+    "Mission must be clear.",
+    "Mission drives effort.",
+    "Mission builds identity."
+   ]
+  },
+  {
+   "id": "pack3-card-875",
+   "mode": "vocab",
+   "word": "Intrinsic Motivation",
+   "pron": "",
+   "def": "The internal drive to perform an activity for its own inherent satisfaction rather than external reward.\nहिंदी: आंतरिक प्रेरणा",
+   "examples": [
+    "Artists and scientists are frequently propelled by intense intrinsic motivation.",
+    "Students learn more deeply when guided by intrinsic motivation rather than test scores.",
+    "Workplace autonomy and creative freedom nurture lasting intrinsic motivation in engineers.",
+    "Intrinsic motivation sustains dedication long after the initial novelty of a job wears off."
+   ]
+  },
+  {
+   "id": "pack3-card-876",
+   "mode": "vocab",
+   "word": "Diligence",
+   "pron": "",
+   "def": "Careful, persistent, and hardworking effort applied steadily to a task or career.\nहिंदी: परिश्रम",
+   "examples": [
+    "His tireless diligence in reviewing balance sheets prevented a major accounting scandal.",
+    "Success in competitive examinations rewards steady diligence rather than sudden cramming.",
+    "The craftsman's extraordinary diligence was visible in every intricate detail of the carving.",
+    "Managers commended the team's diligence in meeting the demanding launch deadline."
+   ]
+  },
+  {
+   "id": "pack3-card-877",
+   "mode": "vocab",
+   "word": "Tenacity",
+   "pron": "",
+   "def": "The quality of holding firmly to a purpose with unwavering resolve and perseverance.\nहिंदी: अडिग दृढ़ता",
+   "examples": [
+    "The entrepreneur's tenacity kept the company afloat during three years of dry funding.",
+    "Legal investigators showed immense tenacity in pursuing the cross-border corruption case.",
+    "Overcoming initial career rejections requires thick skin and unshakeable tenacity.",
+    "Her tenacity in advocating for disability accommodations transformed the entire campus."
+   ]
+  },
+  {
+   "id": "pack3-card-878",
+   "mode": "vocab",
+   "word": "Versatility",
+   "pron": "",
+   "def": "The ability to adapt to many different functions, activities, or roles with competence.\nहिंदी: बहुमुखी प्रतिभा",
+   "examples": [
+    "Her impressive professional versatility allowed her to transition effortlessly from engineering to marketing.",
+    "Modern employers place a premium on employee versatility in rapidly shifting tech environments.",
+    "Versatility in software development requires familiarity with multiple programming frameworks.",
+    "Cross-functional training programs foster versatility and agile teamwork across corporate departments."
+   ]
+  },
+  {
+   "id": "pack3-card-879",
+   "mode": "vocab",
+   "word": "Adaptability",
+   "pron": "",
+   "def": "Ability to adjust to change.\nहिंदी: अनुकूलनशीलता",
+   "examples": [
+    "Adaptability ensures survival.",
+    "Adaptability must be developed.",
+    "Adaptability drives growth.",
+    "Adaptability reflects maturity."
+   ]
+  },
+  {
+   "id": "pack3-card-880",
+   "mode": "vocab",
+   "word": "Flexibility",
+   "pron": "",
+   "def": "Willingness to change plans.\nहिंदी: लचीलापन",
+   "examples": [
+    "Flexibility supports balance.",
+    "Flexibility must be practiced.",
+    "Flexibility reduces stress.",
+    "Flexibility builds opportunity."
+   ]
+  },
+  {
+   "id": "pack3-card-881",
+   "mode": "vocab",
+   "word": "Time Management",
+   "pron": "",
+   "def": "Using time effectively.\nहिंदी: समय प्रबंधन",
+   "examples": [
+    "Time Management boosts productivity.",
+    "Time Management must be learned.",
+    "Time Management reduces stress.",
+    "Time Management builds success."
+   ]
+  },
+  {
+   "id": "pack3-card-884",
+   "mode": "vocab",
+   "word": "Effectiveness",
+   "pron": "",
+   "def": "Achieving the desired result.\nहिंदी: प्रभावशीलता",
+   "examples": [
+    "Effectiveness matters more than speed.",
+    "Effectiveness must be measured.",
+    "Effectiveness reflects quality.",
+    "Effectiveness builds trust."
+   ]
+  },
+  {
+   "id": "pack3-card-885",
+   "mode": "vocab",
+   "word": "Focus",
+   "pron": "",
+   "def": "Concentrated attention.\nहिंदी: एकाग्रता",
+   "examples": [
+    "Focus improves performance.",
+    "Focus must be protected.",
+    "Focus builds mastery.",
+    "Focus reduces errors."
+   ]
+  },
+  {
+   "id": "pack3-card-887",
+   "mode": "vocab",
+   "word": "Mentorship",
+   "pron": "",
+   "def": "Guidance from an experienced person.\nहिंदी: मार्गदर्शन",
+   "examples": [
+    "Mentorship accelerates growth.",
+    "Mentorship must be sought.",
+    "Mentorship builds confidence.",
+    "Mentorship shares wisdom."
+   ]
+  },
+  {
+   "id": "pack3-card-889",
+   "mode": "vocab",
+   "word": "Continuous Improvement",
+   "pron": "",
+   "def": "An ongoing, disciplined effort to enhance products, services, processes, and personal skills.\nहिंदी: निरंतर सुधार",
+   "examples": [
+    "Japanese manufacturing revolutionized the world through the philosophy of continuous improvement.",
+    "Adopting a mindset of continuous improvement turns everyday mistakes into valuable lessons.",
+    "Weekly retrospective meetings allow software teams to implement continuous improvement.",
+    "Personal continuous improvement requires honest self-reflection and openness to feedback."
+   ]
+  },
+  {
+   "id": "pack3-card-890",
+   "mode": "vocab",
+   "word": "Continuous Learning",
+   "pron": "",
+   "def": "Ongoing pursuit of knowledge.\nहिंदी: निरंतर सीखना",
+   "examples": [
+    "Continuous Learning keeps careers relevant.",
+    "Continuous Learning must be embraced.",
+    "Continuous Learning builds resilience.",
+    "Continuous Learning drives innovation."
+   ]
+  },
+  {
+   "id": "pack3-card-891",
+   "mode": "vocab",
+   "word": "Growth Mindset",
+   "pron": "",
+   "def": "Belief that abilities can improve.\nहिंदी: विकासशील सोच",
+   "examples": [
+    "Growth Mindset embraces challenges.",
+    "Growth Mindset must be cultivated.",
+    "Growth Mindset builds resilience.",
+    "Growth Mindset drives learning."
+   ]
+  },
+  {
+   "id": "pack3-card-892",
+   "mode": "vocab",
+   "word": "Fixed Mindset",
+   "pron": "",
+   "def": "Belief that abilities are static.\nहिंदी: जड़ सोच",
+   "examples": [
+    "Fixed Mindset limits growth.",
+    "Fixed Mindset fears failure.",
+    "Fixed Mindset must be overcome.",
+    "Fixed Mindset resists learning."
+   ]
+  },
+  {
+   "id": "pack3-card-894",
+   "mode": "vocab",
+   "word": "Professionalism",
+   "pron": "",
+   "def": "Conduct befitting a profession.\nहिंदी: पेशेवर आचरण",
+   "examples": [
+    "Professionalism builds trust.",
+    "Professionalism must be maintained.",
+    "Professionalism reflects respect.",
+    "Professionalism strengthens reputation."
+   ]
+  },
+  {
+   "id": "pack3-card-895",
+   "mode": "vocab",
+   "word": "Work Ethic",
+   "pron": "",
+   "def": "A strong sense of diligence.\nहिंदी: कार्य-नैतिकता",
+   "examples": [
+    "Work Ethic drives success.",
+    "Work Ethic must be built.",
+    "Work Ethic reflects discipline.",
+    "Work Ethic earns respect."
+   ]
+  },
+  {
+   "id": "pack3-card-896",
+   "mode": "vocab",
+   "word": "Career Advancement",
+   "pron": "",
+   "def": "Upward progression and achievement in one's professional life, title, and responsibilities.\nहिंदी: करियर में उन्नति",
+   "examples": [
+    "Acquiring an advanced certification paved the way for her rapid career advancement.",
+    "A supportive mentor provides invaluable guidance for long-term career advancement.",
+    "Networking at industry conferences creates strategic opportunities for career advancement.",
+    "Companies that offer clear career advancement pathways retain their top talent."
+   ]
+  },
+  {
+   "id": "pack3-card-898",
+   "mode": "vocab",
+   "word": "Achievement",
+   "pron": "",
+   "def": "Something accomplished successfully.\nहिंदी: उपलब्धि",
+   "examples": [
+    "Achievement rewards effort.",
+    "Achievement must be celebrated.",
+    "Achievement builds confidence.",
+    "Achievement reflects dedication."
+   ]
+  },
+  {
+   "id": "pack3-card-899",
+   "mode": "vocab",
+   "word": "Success",
+   "pron": "",
+   "def": "The accomplishment of aims.\nहिंदी: सफलता",
+   "examples": [
+    "Success means different things.",
+    "Success requires effort.",
+    "Success must be earned.",
+    "Success builds confidence."
+   ]
+  },
+  {
+   "id": "pack3-card-900",
+   "mode": "vocab",
+   "word": "Fulfillment",
+   "pron": "",
+   "def": "Deep satisfaction from work.\nहिंदी: संतुष्टि / पूर्णता का एहसास",
+   "examples": [
+    "Fulfillment comes from purpose.",
+    "Fulfillment must be pursued.",
+    "Fulfillment reflects balance.",
+    "Fulfillment enriches life."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2179 @@
+{
+ "id": "pack6-deck-4",
+ "categoryId": "pack6-cat-1",
+ "title": "Problem-Solving & Critical Thinking",
+ "sub": "Words for analysing, reasoning, deciding and debugging.",
+ "cards": [
+  {
+   "id": "pack6-card-519",
+   "mode": "vocab",
+   "word": "scrutinise",
+   "pron": "(verb)",
+   "def": "To examine very carefully\nहिंदी: बारीकी से जाँचना",
+   "examples": [
+    "The auditors scrutinised every transaction.",
+    "The bank scrutinised my documents before approving the loan.",
+    "Scrutinise the contract before you sign it.",
+    "Every expense claim is scrutinised by the finance team."
+   ]
+  },
+  {
+   "id": "pack6-card-521",
+   "mode": "vocab",
+   "word": "dissect",
+   "pron": "(verb)",
+   "def": "To analyse something piece by piece\nहिंदी: टुकड़ों में बाँटकर विश्लेषण करना",
+   "examples": [
+    "The team dissected the incident minute by minute.",
+    "The cricket experts dissected every ball of the final over.",
+    "In the review, we dissected why the campaign failed.",
+    "Students dissected the poem line by line."
+   ]
+  },
+  {
+   "id": "pack6-card-522",
+   "mode": "vocab",
+   "word": "deconstruct",
+   "pron": "(verb)",
+   "def": "To break down a complex idea into its parts\nहिंदी: जटिल विचार को घटकों में तोड़ना",
+   "examples": [
+    "Let's deconstruct the requirement into testable pieces.",
+    "The teacher deconstructed the essay to show its structure.",
+    "Let's deconstruct the customer journey step by step.",
+    "He deconstructed the popular myth with simple facts."
+   ]
+  },
+  {
+   "id": "pack6-card-523",
+   "mode": "vocab",
+   "word": "synthesise",
+   "pron": "(verb)",
+   "def": "To combine different ideas into a coherent whole\nहिंदी: विभिन्न विचारों को जोड़कर एक रूप देना",
+   "examples": [
+    "She synthesised feedback from five teams into one proposal.",
+    "The report synthesises data from twenty customer interviews.",
+    "A good manager synthesises different opinions into one plan.",
+    "Can you synthesise these notes into a one-page summary?"
+   ]
+  },
+  {
+   "id": "pack6-card-524",
+   "mode": "vocab",
+   "word": "extrapolate",
+   "pron": "(verb)",
+   "def": "To estimate beyond known data based on trends\nहिंदी: ज्ञात डेटा से आगे का अनुमान लगाना",
+   "examples": [
+    "We extrapolated next year's storage from current growth.",
+    "If sales keep growing like this, we can extrapolate a record year.",
+    "Don't extrapolate too much from one week of data.",
+    "We extrapolated the cost for all offices from one branch."
+   ]
+  },
+  {
+   "id": "pack6-card-525",
+   "mode": "vocab",
+   "word": "infer",
+   "pron": "(verb)",
+   "def": "To conclude from evidence and reasoning\nहिंदी: प्रमाण से निष्कर्ष निकालना",
+   "examples": [
+    "We can infer from the logs that the retry never ran.",
+    "From her smile, I inferred that the interview went well.",
+    "What can we infer from the drop in website visits?",
+    "Readers can infer the ending from the clues."
+   ]
+  },
+  {
+   "id": "pack6-card-526",
+   "mode": "vocab",
+   "word": "deduce",
+   "pron": "(verb)",
+   "def": "To reach a conclusion by logical reasoning\nहिंदी: तर्क से निष्कर्ष निकालना",
+   "examples": [
+    "He deduced the cause from the sequence of errors.",
+    "From the wet umbrella, she deduced it was raining outside.",
+    "We deduced that the email was fake from the wrong spelling.",
+    "The detective deduced who the thief was."
+   ]
+  },
+  {
+   "id": "pack6-card-527",
+   "mode": "vocab",
+   "word": "conclude",
+   "pron": "(verb)",
+   "def": "To arrive at a judgement after consideration\nहिंदी: निष्कर्ष पर पहुँचना",
+   "examples": [
+    "We concluded that the cache was not the culprit.",
+    "The doctor concluded that it was only a mild allergy.",
+    "After the survey, we concluded that customers want lower prices.",
+    "Don't conclude anything until all the data is in."
+   ]
+  },
+  {
+   "id": "pack6-card-528",
+   "mode": "vocab",
+   "word": "surmise",
+   "pron": "(verb)",
+   "def": "To suppose without firm evidence\nहिंदी: बिना ठोस प्रमाण अनुमान लगाना",
+   "examples": [
+    "I surmise the vendor changed their format overnight.",
+    "From his tired face, I surmised he hadn't slept well.",
+    "We can only surmise why the client cancelled.",
+    "She surmised that the meeting was cancelled when nobody came."
+   ]
+  },
+  {
+   "id": "pack6-card-529",
+   "mode": "vocab",
+   "word": "speculate",
+   "pron": "(verb)",
+   "def": "To form a theory without firm evidence\nहिंदी: अटकल लगाना",
+   "examples": [
+    "It's pointless to speculate before we see the logs.",
+    "The media speculated about the actor's next film.",
+    "Don't speculate about the layoffs; wait for the official update.",
+    "Experts speculate that prices will rise next year."
+   ]
+  },
+  {
+   "id": "pack6-card-530",
+   "mode": "vocab",
+   "word": "correlate",
+   "pron": "(verb)",
+   "def": "To show a mutual relationship between things\nहिंदी: आपसी संबंध दिखाना",
+   "examples": [
+    "Errors correlate strongly with the nightly batch.",
+    "Higher income often correlates with better health.",
+    "Do sales correlate with the ad campaign dates?",
+    "Sleep quality correlates with how productive I feel."
+   ]
+  },
+  {
+   "id": "pack6-card-532",
+   "mode": "vocab",
+   "word": "causation",
+   "pron": "(noun)",
+   "def": "The relationship of cause and effect\nहिंदी: कारण-परिणाम संबंध",
+   "examples": [
+    "We need evidence of causation, not just correlation.",
+    "Ice cream sales and drowning both rise in summer, but that isn't causation.",
+    "The study could not prove causation.",
+    "Be careful about claiming causation from a simple chart."
+   ]
+  },
+  {
+   "id": "pack6-card-533",
+   "mode": "vocab",
+   "word": "causal",
+   "pron": "(adjective)",
+   "def": "Relating to cause and effect\nहिंदी: कारणात्मक",
+   "examples": [
+    "There's no causal link between the two incidents.",
+    "Scientists found a causal link between smoking and cancer.",
+    "Is there a causal relationship between training and sales?",
+    "We need a causal explanation, not just a guess."
+   ]
+  },
+  {
+   "id": "pack6-card-534",
+   "mode": "vocab",
+   "word": "contributing factor",
+   "pron": "(noun)",
+   "def": "One of several things that led to a result\nहिंदी: योगदान देने वाला कारक",
+   "examples": [
+    "Time pressure was a contributing factor to the error.",
+    "Heavy rain was a contributing factor in the accident.",
+    "Poor sleep was a contributing factor to my bad exam result.",
+    "Unclear requirements were a contributing factor to the delay."
+   ]
+  },
+  {
+   "id": "pack6-card-536",
+   "mode": "vocab",
+   "word": "underlying",
+   "pron": "(adjective)",
+   "def": "Fundamental but not immediately obvious\nहिंदी: अंतर्निहित",
+   "examples": [
+    "The underlying problem is a lack of ownership.",
+    "Stress was the underlying cause of his headaches.",
+    "We fixed the symptoms, but the underlying issue remains.",
+    "There's an underlying tension between the two departments."
+   ]
+  },
+  {
+   "id": "pack6-card-538",
+   "mode": "vocab",
+   "word": "manifest",
+   "pron": "(verb)",
+   "def": "To show or appear clearly\nहिंदी: प्रकट होना",
+   "examples": [
+    "The bug manifests only under heavy load.",
+    "Stress can manifest as back pain or poor sleep.",
+    "Her talent for music manifested at a young age.",
+    "The problem manifested itself as slow page loads."
+   ]
+  },
+  {
+   "id": "pack6-card-539",
+   "mode": "vocab",
+   "word": "exacerbate",
+   "pron": "(verb)",
+   "def": "To make a problem worse\nहिंदी: समस्या को और बिगाड़ना",
+   "examples": [
+    "Retrying aggressively exacerbated the overload.",
+    "Shouting will only exacerbate the argument.",
+    "The heavy rain exacerbated the traffic jam.",
+    "Skipping meals can exacerbate acidity."
+   ]
+  },
+  {
+   "id": "pack6-card-540",
+   "mode": "vocab",
+   "word": "compound",
+   "pron": "(verb)",
+   "def": "To make a problem worse by adding to it\nहिंदी: समस्या को और जटिल बनाना",
+   "examples": [
+    "Late approvals compounded the delay.",
+    "Missing the train compounded my bad morning.",
+    "Lying about the error only compounded the problem.",
+    "High interest rates compounded the company's debt problems."
+   ]
+  },
+  {
+   "id": "pack6-card-541",
+   "mode": "vocab",
+   "word": "alleviate",
+   "pron": "(verb)",
+   "def": "To make a problem less severe\nहिंदी: समस्या की गंभीरता कम करना",
+   "examples": [
+    "Caching alleviated the pressure on the database.",
+    "The medicine alleviated her pain quickly.",
+    "Hiring two more people will alleviate the workload.",
+    "A clear plan can alleviate anxiety before exams."
+   ]
+  },
+  {
+   "id": "pack6-card-542",
+   "mode": "vocab",
+   "word": "resolve",
+   "pron": "(verb)",
+   "def": "To find a solution to a problem\nहिंदी: समाधान ढूँढना",
+   "examples": [
+    "We resolved the issue by upgrading the driver.",
+    "The two friends resolved their argument over coffee.",
+    "Customer support resolved my billing problem in a day.",
+    "Let's resolve this before the weekend."
+   ]
+  },
+  {
+   "id": "pack6-card-543",
+   "mode": "vocab",
+   "word": "rectify",
+   "pron": "(verb)",
+   "def": "To put something right\nहिंदी: ठीक करना",
+   "examples": [
+    "Please rectify the error in the report.",
+    "The shop rectified the billing mistake and refunded me.",
+    "We rectified the error before the client noticed.",
+    "The company promised to rectify the faulty products."
+   ]
+  },
+  {
+   "id": "pack6-card-544",
+   "mode": "vocab",
+   "word": "address",
+   "pron": "(verb)",
+   "def": "To deal with a problem\nहिंदी: समस्या से निपटना",
+   "examples": [
+    "We must address the root cause, not just the symptom.",
+    "The minister promised to address the water shortage.",
+    "Address the client's concerns before discussing price.",
+    "We'll address your question at the end of the session."
+   ]
+  },
+  {
+   "id": "pack6-card-545",
+   "mode": "vocab",
+   "word": "tackle",
+   "pron": "(verb)",
+   "def": "To confront and deal with a difficult problem\nहिंदी: कठिन समस्या से जूझना",
+   "examples": [
+    "The team tackled the backlog one category at a time.",
+    "The city is trying to tackle air pollution.",
+    "Tackle the hardest task first when your energy is high.",
+    "She tackled the difficult conversation with honesty."
+   ]
+  },
+  {
+   "id": "pack6-card-547",
+   "mode": "vocab",
+   "word": "circumvent",
+   "pron": "(verb)",
+   "def": "To find a way around an obstacle\nहिंदी: बाधा से बचकर निकलना",
+   "examples": [
+    "They circumvented the limit by batching requests.",
+    "Some companies circumvent tax rules with clever accounting.",
+    "They circumvented the traffic by taking a smaller road.",
+    "Never circumvent security checks, even in a hurry."
+   ]
+  },
+  {
+   "id": "pack6-card-548",
+   "mode": "vocab",
+   "word": "bypass",
+   "pron": "(verb)",
+   "def": "To go around something instead of through it\nहिंदी: किसी को छोड़कर आगे बढ़ना",
+   "examples": [
+    "Don't bypass the approval process for convenience.",
+    "The new flyover lets us bypass the city centre.",
+    "Hackers tried to bypass the login page.",
+    "He bypassed his manager and went straight to the director."
+   ]
+  },
+  {
+   "id": "pack6-card-549",
+   "mode": "vocab",
+   "word": "workaround solution",
+   "pron": "(noun)",
+   "def": "An alternative approach that avoids a problem\nहिंदी: अस्थायी विकल्प",
+   "examples": [
+    "A workaround solution kept the service running.",
+    "Until the printer is fixed, emailing the PDF is our workaround solution.",
+    "The workaround solution is slow, but it works.",
+    "Document the workaround solution so support can use it."
+   ]
+  },
+  {
+   "id": "pack6-card-551",
+   "mode": "vocab",
+   "word": "band-aid solution",
+   "pron": "(noun)",
+   "def": "A temporary remedy that doesn't solve the real problem\nहिंदी: कामचलाऊ उपाय",
+   "examples": [
+    "Restarting the service is a band-aid solution.",
+    "Giving a discount is a band-aid solution for a poor product.",
+    "Overtime is a band-aid solution to understaffing.",
+    "We need a real fix, not another band-aid solution."
+   ]
+  },
+  {
+   "id": "pack6-card-552",
+   "mode": "vocab",
+   "word": "silver bullet",
+   "pron": "(noun)",
+   "def": "A simple solution that seems to solve a complex problem\nहिंदी: हर समस्या का जादुई हल",
+   "examples": [
+    "There's no silver bullet for data quality.",
+    "There's no silver bullet for losing weight; you need diet and exercise.",
+    "Don't expect the new tool to be a silver bullet.",
+    "Many people think AI is a silver bullet for every problem."
+   ]
+  },
+  {
+   "id": "pack6-card-553",
+   "mode": "vocab",
+   "word": "long-term solution",
+   "pron": "(noun)",
+   "def": "A fix designed to last\nहिंदी: दीर्घकालिक समाधान",
+   "examples": [
+    "We need a long-term solution for vendor delays.",
+    "Building a metro is a long-term solution to traffic.",
+    "Hiring more staff is the long-term solution, not overtime.",
+    "Let's find a long-term solution instead of fixing it every week."
+   ]
+  },
+  {
+   "id": "pack6-card-554",
+   "mode": "vocab",
+   "word": "iterate",
+   "pron": "(verb)",
+   "def": "To repeat a process to improve results\nहिंदी: बार-बार सुधार करना",
+   "examples": [
+    "Let's iterate on the design based on feedback.",
+    "We iterate on the menu every month based on customer feedback.",
+    "Ship a simple version first, then iterate.",
+    "The design team iterated through five versions of the logo."
+   ]
+  },
+  {
+   "id": "pack6-card-555",
+   "mode": "vocab",
+   "word": "incremental",
+   "pron": "(adjective)",
+   "def": "Happening in small, gradual steps\nहिंदी: धीरे-धीरे आगे बढ़ने वाला",
+   "examples": [
+    "An incremental rollout reduces risk.",
+    "Incremental savings each month add up over the years.",
+    "We made incremental improvements to the app every week.",
+    "Small, incremental changes are easier to test."
+   ]
+  },
+  {
+   "id": "pack6-card-557",
+   "mode": "vocab",
+   "word": "hypothesise",
+   "pron": "(verb)",
+   "def": "To propose an explanation to be tested\nहिंदी: परिकल्पना बनाना",
+   "examples": [
+    "We hypothesised that the delay came from the network.",
+    "The scientist hypothesised that the plant needed more light.",
+    "We hypothesise that users leave because the form is too long.",
+    "Hypothesise first, then collect data to check."
+   ]
+  },
+  {
+   "id": "pack6-card-558",
+   "mode": "vocab",
+   "word": "test the theory",
+   "pron": "(collocation)",
+   "def": "To check whether an idea is correct\nहिंदी: सिद्धांत की जाँच करना",
+   "examples": [
+    "Let's test the theory with a smaller dataset.",
+    "I think the noise comes from the fan; let's test the theory.",
+    "We tested the theory by changing one setting at a time.",
+    "Before spending money, test the theory with a small pilot."
+   ]
+  },
+  {
+   "id": "pack6-card-559",
+   "mode": "vocab",
+   "word": "rule out",
+   "pron": "(phrasal verb)",
+   "def": "To eliminate a possibility\nहिंदी: संभावना को ख़ारिज करना",
+   "examples": [
+    "We ruled out hardware as the cause.",
+    "The doctor ran tests to rule out infection.",
+    "We can't rule out a delay due to the strike.",
+    "She ruled out moving abroad for now."
+   ]
+  },
+  {
+   "id": "pack6-card-560",
+   "mode": "vocab",
+   "word": "narrow it down",
+   "pron": "(collocation)",
+   "def": "To reduce possibilities to find the answer\nहिंदी: कारणों को सीमित करना",
+   "examples": [
+    "Narrow it down by disabling features one by one.",
+    "There are many flats available, so let's narrow it down by budget.",
+    "The mechanic narrowed it down to the battery or the starter.",
+    "Can you narrow it down to your top three choices?"
+   ]
+  },
+  {
+   "id": "pack6-card-562",
+   "mode": "vocab",
+   "word": "control variable",
+   "pron": "(noun)",
+   "def": "A factor kept constant in an experiment\nहिंदी: नियंत्रित चर",
+   "examples": [
+    "Keep data volume as a control variable in the test.",
+    "In the experiment, temperature was the control variable.",
+    "Keep the price as a control variable while testing the ad.",
+    "Without a control variable, the results are hard to trust."
+   ]
+  },
+  {
+   "id": "pack6-card-563",
+   "mode": "vocab",
+   "word": "sample size",
+   "pron": "(noun)",
+   "def": "The number of observations in a study\nहिंदी: नमूने का आकार",
+   "examples": [
+    "The sample size is too small to draw conclusions.",
+    "Ten customers is too small a sample size for a survey.",
+    "With a larger sample size, the results became clearer.",
+    "Always mention the sample size in your report."
+   ]
+  },
+  {
+   "id": "pack6-card-564",
+   "mode": "vocab",
+   "word": "outlier",
+   "pron": "(noun)",
+   "def": "A data point far from the others\nहिंदी: सामान्य से बहुत अलग मान",
+   "examples": [
+    "One outlier skewed the average latency.",
+    "One very rich family is an outlier in this neighbourhood.",
+    "Remove the outlier before calculating the average.",
+    "His score was an outlier; everyone else scored much lower."
+   ]
+  },
+  {
+   "id": "pack6-card-565",
+   "mode": "vocab",
+   "word": "skew",
+   "pron": "(verb)",
+   "def": "To distort a result in a particular direction\nहिंदी: परिणाम को एक ओर झुका देना",
+   "examples": [
+    "A few huge files skew the processing time.",
+    "A few extreme answers can skew the survey results.",
+    "Holiday sales skew the December numbers.",
+    "Don't let personal feelings skew your judgement."
+   ]
+  },
+  {
+   "id": "pack6-card-566",
+   "mode": "vocab",
+   "word": "statistically significant",
+   "pron": "(adjective)",
+   "def": "Unlikely to have occurred by chance\nहिंदी: सांख्यिकीय रूप से महत्वपूर्ण",
+   "examples": [
+    "The improvement is statistically significant.",
+    "The difference between the two groups was not statistically significant.",
+    "We need more users for a statistically significant result.",
+    "The study found a statistically significant drop in infections."
+   ]
+  },
+  {
+   "id": "pack6-card-567",
+   "mode": "vocab",
+   "word": "margin of error",
+   "pron": "(noun)",
+   "def": "The possible range of difference in a measurement\nहिंदी: त्रुटि की संभावित सीमा",
+   "examples": [
+    "The margin of error is about three percent.",
+    "The poll has a margin of error of plus or minus two percent.",
+    "With such a small margin of error, the results are reliable.",
+    "Leave some margin of error in your budget."
+   ]
+  },
+  {
+   "id": "pack6-card-568",
+   "mode": "vocab",
+   "word": "confidence interval",
+   "pron": "(noun)",
+   "def": "A range likely to contain the true value\nहिंदी: विश्वास अंतराल",
+   "examples": [
+    "The confidence interval is narrow, so we trust the estimate.",
+    "The report gives a 95 percent confidence interval for the average.",
+    "A wide confidence interval means we're less sure of the number.",
+    "Add the confidence interval to the chart so readers see the range."
+   ]
+  },
+  {
+   "id": "pack6-card-569",
+   "mode": "vocab",
+   "word": "median",
+   "pron": "(noun)",
+   "def": "The middle value in a sorted data set\nहिंदी: माध्यिका",
+   "examples": [
+    "The median latency is better than the average suggests.",
+    "The median salary is a better guide than the average.",
+    "The median house price in the city rose by eight percent.",
+    "Sort the numbers first to find the median."
+   ]
+  },
+  {
+   "id": "pack6-card-570",
+   "mode": "vocab",
+   "word": "percentile",
+   "pron": "(noun)",
+   "def": "A value below which a given percentage of data falls\nहिंदी: प्रतिशतक",
+   "examples": [
+    "The ninety-ninth percentile latency matters most to customers.",
+    "My son's height is in the 80th percentile for his age.",
+    "Look at the 95th percentile, not just the average.",
+    "She scored in the top percentile in the entrance exam."
+   ]
+  },
+  {
+   "id": "pack6-card-571",
+   "mode": "vocab",
+   "word": "distribution",
+   "pron": "(noun)",
+   "def": "How values are spread across a data set\nहिंदी: वितरण",
+   "examples": [
+    "File sizes follow a skewed distribution.",
+    "The distribution of income in the country is very uneven.",
+    "Let's plot the distribution of customer ages.",
+    "Most of the distribution is under five minutes."
+   ]
+  },
+  {
+   "id": "pack6-card-573",
+   "mode": "vocab",
+   "word": "seasonality",
+   "pron": "(noun)",
+   "def": "Predictable patterns that repeat at certain times\nहिंदी: मौसमी पैटर्न",
+   "examples": [
+    "Month-end seasonality drives our peak load.",
+    "Ice cream sales show strong seasonality.",
+    "Our travel business has clear seasonality around Diwali.",
+    "Remove seasonality before comparing months."
+   ]
+  },
+  {
+   "id": "pack6-card-574",
+   "mode": "vocab",
+   "word": "pattern",
+   "pron": "(noun)",
+   "def": "A repeated or regular form\nहिंदी: पैटर्न",
+   "examples": [
+    "We noticed a pattern of failures every Monday.",
+    "I see a pattern: he's always late on Mondays.",
+    "Look for patterns in customer complaints.",
+    "The data shows a clear pattern of higher sales on weekends."
+   ]
+  },
+  {
+   "id": "pack6-card-575",
+   "mode": "vocab",
+   "word": "fluctuation",
+   "pron": "(noun)",
+   "def": "An irregular rise and fall\nहिंदी: उतार-चढ़ाव",
+   "examples": [
+    "Fluctuations in volume make capacity planning hard.",
+    "Fluctuations in the rupee affect our import costs.",
+    "Small fluctuations in weight are normal.",
+    "We saw some fluctuation in traffic during the holidays."
+   ]
+  },
+  {
+   "id": "pack6-card-576",
+   "mode": "vocab",
+   "word": "plateau",
+   "pron": "(noun)",
+   "def": "A period where progress levels off\nहिंदी: स्थिरता का दौर",
+   "examples": [
+    "Performance gains reached a plateau after the third change.",
+    "My weight loss hit a plateau after two months.",
+    "Sales reached a plateau after the first year.",
+    "Learning often has a plateau before the next big jump."
+   ]
+  },
+  {
+   "id": "pack6-card-579",
+   "mode": "vocab",
+   "word": "plummet",
+   "pron": "(verb)",
+   "def": "To fall sharply and suddenly\nहिंदी: तेज़ी से गिरना",
+   "examples": [
+    "Throughput plummeted after the change.",
+    "Temperatures plummeted overnight in Delhi.",
+    "The company's shares plummeted after the bad results.",
+    "Sales plummeted when the competitor cut prices."
+   ]
+  },
+  {
+   "id": "pack6-card-580",
+   "mode": "vocab",
+   "word": "soar",
+   "pron": "(verb)",
+   "def": "To rise rapidly to a high level\nहिंदी: तेज़ी से ऊपर चढ़ना",
+   "examples": [
+    "Cloud costs soared during the migration.",
+    "House prices soared in the city last year.",
+    "Her confidence soared after the successful presentation.",
+    "Onion prices soared after the heavy rains."
+   ]
+  },
+  {
+   "id": "pack6-card-581",
+   "mode": "vocab",
+   "word": "fluctuate",
+   "pron": "(verb)",
+   "def": "To rise and fall irregularly\nहिंदी: ऊपर-नीचे होते रहना",
+   "examples": [
+    "Response times fluctuate throughout the day.",
+    "Vegetable prices fluctuate with the seasons.",
+    "His mood fluctuates a lot during exams.",
+    "Our website traffic fluctuates between weekdays and weekends."
+   ]
+  },
+  {
+   "id": "pack6-card-582",
+   "mode": "vocab",
+   "word": "stabilise",
+   "pron": "(verb)",
+   "def": "To become steady and unchanging\nहिंदी: स्थिर होना",
+   "examples": [
+    "Error rates stabilised after the patch.",
+    "The patient's condition stabilised after the treatment.",
+    "Prices should stabilise after the festival season.",
+    "Once the team stabilises, we can take on new projects."
+   ]
+  },
+  {
+   "id": "pack6-card-583",
+   "mode": "vocab",
+   "word": "converge",
+   "pron": "(verb)",
+   "def": "To come together towards a common point\nहिंदी: एक बिंदु पर मिलना",
+   "examples": [
+    "Estimates from both teams converged on four weeks.",
+    "Different opinions slowly converged into one plan.",
+    "Two highways converge near the airport.",
+    "Our goals converged once we understood each other's needs."
+   ]
+  },
+  {
+   "id": "pack6-card-584",
+   "mode": "vocab",
+   "word": "diverge",
+   "pron": "(verb)",
+   "def": "To move apart or differ\nहिंदी: अलग दिशा में जाना",
+   "examples": [
+    "The two environments have started to diverge.",
+    "Our opinions diverge on the best way to save money.",
+    "The road diverges into two paths after the bridge.",
+    "The design and the final product diverged a lot."
+   ]
+  },
+  {
+   "id": "pack6-card-585",
+   "mode": "vocab",
+   "word": "deviate",
+   "pron": "(verb)",
+   "def": "To depart from the expected path\nहिंदी: सामान्य से हटना",
+   "examples": [
+    "Results deviate from the model in extreme conditions.",
+    "Don't deviate from the recipe the first time you cook it.",
+    "The flight deviated from its route because of the storm.",
+    "If you deviate from the plan, let the team know."
+   ]
+  },
+  {
+   "id": "pack6-card-586",
+   "mode": "vocab",
+   "word": "discrepancy analysis",
+   "pron": "(noun)",
+   "def": "Examination of differences between expected and actual figures\nहिंदी: अंतर का विश्लेषण",
+   "examples": [
+    "Discrepancy analysis found a missing currency conversion.",
+    "A discrepancy analysis of the stock showed items missing from the warehouse.",
+    "Finance runs a discrepancy analysis at the end of every quarter.",
+    "The discrepancy analysis explained why the budget and actual costs differed."
+   ]
+  },
+  {
+   "id": "pack6-card-587",
+   "mode": "vocab",
+   "word": "root cause analysis",
+   "pron": "(noun)",
+   "def": "A method of identifying the fundamental reason for a problem\nहिंदी: मूल कारण विश्लेषण",
+   "examples": [
+    "Root cause analysis pointed to an unchecked assumption.",
+    "Do a root cause analysis before you promise it won't happen again.",
+    "The root cause analysis showed that training was the real gap.",
+    "Every major incident needs a written root cause analysis."
+   ]
+  },
+  {
+   "id": "pack6-card-588",
+   "mode": "vocab",
+   "word": "five whys",
+   "pron": "(noun)",
+   "def": "A technique of repeatedly asking why to find the root cause\nहिंदी: पाँच बार क्यों पूछने की विधि",
+   "examples": [
+    "The five whys revealed a missing alert.",
+    "Using the five whys, we found the real reason for late deliveries.",
+    "The five whys is simple, but it works for many problems.",
+    "Don't stop at the first answer; try the five whys."
+   ]
+  },
+  {
+   "id": "pack6-card-589",
+   "mode": "vocab",
+   "word": "fishbone diagram",
+   "pron": "(noun)",
+   "def": "A visual tool mapping possible causes of a problem\nहिंदी: कारणों का रेखाचित्र",
+   "examples": [
+    "We used a fishbone diagram to list possible causes.",
+    "The quality team drew a fishbone diagram on the whiteboard.",
+    "A fishbone diagram groups causes into people, process and tools.",
+    "Our fishbone diagram showed that most causes were in the process."
+   ]
+  },
+  {
+   "id": "pack6-card-590",
+   "mode": "vocab",
+   "word": "decision matrix",
+   "pron": "(noun)",
+   "def": "A table scoring options against criteria\nहिंदी: निर्णय तालिका",
+   "examples": [
+    "We scored vendors using a decision matrix.",
+    "I used a decision matrix to choose between three job offers.",
+    "The decision matrix made the final choice less emotional.",
+    "Share the decision matrix so everyone sees how we decided."
+   ]
+  },
+  {
+   "id": "pack6-card-591",
+   "mode": "vocab",
+   "word": "criteria",
+   "pron": "(noun)",
+   "def": "Standards on which a judgement is based\nहिंदी: मानदंड",
+   "examples": [
+    "The selection criteria include cost and reliability.",
+    "What criteria do you use to choose a school for your child?",
+    "The candidate met all the criteria for the role.",
+    "Agree on the criteria before you compare the options."
+   ]
+  },
+  {
+   "id": "pack6-card-592",
+   "mode": "vocab",
+   "word": "weighting",
+   "pron": "(noun)",
+   "def": "The importance assigned to a factor\nहिंदी: महत्व का भार",
+   "examples": [
+    "We gave resilience a higher weighting than cost.",
+    "In the exam, the project carries a weighting of forty percent.",
+    "Give more weighting to customer feedback than to internal opinions.",
+    "The weighting of each factor changed the final ranking."
+   ]
+  },
+  {
+   "id": "pack6-card-593",
+   "mode": "vocab",
+   "word": "prioritisation framework",
+   "pron": "(noun)",
+   "def": "A structured method for ranking work\nहिंदी: प्राथमिकता तय करने का ढाँचा",
+   "examples": [
+    "We use a simple prioritisation framework of impact and effort.",
+    "Our prioritisation framework ranks requests by customer value.",
+    "A prioritisation framework stops the loudest person from winning.",
+    "Explain the prioritisation framework to stakeholders upfront."
+   ]
+  },
+  {
+   "id": "pack6-card-594",
+   "mode": "vocab",
+   "word": "impact and effort",
+   "pron": "(noun)",
+   "def": "A comparison of benefit against work needed\nहिंदी: प्रभाव बनाम प्रयास",
+   "examples": [
+    "Plot tasks by impact and effort to pick quick wins.",
+    "Compare impact and effort before you start any new task.",
+    "Low impact and high effort tasks should usually wait.",
+    "We sorted the ideas into a grid of impact and effort."
+   ]
+  },
+  {
+   "id": "pack6-card-595",
+   "mode": "vocab",
+   "word": "quick win",
+   "pron": "(noun)",
+   "def": "A small action producing a noticeable result\nहिंदी: कम प्रयास में स्पष्ट लाभ",
+   "examples": [
+    "Better alert names were a quick win.",
+    "Changing the button colour was a quick win for sign-ups.",
+    "Start with a quick win to build the team's confidence.",
+    "Cleaning up old files was a quick win for disk space."
+   ]
+  },
+  {
+   "id": "pack6-card-596",
+   "mode": "vocab",
+   "word": "low-hanging fruit",
+   "pron": "(idiom)",
+   "def": "Easy tasks that bring immediate benefit\nहिंदी: आसानी से मिलने वाला लाभ",
+   "examples": [
+    "Let's pick the low-hanging fruit before tackling the redesign.",
+    "Fixing typos on the website is low-hanging fruit.",
+    "The consultant went after the low-hanging fruit first.",
+    "Once the low-hanging fruit is gone, the hard work begins."
+   ]
+  },
+  {
+   "id": "pack6-card-597",
+   "mode": "vocab",
+   "word": "move the needle",
+   "pron": "(idiom)",
+   "def": "To make a noticeable difference\nहिंदी: ठोस असर डालना",
+   "examples": [
+    "Small tweaks won't move the needle on reliability.",
+    "A new logo won't move the needle on sales.",
+    "We need ideas that really move the needle for customers.",
+    "Faster delivery moved the needle on customer satisfaction."
+   ]
+  },
+  {
+   "id": "pack6-card-598",
+   "mode": "vocab",
+   "word": "game changer",
+   "pron": "(noun)",
+   "def": "Something that significantly changes a situation\nहिंदी: खेल बदलने वाली चीज़",
+   "examples": [
+    "Automated reconciliation was a game changer.",
+    "UPI was a game changer for payments in India.",
+    "Remote work was a game changer for working parents.",
+    "The new hire has been a game changer for our sales team."
+   ]
+  },
+  {
+   "id": "pack6-card-599",
+   "mode": "vocab",
+   "word": "paradigm shift",
+   "pron": "(noun)",
+   "def": "A fundamental change in approach or thinking\nहिंदी: सोच में बुनियादी बदलाव",
+   "examples": [
+    "Event-driven design was a paradigm shift for the team.",
+    "Online learning brought a paradigm shift in education.",
+    "Moving to the cloud was a paradigm shift for the company.",
+    "Smartphones caused a paradigm shift in how we shop."
+   ]
+  },
+  {
+   "id": "pack6-card-600",
+   "mode": "vocab",
+   "word": "disruptive",
+   "pron": "(adjective)",
+   "def": "Radically changing an industry or process\nहिंदी: क्रांतिकारी बदलाव लाने वाला",
+   "examples": [
+    "AI is a disruptive force in software development.",
+    "Food delivery apps were disruptive for small restaurants.",
+    "Disruptive startups challenge big companies with new ideas.",
+    "The new technology is disruptive and will change the industry."
+   ]
+  },
+  {
+   "id": "pack6-card-602",
+   "mode": "vocab",
+   "word": "novel",
+   "pron": "(adjective)",
+   "def": "New and unusual\nहिंदी: नया और अनोखा",
+   "examples": [
+    "The team came up with a novel approach to deduplication.",
+    "The scientist proposed a novel way to clean river water.",
+    "Her novel idea for the event got everyone excited.",
+    "The startup has a novel approach to home loans."
+   ]
+  },
+  {
+   "id": "pack6-card-603",
+   "mode": "vocab",
+   "word": "unconventional",
+   "pron": "(adjective)",
+   "def": "Not following accepted norms\nहिंदी: परंपरागत से हटकर",
+   "examples": [
+    "An unconventional solution solved the problem cheaply.",
+    "His unconventional career path took him from music to finance.",
+    "The school uses unconventional teaching methods.",
+    "Sometimes an unconventional idea is the best one."
+   ]
+  },
+  {
+   "id": "pack6-card-604",
+   "mode": "vocab",
+   "word": "creative",
+   "pron": "(adjective)",
+   "def": "Using imagination to produce original ideas\nहिंदी: रचनात्मक",
+   "examples": [
+    "A creative workaround saved us a week.",
+    "The kids made creative decorations from old newspapers.",
+    "She is a creative designer with a strong eye for colour.",
+    "We need a creative way to reach younger customers."
+   ]
+  },
+  {
+   "id": "pack6-card-606",
+   "mode": "vocab",
+   "word": "ideate",
+   "pron": "(verb)",
+   "def": "To form and develop ideas\nहिंदी: विचार गढ़ना",
+   "examples": [
+    "Let's ideate before locking in a design.",
+    "The team met for an hour to ideate on new product names.",
+    "We ideate freely first and judge the ideas later.",
+    "Designers ideate with sketches before using any software."
+   ]
+  },
+  {
+   "id": "pack6-card-607",
+   "mode": "vocab",
+   "word": "conceptualise",
+   "pron": "(verb)",
+   "def": "To form an idea or concept in the mind\nहिंदी: अवधारणा बनाना",
+   "examples": [
+    "It's hard to conceptualise the whole flow without a diagram.",
+    "The architect conceptualised the building in a single sketch.",
+    "It's hard to conceptualise how big a billion rupees is.",
+    "She conceptualised the whole campaign around one simple message."
+   ]
+  },
+  {
+   "id": "pack6-card-608",
+   "mode": "vocab",
+   "word": "visualise",
+   "pron": "(verb)",
+   "def": "To form a mental picture of something\nहिंदी: मन में चित्र बनाना",
+   "examples": [
+    "A diagram helps us visualise the data flow.",
+    "Close your eyes and visualise your perfect home.",
+    "Athletes visualise the race before they run it.",
+    "Charts help managers visualise trends quickly."
+   ]
+  },
+  {
+   "id": "pack6-card-610",
+   "mode": "vocab",
+   "word": "iterate quickly",
+   "pron": "(collocation)",
+   "def": "To make fast successive improvements\nहिंदी: तेज़ी से बार-बार सुधार करना",
+   "examples": [
+    "Iterate quickly and learn from each release.",
+    "Startups must iterate quickly to survive.",
+    "We iterate quickly by testing ideas with a few users each week.",
+    "Short sprints let the team iterate quickly."
+   ]
+  },
+  {
+   "id": "pack6-card-611",
+   "mode": "vocab",
+   "word": "fail fast",
+   "pron": "(idiom)",
+   "def": "To find out quickly whether an idea will not work\nहिंदी: जल्दी विफल होकर सीखना",
+   "examples": [
+    "Fail fast to avoid wasting months on a bad design.",
+    "Our team culture is to fail fast and learn from it.",
+    "Fail fast with a cheap prototype before building the real thing.",
+    "If the idea doesn't work, it's better to fail fast."
+   ]
+  },
+  {
+   "id": "pack6-card-612",
+   "mode": "vocab",
+   "word": "pivot",
+   "pron": "(verb)",
+   "def": "To change direction in strategy or approach\nहिंदी: रणनीति की दिशा बदलना",
+   "examples": [
+    "We pivoted to a managed service after the prototype struggled.",
+    "The restaurant pivoted to home delivery during the lockdown.",
+    "He pivoted from engineering to product management.",
+    "The startup pivoted after customers ignored its first app."
+   ]
+  },
+  {
+   "id": "pack6-card-613",
+   "mode": "vocab",
+   "word": "course correction",
+   "pron": "(noun)",
+   "def": "An adjustment to get back on the right path\nहिंदी: दिशा सुधार",
+   "examples": [
+    "A course correction in week three saved the project.",
+    "The mid-year review led to a course correction in our sales plan.",
+    "A small course correction now avoids a big problem later.",
+    "After poor exam results, she made a course correction in her study habits."
+   ]
+  },
+  {
+   "id": "pack6-card-614",
+   "mode": "vocab",
+   "word": "revisit",
+   "pron": "(verb)",
+   "def": "To consider again after a period of time\nहिंदी: दोबारा विचार करना",
+   "examples": [
+    "Let's revisit this decision once we have more data.",
+    "Let's revisit the budget after the first quarter.",
+    "I revisited my old college last month.",
+    "We'll revisit this topic in next week's meeting."
+   ]
+  },
+  {
+   "id": "pack6-card-615",
+   "mode": "vocab",
+   "word": "reassess",
+   "pron": "(verb)",
+   "def": "To evaluate again\nहिंदी: पुनर्मूल्यांकन करना",
+   "examples": [
+    "We should reassess the risk after the pilot.",
+    "After the price rise, I reassessed my monthly budget.",
+    "The doctor will reassess your condition after a week.",
+    "Let's reassess our goals at mid-year."
+   ]
+  },
+  {
+   "id": "pack6-card-616",
+   "mode": "vocab",
+   "word": "reconsider",
+   "pron": "(verb)",
+   "def": "To think again about a decision\nहिंदी: पुनर्विचार करना",
+   "examples": [
+    "Would you reconsider extending the deadline?",
+    "Please reconsider your resignation; we value your work.",
+    "The company reconsidered its decision after customer complaints.",
+    "I reconsidered buying the car and took the metro instead."
+   ]
+  },
+  {
+   "id": "pack6-card-617",
+   "mode": "vocab",
+   "word": "second-guess",
+   "pron": "(verb)",
+   "def": "To doubt a decision or criticise it afterwards\nहिंदी: निर्णय पर बाद में शक करना",
+   "examples": [
+    "Don't second-guess the call; we had good reasons then.",
+    "Stop second-guessing your answers in the exam.",
+    "My boss never second-guesses my decisions.",
+    "If you keep second-guessing yourself, you'll never decide."
+   ]
+  },
+  {
+   "id": "pack6-card-618",
+   "mode": "vocab",
+   "word": "hindsight",
+   "pron": "(noun)",
+   "def": "Understanding something after it has happened\nहिंदी: बीती घटना की बाद में समझ",
+   "examples": [
+    "In hindsight, we should have load-tested earlier.",
+    "In hindsight, I should have saved more money.",
+    "Hindsight makes every mistake look obvious.",
+    "With hindsight, the delay was the right call."
+   ]
+  },
+  {
+   "id": "pack6-card-619",
+   "mode": "vocab",
+   "word": "foresight",
+   "pron": "(noun)",
+   "def": "The ability to predict and prepare for the future\nहिंदी: दूरदर्शिता",
+   "examples": [
+    "Her foresight saved us from a major outage.",
+    "He had the foresight to buy land before prices went up.",
+    "Thanks to her foresight, we had backup laptops ready.",
+    "Good planning needs foresight and flexibility."
+   ]
+  },
+  {
+   "id": "pack6-card-621",
+   "mode": "vocab",
+   "word": "foresee",
+   "pron": "(verb)",
+   "def": "To predict a future event\nहिंदी: भविष्य की घटना देख लेना",
+   "examples": [
+    "Nobody could have foreseen that edge case.",
+    "We didn't foresee so much traffic on launch day.",
+    "Do you foresee any problems with this plan?",
+    "Experts foresee strong growth in electric vehicles."
+   ]
+  },
+  {
+   "id": "pack6-card-622",
+   "mode": "vocab",
+   "word": "preempt",
+   "pron": "(verb)",
+   "def": "To take action in advance to prevent something\nहिंदी: पहले से रोकथाम करना",
+   "examples": [
+    "We preempted the problem by adding validation.",
+    "She preempted questions by sharing a detailed FAQ.",
+    "We preempted complaints by informing customers about the delay.",
+    "Try to preempt the client's objections in your proposal."
+   ]
+  },
+  {
+   "id": "pack6-card-623",
+   "mode": "vocab",
+   "word": "forestall",
+   "pron": "(verb)",
+   "def": "To prevent something by acting in advance\nहिंदी: पहले से रोकना",
+   "examples": [
+    "Early communication forestalled a lot of confusion.",
+    "Regular servicing forestalls major car repairs.",
+    "He forestalled the argument by apologising first.",
+    "The new policy aims to forestall employee complaints."
+   ]
+  },
+  {
+   "id": "pack6-card-624",
+   "mode": "vocab",
+   "word": "avert",
+   "pron": "(verb)",
+   "def": "To prevent something bad from happening\nहिंदी: संकट टालना",
+   "examples": [
+    "Quick action averted a major data loss.",
+    "The driver braked hard and averted an accident.",
+    "Talks averted a strike at the factory.",
+    "Regular backups averted disaster when the laptop was stolen."
+   ]
+  },
+  {
+   "id": "pack6-card-625",
+   "mode": "vocab",
+   "word": "thwart",
+   "pron": "(verb)",
+   "def": "To prevent someone or something from succeeding\nहिंदी: विफल करना",
+   "examples": [
+    "Strict validation thwarted the corrupt file from loading.",
+    "Police thwarted a bank robbery in the city.",
+    "Bad weather thwarted our plans for a picnic.",
+    "Two-factor login thwarts most hacking attempts."
+   ]
+  },
+  {
+   "id": "pack6-card-626",
+   "mode": "vocab",
+   "word": "jeopardise",
+   "pron": "(verb)",
+   "def": "To put something at risk\nहिंदी: ख़तरे में डालना",
+   "examples": [
+    "Skipping tests could jeopardise the release.",
+    "Drinking and driving jeopardises lives.",
+    "Don't jeopardise your career with one angry email.",
+    "The delay could jeopardise the whole contract."
+   ]
+  },
+  {
+   "id": "pack6-card-628",
+   "mode": "vocab",
+   "word": "undermine",
+   "pron": "(verb)",
+   "def": "To gradually weaken something\nहिंदी: धीरे-धीरे कमज़ोर करना",
+   "examples": [
+    "Repeated outages undermined client confidence.",
+    "Gossip can undermine trust within a team.",
+    "His constant jokes undermined the seriousness of the meeting.",
+    "Don't undermine your manager in front of the client."
+   ]
+  },
+  {
+   "id": "pack6-card-629",
+   "mode": "vocab",
+   "word": "erode",
+   "pron": "(verb)",
+   "def": "To gradually reduce or destroy\nहिंदी: धीरे-धीरे क्षीण करना",
+   "examples": [
+    "Constant firefighting erodes team morale.",
+    "The sea is eroding the coastline every year.",
+    "Inflation erodes the value of savings.",
+    "Broken promises erode customer loyalty."
+   ]
+  },
+  {
+   "id": "pack6-card-630",
+   "mode": "vocab",
+   "word": "hamper",
+   "pron": "(verb)",
+   "def": "To hinder or obstruct\nहिंदी: बाधा डालना",
+   "examples": [
+    "Poor documentation hampers onboarding.",
+    "Heavy traffic hampered the ambulance.",
+    "Lack of funds hampered the project.",
+    "The injury hampered his performance in the match."
+   ]
+  },
+  {
+   "id": "pack6-card-631",
+   "mode": "vocab",
+   "word": "impede",
+   "pron": "(verb)",
+   "def": "To delay or prevent progress\nहिंदी: प्रगति में रुकावट डालना",
+   "examples": [
+    "Slow approvals impede delivery.",
+    "Fallen trees impeded traffic after the storm.",
+    "Language barriers can impede communication.",
+    "Nothing should impede your right to education."
+   ]
+  },
+  {
+   "id": "pack6-card-632",
+   "mode": "vocab",
+   "word": "hinder",
+   "pron": "(verb)",
+   "def": "To make it difficult for something to happen\nहिंदी: कठिनाई पैदा करना",
+   "examples": [
+    "Frequent meetings hinder deep work.",
+    "Noise from the street hinders my concentration.",
+    "Lack of sleep hinders learning.",
+    "Strict rules can hinder creativity."
+   ]
+  },
+  {
+   "id": "pack6-card-633",
+   "mode": "vocab",
+   "word": "curb",
+   "pron": "(verb)",
+   "def": "To restrain or keep within limits\nहिंदी: नियंत्रित करना",
+   "examples": [
+    "New rules helped curb unnecessary access.",
+    "The government took steps to curb inflation.",
+    "Try to curb your spending before the holidays.",
+    "Schools want to curb mobile phone use in class."
+   ]
+  },
+  {
+   "id": "pack6-card-634",
+   "mode": "vocab",
+   "word": "curtail",
+   "pron": "(verb)",
+   "def": "To reduce or limit something\nहिंदी: घटाना / सीमित करना",
+   "examples": [
+    "Budget cuts curtailed our hiring plans.",
+    "The rain curtailed the cricket match.",
+    "The company curtailed travel to save money.",
+    "The new law curtails the use of plastic bags."
+   ]
+  },
+  {
+   "id": "pack6-card-635",
+   "mode": "vocab",
+   "word": "constrain",
+   "pron": "(verb)",
+   "def": "To limit or restrict\nहिंदी: सीमित करना",
+   "examples": [
+    "Legacy systems constrain what we can change.",
+    "A small budget constrains our marketing options.",
+    "Don't let fear constrain your career choices.",
+    "The design was constrained by the size of the room."
+   ]
+  },
+  {
+   "id": "pack6-card-636",
+   "mode": "vocab",
+   "word": "streamlining",
+   "pron": "(noun)",
+   "def": "Making a process more efficient\nहिंदी: प्रक्रिया को सुव्यवस्थित करना",
+   "examples": [
+    "Streamlining approvals saved two days per release.",
+    "Streamlining the hiring process cut the time to offer by half.",
+    "The bank is streamlining its loan approval steps.",
+    "Streamlining meetings gave everyone more time for real work."
+   ]
+  },
+  {
+   "id": "pack6-card-637",
+   "mode": "vocab",
+   "word": "optimisation",
+   "pron": "(noun)",
+   "def": "Making something as effective as possible\nहिंदी: अनुकूलन",
+   "examples": [
+    "Query optimisation reduced costs significantly.",
+    "Website optimisation made pages load in under two seconds.",
+    "Tax optimisation is legal; tax evasion is not.",
+    "Route optimisation saved the delivery company a lot of fuel."
+   ]
+  },
+  {
+   "id": "pack6-card-639",
+   "mode": "vocab",
+   "word": "inefficiency",
+   "pron": "(noun)",
+   "def": "Waste of time, effort or resources\nहिंदी: अकुशलता",
+   "examples": [
+    "Manual steps create inefficiency and risk.",
+    "Paper forms are a big source of inefficiency in government offices.",
+    "The audit found inefficiency in how we buy supplies.",
+    "Reduce inefficiency by automating repetitive work."
+   ]
+  },
+  {
+   "id": "pack6-card-641",
+   "mode": "vocab",
+   "word": "obsolete",
+   "pron": "(adjective)",
+   "def": "No longer used or useful\nहिंदी: अप्रचलित",
+   "examples": [
+    "The old interface is now obsolete.",
+    "Typewriters became obsolete when computers arrived.",
+    "This phone model will soon be obsolete.",
+    "Some job skills become obsolete within a few years."
+   ]
+  },
+  {
+   "id": "pack6-card-642",
+   "mode": "vocab",
+   "word": "outdated",
+   "pron": "(adjective)",
+   "def": "Old-fashioned or no longer current\nहिंदी: पुराना पड़ चुका",
+   "examples": [
+    "The documentation is outdated and misleading.",
+    "My resume is outdated; I need to add my new job.",
+    "The rules are outdated and don't fit remote work.",
+    "Outdated software can be a security risk."
+   ]
+  },
+  {
+   "id": "pack6-card-643",
+   "mode": "vocab",
+   "word": "stale",
+   "pron": "(adjective)",
+   "def": "No longer fresh or up to date\nहिंदी: बासी / पुराना",
+   "examples": [
+    "Stale data caused the wrong report.",
+    "The bread has gone stale.",
+    "The dashboard shows stale numbers from last week.",
+    "Clear the cache if the page shows stale content."
+   ]
+  },
+  {
+   "id": "pack6-card-644",
+   "mode": "vocab",
+   "word": "fragmented",
+   "pron": "(adjective)",
+   "def": "Broken into disconnected parts\nहिंदी: बिखरा हुआ",
+   "examples": [
+    "Fragmented tooling slows down investigations.",
+    "Customer data is fragmented across five different tools.",
+    "The country's opposition is fragmented into small parties.",
+    "Fragmented sleep leaves me tired all day."
+   ]
+  },
+  {
+   "id": "pack6-card-645",
+   "mode": "vocab",
+   "word": "siloed",
+   "pron": "(adjective)",
+   "def": "Isolated from other teams or systems\nहिंदी: अलग-थलग",
+   "examples": [
+    "Siloed teams duplicate effort.",
+    "Siloed departments rarely share useful information.",
+    "Our data is siloed, so nobody sees the full picture.",
+    "The new manager broke down siloed ways of working."
+   ]
+  },
+  {
+   "id": "pack6-card-646",
+   "mode": "vocab",
+   "word": "duplicated",
+   "pron": "(adjective)",
+   "def": "Repeated unnecessarily\nहिंदी: दोहराया गया",
+   "examples": [
+    "Duplicated logic is hard to maintain.",
+    "Duplicated records confused the billing team.",
+    "We removed duplicated steps from the approval process.",
+    "Duplicated effort wastes time and money."
+   ]
+  },
+  {
+   "id": "pack6-card-648",
+   "mode": "vocab",
+   "word": "convoluted",
+   "pron": "(adjective)",
+   "def": "Extremely complex and hard to follow\nहिंदी: उलझा हुआ",
+   "examples": [
+    "The convoluted approval flow confuses new joiners.",
+    "The movie's plot was so convoluted that I got lost.",
+    "Government forms are often convoluted.",
+    "His convoluted explanation confused everyone."
+   ]
+  },
+  {
+   "id": "pack6-card-649",
+   "mode": "vocab",
+   "word": "cumbersome",
+   "pron": "(adjective)",
+   "def": "Slow and inefficient because of size or complexity\nहिंदी: बोझिल",
+   "examples": [
+    "The manual process is too cumbersome.",
+    "Carrying a cumbersome suitcase on the train was tiring.",
+    "The old billing system is slow and cumbersome.",
+    "Cumbersome rules frustrate both staff and customers."
+   ]
+  },
+  {
+   "id": "pack6-card-651",
+   "mode": "vocab",
+   "word": "labour-intensive",
+   "pron": "(adjective)",
+   "def": "Requiring a lot of human effort\nहिंदी: अधिक मानवीय श्रम वाला",
+   "examples": [
+    "Reconciliation was labour-intensive until we automated it.",
+    "Farming rice by hand is very labour-intensive.",
+    "Data entry is labour-intensive, so we're looking at automation.",
+    "Handmade furniture is labour-intensive and costs more."
+   ]
+  },
+  {
+   "id": "pack6-card-652",
+   "mode": "vocab",
+   "word": "error-prone",
+   "pron": "(adjective)",
+   "def": "Likely to produce mistakes\nहिंदी: त्रुटि की संभावना वाला",
+   "examples": [
+    "Manual deployment is error-prone.",
+    "Copying numbers by hand is error-prone.",
+    "The old billing system is slow and error-prone.",
+    "Typing long account numbers on a phone is error-prone."
+   ]
+  },
+  {
+   "id": "pack6-card-653",
+   "mode": "vocab",
+   "word": "time-consuming",
+   "pron": "(adjective)",
+   "def": "Taking a lot of time\nहिंदी: समय लेने वाला",
+   "examples": [
+    "Debugging without logs is time-consuming.",
+    "Getting a passport used to be very time-consuming.",
+    "Cooking for twenty guests is time-consuming but fun.",
+    "Long approval chains make small changes time-consuming."
+   ]
+  },
+  {
+   "id": "pack6-card-654",
+   "mode": "vocab",
+   "word": "straightforward",
+   "pron": "(adjective)",
+   "def": "Simple and uncomplicated\nहिंदी: सीधा-सादा",
+   "examples": [
+    "The fix itself was straightforward.",
+    "The instructions are straightforward and easy to follow.",
+    "Booking a ticket online is straightforward.",
+    "She gave me a straightforward answer, and I appreciated it."
+   ]
+  },
+  {
+   "id": "pack6-card-657",
+   "mode": "vocab",
+   "word": "effortless",
+   "pron": "(adjective)",
+   "def": "Requiring no apparent effort\nहिंदी: बिना श्रम के",
+   "examples": [
+    "With good tooling, deployment feels effortless.",
+    "She speaks English with effortless fluency.",
+    "The dancer made the difficult moves look effortless.",
+    "Online banking makes paying bills almost effortless."
+   ]
+  },
+  {
+   "id": "pack6-card-659",
+   "mode": "vocab",
+   "word": "negligible",
+   "pron": "(adjective)",
+   "def": "So small that it is not worth considering\nहिंदी: नगण्य",
+   "examples": [
+    "The performance impact is negligible.",
+    "The difference in price between the two shops is negligible.",
+    "The side effects of the medicine are negligible.",
+    "The risk of data loss here is negligible."
+   ]
+  },
+  {
+   "id": "pack6-card-660",
+   "mode": "vocab",
+   "word": "marginal",
+   "pron": "(adjective)",
+   "def": "Small and of minor importance\nहिंदी: मामूली / सीमांत",
+   "examples": [
+    "The gain from caching was only marginal.",
+    "The new process gave only marginal savings.",
+    "His English improved, but only marginally.",
+    "Marginal changes won't fix a broken process."
+   ]
+  },
+  {
+   "id": "pack6-card-662",
+   "mode": "vocab",
+   "word": "considerable",
+   "pron": "(adjective)",
+   "def": "Notably large\nहिंदी: उल्लेखनीय रूप से बड़ा",
+   "examples": [
+    "Considerable effort went into the migration.",
+    "She has considerable experience in sales.",
+    "The repairs cost a considerable amount of money.",
+    "The new policy caused considerable confusion among staff."
+   ]
+  },
+  {
+   "id": "pack6-card-664",
+   "mode": "vocab",
+   "word": "profound",
+   "pron": "(adjective)",
+   "def": "Very great or intense\nहिंदी: गहरा",
+   "examples": [
+    "The decision had a profound effect on delivery.",
+    "Her father's advice had a profound influence on her career.",
+    "The pandemic had a profound impact on how we work.",
+    "He felt a profound sense of relief after the exam."
+   ]
+  },
+  {
+   "id": "pack6-card-665",
+   "mode": "vocab",
+   "word": "drastic",
+   "pron": "(adjective)",
+   "def": "Extreme and far-reaching\nहिंदी: कठोर / भारी",
+   "examples": [
+    "Drastic measures were needed to stop the data loss.",
+    "The company took drastic steps to cut costs.",
+    "Don't make drastic changes to your diet overnight.",
+    "A drastic drop in sales worried the owners."
+   ]
+  },
+  {
+   "id": "pack6-card-667",
+   "mode": "vocab",
+   "word": "incremental improvement",
+   "pron": "(noun)",
+   "def": "A small step forward in quality\nहिंदी: क्रमिक सुधार",
+   "examples": [
+    "Incremental improvement adds up to big gains.",
+    "Practising daily brings incremental improvement in your speaking.",
+    "Each sprint should deliver some incremental improvement.",
+    "Incremental improvement is less exciting but more reliable."
+   ]
+  },
+  {
+   "id": "pack6-card-669",
+   "mode": "vocab",
+   "word": "revamp",
+   "pron": "(verb)",
+   "def": "To renovate or improve the form of something\nहिंदी: नया रूप देना",
+   "examples": [
+    "The team revamped the onboarding guide.",
+    "The restaurant revamped its menu for the new season.",
+    "We need to revamp our website; it looks old.",
+    "The company revamped its leave policy after feedback."
+   ]
+  },
+  {
+   "id": "pack6-card-670",
+   "mode": "vocab",
+   "word": "revitalise",
+   "pron": "(verb)",
+   "def": "To give new life to something\nहिंदी: नई जान डालना",
+   "examples": [
+    "New tooling revitalised the stagnant project.",
+    "The new mayor plans to revitalise the old market area.",
+    "A short holiday can revitalise your energy.",
+    "The fresh hires revitalised the team's ideas."
+   ]
+  },
+  {
+   "id": "pack6-card-671",
+   "mode": "vocab",
+   "word": "modernise",
+   "pron": "(verb)",
+   "def": "To update to suit current needs\nहिंदी: आधुनिक बनाना",
+   "examples": [
+    "We are modernising the legacy batch system.",
+    "The railway is modernising its stations with escalators.",
+    "My parents modernised the kitchen last year.",
+    "The bank needs to modernise its mobile app."
+   ]
+  },
+  {
+   "id": "pack6-card-672",
+   "mode": "vocab",
+   "word": "transition",
+   "pron": "(verb)",
+   "def": "To change from one state to another\nहिंदी: एक अवस्था से दूसरी में बदलना",
+   "examples": [
+    "We will transition all vendors to the new pipeline by June.",
+    "She transitioned from teaching to instructional design.",
+    "The office will transition to a four-day week next month.",
+    "Help new managers transition smoothly into their role."
+   ]
+  },
+  {
+   "id": "pack6-card-674",
+   "mode": "vocab",
+   "word": "roll out",
+   "pron": "(phrasal verb)",
+   "def": "To introduce something gradually\nहिंदी: चरणबद्ध रूप से लागू करना",
+   "examples": [
+    "We'll roll out the fix to one region first.",
+    "The government will roll out the scheme across all states.",
+    "We'll roll out the new laptops to the sales team first.",
+    "The app update rolls out next week."
+   ]
+  },
+  {
+   "id": "pack6-card-675",
+   "mode": "vocab",
+   "word": "wind down",
+   "pron": "(phrasal verb)",
+   "def": "To gradually reduce activity until it stops\nहिंदी: धीरे-धीरे काम समेटना",
+   "examples": [
+    "The project is winding down after launch.",
+    "The shop is winding down before it closes for good.",
+    "I wind down in the evening by reading a book.",
+    "The company is winding down its operations in that country."
+   ]
+  },
+  {
+   "id": "pack6-card-676",
+   "mode": "vocab",
+   "word": "ramp down",
+   "pron": "(phrasal verb)",
+   "def": "To gradually reduce effort or output\nहिंदी: धीरे-धीरे गति घटाना",
+   "examples": [
+    "We will ramp down support once the new system is stable.",
+    "We'll ramp down the temporary staff after the festival rush.",
+    "The factory ramped down production during the slow season.",
+    "Ramp down overtime once the backlog is cleared."
+   ]
+  },
+  {
+   "id": "pack6-card-677",
+   "mode": "vocab",
+   "word": "scale back",
+   "pron": "(phrasal verb)",
+   "def": "To reduce in size or extent\nहिंदी: दायरा छोटा करना",
+   "examples": [
+    "We scaled back the project to meet the deadline.",
+    "We scaled back the wedding because of the budget.",
+    "The company scaled back its expansion plans.",
+    "Please scale back the scope so we can finish on time."
+   ]
+  },
+  {
+   "id": "pack6-card-678",
+   "mode": "vocab",
+   "word": "scale up",
+   "pron": "(phrasal verb)",
+   "def": "To increase in size or capacity\nहिंदी: क्षमता बढ़ाना",
+   "examples": [
+    "We can scale up the workers when load rises.",
+    "The bakery scaled up production for Diwali orders.",
+    "We plan to scale up the pilot to all branches.",
+    "It's hard to scale up a business without good systems."
+   ]
+  },
+  {
+   "id": "pack6-card-679",
+   "mode": "vocab",
+   "word": "first principles",
+   "pron": "(noun)",
+   "def": "Basic truths from which reasoning starts\nहिंदी: मूल सिद्धांत",
+   "examples": [
+    "Let's think from first principles instead of copying others.",
+    "Elon Musk often talks about thinking from first principles.",
+    "From first principles, what does the customer really need?",
+    "Learning from first principles helps you understand, not just memorise."
+   ]
+  },
+  {
+   "id": "pack6-card-680",
+   "mode": "vocab",
+   "word": "Occam's razor",
+   "pron": "(noun)",
+   "def": "The simplest explanation is usually the best\nहिंदी: सबसे सरल व्याख्या अक्सर सही होती है",
+   "examples": [
+    "Occam's razor suggests it's just a config typo.",
+    "The phone isn't charging; by Occam's razor, check the cable first.",
+    "Occam's razor told us the simplest reason was a typo.",
+    "Apply Occam's razor before you build complex theories."
+   ]
+  },
+  {
+   "id": "pack6-card-682",
+   "mode": "vocab",
+   "word": "sunk cost",
+   "pron": "(noun)",
+   "def": "Money or effort already spent that cannot be recovered\nहिंदी: पहले ही ख़र्च हो चुकी लागत",
+   "examples": [
+    "Don't let sunk cost keep a failing project alive.",
+    "The movie was boring, but I stayed because of sunk cost.",
+    "The money spent so far is a sunk cost; decide based on the future.",
+    "Sunk cost thinking keeps people in bad jobs too long."
+   ]
+  },
+  {
+   "id": "pack6-card-683",
+   "mode": "vocab",
+   "word": "survivorship bias",
+   "pron": "(noun)",
+   "def": "Judging only from successful examples\nहिंदी: केवल सफल उदाहरणों से निष्कर्ष निकालना",
+   "examples": [
+    "Case studies often suffer from survivorship bias.",
+    "Reading only success stories gives you survivorship bias.",
+    "Survivorship bias makes old buildings seem better made.",
+    "Looking only at winning startups is a classic survivorship bias."
+   ]
+  },
+  {
+   "id": "pack6-card-684",
+   "mode": "vocab",
+   "word": "cognitive bias",
+   "pron": "(noun)",
+   "def": "A systematic error in thinking\nहिंदी: सोचने में व्यवस्थित त्रुटि",
+   "examples": [
+    "Cognitive bias affects estimation.",
+    "Cognitive bias can make interviewers prefer people like themselves.",
+    "Learn about cognitive bias to make better decisions.",
+    "Confirmation bias is a common cognitive bias."
+   ]
+  },
+  {
+   "id": "pack6-card-685",
+   "mode": "vocab",
+   "word": "anchoring",
+   "pron": "(noun)",
+   "def": "Relying too heavily on the first piece of information\nहिंदी: पहली जानकारी पर अधिक निर्भर होना",
+   "examples": [
+    "Anchoring on the first quote skewed negotiations.",
+    "Shops use anchoring by showing a high original price.",
+    "Anchoring made us accept the first salary number offered.",
+    "Avoid anchoring by getting several quotes first."
+   ]
+  },
+  {
+   "id": "pack6-card-687",
+   "mode": "vocab",
+   "word": "false dichotomy",
+   "pron": "(noun)",
+   "def": "Presenting two options as the only ones available\nहिंदी: केवल दो विकल्प दिखाना",
+   "examples": [
+    "Speed versus quality is a false dichotomy.",
+    "Saying you're either with us or against us is a false dichotomy.",
+    "Work or family is a false dichotomy; many people balance both.",
+    "Point out the false dichotomy and suggest a third option."
+   ]
+  },
+  {
+   "id": "pack6-card-688",
+   "mode": "vocab",
+   "word": "slippery slope",
+   "pron": "(noun)",
+   "def": "An argument that a small step leads to extreme results\nहिंदी: छोटे कदम से बड़े नतीजे की दलील",
+   "examples": [
+    "One exception isn't necessarily a slippery slope.",
+    "Some fear that allowing one late submission is a slippery slope.",
+    "He called the new rule a slippery slope towards more control.",
+    "Slippery slope arguments often exaggerate the risk."
+   ]
+  },
+  {
+   "id": "pack6-card-689",
+   "mode": "vocab",
+   "word": "straw man",
+   "pron": "(noun)",
+   "def": "Misrepresenting someone's argument to attack it easily\nहिंदी: विरोधी तर्क को तोड़-मरोड़कर पेश करना",
+   "examples": [
+    "That's a straw man; nobody suggested removing tests.",
+    "He attacked a straw man instead of answering my real point.",
+    "Don't build a straw man of the other team's proposal.",
+    "That's a straw man argument; I never said cost doesn't matter."
+   ]
+  },
+  {
+   "id": "pack6-card-690",
+   "mode": "vocab",
+   "word": "red herring",
+   "pron": "(noun)",
+   "def": "A misleading clue that distracts from the real issue\nहिंदी: भटकाने वाला संकेत",
+   "examples": [
+    "The memory warning was a red herring.",
+    "The detective realised the clue was a red herring.",
+    "The argument about fonts was a red herring in the design review.",
+    "Don't let red herrings distract from the main issue."
+   ]
+  },
+  {
+   "id": "pack6-card-691",
+   "mode": "vocab",
+   "word": "ad hoc",
+   "pron": "(adjective)",
+   "def": "Created for a specific purpose without general planning\nहिंदी: तात्कालिक / विशेष उद्देश्य हेतु",
+   "examples": [
+    "Ad hoc fixes make the system harder to maintain.",
+    "We hold ad hoc meetings when urgent problems come up.",
+    "The committee was formed on an ad hoc basis.",
+    "Our reporting is ad hoc, so numbers often don't match."
+   ]
+  },
+  {
+   "id": "pack6-card-693",
+   "mode": "vocab",
+   "word": "algorithmic thinking",
+   "pron": "(noun)",
+   "def": "Breaking problems into clear step-by-step solutions\nहिंदी: चरणबद्ध समाधान सोचने की क्षमता",
+   "examples": [
+    "Algorithmic thinking improves debugging.",
+    "Coding classes teach children algorithmic thinking.",
+    "Algorithmic thinking helps you plan a recipe step by step.",
+    "Interviewers test algorithmic thinking with puzzles."
+   ]
+  },
+  {
+   "id": "pack6-card-694",
+   "mode": "vocab",
+   "word": "decompose",
+   "pron": "(verb)",
+   "def": "To break a problem into smaller parts\nहिंदी: समस्या को छोटे भागों में बाँटना",
+   "examples": [
+    "Decompose the task into tickets of one day each.",
+    "Decompose your big goal into small weekly targets.",
+    "The teacher showed us how to decompose a long problem.",
+    "We decomposed the project into four phases."
+   ]
+  },
+  {
+   "id": "pack6-card-695",
+   "mode": "vocab",
+   "word": "abstract away",
+   "pron": "(phrasal verb)",
+   "def": "To hide complexity behind a simpler layer\nहिंदी: जटिलता को सरल परत के पीछे छुपाना",
+   "examples": [
+    "The library abstracts away the retry logic.",
+    "The app abstracts away the complexity of filing taxes.",
+    "Good APIs abstract away the messy details.",
+    "Cloud services abstract away server management."
+   ]
+  },
+  {
+   "id": "pack6-card-696",
+   "mode": "vocab",
+   "word": "generalise",
+   "pron": "(verb)",
+   "def": "To apply a specific finding more broadly\nहिंदी: विशेष निष्कर्ष को व्यापक रूप से लागू करना",
+   "examples": [
+    "We can't generalise from one vendor's behaviour.",
+    "It's unfair to generalise about people from one city.",
+    "Don't generalise from a single bad experience.",
+    "The findings may generalise to other industries."
+   ]
+  },
+  {
+   "id": "pack6-card-697",
+   "mode": "vocab",
+   "word": "oversimplify",
+   "pron": "(verb)",
+   "def": "To make something seem simpler than it is\nहिंदी: ज़रूरत से ज़्यादा सरल बना देना",
+   "examples": [
+    "Blaming one engineer oversimplifies the incident.",
+    "The news report oversimplified a complex issue.",
+    "Don't oversimplify the problem to get quick approval.",
+    "Saying it's just bad luck oversimplifies what happened."
+   ]
+  },
+  {
+   "id": "pack6-card-699",
+   "mode": "vocab",
+   "word": "substantiated claim",
+   "pron": "(collocation)",
+   "def": "A statement supported by evidence\nहिंदी: प्रमाण से समर्थित दावा",
+   "examples": [
+    "Only substantiated claims belong in the report.",
+    "A substantiated claim carries more weight in court.",
+    "Every substantiated claim in the article has a source.",
+    "Insurance pays only for a substantiated claim."
+   ]
+  },
+  {
+   "id": "pack6-card-700",
+   "mode": "vocab",
+   "word": "unfounded",
+   "pron": "(adjective)",
+   "def": "Having no basis in fact\nहिंदी: निराधार",
+   "examples": [
+    "The rumour about data loss was unfounded.",
+    "Fears of a price rise turned out to be unfounded.",
+    "The complaint against her was unfounded.",
+    "Don't spread unfounded rumours about colleagues."
+   ]
+  },
+  {
+   "id": "pack6-card-701",
+   "mode": "vocab",
+   "word": "baseless",
+   "pron": "(adjective)",
+   "def": "Without evidence or reason\nहिंदी: बेबुनियाद",
+   "examples": [
+    "The accusation was baseless.",
+    "The company called the news report baseless.",
+    "His fear of flying is baseless but real to him.",
+    "Baseless gossip can damage someone's reputation."
+   ]
+  },
+  {
+   "id": "pack6-card-702",
+   "mode": "vocab",
+   "word": "sweeping statement",
+   "pron": "(noun)",
+   "def": "A broad claim made without considering details\nहिंदी: बिना बारीकी के व्यापक कथन",
+   "examples": [
+    "Saying all vendors are unreliable is a sweeping statement.",
+    "Saying young people don't work hard is a sweeping statement.",
+    "Avoid sweeping statements in your performance review.",
+    "His sweeping statement about the city upset many people."
+   ]
+  },
+  {
+   "id": "pack6-card-703",
+   "mode": "vocab",
+   "word": "oversight",
+   "pron": "(noun)",
+   "def": "A failure to notice or consider something\nहिंदी: चूक",
+   "examples": [
+    "The missing alert was an oversight.",
+    "Forgetting to invite her was an oversight, not a choice.",
+    "Due to an oversight, the invoice was sent twice.",
+    "The audit found a serious oversight in the safety checks."
+   ]
+  },
+  {
+   "id": "pack6-card-704",
+   "mode": "vocab",
+   "word": "blind spot",
+   "pron": "(noun)",
+   "def": "An area where one lacks awareness\nहिंदी: जिस पर ध्यान न जाए वह क्षेत्र",
+   "examples": [
+    "Security was a blind spot in our design.",
+    "Mirrors help drivers check their blind spot.",
+    "My blind spot is not noticing when I talk too much.",
+    "Feedback from others helps you see your blind spots."
+   ]
+  },
+  {
+   "id": "pack6-card-705",
+   "mode": "vocab",
+   "word": "loophole",
+   "pron": "(noun)",
+   "def": "A gap in a rule that allows avoidance\nहिंदी: नियम में कमी का छेद",
+   "examples": [
+    "The loophole let invalid files pass validation.",
+    "The government closed a tax loophole for big companies.",
+    "He used a loophole in the contract to avoid paying.",
+    "Check the policy for loopholes before it goes live."
+   ]
+  },
+  {
+   "id": "pack6-card-706",
+   "mode": "vocab",
+   "word": "pitfalls and safeguards",
+   "pron": "(collocation)",
+   "def": "Possible dangers and protective measures\nहिंदी: ख़तरे और बचाव के उपाय",
+   "examples": [
+    "The guide lists pitfalls and safeguards.",
+    "The training covered pitfalls and safeguards of online banking.",
+    "Every new process should list its pitfalls and safeguards.",
+    "We discussed the pitfalls and safeguards of working remotely."
+   ]
+  },
+  {
+   "id": "pack6-card-707",
+   "mode": "vocab",
+   "word": "trade secrets",
+   "pron": "(noun)",
+   "def": "Confidential business information\nहिंदी: व्यावसायिक गोपनीय जानकारी",
+   "examples": [
+    "The contract protects trade secrets.",
+    "The recipe for the drink is one of the company's trade secrets.",
+    "Employees signed an agreement not to share trade secrets.",
+    "He was sued for leaking trade secrets to a competitor."
+   ]
+  },
+  {
+   "id": "pack6-card-708",
+   "mode": "vocab",
+   "word": "a leap of faith",
+   "pron": "(idiom)",
+   "def": "Acting without certainty about the outcome\nहिंदी: अनिश्चितता में भरोसा करके कदम उठाना",
+   "examples": [
+    "Adopting the new platform was a leap of faith.",
+    "Leaving a stable job to start a business was a leap of faith.",
+    "Moving to a new country is always a leap of faith.",
+    "Hiring someone without experience felt like a leap of faith."
+   ]
+  },
+  {
+   "id": "pack6-card-709",
+   "mode": "vocab",
+   "word": "a calculated risk",
+   "pron": "(idiom)",
+   "def": "A risk taken after careful thought\nहिंदी: सोच-समझकर लिया गया जोखिम",
+   "examples": [
+    "Shipping early was a calculated risk.",
+    "Investing in the new market was a calculated risk.",
+    "She took a calculated risk and switched careers at thirty.",
+    "Every startup founder takes calculated risks."
+   ]
+  },
+  {
+   "id": "pack6-card-710",
+   "mode": "vocab",
+   "word": "a double-check",
+   "pron": "(noun)",
+   "def": "A second verification\nहिंदी: दोबारा जाँच",
+   "examples": [
+    "Do a double-check before sending the numbers.",
+    "Give the address a double-check before booking the cab.",
+    "A double-check on the invoice saved us from overpaying.",
+    "Make a double-check part of your routine for important emails."
+   ]
+  },
+  {
+   "id": "pack6-card-711",
+   "mode": "vocab",
+   "word": "cross-check",
+   "pron": "(verb)",
+   "def": "To verify using a different source\nहिंदी: दूसरे स्रोत से मिलान करना",
+   "examples": [
+    "Cross-check the totals with the vendor report.",
+    "Cross-check the news with another source before sharing it.",
+    "The accountant cross-checked the bills with the bank statement.",
+    "Always cross-check passport details before booking flights."
+   ]
+  },
+  {
+   "id": "pack6-card-712",
+   "mode": "vocab",
+   "word": "benchmark against",
+   "pron": "(phrasal verb)",
+   "def": "To compare performance with a standard\nहिंदी: मानक से तुलना करना",
+   "examples": [
+    "We benchmarked the new parser against the old one.",
+    "We benchmarked our salaries against similar companies.",
+    "Benchmark against last year to see how much you've improved.",
+    "The new phone was benchmarked against its main rival."
+   ]
+  },
+  {
+   "id": "pack6-card-713",
+   "mode": "vocab",
+   "word": "stress-test",
+   "pron": "(verb)",
+   "def": "To test under extreme conditions\nहिंदी: चरम स्थितियों में परखना",
+   "examples": [
+    "We stress-tested the platform with ten times the volume.",
+    "Banks stress-test their finances against a market crash.",
+    "We stress-tested the website before the big sale.",
+    "Stress-test your budget by assuming income drops by twenty percent."
+   ]
+  },
+  {
+   "id": "pack6-card-714",
+   "mode": "vocab",
+   "word": "sanity-check",
+   "pron": "(verb)",
+   "def": "To quickly verify that a result is reasonable\nहिंदी: तर्कसंगतता जाँचना",
+   "examples": [
+    "Sanity-check the report totals before sharing.",
+    "Sanity-check the travel plan before booking everything.",
+    "I always sanity-check my maths with a quick estimate.",
+    "Ask a colleague to sanity-check your slides."
+   ]
+  },
+  {
+   "id": "pack6-card-715",
+   "mode": "vocab",
+   "word": "debrief",
+   "pron": "(noun)",
+   "def": "A discussion after an event to review what happened\nहिंदी: घटना के बाद की समीक्षा चर्चा",
+   "examples": [
+    "We held a debrief after the release.",
+    "The pilots attended a debrief after the flight.",
+    "Let's do a quick debrief after the client meeting.",
+    "The debrief helped the new team understand what went wrong."
+   ]
+  },
+  {
+   "id": "pack6-card-716",
+   "mode": "vocab",
+   "word": "lessons learned",
+   "pron": "(noun)",
+   "def": "Insights gained from experience\nहिंदी: अनुभव से मिली सीख",
+   "examples": [
+    "Capture lessons learned in the postmortem.",
+    "Share the lessons learned with the next project team.",
+    "One lesson learned was to involve users earlier.",
+    "Our lessons learned document helps us avoid repeat mistakes."
+   ]
+  },
+  {
+   "id": "pack6-card-717",
+   "mode": "vocab",
+   "word": "institutional knowledge",
+   "pron": "(noun)",
+   "def": "Information held by long-term employees\nहिंदी: संस्था में दीर्घकालिक अनुभव से बना ज्ञान",
+   "examples": [
+    "Institutional knowledge leaves when seniors resign.",
+    "Write down institutional knowledge before people retire.",
+    "She holds a lot of institutional knowledge about our clients.",
+    "Losing institutional knowledge slows new teams down."
+   ]
+  }
+ ]
+}

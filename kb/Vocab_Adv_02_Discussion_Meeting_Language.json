@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 02 - Discussion & Meeting Language",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "build on",
+      "definition": "To add to or develop someone else's idea (किसी के विचार को आगे बढ़ाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "I'd like to build on Priya's point about retries."
+    },
+    {
+      "id": "2",
+      "word": "push back",
+      "definition": "To resist or disagree with a proposal respectfully (विनम्रता से असहमति जताना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "I'd push back slightly on the timeline; it looks tight."
+    },
+    {
+      "id": "3",
+      "word": "weigh in",
+      "definition": "To contribute an opinion to a discussion (अपनी राय रखना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Could someone from security weigh in on this?"
+    },
+    {
+      "id": "4",
+      "word": "chime in",
+      "definition": "To join a conversation with a comment (बातचीत में बीच में जुड़ना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Feel free to chime in if I miss anything."
+    },
+    {
+      "id": "5",
+      "word": "jump in",
+      "definition": "To start contributing, often by interrupting politely (बातचीत में कूदकर शामिल होना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Sorry to jump in, but I have a quick clarification."
+    },
+    {
+      "id": "6",
+      "word": "circle back",
+      "definition": "To return to a topic later (बाद में उसी विषय पर लौटना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Let's circle back to cost once we know the design."
+    },
+    {
+      "id": "7",
+      "word": "loop in",
+      "definition": "To include someone in communication (किसी को चर्चा में शामिल करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "I'll loop in the data team on this thread."
+    },
+    {
+      "id": "8",
+      "word": "flag",
+      "definition": "To draw attention to a potential issue (संभावित समस्या की ओर ध्यान दिलाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I want to flag a risk with the current approach."
+    },
+    {
+      "id": "9",
+      "word": "surface",
+      "definition": "To bring a hidden issue to attention (छुपी समस्या को सामने लाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The review surfaced several gaps in our testing."
+    },
+    {
+      "id": "10",
+      "word": "tease out",
+      "definition": "To extract details carefully from a complex situation (बारीकी से जानकारी निकालना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We need to tease out the real requirement behind the request."
+    },
+    {
+      "id": "11",
+      "word": "unpack",
+      "definition": "To analyse a complex idea in detail (जटिल विचार को खोलकर समझना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's unpack what failure means in this context."
+    },
+    {
+      "id": "12",
+      "word": "drill down",
+      "definition": "To examine something in greater detail (गहराई में जाकर जाँचना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Let's drill down into why latency spikes at noon."
+    },
+    {
+      "id": "13",
+      "word": "zoom out",
+      "definition": "To look at the broader picture (बड़ी तस्वीर देखना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Let's zoom out and ask what problem we're really solving."
+    },
+    {
+      "id": "14",
+      "word": "take a step back",
+      "definition": "To reconsider a situation from a broader perspective (एक कदम पीछे हटकर सोचना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's take a step back and look at the overall design."
+    },
+    {
+      "id": "15",
+      "word": "play devil's advocate",
+      "definition": "To argue an opposing view to test an idea (परीक्षण के लिए विरोधी पक्ष लेना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let me play devil's advocate and question the need for Kafka here."
+    },
+    {
+      "id": "16",
+      "word": "steelman",
+      "definition": "To present the strongest version of an opposing argument (विपरीत तर्क का सबसे मज़बूत रूप रखना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let me steelman the case for keeping the monolith."
+    },
+    {
+      "id": "17",
+      "word": "concede",
+      "definition": "To admit that a point is valid (बात मान लेना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I'll concede that the cost is lower, but the risk is higher."
+    },
+    {
+      "id": "18",
+      "word": "acknowledge",
+      "definition": "To recognise or accept the existence or truth of something (स्वीकार करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I acknowledge the concern, and here is how we plan to address it."
+    },
+    {
+      "id": "19",
+      "word": "reiterate",
+      "definition": "To say again for emphasis (दोहराकर ज़ोर देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let me reiterate that this change must be backward compatible."
+    },
+    {
+      "id": "20",
+      "word": "recap",
+      "definition": "To summarise the main points (मुख्य बिंदुओं को दोहराना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let me quickly recap what we've agreed so far."
+    },
+    {
+      "id": "21",
+      "word": "paraphrase",
+      "definition": "To restate in different words (अपने शब्दों में दोहराना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let me paraphrase to make sure I understood you correctly."
+    },
+    {
+      "id": "22",
+      "word": "summarise",
+      "definition": "To give a brief statement of the main points (सारांश देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Can someone summarise the decisions for the notes?"
+    },
+    {
+      "id": "23",
+      "word": "reframe",
+      "definition": "To present a problem from a different angle (समस्या को नए दृष्टिकोण से रखना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let me reframe the question: what happens when the vendor is late?"
+    },
+    {
+      "id": "24",
+      "word": "frame",
+      "definition": "To present or structure a problem in a particular way (समस्या को किसी रूप में प्रस्तुत करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "How we frame this will affect which options we consider."
+    },
+    {
+      "id": "25",
+      "word": "rationale",
+      "definition": "The reasoning behind a decision (तर्कसंगत आधार)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Could you share the rationale behind choosing this vendor?"
+    },
+    {
+      "id": "26",
+      "word": "justification",
+      "definition": "A reason given to defend a decision (औचित्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We need stronger justification for the extra cost."
+    },
+    {
+      "id": "27",
+      "word": "premise",
+      "definition": "A statement that an argument is based on (तर्क की आधारभूत धारणा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The premise that volume will double is questionable."
+    },
+    {
+      "id": "28",
+      "word": "counterargument",
+      "definition": "An argument against a position (प्रतितर्क)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A strong counterargument is the added operational burden."
+    },
+    {
+      "id": "29",
+      "word": "objection",
+      "definition": "An expression of disagreement or concern (आपत्ति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Does anyone have an objection to moving the release?"
+    },
+    {
+      "id": "30",
+      "word": "reservation",
+      "definition": "A doubt or concern about a plan (संदेह / आशंका)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "I have some reservations about the rollout plan."
+    },
+    {
+      "id": "31",
+      "word": "misgiving",
+      "definition": "A feeling of doubt about the outcome (मन में शंका)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "I have misgivings about relying on a single vendor."
+    },
+    {
+      "id": "32",
+      "word": "skeptical",
+      "definition": "Having doubts about whether something is true or wise (संशयी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "I'm skeptical that we can finish this by Friday."
+    },
+    {
+      "id": "33",
+      "word": "sceptical",
+      "definition": "Having doubts (British spelling) (संशयी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She was sceptical about the benchmark results."
+    },
+    {
+      "id": "34",
+      "word": "cautious",
+      "definition": "Careful to avoid risk (सतर्क)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "I'd be cautious about changing the schema this late."
+    },
+    {
+      "id": "35",
+      "word": "optimistic",
+      "definition": "Hopeful and confident about the outcome (आशावादी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "I'm cautiously optimistic about the migration."
+    },
+    {
+      "id": "36",
+      "word": "realistic",
+      "definition": "Based on what can actually be achieved (यथार्थवादी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Let's set a realistic target for the first phase."
+    },
+    {
+      "id": "37",
+      "word": "ambitious",
+      "definition": "Having a strong desire to achieve something challenging (महत्वाकांक्षी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "That's an ambitious plan for one quarter."
+    },
+    {
+      "id": "38",
+      "word": "feasible",
+      "definition": "Possible and practical to do (व्यवहार्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Is it feasible to deliver this without extra people?"
+    },
+    {
+      "id": "39",
+      "word": "plausible",
+      "definition": "Reasonable and likely to be true (संभाव्य और विश्वसनीय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A plausible explanation is that the cache was stale."
+    },
+    {
+      "id": "40",
+      "word": "credible",
+      "definition": "Believable and trustworthy (विश्वसनीय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We need a credible plan to recover the lost time."
+    },
+    {
+      "id": "41",
+      "word": "compelling",
+      "definition": "Strongly convincing (ज़ोरदार / प्रभावशाली)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The data makes a compelling case for change."
+    },
+    {
+      "id": "42",
+      "word": "persuasive",
+      "definition": "Good at convincing others (प्रेरक / क़ायल करने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Her persuasive presentation won over the sceptics."
+    },
+    {
+      "id": "43",
+      "word": "valid",
+      "definition": "Logically sound or justified (तर्कसंगत / वैध)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "That's a valid concern, and we should address it."
+    },
+    {
+      "id": "44",
+      "word": "legitimate",
+      "definition": "Justified and reasonable (जायज़)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "It's a legitimate question about long-term support."
+    },
+    {
+      "id": "45",
+      "word": "fair point",
+      "definition": "An acknowledgement that someone's argument is reasonable (आपकी बात ठीक है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Fair point; I hadn't considered the audit angle."
+    },
+    {
+      "id": "46",
+      "word": "good catch",
+      "definition": "Praise for noticing a problem or detail (अच्छा पकड़ा)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Good catch on the missing null check."
+    },
+    {
+      "id": "47",
+      "word": "to be fair",
+      "definition": "Used to add a balanced or contrasting point (निष्पक्ष होकर कहूँ तो)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "To be fair, the vendor did warn us about this."
+    },
+    {
+      "id": "48",
+      "word": "that said",
+      "definition": "Introducing a contrasting point after a concession (ऐसा कहने के बाद भी)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The design is solid. That said, the timeline is risky."
+    },
+    {
+      "id": "49",
+      "word": "having said that",
+      "definition": "Introducing a contrasting statement (यह कहने के बावजूद)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Having said that, I understand why the team chose it."
+    },
+    {
+      "id": "50",
+      "word": "on the other hand",
+      "definition": "Introducing an opposing consideration (दूसरी ओर)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "On the other hand, a rewrite would take months."
+    },
+    {
+      "id": "51",
+      "word": "by the same token",
+      "definition": "Used to show a similar conclusion follows (इसी तरह)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "By the same token, if we skip testing we invite bugs."
+    },
+    {
+      "id": "52",
+      "word": "in light of",
+      "definition": "Taking something into consideration (को ध्यान में रखते हुए)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "In light of the incident, we should revisit our alerts."
+    },
+    {
+      "id": "53",
+      "word": "given that",
+      "definition": "Considering the fact that (यह देखते हुए कि)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Given that the deadline is fixed, we should cut scope."
+    },
+    {
+      "id": "54",
+      "word": "as far as I'm concerned",
+      "definition": "Expressing a personal view (जहाँ तक मेरा सवाल है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "As far as I'm concerned, reliability comes first."
+    },
+    {
+      "id": "55",
+      "word": "from my perspective",
+      "definition": "Introducing one's own point of view (मेरे दृष्टिकोण से)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "From my perspective, the biggest risk is data quality."
+    },
+    {
+      "id": "56",
+      "word": "the way I see it",
+      "definition": "Introducing an opinion informally (जैसा मैं देखता हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The way I see it, we're over-engineering this."
+    },
+    {
+      "id": "57",
+      "word": "if anything",
+      "definition": "Used to add a slightly stronger or contrary observation (बल्कि)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "If anything, the change made the system more stable."
+    },
+    {
+      "id": "58",
+      "word": "for what it's worth",
+      "definition": "Offering an opinion modestly (मेरी राय के लिए जो भी मूल्य हो)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "For what it's worth, I'd prefer the simpler option."
+    },
+    {
+      "id": "59",
+      "word": "to my mind",
+      "definition": "In my opinion (मेरे विचार में)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "To my mind, observability should be a first-class requirement."
+    },
+    {
+      "id": "60",
+      "word": "I tend to think",
+      "definition": "Expressing a considered but tentative opinion (मेरा झुकाव यह सोचने की ओर है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I tend to think we should wait for more data."
+    },
+    {
+      "id": "61",
+      "word": "I'm inclined to",
+      "definition": "Expressing a leaning towards an option (मेरा झुकाव है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I'm inclined to go with the managed service."
+    },
+    {
+      "id": "62",
+      "word": "I'm leaning towards",
+      "definition": "Showing a preference without final decision (मैं ... की ओर झुक रहा हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I'm leaning towards option two because of lower risk."
+    },
+    {
+      "id": "63",
+      "word": "I'm on the fence",
+      "definition": "Undecided between two options (दुविधा में होना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "I'm on the fence about adopting the new framework."
+    },
+    {
+      "id": "64",
+      "word": "I'm torn",
+      "definition": "Feeling unable to decide between options (असमंजस में हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I'm torn between speed and safety here."
+    },
+    {
+      "id": "65",
+      "word": "my gut feeling",
+      "definition": "An instinctive sense without detailed evidence (मेरा अंतर्ज्ञान)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "My gut feeling is that the issue is in the network layer."
+    },
+    {
+      "id": "66",
+      "word": "my take",
+      "definition": "My view or interpretation (मेरी राय / समझ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "My take is that we should ship the smaller scope first."
+    },
+    {
+      "id": "67",
+      "word": "hear me out",
+      "definition": "Asking others to listen before judging (पूरी बात सुन लीजिए)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Hear me out; it sounds odd but it saves two weeks."
+    },
+    {
+      "id": "68",
+      "word": "bear with me",
+      "definition": "Asking for patience while explaining (थोड़ा धैर्य रखें)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Bear with me while I walk through the data flow."
+    },
+    {
+      "id": "69",
+      "word": "if I may",
+      "definition": "Politely asking permission to speak or suggest (यदि आप अनुमति दें)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "If I may, I'd like to suggest a simpler alternative."
+    },
+    {
+      "id": "70",
+      "word": "with all due respect",
+      "definition": "A polite opener before disagreeing (पूरे सम्मान के साथ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "With all due respect, I think the numbers say otherwise."
+    },
+    {
+      "id": "71",
+      "word": "no offence",
+      "definition": "Softening a potentially critical remark (बुरा न मानें)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "No offence, but this section needs more detail."
+    },
+    {
+      "id": "72",
+      "word": "correct me if I'm wrong",
+      "definition": "Inviting correction while stating an assumption (अगर मैं ग़लत हूँ तो सुधारें)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Correct me if I'm wrong, but doesn't this break the contract?"
+    },
+    {
+      "id": "73",
+      "word": "just to clarify",
+      "definition": "Introducing a clarifying question (बस स्पष्ट करने के लिए)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Just to clarify, are we including the weekend files?"
+    },
+    {
+      "id": "74",
+      "word": "just to confirm",
+      "definition": "Checking understanding (बस पुष्टि के लिए)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Just to confirm, the cutover is on Saturday at nine."
+    },
+    {
+      "id": "75",
+      "word": "to put it differently",
+      "definition": "Rephrasing for clarity (दूसरे शब्दों में)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "To put it differently, we're trading flexibility for speed."
+    },
+    {
+      "id": "76",
+      "word": "in other words",
+      "definition": "Restating something in simpler terms (दूसरे शब्दों में)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "In other words, we can't deploy until legal approves."
+    },
+    {
+      "id": "77",
+      "word": "long story short",
+      "definition": "Giving a brief summary of a long explanation (संक्षेप में कहें तो)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Long story short, the vendor's file was corrupt."
+    },
+    {
+      "id": "78",
+      "word": "the bottom line",
+      "definition": "The most important conclusion (सबसे ज़रूरी निष्कर्ष)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The bottom line is that we need two more engineers."
+    },
+    {
+      "id": "79",
+      "word": "the upshot",
+      "definition": "The final result or conclusion (अंतिम नतीजा)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The upshot is that we can proceed with minimal risk."
+    },
+    {
+      "id": "80",
+      "word": "the crux of the matter",
+      "definition": "The most important part of an issue (मामले का सार)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The crux of the matter is who owns the data quality."
+    },
+    {
+      "id": "81",
+      "word": "the key takeaway",
+      "definition": "The main lesson or conclusion (मुख्य निष्कर्ष)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "The key takeaway is to test failure paths early."
+    },
+    {
+      "id": "82",
+      "word": "the elephant in the room",
+      "definition": "An obvious problem that no one wants to discuss (वह बड़ी समस्या जिस पर कोई बात नहीं करता)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The elephant in the room is our lack of test coverage."
+    },
+    {
+      "id": "83",
+      "word": "a moot point",
+      "definition": "An issue no longer relevant or open to debate (अब अप्रासंगिक मुद्दा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Whether to retry is a moot point; the vendor won't resend."
+    },
+    {
+      "id": "84",
+      "word": "off the table",
+      "definition": "No longer available for consideration (विचार से बाहर)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "A full rewrite is off the table this year."
+    },
+    {
+      "id": "85",
+      "word": "on the table",
+      "definition": "Available for consideration (विचाराधीन)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Two options are on the table at the moment."
+    },
+    {
+      "id": "86",
+      "word": "back to the drawing board",
+      "definition": "Starting again after a failure (फिर से शुरुआत करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The prototype failed, so it's back to the drawing board."
+    },
+    {
+      "id": "87",
+      "word": "touch on",
+      "definition": "To briefly mention a topic (संक्षेप में चर्चा करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "I'll touch on security briefly at the end."
+    },
+    {
+      "id": "88",
+      "word": "dwell on",
+      "definition": "To spend too much time thinking or talking about something (किसी बात पर बहुत देर अटके रहना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Let's not dwell on the past; let's fix the process."
+    },
+    {
+      "id": "89",
+      "word": "gloss over",
+      "definition": "To treat a matter too briefly or superficially (किसी बात को सरसरी तौर पर निपटाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We shouldn't gloss over the data-loss risk."
+    },
+    {
+      "id": "90",
+      "word": "sidestep",
+      "definition": "To avoid dealing with an issue (मुद्दे से बचना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We can't sidestep the compliance question any longer."
+    },
+    {
+      "id": "91",
+      "word": "beat around the bush",
+      "definition": "To avoid getting to the main point (घुमा-फिराकर बात करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let me not beat around the bush: we will miss the date."
+    },
+    {
+      "id": "92",
+      "word": "get to the point",
+      "definition": "To come to the main issue directly (सीधे मुद्दे पर आना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let me get to the point: we need approval today."
+    },
+    {
+      "id": "93",
+      "word": "cut to the chase",
+      "definition": "To come to the important part without delay (सीधे मुख्य बात पर आना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "To cut to the chase, we need another week."
+    },
+    {
+      "id": "94",
+      "word": "on the same page",
+      "definition": "Sharing the same understanding (एक ही समझ पर होना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's make sure we're all on the same page about scope."
+    },
+    {
+      "id": "95",
+      "word": "see eye to eye",
+      "definition": "To agree completely (पूरी तरह सहमत होना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We don't see eye to eye on the testing strategy."
+    },
+    {
+      "id": "96",
+      "word": "meet halfway",
+      "definition": "To compromise (बीच का रास्ता निकालना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Let's meet halfway and release in two phases."
+    },
+    {
+      "id": "97",
+      "word": "reach a consensus",
+      "definition": "To arrive at general agreement (आम सहमति पर पहुँचना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "We reached a consensus to postpone the migration."
+    },
+    {
+      "id": "98",
+      "word": "come to a decision",
+      "definition": "To decide after consideration (निर्णय पर पहुँचना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "We need to come to a decision by Thursday."
+    },
+    {
+      "id": "99",
+      "word": "make a case for",
+      "definition": "To present arguments in support of something (किसी पक्ष में तर्क देना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "She made a strong case for investing in automation."
+    },
+    {
+      "id": "100",
+      "word": "raise a concern",
+      "definition": "To mention a worry formally (चिंता उठाना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "I'd like to raise a concern about the rollback plan."
+    },
+    {
+      "id": "101",
+      "word": "voice an opinion",
+      "definition": "To express a view openly (राय व्यक्त करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Please voice your opinion before we finalise."
+    },
+    {
+      "id": "102",
+      "word": "take ownership",
+      "definition": "To accept responsibility (ज़िम्मेदारी लेना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "He took ownership of the incident follow-ups."
+    },
+    {
+      "id": "103",
+      "word": "drive a discussion",
+      "definition": "To lead and steer a conversation (चर्चा का नेतृत्व करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "She drove the discussion towards a clear decision."
+    },
+    {
+      "id": "104",
+      "word": "steer the conversation",
+      "definition": "To guide a discussion in a chosen direction (बातचीत को दिशा देना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "He steered the conversation back to the customer impact."
+    },
+    {
+      "id": "105",
+      "word": "keep it on track",
+      "definition": "To maintain focus and progress (चर्चा को पटरी पर रखना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "I'll keep the meeting on track and timeboxed."
+    },
+    {
+      "id": "106",
+      "word": "timebox",
+      "definition": "To limit a task or discussion to a fixed duration (समय-सीमा तय करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's timebox this debate to ten minutes."
+    },
+    {
+      "id": "107",
+      "word": "table",
+      "definition": "To postpone discussion of something (British: to bring forward) (चर्चा को स्थगित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let's table this until we have the cost estimate."
+    },
+    {
+      "id": "108",
+      "word": "defer",
+      "definition": "To postpone to a later time (आगे के लिए टालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We decided to defer the refactor to next quarter."
+    },
+    {
+      "id": "109",
+      "word": "reprioritise",
+      "definition": "To change the order of importance (प्राथमिकता फिर से तय करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We reprioritised after the client escalation."
+    },
+    {
+      "id": "110",
+      "word": "buy-in",
+      "definition": "Agreement and support from stakeholders (हितधारकों का समर्थन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We need leadership buy-in before we start."
+    },
+    {
+      "id": "111",
+      "word": "endorse",
+      "definition": "To publicly support or approve (समर्थन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The architect endorsed the proposed design."
+    },
+    {
+      "id": "112",
+      "word": "advocate",
+      "definition": "To publicly support a cause or idea (पैरवी करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I advocate for adding more automated tests."
+    },
+    {
+      "id": "113",
+      "word": "champion",
+      "definition": "To strongly support and promote an idea (किसी विचार को बढ़ावा देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She championed the move to infrastructure as code."
+    },
+    {
+      "id": "114",
+      "word": "rally",
+      "definition": "To bring people together for a common purpose (लोगों को एकजुट करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "He rallied the team around the new quality goals."
+    },
+    {
+      "id": "115",
+      "word": "galvanise",
+      "definition": "To spur people into action (कार्रवाई के लिए प्रेरित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The outage galvanised the company to invest in resilience."
+    },
+    {
+      "id": "116",
+      "word": "mobilise",
+      "definition": "To organise resources or people for action (संसाधनों/लोगों को जुटाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We mobilised three teams to fix the data issue."
+    },
+    {
+      "id": "117",
+      "word": "align",
+      "definition": "To bring into agreement or proper position (तालमेल बिठाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We should align on priorities before the planning session."
+    },
+    {
+      "id": "118",
+      "word": "consensus",
+      "definition": "General agreement among a group (आम सहमति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There was no consensus on the release date."
+    },
+    {
+      "id": "119",
+      "word": "dissent",
+      "definition": "Disagreement with a prevailing view (असहमति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The architect noted her dissent in the meeting minutes."
+    },
+    {
+      "id": "120",
+      "word": "objective",
+      "definition": "Based on facts rather than personal feelings (वस्तुनिष्ठ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Let's make an objective comparison using data."
+    },
+    {
+      "id": "121",
+      "word": "subjective",
+      "definition": "Based on personal opinion or feelings (व्यक्तिपरक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Code readability is partly subjective."
+    },
+    {
+      "id": "122",
+      "word": "biased",
+      "definition": "Showing unfair preference (पक्षपाती)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Our estimate is biased towards optimistic outcomes."
+    },
+    {
+      "id": "123",
+      "word": "impartial",
+      "definition": "Treating all sides equally (निष्पक्ष)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We need an impartial review of both options."
+    },
+    {
+      "id": "124",
+      "word": "open-minded",
+      "definition": "Willing to consider new ideas (खुले विचारों वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Please be open-minded about the alternative design."
+    },
+    {
+      "id": "125",
+      "word": "receptive",
+      "definition": "Willing to consider and accept ideas (ग्रहणशील)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The team was receptive to the new process."
+    },
+    {
+      "id": "126",
+      "word": "defensive",
+      "definition": "Overly protective of oneself against criticism (रक्षात्मक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Don't get defensive; it's feedback on the code, not you."
+    },
+    {
+      "id": "127",
+      "word": "constructive",
+      "definition": "Helpful and intended to improve (रचनात्मक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She offered constructive feedback on my design."
+    },
+    {
+      "id": "128",
+      "word": "candid",
+      "definition": "Honest and direct (स्पष्टवादी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "I appreciate your candid feedback."
+    },
+    {
+      "id": "129",
+      "word": "tactful",
+      "definition": "Careful not to offend others (व्यवहारकुशल)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "He was tactful when pointing out the mistake."
+    },
+    {
+      "id": "130",
+      "word": "diplomatic",
+      "definition": "Skilled at handling sensitive situations (कूटनीतिक / चतुर)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Her diplomatic response defused the tension."
+    },
+    {
+      "id": "131",
+      "word": "assertive",
+      "definition": "Confident and direct without being aggressive (दृढ़ पर विनम्र)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Be assertive about the risks without sounding aggressive."
+    },
+    {
+      "id": "132",
+      "word": "eloquent",
+      "definition": "Fluent and persuasive in speaking (वाक्पटु)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Her eloquent explanation convinced the board."
+    },
+    {
+      "id": "133",
+      "word": "coherent",
+      "definition": "Logical and consistent (सुसंगत)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Your argument is clear and coherent."
+    },
+    {
+      "id": "134",
+      "word": "cogent",
+      "definition": "Clear, logical and convincing (ठोस और तर्कसंगत)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She made a cogent argument for refactoring now."
+    },
+    {
+      "id": "135",
+      "word": "lucid",
+      "definition": "Clearly expressed and easy to understand (स्पष्ट और सुबोध)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "His lucid explanation helped the whole team."
+    },
+    {
+      "id": "136",
+      "word": "vague",
+      "definition": "Not clearly expressed or defined (अस्पष्ट)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The requirements are too vague to estimate."
+    },
+    {
+      "id": "137",
+      "word": "ambiguous",
+      "definition": "Open to more than one interpretation (दो अर्थ वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The ambiguous wording led to confusion."
+    },
+    {
+      "id": "138",
+      "word": "explicit",
+      "definition": "Stated clearly and in detail (स्पष्ट रूप से कहा गया)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Please be explicit about who owns each task."
+    },
+    {
+      "id": "139",
+      "word": "implicit",
+      "definition": "Implied but not directly stated (अप्रत्यक्ष / निहित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "There's an implicit assumption that data arrives on time."
+    },
+    {
+      "id": "140",
+      "word": "tangent",
+      "definition": "A digression from the main topic (विषय से भटकाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We went off on a tangent about tooling."
+    },
+    {
+      "id": "141",
+      "word": "digress",
+      "definition": "To leave the main subject temporarily (मुख्य विषय से भटकना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Sorry to digress, but this relates to our earlier issue."
+    },
+    {
+      "id": "142",
+      "word": "rambling",
+      "definition": "Long, unfocused and confusing (बेतरतीब और लंबा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The rambling update lost the audience."
+    },
+    {
+      "id": "143",
+      "word": "verbose",
+      "definition": "Using more words than necessary (शब्दों की भरमार वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The documentation is too verbose to be useful."
+    },
+    {
+      "id": "144",
+      "word": "terse",
+      "definition": "Using very few words, sometimes abruptly (बहुत संक्षिप्त / रूखा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "His terse reply felt dismissive."
+    },
+    {
+      "id": "145",
+      "word": "blunt",
+      "definition": "Direct to the point of being rude (रूखा-सूखा स्पष्ट)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "I'll be blunt: this design won't scale."
+    },
+    {
+      "id": "146",
+      "word": "tentative",
+      "definition": "Not certain or final (अस्थायी / संकोची)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "This is a tentative plan pending approval."
+    },
+    {
+      "id": "147",
+      "word": "provisional",
+      "definition": "Arranged for now but likely to change (अनंतिम)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We've set a provisional release date for March."
+    },
+    {
+      "id": "148",
+      "word": "definitive",
+      "definition": "Final and authoritative (निर्णायक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We don't yet have a definitive answer on cost."
+    },
+    {
+      "id": "149",
+      "word": "conclusive",
+      "definition": "Decisive and settling a question (निर्णायक रूप से प्रमाणित करने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The test results were not conclusive."
+    },
+    {
+      "id": "150",
+      "word": "inconclusive",
+      "definition": "Not leading to a firm result (अनिर्णायक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The investigation was inconclusive."
+    },
+    {
+      "id": "151",
+      "word": "granted",
+      "definition": "Used to admit a point before giving a contrast (माना कि / ठीक है कि)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Granted, the fix is quick, but is it safe?"
+    },
+    {
+      "id": "152",
+      "word": "frankly speaking",
+      "definition": "To say something openly and honestly (साफ़ कहूँ तो)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Frankly speaking, the estimate looks optimistic."
+    },
+    {
+      "id": "153",
+      "word": "on reflection",
+      "definition": "After thinking again carefully (सोचने के बाद)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "On reflection, I think we should delay the release."
+    },
+    {
+      "id": "154",
+      "word": "come to think of it",
+      "definition": "Used when a new thought occurs (अब सोचता हूँ तो)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Come to think of it, we never tested that path."
+    },
+    {
+      "id": "155",
+      "word": "I couldn't agree more",
+      "definition": "I completely agree (मैं पूरी तरह सहमत हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I couldn't agree more; monitoring should come first."
+    },
+    {
+      "id": "156",
+      "word": "I beg to differ",
+      "definition": "A polite way of disagreeing (मैं विनम्रता से असहमत हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I beg to differ; the data tells another story."
+    },
+    {
+      "id": "157",
+      "word": "I see where you're coming from",
+      "definition": "I understand your point of view (मैं आपकी बात समझता हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I see where you're coming from, but the risk is higher."
+    },
+    {
+      "id": "158",
+      "word": "I take your point",
+      "definition": "I accept that your argument is valid (मैं आपकी बात मानता हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I take your point about the cost."
+    },
+    {
+      "id": "159",
+      "word": "point taken",
+      "definition": "I accept what you said (बात समझ में आई)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Point taken; I'll add more tests."
+    },
+    {
+      "id": "160",
+      "word": "I'm not entirely convinced",
+      "definition": "Expressing polite doubt (मुझे पूरी तरह यक़ीन नहीं है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I'm not entirely convinced this will scale."
+    },
+    {
+      "id": "161",
+      "word": "I'm afraid I disagree",
+      "definition": "A polite way to disagree (मुझे अफ़सोस है, मैं असहमत हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I'm afraid I disagree with that estimate."
+    },
+    {
+      "id": "162",
+      "word": "let me rephrase that",
+      "definition": "I'll say that in a clearer way (मैं इसे दूसरे ढंग से कहता हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Let me rephrase that so it's less confusing."
+    },
+    {
+      "id": "163",
+      "word": "let me play that back",
+      "definition": "I'll repeat what I understood (मैं जो समझा, दोहराता हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Let me play that back to make sure I've got it."
+    },
+    {
+      "id": "164",
+      "word": "that's a fair concern",
+      "definition": "Acknowledging a valid worry (यह एक जायज़ चिंता है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "That's a fair concern; we'll add a safeguard."
+    },
+    {
+      "id": "165",
+      "word": "that's debatable",
+      "definition": "Saying a point is open to argument (यह बहस का विषय है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "That's debatable; others have seen different results."
+    },
+    {
+      "id": "166",
+      "word": "I'd argue that",
+      "definition": "Introducing a reasoned opinion (मेरा तर्क है कि)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I'd argue that maintainability matters more than speed here."
+    },
+    {
+      "id": "167",
+      "word": "I'd suggest",
+      "definition": "Politely proposing an idea (मेरा सुझाव होगा)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I'd suggest we run a smaller pilot first."
+    },
+    {
+      "id": "168",
+      "word": "I'd recommend",
+      "definition": "Formally advising a course of action (मैं सलाह दूँगा)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I'd recommend adding retries before launch."
+    },
+    {
+      "id": "169",
+      "word": "may I propose",
+      "definition": "Politely offering a plan (क्या मैं एक प्रस्ताव रखूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "May I propose a phased rollout?"
+    },
+    {
+      "id": "170",
+      "word": "what if we",
+      "definition": "Introducing a hypothetical idea (क्यों न हम ... करें)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "What if we split the job into two stages?"
+    },
+    {
+      "id": "171",
+      "word": "how about",
+      "definition": "Casually suggesting an option (... कैसा रहेगा)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "How about we review this on Thursday?"
+    },
+    {
+      "id": "172",
+      "word": "would it make sense to",
+      "definition": "Suggesting an option as a question (क्या यह उचित होगा कि)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Would it make sense to wait for the vendor's fix?"
+    },
+    {
+      "id": "173",
+      "word": "is it worth",
+      "definition": "Questioning whether an effort is justified (क्या ... करना फ़ायदेमंद है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Is it worth rewriting the module now?"
+    },
+    {
+      "id": "174",
+      "word": "what's the rationale",
+      "definition": "Asking for the reason behind a decision (इसके पीछे तर्क क्या है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "What's the rationale behind the new schema?"
+    },
+    {
+      "id": "175",
+      "word": "what are we optimising for",
+      "definition": "Asking what the main goal is (हम किस चीज़ को सबसे अहम मान रहे हैं)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "What are we optimising for: speed or cost?"
+    },
+    {
+      "id": "176",
+      "word": "what's the impact",
+      "definition": "Asking about consequences (इसका क्या असर होगा)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "What's the impact on downstream consumers?"
+    },
+    {
+      "id": "177",
+      "word": "what's the worst case",
+      "definition": "Asking about the most negative outcome (सबसे बुरा परिणाम क्या हो सकता है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "What's the worst case if the vendor is late?"
+    },
+    {
+      "id": "178",
+      "word": "what would it take",
+      "definition": "Asking what is required to achieve something (इसके लिए क्या चाहिए होगा)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "What would it take to finish by Friday?"
+    },
+    {
+      "id": "179",
+      "word": "where do we stand",
+      "definition": "Asking about current status (हम किस स्थिति में हैं)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Where do we stand on the security review?"
+    },
+    {
+      "id": "180",
+      "word": "where does that leave us",
+      "definition": "Asking about the situation after new information (तो अब हमारी स्थिति क्या है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Where does that leave us on the timeline?"
+    },
+    {
+      "id": "181",
+      "word": "is that a blocker",
+      "definition": "Asking if something prevents progress (क्या यह रुकावट है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Is that a blocker or just a nice-to-have?"
+    },
+    {
+      "id": "182",
+      "word": "can we get a quick show of hands",
+      "definition": "Asking participants to vote visibly (क्या हाथ उठाकर राय ले सकते हैं)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Can we get a quick show of hands on option B?"
+    },
+    {
+      "id": "183",
+      "word": "does that ring a bell",
+      "definition": "Asking whether something is familiar (क्या यह याद आता है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Does the name of that vendor ring a bell?"
+    },
+    {
+      "id": "184",
+      "word": "does that make sense",
+      "definition": "Checking understanding (क्या यह समझ में आया)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Does that make sense, or should I draw it?"
+    },
+    {
+      "id": "185",
+      "word": "am I making sense",
+      "definition": "Checking that you are being understood (क्या मैं स्पष्ट बोल रहा हूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Am I making sense, or should I explain differently?"
+    },
+    {
+      "id": "186",
+      "word": "are we on the same page",
+      "definition": "Checking shared understanding (क्या हम एक ही समझ पर हैं)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Are we on the same page about the deadline?"
+    },
+    {
+      "id": "187",
+      "word": "does anyone have any objections",
+      "definition": "Inviting disagreement before deciding (क्या किसी को आपत्ति है)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Does anyone have any objections to moving the release?"
+    },
+    {
+      "id": "188",
+      "word": "I'd like to add",
+      "definition": "Politely contributing to a discussion (मैं कुछ जोड़ना चाहूँगा)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "I'd like to add that we also need a rollback plan."
+    },
+    {
+      "id": "189",
+      "word": "if I could just add",
+      "definition": "Politely interjecting to contribute (यदि मैं बस एक बात जोड़ सकूँ)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "If I could just add one point on security."
+    },
+    {
+      "id": "190",
+      "word": "before we move on",
+      "definition": "Raising a point before changing topics (आगे बढ़ने से पहले)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Before we move on, can I raise one concern?"
+    },
+    {
+      "id": "191",
+      "word": "going back to your earlier point",
+      "definition": "Returning to a previously mentioned idea (आपकी पिछली बात पर लौटते हुए)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Going back to your earlier point, we should log more."
+    },
+    {
+      "id": "192",
+      "word": "to go back to",
+      "definition": "Returning to a topic (वापस ... पर आते हुए)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "To go back to the cost question, we have two options."
+    },
+    {
+      "id": "193",
+      "word": "moving on to",
+      "definition": "Changing to the next topic (अगले विषय पर आते हुए)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Moving on to the next item, the budget."
+    },
+    {
+      "id": "194",
+      "word": "speaking of which",
+      "definition": "Linking to something just mentioned (इसी की बात करें तो)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "Speaking of which, the audit is due next week."
+    },
+    {
+      "id": "195",
+      "word": "on a related note",
+      "definition": "Introducing a connected point (इसी से जुड़ी बात)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "On a related note, our alerts need tuning."
+    },
+    {
+      "id": "196",
+      "word": "by the way",
+      "definition": "Adding a casual extra point (वैसे)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "By the way, the vendor changed their schema."
+    },
+    {
+      "id": "197",
+      "word": "incidentally",
+      "definition": "Adding a point that is not central (संयोग से / प्रसंगवश)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Incidentally, that library is deprecated."
+    },
+    {
+      "id": "198",
+      "word": "in a nutshell, my view",
+      "definition": "A brief statement of your opinion (संक्षेप में मेरी राय)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "In a nutshell, my view is that we should wait."
+    },
+    {
+      "id": "199",
+      "word": "to sum up",
+      "definition": "Giving a final short summary (सारांश में)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "To sum up, we need more data before deciding."
+    },
+    {
+      "id": "200",
+      "word": "to wrap this up",
+      "definition": "Moving towards a conclusion (इसे समेटते हुए)",
+      "partOfSpeech": "phrase",
+      "exampleSentence": "To wrap this up, here are the three action items."
+    }
+  ],
+  "id": "f09a1148-f439-494b-b0ed-525ce31c24fa",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

@@ -1,0 +1,528 @@
+{
+ "id": "pack3-deck-8",
+ "categoryId": "pack3-cat-1",
+ "title": "8. Environment & Climate",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-351",
+   "mode": "vocab",
+   "word": "Environment",
+   "pron": "",
+   "def": "The natural surroundings in which living things exist.\nहिंदी: पर्यावरण",
+   "examples": [
+    "Environment sustains all life.",
+    "Environment must be protected.",
+    "Environment is under growing pressure.",
+    "Environment shapes human health."
+   ]
+  },
+  {
+   "id": "pack3-card-352",
+   "mode": "vocab",
+   "word": "Ecology",
+   "pron": "",
+   "def": "The study of relationships between organisms and their surroundings.\nहिंदी: पारिस्थितिकी",
+   "examples": [
+    "Ecology explains nature's balance.",
+    "Ecology guides conservation.",
+    "Ecology studies ecosystems.",
+    "Ecology is vital for survival."
+   ]
+  },
+  {
+   "id": "pack3-card-357",
+   "mode": "vocab",
+   "word": "Greenhouse Gas",
+   "pron": "",
+   "def": "A gas that traps heat in the atmosphere.\nहिंदी: ग्रीनहाउस गैस",
+   "examples": [
+    "Greenhouse Gases cause warming.",
+    "Greenhouse Gases must be reduced.",
+    "Greenhouse Gases come from industry.",
+    "Greenhouse Gases trap solar heat."
+   ]
+  },
+  {
+   "id": "pack3-card-358",
+   "mode": "vocab",
+   "word": "Carbon Footprint",
+   "pron": "",
+   "def": "The total greenhouse gases produced by an activity.\nहिंदी: कार्बन पदचिह्न",
+   "examples": [
+    "Carbon Footprint measures impact.",
+    "Carbon Footprint must be reduced.",
+    "Carbon Footprint varies by lifestyle.",
+    "Carbon Footprint guides policy."
+   ]
+  },
+  {
+   "id": "pack3-card-360",
+   "mode": "vocab",
+   "word": "Renewable Energy",
+   "pron": "",
+   "def": "Energy from naturally replenished sources.\nहिंदी: नवीकरणीय ऊर्जा",
+   "examples": [
+    "Renewable Energy reduces emissions.",
+    "Renewable Energy is the future.",
+    "Renewable Energy includes solar and wind.",
+    "Renewable Energy must be scaled up."
+   ]
+  },
+  {
+   "id": "pack3-card-362",
+   "mode": "vocab",
+   "word": "Solar Energy",
+   "pron": "",
+   "def": "Energy harnessed from the sun.\nहिंदी: सौर ऊर्जा",
+   "examples": [
+    "Solar Energy is clean and abundant.",
+    "Solar Energy powers homes.",
+    "Solar Energy is cost-effective.",
+    "Solar Energy must expand."
+   ]
+  },
+  {
+   "id": "pack3-card-363",
+   "mode": "vocab",
+   "word": "Wind Energy",
+   "pron": "",
+   "def": "Energy generated from wind.\nहिंदी: पवन ऊर्जा",
+   "examples": [
+    "Wind Energy is renewable.",
+    "Wind Energy farms generate power.",
+    "Wind Energy is growing fast.",
+    "Wind Energy reduces emissions."
+   ]
+  },
+  {
+   "id": "pack3-card-364",
+   "mode": "vocab",
+   "word": "Sustainability",
+   "pron": "",
+   "def": "Meeting needs without harming future generations.\nहिंदी: सततता / टिकाऊपन",
+   "examples": [
+    "Sustainability balances growth and ecology.",
+    "Sustainability must guide policy.",
+    "Sustainability requires cooperation.",
+    "Sustainability protects resources."
+   ]
+  },
+  {
+   "id": "pack3-card-366",
+   "mode": "vocab",
+   "word": "Deforestation",
+   "pron": "",
+   "def": "The clearing of forests.\nहिंदी: वनों की कटाई",
+   "examples": [
+    "Deforestation destroys habitats.",
+    "Deforestation worsens climate change.",
+    "Deforestation must be stopped.",
+    "Deforestation causes soil erosion."
+   ]
+  },
+  {
+   "id": "pack3-card-367",
+   "mode": "vocab",
+   "word": "Afforestation",
+   "pron": "",
+   "def": "Planting forests where none existed.\nहिंदी: वनरोपण",
+   "examples": [
+    "Afforestation restores ecosystems.",
+    "Afforestation fights climate change.",
+    "Afforestation must be expanded.",
+    "Afforestation creates green jobs."
+   ]
+  },
+  {
+   "id": "pack3-card-368",
+   "mode": "vocab",
+   "word": "Desertification",
+   "pron": "",
+   "def": "The spread of desert conditions into fertile land.\nहिंदी: मरुस्थलीकरण",
+   "examples": [
+    "Desertification threatens agriculture.",
+    "Desertification results from overuse.",
+    "Desertification must be reversed.",
+    "Desertification displaces communities."
+   ]
+  },
+  {
+   "id": "pack3-card-371",
+   "mode": "vocab",
+   "word": "Pollution",
+   "pron": "",
+   "def": "Contamination of the environment by harmful substances.\nहिंदी: प्रदूषण",
+   "examples": [
+    "Pollution harms health.",
+    "Pollution must be controlled.",
+    "Pollution affects the poorest.",
+    "Pollution comes in many forms."
+   ]
+  },
+  {
+   "id": "pack3-card-372",
+   "mode": "vocab",
+   "word": "Air Pollution",
+   "pron": "",
+   "def": "Contamination of the air by harmful substances.\nहिंदी: वायु प्रदूषण",
+   "examples": [
+    "Air Pollution causes disease.",
+    "Air Pollution chokes cities.",
+    "Air Pollution must be reduced.",
+    "Air Pollution affects children most."
+   ]
+  },
+  {
+   "id": "pack3-card-373",
+   "mode": "vocab",
+   "word": "Water Pollution",
+   "pron": "",
+   "def": "Contamination of water bodies.\nहिंदी: जल प्रदूषण",
+   "examples": [
+    "Water Pollution kills aquatic life.",
+    "Water Pollution spreads disease.",
+    "Water Pollution must be stopped.",
+    "Water Pollution affects drinking supply."
+   ]
+  },
+  {
+   "id": "pack3-card-374",
+   "mode": "vocab",
+   "word": "Plastic Pollution",
+   "pron": "",
+   "def": "Accumulation of plastic waste in the environment.\nहिंदी: प्लास्टिक प्रदूषण",
+   "examples": [
+    "Plastic Pollution chokes oceans.",
+    "Plastic Pollution harms wildlife.",
+    "Plastic Pollution must be reduced.",
+    "Plastic Pollution enters food chains."
+   ]
+  },
+  {
+   "id": "pack3-card-375",
+   "mode": "vocab",
+   "word": "E-Waste",
+   "pron": "",
+   "def": "Discarded electronic equipment.\nहिंदी: इलेक्ट्रॉनिक कचरा",
+   "examples": [
+    "E-Waste contains toxic materials.",
+    "E-Waste must be recycled.",
+    "E-Waste is growing rapidly.",
+    "E-Waste harms workers."
+   ]
+  },
+  {
+   "id": "pack3-card-376",
+   "mode": "vocab",
+   "word": "Recycling",
+   "pron": "",
+   "def": "Converting waste into reusable materials.\nहिंदी: पुनर्चक्रण",
+   "examples": [
+    "Recycling saves resources.",
+    "Recycling reduces landfill waste.",
+    "Recycling must be encouraged.",
+    "Recycling creates jobs."
+   ]
+  },
+  {
+   "id": "pack3-card-377",
+   "mode": "vocab",
+   "word": "Waste Management",
+   "pron": "",
+   "def": "The collection and disposal of waste.\nहिंदी: कचरा प्रबंधन",
+   "examples": [
+    "Waste Management protects health.",
+    "Waste Management must be efficient.",
+    "Waste Management reduces pollution.",
+    "Waste Management needs public participation."
+   ]
+  },
+  {
+   "id": "pack3-card-378",
+   "mode": "vocab",
+   "word": "Circular Economy",
+   "pron": "",
+   "def": "An economy designed to minimize waste.\nहिंदी: चक्रीय अर्थव्यवस्था",
+   "examples": [
+    "Circular Economy reuses materials.",
+    "Circular Economy reduces waste.",
+    "Circular Economy must be adopted.",
+    "Circular Economy promotes sustainability."
+   ]
+  },
+  {
+   "id": "pack3-card-379",
+   "mode": "vocab",
+   "word": "Carbon Neutral",
+   "pron": "",
+   "def": "Achieving net-zero carbon emissions.\nहिंदी: कार्बन-तटस्थ",
+   "examples": [
+    "Carbon Neutral targets are global.",
+    "Carbon Neutral requires offsets.",
+    "Carbon Neutral must be achieved.",
+    "Carbon Neutral goals guide policy."
+   ]
+  },
+  {
+   "id": "pack3-card-380",
+   "mode": "vocab",
+   "word": "Net Zero",
+   "pron": "",
+   "def": "Balancing emissions with removals.\nहिंदी: शून्य उत्सर्जन",
+   "examples": [
+    "Net Zero is a global goal.",
+    "Net Zero requires deep cuts.",
+    "Net Zero must be planned.",
+    "Net Zero demands cooperation."
+   ]
+  },
+  {
+   "id": "pack3-card-381",
+   "mode": "vocab",
+   "word": "Ecological Balance",
+   "pron": "",
+   "def": "A state of dynamic equilibrium within an environmental community of organisms and habitat.\nहिंदी: पारिस्थितिक संतुलन",
+   "examples": [
+    "Deforestation disrupts the delicate ecological balance of tropical rainforests.",
+    "Predators play a vital regulatory role in maintaining ecological balance.",
+    "Restoring wetlands is essential for regaining regional ecological balance.",
+    "Human industrial activities pose a severe threat to global ecological balance."
+   ]
+  },
+  {
+   "id": "pack3-card-382",
+   "mode": "vocab",
+   "word": "Environmental Activism",
+   "pron": "",
+   "def": "Advocacy to protect the environment.\nहिंदी: पर्यावरण आंदोलन",
+   "examples": [
+    "Environmental Activism raises awareness.",
+    "Environmental Activism challenges polluters.",
+    "Environmental Activism must be peaceful.",
+    "Environmental Activism shapes policy."
+   ]
+  },
+  {
+   "id": "pack3-card-383",
+   "mode": "vocab",
+   "word": "Ecocide",
+   "pron": "",
+   "def": "Large-scale destruction of the environment.\nहिंदी: पर्यावरण विनाश",
+   "examples": [
+    "Ecocide must be criminalized.",
+    "Ecocide threatens life.",
+    "Ecocide results from greed.",
+    "Ecocide must be prevented."
+   ]
+  },
+  {
+   "id": "pack3-card-384",
+   "mode": "vocab",
+   "word": "Anthropocene",
+   "pron": "",
+   "def": "The current era shaped by human impact.\nहिंदी: मानव-युग / एन्थ्रोपोसीन",
+   "examples": [
+    "Anthropocene marks human dominance.",
+    "Anthropocene began with industrialization.",
+    "Anthropocene demands reflection.",
+    "Anthropocene is debated by scientists."
+   ]
+  },
+  {
+   "id": "pack3-card-385",
+   "mode": "vocab",
+   "word": "Ozone Layer",
+   "pron": "",
+   "def": "A protective layer shielding Earth from UV rays.\nहिंदी: ओज़ोन परत",
+   "examples": [
+    "Ozone Layer protects from radiation.",
+    "Ozone Layer was damaged by CFCs.",
+    "Ozone Layer is slowly recovering.",
+    "Ozone Layer must be protected."
+   ]
+  },
+  {
+   "id": "pack3-card-386",
+   "mode": "vocab",
+   "word": "Acid Rain",
+   "pron": "",
+   "def": "Rain made acidic by pollutants.\nहिंदी: अम्लीय वर्षा",
+   "examples": [
+    "Acid Rain damages forests.",
+    "Acid Rain harms aquatic life.",
+    "Acid Rain results from emissions.",
+    "Acid Rain must be prevented."
+   ]
+  },
+  {
+   "id": "pack3-card-388",
+   "mode": "vocab",
+   "word": "Glacial Melt",
+   "pron": "",
+   "def": "The shrinking of glaciers due to warming.\nहिंदी: हिमनदों का पिघलना",
+   "examples": [
+    "Glacial Melt raises sea levels.",
+    "Glacial Melt threatens water supply.",
+    "Glacial Melt is accelerating.",
+    "Glacial Melt affects rivers."
+   ]
+  },
+  {
+   "id": "pack3-card-389",
+   "mode": "vocab",
+   "word": "Sea Level Rise",
+   "pron": "",
+   "def": "The increase in ocean levels.\nहिंदी: समुद्र-स्तर में वृद्धि",
+   "examples": [
+    "Sea Level Rise threatens islands.",
+    "Sea Level Rise displaces millions.",
+    "Sea Level Rise must be mitigated.",
+    "Sea Level Rise affects coastal cities."
+   ]
+  },
+  {
+   "id": "pack3-card-390",
+   "mode": "vocab",
+   "word": "Water Scarcity",
+   "pron": "",
+   "def": "A shortage of fresh water.\nहिंदी: जल संकट",
+   "examples": [
+    "Water Scarcity threatens peace.",
+    "Water Scarcity affects billions.",
+    "Water Scarcity demands conservation.",
+    "Water Scarcity worsens with climate change."
+   ]
+  },
+  {
+   "id": "pack3-card-391",
+   "mode": "vocab",
+   "word": "Agroecology",
+   "pron": "",
+   "def": "The application of ecological concepts and principles to agricultural production systems.\nहिंदी: कृषि-पारिस्थितिकी",
+   "examples": [
+    "Agroecology integrates natural pest control methods to eliminate toxic chemical pesticides.",
+    "Smallholder farmers achieve sustainable crop yields by embracing agroecology.",
+    "Agroecology enhances soil fertility through biodiversity and organic composting.",
+    "Climate-resilient farming relies heavily on the time-tested principles of agroecology."
+   ]
+  },
+  {
+   "id": "pack3-card-392",
+   "mode": "vocab",
+   "word": "Sustainable Agriculture",
+   "pron": "",
+   "def": "Farming that meets needs without harming land.\nहिंदी: टिकाऊ खेती",
+   "examples": [
+    "Sustainable Agriculture protects soil.",
+    "Sustainable Agriculture reduces chemicals.",
+    "Sustainable Agriculture must be promoted.",
+    "Sustainable Agriculture feeds the future."
+   ]
+  },
+  {
+   "id": "pack3-card-393",
+   "mode": "vocab",
+   "word": "Organic Farming",
+   "pron": "",
+   "def": "Farming without synthetic chemicals.\nहिंदी: जैविक खेती",
+   "examples": [
+    "Organic Farming improves soil health.",
+    "Organic Farming is growing in demand.",
+    "Organic Farming avoids pesticides.",
+    "Organic Farming must be supported."
+   ]
+  },
+  {
+   "id": "pack3-card-394",
+   "mode": "vocab",
+   "word": "Wildlife Sanctuary",
+   "pron": "",
+   "def": "A protected area for wild animals.\nहिंदी: वन्यजीव अभयारण्य",
+   "examples": [
+    "Wildlife Sanctuaries protect species.",
+    "Wildlife Sanctuaries must be guarded.",
+    "Wildlife Sanctuaries enable breeding.",
+    "Wildlife Sanctuaries attract tourism."
+   ]
+  },
+  {
+   "id": "pack3-card-395",
+   "mode": "vocab",
+   "word": "Endangered Species",
+   "pron": "",
+   "def": "Species at risk of extinction.\nहिंदी: लुप्तप्राय प्रजाति",
+   "examples": [
+    "Endangered Species need protection.",
+    "Endangered Species face habitat loss.",
+    "Endangered Species must be conserved.",
+    "Endangered Species are increasing."
+   ]
+  },
+  {
+   "id": "pack3-card-396",
+   "mode": "vocab",
+   "word": "Extinction",
+   "pron": "",
+   "def": "The permanent disappearance of a species.\nहिंदी: विलुप्ति",
+   "examples": [
+    "Extinction is irreversible.",
+    "Extinction is accelerating.",
+    "Extinction results from human activity.",
+    "Extinction must be prevented."
+   ]
+  },
+  {
+   "id": "pack3-card-397",
+   "mode": "vocab",
+   "word": "Ecological Footprint",
+   "pron": "",
+   "def": "The demand humans place on nature.\nहिंदी: पारिस्थितिक पदचिह्न",
+   "examples": [
+    "Ecological Footprint measures resource use.",
+    "Ecological Footprint exceeds Earth's capacity.",
+    "Ecological Footprint must shrink.",
+    "Ecological Footprint varies by nation."
+   ]
+  },
+  {
+   "id": "pack3-card-398",
+   "mode": "vocab",
+   "word": "Greenwashing",
+   "pron": "",
+   "def": "Falsely presenting a company as environmentally friendly.\nहिंदी: हरित दिखावा / ग्रीनवॉशिंग",
+   "examples": [
+    "Greenwashing misleads consumers.",
+    "Greenwashing must be exposed.",
+    "Greenwashing delays real action.",
+    "Greenwashing damages trust."
+   ]
+  },
+  {
+   "id": "pack3-card-399",
+   "mode": "vocab",
+   "word": "Climate Refugees",
+   "pron": "",
+   "def": "People displaced by climate disasters.\nहिंदी: जलवायु शरणार्थी",
+   "examples": [
+    "Climate Refugees flee rising seas.",
+    "Climate Refugees need legal protection.",
+    "Climate Refugees are increasing.",
+    "Climate Refugees face uncertain futures."
+   ]
+  },
+  {
+   "id": "pack3-card-400",
+   "mode": "vocab",
+   "word": "Intergenerational Equity",
+   "pron": "",
+   "def": "Fairness between present and future generations.\nहिंदी: पीढ़ियों के बीच समानता",
+   "examples": [
+    "Intergenerational Equity protects future rights.",
+    "Intergenerational Equity demands sustainability.",
+    "Intergenerational Equity guides climate policy.",
+    "Intergenerational Equity is a moral duty."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "id": "pack7-deck-3",
+ "categoryId": "cat-51",
+ "title": "Metrics & Growth Cases",
+ "sub": "Diagnose metric changes, choose success measures and grow a product.",
+ "cards": [
+  {
+   "id": "pack7-card-21",
+   "mode": "case",
+   "scenario": "A food-delivery app's average order value fell 8% last month while the number of orders rose 15%.",
+   "question": "Is this a problem? How would you investigate?",
+   "answer": [
+    "Check total revenue first — it may have grown overall",
+    "Segment by new vs returning users and by city; new users often order less",
+    "Look at promotions, minimum-order rules and menu price changes",
+    "Decide based on contribution margin per order, not order value alone"
+   ]
+  },
+  {
+   "id": "pack7-card-22",
+   "mode": "case",
+   "scenario": "You are launching a 'save for later' button on an e-commerce site.",
+   "question": "What metrics would you use to judge success?",
+   "answer": [
+    "Primary: share of saved items that are later purchased",
+    "Adoption: % of sessions that use the button",
+    "Guardrail: overall conversion rate must not drop",
+    "Long-term: return visits and revenue per user over 30 days"
+   ]
+  },
+  {
+   "id": "pack7-card-23",
+   "mode": "case",
+   "scenario": "Daily active users of a note-taking app are flat, but sign-ups are up 30%.",
+   "question": "What is happening, and what would you do?",
+   "answer": [
+    "Retention is probably falling — new users are not sticking",
+    "Build cohort retention curves for recent sign-up weeks",
+    "Find where new users drop off in onboarding",
+    "Fix the first-week experience before spending more on acquisition"
+   ]
+  },
+  {
+   "id": "pack7-card-24",
+   "mode": "case",
+   "scenario": "A music app wants to increase paid subscriptions.",
+   "question": "How would you approach this?",
+   "answer": [
+    "Map the funnel: free users → trial → paid → renewal",
+    "Find the biggest leak with data, e.g. trials that never convert",
+    "Generate ideas for that stage: better trial timing, clearer paid benefits",
+    "Run A/B tests and track paid conversion and churn together"
+   ]
+  },
+  {
+   "id": "pack7-card-25",
+   "mode": "case",
+   "scenario": "An A/B test of a new checkout page shows a 2% conversion lift, but only on Android.",
+   "question": "Would you ship it?",
+   "answer": [
+    "Check sample size and significance for each platform separately",
+    "Look for a bug or slower load on iOS and web",
+    "Make sure the result wasn't caused by one segment or a short time window",
+    "Ship on Android if solid, investigate the other platforms before rollout"
+   ]
+  },
+  {
+   "id": "pack7-card-26",
+   "mode": "case",
+   "scenario": "Customer support tickets doubled in the week after a redesign.",
+   "question": "How would you respond?",
+   "answer": [
+    "Categorise the tickets to find the top two or three themes",
+    "Check whether tickets per active user rose, not just the total",
+    "Fix confusing flows quickly or add in-app guidance",
+    "Track ticket volume daily until it returns to the baseline"
+   ]
+  },
+  {
+   "id": "pack7-card-27",
+   "mode": "case",
+   "scenario": "Leadership asks you to pick one 'north star' metric for a language-learning app.",
+   "question": "Which metric would you choose, and why?",
+   "answer": [
+    "Weekly learners who complete at least three lessons",
+    "It reflects real value — learning — not just opening the app",
+    "It predicts retention and willingness to pay",
+    "Support it with input metrics: lesson starts, completion rate, streaks"
+   ]
+  },
+  {
+   "id": "pack7-card-28",
+   "mode": "case",
+   "scenario": "A ride-hailing app wants to enter a new city.",
+   "question": "How would you decide whether to launch?",
+   "answer": [
+    "Size demand: population, smartphone use, commuting patterns",
+    "Assess driver supply and local regulations",
+    "Study competitors' prices and coverage",
+    "Start with a limited pilot and set clear go / no-go metrics"
+   ]
+  },
+  {
+   "id": "pack7-card-29",
+   "mode": "case",
+   "scenario": "Average session time on a news app increased 25% after a change, and leadership is happy.",
+   "question": "What would you check before celebrating?",
+   "answer": [
+    "Whether users are engaged or simply struggling to find things",
+    "Articles read per session and scroll depth",
+    "Return rate over the next weeks",
+    "Qualitative feedback and support tickets about navigation"
+   ]
+  },
+  {
+   "id": "pack7-card-30",
+   "mode": "case",
+   "scenario": "A B2B SaaS product's monthly churn rose from 2% to 4%.",
+   "question": "How would you find the cause?",
+   "answer": [
+    "Segment churned accounts by plan, size, industry and tenure",
+    "Read cancellation reasons and talk to recently lost customers",
+    "Check for recent price changes, outages or a competitor launch",
+    "Look at product usage before churn to find early warning signs"
+   ]
+  }
+ ]
+}

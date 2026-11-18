@@ -1,0 +1,41 @@
+{
+ "id": "deck-50",
+ "categoryId": "cat-46",
+ "title": "Micro Fiction",
+ "sub": "Tiny original stories, a paragraph or two each.",
+ "cards": [
+  {
+   "id": "card-47",
+   "mode": "story",
+   "genre": "Micro Fiction",
+   "title": "The Last Light on the Street",
+   "text": [
+    "Every other porch light on the block had gone out by eleven, but hers stayed on, the way it had every night since he left for the base.",
+    "She told the neighbors it was for the mail carrier, or for burglars, or for nobody in particular. She never told them it was so the street would look, from a distance, exactly like it used to."
+   ],
+   "takeaway": "Small rituals can carry a hope too big to say out loud."
+  },
+  {
+   "id": "card-48",
+   "mode": "story",
+   "genre": "Micro Fiction",
+   "title": "Two Minutes Before the Bell",
+   "text": [
+    "The substitute teacher found the note folded into a paper airplane on his desk: \"We know you’re nervous. We were too, our first day. — Room 14.\"",
+    "He read it twice, put it in his pocket, and picked up the marker with a steadier hand than he’d had all morning."
+   ],
+   "takeaway": "Kindness from an unexpected direction changes how a moment feels."
+  },
+  {
+   "id": "card-49",
+   "mode": "story",
+   "genre": "Micro Fiction",
+   "title": "The Apartment With No Nameplate",
+   "text": [
+    "For six years the mailbox for 4C stayed blank while every other slot in the building had a name, a sticker, a joke.",
+    "When the new tenant finally wrote her name on a strip of tape, three neighbors knocked that same week, just to say welcome."
+   ],
+   "takeaway": "A small, ordinary signal can be the only invitation people are waiting for."
+  }
+ ]
+}

@@ -1,146 +1,197 @@
-export type TemplateId = "vocabulary" | "flashcard" | "definition" | "word-examples" | "ielts" | "software-concept" | "physics-formula" | "math-problem" | "case-study" | "english-grammar";
+export type CardMode =
+  | "vocab"
+  | "case"
+  | "pattern"
+  | "phrase"
+  | "qa"
+  | "code"
+  | "speech"
+  | "poem"
+  | "stack"
+  | "story"
+  | "email"
+  | "infographic"
+  | "expression";
 
-export type TextAlign = "left" | "center" | "right";
+export type CardState = "new" | "due" | "learned";
 
-export interface VocabularyCard {
+interface BaseCard {
   id: string;
-  word: string;
-  definition: string;
-  partOfSpeech?: string;
-  exampleSentence?: string;
-}
-
-export interface FlashCard {
-  id: string;
-  front: string;
-  back: string;
-}
-
-export interface DefinitionCard {
-  id: string;
-  term: string;
-  definition: string;
-}
-
-export interface WordExamplesCard {
-  id: string;
-  word: string;
-  meaning: string;
-  examples: string; // newline-separated list of example sentences
-}
-
-export interface IELTSCard {
-  id: string;
-  questionType: string; // e.g. "Task 2 Essay", "Speaking Part 2"
-  prompt: string;
-  modelAnswer: string;
-  bandTips?: string;
-}
-
-export interface SoftwareConceptCard {
-  id: string;
-  concept: string;
-  explanation: string;
-  codeExample?: string;
-}
-
-export interface PhysicsFormulaCard {
-  id: string;
-  formulaName: string;
-  formula: string;
-  variables: string; // newline-separated "symbol: meaning"
-  notes?: string;
-}
-
-export interface MathProblemCard {
-  id: string;
-  problem: string;
-  solution: string; // step-by-step, newline-separated
-  hint?: string;
-}
-
-export interface CaseStudyCard {
-  id: string;
-  title: string;
-  scenario: string;
-  analysis: string;
-  takeaways?: string; // newline-separated
-}
-
-export interface EnglishGrammarCard {
-  id: string;
-  rule: string;
-  explanation: string;
-  examples: string; // newline-separated
-  commonMistake?: string;
-}
-
-export type Card = VocabularyCard | FlashCard | DefinitionCard | WordExamplesCard | IELTSCard | SoftwareConceptCard | PhysicsFormulaCard | MathProblemCard | CaseStudyCard | EnglishGrammarCard;
-
-export interface TemplateField {
-  key: string;
-  label: string;
-  placeholder: string;
-  required: boolean;
-  multiline: boolean;
-}
-
-export interface TemplateDefinition {
-  id: TemplateId;
-  name: string;
-  description: string;
-  icon: string;
-  fields: TemplateField[];
-  emptyCard: () => Omit<Card, "id">;
-}
-
-export interface Deck {
-  id: string;
-  name: string;
-  templateId: TemplateId;
-  color: string;
-  textAlign: TextAlign;
+  tags: string[];
+  learned: boolean;
+  reviewCount: number;
+  dueAt: string | null; // ISO date; null means new/due-now
   createdAt: string;
   updatedAt: string;
+}
+
+export interface VocabCard extends BaseCard {
+  mode: "vocab";
+  word: string;
+  pron: string;
+  def: string;
+  examples: string[];
+}
+
+export interface CaseCard extends BaseCard {
+  mode: "case";
+  scenario: string;
+  question: string;
+  answer: string[];
+}
+
+export interface PatternCard extends BaseCard {
+  mode: "pattern";
+  pattern: string;
+  hint: string;
+  examples: string[];
+}
+
+export interface PhraseCard extends BaseCard {
+  mode: "phrase";
+  phrase: string;
+  romaji: string;
+  meaning: string;
+  literal: string;
+}
+
+export interface QaCard extends BaseCard {
+  mode: "qa";
+  q: string;
+  a: string;
+  note: string;
+}
+
+export interface CodeCard extends BaseCard {
+  mode: "code";
+  task: string;
+  code: string;
+  note: string;
+}
+
+export interface SpeechCard extends BaseCard {
+  mode: "speech";
+  section: string;
+  time: string;
+  cue: string;
+  line: string;
+  note: string;
+}
+
+export interface PoemCard extends BaseCard {
+  mode: "poem";
+  form: string;
+  lines: string[];
+  meaning: string;
+}
+
+export interface StackCard extends BaseCard {
+  mode: "stack";
+  prompt: string;
+  blocks: string[];
+  fact: string;
+}
+
+export interface StoryCard extends BaseCard {
+  mode: "story";
+  genre: string;
+  title: string;
+  text: string[];
+  takeaway: string;
+}
+
+export interface EmailCard extends BaseCard {
+  mode: "email";
+  purpose: string;
+  context: string;
+  subject: string;
+  body: string;
+  tip: string;
+}
+
+// "Say it" card: the front describes a situation, the back is the phrase to
+// use in it. Built for functional phrases ("I'm afraid I disagree").
+export interface ExpressionCard extends BaseCard {
+  mode: "expression";
+  phrase: string;
+  situation: string;
+  hindi: string;
+  examples: string[];
+}
+
+export type InfographicLayout = "process" | "vocab" | "story" | "image";
+
+export interface InfographicItem {
+  emoji: string;
+  heading: string;
+  body: string;
+}
+
+export interface InfographicCard extends BaseCard {
+  mode: "infographic";
+  layout: InfographicLayout;
+  title: string;
+  items: InfographicItem[];
+  // Data URL of an imported picture; only set when layout is "image".
+  image?: string;
+}
+
+export type Card =
+  | VocabCard
+  | CaseCard
+  | PatternCard
+  | PhraseCard
+  | QaCard
+  | CodeCard
+  | SpeechCard
+  | PoemCard
+  | StackCard
+  | StoryCard
+  | EmailCard
+  | InfographicCard
+  | ExpressionCard;
+
+export interface StoryContent {
+  kicker: string;
+  title: string;
+  dateline: string;
+  words: string[];
+  paras: string[];
+}
+
+// A leaf deck belongs to exactly one Category and holds the actual cards.
+export interface Deck {
+  id: string;
+  categoryId: string;
+  title: string;
+  sub: string;
   cards: Card[];
+  story?: StoryContent; // only ever present for vocab-mode decks
+  createdAt: string;
+  updatedAt: string;
 }
 
-export function isVocabularyCard(_card: Card, tid: TemplateId): _card is VocabularyCard {
-  return tid === "vocabulary";
+// A category groups decks that share a mode (and therefore a front/back
+// layout, hue, and glyph) — this is the artifact's top-level "deck" row.
+export interface Category {
+  id: string;
+  title: string;
+  sub: string;
+  mode: CardMode;
+  glyph: string;
+  hue: number;
+  createdAt: string;
+  updatedAt: string;
 }
 
-export function isFlashCard(_card: Card, tid: TemplateId): _card is FlashCard {
-  return tid === "flashcard";
+export function cardState(card: Card): CardState {
+  if (card.learned) return "learned";
+  if (card.reviewCount === 0 && card.dueAt === null) return "new";
+  return "due";
 }
 
-export function isDefinitionCard(_card: Card, tid: TemplateId): _card is DefinitionCard {
-  return tid === "definition";
-}
-
-export function isWordExamplesCard(_card: Card, tid: TemplateId): _card is WordExamplesCard {
-  return tid === "word-examples";
-}
-
-export function isIELTSCard(_card: Card, tid: TemplateId): _card is IELTSCard {
-  return tid === "ielts";
-}
-
-export function isSoftwareConceptCard(_card: Card, tid: TemplateId): _card is SoftwareConceptCard {
-  return tid === "software-concept";
-}
-
-export function isPhysicsFormulaCard(_card: Card, tid: TemplateId): _card is PhysicsFormulaCard {
-  return tid === "physics-formula";
-}
-
-export function isMathProblemCard(_card: Card, tid: TemplateId): _card is MathProblemCard {
-  return tid === "math-problem";
-}
-
-export function isCaseStudyCard(_card: Card, tid: TemplateId): _card is CaseStudyCard {
-  return tid === "case-study";
-}
-
-export function isEnglishGrammarCard(_card: Card, tid: TemplateId): _card is EnglishGrammarCard {
-  return tid === "english-grammar";
+export function isCardDue(card: Card, now: number = Date.now()): boolean {
+  if (card.learned) return false;
+  if (card.dueAt === null) return true;
+  return new Date(card.dueAt).getTime() <= now;
 }

@@ -1,0 +1,51 @@
+{
+ "id": "deck-87",
+ "categoryId": "cat-82",
+ "title": "Stack (LIFO)",
+ "sub": "Push, pop, and peek.",
+ "cards": [
+  {
+   "id": "card-83",
+   "mode": "stack",
+   "prompt": "Push: add to the top",
+   "blocks": [
+    "C (new)",
+    "B",
+    "A"
+   ],
+   "fact": "Push places a new element on top of the stack in O(1) time. The stack only ever grows or shrinks from one end — the top."
+  },
+  {
+   "id": "card-84",
+   "mode": "stack",
+   "prompt": "Pop: remove from the top",
+   "blocks": [
+    "B",
+    "A"
+   ],
+   "fact": "Pop removes and returns the top element, also O(1). Whatever was pushed most recently comes off first."
+  },
+  {
+   "id": "card-85",
+   "mode": "stack",
+   "prompt": "Peek: look without removing",
+   "blocks": [
+    "C ← top",
+    "B",
+    "A"
+   ],
+   "fact": "Peek (or top) reads the top element without changing the stack — useful for checking what would be popped next."
+  },
+  {
+   "id": "card-86",
+   "mode": "stack",
+   "prompt": "LIFO: Last In, First Out",
+   "blocks": [
+    "3rd pushed",
+    "2nd pushed",
+    "1st pushed"
+   ],
+   "fact": "The defining rule of a stack: the last item you added is always the first one to come out. Think undo history, browser back, or a call stack."
+  }
+ ]
+}

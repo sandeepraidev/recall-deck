@@ -1,0 +1,580 @@
+{
+ "id": "pack3-deck-10",
+ "categoryId": "pack3-cat-1",
+ "title": "10. International Relations",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-451",
+   "mode": "vocab",
+   "word": "International Relations",
+   "pron": "",
+   "def": "The study of interactions between countries.\nहिंदी: अंतर्राष्ट्रीय संबंध",
+   "examples": [
+    "International Relations shapes global politics.",
+    "International Relations studies diplomacy and conflict.",
+    "International Relations affects trade and security.",
+    "International Relations requires cooperation."
+   ]
+  },
+  {
+   "id": "pack3-card-452",
+   "mode": "vocab",
+   "word": "Statecraft",
+   "pron": "",
+   "def": "The art and skill of managing public affairs and conducting foreign diplomacy wisely.\nहिंदी: राजकौशल / राज्य-संचालन की कला",
+   "examples": [
+    "Skillful statecraft allowed the small nation to navigate between competing superpowers.",
+    "History remembers the peace treaty as a masterpiece of international statecraft.",
+    "Modern statecraft requires a deep synthesis of economic leverage and military deterrence.",
+    "Patience and nuanced communication are indispensable qualities of prudent statecraft."
+   ]
+  },
+  {
+   "id": "pack3-card-453",
+   "mode": "vocab",
+   "word": "Foreign Policy",
+   "pron": "",
+   "def": "A country's strategy toward other nations.\nहिंदी: विदेश नीति",
+   "examples": [
+    "Foreign Policy protects national interests.",
+    "Foreign Policy shapes alliances.",
+    "Foreign Policy must be consistent.",
+    "Foreign Policy responds to global events."
+   ]
+  },
+  {
+   "id": "pack3-card-454",
+   "mode": "vocab",
+   "word": "Sovereign Equality",
+   "pron": "",
+   "def": "The foundational principle that all independent states enjoy identical legal standing under international law.\nहिंदी: संप्रभु समानता",
+   "examples": [
+    "The United Nations Charter is explicitly founded on the principle of sovereign equality.",
+    "Sovereign equality guarantees small island nations a voice equal to large global powers.",
+    "Disputes over veto privileges frequently challenge the theoretical norm of sovereign equality.",
+    "International law upholds sovereign equality regardless of a state's economic size."
+   ]
+  },
+  {
+   "id": "pack3-card-455",
+   "mode": "vocab",
+   "word": "National Interest",
+   "pron": "",
+   "def": "A country's goals and priorities.\nहिंदी: राष्ट्रीय हित",
+   "examples": [
+    "National Interest guides foreign policy.",
+    "National Interest must be defined clearly.",
+    "National Interest can conflict with ethics.",
+    "National Interest drives alliances."
+   ]
+  },
+  {
+   "id": "pack3-card-456",
+   "mode": "vocab",
+   "word": "Geopolitics",
+   "pron": "",
+   "def": "The influence of geography on politics and power.\nहिंदी: भू-राजनीति",
+   "examples": [
+    "Geopolitics shapes strategy.",
+    "Geopolitics explains conflicts.",
+    "Geopolitics affects trade routes.",
+    "Geopolitics must be understood."
+   ]
+  },
+  {
+   "id": "pack3-card-462",
+   "mode": "vocab",
+   "word": "Embargo",
+   "pron": "",
+   "def": "A ban on trade with a country.\nहिंदी: व्यापारिक नाकाबंदी",
+   "examples": [
+    "Embargoes isolate nations.",
+    "Embargoes hurt economies.",
+    "Embargoes must be justified.",
+    "Embargoes pressure governments."
+   ]
+  },
+  {
+   "id": "pack3-card-463",
+   "mode": "vocab",
+   "word": "Soft Power",
+   "pron": "",
+   "def": "Influence through attraction and culture.\nहिंदी: सॉफ्ट पावर / सांस्कृतिक प्रभाव",
+   "examples": [
+    "Soft Power builds goodwill.",
+    "Soft Power works through culture.",
+    "Soft Power complements hard power.",
+    "Soft Power must be cultivated."
+   ]
+  },
+  {
+   "id": "pack3-card-464",
+   "mode": "vocab",
+   "word": "Hard Power",
+   "pron": "",
+   "def": "Influence through military and economic strength.\nहिंदी: हार्ड पावर / सैन्य व आर्थिक ताकत",
+   "examples": [
+    "Hard Power deters threats.",
+    "Hard Power must be used wisely.",
+    "Hard Power alone is insufficient.",
+    "Hard Power backs diplomacy."
+   ]
+  },
+  {
+   "id": "pack3-card-465",
+   "mode": "vocab",
+   "word": "Hegemony",
+   "pron": "",
+   "def": "Dominance of one power over others.\nहिंदी: वर्चस्व",
+   "examples": [
+    "Hegemony shapes global order.",
+    "Hegemony invites resistance.",
+    "Hegemony must be balanced.",
+    "Hegemony is challenged by rivals."
+   ]
+  },
+  {
+   "id": "pack3-card-466",
+   "mode": "vocab",
+   "word": "Balance of Power",
+   "pron": "",
+   "def": "Distribution of power preventing dominance.\nहिंदी: शक्ति-संतुलन",
+   "examples": [
+    "Balance of Power prevents war.",
+    "Balance of Power shifts over time.",
+    "Balance of Power requires alliances.",
+    "Balance of Power stabilizes regions."
+   ]
+  },
+  {
+   "id": "pack3-card-467",
+   "mode": "vocab",
+   "word": "Unilateralism",
+   "pron": "",
+   "def": "Acting alone without allies.\nहिंदी: एकपक्षवाद",
+   "examples": [
+    "Unilateralism strains alliances.",
+    "Unilateralism can be decisive.",
+    "Unilateralism must be justified.",
+    "Unilateralism faces criticism."
+   ]
+  },
+  {
+   "id": "pack3-card-468",
+   "mode": "vocab",
+   "word": "Multilateralism",
+   "pron": "",
+   "def": "Cooperation among multiple nations.\nहिंदी: बहुपक्षवाद",
+   "examples": [
+    "Multilateralism solves shared problems.",
+    "Multilateralism requires compromise.",
+    "Multilateralism strengthens institutions.",
+    "Multilateralism faces pressure."
+   ]
+  },
+  {
+   "id": "pack3-card-469",
+   "mode": "vocab",
+   "word": "United Nations",
+   "pron": "",
+   "def": "A global organization promoting peace and cooperation.\nहिंदी: संयुक्त राष्ट्र",
+   "examples": [
+    "United Nations promotes peace.",
+    "United Nations coordinates aid.",
+    "United Nations must reform.",
+    "United Nations protects human rights."
+   ]
+  },
+  {
+   "id": "pack3-card-470",
+   "mode": "vocab",
+   "word": "Security Council",
+   "pron": "",
+   "def": "The UN body responsible for peace and security.\nहिंदी: सुरक्षा परिषद",
+   "examples": [
+    "Security Council authorizes interventions.",
+    "Security Council has five permanent members.",
+    "Security Council must be reformed.",
+    "Security Council vetoes block action."
+   ]
+  },
+  {
+   "id": "pack3-card-472",
+   "mode": "vocab",
+   "word": "Peacekeeping",
+   "pron": "",
+   "def": "Maintaining peace in conflict zones.\nहिंदी: शांति-स्थापना",
+   "examples": [
+    "Peacekeeping protects civilians.",
+    "Peacekeeping requires mandate.",
+    "Peacekeeping faces risks.",
+    "Peacekeeping builds stability."
+   ]
+  },
+  {
+   "id": "pack3-card-473",
+   "mode": "vocab",
+   "word": "Humanitarian Aid",
+   "pron": "",
+   "def": "Assistance to people in crisis.\nहिंदी: मानवीय सहायता",
+   "examples": [
+    "Humanitarian Aid saves lives.",
+    "Humanitarian Aid must be neutral.",
+    "Humanitarian Aid faces obstacles.",
+    "Humanitarian Aid responds to disasters."
+   ]
+  },
+  {
+   "id": "pack3-card-474",
+   "mode": "vocab",
+   "word": "Refugee Crisis",
+   "pron": "",
+   "def": "Mass displacement of people across borders.\nहिंदी: शरणार्थी संकट",
+   "examples": [
+    "Refugee Crisis strains nations.",
+    "Refugee Crisis requires cooperation.",
+    "Refugee Crisis demands compassion.",
+    "Refugee Crisis affects stability."
+   ]
+  },
+  {
+   "id": "pack3-card-475",
+   "mode": "vocab",
+   "word": "Terrorism",
+   "pron": "",
+   "def": "Use of violence for political aims.\nहिंदी: आतंकवाद",
+   "examples": [
+    "Terrorism threatens peace.",
+    "Terrorism must be fought jointly.",
+    "Terrorism has no religion.",
+    "Terrorism destabilizes regions."
+   ]
+  },
+  {
+   "id": "pack3-card-476",
+   "mode": "vocab",
+   "word": "Extremism",
+   "pron": "",
+   "def": "Extreme political or religious views.\nहिंदी: उग्रवाद / अतिवाद",
+   "examples": [
+    "Extremism fuels violence.",
+    "Extremism must be countered.",
+    "Extremism thrives on alienation.",
+    "Extremism threatens pluralism."
+   ]
+  },
+  {
+   "id": "pack3-card-477",
+   "mode": "vocab",
+   "word": "Insurgency",
+   "pron": "",
+   "def": "A rebellion against authority.\nहिंदी: विद्रोह / बग़ावत",
+   "examples": [
+    "Insurgency destabilizes nations.",
+    "Insurgency must be addressed politically.",
+    "Insurgency harms civilians.",
+    "Insurgency requires dialogue."
+   ]
+  },
+  {
+   "id": "pack3-card-478",
+   "mode": "vocab",
+   "word": "Proxy War",
+   "pron": "",
+   "def": "Conflict where powers support opposing sides.\nहिंदी: छद्म युद्ध",
+   "examples": [
+    "Proxy Wars devastate regions.",
+    "Proxy Wars avoid direct conflict.",
+    "Proxy Wars fuel instability.",
+    "Proxy Wars must be ended."
+   ]
+  },
+  {
+   "id": "pack3-card-479",
+   "mode": "vocab",
+   "word": "Arms Race",
+   "pron": "",
+   "def": "Competition to build military strength.\nहिंदी: हथियारों की होड़",
+   "examples": [
+    "Arms Race wastes resources.",
+    "Arms Race increases risk.",
+    "Arms Race must be halted.",
+    "Arms Race fuels tension."
+   ]
+  },
+  {
+   "id": "pack3-card-480",
+   "mode": "vocab",
+   "word": "Disarmament",
+   "pron": "",
+   "def": "Reduction of military weapons.\nहिंदी: निरस्त्रीकरण",
+   "examples": [
+    "Disarmament reduces risk.",
+    "Disarmament requires trust.",
+    "Disarmament must be verified.",
+    "Disarmament promotes peace."
+   ]
+  },
+  {
+   "id": "pack3-card-481",
+   "mode": "vocab",
+   "word": "Nuclear Proliferation",
+   "pron": "",
+   "def": "The spread of nuclear weapons.\nहिंदी: परमाणु प्रसार",
+   "examples": [
+    "Nuclear Proliferation threatens security.",
+    "Nuclear Proliferation must be stopped.",
+    "Nuclear Proliferation raises tensions.",
+    "Nuclear Proliferation requires treaties."
+   ]
+  },
+  {
+   "id": "pack3-card-482",
+   "mode": "vocab",
+   "word": "Non-Proliferation",
+   "pron": "",
+   "def": "Preventing the spread of nuclear weapons.\nहिंदी: अप्रसार",
+   "examples": [
+    "Non-Proliferation treaties limit weapons.",
+    "Non-Proliferation must be strengthened.",
+    "Non-Proliferation faces challenges.",
+    "Non-Proliferation promotes stability."
+   ]
+  },
+  {
+   "id": "pack3-card-483",
+   "mode": "vocab",
+   "word": "Deterrence",
+   "pron": "",
+   "def": "Preventing attack through threat of retaliation.\nहिंदी: प्रतिरोध / डराकर रोकने की नीति",
+   "examples": [
+    "Deterrence prevents war.",
+    "Deterrence requires credibility.",
+    "Deterrence shapes strategy.",
+    "Deterrence can fail."
+   ]
+  },
+  {
+   "id": "pack3-card-484",
+   "mode": "vocab",
+   "word": "Trade War",
+   "pron": "",
+   "def": "Economic conflict through tariffs.\nहिंदी: व्यापार युद्ध",
+   "examples": [
+    "Trade War harms economies.",
+    "Trade War raises prices.",
+    "Trade War must be avoided.",
+    "Trade War disrupts supply chains."
+   ]
+  },
+  {
+   "id": "pack3-card-485",
+   "mode": "vocab",
+   "word": "Plurilateralism",
+   "pron": "",
+   "def": "Cooperative agreements and alliances entered into by a specific subset of countries on targeted issues.\nहिंदी: बहुपक्षीय (चुनिंदा देशों का) समूह-समझौता",
+   "examples": [
+    "Frustrated by global gridlock, like-minded nations pivoted toward plurilateralism.",
+    "The digital trade pact was negotiated through innovative plurilateralism.",
+    "Plurilateralism allows motivated countries to advance standards without waiting for unanimous consensus.",
+    "Critics worry that selective plurilateralism might undermine broader universal treaties."
+   ]
+  },
+  {
+   "id": "pack3-card-486",
+   "mode": "vocab",
+   "word": "Regionalism",
+   "pron": "",
+   "def": "Cooperation among countries in a region.\nहिंदी: क्षेत्रवाद",
+   "examples": [
+    "Regionalism strengthens cooperation.",
+    "Regionalism addresses local issues.",
+    "Regionalism complements global bodies.",
+    "Regionalism builds trust."
+   ]
+  },
+  {
+   "id": "pack3-card-487",
+   "mode": "vocab",
+   "word": "Sovereignty Dispute",
+   "pron": "",
+   "def": "Conflict over territorial control.\nहिंदी: संप्रभुता विवाद",
+   "examples": [
+    "Sovereignty Disputes cause tension.",
+    "Sovereignty Disputes need dialogue.",
+    "Sovereignty Disputes can escalate.",
+    "Sovereignty Disputes must be resolved peacefully."
+   ]
+  },
+  {
+   "id": "pack3-card-488",
+   "mode": "vocab",
+   "word": "Territorial Integrity",
+   "pron": "",
+   "def": "A nation's right to its borders.\nहिंदी: क्षेत्रीय अखंडता",
+   "examples": [
+    "Territorial Integrity must be respected.",
+    "Territorial Integrity is a core principle.",
+    "Territorial Integrity prevents annexation.",
+    "Territorial Integrity shapes diplomacy."
+   ]
+  },
+  {
+   "id": "pack3-card-489",
+   "mode": "vocab",
+   "word": "Self-Determination",
+   "pron": "",
+   "def": "The right of people to choose their governance.\nहिंदी: आत्म-निर्णय",
+   "examples": [
+    "Self-Determination inspires independence.",
+    "Self-Determination must be balanced.",
+    "Self-Determination shapes movements.",
+    "Self-Determination is a UN principle."
+   ]
+  },
+  {
+   "id": "pack3-card-490",
+   "mode": "vocab",
+   "word": "Irredentism",
+   "pron": "",
+   "def": "A political policy advocating the restoration of historical territory or populations belonging to a nation.\nहिंदी: अधूरी भूमि-दावेदारी की नीति",
+   "examples": [
+    "Aggressive irredentism has historically served as a pretext for territorial invasions.",
+    "Border tensions reignited when regional leaders embraced populist irredentism.",
+    "International treaties seek to neutralize irredentism by affirming inviolable borders.",
+    "Fanning the flames of ethnic irredentism destabilized the delicate regional ceasefire."
+   ]
+  },
+  {
+   "id": "pack3-card-491",
+   "mode": "vocab",
+   "word": "Neocolonialism",
+   "pron": "",
+   "def": "Indirect control of former colonies.\nहिंदी: नव-उपनिवेशवाद",
+   "examples": [
+    "Neocolonialism works through economics.",
+    "Neocolonialism exploits weak states.",
+    "Neocolonialism must be resisted.",
+    "Neocolonialism shapes trade."
+   ]
+  },
+  {
+   "id": "pack3-card-492",
+   "mode": "vocab",
+   "word": "Global South",
+   "pron": "",
+   "def": "Developing countries in Africa, Asia, Latin America.\nहिंदी: वैश्विक दक्षिण",
+   "examples": [
+    "Global South seeks fair representation.",
+    "Global South faces climate burdens.",
+    "Global South must be heard.",
+    "Global South drives growth."
+   ]
+  },
+  {
+   "id": "pack3-card-493",
+   "mode": "vocab",
+   "word": "Global North",
+   "pron": "",
+   "def": "Developed countries mainly in Europe and North America.\nहिंदी: वैश्विक उत्तर",
+   "examples": [
+    "Global North dominates institutions.",
+    "Global North must support development.",
+    "Global North bears climate responsibility.",
+    "Global North faces rising competition."
+   ]
+  },
+  {
+   "id": "pack3-card-494",
+   "mode": "vocab",
+   "word": "Developing Country",
+   "pron": "",
+   "def": "A nation with lower economic development.\nहिंदी: विकासशील देश",
+   "examples": [
+    "Developing Countries need investment.",
+    "Developing Countries face poverty.",
+    "Developing Countries must be supported.",
+    "Developing Countries drive growth."
+   ]
+  },
+  {
+   "id": "pack3-card-495",
+   "mode": "vocab",
+   "word": "Developed Country",
+   "pron": "",
+   "def": "A nation with high economic development.\nहिंदी: विकसित देश",
+   "examples": [
+    "Developed Countries have high incomes.",
+    "Developed Countries must lead on climate.",
+    "Developed Countries shape trade.",
+    "Developed Countries face inequality."
+   ]
+  },
+  {
+   "id": "pack3-card-496",
+   "mode": "vocab",
+   "word": "Foreign Aid",
+   "pron": "",
+   "def": "Assistance from one country to another.\nहिंदी: विदेशी सहायता",
+   "examples": [
+    "Foreign Aid supports development.",
+    "Foreign Aid must be effective.",
+    "Foreign Aid can create dependence.",
+    "Foreign Aid responds to crises."
+   ]
+  },
+  {
+   "id": "pack3-card-497",
+   "mode": "vocab",
+   "word": "Debt Diplomacy",
+   "pron": "",
+   "def": "Using loans to gain influence.\nहिंदी: क़र्ज़ कूटनीति",
+   "examples": [
+    "Debt Diplomacy traps nations.",
+    "Debt Diplomacy must be exposed.",
+    "Debt Diplomacy threatens sovereignty.",
+    "Debt Diplomacy shapes geopolitics."
+   ]
+  },
+  {
+   "id": "pack3-card-498",
+   "mode": "vocab",
+   "word": "Cultural Diplomacy",
+   "pron": "",
+   "def": "Using culture to build international goodwill.\nहिंदी: सांस्कृतिक कूटनीति",
+   "examples": [
+    "Cultural Diplomacy builds ties.",
+    "Cultural Diplomacy softens tensions.",
+    "Cultural Diplomacy promotes understanding.",
+    "Cultural Diplomacy must be sincere."
+   ]
+  },
+  {
+   "id": "pack3-card-499",
+   "mode": "vocab",
+   "word": "Track II Diplomacy",
+   "pron": "",
+   "def": "Informal dialogue between non-officials.\nहिंदी: ट्रैक-टू कूटनीति / अनौपचारिक संवाद",
+   "examples": [
+    "Track II Diplomacy builds trust.",
+    "Track II Diplomacy explores solutions.",
+    "Track II Diplomacy complements official talks.",
+    "Track II Diplomacy must be discreet."
+   ]
+  },
+  {
+   "id": "pack3-card-500",
+   "mode": "vocab",
+   "word": "Global Governance",
+   "pron": "",
+   "def": "Managing global issues through cooperation.\nहिंदी: वैश्विक शासन",
+   "examples": [
+    "Global Governance addresses shared problems.",
+    "Global Governance requires institutions.",
+    "Global Governance must be inclusive.",
+    "Global Governance faces reform demands."
+   ]
+  }
+ ]
+}

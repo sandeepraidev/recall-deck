@@ -9,7 +9,15 @@ npm run dev      # Start development server (http://localhost:3000)
 npm run build    # Build for production
 npm run start    # Start production server
 npm run lint     # Run ESLint
+npm run check:content  # Validate the bundled content in content/
 ```
+
+## Data
+
+- **Built-in content** lives in `content/`: one JSON file per deck under `content/decks/<category>/`, categories in `content/categories.json`, all registered in `content/index.ts`. These files are the source of truth and are bundled into the app. Card/deck/category ids must never change once shipped (user progress and edits are keyed by them).
+- **User data** (review progress, edits/deletions of built-in content, the user's own categories/decks/cards) is one JSON file on the device, `user-data.json` (`lib/userData.ts`; localStorage on web).
+- `lib/library.ts` merges the two; `lib/store.ts` is the single shared in-memory store every page reads through `hooks/useDecks.ts`.
+- `lib/sqlite/` and `lib/legacyMigration.ts` only exist to copy data from the old SQLite database on the first launch after upgrading.
 
 ## Architecture
 

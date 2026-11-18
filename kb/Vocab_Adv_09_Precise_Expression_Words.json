@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 09 - Precise Expression Words",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "abate",
+      "definition": "To become less intense or widespread (कम होना / शांत पड़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The alerts abated once the backlog cleared."
+    },
+    {
+      "id": "2",
+      "word": "accentuate",
+      "definition": "To make more noticeable (उभारना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The data accentuates the gap between teams."
+    },
+    {
+      "id": "3",
+      "word": "accumulate",
+      "definition": "To gradually gather or build up (धीरे-धीरे जमा होना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Technical debt accumulates quickly under pressure."
+    },
+    {
+      "id": "4",
+      "word": "adept",
+      "definition": "Very skilled at something (निपुण)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She is adept at simplifying complex topics."
+    },
+    {
+      "id": "5",
+      "word": "adhere",
+      "definition": "To stick firmly to a rule or plan (पालन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Teams must adhere to the release checklist."
+    },
+    {
+      "id": "6",
+      "word": "advent",
+      "definition": "The arrival of a notable thing (आगमन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The advent of cloud computing changed infrastructure forever."
+    },
+    {
+      "id": "7",
+      "word": "affirm",
+      "definition": "To state something firmly as true (दृढ़ता से कहना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The review affirmed our design choices."
+    },
+    {
+      "id": "8",
+      "word": "aggravate",
+      "definition": "To make a problem worse or more serious (और बिगाड़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Delays aggravated the client's frustration."
+    },
+    {
+      "id": "9",
+      "word": "ambivalent",
+      "definition": "Having mixed feelings about something (दुविधा में / मिश्रित भावनाओं वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "He felt ambivalent about moving to management."
+    },
+    {
+      "id": "10",
+      "word": "amenable",
+      "definition": "Open and willing to accept suggestions (सुझाव मानने को तैयार)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The vendor was amenable to changing the format."
+    },
+    {
+      "id": "11",
+      "word": "amplify",
+      "definition": "To increase the strength or effect of something (प्रभाव बढ़ाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Social media amplifies small controversies."
+    },
+    {
+      "id": "12",
+      "word": "anecdotal",
+      "definition": "Based on personal accounts rather than facts (व्यक्तिगत अनुभव पर आधारित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The evidence is anecdotal and needs verification."
+    },
+    {
+      "id": "13",
+      "word": "animosity",
+      "definition": "Strong hostility or ill feeling (शत्रुता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Past disputes created animosity between the teams."
+    },
+    {
+      "id": "14",
+      "word": "apathy",
+      "definition": "Lack of interest or concern (उदासीनता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Voter apathy weakens democracy."
+    },
+    {
+      "id": "15",
+      "word": "appease",
+      "definition": "To calm someone by giving in to demands (शांत करने के लिए मान लेना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We can't appease every stakeholder."
+    },
+    {
+      "id": "16",
+      "word": "arbitrary",
+      "definition": "Based on random choice rather than reason (मनमाना)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The deadline seems arbitrary and unrealistic."
+    },
+    {
+      "id": "17",
+      "word": "ardent",
+      "definition": "Showing strong enthusiasm (उत्साही)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She is an ardent supporter of open source."
+    },
+    {
+      "id": "18",
+      "word": "arduous",
+      "definition": "Involving great effort and difficulty (कठिन परिश्रम वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The migration was an arduous process."
+    },
+    {
+      "id": "19",
+      "word": "articulate a vision",
+      "definition": "To express a future goal clearly (दृष्टि स्पष्ट रूप से रखना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Good leaders articulate a vision people can follow."
+    },
+    {
+      "id": "20",
+      "word": "ascertain",
+      "definition": "To find out for certain (निश्चित रूप से पता लगाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We must ascertain the facts before reporting."
+    },
+    {
+      "id": "21",
+      "word": "aspire",
+      "definition": "To have a strong desire to achieve something (आकांक्षा रखना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She aspires to become a principal engineer."
+    },
+    {
+      "id": "22",
+      "word": "assert",
+      "definition": "To state confidently (दृढ़ता से कहना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "He asserted that the system met all requirements."
+    },
+    {
+      "id": "23",
+      "word": "assiduous",
+      "definition": "Showing great care and persistence (परिश्रमी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Assiduous testing caught the rare bug."
+    },
+    {
+      "id": "24",
+      "word": "astute",
+      "definition": "Clever at judging situations to gain advantage (कुशाग्र बुद्धि वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Her astute observation saved us from a costly mistake."
+    },
+    {
+      "id": "25",
+      "word": "attribute",
+      "definition": "To regard something as being caused by (श्रेय/कारण मानना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We attribute the delay to vendor issues."
+    },
+    {
+      "id": "26",
+      "word": "augment",
+      "definition": "To make greater by adding to it (बढ़ाना / पूरक बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We augmented the data with sector information."
+    },
+    {
+      "id": "27",
+      "word": "auspicious",
+      "definition": "Showing signs of future success (शुभ / अनुकूल)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The pilot was an auspicious start."
+    },
+    {
+      "id": "28",
+      "word": "austere",
+      "definition": "Severe and plain, without luxury (कठोर और सादा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "An austere budget limited our hiring."
+    },
+    {
+      "id": "29",
+      "word": "avid",
+      "definition": "Having a keen interest or enthusiasm (उत्साही)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "He is an avid reader of technical blogs."
+    },
+    {
+      "id": "30",
+      "word": "banal",
+      "definition": "Lacking originality and boring (नीरस और साधारण)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The presentation was banal and uninspiring."
+    },
+    {
+      "id": "31",
+      "word": "bolster",
+      "definition": "To strengthen or support (मज़बूत करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Extra monitoring bolstered confidence in the system."
+    },
+    {
+      "id": "32",
+      "word": "brevity",
+      "definition": "Shortness of expression (संक्षिप्तता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Brevity is the soul of a good status update."
+    },
+    {
+      "id": "33",
+      "word": "bureaucratic",
+      "definition": "Involving excessive rules and procedures (नौकरशाही वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The bureaucratic process delayed approvals."
+    },
+    {
+      "id": "34",
+      "word": "buttress",
+      "definition": "To give support or strength to (सहारा देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Data buttressed her argument."
+    },
+    {
+      "id": "35",
+      "word": "candid feedback",
+      "definition": "Honest and direct comments (स्पष्ट प्रतिक्रिया)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Candid feedback helps us improve faster."
+    },
+    {
+      "id": "36",
+      "word": "capitalise on",
+      "definition": "To take advantage of an opportunity (अवसर का लाभ उठाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We can capitalise on the momentum from the pilot."
+    },
+    {
+      "id": "37",
+      "word": "captivating",
+      "definition": "Capturing attention and interest (मनमोहक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She gave a captivating talk on resilience."
+    },
+    {
+      "id": "38",
+      "word": "censure",
+      "definition": "To express strong disapproval (कड़ी निंदा करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The committee censured the careless handling of data."
+    },
+    {
+      "id": "39",
+      "word": "chronic issue",
+      "definition": "A long-standing recurring problem (पुरानी बार-बार आने वाली समस्या)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Late vendor files are a chronic issue."
+    },
+    {
+      "id": "40",
+      "word": "circumspect",
+      "definition": "Careful to consider all consequences before acting (सोच-समझकर चलने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Be circumspect when changing production configurations."
+    },
+    {
+      "id": "41",
+      "word": "clandestine",
+      "definition": "Kept secret, often illicit (गुप्त)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A clandestine integration bypassed our controls."
+    },
+    {
+      "id": "42",
+      "word": "clarity",
+      "definition": "The quality of being clear (स्पष्टता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Clarity of ownership prevents confusion."
+    },
+    {
+      "id": "43",
+      "word": "cognisant",
+      "definition": "Having knowledge or awareness (जानकार / अवगत)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We are cognisant of the risks involved."
+    },
+    {
+      "id": "44",
+      "word": "commend",
+      "definition": "To praise formally (सराहना करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The manager commended her handling of the incident."
+    },
+    {
+      "id": "45",
+      "word": "commensurate",
+      "definition": "Corresponding in size or degree (अनुपात के अनुरूप)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Salary should be commensurate with experience."
+    },
+    {
+      "id": "46",
+      "word": "compatible",
+      "definition": "Able to exist or work together (संगत)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The library is not compatible with our Java version."
+    },
+    {
+      "id": "47",
+      "word": "complacent",
+      "definition": "Self-satisfied and unaware of danger (आत्मसंतुष्ट)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Don't become complacent after one successful release."
+    },
+    {
+      "id": "48",
+      "word": "complement",
+      "definition": "To add features that improve or enhance (पूरक बनना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Good tooling complements strong processes."
+    },
+    {
+      "id": "49",
+      "word": "comply",
+      "definition": "To act in accordance with a rule (नियम का पालन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "All teams must comply with the security policy."
+    },
+    {
+      "id": "50",
+      "word": "concur",
+      "definition": "To agree (सहमत होना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I concur with the proposed approach."
+    },
+    {
+      "id": "51",
+      "word": "condone",
+      "definition": "To accept or allow behaviour that is wrong (अनुचित को चलने देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We cannot condone skipping code reviews."
+    },
+    {
+      "id": "52",
+      "word": "confer",
+      "definition": "To discuss something together (आपस में विचार-विमर्श करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Let me confer with the team before committing."
+    },
+    {
+      "id": "53",
+      "word": "conjecture",
+      "definition": "An opinion based on incomplete information (अनुमान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "That's just conjecture until we see the logs."
+    },
+    {
+      "id": "54",
+      "word": "consolidate gains",
+      "definition": "To strengthen advantages already achieved (प्राप्त लाभों को मज़बूत करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Let's consolidate our gains before expanding scope."
+    },
+    {
+      "id": "55",
+      "word": "conspicuous",
+      "definition": "Easily seen and noticeable (स्पष्ट दिखने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "His absence from the meeting was conspicuous."
+    },
+    {
+      "id": "56",
+      "word": "contemplate",
+      "definition": "To think deeply about something (गहराई से विचार करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We contemplated rewriting the module from scratch."
+    },
+    {
+      "id": "57",
+      "word": "contend",
+      "definition": "To argue or claim (दावा करना / तर्क देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "He contends that the architecture is sound."
+    },
+    {
+      "id": "58",
+      "word": "contingent",
+      "definition": "Dependent on something else happening (किसी बात पर निर्भर)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Approval is contingent on a successful security scan."
+    },
+    {
+      "id": "59",
+      "word": "contrive",
+      "definition": "To create or manage cleverly or artificially (तरकीब से बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The example felt contrived and unrealistic."
+    },
+    {
+      "id": "60",
+      "word": "convey",
+      "definition": "To communicate an idea or feeling (संप्रेषित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The diagram conveys the flow clearly."
+    },
+    {
+      "id": "61",
+      "word": "copious",
+      "definition": "Abundant in quantity (प्रचुर)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She took copious notes during the review."
+    },
+    {
+      "id": "62",
+      "word": "corroborating evidence",
+      "definition": "Supporting information that confirms a claim (पुष्टि करने वाले प्रमाण)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "We need corroborating evidence from the logs."
+    },
+    {
+      "id": "63",
+      "word": "culminate",
+      "definition": "To reach a final point or climax (चरम पर पहुँचना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Months of work culminated in a smooth launch."
+    },
+    {
+      "id": "64",
+      "word": "curtail spending",
+      "definition": "To reduce expenditure (ख़र्च में कटौती करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "The team had to curtail spending on tools."
+    },
+    {
+      "id": "65",
+      "word": "cursory",
+      "definition": "Hasty and not thorough (सरसरी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A cursory review missed the critical bug."
+    },
+    {
+      "id": "66",
+      "word": "daunting",
+      "definition": "Seeming difficult and intimidating (डरा देने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The scale of the migration was daunting."
+    },
+    {
+      "id": "67",
+      "word": "debilitating",
+      "definition": "Making someone or something weak (कमज़ोर करने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Constant interruptions are debilitating for productivity."
+    },
+    {
+      "id": "68",
+      "word": "decipher",
+      "definition": "To succeed in understanding something unclear (गूढ़ बात समझना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "It took hours to decipher the legacy code."
+    },
+    {
+      "id": "69",
+      "word": "deem",
+      "definition": "To consider or judge in a particular way (मानना / समझना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The change was deemed too risky for Friday."
+    },
+    {
+      "id": "70",
+      "word": "defer to",
+      "definition": "To yield to another's opinion or authority (किसी की राय को मान देना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "I'll defer to the security team on this."
+    },
+    {
+      "id": "71",
+      "word": "deficient",
+      "definition": "Not having enough of something (अपर्याप्त)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The documentation is deficient in key areas."
+    },
+    {
+      "id": "72",
+      "word": "delineate",
+      "definition": "To describe or outline precisely (सटीक रूप से रेखांकित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The charter delineates each team's responsibilities."
+    },
+    {
+      "id": "73",
+      "word": "demonstrate",
+      "definition": "To clearly show something (प्रदर्शित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The prototype demonstrates the approach works."
+    },
+    {
+      "id": "74",
+      "word": "denote",
+      "definition": "To be a sign of; to indicate (दर्शाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "A red flag denotes a failed check."
+    },
+    {
+      "id": "75",
+      "word": "depict",
+      "definition": "To represent or show in a picture or words (चित्रित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The diagram depicts the end-to-end flow."
+    },
+    {
+      "id": "76",
+      "word": "derive",
+      "definition": "To obtain from a source (प्राप्त करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We derive insights from usage data."
+    },
+    {
+      "id": "77",
+      "word": "detached",
+      "definition": "Objective and not emotionally involved (निर्लिप्त / तटस्थ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Review the incident with a detached mind."
+    },
+    {
+      "id": "78",
+      "word": "devise",
+      "definition": "To plan or invent something complex (योजना या तरीका गढ़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We devised a strategy to avoid duplicate loads."
+    },
+    {
+      "id": "79",
+      "word": "diligent",
+      "definition": "Showing care and effort in work (मेहनती और सावधान)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A diligent engineer double-checks edge cases."
+    },
+    {
+      "id": "80",
+      "word": "diminish",
+      "definition": "To make or become smaller (घटाना / कम होना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Repeated failures diminished confidence."
+    },
+    {
+      "id": "81",
+      "word": "discern",
+      "definition": "To recognise or notice something with effort (पहचान पाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "It's hard to discern a pattern in the noise."
+    },
+    {
+      "id": "82",
+      "word": "discreet",
+      "definition": "Careful about what one says to avoid embarrassment (विवेकपूर्ण / गोपनीयता बरतने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Please be discreet about the restructuring plans."
+    },
+    {
+      "id": "83",
+      "word": "disparity",
+      "definition": "A great difference (भारी अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There's a disparity between the two teams' workloads."
+    },
+    {
+      "id": "84",
+      "word": "dispel",
+      "definition": "To make a doubt or belief disappear (भ्रम दूर करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The test results dispelled our concerns."
+    },
+    {
+      "id": "85",
+      "word": "disseminate",
+      "definition": "To spread information widely (जानकारी फैलाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We disseminate release notes to all stakeholders."
+    },
+    {
+      "id": "86",
+      "word": "distil",
+      "definition": "To extract the essential meaning (सार निकालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Distil the findings into three key points."
+    },
+    {
+      "id": "87",
+      "word": "diverge from",
+      "definition": "To depart from a path or opinion (रास्ते या मत से हटना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "The final design diverged from the original plan."
+    },
+    {
+      "id": "88",
+      "word": "dormant",
+      "definition": "Temporarily inactive (निष्क्रिय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A dormant account was exploited by attackers."
+    },
+    {
+      "id": "89",
+      "word": "dubious",
+      "definition": "Not to be relied upon; doubtful (संदिग्ध)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The numbers come from a dubious source."
+    },
+    {
+      "id": "90",
+      "word": "elicit",
+      "definition": "To draw out a response or information (जानकारी या प्रतिक्रिया निकलवाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The workshop elicited several unspoken concerns."
+    },
+    {
+      "id": "91",
+      "word": "elusive",
+      "definition": "Difficult to find, catch or achieve (पकड़ में न आने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The elusive bug appeared only at midnight."
+    },
+    {
+      "id": "92",
+      "word": "emanate",
+      "definition": "To come out from a source (उत्पन्न होना / निकलना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The pressure emanated from senior management."
+    },
+    {
+      "id": "93",
+      "word": "embark on",
+      "definition": "To begin a new project or journey (नई शुरुआत करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We embarked on a major modernisation effort."
+    },
+    {
+      "id": "94",
+      "word": "embed",
+      "definition": "To fix firmly within something larger (गहराई से जोड़ना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Security should be embedded in the design process."
+    },
+    {
+      "id": "95",
+      "word": "embody",
+      "definition": "To represent or express in a concrete form (साकार रूप देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The platform embodies our principles of reliability."
+    },
+    {
+      "id": "96",
+      "word": "emphasise",
+      "definition": "To give special importance to something (ज़ोर देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I want to emphasise the need for early testing."
+    },
+    {
+      "id": "97",
+      "word": "empirical",
+      "definition": "Based on observation or experiment (अनुभवजन्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We need empirical data before deciding."
+    },
+    {
+      "id": "98",
+      "word": "encompass",
+      "definition": "To include comprehensively (समेटना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The review encompasses security and performance."
+    },
+    {
+      "id": "99",
+      "word": "endeavour",
+      "definition": "An earnest attempt (प्रयास)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The migration was a major endeavour."
+    },
+    {
+      "id": "100",
+      "word": "enhance",
+      "definition": "To improve the quality or value of something (बेहतर बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Better logging enhances troubleshooting."
+    },
+    {
+      "id": "101",
+      "word": "enigmatic",
+      "definition": "Difficult to interpret or understand (रहस्यमय)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The enigmatic error message offered no clues."
+    },
+    {
+      "id": "102",
+      "word": "ensue",
+      "definition": "To happen afterwards as a result (परिणामस्वरूप घटित होना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "A heated debate ensued after the proposal."
+    },
+    {
+      "id": "103",
+      "word": "entail",
+      "definition": "To involve as a necessary part (आवश्यक रूप से शामिल करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The change entails updating every consumer."
+    },
+    {
+      "id": "104",
+      "word": "envisage",
+      "definition": "To imagine as a future possibility (कल्पना करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We envisage a fully automated pipeline."
+    },
+    {
+      "id": "105",
+      "word": "equitable",
+      "definition": "Fair and impartial (न्यायसंगत)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We need an equitable distribution of on-call duties."
+    },
+    {
+      "id": "106",
+      "word": "erroneous",
+      "definition": "Wrong or mistaken (त्रुटिपूर्ण)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "An erroneous assumption caused the failure."
+    },
+    {
+      "id": "107",
+      "word": "espouse",
+      "definition": "To adopt or support a cause or belief (किसी विचार को अपनाना और समर्थन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She espouses test-driven development."
+    },
+    {
+      "id": "108",
+      "word": "evade",
+      "definition": "To escape or avoid (टालना / बच निकलना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The bug evaded detection for months."
+    },
+    {
+      "id": "109",
+      "word": "evoke",
+      "definition": "To bring a feeling or memory to mind (स्मृति या भावना जगाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The error evoked memories of last year's outage."
+    },
+    {
+      "id": "110",
+      "word": "exemplify",
+      "definition": "To be a typical example of (उदाहरण पेश करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "This incident exemplifies the need for better alerts."
+    },
+    {
+      "id": "111",
+      "word": "exhaustive",
+      "definition": "Thorough and complete (संपूर्ण)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We ran an exhaustive set of regression tests."
+    },
+    {
+      "id": "112",
+      "word": "exonerate",
+      "definition": "To clear of blame (दोष-मुक्त करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The logs exonerated the deployment team."
+    },
+    {
+      "id": "113",
+      "word": "expedient",
+      "definition": "Convenient and practical, though not always ethical (तात्कालिक रूप से सुविधाजनक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Skipping the review was expedient but risky."
+    },
+    {
+      "id": "114",
+      "word": "explicit consent",
+      "definition": "Clear and direct permission (स्पष्ट सहमति)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "We need explicit consent before sharing data."
+    },
+    {
+      "id": "115",
+      "word": "exemplary",
+      "definition": "Serving as a desirable model (आदर्श)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Her exemplary documentation became our template."
+    },
+    {
+      "id": "116",
+      "word": "extraneous",
+      "definition": "Irrelevant or unrelated to the subject (अप्रासंगिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Remove extraneous details from the summary."
+    },
+    {
+      "id": "117",
+      "word": "facet",
+      "definition": "One aspect of something (पहलू)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Every facet of the system was reviewed."
+    },
+    {
+      "id": "118",
+      "word": "fastidious",
+      "definition": "Very attentive to accuracy and detail (अति सावधान और बारीक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "He is fastidious about naming conventions."
+    },
+    {
+      "id": "119",
+      "word": "feasible solution",
+      "definition": "A practical answer that can be implemented (व्यवहार्य समाधान)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "We found a feasible solution within budget."
+    },
+    {
+      "id": "120",
+      "word": "fervent",
+      "definition": "Having intense feeling (उत्कट)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "He is a fervent supporter of automation."
+    },
+    {
+      "id": "121",
+      "word": "flagrant",
+      "definition": "Obviously and shockingly wrong (खुला उल्लंघन वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "It was a flagrant breach of the policy."
+    },
+    {
+      "id": "122",
+      "word": "flourishing",
+      "definition": "Growing and developing well (फलता-फूलता)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A flourishing community supports the open-source tool."
+    },
+    {
+      "id": "123",
+      "word": "fluctuating",
+      "definition": "Changing frequently and irregularly (घटता-बढ़ता)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Fluctuating demand complicates planning."
+    },
+    {
+      "id": "124",
+      "word": "formidable",
+      "definition": "Inspiring fear or respect through size or power (भयावह / प्रभावशाली)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The team faced a formidable deadline."
+    },
+    {
+      "id": "125",
+      "word": "fortify",
+      "definition": "To strengthen against attack (मज़बूत बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We fortified the system with additional checks."
+    },
+    {
+      "id": "126",
+      "word": "fraught",
+      "definition": "Filled with problems or danger (कठिनाइयों से भरा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The integration was fraught with delays."
+    },
+    {
+      "id": "127",
+      "word": "frugal",
+      "definition": "Careful with money or resources (मितव्ययी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A frugal approach to cloud costs saved thousands."
+    },
+    {
+      "id": "128",
+      "word": "futile",
+      "definition": "Pointless because it cannot succeed (व्यर्थ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "It's futile to optimise without measuring first."
+    },
+    {
+      "id": "129",
+      "word": "galvanising",
+      "definition": "Shocking or exciting into action (कार्रवाई के लिए उकसाने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The outage was a galvanising moment."
+    },
+    {
+      "id": "130",
+      "word": "garner",
+      "definition": "To gather or collect (जुटाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The proposal garnered wide support."
+    },
+    {
+      "id": "131",
+      "word": "genuine",
+      "definition": "Truly what it is said to be (असली / सच्चा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "There is genuine concern about data quality."
+    },
+    {
+      "id": "132",
+      "word": "gravitate",
+      "definition": "To be drawn towards something (की ओर खिंचना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Users gravitate towards simpler tools."
+    },
+    {
+      "id": "133",
+      "word": "grapple with",
+      "definition": "To struggle to deal with a difficult problem (कठिन समस्या से जूझना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "We are grappling with inconsistent vendor formats."
+    },
+    {
+      "id": "134",
+      "word": "hallmark",
+      "definition": "A distinctive feature (विशिष्ट पहचान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Clear naming is a hallmark of good code."
+    },
+    {
+      "id": "135",
+      "word": "hamper progress",
+      "definition": "To prevent smooth advancement (प्रगति में बाधा डालना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Unclear requirements hamper progress."
+    },
+    {
+      "id": "136",
+      "word": "haphazard",
+      "definition": "Lacking order or planning (अव्यवस्थित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A haphazard rollout caused confusion."
+    },
+    {
+      "id": "137",
+      "word": "harbour",
+      "definition": "To keep a thought or feeling secretly (मन में रखना / छुपाकर रखना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I harbour doubts about the timeline."
+    },
+    {
+      "id": "138",
+      "word": "harness",
+      "definition": "To control and use resources effectively (संसाधनों का प्रभावी उपयोग करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We harness automation to reduce manual work."
+    },
+    {
+      "id": "139",
+      "word": "hence",
+      "definition": "As a consequence (इसलिए)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "The data is stale; hence the incorrect report."
+    },
+    {
+      "id": "140",
+      "word": "hinge on",
+      "definition": "To depend entirely on (पूरी तरह निर्भर होना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "The launch hinges on regulatory approval."
+    },
+    {
+      "id": "141",
+      "word": "hone",
+      "definition": "To refine or perfect over time (निखारना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She honed her presentation skills through practice."
+    },
+    {
+      "id": "142",
+      "word": "hurdle",
+      "definition": "An obstacle or difficulty (बाधा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Security approval was the final hurdle."
+    },
+    {
+      "id": "143",
+      "word": "illuminate",
+      "definition": "To make something clearer (स्पष्ट करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The case study illuminates common pitfalls."
+    },
+    {
+      "id": "144",
+      "word": "imminent",
+      "definition": "About to happen (निकट भविष्य में होने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "An outage seemed imminent as the disk filled."
+    },
+    {
+      "id": "145",
+      "word": "impartial review",
+      "definition": "A fair assessment without bias (निष्पक्ष समीक्षा)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "An impartial review will help settle the debate."
+    },
+    {
+      "id": "146",
+      "word": "impede progress",
+      "definition": "To slow or obstruct advancement (प्रगति को रोकना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Unclear ownership impedes progress."
+    },
+    {
+      "id": "147",
+      "word": "implement",
+      "definition": "To put a plan into action (लागू करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We implemented the new validation last sprint."
+    },
+    {
+      "id": "148",
+      "word": "imply",
+      "definition": "To suggest without stating directly (संकेत देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The numbers imply a deeper issue."
+    },
+    {
+      "id": "149",
+      "word": "inadvertently",
+      "definition": "Without intending to (अनजाने में)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "He inadvertently deleted the config file."
+    },
+    {
+      "id": "150",
+      "word": "incessant",
+      "definition": "Continuing without pause (लगातार चलने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Incessant alerts led to fatigue."
+    },
+    {
+      "id": "151",
+      "word": "incipient",
+      "definition": "Beginning to develop (आरंभिक अवस्था का)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We spotted incipient issues before they escalated."
+    },
+    {
+      "id": "152",
+      "word": "incorporate",
+      "definition": "To include as part of a whole (शामिल करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We incorporated the feedback into the design."
+    },
+    {
+      "id": "153",
+      "word": "indispensable",
+      "definition": "Absolutely necessary (अपरिहार्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Good monitoring is indispensable for operations."
+    },
+    {
+      "id": "154",
+      "word": "induce",
+      "definition": "To persuade or cause to happen (प्रेरित करना / कारण बनना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "High load induced a cascading failure."
+    },
+    {
+      "id": "155",
+      "word": "inherent",
+      "definition": "Existing as a natural, permanent part (अंतर्निहित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Some risk is inherent in every change."
+    },
+    {
+      "id": "156",
+      "word": "innate",
+      "definition": "Present from birth; natural (जन्मजात)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She has an innate ability to explain complex ideas."
+    },
+    {
+      "id": "157",
+      "word": "insightful",
+      "definition": "Showing deep understanding (अंतर्दृष्टि वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "His insightful questions improved the design."
+    },
+    {
+      "id": "158",
+      "word": "instigate",
+      "definition": "To start or bring about an action (उकसाना / शुरू करवाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The audit instigated a review of all permissions."
+    },
+    {
+      "id": "159",
+      "word": "intact",
+      "definition": "Not damaged or changed (अक्षुण्ण)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "All data remained intact after the migration."
+    },
+    {
+      "id": "160",
+      "word": "intricate",
+      "definition": "Very complicated or detailed (जटिल और बारीक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The intricate dependencies slowed the upgrade."
+    },
+    {
+      "id": "161",
+      "word": "intrinsic",
+      "definition": "Belonging naturally to something (आंतरिक / स्वाभाविक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Quality must be intrinsic to the process."
+    },
+    {
+      "id": "162",
+      "word": "invariably",
+      "definition": "In every case; always (हमेशा)",
+      "partOfSpeech": "adverb",
+      "exampleSentence": "Rushed deployments invariably cause issues."
+    },
+    {
+      "id": "163",
+      "word": "juxtapose",
+      "definition": "To place side by side for contrast (तुलना हेतु पास-पास रखना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The report juxtaposes costs and benefits."
+    },
+    {
+      "id": "164",
+      "word": "keen",
+      "definition": "Eager and enthusiastic (उत्सुक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The team is keen to try the new approach."
+    },
+    {
+      "id": "165",
+      "word": "lament",
+      "definition": "To express sorrow or regret (अफ़सोस जताना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Engineers lament the lack of documentation."
+    },
+    {
+      "id": "166",
+      "word": "latent",
+      "definition": "Existing but not yet developed or visible (सुप्त / छुपा हुआ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A latent bug surfaced after the upgrade."
+    },
+    {
+      "id": "167",
+      "word": "lenient",
+      "definition": "Not as strict as expected (नरम / उदार)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The vendor was lenient about the deadline."
+    },
+    {
+      "id": "168",
+      "word": "leverage points",
+      "definition": "Places where small effort yields large effects (कम प्रयास में बड़ा असर डालने वाले बिंदु)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Find the leverage points in the process."
+    },
+    {
+      "id": "169",
+      "word": "lucrative",
+      "definition": "Producing a great deal of profit (अत्यंत लाभदायक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Data services are a lucrative business."
+    },
+    {
+      "id": "170",
+      "word": "magnitude",
+      "definition": "Great size or importance (परिमाण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The magnitude of the problem became clear gradually."
+    },
+    {
+      "id": "171",
+      "word": "meagre",
+      "definition": "Lacking in quantity or quality (अल्प)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The team's meagre budget limited its options."
+    },
+    {
+      "id": "172",
+      "word": "mundane",
+      "definition": "Lacking interest; ordinary (साधारण और नीरस)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Automate mundane tasks to focus on real engineering."
+    },
+    {
+      "id": "173",
+      "word": "acumen",
+      "definition": "The ability to make good judgements quickly (कुशाग्रता / सूझबूझ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Her business acumen impressed the board."
+    },
+    {
+      "id": "174",
+      "word": "adversity",
+      "definition": "Difficulties or misfortune (विपत्ति / प्रतिकूलता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "He showed courage in the face of adversity."
+    },
+    {
+      "id": "175",
+      "word": "aloof",
+      "definition": "Distant and not friendly (अलग-थलग / रूखा)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Some leaders seem aloof from daily problems."
+    },
+    {
+      "id": "176",
+      "word": "altercation",
+      "definition": "A noisy argument (कहा-सुनी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A brief altercation occurred over the deadline."
+    },
+    {
+      "id": "177",
+      "word": "ameliorate",
+      "definition": "To make a bad situation better (हालात सुधारना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "New training ameliorated the knowledge gaps."
+    },
+    {
+      "id": "178",
+      "word": "anomalous",
+      "definition": "Deviating from what is standard (असामान्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The anomalous results needed investigation."
+    },
+    {
+      "id": "179",
+      "word": "antithesis",
+      "definition": "The direct opposite of something (ठीक विपरीत)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Chaos is the antithesis of good operations."
+    },
+    {
+      "id": "180",
+      "word": "apprehensive",
+      "definition": "Anxious about something that may happen (आशंकित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She felt apprehensive about the live demo."
+    },
+    {
+      "id": "181",
+      "word": "arduous task",
+      "definition": "A very difficult job (अत्यंत कठिन कार्य)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Rewriting the parser was an arduous task."
+    },
+    {
+      "id": "182",
+      "word": "augmentation",
+      "definition": "The act of making something greater (वृद्धि / संवर्धन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Data augmentation improved the model."
+    },
+    {
+      "id": "183",
+      "word": "benevolent",
+      "definition": "Kind and generous (परोपकारी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A benevolent manager gave the team flexibility."
+    },
+    {
+      "id": "184",
+      "word": "cacophony",
+      "definition": "A harsh mixture of loud sounds (कर्कश शोर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A cacophony of alerts overwhelmed the on-call engineer."
+    },
+    {
+      "id": "185",
+      "word": "catalyst",
+      "definition": "Something that causes change or action (उत्प्रेरक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The outage was a catalyst for reform."
+    },
+    {
+      "id": "186",
+      "word": "chagrin",
+      "definition": "Annoyance from failure or embarrassment (खिन्नता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "To his chagrin, the bug was his own."
+    },
+    {
+      "id": "187",
+      "word": "coalesce",
+      "definition": "To come together to form a whole (एक में घुल-मिल जाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Ideas coalesced into a clear plan."
+    },
+    {
+      "id": "188",
+      "word": "conducive",
+      "definition": "Making a certain result likely (अनुकूल)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A quiet space is conducive to deep work."
+    },
+    {
+      "id": "189",
+      "word": "conundrum",
+      "definition": "A confusing and difficult problem (उलझन भरी पहेली)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The schema change posed a conundrum."
+    },
+    {
+      "id": "190",
+      "word": "convoluted logic",
+      "definition": "Unnecessarily complicated reasoning (उलझा हुआ तर्क)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "The convoluted logic made debugging painful."
+    },
+    {
+      "id": "191",
+      "word": "credulous",
+      "definition": "Too ready to believe things (ज़रूरत से ज़्यादा भरोसा करने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Don't be credulous about vendor claims."
+    },
+    {
+      "id": "192",
+      "word": "dichotomy",
+      "definition": "A division into two contrasting parts (दो विपरीत भागों में बँटवारा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There's a dichotomy between speed and quality."
+    },
+    {
+      "id": "193",
+      "word": "dilemma",
+      "definition": "A situation requiring a hard choice (दुविधा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We faced a dilemma over delaying the release."
+    },
+    {
+      "id": "194",
+      "word": "discord",
+      "definition": "Disagreement between people (मतभेद)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Discord within the team slowed progress."
+    },
+    {
+      "id": "195",
+      "word": "eclectic",
+      "definition": "Drawing from a wide range of sources (विविध स्रोतों से लिया गया)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The team has an eclectic mix of skills."
+    },
+    {
+      "id": "196",
+      "word": "efficacy",
+      "definition": "The ability to produce a desired result (प्रभावशीलता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We tested the efficacy of the new alerts."
+    },
+    {
+      "id": "197",
+      "word": "ephemeral nature",
+      "definition": "A short-lived quality (क्षणभंगुर स्वभाव)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "The ephemeral nature of containers requires external storage."
+    },
+    {
+      "id": "198",
+      "word": "equanimity",
+      "definition": "Calmness in difficult situations (समभाव / शांति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She handled criticism with equanimity."
+    },
+    {
+      "id": "199",
+      "word": "exacting",
+      "definition": "Demanding great care and effort (अत्यंत कठोर मानकों वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The client's exacting standards raised quality."
+    },
+    {
+      "id": "200",
+      "word": "flamboyant",
+      "definition": "Showy and attracting attention (दिखावटी और आकर्षक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "He gave a flamboyant presentation."
+    }
+  ],
+  "id": "2fcd463c-50f0-42cd-aa39-5fbcc0edd001",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

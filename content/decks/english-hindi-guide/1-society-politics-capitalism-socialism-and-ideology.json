@@ -1,0 +1,463 @@
+{
+ "id": "pack3-deck-1",
+ "categoryId": "pack3-cat-1",
+ "title": "1. Society, Politics, Capitalism, Socialism & Ideology",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-1",
+   "mode": "vocab",
+   "word": "Society",
+   "pron": "",
+   "def": "An organized group of people living together with shared customs, laws, and institutions.\nहिंदी: समाज",
+   "examples": [
+    "Society shapes the values we grow up with.",
+    "A healthy society respects diversity.",
+    "Modern society faces rapid technological change.",
+    "Education is the backbone of any society."
+   ]
+  },
+  {
+   "id": "pack3-card-2",
+   "mode": "vocab",
+   "word": "Culture",
+   "pron": "",
+   "def": "The beliefs, customs, arts, and way of life of a particular group.\nहिंदी: संस्कृति",
+   "examples": [
+    "Indian culture celebrates many festivals.",
+    "Culture passes from one generation to the next.",
+    "Food is a major part of every culture.",
+    "Globalization blends different cultures."
+   ]
+  },
+  {
+   "id": "pack3-card-3",
+   "mode": "vocab",
+   "word": "Norm",
+   "pron": "",
+   "def": "A standard or expected pattern of behavior in a group.\nहिंदी: मानदंड / सामाजिक नियम",
+   "examples": [
+    "Social norms vary from country to country.",
+    "Breaking a norm can invite criticism.",
+    "Norms help maintain social order.",
+    "Dress norms differ across workplaces."
+   ]
+  },
+  {
+   "id": "pack3-card-4",
+   "mode": "vocab",
+   "word": "Custom",
+   "pron": "",
+   "def": "A traditional and widely accepted way of behaving.\nहिंदी: रीति-रिवाज",
+   "examples": [
+    "Marriage customs differ across regions.",
+    "Customs are passed down through generations.",
+    "Some customs have lost relevance today.",
+    "Festivals reflect local customs."
+   ]
+  },
+  {
+   "id": "pack3-card-6",
+   "mode": "vocab",
+   "word": "Community",
+   "pron": "",
+   "def": "A group of people living in the same area or sharing common interests.\nहिंदी: समुदाय",
+   "examples": [
+    "The community organized a clean-up drive.",
+    "Strong communities support their members.",
+    "Minority communities need protection.",
+    "Online communities connect strangers."
+   ]
+  },
+  {
+   "id": "pack3-card-9",
+   "mode": "vocab",
+   "word": "Hierarchy",
+   "pron": "",
+   "def": "A system where people are ranked by status or authority.\nहिंदी: पदानुक्रम / ऊँच-नीच का क्रम",
+   "examples": [
+    "Caste hierarchy divided society.",
+    "Corporate hierarchy decides who reports to whom.",
+    "Hierarchy can suppress new voices.",
+    "Power hierarchy exists in politics too."
+   ]
+  },
+  {
+   "id": "pack3-card-11",
+   "mode": "vocab",
+   "word": "Politics",
+   "pron": "",
+   "def": "Activities related to governing a country or influencing policy.\nहिंदी: राजनीति",
+   "examples": [
+    "Politics decides how resources are distributed.",
+    "Many young people avoid politics.",
+    "Politics affects everyday life.",
+    "Clean politics builds trust."
+   ]
+  },
+  {
+   "id": "pack3-card-13",
+   "mode": "vocab",
+   "word": "Authoritarianism",
+   "pron": "",
+   "def": "A system where power is concentrated in one leader or group.\nहिंदी: सत्तावाद / तानाशाही",
+   "examples": [
+    "Authoritarianism suppresses dissent.",
+    "Authoritarianism weakens institutions.",
+    "Media freedom shrinks under authoritarianism.",
+    "Authoritarianism often rises during crises."
+   ]
+  },
+  {
+   "id": "pack3-card-14",
+   "mode": "vocab",
+   "word": "Ideology",
+   "pron": "",
+   "def": "A set of beliefs that guides political or economic action.\nहिंदी: विचारधारा",
+   "examples": [
+    "Ideology shapes party policies.",
+    "Conflicting ideologies divide voters.",
+    "Ideology can blind people to facts.",
+    "Every ideology has strengths and flaws."
+   ]
+  },
+  {
+   "id": "pack3-card-16",
+   "mode": "vocab",
+   "word": "Governance",
+   "pron": "",
+   "def": "The way a country or organization is managed and controlled.\nहिंदी: शासन-प्रणाली",
+   "examples": [
+    "Good governance requires transparency.",
+    "Governance failures lead to corruption.",
+    "Local governance empowers villages.",
+    "Digital governance speeds up services."
+   ]
+  },
+  {
+   "id": "pack3-card-17",
+   "mode": "vocab",
+   "word": "Election",
+   "pron": "",
+   "def": "A formal process of choosing leaders by voting.\nहिंदी: चुनाव",
+   "examples": [
+    "Elections are the heart of democracy.",
+    "Free elections require fair rules.",
+    "Elections can polarize society.",
+    "Voter turnout affects results."
+   ]
+  },
+  {
+   "id": "pack3-card-18",
+   "mode": "vocab",
+   "word": "Sovereignty",
+   "pron": "",
+   "def": "The full right and power of a nation to govern itself.\nहिंदी: संप्रभुता",
+   "examples": [
+    "Sovereignty means no outside control.",
+    "Nations guard their sovereignty fiercely.",
+    "Trade deals can affect sovereignty.",
+    "Sovereignty comes with responsibility."
+   ]
+  },
+  {
+   "id": "pack3-card-21",
+   "mode": "vocab",
+   "word": "Capitalism",
+   "pron": "",
+   "def": "An economic system based on private ownership and profit.\nहिंदी: पूंजीवाद",
+   "examples": [
+    "Capitalism encourages innovation.",
+    "Capitalism can create inequality.",
+    "Capitalism rewards risk-taking.",
+    "Critics say capitalism ignores social costs."
+   ]
+  },
+  {
+   "id": "pack3-card-22",
+   "mode": "vocab",
+   "word": "Market",
+   "pron": "",
+   "def": "A system where goods and services are bought and sold.\nहिंदी: बाज़ार",
+   "examples": [
+    "The market decides prices.",
+    "Free markets need regulation.",
+    "Market crashes destroy savings.",
+    "Market competition benefits consumers."
+   ]
+  },
+  {
+   "id": "pack3-card-24",
+   "mode": "vocab",
+   "word": "Competition",
+   "pron": "",
+   "def": "Rivalry between businesses or individuals.\nहिंदी: प्रतिस्पर्धा",
+   "examples": [
+    "Competition lowers prices.",
+    "Unfair competition hurts small firms.",
+    "Competition drives efficiency.",
+    "Too much competition causes stress."
+   ]
+  },
+  {
+   "id": "pack3-card-25",
+   "mode": "vocab",
+   "word": "Private Property",
+   "pron": "",
+   "def": "Assets owned by individuals or companies, not the state.\nहिंदी: निजी संपत्ति",
+   "examples": [
+    "Private property is central to capitalism.",
+    "Laws protect private property.",
+    "Private property can be taxed.",
+    "Land disputes involve private property."
+   ]
+  },
+  {
+   "id": "pack3-card-26",
+   "mode": "vocab",
+   "word": "Entrepreneurship",
+   "pron": "",
+   "def": "The activity of starting and running new businesses.\nहिंदी: उद्यमिता",
+   "examples": [
+    "Entrepreneurship creates jobs.",
+    "Entrepreneurship requires capital and courage.",
+    "Young people embrace entrepreneurship.",
+    "Entrepreneurship drives innovation."
+   ]
+  },
+  {
+   "id": "pack3-card-27",
+   "mode": "vocab",
+   "word": "Consumerism",
+   "pron": "",
+   "def": "A culture focused on buying and consuming goods.\nहिंदी: उपभोक्तावाद",
+   "examples": [
+    "Consumerism drives economic growth.",
+    "Consumerism can harm the environment.",
+    "Advertising fuels consumerism.",
+    "Consumerism shapes modern identity."
+   ]
+  },
+  {
+   "id": "pack3-card-30",
+   "mode": "vocab",
+   "word": "Exploitation",
+   "pron": "",
+   "def": "Treating someone unfairly to benefit from their work.\nहिंदी: शोषण",
+   "examples": [
+    "Worker exploitation is illegal.",
+    "Exploitation exists in supply chains.",
+    "Child exploitation must end.",
+    "Capitalism is accused of exploitation."
+   ]
+  },
+  {
+   "id": "pack3-card-31",
+   "mode": "vocab",
+   "word": "Socialism",
+   "pron": "",
+   "def": "A system where the community or state owns key resources.\nहिंदी: समाजवाद",
+   "examples": [
+    "Socialism aims to reduce inequality.",
+    "Socialism prioritizes public welfare.",
+    "Critics say socialism stifles initiative.",
+    "Socialism takes many forms."
+   ]
+  },
+  {
+   "id": "pack3-card-32",
+   "mode": "vocab",
+   "word": "Collectivism",
+   "pron": "",
+   "def": "Giving priority to the group over the individual.\nहिंदी: सामूहिकतावाद",
+   "examples": [
+    "Collectivism values community over self.",
+    "Collectivism shaped village life.",
+    "Collectivism can suppress individuality.",
+    "Collectivism aids disaster response."
+   ]
+  },
+  {
+   "id": "pack3-card-34",
+   "mode": "vocab",
+   "word": "Nationalization",
+   "pron": "",
+   "def": "Bringing private assets under government ownership.\nहिंदी: राष्ट्रीयकरण",
+   "examples": [
+    "Nationalization of banks happened in 1969.",
+    "Nationalization can rescue failing industries.",
+    "Nationalization may reduce efficiency.",
+    "Nationalization is a socialist tool."
+   ]
+  },
+  {
+   "id": "pack3-card-35",
+   "mode": "vocab",
+   "word": "Redistribution",
+   "pron": "",
+   "def": "Sharing wealth more equally through taxes and benefits.\nहिंदी: पुनर्वितरण",
+   "examples": [
+    "Redistribution reduces inequality.",
+    "Redistribution is done through taxation.",
+    "Critics call redistribution unfair.",
+    "Redistribution funds public services."
+   ]
+  },
+  {
+   "id": "pack3-card-36",
+   "mode": "vocab",
+   "word": "Public Ownership",
+   "pron": "",
+   "def": "Resources owned by the government for citizens.\nहिंदी: सार्वजनिक स्वामित्व",
+   "examples": [
+    "Public ownership of railways is common.",
+    "Public ownership can ensure access.",
+    "Public ownership may suffer inefficiency.",
+    "Public ownership protects natural resources."
+   ]
+  },
+  {
+   "id": "pack3-card-39",
+   "mode": "vocab",
+   "word": "Commons",
+   "pron": "",
+   "def": "Resources shared by a community, not privately owned.\nहिंदी: साझा संसाधन",
+   "examples": [
+    "Forests are often commons.",
+    "Commons can be overused.",
+    "Protecting commons needs rules.",
+    "Water is a vital commons."
+   ]
+  },
+  {
+   "id": "pack3-card-40",
+   "mode": "vocab",
+   "word": "Class Struggle",
+   "pron": "",
+   "def": "Conflict between different social classes over resources.\nहिंदी: वर्ग संघर्ष",
+   "examples": [
+    "Marx wrote about class struggle.",
+    "Class struggle shapes politics.",
+    "Class struggle can lead to reform.",
+    "Class struggle is visible in wages."
+   ]
+  },
+  {
+   "id": "pack3-card-41",
+   "mode": "vocab",
+   "word": "Dogma",
+   "pron": "",
+   "def": "A belief accepted without question.\nहिंदी: हठधर्मिता / कट्टर मत",
+   "examples": [
+    "Dogma blocks new thinking.",
+    "Political dogma divides people.",
+    "Dogma ignores evidence.",
+    "Religious dogma can be rigid."
+   ]
+  },
+  {
+   "id": "pack3-card-42",
+   "mode": "vocab",
+   "word": "Fanaticism",
+   "pron": "",
+   "def": "Extreme and unquestioning devotion to a cause.\nहिंदी: कट्टरता / धर्मांधता",
+   "examples": [
+    "Fanaticism leads to violence.",
+    "Fanaticism blinds reason.",
+    "Fanaticism exists in all ideologies.",
+    "Fanaticism rejects compromise."
+   ]
+  },
+  {
+   "id": "pack3-card-43",
+   "mode": "vocab",
+   "word": "Partisanship",
+   "pron": "",
+   "def": "Strong bias toward one party or side.\nहिंदी: पक्षपात / दलगत भावना",
+   "examples": [
+    "Partisanship blocks legislation.",
+    "Partisanship harms democracy.",
+    "Media partisanship misleads voters.",
+    "Partisanship fuels division."
+   ]
+  },
+  {
+   "id": "pack3-card-45",
+   "mode": "vocab",
+   "word": "Polarization",
+   "pron": "",
+   "def": "Division into two sharply opposed groups.\nहिंदी: ध्रुवीकरण",
+   "examples": [
+    "Polarization weakens democracy.",
+    "Social media increases polarization.",
+    "Polarization makes compromise hard.",
+    "Polarization divides families."
+   ]
+  },
+  {
+   "id": "pack3-card-46",
+   "mode": "vocab",
+   "word": "Intolerance",
+   "pron": "",
+   "def": "Refusal to accept different views or people.\nहिंदी: असहिष्णुता",
+   "examples": [
+    "Intolerance threatens free speech.",
+    "Intolerance grows in polarized times.",
+    "Intolerance silences minorities.",
+    "Intolerance must be countered with dialogue."
+   ]
+  },
+  {
+   "id": "pack3-card-47",
+   "mode": "vocab",
+   "word": "Echo Chamber",
+   "pron": "",
+   "def": "An environment where only similar opinions are heard.\nहिंदी: इको चैंबर / एक जैसी राय वाला घेरा",
+   "examples": [
+    "Social media creates echo chambers.",
+    "Echo chambers reinforce bias.",
+    "Echo chambers prevent learning.",
+    "Breaking echo chambers needs diverse sources."
+   ]
+  },
+  {
+   "id": "pack3-card-48",
+   "mode": "vocab",
+   "word": "Herd Mentality",
+   "pron": "",
+   "def": "Following the crowd without independent thought.\nहिंदी: भेड़चाल",
+   "examples": [
+    "Herd mentality drives mob behavior.",
+    "Herd mentality spreads rumors.",
+    "Investors suffer from herd mentality.",
+    "Herd mentality replaces reason."
+   ]
+  },
+  {
+   "id": "pack3-card-49",
+   "mode": "vocab",
+   "word": "Demagogue",
+   "pron": "",
+   "def": "A leader who gains power by appealing to emotions and prejudice.\nहिंदी: भड़काऊ नेता",
+   "examples": [
+    "Demagogues exploit fear.",
+    "Demagogues promise easy solutions.",
+    "Demagogues attack institutions.",
+    "Demagogues thrive in crises."
+   ]
+  },
+  {
+   "id": "pack3-card-50",
+   "mode": "vocab",
+   "word": "Critical Thinking",
+   "pron": "",
+   "def": "The ability to analyze facts before forming a judgment.\nहिंदी: आलोचनात्मक चिंतन",
+   "examples": [
+    "Critical thinking resists propaganda.",
+    "Critical thinking requires evidence.",
+    "Schools should teach critical thinking.",
+    "Critical thinking prevents blind support."
+   ]
+  }
+ ]
+}

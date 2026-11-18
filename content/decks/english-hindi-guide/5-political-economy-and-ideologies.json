@@ -1,0 +1,554 @@
+{
+ "id": "pack3-deck-5",
+ "categoryId": "pack3-cat-1",
+ "title": "5. Political Economy & Ideologies",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-201",
+   "mode": "vocab",
+   "word": "Political Economy",
+   "pron": "",
+   "def": "The study of how politics and economics interact.\nहिंदी: राजनीतिक अर्थव्यवस्था",
+   "examples": [
+    "Political Economy examines wealth and power.",
+    "Political Economy shapes policy decisions.",
+    "Political Economy studies class relations.",
+    "Political Economy influences development."
+   ]
+  },
+  {
+   "id": "pack3-card-202",
+   "mode": "vocab",
+   "word": "Liberalism",
+   "pron": "",
+   "def": "An ideology emphasizing individual freedom and equality.\nहिंदी: उदारवाद",
+   "examples": [
+    "Liberalism values individual rights.",
+    "Liberalism supports free speech.",
+    "Liberalism favors limited government.",
+    "Liberalism evolved over centuries."
+   ]
+  },
+  {
+   "id": "pack3-card-203",
+   "mode": "vocab",
+   "word": "Neoliberalism",
+   "pron": "",
+   "def": "A policy favoring free markets and reduced state intervention.\nहिंदी: नवउदारवाद",
+   "examples": [
+    "Neoliberalism promotes privatization.",
+    "Neoliberalism reduces welfare spending.",
+    "Neoliberalism increased inequality.",
+    "Neoliberalism dominates global economics."
+   ]
+  },
+  {
+   "id": "pack3-card-204",
+   "mode": "vocab",
+   "word": "Conservatism",
+   "pron": "",
+   "def": "An ideology favoring tradition and stability.\nहिंदी: रूढ़िवाद",
+   "examples": [
+    "Conservatism values tradition.",
+    "Conservatism resists rapid change.",
+    "Conservatism emphasizes order.",
+    "Conservatism varies across cultures."
+   ]
+  },
+  {
+   "id": "pack3-card-205",
+   "mode": "vocab",
+   "word": "Progressivism",
+   "pron": "",
+   "def": "An ideology favoring social reform and change.\nहिंदी: प्रगतिवाद",
+   "examples": [
+    "Progressivism supports social justice.",
+    "Progressivism pushes for reform.",
+    "Progressivism challenges tradition.",
+    "Progressivism advances rights."
+   ]
+  },
+  {
+   "id": "pack3-card-206",
+   "mode": "vocab",
+   "word": "Marxism",
+   "pron": "",
+   "def": "A theory analyzing class conflict and capitalism.\nहिंदी: मार्क्सवाद",
+   "examples": [
+    "Marxism critiques capitalism.",
+    "Marxism focuses on class struggle.",
+    "Marxism influenced socialist states.",
+    "Marxism analyzes exploitation."
+   ]
+  },
+  {
+   "id": "pack3-card-207",
+   "mode": "vocab",
+   "word": "Communism",
+   "pron": "",
+   "def": "A system where property is commonly owned.\nहिंदी: साम्यवाद",
+   "examples": [
+    "Communism aims for classless society.",
+    "Communism was practiced in the USSR.",
+    "Communism emphasizes collective ownership.",
+    "Communism has varied implementations."
+   ]
+  },
+  {
+   "id": "pack3-card-208",
+   "mode": "vocab",
+   "word": "Anarchism",
+   "pron": "",
+   "def": "A belief in abolishing all forms of government.\nहिंदी: अराजकतावाद",
+   "examples": [
+    "Anarchism rejects state authority.",
+    "Anarchism favors voluntary cooperation.",
+    "Anarchism has revolutionary roots.",
+    "Anarchism opposes hierarchy."
+   ]
+  },
+  {
+   "id": "pack3-card-209",
+   "mode": "vocab",
+   "word": "Fascism",
+   "pron": "",
+   "def": "An authoritarian ideology glorifying nation and leader.\nहिंदी: फ़ासीवाद",
+   "examples": [
+    "Fascism suppresses dissent.",
+    "Fascism glorifies the nation above all.",
+    "Fascism rose in the 20th century.",
+    "Fascism rejects democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-210",
+   "mode": "vocab",
+   "word": "Populism",
+   "pron": "",
+   "def": "A political approach appealing to ordinary people against elites.\nहिंदी: लोकलुभावनवाद",
+   "examples": [
+    "Populism claims to represent the common people.",
+    "Populism attacks established institutions.",
+    "Populism can be left or right wing.",
+    "Populism thrives on dissatisfaction."
+   ]
+  },
+  {
+   "id": "pack3-card-211",
+   "mode": "vocab",
+   "word": "Nationalism",
+   "pron": "",
+   "def": "Devotion to one's nation and its interests.\nहिंदी: राष्ट्रवाद",
+   "examples": [
+    "Nationalism unites citizens.",
+    "Nationalism can become exclusionary.",
+    "Nationalism inspired independence movements.",
+    "Nationalism shapes foreign policy."
+   ]
+  },
+  {
+   "id": "pack3-card-212",
+   "mode": "vocab",
+   "word": "Patriotism",
+   "pron": "",
+   "def": "Love and loyalty toward one's country.\nहिंदी: देशभक्ति",
+   "examples": [
+    "Patriotism inspires civic duty.",
+    "Patriotism differs from blind nationalism.",
+    "Patriotism motivates service.",
+    "Patriotism should be inclusive."
+   ]
+  },
+  {
+   "id": "pack3-card-213",
+   "mode": "vocab",
+   "word": "Imperialism",
+   "pron": "",
+   "def": "Extending a nation's power over other territories.\nहिंदी: साम्राज्यवाद",
+   "examples": [
+    "Imperialism exploited colonies.",
+    "Imperialism shaped global inequality.",
+    "Imperialism spread languages and cultures.",
+    "Imperialism faced resistance."
+   ]
+  },
+  {
+   "id": "pack3-card-214",
+   "mode": "vocab",
+   "word": "Colonialism",
+   "pron": "",
+   "def": "Control by one country over another and its people.\nहिंदी: उपनिवेशवाद",
+   "examples": [
+    "Colonialism drained resources from colonies.",
+    "Colonialism left lasting scars.",
+    "Colonialism imposed foreign rule.",
+    "Colonialism ended through struggles."
+   ]
+  },
+  {
+   "id": "pack3-card-215",
+   "mode": "vocab",
+   "word": "Decolonization",
+   "pron": "",
+   "def": "The process of colonies gaining independence.\nहिंदी: उपनिवेशवाद की समाप्ति",
+   "examples": [
+    "Decolonization swept Asia and Africa.",
+    "Decolonization followed World War II.",
+    "Decolonization created new nations.",
+    "Decolonization faced violent resistance."
+   ]
+  },
+  {
+   "id": "pack3-card-216",
+   "mode": "vocab",
+   "word": "Globalization",
+   "pron": "",
+   "def": "The integration of economies and cultures worldwide.\nहिंदी: वैश्वीकरण",
+   "examples": [
+    "Globalization connects markets worldwide.",
+    "Globalization spreads ideas and technology.",
+    "Globalization can increase inequality.",
+    "Globalization faces backlash."
+   ]
+  },
+  {
+   "id": "pack3-card-217",
+   "mode": "vocab",
+   "word": "Protectionism",
+   "pron": "",
+   "def": "Policies restricting imports to protect domestic industry.\nहिंदी: संरक्षणवाद",
+   "examples": [
+    "Protectionism shields local industries.",
+    "Protectionism raises consumer prices.",
+    "Protectionism sparks trade wars.",
+    "Protectionism is debated by economists."
+   ]
+  },
+  {
+   "id": "pack3-card-218",
+   "mode": "vocab",
+   "word": "Free Trade",
+   "pron": "",
+   "def": "Trade between countries without restrictions.\nहिंदी: मुक्त व्यापार",
+   "examples": [
+    "Free Trade lowers prices.",
+    "Free Trade boosts economic growth.",
+    "Free Trade can harm local producers.",
+    "Free Trade requires agreements."
+   ]
+  },
+  {
+   "id": "pack3-card-221",
+   "mode": "vocab",
+   "word": "Austerity",
+   "pron": "",
+   "def": "Strict government spending cuts to reduce debt.\nहिंदी: कठोर मितव्ययिता",
+   "examples": [
+    "Austerity reduces public spending.",
+    "Austerity can slow growth.",
+    "Austerity affects welfare programs.",
+    "Austerity sparks protests."
+   ]
+  },
+  {
+   "id": "pack3-card-225",
+   "mode": "vocab",
+   "word": "Gross Domestic Product",
+   "pron": "",
+   "def": "The total value of goods and services produced in a country.\nहिंदी: सकल घरेलू उत्पाद",
+   "examples": [
+    "Gross Domestic Product measures economic output.",
+    "Gross Domestic Product growth indicates prosperity.",
+    "Gross Domestic Product ignores inequality.",
+    "Gross Domestic Product is a key indicator."
+   ]
+  },
+  {
+   "id": "pack3-card-226",
+   "mode": "vocab",
+   "word": "Human Development Index",
+   "pron": "",
+   "def": "A measure of health, education, and income.\nहिंदी: मानव विकास सूचकांक",
+   "examples": [
+    "Human Development Index measures well-being.",
+    "Human Development Index goes beyond GDP.",
+    "Human Development Index ranks countries.",
+    "Human Development Index reflects quality of life."
+   ]
+  },
+  {
+   "id": "pack3-card-227",
+   "mode": "vocab",
+   "word": "Gini Coefficient",
+   "pron": "",
+   "def": "A measure of income inequality.\nहिंदी: गिनी गुणांक",
+   "examples": [
+    "Gini Coefficient measures inequality.",
+    "Gini Coefficient ranges from 0 to 1.",
+    "Gini Coefficient shows wealth gaps.",
+    "Gini Coefficient is rising globally."
+   ]
+  },
+  {
+   "id": "pack3-card-230",
+   "mode": "vocab",
+   "word": "Wealth Gap",
+   "pron": "",
+   "def": "The difference in wealth between rich and poor.\nहिंदी: अमीर-ग़रीब की खाई",
+   "examples": [
+    "Wealth Gap widens over time.",
+    "Wealth Gap threatens stability.",
+    "Wealth Gap affects opportunity.",
+    "Wealth Gap must be addressed."
+   ]
+  },
+  {
+   "id": "pack3-card-231",
+   "mode": "vocab",
+   "word": "Social Mobility",
+   "pron": "",
+   "def": "The ability to move between social classes.\nहिंदी: सामाजिक गतिशीलता",
+   "examples": [
+    "Social Mobility allows better lives.",
+    "Social Mobility requires education.",
+    "Social Mobility is limited by inequality.",
+    "Social Mobility varies across societies."
+   ]
+  },
+  {
+   "id": "pack3-card-232",
+   "mode": "vocab",
+   "word": "Welfare State",
+   "pron": "",
+   "def": "A state that provides for citizens' basic needs.\nहिंदी: कल्याणकारी राज्य",
+   "examples": [
+    "Welfare State protects the vulnerable.",
+    "Welfare State provides healthcare and education.",
+    "Welfare State requires taxation.",
+    "Welfare State reduces poverty."
+   ]
+  },
+  {
+   "id": "pack3-card-233",
+   "mode": "vocab",
+   "word": "Public Good",
+   "pron": "",
+   "def": "A benefit available to all, like clean air.\nहिंदी: सार्वजनिक हित की वस्तु",
+   "examples": [
+    "Public Goods benefit everyone.",
+    "Public Goods need state provision.",
+    "Public Goods suffer from free riders.",
+    "Public Goods include national defense."
+   ]
+  },
+  {
+   "id": "pack3-card-234",
+   "mode": "vocab",
+   "word": "Privatization",
+   "pron": "",
+   "def": "Transferring state assets to private ownership.\nहिंदी: निजीकरण",
+   "examples": [
+    "Privatization improves efficiency sometimes.",
+    "Privatization reduces state control.",
+    "Privatization can raise revenue.",
+    "Privatization faces public opposition."
+   ]
+  },
+  {
+   "id": "pack3-card-235",
+   "mode": "vocab",
+   "word": "Deregulation",
+   "pron": "",
+   "def": "Removing government rules from industries.\nहिंदी: नियंत्रण-मुक्ति",
+   "examples": [
+    "Deregulation promotes competition.",
+    "Deregulation can harm consumers.",
+    "Deregulation fueled financial crises.",
+    "Deregulation is debated by policymakers."
+   ]
+  },
+  {
+   "id": "pack3-card-236",
+   "mode": "vocab",
+   "word": "Labour Rights",
+   "pron": "",
+   "def": "Rights protecting workers' interests.\nहिंदी: श्रम अधिकार",
+   "examples": [
+    "Labour Rights ensure fair wages.",
+    "Labour Rights protect against exploitation.",
+    "Labour Rights include safe conditions.",
+    "Labour Rights must be enforced."
+   ]
+  },
+  {
+   "id": "pack3-card-237",
+   "mode": "vocab",
+   "word": "Trade Union",
+   "pron": "",
+   "def": "An organization of workers protecting their interests.\nहिंदी: मज़दूर संघ",
+   "examples": [
+    "Trade Unions negotiate wages.",
+    "Trade Unions protect workers.",
+    "Trade Unions organize strikes.",
+    "Trade Unions face decline."
+   ]
+  },
+  {
+   "id": "pack3-card-238",
+   "mode": "vocab",
+   "word": "Minimum Wage",
+   "pron": "",
+   "def": "The lowest legal pay for workers.\nहिंदी: न्यूनतम मज़दूरी",
+   "examples": [
+    "Minimum Wage prevents exploitation.",
+    "Minimum Wage must be livable.",
+    "Minimum Wage varies by region.",
+    "Minimum Wage affects poverty."
+   ]
+  },
+  {
+   "id": "pack3-card-239",
+   "mode": "vocab",
+   "word": "Gig Economy",
+   "pron": "",
+   "def": "A labor market based on short-term contracts.\nहिंदी: गिग इकॉनमी / अस्थायी काम की अर्थव्यवस्था",
+   "examples": [
+    "Gig Economy offers flexible work.",
+    "Gig Economy lacks job security.",
+    "Gig Economy expands with technology.",
+    "Gig Economy raises labor concerns."
+   ]
+  },
+  {
+   "id": "pack3-card-241",
+   "mode": "vocab",
+   "word": "Universal Basic Income",
+   "pron": "",
+   "def": "A regular payment to all citizens without conditions.\nहिंदी: सार्वभौमिक बुनियादी आय",
+   "examples": [
+    "Universal Basic Income reduces poverty.",
+    "Universal Basic Income is debated globally.",
+    "Universal Basic Income ensures dignity.",
+    "Universal Basic Income is costly."
+   ]
+  },
+  {
+   "id": "pack3-card-242",
+   "mode": "vocab",
+   "word": "Public Distribution System",
+   "pron": "",
+   "def": "A system providing subsidized food to the poor.\nहिंदी: सार्वजनिक वितरण प्रणाली",
+   "examples": [
+    "Public Distribution System ensures food security.",
+    "Public Distribution System reduces hunger.",
+    "Public Distribution System faces leakages.",
+    "Public Distribution System must be reformed."
+   ]
+  },
+  {
+   "id": "pack3-card-243",
+   "mode": "vocab",
+   "word": "Food Security",
+   "pron": "",
+   "def": "Reliable access to sufficient food.\nहिंदी: खाद्य सुरक्षा",
+   "examples": [
+    "Food Security is a basic right.",
+    "Food Security requires stable supply.",
+    "Food Security is threatened by climate change.",
+    "Food Security must be prioritized."
+   ]
+  },
+  {
+   "id": "pack3-card-244",
+   "mode": "vocab",
+   "word": "Sustainable Development",
+   "pron": "",
+   "def": "Growth that meets present needs without harming the future.\nहिंदी: सतत विकास",
+   "examples": [
+    "Sustainable Development balances growth and ecology.",
+    "Sustainable Development is a global goal.",
+    "Sustainable Development requires cooperation.",
+    "Sustainable Development protects resources."
+   ]
+  },
+  {
+   "id": "pack3-card-245",
+   "mode": "vocab",
+   "word": "Climate Justice",
+   "pron": "",
+   "def": "Fair treatment of all in climate action.\nहिंदी: जलवायु न्याय",
+   "examples": [
+    "Climate Justice protects the vulnerable.",
+    "Climate Justice demands global cooperation.",
+    "Climate Justice addresses inequality.",
+    "Climate Justice is a moral imperative."
+   ]
+  },
+  {
+   "id": "pack3-card-246",
+   "mode": "vocab",
+   "word": "Corporate Social Responsibility",
+   "pron": "",
+   "def": "A company's duty toward society and environment.\nहिंदी: कॉरपोरेट सामाजिक उत्तरदायित्व",
+   "examples": [
+    "Corporate Social Responsibility promotes ethics.",
+    "Corporate Social Responsibility builds trust.",
+    "Corporate Social Responsibility is legally mandated in India.",
+    "Corporate Social Responsibility supports communities."
+   ]
+  },
+  {
+   "id": "pack3-card-247",
+   "mode": "vocab",
+   "word": "Crony Capitalism",
+   "pron": "",
+   "def": "A system where businesses profit through political connections.\nहिंदी: याराना पूंजीवाद",
+   "examples": [
+    "Crony Capitalism distorts markets.",
+    "Crony Capitalism breeds corruption.",
+    "Crony Capitalism harms competition.",
+    "Crony Capitalism must be curbed."
+   ]
+  },
+  {
+   "id": "pack3-card-248",
+   "mode": "vocab",
+   "word": "State Capitalism",
+   "pron": "",
+   "def": "A system where the state controls major industries.\nहिंदी: राज्य पूंजीवाद",
+   "examples": [
+    "State Capitalism combines state and market.",
+    "State Capitalism exists in some nations.",
+    "State Capitalism can be efficient.",
+    "State Capitalism limits private enterprise."
+   ]
+  },
+  {
+   "id": "pack3-card-249",
+   "mode": "vocab",
+   "word": "Mixed Economy",
+   "pron": "",
+   "def": "An economy with both public and private sectors.\nहिंदी: मिश्रित अर्थव्यवस्था",
+   "examples": [
+    "Mixed Economy blends state and market.",
+    "Mixed Economy is practiced in India.",
+    "Mixed Economy balances welfare and growth.",
+    "Mixed Economy is flexible."
+   ]
+  },
+  {
+   "id": "pack3-card-250",
+   "mode": "vocab",
+   "word": "Ideological Spectrum",
+   "pron": "",
+   "def": "The range of political beliefs from left to right.\nहिंदी: विचारधारा का दायरा",
+   "examples": [
+    "Ideological Spectrum spans left to right.",
+    "Ideological Spectrum helps classify views.",
+    "Ideological Spectrum is not always linear.",
+    "Ideological Spectrum shapes debate."
+   ]
+  }
+ ]
+}

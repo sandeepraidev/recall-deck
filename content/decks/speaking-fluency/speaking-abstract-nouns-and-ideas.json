@@ -1,0 +1,1308 @@
+{
+ "id": "pack2-deck-9",
+ "categoryId": "pack2-cat-2",
+ "title": "Speaking: Abstract Nouns & Ideas",
+ "sub": "Idea-words that appear in editorials, essays, and serious discussion.",
+ "cards": [
+  {
+   "id": "pack2-card-748",
+   "mode": "vocab",
+   "word": "Opportunity",
+   "pron": "(noun)",
+   "def": "A chance to do something good.\nहिंदी: अवसर",
+   "examples": [
+    "Present: Every crisis offers an opportunity.",
+    "Past: She seized the opportunity.",
+    "Future: He will get an opportunity soon.",
+    "Perfect: I have missed an opportunity."
+   ]
+  },
+  {
+   "id": "pack2-card-749",
+   "mode": "vocab",
+   "word": "Challenge",
+   "pron": "(noun)",
+   "def": "Something difficult that tests ability.\nहिंदी: चुनौती",
+   "examples": [
+    "Present: Every job has a challenge.",
+    "Past: The climb was a challenge.",
+    "Future: The exam will be a challenge.",
+    "Perfect: She has faced many challenges."
+   ]
+  },
+  {
+   "id": "pack2-card-750",
+   "mode": "vocab",
+   "word": "Obstacle",
+   "pron": "(noun)",
+   "def": "Something that blocks progress.\nहिंदी: बाधा",
+   "examples": [
+    "Present: An obstacle can strengthen character.",
+    "Past: Lack of money was an obstacle.",
+    "Future: Fear will be an obstacle.",
+    "Perfect: He has overcome every obstacle."
+   ]
+  },
+  {
+   "id": "pack2-card-751",
+   "mode": "vocab",
+   "word": "Priority",
+   "pron": "(noun)",
+   "def": "Something treated as more important.\nहिंदी: प्राथमिकता",
+   "examples": [
+    "Present: Health is a priority.",
+    "Past: Safety was the priority.",
+    "Future: Jobs will be a priority.",
+    "Perfect: Education has been a priority."
+   ]
+  },
+  {
+   "id": "pack2-card-752",
+   "mode": "vocab",
+   "word": "Responsibility",
+   "pron": "(noun)",
+   "def": "A duty to deal with something.\nहिंदी: ज़िम्मेदारी",
+   "examples": [
+    "Present: Responsibility comes with freedom.",
+    "Past: He took responsibility for the error.",
+    "Future: She will take on more responsibility.",
+    "Perfect: They have shared responsibility."
+   ]
+  },
+  {
+   "id": "pack2-card-753",
+   "mode": "vocab",
+   "word": "Commitment",
+   "pron": "(noun)",
+   "def": "Dedication to a cause or promise.\nहिंदी: प्रतिबद्धता",
+   "examples": [
+    "Present: Commitment drives success.",
+    "Past: Her commitment was clear.",
+    "Future: The job will need commitment.",
+    "Perfect: He has shown commitment."
+   ]
+  },
+  {
+   "id": "pack2-card-754",
+   "mode": "vocab",
+   "word": "Dedication",
+   "pron": "(noun)",
+   "def": "Great devotion to a task.\nहिंदी: समर्पण",
+   "examples": [
+    "Present: Dedication makes experts.",
+    "Past: His dedication won praise.",
+    "Future: Dedication will lead her to success.",
+    "Perfect: She has shown dedication for years."
+   ]
+  },
+  {
+   "id": "pack2-card-755",
+   "mode": "vocab",
+   "word": "Perseverance",
+   "pron": "(noun)",
+   "def": "Continued effort despite difficulty.\nहिंदी: दृढ़ता",
+   "examples": [
+    "Present: Perseverance leads to success.",
+    "Past: Perseverance helped him win.",
+    "Future: Perseverance will be rewarded.",
+    "Perfect: She has shown great perseverance."
+   ]
+  },
+  {
+   "id": "pack2-card-756",
+   "mode": "vocab",
+   "word": "Integrity",
+   "pron": "(noun)",
+   "def": "Honesty and strong moral principles.\nहिंदी: ईमानदारी / सत्यनिष्ठा",
+   "examples": [
+    "Present: Integrity earns respect.",
+    "Past: His integrity was never doubted.",
+    "Future: Integrity will matter in this role.",
+    "Perfect: She has always shown integrity."
+   ]
+  },
+  {
+   "id": "pack2-card-757",
+   "mode": "vocab",
+   "word": "Courage",
+   "pron": "(noun)",
+   "def": "Ability to act despite fear.\nहिंदी: साहस",
+   "examples": [
+    "Present: Courage helps in danger.",
+    "Past: She showed courage in the fire.",
+    "Future: He will need courage tomorrow.",
+    "Perfect: They have shown great courage."
+   ]
+  },
+  {
+   "id": "pack2-card-758",
+   "mode": "vocab",
+   "word": "Patience",
+   "pron": "(noun)",
+   "def": "Ability to wait calmly.\nहिंदी: धैर्य",
+   "examples": [
+    "Present: Patience is a virtue.",
+    "Past: His patience wore thin.",
+    "Future: Patience will pay off.",
+    "Perfect: She has shown much patience."
+   ]
+  },
+  {
+   "id": "pack2-card-759",
+   "mode": "vocab",
+   "word": "Wisdom",
+   "pron": "(noun)",
+   "def": "The ability to make sound judgements.\nहिंदी: बुद्धिमत्ता",
+   "examples": [
+    "Present: Wisdom comes with experience.",
+    "Past: Her wisdom guided the team.",
+    "Future: Wisdom will come with age.",
+    "Perfect: He has gained wisdom through hardship."
+   ]
+  },
+  {
+   "id": "pack2-card-760",
+   "mode": "vocab",
+   "word": "Ambition",
+   "pron": "(noun)",
+   "def": "A strong desire to achieve.\nहिंदी: महत्वाकांक्षा",
+   "examples": [
+    "Present: Ambition fuels progress.",
+    "Past: Her ambition was to be a doctor.",
+    "Future: His ambition will take him far.",
+    "Perfect: She has always had ambition."
+   ]
+  },
+  {
+   "id": "pack2-card-761",
+   "mode": "vocab",
+   "word": "Aspiration",
+   "pron": "(noun)",
+   "def": "A hope of achieving something.\nहिंदी: आकांक्षा",
+   "examples": [
+    "Present: An aspiration can shape a life.",
+    "Past: Her aspiration was to teach.",
+    "Future: His aspiration will guide his choices.",
+    "Perfect: They have fulfilled their aspirations."
+   ]
+  },
+  {
+   "id": "pack2-card-762",
+   "mode": "vocab",
+   "word": "Potential",
+   "pron": "(noun)",
+   "def": "Possible ability to develop.\nहिंदी: क्षमता",
+   "examples": [
+    "Present: Every child has potential.",
+    "Past: She showed great potential.",
+    "Future: He will reach his potential.",
+    "Perfect: The region has huge potential."
+   ]
+  },
+  {
+   "id": "pack2-card-763",
+   "mode": "vocab",
+   "word": "Talent",
+   "pron": "(noun)",
+   "def": "Natural ability.\nहिंदी: प्रतिभा",
+   "examples": [
+    "Present: Talent needs practice.",
+    "Past: His talent was obvious.",
+    "Future: Her talent will shine.",
+    "Perfect: She has shown talent since childhood."
+   ]
+  },
+  {
+   "id": "pack2-card-764",
+   "mode": "vocab",
+   "word": "Skill",
+   "pron": "(noun)",
+   "def": "Ability gained by training or practice.\nहिंदी: कौशल",
+   "examples": [
+    "Present: Skill grows with practice.",
+    "Past: He lost his skill with age.",
+    "Future: She will learn a new skill.",
+    "Perfect: I have developed my skill."
+   ]
+  },
+  {
+   "id": "pack2-card-765",
+   "mode": "vocab",
+   "word": "Experience",
+   "pron": "(noun)",
+   "def": "Knowledge gained by doing.\nहिंदी: अनुभव",
+   "examples": [
+    "Present: Experience teaches better than books.",
+    "Past: She had ten years of experience.",
+    "Future: He will gain experience.",
+    "Perfect: I have gained valuable experience."
+   ]
+  },
+  {
+   "id": "pack2-card-766",
+   "mode": "vocab",
+   "word": "Expertise",
+   "pron": "(noun)",
+   "def": "Expert skill or knowledge.\nहिंदी: विशेषज्ञता",
+   "examples": [
+    "Present: Expertise takes years.",
+    "Past: Her expertise impressed everyone.",
+    "Future: His expertise will help the team.",
+    "Perfect: She has developed deep expertise."
+   ]
+  },
+  {
+   "id": "pack2-card-767",
+   "mode": "vocab",
+   "word": "Competence",
+   "pron": "(noun)",
+   "def": "The ability to do something well.\nहिंदी: सक्षमता",
+   "examples": [
+    "Present: Competence builds trust.",
+    "Past: His competence was proven.",
+    "Future: Her competence will be tested.",
+    "Perfect: He has shown competence."
+   ]
+  },
+  {
+   "id": "pack2-card-768",
+   "mode": "vocab",
+   "word": "Knowledge",
+   "pron": "(noun)",
+   "def": "Facts and skills acquired.\nहिंदी: ज्ञान",
+   "examples": [
+    "Present: Knowledge is power.",
+    "Past: He lacked knowledge of law.",
+    "Future: Knowledge will help you.",
+    "Perfect: She has gained knowledge from books."
+   ]
+  },
+  {
+   "id": "pack2-card-769",
+   "mode": "vocab",
+   "word": "Curiosity",
+   "pron": "(noun)",
+   "def": "A strong desire to know.\nहिंदी: जिज्ञासा",
+   "examples": [
+    "Present: Curiosity drives discovery.",
+    "Past: Curiosity led him to explore.",
+    "Future: Curiosity will keep you learning.",
+    "Perfect: She has always had curiosity."
+   ]
+  },
+  {
+   "id": "pack2-card-770",
+   "mode": "vocab",
+   "word": "Creativity",
+   "pron": "(noun)",
+   "def": "The ability to produce original ideas.\nहिंदी: रचनात्मकता",
+   "examples": [
+    "Present: Creativity solves problems.",
+    "Past: Her creativity amazed teachers.",
+    "Future: Creativity will define the future.",
+    "Perfect: He has shown creativity."
+   ]
+  },
+  {
+   "id": "pack2-card-771",
+   "mode": "vocab",
+   "word": "Imagination",
+   "pron": "(noun)",
+   "def": "The ability to form ideas not present.\nहिंदी: कल्पना",
+   "examples": [
+    "Present: Imagination fuels stories.",
+    "Past: His imagination ran wild.",
+    "Future: Imagination will guide the design.",
+    "Perfect: Reading has stretched her imagination."
+   ]
+  },
+  {
+   "id": "pack2-card-772",
+   "mode": "vocab",
+   "word": "Intuition",
+   "pron": "(noun)",
+   "def": "Understanding without reasoning.\nहिंदी: अंतर्ज्ञान",
+   "examples": [
+    "Present: Intuition guides quick decisions.",
+    "Past: Her intuition was right.",
+    "Future: Intuition will help in the game.",
+    "Perfect: He has relied on intuition."
+   ]
+  },
+  {
+   "id": "pack2-card-773",
+   "mode": "vocab",
+   "word": "Perspective",
+   "pron": "(noun)",
+   "def": "A particular way of viewing things.\nहिंदी: दृष्टिकोण",
+   "examples": [
+    "Present: A new perspective changes thinking.",
+    "Past: Travel changed her perspective.",
+    "Future: Age will bring perspective.",
+    "Perfect: He has gained a fresh perspective."
+   ]
+  },
+  {
+   "id": "pack2-card-774",
+   "mode": "vocab",
+   "word": "Opinion",
+   "pron": "(noun)",
+   "def": "A view formed about something.\nहिंदी: राय",
+   "examples": [
+    "Present: Everyone has an opinion.",
+    "Past: His opinion was ignored.",
+    "Future: Her opinion will matter.",
+    "Perfect: People have changed their opinion."
+   ]
+  },
+  {
+   "id": "pack2-card-775",
+   "mode": "vocab",
+   "word": "Belief",
+   "pron": "(noun)",
+   "def": "Acceptance that something is true.\nहिंदी: विश्वास",
+   "examples": [
+    "Present: Belief shapes behaviour.",
+    "Past: His belief never wavered.",
+    "Future: Belief will keep her going.",
+    "Perfect: She has held that belief for years."
+   ]
+  },
+  {
+   "id": "pack2-card-776",
+   "mode": "vocab",
+   "word": "Attitude",
+   "pron": "(noun)",
+   "def": "A settled way of thinking or behaving.\nहिंदी: रवैया",
+   "examples": [
+    "Present: A positive attitude helps.",
+    "Past: His attitude annoyed everyone.",
+    "Future: Her attitude will decide success.",
+    "Perfect: He has changed his attitude."
+   ]
+  },
+  {
+   "id": "pack2-card-777",
+   "mode": "vocab",
+   "word": "Behaviour",
+   "pron": "(noun)",
+   "def": "The way someone acts.\nहिंदी: व्यवहार",
+   "examples": [
+    "Present: Behaviour reflects upbringing.",
+    "Past: His behaviour was rude.",
+    "Future: Her behaviour will be noted.",
+    "Perfect: The dog's behaviour has improved."
+   ]
+  },
+  {
+   "id": "pack2-card-778",
+   "mode": "vocab",
+   "word": "Habit",
+   "pron": "(noun)",
+   "def": "A regular practice.\nहिंदी: आदत",
+   "examples": [
+    "Present: A good habit saves time.",
+    "Past: Smoking was his habit.",
+    "Future: She will form a new habit.",
+    "Perfect: He has broken a bad habit."
+   ]
+  },
+  {
+   "id": "pack2-card-779",
+   "mode": "vocab",
+   "word": "Routine",
+   "pron": "(noun)",
+   "def": "A regular set of actions.\nहिंदी: दिनचर्या",
+   "examples": [
+    "Present: A routine gives order.",
+    "Past: Her routine began at dawn.",
+    "Future: A new routine will help.",
+    "Perfect: He has kept the same routine."
+   ]
+  },
+  {
+   "id": "pack2-card-780",
+   "mode": "vocab",
+   "word": "Lifestyle",
+   "pron": "(noun)",
+   "def": "The way a person lives.\nहिंदी: जीवनशैली",
+   "examples": [
+    "Present: A healthy lifestyle adds years.",
+    "Past: His lifestyle was lavish.",
+    "Future: Her lifestyle will change.",
+    "Perfect: People have adopted a new lifestyle."
+   ]
+  },
+  {
+   "id": "pack2-card-781",
+   "mode": "vocab",
+   "word": "Reputation",
+   "pron": "(noun)",
+   "def": "The general opinion about someone.\nहिंदी: प्रतिष्ठा",
+   "examples": [
+    "Present: A good reputation takes years.",
+    "Past: The firm lost its reputation.",
+    "Future: Honesty will protect your reputation.",
+    "Perfect: She has built a strong reputation."
+   ]
+  },
+  {
+   "id": "pack2-card-782",
+   "mode": "vocab",
+   "word": "Credibility",
+   "pron": "(noun)",
+   "def": "The quality of being trusted.\nहिंदी: विश्वसनीयता",
+   "examples": [
+    "Present: Credibility is hard to rebuild.",
+    "Past: The scandal damaged his credibility.",
+    "Future: Facts will boost your credibility.",
+    "Perfect: The paper has earned credibility."
+   ]
+  },
+  {
+   "id": "pack2-card-783",
+   "mode": "vocab",
+   "word": "Trust",
+   "pron": "(noun)",
+   "def": "Firm belief in reliability.\nहिंदी: भरोसा",
+   "examples": [
+    "Present: Trust takes time to build.",
+    "Past: He broke her trust.",
+    "Future: Honesty will earn trust.",
+    "Perfect: She has gained their trust."
+   ]
+  },
+  {
+   "id": "pack2-card-784",
+   "mode": "vocab",
+   "word": "Loyalty",
+   "pron": "(noun)",
+   "def": "Faithfulness to a person or cause.\nहिंदी: वफ़ादारी",
+   "examples": [
+    "Present: Loyalty is rare.",
+    "Past: His loyalty never changed.",
+    "Future: Loyalty will be rewarded.",
+    "Perfect: She has shown loyalty for years."
+   ]
+  },
+  {
+   "id": "pack2-card-785",
+   "mode": "vocab",
+   "word": "Betrayal",
+   "pron": "(noun)",
+   "def": "Breaking trust.\nहिंदी: विश्वासघात",
+   "examples": [
+    "Present: Betrayal hurts deeply.",
+    "Past: The betrayal shocked him.",
+    "Future: A betrayal will end the friendship.",
+    "Perfect: She has suffered betrayal."
+   ]
+  },
+  {
+   "id": "pack2-card-786",
+   "mode": "vocab",
+   "word": "Conflict",
+   "pron": "(noun)",
+   "def": "A serious disagreement or fight.\nहिंदी: संघर्ष",
+   "examples": [
+    "Present: Conflict harms progress.",
+    "Past: The conflict lasted years.",
+    "Future: Conflict will end with talks.",
+    "Perfect: The region has seen conflict."
+   ]
+  },
+  {
+   "id": "pack2-card-787",
+   "mode": "vocab",
+   "word": "Tension",
+   "pron": "(noun)",
+   "def": "Mental or emotional strain.\nहिंदी: तनाव",
+   "examples": [
+    "Present: Tension builds before exams.",
+    "Past: Tension filled the room.",
+    "Future: Tension will ease soon.",
+    "Perfect: Tension has grown between them."
+   ]
+  },
+  {
+   "id": "pack2-card-788",
+   "mode": "vocab",
+   "word": "Harmony",
+   "pron": "(noun)",
+   "def": "Peaceful agreement.\nहिंदी: सामंजस्य",
+   "examples": [
+    "Present: Harmony makes communities strong.",
+    "Past: They lived in harmony.",
+    "Future: Harmony will return soon.",
+    "Perfect: The village has preserved harmony."
+   ]
+  },
+  {
+   "id": "pack2-card-789",
+   "mode": "vocab",
+   "word": "Cooperation",
+   "pron": "(noun)",
+   "def": "Working together for a purpose.\nहिंदी: सहयोग",
+   "examples": [
+    "Present: Cooperation builds teams.",
+    "Past: Cooperation saved the project.",
+    "Future: Cooperation will improve results.",
+    "Perfect: Nations have shown cooperation."
+   ]
+  },
+  {
+   "id": "pack2-card-790",
+   "mode": "vocab",
+   "word": "Solidarity",
+   "pron": "(noun)",
+   "def": "Unity among people with shared interests.\nहिंदी: एकजुटता",
+   "examples": [
+    "Present: Solidarity gives strength.",
+    "Past: Workers showed solidarity.",
+    "Future: Solidarity will win the fight.",
+    "Perfect: Citizens have shown solidarity."
+   ]
+  },
+  {
+   "id": "pack2-card-791",
+   "mode": "vocab",
+   "word": "Justice",
+   "pron": "(noun)",
+   "def": "Fair treatment under the law.\nहिंदी: न्याय",
+   "examples": [
+    "Present: Justice protects the weak.",
+    "Past: Justice was finally served.",
+    "Future: Justice will prevail.",
+    "Perfect: Victims have waited for justice."
+   ]
+  },
+  {
+   "id": "pack2-card-792",
+   "mode": "vocab",
+   "word": "Equality",
+   "pron": "(noun)",
+   "def": "Equal status and rights.\nहिंदी: समानता",
+   "examples": [
+    "Present: Equality is a basic principle.",
+    "Past: Equality was the movement's goal.",
+    "Future: Equality will take effort.",
+    "Perfect: Society has made progress toward equality."
+   ]
+  },
+  {
+   "id": "pack2-card-793",
+   "mode": "vocab",
+   "word": "Freedom",
+   "pron": "(noun)",
+   "def": "The power to act without restriction.\nहिंदी: स्वतंत्रता",
+   "examples": [
+    "Present: Freedom must be protected.",
+    "Past: They fought for freedom.",
+    "Future: Freedom will come with reform.",
+    "Perfect: People have enjoyed freedom for decades."
+   ]
+  },
+  {
+   "id": "pack2-card-794",
+   "mode": "vocab",
+   "word": "Liberty",
+   "pron": "(noun)",
+   "def": "Freedom from oppressive control.\nहिंदी: आज़ादी",
+   "examples": [
+    "Present: Liberty protects individuals.",
+    "Past: The statue symbolised liberty.",
+    "Future: Liberty will be defended.",
+    "Perfect: They have valued liberty."
+   ]
+  },
+  {
+   "id": "pack2-card-795",
+   "mode": "vocab",
+   "word": "Dignity",
+   "pron": "(noun)",
+   "def": "The state of being worthy of respect.\nहिंदी: गरिमा",
+   "examples": [
+    "Present: Dignity matters to all.",
+    "Past: She faced defeat with dignity.",
+    "Future: Dignity will be preserved.",
+    "Perfect: He has maintained his dignity."
+   ]
+  },
+  {
+   "id": "pack2-card-796",
+   "mode": "vocab",
+   "word": "Privilege",
+   "pron": "(noun)",
+   "def": "A special right or advantage.\nहिंदी: विशेषाधिकार",
+   "examples": [
+    "Present: Privilege should be used wisely.",
+    "Past: It was a privilege to meet him.",
+    "Future: Education will remain a privilege for some.",
+    "Perfect: She has enjoyed privilege."
+   ]
+  },
+  {
+   "id": "pack2-card-797",
+   "mode": "vocab",
+   "word": "Burden",
+   "pron": "(noun)",
+   "def": "A heavy responsibility or load.\nहिंदी: बोझ",
+   "examples": [
+    "Present: Debt is a heavy burden.",
+    "Past: The burden fell on her.",
+    "Future: The cost will be a burden.",
+    "Perfect: He has carried the burden alone."
+   ]
+  },
+  {
+   "id": "pack2-card-798",
+   "mode": "vocab",
+   "word": "Dilemma",
+   "pron": "(noun)",
+   "def": "A hard choice between two options.\nहिंदी: दुविधा",
+   "examples": [
+    "Present: A dilemma tests values.",
+    "Past: She faced a dilemma.",
+    "Future: He will face a dilemma.",
+    "Perfect: We have always had this dilemma."
+   ]
+  },
+  {
+   "id": "pack2-card-799",
+   "mode": "vocab",
+   "word": "Consequence",
+   "pron": "(noun)",
+   "def": "A result of an action.\nहिंदी: परिणाम",
+   "examples": [
+    "Present: Every action has a consequence.",
+    "Past: The consequence was severe.",
+    "Future: The consequence will be felt later.",
+    "Perfect: He has suffered the consequences."
+   ]
+  },
+  {
+   "id": "pack2-card-800",
+   "mode": "vocab",
+   "word": "Outcome",
+   "pron": "(noun)",
+   "def": "The final result.\nहिंदी: नतीजा",
+   "examples": [
+    "Present: The outcome depends on effort.",
+    "Past: The outcome surprised everyone.",
+    "Future: The outcome will be known by noon.",
+    "Perfect: Experts have predicted the outcome."
+   ]
+  },
+  {
+   "id": "pack2-card-801",
+   "mode": "vocab",
+   "word": "Impact",
+   "pron": "(noun)",
+   "def": "A strong effect.\nहिंदी: प्रभाव",
+   "examples": [
+    "Present: Technology has a big impact.",
+    "Past: The film had an impact on society.",
+    "Future: The law will have an impact.",
+    "Perfect: The storm has had a severe impact."
+   ]
+  },
+  {
+   "id": "pack2-card-802",
+   "mode": "vocab",
+   "word": "Influence",
+   "pron": "(noun)",
+   "def": "Power to affect others.\nहिंदी: प्रभाव / असर",
+   "examples": [
+    "Present: Friends have influence on teens.",
+    "Past: Her influence was strong.",
+    "Future: His influence will grow.",
+    "Perfect: The author has had a lasting influence."
+   ]
+  },
+  {
+   "id": "pack2-card-803",
+   "mode": "vocab",
+   "word": "Factor",
+   "pron": "(noun)",
+   "def": "One of several causes.\nहिंदी: कारक",
+   "examples": [
+    "Present: Price is one factor.",
+    "Past: Luck was a factor.",
+    "Future: Weather will be a factor.",
+    "Perfect: Age has been a major factor."
+   ]
+  },
+  {
+   "id": "pack2-card-804",
+   "mode": "vocab",
+   "word": "Aspect",
+   "pron": "(noun)",
+   "def": "A particular part or feature.\nहिंदी: पहलू",
+   "examples": [
+    "Present: Every aspect matters.",
+    "Past: That aspect worried him.",
+    "Future: Another aspect will be discussed.",
+    "Perfect: She has studied every aspect."
+   ]
+  },
+  {
+   "id": "pack2-card-805",
+   "mode": "vocab",
+   "word": "Criterion",
+   "pron": "(noun)",
+   "def": "A standard for judging.\nहिंदी: मानदंड",
+   "examples": [
+    "Present: Merit is the main criterion.",
+    "Past: The criterion was clear.",
+    "Future: A new criterion will be applied.",
+    "Perfect: Judges have set a criterion."
+   ]
+  },
+  {
+   "id": "pack2-card-806",
+   "mode": "vocab",
+   "word": "Standard",
+   "pron": "(noun)",
+   "def": "A level of quality.\nहिंदी: मानक",
+   "examples": [
+    "Present: A high standard sets expectations.",
+    "Past: The food met a high standard.",
+    "Future: The school will raise its standard.",
+    "Perfect: The firm has maintained its standards."
+   ]
+  },
+  {
+   "id": "pack2-card-807",
+   "mode": "vocab",
+   "word": "Progress",
+   "pron": "(noun)",
+   "def": "Forward movement or improvement.\nहिंदी: प्रगति",
+   "examples": [
+    "Present: Progress needs patience.",
+    "Past: Progress was slow.",
+    "Future: Progress will continue.",
+    "Perfect: The country has made progress."
+   ]
+  },
+  {
+   "id": "pack2-card-808",
+   "mode": "vocab",
+   "word": "Decline",
+   "pron": "(noun)",
+   "def": "A gradual decrease.\nहिंदी: गिरावट",
+   "examples": [
+    "Present: A decline worries economists.",
+    "Past: A decline followed the boom.",
+    "Future: A decline will hit profits.",
+    "Perfect: The town has seen a decline."
+   ]
+  },
+  {
+   "id": "pack2-card-809",
+   "mode": "vocab",
+   "word": "Growth",
+   "pron": "(noun)",
+   "def": "Increase in size or amount.\nहिंदी: विकास / वृद्धि",
+   "examples": [
+    "Present: Growth creates jobs.",
+    "Past: Growth slowed last year.",
+    "Future: Growth will pick up.",
+    "Perfect: The firm has achieved strong growth."
+   ]
+  },
+  {
+   "id": "pack2-card-810",
+   "mode": "vocab",
+   "word": "Shift",
+   "pron": "(noun)",
+   "def": "A change in position or direction.\nहिंदी: बदलाव",
+   "examples": [
+    "Present: A shift in mood can change votes.",
+    "Past: A shift occurred in policy.",
+    "Future: A shift will happen soon.",
+    "Perfect: There has been a major shift."
+   ]
+  },
+  {
+   "id": "pack2-card-811",
+   "mode": "vocab",
+   "word": "Trend",
+   "pron": "(noun)",
+   "def": "A general direction of change.\nहिंदी: प्रवृत्ति",
+   "examples": [
+    "Present: A trend shows where things go.",
+    "Past: That trend began in 2010.",
+    "Future: The trend will continue.",
+    "Perfect: Analysts have noticed a trend."
+   ]
+  },
+  {
+   "id": "pack2-card-812",
+   "mode": "vocab",
+   "word": "Phase",
+   "pron": "(noun)",
+   "def": "A stage in a process.\nहिंदी: चरण",
+   "examples": [
+    "Present: Each phase has a goal.",
+    "Past: The first phase ended in May.",
+    "Future: The next phase will begin soon.",
+    "Perfect: We have completed phase one."
+   ]
+  },
+  {
+   "id": "pack2-card-813",
+   "mode": "vocab",
+   "word": "Stage",
+   "pron": "(noun)",
+   "def": "A point in a process.\nहिंदी: चरण / मंच",
+   "examples": [
+    "Present: Every stage needs approval.",
+    "Past: He reached the final stage.",
+    "Future: The next stage will be harder.",
+    "Perfect: They have passed the early stage."
+   ]
+  },
+  {
+   "id": "pack2-card-814",
+   "mode": "vocab",
+   "word": "Scope",
+   "pron": "(noun)",
+   "def": "The range of something.\nहिंदी: दायरा",
+   "examples": [
+    "Present: The scope of work is wide.",
+    "Past: The scope of the study was narrow.",
+    "Future: The scope will widen.",
+    "Perfect: They have expanded the scope."
+   ]
+  },
+  {
+   "id": "pack2-card-815",
+   "mode": "vocab",
+   "word": "Aim",
+   "pron": "(noun)",
+   "def": "A goal or purpose.\nहिंदी: लक्ष्य / उद्देश्य",
+   "examples": [
+    "Present: The aim is to reduce costs.",
+    "Past: His aim was to win.",
+    "Future: Our aim will remain clear.",
+    "Perfect: She has achieved her aim."
+   ]
+  },
+  {
+   "id": "pack2-card-816",
+   "mode": "vocab",
+   "word": "Objective",
+   "pron": "(noun)",
+   "def": "A specific goal.\nहिंदी: उद्देश्य",
+   "examples": [
+    "Present: The objective is clear.",
+    "Past: The objective was met.",
+    "Future: The objective will change.",
+    "Perfect: We have reached our objective."
+   ]
+  },
+  {
+   "id": "pack2-card-817",
+   "mode": "vocab",
+   "word": "Strategy",
+   "pron": "(noun)",
+   "def": "A plan to achieve a goal.\nहिंदी: रणनीति",
+   "examples": [
+    "Present: A strategy guides action.",
+    "Past: The strategy failed.",
+    "Future: A new strategy will be tested.",
+    "Perfect: The firm has changed its strategy."
+   ]
+  },
+  {
+   "id": "pack2-card-818",
+   "mode": "vocab",
+   "word": "Solution",
+   "pron": "(noun)",
+   "def": "A way of solving a problem.\nहिंदी: समाधान",
+   "examples": [
+    "Present: Every problem has a solution.",
+    "Past: The solution was simple.",
+    "Future: A solution will emerge.",
+    "Perfect: Engineers have found a solution."
+   ]
+  },
+  {
+   "id": "pack2-card-819",
+   "mode": "vocab",
+   "word": "Alternative",
+   "pron": "(noun)",
+   "def": "Another option.\nहिंदी: विकल्प",
+   "examples": [
+    "Present: An alternative can save time.",
+    "Past: There was no alternative.",
+    "Future: We will find an alternative.",
+    "Perfect: They have chosen an alternative."
+   ]
+  },
+  {
+   "id": "pack2-card-820",
+   "mode": "vocab",
+   "word": "Crisis",
+   "pron": "(noun)",
+   "def": "A time of great difficulty.\nहिंदी: संकट",
+   "examples": [
+    "Present: A crisis tests leaders.",
+    "Past: A crisis hit the banks.",
+    "Future: A crisis will worsen without action.",
+    "Perfect: The nation has faced a crisis."
+   ]
+  },
+  {
+   "id": "pack2-card-821",
+   "mode": "vocab",
+   "word": "Emergency",
+   "pron": "(noun)",
+   "def": "A serious situation needing immediate action.\nहिंदी: आपात स्थिति",
+   "examples": [
+    "Present: An emergency demands quick response.",
+    "Past: The flood was an emergency.",
+    "Future: An emergency will be declared.",
+    "Perfect: The state has declared an emergency."
+   ]
+  },
+  {
+   "id": "pack2-card-822",
+   "mode": "vocab",
+   "word": "Disaster",
+   "pron": "(noun)",
+   "def": "A sudden event causing great damage.\nहिंदी: आपदा",
+   "examples": [
+    "Present: A disaster can strike anytime.",
+    "Past: The flood was a disaster.",
+    "Future: A disaster will need relief.",
+    "Perfect: The area has suffered a disaster."
+   ]
+  },
+  {
+   "id": "pack2-card-823",
+   "mode": "vocab",
+   "word": "Threat",
+   "pron": "(noun)",
+   "def": "A possible danger.\nहिंदी: ख़तरा",
+   "examples": [
+    "Present: A threat worries residents.",
+    "Past: The threat was ignored.",
+    "Future: The threat will grow.",
+    "Perfect: Experts have flagged a threat."
+   ]
+  },
+  {
+   "id": "pack2-card-824",
+   "mode": "vocab",
+   "word": "Risk",
+   "pron": "(noun)",
+   "def": "A possibility of loss or harm.\nहिंदी: जोखिम",
+   "examples": [
+    "Present: Every investment has risk.",
+    "Past: He took a big risk.",
+    "Future: The risk will increase.",
+    "Perfect: She has reduced the risk."
+   ]
+  },
+  {
+   "id": "pack2-card-825",
+   "mode": "vocab",
+   "word": "Safety",
+   "pron": "(noun)",
+   "def": "The state of being safe.\nहिंदी: सुरक्षा",
+   "examples": [
+    "Present: Safety comes first.",
+    "Past: Safety was ignored.",
+    "Future: Safety will improve with rules.",
+    "Perfect: Workers have raised safety concerns."
+   ]
+  },
+  {
+   "id": "pack2-card-826",
+   "mode": "vocab",
+   "word": "Security",
+   "pron": "(noun)",
+   "def": "Protection from threats.\nहिंदी: सुरक्षा / संरक्षा",
+   "examples": [
+    "Present: Security protects data.",
+    "Past: Security was tight at the venue.",
+    "Future: Security will increase tomorrow.",
+    "Perfect: The bank has improved security."
+   ]
+  },
+  {
+   "id": "pack2-card-827",
+   "mode": "vocab",
+   "word": "Stability",
+   "pron": "(noun)",
+   "def": "The state of being steady.\nहिंदी: स्थिरता",
+   "examples": [
+    "Present: Stability attracts investment.",
+    "Past: Stability returned after the vote.",
+    "Future: Stability will boost growth.",
+    "Perfect: The region has enjoyed stability."
+   ]
+  },
+  {
+   "id": "pack2-card-828",
+   "mode": "vocab",
+   "word": "Prosperity",
+   "pron": "(noun)",
+   "def": "Success and wealth.\nहिंदी: समृद्धि",
+   "examples": [
+    "Present: Prosperity improves lives.",
+    "Past: Prosperity followed reform.",
+    "Future: Prosperity will reach villages.",
+    "Perfect: The city has enjoyed prosperity."
+   ]
+  },
+  {
+   "id": "pack2-card-829",
+   "mode": "vocab",
+   "word": "Poverty line",
+   "pron": "(noun)",
+   "def": "The income level below which one is considered poor.\nहिंदी: ग़रीबी रेखा",
+   "examples": [
+    "Present: Millions live below the poverty line.",
+    "Past: Many were below the poverty line.",
+    "Future: Schemes will lift families above the poverty line.",
+    "Perfect: Many have crossed the poverty line."
+   ]
+  },
+  {
+   "id": "pack2-card-830",
+   "mode": "vocab",
+   "word": "Wealth",
+   "pron": "(noun)",
+   "def": "A large amount of money or assets.\nहिंदी: धन-संपत्ति",
+   "examples": [
+    "Present: Wealth does not guarantee happiness.",
+    "Past: His wealth grew rapidly.",
+    "Future: Wealth will be taxed.",
+    "Perfect: She has accumulated wealth."
+   ]
+  },
+  {
+   "id": "pack2-card-831",
+   "mode": "vocab",
+   "word": "Income",
+   "pron": "(noun)",
+   "def": "Money received regularly.\nहिंदी: आय",
+   "examples": [
+    "Present: Income supports the family.",
+    "Past: His income fell last year.",
+    "Future: Her income will double.",
+    "Perfect: Their income has risen."
+   ]
+  },
+  {
+   "id": "pack2-card-832",
+   "mode": "vocab",
+   "word": "Expense",
+   "pron": "(noun)",
+   "def": "Money spent on something.\nहिंदी: ख़र्च",
+   "examples": [
+    "Present: Rent is a big expense.",
+    "Past: The trip was a major expense.",
+    "Future: Repairs will be an expense.",
+    "Perfect: They have cut unnecessary expenses."
+   ]
+  },
+  {
+   "id": "pack2-card-833",
+   "mode": "vocab",
+   "word": "Savings",
+   "pron": "(noun)",
+   "def": "Money set aside for the future.\nहिंदी: बचत",
+   "examples": [
+    "Present: Savings protect against emergencies.",
+    "Past: He spent his savings.",
+    "Future: She will use her savings.",
+    "Perfect: They have built healthy savings."
+   ]
+  },
+  {
+   "id": "pack2-card-834",
+   "mode": "vocab",
+   "word": "Investment",
+   "pron": "(noun)",
+   "def": "Money put into something to earn returns.\nहिंदी: निवेश",
+   "examples": [
+    "Present: Investment creates growth.",
+    "Past: The investment paid off.",
+    "Future: Investment will flow into the region.",
+    "Perfect: She has made a wise investment."
+   ]
+  },
+  {
+   "id": "pack2-card-835",
+   "mode": "vocab",
+   "word": "Budgeting",
+   "pron": "(noun)",
+   "def": "Planning income and spending.\nहिंदी: बजट बनाना",
+   "examples": [
+    "Present: Budgeting helps control spending.",
+    "Past: Budgeting saved the family.",
+    "Future: Budgeting will be essential.",
+    "Perfect: She has learned budgeting."
+   ]
+  },
+  {
+   "id": "pack2-card-836",
+   "mode": "vocab",
+   "word": "Resource",
+   "pron": "(noun)",
+   "def": "A supply that can be used.\nहिंदी: संसाधन",
+   "examples": [
+    "Present: Water is a vital resource.",
+    "Past: Time was a scarce resource.",
+    "Future: Resources will run low.",
+    "Perfect: The state has developed its resources."
+   ]
+  },
+  {
+   "id": "pack2-card-837",
+   "mode": "vocab",
+   "word": "Capacity",
+   "pron": "(noun)",
+   "def": "The maximum amount that can be held or produced.\nहिंदी: क्षमता",
+   "examples": [
+    "Present: The hall has a capacity of 500.",
+    "Past: The plant ran at full capacity.",
+    "Future: Capacity will double next year.",
+    "Perfect: The hospital has expanded capacity."
+   ]
+  },
+  {
+   "id": "pack2-card-838",
+   "mode": "vocab",
+   "word": "Efficiency",
+   "pron": "(noun)",
+   "def": "Doing something well with little waste.\nहिंदी: दक्षता",
+   "examples": [
+    "Present: Efficiency lowers costs.",
+    "Past: Efficiency improved with machines.",
+    "Future: Efficiency will rise.",
+    "Perfect: The firm has boosted efficiency."
+   ]
+  },
+  {
+   "id": "pack2-card-839",
+   "mode": "vocab",
+   "word": "Quality",
+   "pron": "(noun)",
+   "def": "The standard of something.\nहिंदी: गुणवत्ता",
+   "examples": [
+    "Present: Quality matters more than price.",
+    "Past: The quality was poor.",
+    "Future: Quality will improve.",
+    "Perfect: The firm has maintained quality."
+   ]
+  },
+  {
+   "id": "pack2-card-840",
+   "mode": "vocab",
+   "word": "Quantity",
+   "pron": "(noun)",
+   "def": "An amount or number.\nहिंदी: मात्रा",
+   "examples": [
+    "Present: Quantity is less important than quality.",
+    "Past: A large quantity was wasted.",
+    "Future: The quantity will increase.",
+    "Perfect: They have ordered a large quantity."
+   ]
+  },
+  {
+   "id": "pack2-card-841",
+   "mode": "vocab",
+   "word": "Frequency",
+   "pron": "(noun)",
+   "def": "How often something happens.\nहिंदी: आवृत्ति / बारंबारता",
+   "examples": [
+    "Present: The frequency of buses is low.",
+    "Past: Frequency of storms rose.",
+    "Future: Frequency will increase.",
+    "Perfect: Floods have grown in frequency."
+   ]
+  },
+  {
+   "id": "pack2-card-842",
+   "mode": "vocab",
+   "word": "Proportion",
+   "pron": "(noun)",
+   "def": "A part in relation to a whole.\nहिंदी: अनुपात",
+   "examples": [
+    "Present: A large proportion votes early.",
+    "Past: A small proportion agreed.",
+    "Future: The proportion will rise.",
+    "Perfect: The proportion has doubled."
+   ]
+  },
+  {
+   "id": "pack2-card-843",
+   "mode": "vocab",
+   "word": "Majority",
+   "pron": "(noun)",
+   "def": "More than half of a group.\nहिंदी: बहुमत",
+   "examples": [
+    "Present: The majority decides.",
+    "Past: The majority voted yes.",
+    "Future: A majority will support the bill.",
+    "Perfect: The party has won a majority."
+   ]
+  },
+  {
+   "id": "pack2-card-844",
+   "mode": "vocab",
+   "word": "Minority",
+   "pron": "(noun)",
+   "def": "A smaller part of a group.\nहिंदी: अल्पसंख्यक",
+   "examples": [
+    "Present: A minority may feel unheard.",
+    "Past: A minority disagreed.",
+    "Future: A minority will oppose the plan.",
+    "Perfect: The minority has raised concerns."
+   ]
+  },
+  {
+   "id": "pack2-card-845",
+   "mode": "vocab",
+   "word": "Generation",
+   "pron": "(noun)",
+   "def": "People born around the same time.\nहिंदी: पीढ़ी",
+   "examples": [
+    "Present: Each generation faces new issues.",
+    "Past: His generation grew up with radio.",
+    "Future: The next generation will inherit the debt.",
+    "Perfect: Our generation has seen great change."
+   ]
+  },
+  {
+   "id": "pack2-card-846",
+   "mode": "vocab",
+   "word": "Era",
+   "pron": "(noun)",
+   "def": "A long period of history.\nहिंदी: युग",
+   "examples": [
+    "Present: Each era has its heroes.",
+    "Past: That era saw great change.",
+    "Future: A new era will begin.",
+    "Perfect: We have entered a digital era."
+   ]
+  },
+  {
+   "id": "pack2-card-847",
+   "mode": "vocab",
+   "word": "Epoch",
+   "pron": "(noun)",
+   "def": "A period marked by notable events.\nहिंदी: युग / कालखंड",
+   "examples": [
+    "Present: An epoch changes society.",
+    "Past: The invention began a new epoch.",
+    "Future: A new epoch will arrive.",
+    "Perfect: The world has entered a new epoch."
+   ]
+  }
+ ]
+}

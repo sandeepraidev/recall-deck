@@ -1,0 +1,281 @@
+{
+ "id": "pack1-deck-3",
+ "categoryId": "pack1-cat-3",
+ "title": "Most Used Phrasal Verbs",
+ "sub": "Learn the meaning, then use it in a sentence.",
+ "cards": [
+  {
+   "id": "pack1-card-87",
+   "mode": "vocab",
+   "word": "Find out",
+   "pron": "",
+   "def": "To discover information.",
+   "examples": [
+    "Find out when the train leaves.",
+    "I'll find out the price and call you back.",
+    "She found out about the surprise party.",
+    "We need to find out why the order failed."
+   ]
+  },
+  {
+   "id": "pack1-card-88",
+   "mode": "vocab",
+   "word": "Turn down",
+   "pron": "",
+   "def": "To reject, or reduce volume.",
+   "examples": [
+    "She turned down the job offer.",
+    "Please turn down the TV; the baby is sleeping.",
+    "The bank turned down my loan application.",
+    "He turned down the offer because of the long commute."
+   ]
+  },
+  {
+   "id": "pack1-card-89",
+   "mode": "vocab",
+   "word": "Turn up",
+   "pron": "",
+   "def": "To arrive, or increase volume.",
+   "examples": [
+    "He turned up an hour late.",
+    "Can you turn up the volume a little?",
+    "Only ten people turned up for the meeting.",
+    "My lost keys turned up in my coat pocket."
+   ]
+  },
+  {
+   "id": "pack1-card-91",
+   "mode": "vocab",
+   "word": "Break up",
+   "pron": "",
+   "def": "To end a relationship; to split into pieces.",
+   "examples": [
+    "They broke up last spring.",
+    "The band broke up after ten years together.",
+    "The meeting broke up at six.",
+    "Break up the big task into smaller steps."
+   ]
+  },
+  {
+   "id": "pack1-card-93",
+   "mode": "vocab",
+   "word": "Call off",
+   "pron": "",
+   "def": "To cancel.",
+   "examples": [
+    "They called off the match because of rain.",
+    "The company called off the strike after talks.",
+    "We called off the trip because my mother was ill.",
+    "The wedding was called off at the last minute."
+   ]
+  },
+  {
+   "id": "pack1-card-96",
+   "mode": "vocab",
+   "word": "Cut down",
+   "pron": "",
+   "def": "To reduce.",
+   "examples": [
+    "I'm cutting down on sugar.",
+    "The doctor told him to cut down on salt.",
+    "We cut down our travel costs by using video calls.",
+    "Try to cut down your screen time before bed."
+   ]
+  },
+  {
+   "id": "pack1-card-98",
+   "mode": "vocab",
+   "word": "Fill in",
+   "pron": "",
+   "def": "To complete a form; to substitute.",
+   "examples": [
+    "Please fill in this form.",
+    "Fill in your name and address in capital letters.",
+    "Can you fill in for me at the meeting tomorrow?",
+    "She filled in for the teacher who was on leave."
+   ]
+  },
+  {
+   "id": "pack1-card-99",
+   "mode": "vocab",
+   "word": "Get along",
+   "pron": "",
+   "def": "To have a good relationship.",
+   "examples": [
+    "I get along well with my team.",
+    "My sister and I get along much better now.",
+    "Do you get along with your new neighbours?",
+    "It's easier to work in a team where people get along."
+   ]
+  },
+  {
+   "id": "pack1-card-100",
+   "mode": "vocab",
+   "word": "Get over",
+   "pron": "",
+   "def": "To recover from.",
+   "examples": [
+    "It took weeks to get over the flu.",
+    "She never got over losing her first job.",
+    "It took him months to get over the breakup.",
+    "You'll get over your fear of speaking with practice."
+   ]
+  },
+  {
+   "id": "pack1-card-101",
+   "mode": "vocab",
+   "word": "Give in",
+   "pron": "",
+   "def": "To surrender.",
+   "examples": [
+    "He finally gave in and agreed.",
+    "The child cried until his mother gave in.",
+    "Don't give in to pressure to sign quickly.",
+    "After a long argument, the landlord gave in."
+   ]
+  },
+  {
+   "id": "pack1-card-102",
+   "mode": "vocab",
+   "word": "Go on",
+   "pron": "",
+   "def": "To continue; to happen.",
+   "examples": [
+    "What's going on here?",
+    "Please go on; I'm listening.",
+    "The meeting went on for three hours.",
+    "What's going on with the website today?"
+   ]
+  },
+  {
+   "id": "pack1-card-103",
+   "mode": "vocab",
+   "word": "Hold on",
+   "pron": "",
+   "def": "To wait; to grip tightly.",
+   "examples": [
+    "Hold on, I'll be right back.",
+    "Hold on to the handle when the bus moves.",
+    "Can you hold on a minute while I check?",
+    "Hold on, I think I left my phone in the cab."
+   ]
+  },
+  {
+   "id": "pack1-card-104",
+   "mode": "vocab",
+   "word": "Keep up",
+   "pron": "",
+   "def": "To maintain the same pace.",
+   "examples": [
+    "Keep up the good work.",
+    "It's hard to keep up with all the new technology.",
+    "Walk slower; I can't keep up.",
+    "She reads the news daily to keep up with current events."
+   ]
+  },
+  {
+   "id": "pack1-card-105",
+   "mode": "vocab",
+   "word": "Let down",
+   "pron": "",
+   "def": "To disappoint.",
+   "examples": [
+    "I don't want to let you down.",
+    "The weather let us down on our beach holiday.",
+    "He felt let down when his friend didn't come.",
+    "Please don't let the team down this time."
+   ]
+  },
+  {
+   "id": "pack1-card-106",
+   "mode": "vocab",
+   "word": "Look after",
+   "pron": "",
+   "def": "To take care of.",
+   "examples": [
+    "She looks after her grandmother.",
+    "Who will look after your dog while you travel?",
+    "Nurses look after patients day and night.",
+    "Look after yourself and get some rest."
+   ]
+  },
+  {
+   "id": "pack1-card-107",
+   "mode": "vocab",
+   "word": "Look forward to",
+   "pron": "",
+   "def": "To anticipate with pleasure.",
+   "examples": [
+    "I look forward to meeting you.",
+    "The kids look forward to summer holidays every year.",
+    "We look forward to working with you.",
+    "I'm looking forward to my first salary."
+   ]
+  },
+  {
+   "id": "pack1-card-108",
+   "mode": "vocab",
+   "word": "Make up",
+   "pron": "",
+   "def": "To invent; to reconcile; to compensate.",
+   "examples": [
+    "He made up an excuse.",
+    "The couple made up after a small fight.",
+    "He made up a story about a traffic jam.",
+    "I'll work late to make up for the time I lost."
+   ]
+  },
+  {
+   "id": "pack1-card-111",
+   "mode": "vocab",
+   "word": "Put up with",
+   "pron": "",
+   "def": "To tolerate.",
+   "examples": [
+    "I can't put up with the noise.",
+    "I can't put up with his rude comments anymore.",
+    "We put up with the old flat because it was cheap.",
+    "She puts up with a long commute for a good job."
+   ]
+  },
+  {
+   "id": "pack1-card-115",
+   "mode": "vocab",
+   "word": "Take off",
+   "pron": "",
+   "def": "To leave the ground; to remove clothing; to become successful.",
+   "examples": [
+    "The plane takes off at noon.",
+    "Take off your shoes before entering the temple.",
+    "Her online business really took off last year.",
+    "Our flight took off thirty minutes late."
+   ]
+  },
+  {
+   "id": "pack1-card-117",
+   "mode": "vocab",
+   "word": "Throw away",
+   "pron": "",
+   "def": "To discard.",
+   "examples": [
+    "Don't throw away the receipt.",
+    "We throw away too much food at weddings.",
+    "Don't throw away old clothes; donate them.",
+    "He threw away a great chance by arriving late."
+   ]
+  },
+  {
+   "id": "pack1-card-118",
+   "mode": "vocab",
+   "word": "Try out",
+   "pron": "",
+   "def": "To test something.",
+   "examples": [
+    "Try out the new editor.",
+    "Try out the free version before you buy.",
+    "She tried out for the college cricket team.",
+    "We're trying out a new way to run stand-ups."
+   ]
+  }
+ ]
+}

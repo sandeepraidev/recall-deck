@@ -1,0 +1,368 @@
+{
+ "id": "pack1-deck-5",
+ "categoryId": "pack1-cat-5",
+ "title": "Words to Move You",
+ "sub": "Quotes on persistence, courage, and growth.",
+ "cards": [
+  {
+   "id": "pack1-card-162",
+   "mode": "poem",
+   "form": "Theodore Roosevelt",
+   "lines": [
+    "It is not the critic who counts; the credit belongs to the man who is actually in the arena."
+   ],
+   "meaning": "Showing up matters more than judging from the sidelines."
+  },
+  {
+   "id": "pack1-card-163",
+   "mode": "poem",
+   "form": "Confucius",
+   "lines": [
+    "It does not matter how slowly you go as long as you do not stop."
+   ],
+   "meaning": "Consistency beats speed."
+  },
+  {
+   "id": "pack1-card-164",
+   "mode": "poem",
+   "form": "Lao Tzu",
+   "lines": [
+    "A journey of a thousand miles begins with a single step."
+   ],
+   "meaning": "Start, however small."
+  },
+  {
+   "id": "pack1-card-165",
+   "mode": "poem",
+   "form": "Winston Churchill",
+   "lines": [
+    "Success is not final, failure is not fatal: it is the courage to continue that counts."
+   ],
+   "meaning": "Keep going through both."
+  },
+  {
+   "id": "pack1-card-166",
+   "mode": "poem",
+   "form": "Nelson Mandela",
+   "lines": [
+    "It always seems impossible until it's done."
+   ],
+   "meaning": "Hard things look easier in hindsight."
+  },
+  {
+   "id": "pack1-card-167",
+   "mode": "poem",
+   "form": "Maya Angelou",
+   "lines": [
+    "You may encounter many defeats, but you must not be defeated."
+   ],
+   "meaning": "Setbacks are events, not identity."
+  },
+  {
+   "id": "pack1-card-168",
+   "mode": "poem",
+   "form": "Aristotle",
+   "lines": [
+    "We are what we repeatedly do. Excellence, then, is not an act but a habit."
+   ],
+   "meaning": "Build habits, not moments."
+  },
+  {
+   "id": "pack1-card-169",
+   "mode": "poem",
+   "form": "Henry Ford",
+   "lines": [
+    "Whether you think you can, or you think you can't — you're right."
+   ],
+   "meaning": "Belief shapes outcome."
+  },
+  {
+   "id": "pack1-card-170",
+   "mode": "poem",
+   "form": "Eleanor Roosevelt",
+   "lines": [
+    "You must do the thing you think you cannot do."
+   ],
+   "meaning": "Courage grows by acting."
+  },
+  {
+   "id": "pack1-card-171",
+   "mode": "poem",
+   "form": "Albert Einstein",
+   "lines": [
+    "In the middle of difficulty lies opportunity."
+   ],
+   "meaning": "Reframe obstacles."
+  },
+  {
+   "id": "pack1-card-172",
+   "mode": "poem",
+   "form": "Thomas Edison",
+   "lines": [
+    "I have not failed. I've just found 10,000 ways that won't work."
+   ],
+   "meaning": "Failure is information."
+  },
+  {
+   "id": "pack1-card-173",
+   "mode": "poem",
+   "form": "Mark Twain",
+   "lines": [
+    "The secret of getting ahead is getting started."
+   ],
+   "meaning": "Begin before you feel ready."
+  },
+  {
+   "id": "pack1-card-174",
+   "mode": "poem",
+   "form": "Walt Disney",
+   "lines": [
+    "The way to get started is to quit talking and begin doing."
+   ],
+   "meaning": "Action over planning."
+  },
+  {
+   "id": "pack1-card-175",
+   "mode": "poem",
+   "form": "Ralph Waldo Emerson",
+   "lines": [
+    "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+   ],
+   "meaning": "Inner strength decides."
+  },
+  {
+   "id": "pack1-card-176",
+   "mode": "poem",
+   "form": "Marcus Aurelius",
+   "lines": [
+    "You have power over your mind — not outside events. Realize this, and you will find strength."
+   ],
+   "meaning": "Control what you can."
+  },
+  {
+   "id": "pack1-card-177",
+   "mode": "poem",
+   "form": "Seneca",
+   "lines": [
+    "Luck is what happens when preparation meets opportunity."
+   ],
+   "meaning": "Prepare so you can seize chances."
+  },
+  {
+   "id": "pack1-card-178",
+   "mode": "poem",
+   "form": "Vince Lombardi",
+   "lines": [
+    "Winners never quit and quitters never win."
+   ],
+   "meaning": "Persistence defines winners."
+  },
+  {
+   "id": "pack1-card-179",
+   "mode": "poem",
+   "form": "Michael Jordan",
+   "lines": [
+    "I've failed over and over and over again in my life. And that is why I succeed."
+   ],
+   "meaning": "Failure fuels success."
+  },
+  {
+   "id": "pack1-card-180",
+   "mode": "poem",
+   "form": "Muhammad Ali",
+   "lines": [
+    "Don't count the days; make the days count."
+   ],
+   "meaning": "Focus on quality of time."
+  },
+  {
+   "id": "pack1-card-181",
+   "mode": "poem",
+   "form": "Helen Keller",
+   "lines": [
+    "Although the world is full of suffering, it is also full of the overcoming of it."
+   ],
+   "meaning": "Hope through resilience."
+  },
+  {
+   "id": "pack1-card-182",
+   "mode": "poem",
+   "form": "Steve Jobs",
+   "lines": [
+    "The only way to do great work is to love what you do."
+   ],
+   "meaning": "Passion drives excellence."
+  },
+  {
+   "id": "pack1-card-183",
+   "mode": "poem",
+   "form": "Dr. Seuss",
+   "lines": [
+    "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."
+   ],
+   "meaning": "You own your direction."
+  },
+  {
+   "id": "pack1-card-184",
+   "mode": "poem",
+   "form": "Oprah Winfrey",
+   "lines": [
+    "Turn your wounds into wisdom."
+   ],
+   "meaning": "Learn from pain."
+  },
+  {
+   "id": "pack1-card-185",
+   "mode": "poem",
+   "form": "Booker T. Washington",
+   "lines": [
+    "Success is to be measured not so much by the position one has reached as by the obstacles overcome."
+   ],
+   "meaning": "Judge success by struggle."
+  },
+  {
+   "id": "pack1-card-186",
+   "mode": "poem",
+   "form": "Napoleon Hill",
+   "lines": [
+    "What the mind of man can conceive and believe, it can achieve."
+   ],
+   "meaning": "Vision plus belief."
+  },
+  {
+   "id": "pack1-card-187",
+   "mode": "poem",
+   "form": "Benjamin Franklin",
+   "lines": [
+    "Well done is better than well said."
+   ],
+   "meaning": "Deeds over speeches."
+  },
+  {
+   "id": "pack1-card-188",
+   "mode": "poem",
+   "form": "Abraham Lincoln",
+   "lines": [
+    "I am a slow walker, but I never walk back."
+   ],
+   "meaning": "Never retreat."
+  },
+  {
+   "id": "pack1-card-189",
+   "mode": "poem",
+   "form": "Bruce Lee",
+   "lines": [
+    "I fear not the man who has practiced 10,000 kicks once, but the man who has practiced one kick 10,000 times."
+   ],
+   "meaning": "Depth beats breadth."
+  },
+  {
+   "id": "pack1-card-190",
+   "mode": "poem",
+   "form": "Buddha",
+   "lines": [
+    "The mind is everything. What you think you become."
+   ],
+   "meaning": "Thoughts shape character."
+  },
+  {
+   "id": "pack1-card-191",
+   "mode": "poem",
+   "form": "Mahatma Gandhi",
+   "lines": [
+    "Be the change that you wish to see in the world."
+   ],
+   "meaning": "Lead by example."
+  },
+  {
+   "id": "pack1-card-192",
+   "mode": "poem",
+   "form": "Ernest Hemingway",
+   "lines": [
+    "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."
+   ],
+   "meaning": "Compete with yesterday's you."
+  },
+  {
+   "id": "pack1-card-193",
+   "mode": "poem",
+   "form": "Jim Rohn",
+   "lines": [
+    "Discipline is the bridge between goals and accomplishment."
+   ],
+   "meaning": "Discipline makes goals real."
+  },
+  {
+   "id": "pack1-card-194",
+   "mode": "poem",
+   "form": "Zig Ziglar",
+   "lines": [
+    "You don't have to be great to start, but you have to start to be great."
+   ],
+   "meaning": "Start imperfectly."
+  },
+  {
+   "id": "pack1-card-195",
+   "mode": "poem",
+   "form": "Arthur Ashe",
+   "lines": [
+    "Start where you are. Use what you have. Do what you can."
+   ],
+   "meaning": "Begin with present resources."
+  },
+  {
+   "id": "pack1-card-196",
+   "mode": "poem",
+   "form": "Rumi",
+   "lines": [
+    "The wound is the place where the Light enters you."
+   ],
+   "meaning": "Pain can open growth."
+  },
+  {
+   "id": "pack1-card-197",
+   "mode": "poem",
+   "form": "Friedrich Nietzsche",
+   "lines": [
+    "He who has a why to live can bear almost any how."
+   ],
+   "meaning": "Purpose sustains effort."
+  },
+  {
+   "id": "pack1-card-198",
+   "mode": "poem",
+   "form": "Samuel Beckett",
+   "lines": [
+    "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
+   ],
+   "meaning": "Improve through failing."
+  },
+  {
+   "id": "pack1-card-199",
+   "mode": "poem",
+   "form": "Calvin Coolidge",
+   "lines": [
+    "Nothing in this world can take the place of persistence."
+   ],
+   "meaning": "Persistence beats talent."
+  },
+  {
+   "id": "pack1-card-200",
+   "mode": "poem",
+   "form": "Anne Frank",
+   "lines": [
+    "How wonderful it is that nobody need wait a single moment before starting to improve the world."
+   ],
+   "meaning": "Start now."
+  },
+  {
+   "id": "pack1-card-201",
+   "mode": "poem",
+   "form": "Lao Tzu",
+   "lines": [
+    "Nature does not hurry, yet everything is accomplished."
+   ],
+   "meaning": "Steady rhythm gets it done."
+  }
+ ]
+}

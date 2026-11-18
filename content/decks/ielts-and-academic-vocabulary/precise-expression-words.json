@@ -1,0 +1,2426 @@
+{
+ "id": "pack6-deck-9",
+ "categoryId": "pack6-cat-3",
+ "title": "Precise Expression Words",
+ "sub": "Sharper verbs and adjectives to replace vague, everyday ones.",
+ "cards": [
+  {
+   "id": "pack6-card-1518",
+   "mode": "vocab",
+   "word": "abate",
+   "pron": "(verb)",
+   "def": "To become less intense or widespread\nहिंदी: कम होना / शांत पड़ना",
+   "examples": [
+    "The alerts abated once the backlog cleared.",
+    "The storm abated by evening, and the flights resumed.",
+    "Her fear abated once she met the interview panel.",
+    "The pain abated after I took the medicine."
+   ]
+  },
+  {
+   "id": "pack6-card-1519",
+   "mode": "vocab",
+   "word": "accentuate",
+   "pron": "(verb)",
+   "def": "To make more noticeable\nहिंदी: उभारना",
+   "examples": [
+    "The data accentuates the gap between teams.",
+    "The bright lights accentuate the colours of the painting.",
+    "Her dark glasses accentuated the sharp features of her face.",
+    "The crisis accentuated the need for savings."
+   ]
+  },
+  {
+   "id": "pack6-card-1520",
+   "mode": "vocab",
+   "word": "accumulate",
+   "pron": "(verb)",
+   "def": "To gradually gather or build up\nहिंदी: धीरे-धीरे जमा होना",
+   "examples": [
+    "Technical debt accumulates quickly under pressure.",
+    "Dust accumulates quickly on the window sill.",
+    "Unread emails accumulate when I'm on leave.",
+    "She accumulated years of experience in sales."
+   ]
+  },
+  {
+   "id": "pack6-card-1521",
+   "mode": "vocab",
+   "word": "adept",
+   "pron": "(adjective)",
+   "def": "Very skilled at something\nहिंदी: निपुण",
+   "examples": [
+    "She is adept at simplifying complex topics.",
+    "He is adept at handling angry customers.",
+    "My grandmother is adept at making perfect rotis.",
+    "Children quickly become adept at using smartphones."
+   ]
+  },
+  {
+   "id": "pack6-card-1522",
+   "mode": "vocab",
+   "word": "adhere",
+   "pron": "(verb)",
+   "def": "To stick firmly to a rule or plan\nहिंदी: पालन करना",
+   "examples": [
+    "Teams must adhere to the release checklist.",
+    "Please adhere to the dress code at the client office.",
+    "Staff must adhere to safety rules in the factory.",
+    "It's hard to adhere to a diet during festivals."
+   ]
+  },
+  {
+   "id": "pack6-card-1523",
+   "mode": "vocab",
+   "word": "advent",
+   "pron": "(noun)",
+   "def": "The arrival of a notable thing\nहिंदी: आगमन",
+   "examples": [
+    "The advent of cloud computing changed infrastructure forever.",
+    "The advent of smartphones changed how we shop.",
+    "With the advent of UPI, cash use dropped.",
+    "The advent of the monsoon brings relief from the heat."
+   ]
+  },
+  {
+   "id": "pack6-card-1524",
+   "mode": "vocab",
+   "word": "affirm",
+   "pron": "(verb)",
+   "def": "To state something firmly as true\nहिंदी: दृढ़ता से कहना",
+   "examples": [
+    "The review affirmed our design choices.",
+    "The court affirmed the lower court's decision.",
+    "She affirmed her commitment to the project.",
+    "The survey affirmed that customers like the new design."
+   ]
+  },
+  {
+   "id": "pack6-card-1525",
+   "mode": "vocab",
+   "word": "aggravate",
+   "pron": "(verb)",
+   "def": "To make a problem worse or more serious\nहिंदी: और बिगाड़ना",
+   "examples": [
+    "Delays aggravated the client's frustration.",
+    "Lifting heavy bags aggravated his back injury.",
+    "Rude replies only aggravate the situation.",
+    "Pollution aggravates asthma in children."
+   ]
+  },
+  {
+   "id": "pack6-card-1526",
+   "mode": "vocab",
+   "word": "ambivalent",
+   "pron": "(adjective)",
+   "def": "Having mixed feelings about something\nहिंदी: दुविधा में / मिश्रित भावनाओं वाला",
+   "examples": [
+    "He felt ambivalent about moving to management.",
+    "I'm ambivalent about moving to Bengaluru.",
+    "Voters seem ambivalent about both candidates.",
+    "She felt ambivalent about leaving her first job."
+   ]
+  },
+  {
+   "id": "pack6-card-1527",
+   "mode": "vocab",
+   "word": "amenable",
+   "pron": "(adjective)",
+   "def": "Open and willing to accept suggestions\nहिंदी: सुझाव मानने को तैयार",
+   "examples": [
+    "The vendor was amenable to changing the format.",
+    "The landlord was amenable to lowering the rent.",
+    "Is your manager amenable to flexible hours?",
+    "The client was amenable to a short delay."
+   ]
+  },
+  {
+   "id": "pack6-card-1528",
+   "mode": "vocab",
+   "word": "amplify",
+   "pron": "(verb)",
+   "def": "To increase the strength or effect of something\nहिंदी: प्रभाव बढ़ाना",
+   "examples": [
+    "Social media amplifies small controversies.",
+    "The microphone amplifies the speaker's voice.",
+    "Stress can amplify small problems.",
+    "The news channel amplified the rumour."
+   ]
+  },
+  {
+   "id": "pack6-card-1529",
+   "mode": "vocab",
+   "word": "anecdotal",
+   "pron": "(adjective)",
+   "def": "Based on personal accounts rather than facts\nहिंदी: व्यक्तिगत अनुभव पर आधारित",
+   "examples": [
+    "The evidence is anecdotal and needs verification.",
+    "Most of what we know about the problem is anecdotal.",
+    "Anecdotal stories suggest the app is popular with students.",
+    "Don't make policy based on anecdotal evidence."
+   ]
+  },
+  {
+   "id": "pack6-card-1530",
+   "mode": "vocab",
+   "word": "animosity",
+   "pron": "(noun)",
+   "def": "Strong hostility or ill feeling\nहिंदी: शत्रुता",
+   "examples": [
+    "Past disputes created animosity between the teams.",
+    "There was no animosity between the two candidates after the debate.",
+    "Old animosity between the brothers ruined the family event.",
+    "The manager tried to reduce animosity in the team."
+   ]
+  },
+  {
+   "id": "pack6-card-1531",
+   "mode": "vocab",
+   "word": "apathy",
+   "pron": "(noun)",
+   "def": "Lack of interest or concern\nहिंदी: उदासीनता",
+   "examples": [
+    "Voter apathy weakens democracy.",
+    "Public apathy allowed the problem to grow.",
+    "Student apathy towards the subject worried the teacher.",
+    "Employee apathy is a sign of poor leadership."
+   ]
+  },
+  {
+   "id": "pack6-card-1532",
+   "mode": "vocab",
+   "word": "appease",
+   "pron": "(verb)",
+   "def": "To calm someone by giving in to demands\nहिंदी: शांत करने के लिए मान लेना",
+   "examples": [
+    "We can't appease every stakeholder.",
+    "The company offered a discount to appease angry customers.",
+    "He gave the children sweets to appease them.",
+    "Don't change the plan just to appease one person."
+   ]
+  },
+  {
+   "id": "pack6-card-1533",
+   "mode": "vocab",
+   "word": "arbitrary",
+   "pron": "(adjective)",
+   "def": "Based on random choice rather than reason\nहिंदी: मनमाना",
+   "examples": [
+    "The deadline seems arbitrary and unrealistic.",
+    "The selection seemed arbitrary to the candidates.",
+    "Arbitrary rules frustrate employees.",
+    "He picked an arbitrary number for the test."
+   ]
+  },
+  {
+   "id": "pack6-card-1534",
+   "mode": "vocab",
+   "word": "ardent",
+   "pron": "(adjective)",
+   "def": "Showing strong enthusiasm\nहिंदी: उत्साही",
+   "examples": [
+    "She is an ardent supporter of open source.",
+    "My uncle is an ardent cricket fan.",
+    "She is an ardent believer in women's education.",
+    "The ardent volunteers worked all night."
+   ]
+  },
+  {
+   "id": "pack6-card-1535",
+   "mode": "vocab",
+   "word": "arduous",
+   "pron": "(adjective)",
+   "def": "Involving great effort and difficulty\nहिंदी: कठिन परिश्रम वाला",
+   "examples": [
+    "The migration was an arduous process.",
+    "The climb to the temple was long and arduous.",
+    "Getting a visa can be an arduous process.",
+    "After an arduous week, I slept all Sunday."
+   ]
+  },
+  {
+   "id": "pack6-card-1536",
+   "mode": "vocab",
+   "word": "articulate a vision",
+   "pron": "(collocation)",
+   "def": "To express a future goal clearly\nहिंदी: दृष्टि स्पष्ट रूप से रखना",
+   "examples": [
+    "Good leaders articulate a vision people can follow.",
+    "The new principal articulated a vision for the school.",
+    "Founders must articulate a vision to attract investors.",
+    "She articulated a vision of a paperless office."
+   ]
+  },
+  {
+   "id": "pack6-card-1537",
+   "mode": "vocab",
+   "word": "ascertain",
+   "pron": "(verb)",
+   "def": "To find out for certain\nहिंदी: निश्चित रूप से पता लगाना",
+   "examples": [
+    "We must ascertain the facts before reporting.",
+    "The police are trying to ascertain the cause of the fire.",
+    "Please ascertain whether the client has paid.",
+    "It's hard to ascertain the truth from rumours."
+   ]
+  },
+  {
+   "id": "pack6-card-1538",
+   "mode": "vocab",
+   "word": "aspire",
+   "pron": "(verb)",
+   "def": "To have a strong desire to achieve something\nहिंदी: आकांक्षा रखना",
+   "examples": [
+    "She aspires to become a principal engineer.",
+    "Many young people aspire to work abroad.",
+    "He aspires to start his own restaurant.",
+    "Students aspire to get into the top colleges."
+   ]
+  },
+  {
+   "id": "pack6-card-1540",
+   "mode": "vocab",
+   "word": "assiduous",
+   "pron": "(adjective)",
+   "def": "Showing great care and persistence\nहिंदी: परिश्रमी",
+   "examples": [
+    "Assiduous testing caught the rare bug.",
+    "She was assiduous in preparing for the exam.",
+    "His assiduous work earned him a promotion.",
+    "The editor made assiduous checks on every fact."
+   ]
+  },
+  {
+   "id": "pack6-card-1541",
+   "mode": "vocab",
+   "word": "astute",
+   "pron": "(adjective)",
+   "def": "Clever at judging situations to gain advantage\nहिंदी: कुशाग्र बुद्धि वाला",
+   "examples": [
+    "Her astute observation saved us from a costly mistake.",
+    "The astute buyer waited for the sale.",
+    "An astute investor noticed the trend early.",
+    "She made an astute comment about the market."
+   ]
+  },
+  {
+   "id": "pack6-card-1542",
+   "mode": "vocab",
+   "word": "attribute",
+   "pron": "(verb)",
+   "def": "To regard something as being caused by\nहिंदी: श्रेय/कारण मानना",
+   "examples": [
+    "We attribute the delay to vendor issues.",
+    "He attributes his success to his parents' support.",
+    "Doctors attribute the illness to dirty water.",
+    "The quote is often attributed to Gandhi."
+   ]
+  },
+  {
+   "id": "pack6-card-1543",
+   "mode": "vocab",
+   "word": "augment",
+   "pron": "(verb)",
+   "def": "To make greater by adding to it\nहिंदी: बढ़ाना / पूरक बनाना",
+   "examples": [
+    "We augmented the data with sector information.",
+    "She augments her income by teaching online.",
+    "We augmented the team with two contractors.",
+    "The new data augments our earlier findings."
+   ]
+  },
+  {
+   "id": "pack6-card-1544",
+   "mode": "vocab",
+   "word": "auspicious",
+   "pron": "(adjective)",
+   "def": "Showing signs of future success\nहिंदी: शुभ / अनुकूल",
+   "examples": [
+    "The pilot was an auspicious start.",
+    "The wedding was held on an auspicious day.",
+    "The new office opened at an auspicious time.",
+    "Winning the first match was an auspicious start to the season."
+   ]
+  },
+  {
+   "id": "pack6-card-1545",
+   "mode": "vocab",
+   "word": "austere",
+   "pron": "(adjective)",
+   "def": "Severe and plain, without luxury\nहिंदी: कठोर और सादा",
+   "examples": [
+    "An austere budget limited our hiring.",
+    "The monk lived an austere life.",
+    "The hostel room was small and austere.",
+    "The government introduced austere measures to cut debt."
+   ]
+  },
+  {
+   "id": "pack6-card-1546",
+   "mode": "vocab",
+   "word": "avid",
+   "pron": "(adjective)",
+   "def": "Having a keen interest or enthusiasm\nहिंदी: उत्साही",
+   "examples": [
+    "He is an avid reader of technical blogs.",
+    "My father is an avid gardener.",
+    "She's an avid traveller who has visited twenty countries.",
+    "Avid fans queued overnight for tickets."
+   ]
+  },
+  {
+   "id": "pack6-card-1547",
+   "mode": "vocab",
+   "word": "banal",
+   "pron": "(adjective)",
+   "def": "Lacking originality and boring\nहिंदी: नीरस और साधारण",
+   "examples": [
+    "The presentation was banal and uninspiring.",
+    "The film had a banal plot and poor acting.",
+    "Avoid banal phrases like think outside the box in essays.",
+    "Their conversation was banal, mostly about the weather."
+   ]
+  },
+  {
+   "id": "pack6-card-1548",
+   "mode": "vocab",
+   "word": "bolster",
+   "pron": "(verb)",
+   "def": "To strengthen or support\nहिंदी: मज़बूत करना",
+   "examples": [
+    "Extra monitoring bolstered confidence in the system.",
+    "The win bolstered the team's confidence.",
+    "The bank bolstered its security after the fraud.",
+    "Good reviews bolstered sales of the book."
+   ]
+  },
+  {
+   "id": "pack6-card-1549",
+   "mode": "vocab",
+   "word": "brevity",
+   "pron": "(noun)",
+   "def": "Shortness of expression\nहिंदी: संक्षिप्तता",
+   "examples": [
+    "Brevity is the soul of a good status update.",
+    "Brevity is important in emails to busy managers.",
+    "The speech was praised for its brevity.",
+    "For the sake of brevity, I'll skip the details."
+   ]
+  },
+  {
+   "id": "pack6-card-1550",
+   "mode": "vocab",
+   "word": "bureaucratic",
+   "pron": "(adjective)",
+   "def": "Involving excessive rules and procedures\nहिंदी: नौकरशाही वाला",
+   "examples": [
+    "The bureaucratic process delayed approvals.",
+    "Getting a simple certificate was a bureaucratic nightmare.",
+    "The bureaucratic company took months to approve anything.",
+    "We want to reduce bureaucratic steps for customers."
+   ]
+  },
+  {
+   "id": "pack6-card-1551",
+   "mode": "vocab",
+   "word": "buttress",
+   "pron": "(verb)",
+   "def": "To give support or strength to\nहिंदी: सहारा देना",
+   "examples": [
+    "Data buttressed her argument.",
+    "Wooden beams buttress the old wall.",
+    "Strong sales buttressed the company's share price.",
+    "He buttressed his case with customer quotes."
+   ]
+  },
+  {
+   "id": "pack6-card-1552",
+   "mode": "vocab",
+   "word": "candid feedback",
+   "pron": "(collocation)",
+   "def": "Honest and direct comments\nहिंदी: स्पष्ट प्रतिक्रिया",
+   "examples": [
+    "Candid feedback helps us improve faster.",
+    "I asked my mentor for candid feedback on my resume.",
+    "Candid feedback can hurt but helps you grow.",
+    "The survey gives employees a way to share candid feedback."
+   ]
+  },
+  {
+   "id": "pack6-card-1553",
+   "mode": "vocab",
+   "word": "capitalise on",
+   "pron": "(phrasal verb)",
+   "def": "To take advantage of an opportunity\nहिंदी: अवसर का लाभ उठाना",
+   "examples": [
+    "We can capitalise on the momentum from the pilot.",
+    "The shop capitalised on the festival season with special offers.",
+    "Capitalise on your language skills in the job market.",
+    "The team failed to capitalise on its early lead."
+   ]
+  },
+  {
+   "id": "pack6-card-1554",
+   "mode": "vocab",
+   "word": "captivating",
+   "pron": "(adjective)",
+   "def": "Capturing attention and interest\nहिंदी: मनमोहक",
+   "examples": [
+    "She gave a captivating talk on resilience.",
+    "The children found the puppet show captivating.",
+    "The book has a captivating opening chapter.",
+    "Her captivating smile made everyone feel welcome."
+   ]
+  },
+  {
+   "id": "pack6-card-1555",
+   "mode": "vocab",
+   "word": "censure",
+   "pron": "(verb)",
+   "def": "To express strong disapproval\nहिंदी: कड़ी निंदा करना",
+   "examples": [
+    "The committee censured the careless handling of data.",
+    "The council censured the officer for misconduct.",
+    "The board censured the CEO for misleading investors.",
+    "The doctor was censured by the medical council."
+   ]
+  },
+  {
+   "id": "pack6-card-1556",
+   "mode": "vocab",
+   "word": "chronic issue",
+   "pron": "(collocation)",
+   "def": "A long-standing recurring problem\nहिंदी: पुरानी बार-बार आने वाली समस्या",
+   "examples": [
+    "Late vendor files are a chronic issue.",
+    "Water shortage is a chronic issue in our town.",
+    "Late payments are a chronic issue with this client.",
+    "Back pain became a chronic issue after years at a desk."
+   ]
+  },
+  {
+   "id": "pack6-card-1557",
+   "mode": "vocab",
+   "word": "circumspect",
+   "pron": "(adjective)",
+   "def": "Careful to consider all consequences before acting\nहिंदी: सोच-समझकर चलने वाला",
+   "examples": [
+    "Be circumspect when changing production configurations.",
+    "Be circumspect about sharing personal details online.",
+    "The minister was circumspect in his reply.",
+    "A circumspect investor checks everything before buying."
+   ]
+  },
+  {
+   "id": "pack6-card-1558",
+   "mode": "vocab",
+   "word": "clandestine",
+   "pron": "(adjective)",
+   "def": "Kept secret, often illicit\nहिंदी: गुप्त",
+   "examples": [
+    "A clandestine integration bypassed our controls.",
+    "The police raided a clandestine factory making fake medicines.",
+    "They held clandestine meetings before announcing the merger.",
+    "The spy sent clandestine messages to his handlers."
+   ]
+  },
+  {
+   "id": "pack6-card-1559",
+   "mode": "vocab",
+   "word": "clarity",
+   "pron": "(noun)",
+   "def": "The quality of being clear\nहिंदी: स्पष्टता",
+   "examples": [
+    "Clarity of ownership prevents confusion.",
+    "The new glasses gave me perfect clarity.",
+    "We need clarity on the budget before planning.",
+    "Her speech had great clarity and purpose."
+   ]
+  },
+  {
+   "id": "pack6-card-1560",
+   "mode": "vocab",
+   "word": "cognisant",
+   "pron": "(adjective)",
+   "def": "Having knowledge or awareness\nहिंदी: जानकार / अवगत",
+   "examples": [
+    "We are cognisant of the risks involved.",
+    "She is cognisant of her own weaknesses.",
+    "Be cognisant of cultural differences when travelling.",
+    "Managers must be cognisant of employee wellbeing."
+   ]
+  },
+  {
+   "id": "pack6-card-1561",
+   "mode": "vocab",
+   "word": "commend",
+   "pron": "(verb)",
+   "def": "To praise formally\nहिंदी: सराहना करना",
+   "examples": [
+    "The manager commended her handling of the incident.",
+    "The principal commended the students for their honesty.",
+    "I commend you for your patience with the customer.",
+    "The report commended the hospital for its quick response."
+   ]
+  },
+  {
+   "id": "pack6-card-1562",
+   "mode": "vocab",
+   "word": "commensurate",
+   "pron": "(adjective)",
+   "def": "Corresponding in size or degree\nहिंदी: अनुपात के अनुरूप",
+   "examples": [
+    "Salary should be commensurate with experience.",
+    "The reward was commensurate with the effort.",
+    "Responsibilities should be commensurate with the title.",
+    "We offer a salary commensurate with the market."
+   ]
+  },
+  {
+   "id": "pack6-card-1563",
+   "mode": "vocab",
+   "word": "compatible",
+   "pron": "(adjective)",
+   "def": "Able to exist or work together\nहिंदी: संगत",
+   "examples": [
+    "The library is not compatible with our Java version.",
+    "Is this charger compatible with my phone?",
+    "Their personalities are not compatible.",
+    "Make sure the software is compatible with Windows."
+   ]
+  },
+  {
+   "id": "pack6-card-1564",
+   "mode": "vocab",
+   "word": "complacent",
+   "pron": "(adjective)",
+   "def": "Self-satisfied and unaware of danger\nहिंदी: आत्मसंतुष्ट",
+   "examples": [
+    "Don't become complacent after one successful release.",
+    "The team became complacent after winning three matches.",
+    "Don't get complacent about your health.",
+    "A complacent company can lose to new competitors."
+   ]
+  },
+  {
+   "id": "pack6-card-1565",
+   "mode": "vocab",
+   "word": "complement",
+   "pron": "(verb)",
+   "def": "To add features that improve or enhance\nहिंदी: पूरक बनना",
+   "examples": [
+    "Good tooling complements strong processes.",
+    "The chutney complements the samosas perfectly.",
+    "Her skills complement mine.",
+    "A good scarf complements a simple outfit."
+   ]
+  },
+  {
+   "id": "pack6-card-1566",
+   "mode": "vocab",
+   "word": "comply",
+   "pron": "(verb)",
+   "def": "To act in accordance with a rule\nहिंदी: नियम का पालन करना",
+   "examples": [
+    "All teams must comply with the security policy.",
+    "All restaurants must comply with hygiene rules.",
+    "If you don't comply, you'll pay a fine.",
+    "The company complied with the court's order."
+   ]
+  },
+  {
+   "id": "pack6-card-1567",
+   "mode": "vocab",
+   "word": "concur",
+   "pron": "(verb)",
+   "def": "To agree\nहिंदी: सहमत होना",
+   "examples": [
+    "I concur with the proposed approach.",
+    "The doctors concurred that surgery was necessary.",
+    "I concur; the plan needs more time.",
+    "Most experts concur with the report's findings."
+   ]
+  },
+  {
+   "id": "pack6-card-1568",
+   "mode": "vocab",
+   "word": "condone",
+   "pron": "(verb)",
+   "def": "To accept or allow behaviour that is wrong\nहिंदी: अनुचित को चलने देना",
+   "examples": [
+    "We cannot condone skipping code reviews.",
+    "The school does not condone bullying.",
+    "I don't condone cheating, even in small games.",
+    "By staying silent, you seem to condone the behaviour."
+   ]
+  },
+  {
+   "id": "pack6-card-1569",
+   "mode": "vocab",
+   "word": "confer",
+   "pron": "(verb)",
+   "def": "To discuss something together\nहिंदी: आपस में विचार-विमर्श करना",
+   "examples": [
+    "Let me confer with the team before committing.",
+    "The doctors conferred before telling the family.",
+    "The judges conferred and announced the winner.",
+    "I need to confer with my partner before deciding."
+   ]
+  },
+  {
+   "id": "pack6-card-1570",
+   "mode": "vocab",
+   "word": "conjecture",
+   "pron": "(noun)",
+   "def": "An opinion based on incomplete information\nहिंदी: अनुमान",
+   "examples": [
+    "That's just conjecture until we see the logs.",
+    "The reason for his resignation is still a matter of conjecture.",
+    "Her theory is pure conjecture.",
+    "The media is full of conjecture about the actor's wedding."
+   ]
+  },
+  {
+   "id": "pack6-card-1571",
+   "mode": "vocab",
+   "word": "consolidate gains",
+   "pron": "(collocation)",
+   "def": "To strengthen advantages already achieved\nहिंदी: प्राप्त लाभों को मज़बूत करना",
+   "examples": [
+    "Let's consolidate our gains before expanding scope.",
+    "After the big win, the party worked to consolidate gains.",
+    "Consolidate gains in English by practising daily.",
+    "The army moved to consolidate gains before advancing."
+   ]
+  },
+  {
+   "id": "pack6-card-1572",
+   "mode": "vocab",
+   "word": "conspicuous",
+   "pron": "(adjective)",
+   "def": "Easily seen and noticeable\nहिंदी: स्पष्ट दिखने वाला",
+   "examples": [
+    "His absence from the meeting was conspicuous.",
+    "She wore a conspicuous red hat at the wedding.",
+    "The new building is conspicuous on the skyline.",
+    "Don't make yourself conspicuous by arriving late."
+   ]
+  },
+  {
+   "id": "pack6-card-1573",
+   "mode": "vocab",
+   "word": "contemplate",
+   "pron": "(verb)",
+   "def": "To think deeply about something\nहिंदी: गहराई से विचार करना",
+   "examples": [
+    "We contemplated rewriting the module from scratch.",
+    "She is contemplating a career change.",
+    "He sat by the river, contemplating his future.",
+    "We contemplated moving abroad but decided to stay."
+   ]
+  },
+  {
+   "id": "pack6-card-1574",
+   "mode": "vocab",
+   "word": "contend",
+   "pron": "(verb)",
+   "def": "To argue or claim\nहिंदी: दावा करना / तर्क देना",
+   "examples": [
+    "He contends that the architecture is sound.",
+    "Critics contend that the policy hurts small businesses.",
+    "The lawyer contends that her client is innocent.",
+    "Some contend that exams don't measure real learning."
+   ]
+  },
+  {
+   "id": "pack6-card-1575",
+   "mode": "vocab",
+   "word": "contingent",
+   "pron": "(adjective)",
+   "def": "Dependent on something else happening\nहिंदी: किसी बात पर निर्भर",
+   "examples": [
+    "Approval is contingent on a successful security scan.",
+    "The offer is contingent on a background check.",
+    "Our trip is contingent on getting leave.",
+    "The deal is contingent on board approval."
+   ]
+  },
+  {
+   "id": "pack6-card-1576",
+   "mode": "vocab",
+   "word": "contrive",
+   "pron": "(verb)",
+   "def": "To create or manage cleverly or artificially\nहिंदी: तरकीब से बनाना",
+   "examples": [
+    "The example felt contrived and unrealistic.",
+    "She contrived a way to leave the meeting early.",
+    "The film's ending felt contrived.",
+    "He contrived to meet her at the station by chance."
+   ]
+  },
+  {
+   "id": "pack6-card-1578",
+   "mode": "vocab",
+   "word": "copious",
+   "pron": "(adjective)",
+   "def": "Abundant in quantity\nहिंदी: प्रचुर",
+   "examples": [
+    "She took copious notes during the review.",
+    "Drink copious amounts of water in summer.",
+    "The guests ate copious amounts of biryani.",
+    "The report includes copious examples."
+   ]
+  },
+  {
+   "id": "pack6-card-1579",
+   "mode": "vocab",
+   "word": "corroborating evidence",
+   "pron": "(collocation)",
+   "def": "Supporting information that confirms a claim\nहिंदी: पुष्टि करने वाले प्रमाण",
+   "examples": [
+    "We need corroborating evidence from the logs.",
+    "The CCTV footage provided corroborating evidence.",
+    "Without corroborating evidence, the complaint was dismissed.",
+    "The journalist looked for corroborating evidence before publishing."
+   ]
+  },
+  {
+   "id": "pack6-card-1580",
+   "mode": "vocab",
+   "word": "culminate",
+   "pron": "(verb)",
+   "def": "To reach a final point or climax\nहिंदी: चरम पर पहुँचना",
+   "examples": [
+    "Months of work culminated in a smooth launch.",
+    "The festival culminated in a grand fireworks show.",
+    "Her years of study culminated in a medical degree.",
+    "The talks culminated in a peace deal."
+   ]
+  },
+  {
+   "id": "pack6-card-1581",
+   "mode": "vocab",
+   "word": "curtail spending",
+   "pron": "(collocation)",
+   "def": "To reduce expenditure\nहिंदी: ख़र्च में कटौती करना",
+   "examples": [
+    "The team had to curtail spending on tools.",
+    "Families curtail spending when prices rise.",
+    "The government plans to curtail spending on new buildings.",
+    "We had to curtail spending after losing the client."
+   ]
+  },
+  {
+   "id": "pack6-card-1582",
+   "mode": "vocab",
+   "word": "cursory",
+   "pron": "(adjective)",
+   "def": "Hasty and not thorough\nहिंदी: सरसरी",
+   "examples": [
+    "A cursory review missed the critical bug.",
+    "He gave the contract only a cursory glance before signing.",
+    "A cursory check of the room showed nothing missing.",
+    "The doctor's cursory examination worried the patient."
+   ]
+  },
+  {
+   "id": "pack6-card-1583",
+   "mode": "vocab",
+   "word": "daunting",
+   "pron": "(adjective)",
+   "def": "Seeming difficult and intimidating\nहिंदी: डरा देने वाला",
+   "examples": [
+    "The scale of the migration was daunting.",
+    "Moving to a new country alone can be daunting.",
+    "The first day at a new job is always a little daunting.",
+    "Facing a daunting pile of work, she made a list."
+   ]
+  },
+  {
+   "id": "pack6-card-1584",
+   "mode": "vocab",
+   "word": "debilitating",
+   "pron": "(adjective)",
+   "def": "Making someone or something weak\nहिंदी: कमज़ोर करने वाला",
+   "examples": [
+    "Constant interruptions are debilitating for productivity.",
+    "Migraines can be debilitating.",
+    "The long illness left him debilitated for months.",
+    "High debt can have a debilitating effect on small businesses."
+   ]
+  },
+  {
+   "id": "pack6-card-1585",
+   "mode": "vocab",
+   "word": "decipher",
+   "pron": "(verb)",
+   "def": "To succeed in understanding something unclear\nहिंदी: गूढ़ बात समझना",
+   "examples": [
+    "It took hours to decipher the legacy code.",
+    "I couldn't decipher the doctor's handwriting.",
+    "Archaeologists deciphered the ancient script.",
+    "It's hard to decipher what my manager really wants."
+   ]
+  },
+  {
+   "id": "pack6-card-1586",
+   "mode": "vocab",
+   "word": "deem",
+   "pron": "(verb)",
+   "def": "To consider or judge in a particular way\nहिंदी: मानना / समझना",
+   "examples": [
+    "The change was deemed too risky for Friday.",
+    "The building was deemed unsafe after the earthquake.",
+    "Use whatever method you deem best.",
+    "The film was deemed unsuitable for children."
+   ]
+  },
+  {
+   "id": "pack6-card-1587",
+   "mode": "vocab",
+   "word": "defer to",
+   "pron": "(phrasal verb)",
+   "def": "To yield to another's opinion or authority\nहिंदी: किसी की राय को मान देना",
+   "examples": [
+    "I'll defer to the security team on this.",
+    "On legal matters, I defer to our lawyer.",
+    "Junior staff often defer to seniors in meetings.",
+    "I'll defer to your judgement on the venue."
+   ]
+  },
+  {
+   "id": "pack6-card-1588",
+   "mode": "vocab",
+   "word": "deficient",
+   "pron": "(adjective)",
+   "def": "Not having enough of something\nहिंदी: अपर्याप्त",
+   "examples": [
+    "The documentation is deficient in key areas.",
+    "Her diet was deficient in iron.",
+    "The report found the safety training deficient.",
+    "Many children are deficient in vitamin D."
+   ]
+  },
+  {
+   "id": "pack6-card-1589",
+   "mode": "vocab",
+   "word": "delineate",
+   "pron": "(verb)",
+   "def": "To describe or outline precisely\nहिंदी: सटीक रूप से रेखांकित करना",
+   "examples": [
+    "The charter delineates each team's responsibilities.",
+    "The contract delineates the duties of both parties.",
+    "The map delineates the borders of each district.",
+    "Her essay clearly delineates the causes of the problem."
+   ]
+  },
+  {
+   "id": "pack6-card-1591",
+   "mode": "vocab",
+   "word": "denote",
+   "pron": "(verb)",
+   "def": "To be a sign of; to indicate\nहिंदी: दर्शाना",
+   "examples": [
+    "A red flag denotes a failed check.",
+    "The star symbol denotes a vegetarian dish.",
+    "A green light denotes that the machine is ready.",
+    "In maths, x often denotes an unknown number."
+   ]
+  },
+  {
+   "id": "pack6-card-1592",
+   "mode": "vocab",
+   "word": "depict",
+   "pron": "(verb)",
+   "def": "To represent or show in a picture or words\nहिंदी: चित्रित करना",
+   "examples": [
+    "The diagram depicts the end-to-end flow.",
+    "The painting depicts village life in Bengal.",
+    "The film depicts the struggles of a young cricketer.",
+    "The report depicts a worrying picture of air quality."
+   ]
+  },
+  {
+   "id": "pack6-card-1593",
+   "mode": "vocab",
+   "word": "derive",
+   "pron": "(verb)",
+   "def": "To obtain from a source\nहिंदी: प्राप्त करना",
+   "examples": [
+    "We derive insights from usage data.",
+    "Many English words derive from Latin.",
+    "She derives great joy from teaching.",
+    "The company derives most of its income from exports."
+   ]
+  },
+  {
+   "id": "pack6-card-1594",
+   "mode": "vocab",
+   "word": "detached",
+   "pron": "(adjective)",
+   "def": "Objective and not emotionally involved\nहिंदी: निर्लिप्त / तटस्थ",
+   "examples": [
+    "Review the incident with a detached mind.",
+    "A judge must stay detached from personal feelings.",
+    "He seemed detached during the family dinner.",
+    "Try to give feedback in a detached, professional way."
+   ]
+  },
+  {
+   "id": "pack6-card-1595",
+   "mode": "vocab",
+   "word": "devise",
+   "pron": "(verb)",
+   "def": "To plan or invent something complex\nहिंदी: योजना या तरीका गढ़ना",
+   "examples": [
+    "We devised a strategy to avoid duplicate loads.",
+    "The teacher devised a fun game to teach grammar.",
+    "They devised a plan to save water in the building.",
+    "Engineers devised a cheaper way to build the bridge."
+   ]
+  },
+  {
+   "id": "pack6-card-1597",
+   "mode": "vocab",
+   "word": "diminish",
+   "pron": "(verb)",
+   "def": "To make or become smaller\nहिंदी: घटाना / कम होना",
+   "examples": [
+    "Repeated failures diminished confidence.",
+    "The noise diminished as the train moved away.",
+    "His interest in the job diminished over time.",
+    "Don't let one failure diminish your confidence."
+   ]
+  },
+  {
+   "id": "pack6-card-1598",
+   "mode": "vocab",
+   "word": "discern",
+   "pron": "(verb)",
+   "def": "To recognise or notice something with effort\nहिंदी: पहचान पाना",
+   "examples": [
+    "It's hard to discern a pattern in the noise.",
+    "I could barely discern the road in the fog.",
+    "It's hard to discern his true feelings.",
+    "A good editor can discern weak arguments quickly."
+   ]
+  },
+  {
+   "id": "pack6-card-1599",
+   "mode": "vocab",
+   "word": "discreet",
+   "pron": "(adjective)",
+   "def": "Careful about what one says to avoid embarrassment\nहिंदी: विवेकपूर्ण / गोपनीयता बरतने वाला",
+   "examples": [
+    "Please be discreet about the restructuring plans.",
+    "She was discreet about her colleague's health problems.",
+    "Please be discreet; the news isn't public yet.",
+    "He made a discreet exit before the speeches."
+   ]
+  },
+  {
+   "id": "pack6-card-1600",
+   "mode": "vocab",
+   "word": "disparity",
+   "pron": "(noun)",
+   "def": "A great difference\nहिंदी: भारी अंतर",
+   "examples": [
+    "There's a disparity between the two teams' workloads.",
+    "There is a big disparity between rich and poor in the city.",
+    "The pay disparity between men and women must end.",
+    "The disparity in test scores surprised the teachers."
+   ]
+  },
+  {
+   "id": "pack6-card-1601",
+   "mode": "vocab",
+   "word": "dispel",
+   "pron": "(verb)",
+   "def": "To make a doubt or belief disappear\nहिंदी: भ्रम दूर करना",
+   "examples": [
+    "The test results dispelled our concerns.",
+    "The manager's email dispelled rumours of layoffs.",
+    "Education helps dispel myths about illness.",
+    "Her calm voice dispelled the children's fear."
+   ]
+  },
+  {
+   "id": "pack6-card-1602",
+   "mode": "vocab",
+   "word": "disseminate",
+   "pron": "(verb)",
+   "def": "To spread information widely\nहिंदी: जानकारी फैलाना",
+   "examples": [
+    "We disseminate release notes to all stakeholders.",
+    "The health ministry disseminated advice about the virus.",
+    "Social media disseminates news very quickly.",
+    "We need to disseminate the new policy to all branches."
+   ]
+  },
+  {
+   "id": "pack6-card-1603",
+   "mode": "vocab",
+   "word": "distil",
+   "pron": "(verb)",
+   "def": "To extract the essential meaning\nहिंदी: सार निकालना",
+   "examples": [
+    "Distil the findings into three key points.",
+    "The book distils years of experience into simple lessons.",
+    "Can you distil the report into one slide?",
+    "She distilled the long discussion into three decisions."
+   ]
+  },
+  {
+   "id": "pack6-card-1604",
+   "mode": "vocab",
+   "word": "diverge from",
+   "pron": "(phrasal verb)",
+   "def": "To depart from a path or opinion\nहिंदी: रास्ते या मत से हटना",
+   "examples": [
+    "The final design diverged from the original plan.",
+    "The film diverged from the novel in many ways.",
+    "His career diverged from his father's plans.",
+    "Don't diverge from the agreed budget without approval."
+   ]
+  },
+  {
+   "id": "pack6-card-1605",
+   "mode": "vocab",
+   "word": "dormant",
+   "pron": "(adjective)",
+   "def": "Temporarily inactive\nहिंदी: निष्क्रिय",
+   "examples": [
+    "A dormant account was exploited by attackers.",
+    "The volcano has been dormant for centuries.",
+    "My interest in painting lay dormant for years.",
+    "Seeds remain dormant until the rains come."
+   ]
+  },
+  {
+   "id": "pack6-card-1606",
+   "mode": "vocab",
+   "word": "dubious",
+   "pron": "(adjective)",
+   "def": "Not to be relied upon; doubtful\nहिंदी: संदिग्ध",
+   "examples": [
+    "The numbers come from a dubious source.",
+    "I'm dubious about his promise to repay the loan.",
+    "The website looked dubious, so I didn't buy anything.",
+    "He has a dubious record of keeping deadlines."
+   ]
+  },
+  {
+   "id": "pack6-card-1607",
+   "mode": "vocab",
+   "word": "elicit",
+   "pron": "(verb)",
+   "def": "To draw out a response or information\nहिंदी: जानकारी या प्रतिक्रिया निकलवाना",
+   "examples": [
+    "The workshop elicited several unspoken concerns.",
+    "The teacher's questions elicited thoughtful answers.",
+    "The survey elicited over a thousand responses.",
+    "His joke elicited laughter from the audience."
+   ]
+  },
+  {
+   "id": "pack6-card-1608",
+   "mode": "vocab",
+   "word": "elusive",
+   "pron": "(adjective)",
+   "def": "Difficult to find, catch or achieve\nहिंदी: पकड़ में न आने वाला",
+   "examples": [
+    "The elusive bug appeared only at midnight.",
+    "Success remained elusive for the young actor.",
+    "The elusive leopard was finally caught on camera.",
+    "A good night's sleep has been elusive this week."
+   ]
+  },
+  {
+   "id": "pack6-card-1609",
+   "mode": "vocab",
+   "word": "emanate",
+   "pron": "(verb)",
+   "def": "To come out from a source\nहिंदी: उत्पन्न होना / निकलना",
+   "examples": [
+    "The pressure emanated from senior management.",
+    "A lovely smell emanated from the kitchen.",
+    "Warmth emanated from the fireplace.",
+    "Confidence seemed to emanate from her."
+   ]
+  },
+  {
+   "id": "pack6-card-1610",
+   "mode": "vocab",
+   "word": "embark on",
+   "pron": "(phrasal verb)",
+   "def": "To begin a new project or journey\nहिंदी: नई शुरुआत करना",
+   "examples": [
+    "We embarked on a major modernisation effort.",
+    "She embarked on a new career in teaching.",
+    "We embarked on a road trip across Rajasthan.",
+    "The company is embarking on a big expansion."
+   ]
+  },
+  {
+   "id": "pack6-card-1611",
+   "mode": "vocab",
+   "word": "embed",
+   "pron": "(verb)",
+   "def": "To fix firmly within something larger\nहिंदी: गहराई से जोड़ना",
+   "examples": [
+    "Security should be embedded in the design process.",
+    "The video was embedded in the webpage.",
+    "Respect for elders is embedded in our culture.",
+    "A small stone was embedded in the tyre."
+   ]
+  },
+  {
+   "id": "pack6-card-1612",
+   "mode": "vocab",
+   "word": "embody",
+   "pron": "(verb)",
+   "def": "To represent or express in a concrete form\nहिंदी: साकार रूप देना",
+   "examples": [
+    "The platform embodies our principles of reliability.",
+    "She embodies the spirit of hard work.",
+    "The new building embodies modern design.",
+    "He embodies everything a good teacher should be."
+   ]
+  },
+  {
+   "id": "pack6-card-1614",
+   "mode": "vocab",
+   "word": "empirical",
+   "pron": "(adjective)",
+   "def": "Based on observation or experiment\nहिंदी: अनुभवजन्य",
+   "examples": [
+    "We need empirical data before deciding.",
+    "The claim has no empirical support.",
+    "Empirical studies show that exercise improves mood.",
+    "Scientists gathered empirical evidence over ten years."
+   ]
+  },
+  {
+   "id": "pack6-card-1615",
+   "mode": "vocab",
+   "word": "encompass",
+   "pron": "(verb)",
+   "def": "To include comprehensively\nहिंदी: समेटना",
+   "examples": [
+    "The review encompasses security and performance.",
+    "The course encompasses grammar, speaking and writing.",
+    "The national park encompasses three districts.",
+    "Her role encompasses both sales and marketing."
+   ]
+  },
+  {
+   "id": "pack6-card-1616",
+   "mode": "vocab",
+   "word": "endeavour",
+   "pron": "(noun)",
+   "def": "An earnest attempt\nहिंदी: प्रयास",
+   "examples": [
+    "The migration was a major endeavour.",
+    "Climbing the mountain was a dangerous endeavour.",
+    "We wish you success in your future endeavours.",
+    "Starting a school was her lifelong endeavour."
+   ]
+  },
+  {
+   "id": "pack6-card-1618",
+   "mode": "vocab",
+   "word": "enigmatic",
+   "pron": "(adjective)",
+   "def": "Difficult to interpret or understand\nहिंदी: रहस्यमय",
+   "examples": [
+    "The enigmatic error message offered no clues.",
+    "The painting has an enigmatic smile.",
+    "He gave an enigmatic reply and left.",
+    "The enigmatic stranger never told us his name."
+   ]
+  },
+  {
+   "id": "pack6-card-1619",
+   "mode": "vocab",
+   "word": "ensue",
+   "pron": "(verb)",
+   "def": "To happen afterwards as a result\nहिंदी: परिणामस्वरूप घटित होना",
+   "examples": [
+    "A heated debate ensued after the proposal.",
+    "After the announcement, chaos ensued in the office.",
+    "A long silence ensued after his question.",
+    "If you don't pay, legal action will ensue."
+   ]
+  },
+  {
+   "id": "pack6-card-1620",
+   "mode": "vocab",
+   "word": "entail",
+   "pron": "(verb)",
+   "def": "To involve as a necessary part\nहिंदी: आवश्यक रूप से शामिल करना",
+   "examples": [
+    "The change entails updating every consumer.",
+    "What does the new role entail?",
+    "Buying a house entails a lot of paperwork.",
+    "Moving abroad entails learning a new culture."
+   ]
+  },
+  {
+   "id": "pack6-card-1621",
+   "mode": "vocab",
+   "word": "envisage",
+   "pron": "(verb)",
+   "def": "To imagine as a future possibility\nहिंदी: कल्पना करना",
+   "examples": [
+    "We envisage a fully automated pipeline.",
+    "I envisage working from home two days a week.",
+    "The planners envisage a metro line to the airport.",
+    "She never envisaged becoming a manager so soon."
+   ]
+  },
+  {
+   "id": "pack6-card-1622",
+   "mode": "vocab",
+   "word": "equitable",
+   "pron": "(adjective)",
+   "def": "Fair and impartial\nहिंदी: न्यायसंगत",
+   "examples": [
+    "We need an equitable distribution of on-call duties.",
+    "The property was divided in an equitable way among the children.",
+    "We want an equitable pay structure for all staff.",
+    "Equitable access to education is a basic right."
+   ]
+  },
+  {
+   "id": "pack6-card-1623",
+   "mode": "vocab",
+   "word": "erroneous",
+   "pron": "(adjective)",
+   "def": "Wrong or mistaken\nहिंदी: त्रुटिपूर्ण",
+   "examples": [
+    "An erroneous assumption caused the failure.",
+    "The newspaper corrected its erroneous report.",
+    "An erroneous entry delayed my tax refund.",
+    "The bank apologised for the erroneous charge."
+   ]
+  },
+  {
+   "id": "pack6-card-1624",
+   "mode": "vocab",
+   "word": "espouse",
+   "pron": "(verb)",
+   "def": "To adopt or support a cause or belief\nहिंदी: किसी विचार को अपनाना और समर्थन करना",
+   "examples": [
+    "She espouses test-driven development.",
+    "The party espouses free education for all.",
+    "He espouses a simple, minimalist lifestyle.",
+    "Many leaders espouse values they don't follow."
+   ]
+  },
+  {
+   "id": "pack6-card-1626",
+   "mode": "vocab",
+   "word": "evoke",
+   "pron": "(verb)",
+   "def": "To bring a feeling or memory to mind\nहिंदी: स्मृति या भावना जगाना",
+   "examples": [
+    "The error evoked memories of last year's outage.",
+    "The smell of rain evokes memories of my childhood.",
+    "The old song evoked strong feelings in the audience.",
+    "The photograph evokes a sense of peace."
+   ]
+  },
+  {
+   "id": "pack6-card-1627",
+   "mode": "vocab",
+   "word": "exemplify",
+   "pron": "(verb)",
+   "def": "To be a typical example of\nहिंदी: उदाहरण पेश करना",
+   "examples": [
+    "This incident exemplifies the need for better alerts.",
+    "Her life exemplifies courage and kindness.",
+    "This project exemplifies good teamwork.",
+    "These buildings exemplify colonial architecture."
+   ]
+  },
+  {
+   "id": "pack6-card-1628",
+   "mode": "vocab",
+   "word": "exhaustive",
+   "pron": "(adjective)",
+   "def": "Thorough and complete\nहिंदी: संपूर्ण",
+   "examples": [
+    "We ran an exhaustive set of regression tests.",
+    "The police made an exhaustive search of the area.",
+    "This is not an exhaustive list of rules.",
+    "The doctor ran exhaustive tests to find the cause."
+   ]
+  },
+  {
+   "id": "pack6-card-1629",
+   "mode": "vocab",
+   "word": "exonerate",
+   "pron": "(verb)",
+   "def": "To clear of blame\nहिंदी: दोष-मुक्त करना",
+   "examples": [
+    "The logs exonerated the deployment team.",
+    "New evidence exonerated the accused man.",
+    "The report exonerated the driver of any blame.",
+    "He was exonerated after years in prison."
+   ]
+  },
+  {
+   "id": "pack6-card-1630",
+   "mode": "vocab",
+   "word": "expedient",
+   "pron": "(adjective)",
+   "def": "Convenient and practical, though not always ethical\nहिंदी: तात्कालिक रूप से सुविधाजनक",
+   "examples": [
+    "Skipping the review was expedient but risky.",
+    "It was expedient to hire a temporary worker.",
+    "The politician took the expedient route and avoided the issue.",
+    "Lying may seem expedient, but it causes trouble later."
+   ]
+  },
+  {
+   "id": "pack6-card-1631",
+   "mode": "vocab",
+   "word": "explicit consent",
+   "pron": "(collocation)",
+   "def": "Clear and direct permission\nहिंदी: स्पष्ट सहमति",
+   "examples": [
+    "We need explicit consent before sharing data.",
+    "Apps must get explicit consent before using your location.",
+    "The hospital needs explicit consent before surgery.",
+    "Never share a photo of someone without explicit consent."
+   ]
+  },
+  {
+   "id": "pack6-card-1632",
+   "mode": "vocab",
+   "word": "exemplary",
+   "pron": "(adjective)",
+   "def": "Serving as a desirable model\nहिंदी: आदर्श",
+   "examples": [
+    "Her exemplary documentation became our template.",
+    "The student received an award for exemplary behaviour.",
+    "His exemplary service was recognised by the company.",
+    "The school's results were exemplary this year."
+   ]
+  },
+  {
+   "id": "pack6-card-1633",
+   "mode": "vocab",
+   "word": "extraneous",
+   "pron": "(adjective)",
+   "def": "Irrelevant or unrelated to the subject\nहिंदी: अप्रासंगिक",
+   "examples": [
+    "Remove extraneous details from the summary.",
+    "The essay was full of extraneous information.",
+    "Remove extraneous noise from the recording.",
+    "Keep your resume short and cut extraneous details."
+   ]
+  },
+  {
+   "id": "pack6-card-1634",
+   "mode": "vocab",
+   "word": "facet",
+   "pron": "(noun)",
+   "def": "One aspect of something\nहिंदी: पहलू",
+   "examples": [
+    "Every facet of the system was reviewed.",
+    "We discussed every facet of the wedding plan.",
+    "Music is one facet of her many talents.",
+    "The course covers each facet of digital marketing."
+   ]
+  },
+  {
+   "id": "pack6-card-1635",
+   "mode": "vocab",
+   "word": "fastidious",
+   "pron": "(adjective)",
+   "def": "Very attentive to accuracy and detail\nहिंदी: अति सावधान और बारीक",
+   "examples": [
+    "He is fastidious about naming conventions.",
+    "My mother is fastidious about keeping the kitchen clean.",
+    "The fastidious editor checked every comma.",
+    "He's fastidious about his clothes and always looks neat."
+   ]
+  },
+  {
+   "id": "pack6-card-1636",
+   "mode": "vocab",
+   "word": "feasible solution",
+   "pron": "(collocation)",
+   "def": "A practical answer that can be implemented\nहिंदी: व्यवहार्य समाधान",
+   "examples": [
+    "We found a feasible solution within budget.",
+    "We need a feasible solution, not a perfect one.",
+    "Working from home was the only feasible solution during the floods.",
+    "The engineers came up with a feasible solution in a week."
+   ]
+  },
+  {
+   "id": "pack6-card-1637",
+   "mode": "vocab",
+   "word": "fervent",
+   "pron": "(adjective)",
+   "def": "Having intense feeling\nहिंदी: उत्कट",
+   "examples": [
+    "He is a fervent supporter of automation.",
+    "She made a fervent appeal for donations.",
+    "He is a fervent fan of the local football club.",
+    "The crowd gave fervent support to the team."
+   ]
+  },
+  {
+   "id": "pack6-card-1638",
+   "mode": "vocab",
+   "word": "flagrant",
+   "pron": "(adjective)",
+   "def": "Obviously and shockingly wrong\nहिंदी: खुला उल्लंघन वाला",
+   "examples": [
+    "It was a flagrant breach of the policy.",
+    "The referee ignored a flagrant foul.",
+    "It was a flagrant violation of traffic rules.",
+    "The company showed flagrant disregard for worker safety."
+   ]
+  },
+  {
+   "id": "pack6-card-1639",
+   "mode": "vocab",
+   "word": "flourishing",
+   "pron": "(adjective)",
+   "def": "Growing and developing well\nहिंदी: फलता-फूलता",
+   "examples": [
+    "A flourishing community supports the open-source tool.",
+    "The flourishing garden is full of flowers.",
+    "Her flourishing business now has three branches.",
+    "The city has a flourishing art scene."
+   ]
+  },
+  {
+   "id": "pack6-card-1640",
+   "mode": "vocab",
+   "word": "fluctuating",
+   "pron": "(adjective)",
+   "def": "Changing frequently and irregularly\nहिंदी: घटता-बढ़ता",
+   "examples": [
+    "Fluctuating demand complicates planning.",
+    "Fluctuating fuel prices affect bus fares.",
+    "The patient's fluctuating temperature worried the nurse.",
+    "Fluctuating exchange rates make imports risky."
+   ]
+  },
+  {
+   "id": "pack6-card-1641",
+   "mode": "vocab",
+   "word": "formidable",
+   "pron": "(adjective)",
+   "def": "Inspiring fear or respect through size or power\nहिंदी: भयावह / प्रभावशाली",
+   "examples": [
+    "The team faced a formidable deadline.",
+    "The team faced a formidable opponent in the final.",
+    "She is a formidable negotiator.",
+    "Climbing Everest is a formidable challenge."
+   ]
+  },
+  {
+   "id": "pack6-card-1642",
+   "mode": "vocab",
+   "word": "fortify",
+   "pron": "(verb)",
+   "def": "To strengthen against attack\nहिंदी: मज़बूत बनाना",
+   "examples": [
+    "We fortified the system with additional checks.",
+    "The town fortified its walls against invaders.",
+    "Fortify your immune system with good food and sleep.",
+    "The bank fortified its security after the robbery."
+   ]
+  },
+  {
+   "id": "pack6-card-1643",
+   "mode": "vocab",
+   "word": "fraught",
+   "pron": "(adjective)",
+   "def": "Filled with problems or danger\nहिंदी: कठिनाइयों से भरा",
+   "examples": [
+    "The integration was fraught with delays.",
+    "The journey was fraught with danger.",
+    "Their relationship is fraught with tension.",
+    "Opening a business is fraught with risk."
+   ]
+  },
+  {
+   "id": "pack6-card-1644",
+   "mode": "vocab",
+   "word": "frugal",
+   "pron": "(adjective)",
+   "def": "Careful with money or resources\nहिंदी: मितव्ययी",
+   "examples": [
+    "A frugal approach to cloud costs saved thousands.",
+    "My grandparents lived a frugal life and saved a lot.",
+    "Students learn to be frugal with their monthly allowance.",
+    "A frugal meal of dal and rice is enough for me."
+   ]
+  },
+  {
+   "id": "pack6-card-1645",
+   "mode": "vocab",
+   "word": "futile",
+   "pron": "(adjective)",
+   "def": "Pointless because it cannot succeed\nहिंदी: व्यर्थ",
+   "examples": [
+    "It's futile to optimise without measuring first.",
+    "It's futile to argue with him when he's angry.",
+    "Their efforts to save the old tree were futile.",
+    "Don't waste time on futile complaints; find a solution."
+   ]
+  },
+  {
+   "id": "pack6-card-1646",
+   "mode": "vocab",
+   "word": "galvanising",
+   "pron": "(adjective)",
+   "def": "Shocking or exciting into action\nहिंदी: कार्रवाई के लिए उकसाने वाला",
+   "examples": [
+    "The outage was a galvanising moment.",
+    "Her galvanising speech inspired the volunteers.",
+    "The tragedy had a galvanising effect on the community.",
+    "A galvanising leader can turn a team around."
+   ]
+  },
+  {
+   "id": "pack6-card-1647",
+   "mode": "vocab",
+   "word": "garner",
+   "pron": "(verb)",
+   "def": "To gather or collect\nहिंदी: जुटाना",
+   "examples": [
+    "The proposal garnered wide support.",
+    "The video garnered a million views in a day.",
+    "The film garnered praise from critics.",
+    "She garnered enough votes to win the election."
+   ]
+  },
+  {
+   "id": "pack6-card-1649",
+   "mode": "vocab",
+   "word": "gravitate",
+   "pron": "(verb)",
+   "def": "To be drawn towards something\nहिंदी: की ओर खिंचना",
+   "examples": [
+    "Users gravitate towards simpler tools.",
+    "Young people gravitate towards big cities for work.",
+    "At parties, he gravitates towards the food table.",
+    "Customers gravitate towards brands they trust."
+   ]
+  },
+  {
+   "id": "pack6-card-1650",
+   "mode": "vocab",
+   "word": "grapple with",
+   "pron": "(phrasal verb)",
+   "def": "To struggle to deal with a difficult problem\nहिंदी: कठिन समस्या से जूझना",
+   "examples": [
+    "We are grappling with inconsistent vendor formats.",
+    "Many cities grapple with traffic jams every day.",
+    "She is grappling with a difficult decision about her career.",
+    "New students often grapple with homesickness."
+   ]
+  },
+  {
+   "id": "pack6-card-1651",
+   "mode": "vocab",
+   "word": "hallmark",
+   "pron": "(noun)",
+   "def": "A distinctive feature\nहिंदी: विशिष्ट पहचान",
+   "examples": [
+    "Clear naming is a hallmark of good code.",
+    "Politeness is a hallmark of good customer service.",
+    "Bright colours are a hallmark of her paintings.",
+    "Attention to detail is the hallmark of a great chef."
+   ]
+  },
+  {
+   "id": "pack6-card-1652",
+   "mode": "vocab",
+   "word": "hamper progress",
+   "pron": "(collocation)",
+   "def": "To prevent smooth advancement\nहिंदी: प्रगति में बाधा डालना",
+   "examples": [
+    "Unclear requirements hamper progress.",
+    "Frequent power cuts hamper progress on the construction.",
+    "Poor communication can hamper progress in any team.",
+    "Bad weather hampered progress on the new road."
+   ]
+  },
+  {
+   "id": "pack6-card-1653",
+   "mode": "vocab",
+   "word": "haphazard",
+   "pron": "(adjective)",
+   "def": "Lacking order or planning\nहिंदी: अव्यवस्थित",
+   "examples": [
+    "A haphazard rollout caused confusion.",
+    "The books were stacked in a haphazard way.",
+    "His haphazard study plan led to poor marks.",
+    "The city grew in a haphazard manner without planning."
+   ]
+  },
+  {
+   "id": "pack6-card-1654",
+   "mode": "vocab",
+   "word": "harbour",
+   "pron": "(verb)",
+   "def": "To keep a thought or feeling secretly\nहिंदी: मन में रखना / छुपाकर रखना",
+   "examples": [
+    "I harbour doubts about the timeline.",
+    "She harbours a dream of opening a bakery.",
+    "Don't harbour anger against your colleagues.",
+    "He harboured doubts about the deal from the start."
+   ]
+  },
+  {
+   "id": "pack6-card-1655",
+   "mode": "vocab",
+   "word": "harness",
+   "pron": "(verb)",
+   "def": "To control and use resources effectively\nहिंदी: संसाधनों का प्रभावी उपयोग करना",
+   "examples": [
+    "We harness automation to reduce manual work.",
+    "Farmers harness river water for irrigation.",
+    "Good leaders harness the strengths of their team.",
+    "The village harnesses solar energy for its lights."
+   ]
+  },
+  {
+   "id": "pack6-card-1657",
+   "mode": "vocab",
+   "word": "hinge on",
+   "pron": "(phrasal verb)",
+   "def": "To depend entirely on\nहिंदी: पूरी तरह निर्भर होना",
+   "examples": [
+    "The launch hinges on regulatory approval.",
+    "Everything hinges on the result of the final exam.",
+    "The deal hinges on the price.",
+    "Our trip hinges on the weather."
+   ]
+  },
+  {
+   "id": "pack6-card-1658",
+   "mode": "vocab",
+   "word": "hone",
+   "pron": "(verb)",
+   "def": "To refine or perfect over time\nहिंदी: निखारना",
+   "examples": [
+    "She honed her presentation skills through practice.",
+    "He honed his cooking skills during the lockdown.",
+    "Practise daily to hone your English.",
+    "The athlete honed her technique with a new coach."
+   ]
+  },
+  {
+   "id": "pack6-card-1659",
+   "mode": "vocab",
+   "word": "hurdle",
+   "pron": "(noun)",
+   "def": "An obstacle or difficulty\nहिंदी: बाधा",
+   "examples": [
+    "Security approval was the final hurdle.",
+    "Getting a visa was the biggest hurdle in my move abroad.",
+    "Language can be a hurdle for new migrants.",
+    "We cleared the first hurdle and got funding."
+   ]
+  },
+  {
+   "id": "pack6-card-1660",
+   "mode": "vocab",
+   "word": "illuminate",
+   "pron": "(verb)",
+   "def": "To make something clearer\nहिंदी: स्पष्ट करना",
+   "examples": [
+    "The case study illuminates common pitfalls.",
+    "The lamp illuminates the whole room.",
+    "Her talk illuminated how the brain learns.",
+    "The data illuminated a problem we hadn't noticed."
+   ]
+  },
+  {
+   "id": "pack6-card-1661",
+   "mode": "vocab",
+   "word": "imminent",
+   "pron": "(adjective)",
+   "def": "About to happen\nहिंदी: निकट भविष्य में होने वाला",
+   "examples": [
+    "An outage seemed imminent as the disk filled.",
+    "Dark clouds warned of imminent rain.",
+    "The announcement of the results is imminent.",
+    "Residents were moved because of an imminent flood."
+   ]
+  },
+  {
+   "id": "pack6-card-1662",
+   "mode": "vocab",
+   "word": "impartial review",
+   "pron": "(collocation)",
+   "def": "A fair assessment without bias\nहिंदी: निष्पक्ष समीक्षा",
+   "examples": [
+    "An impartial review will help settle the debate.",
+    "The committee asked for an impartial review of the complaint.",
+    "An impartial review found both sides at fault.",
+    "Ask an outside expert for an impartial review."
+   ]
+  },
+  {
+   "id": "pack6-card-1663",
+   "mode": "vocab",
+   "word": "impede progress",
+   "pron": "(collocation)",
+   "def": "To slow or obstruct advancement\nहिंदी: प्रगति को रोकना",
+   "examples": [
+    "Unclear ownership impedes progress.",
+    "Heavy traffic impedes progress on the road repairs.",
+    "Fear of failure can impede progress in learning.",
+    "Constant changes in scope impede progress on the project."
+   ]
+  },
+  {
+   "id": "pack6-card-1666",
+   "mode": "vocab",
+   "word": "inadvertently",
+   "pron": "(adverb)",
+   "def": "Without intending to\nहिंदी: अनजाने में",
+   "examples": [
+    "He inadvertently deleted the config file.",
+    "I inadvertently sent the email to the wrong person.",
+    "She inadvertently left her phone at the restaurant.",
+    "He inadvertently offended his host with the joke."
+   ]
+  },
+  {
+   "id": "pack6-card-1667",
+   "mode": "vocab",
+   "word": "incessant",
+   "pron": "(adjective)",
+   "def": "Continuing without pause\nहिंदी: लगातार चलने वाला",
+   "examples": [
+    "Incessant alerts led to fatigue.",
+    "The incessant honking gave me a headache.",
+    "The baby's incessant crying kept us awake.",
+    "Incessant rain flooded the streets."
+   ]
+  },
+  {
+   "id": "pack6-card-1668",
+   "mode": "vocab",
+   "word": "incipient",
+   "pron": "(adjective)",
+   "def": "Beginning to develop\nहिंदी: आरंभिक अवस्था का",
+   "examples": [
+    "We spotted incipient issues before they escalated.",
+    "The doctor treated the incipient infection early.",
+    "There are signs of an incipient recovery in sales.",
+    "The incipient crack in the wall needs repair."
+   ]
+  },
+  {
+   "id": "pack6-card-1669",
+   "mode": "vocab",
+   "word": "incorporate",
+   "pron": "(verb)",
+   "def": "To include as part of a whole\nहिंदी: शामिल करना",
+   "examples": [
+    "We incorporated the feedback into the design.",
+    "The recipe incorporates fresh herbs.",
+    "We incorporated yoga into our office routine.",
+    "The new phone incorporates a better camera."
+   ]
+  },
+  {
+   "id": "pack6-card-1670",
+   "mode": "vocab",
+   "word": "indispensable",
+   "pron": "(adjective)",
+   "def": "Absolutely necessary\nहिंदी: अपरिहार्य",
+   "examples": [
+    "Good monitoring is indispensable for operations.",
+    "A phone has become indispensable in daily life.",
+    "She is an indispensable member of the team.",
+    "Clean water is indispensable for good health."
+   ]
+  },
+  {
+   "id": "pack6-card-1671",
+   "mode": "vocab",
+   "word": "induce",
+   "pron": "(verb)",
+   "def": "To persuade or cause to happen\nहिंदी: प्रेरित करना / कारण बनना",
+   "examples": [
+    "High load induced a cascading failure.",
+    "The medicine may induce sleepiness.",
+    "Nothing could induce him to change his mind.",
+    "Stress can induce headaches."
+   ]
+  },
+  {
+   "id": "pack6-card-1672",
+   "mode": "vocab",
+   "word": "inherent",
+   "pron": "(adjective)",
+   "def": "Existing as a natural, permanent part\nहिंदी: अंतर्निहित",
+   "examples": [
+    "Some risk is inherent in every change.",
+    "There are inherent risks in any investment.",
+    "Kindness is inherent in her nature.",
+    "Every system has some inherent limits."
+   ]
+  },
+  {
+   "id": "pack6-card-1673",
+   "mode": "vocab",
+   "word": "innate",
+   "pron": "(adjective)",
+   "def": "Present from birth; natural\nहिंदी: जन्मजात",
+   "examples": [
+    "She has an innate ability to explain complex ideas.",
+    "Children have an innate curiosity about the world.",
+    "He has an innate talent for music.",
+    "Some believe leadership is innate, but it can be learned."
+   ]
+  },
+  {
+   "id": "pack6-card-1674",
+   "mode": "vocab",
+   "word": "insightful",
+   "pron": "(adjective)",
+   "def": "Showing deep understanding\nहिंदी: अंतर्दृष्टि वाला",
+   "examples": [
+    "His insightful questions improved the design.",
+    "The book offers insightful advice for new managers.",
+    "That was a very insightful comment.",
+    "Her insightful analysis helped us win the client."
+   ]
+  },
+  {
+   "id": "pack6-card-1675",
+   "mode": "vocab",
+   "word": "instigate",
+   "pron": "(verb)",
+   "def": "To start or bring about an action\nहिंदी: उकसाना / शुरू करवाना",
+   "examples": [
+    "The audit instigated a review of all permissions.",
+    "The new manager instigated changes in the hiring process.",
+    "Police arrested the man who instigated the fight.",
+    "The complaint instigated an internal investigation."
+   ]
+  },
+  {
+   "id": "pack6-card-1676",
+   "mode": "vocab",
+   "word": "intact",
+   "pron": "(adjective)",
+   "def": "Not damaged or changed\nहिंदी: अक्षुण्ण",
+   "examples": [
+    "All data remained intact after the migration.",
+    "The vase arrived intact despite the long journey.",
+    "The old temple is still intact after centuries.",
+    "Her reputation remained intact after the scandal."
+   ]
+  },
+  {
+   "id": "pack6-card-1677",
+   "mode": "vocab",
+   "word": "intricate",
+   "pron": "(adjective)",
+   "def": "Very complicated or detailed\nहिंदी: जटिल और बारीक",
+   "examples": [
+    "The intricate dependencies slowed the upgrade.",
+    "The sari has intricate embroidery.",
+    "The plot of the novel is very intricate.",
+    "Watchmakers do intricate work with tiny tools."
+   ]
+  },
+  {
+   "id": "pack6-card-1678",
+   "mode": "vocab",
+   "word": "intrinsic",
+   "pron": "(adjective)",
+   "def": "Belonging naturally to something\nहिंदी: आंतरिक / स्वाभाविक",
+   "examples": [
+    "Quality must be intrinsic to the process.",
+    "Curiosity is intrinsic to learning.",
+    "The ring has little intrinsic value but great sentimental value.",
+    "Intrinsic motivation lasts longer than rewards."
+   ]
+  },
+  {
+   "id": "pack6-card-1679",
+   "mode": "vocab",
+   "word": "invariably",
+   "pron": "(adverb)",
+   "def": "In every case; always\nहिंदी: हमेशा",
+   "examples": [
+    "Rushed deployments invariably cause issues.",
+    "He invariably arrives five minutes late.",
+    "Shortcuts invariably lead to more work later.",
+    "The trains are invariably crowded in the morning."
+   ]
+  },
+  {
+   "id": "pack6-card-1680",
+   "mode": "vocab",
+   "word": "juxtapose",
+   "pron": "(verb)",
+   "def": "To place side by side for contrast\nहिंदी: तुलना हेतु पास-पास रखना",
+   "examples": [
+    "The report juxtaposes costs and benefits.",
+    "The exhibition juxtaposes old and new photos of the city.",
+    "The film juxtaposes rich and poor families.",
+    "Juxtapose the two designs to see which looks better."
+   ]
+  },
+  {
+   "id": "pack6-card-1681",
+   "mode": "vocab",
+   "word": "keen",
+   "pron": "(adjective)",
+   "def": "Eager and enthusiastic\nहिंदी: उत्सुक",
+   "examples": [
+    "The team is keen to try the new approach.",
+    "She is keen to learn French.",
+    "The children are keen on cricket.",
+    "We're keen to hear your feedback on the draft."
+   ]
+  },
+  {
+   "id": "pack6-card-1682",
+   "mode": "vocab",
+   "word": "lament",
+   "pron": "(verb)",
+   "def": "To express sorrow or regret\nहिंदी: अफ़सोस जताना",
+   "examples": [
+    "Engineers lament the lack of documentation.",
+    "Many older people lament the loss of traditional values.",
+    "Fans lamented the team's poor performance.",
+    "She lamented that she hadn't studied harder."
+   ]
+  },
+  {
+   "id": "pack6-card-1683",
+   "mode": "vocab",
+   "word": "latent",
+   "pron": "(adjective)",
+   "def": "Existing but not yet developed or visible\nहिंदी: सुप्त / छुपा हुआ",
+   "examples": [
+    "A latent bug surfaced after the upgrade.",
+    "He has latent talent that just needs training.",
+    "The virus can stay latent in the body for years.",
+    "The crisis revealed latent problems in the company."
+   ]
+  },
+  {
+   "id": "pack6-card-1684",
+   "mode": "vocab",
+   "word": "lenient",
+   "pron": "(adjective)",
+   "def": "Not as strict as expected\nहिंदी: नरम / उदार",
+   "examples": [
+    "The vendor was lenient about the deadline.",
+    "The teacher was lenient with late homework this week.",
+    "The judge gave a lenient sentence.",
+    "Some parents are too lenient with their children."
+   ]
+  },
+  {
+   "id": "pack6-card-1685",
+   "mode": "vocab",
+   "word": "leverage points",
+   "pron": "(noun)",
+   "def": "Places where small effort yields large effects\nहिंदी: कम प्रयास में बड़ा असर डालने वाले बिंदु",
+   "examples": [
+    "Find the leverage points in the process.",
+    "Teacher training is one of the best leverage points in education.",
+    "Look for leverage points where a small change saves hours.",
+    "The consultant identified three leverage points in our sales process."
+   ]
+  },
+  {
+   "id": "pack6-card-1686",
+   "mode": "vocab",
+   "word": "lucrative",
+   "pron": "(adjective)",
+   "def": "Producing a great deal of profit\nहिंदी: अत्यंत लाभदायक",
+   "examples": [
+    "Data services are a lucrative business.",
+    "Coaching classes are a lucrative business in India.",
+    "She left a lucrative job to work for a charity.",
+    "The deal was lucrative for both companies."
+   ]
+  },
+  {
+   "id": "pack6-card-1687",
+   "mode": "vocab",
+   "word": "magnitude",
+   "pron": "(noun)",
+   "def": "Great size or importance\nहिंदी: परिमाण",
+   "examples": [
+    "The magnitude of the problem became clear gradually.",
+    "The magnitude of the earthquake was 6.5.",
+    "Nobody understood the magnitude of the decision.",
+    "The magnitude of the damage shocked the town."
+   ]
+  },
+  {
+   "id": "pack6-card-1688",
+   "mode": "vocab",
+   "word": "meagre",
+   "pron": "(adjective)",
+   "def": "Lacking in quantity or quality\nहिंदी: अल्प",
+   "examples": [
+    "The team's meagre budget limited its options.",
+    "He survives on a meagre pension.",
+    "The workers received a meagre pay rise.",
+    "Our meagre savings were gone after the repair."
+   ]
+  },
+  {
+   "id": "pack6-card-1689",
+   "mode": "vocab",
+   "word": "mundane",
+   "pron": "(adjective)",
+   "def": "Lacking interest; ordinary\nहिंदी: साधारण और नीरस",
+   "examples": [
+    "Automate mundane tasks to focus on real engineering.",
+    "Even mundane tasks can be fun with good music.",
+    "She wanted to escape her mundane routine.",
+    "Most of the job is mundane paperwork."
+   ]
+  },
+  {
+   "id": "pack6-card-1690",
+   "mode": "vocab",
+   "word": "acumen",
+   "pron": "(noun)",
+   "def": "The ability to make good judgements quickly\nहिंदी: कुशाग्रता / सूझबूझ",
+   "examples": [
+    "Her business acumen impressed the board.",
+    "His political acumen helped him win the election.",
+    "She showed great financial acumen as a young investor.",
+    "Business acumen is important for any manager."
+   ]
+  },
+  {
+   "id": "pack6-card-1692",
+   "mode": "vocab",
+   "word": "aloof",
+   "pron": "(adjective)",
+   "def": "Distant and not friendly\nहिंदी: अलग-थलग / रूखा",
+   "examples": [
+    "Some leaders seem aloof from daily problems.",
+    "The new neighbour seemed aloof at first.",
+    "He stays aloof from office politics.",
+    "She's not aloof; she's just shy."
+   ]
+  },
+  {
+   "id": "pack6-card-1693",
+   "mode": "vocab",
+   "word": "altercation",
+   "pron": "(noun)",
+   "def": "A noisy argument\nहिंदी: कहा-सुनी",
+   "examples": [
+    "A brief altercation occurred over the deadline.",
+    "Police stopped an altercation outside the bar.",
+    "He had an altercation with the bus conductor.",
+    "The altercation started over a parking space."
+   ]
+  },
+  {
+   "id": "pack6-card-1694",
+   "mode": "vocab",
+   "word": "ameliorate",
+   "pron": "(verb)",
+   "def": "To make a bad situation better\nहिंदी: हालात सुधारना",
+   "examples": [
+    "New training ameliorated the knowledge gaps.",
+    "The new canal ameliorated water shortages in the village.",
+    "Free meals helped ameliorate hunger among students.",
+    "Small changes can ameliorate working conditions."
+   ]
+  },
+  {
+   "id": "pack6-card-1695",
+   "mode": "vocab",
+   "word": "anomalous",
+   "pron": "(adjective)",
+   "def": "Deviating from what is standard\nहिंदी: असामान्य",
+   "examples": [
+    "The anomalous results needed investigation.",
+    "The doctor noticed an anomalous result in the blood test.",
+    "Anomalous weather caused snow in April.",
+    "The scientists couldn't explain the anomalous data."
+   ]
+  },
+  {
+   "id": "pack6-card-1696",
+   "mode": "vocab",
+   "word": "antithesis",
+   "pron": "(noun)",
+   "def": "The direct opposite of something\nहिंदी: ठीक विपरीत",
+   "examples": [
+    "Chaos is the antithesis of good operations.",
+    "Cruelty is the antithesis of what this school stands for.",
+    "Her calm style is the antithesis of her boss's.",
+    "Laziness is the antithesis of success."
+   ]
+  },
+  {
+   "id": "pack6-card-1697",
+   "mode": "vocab",
+   "word": "apprehensive",
+   "pron": "(adjective)",
+   "def": "Anxious about something that may happen\nहिंदी: आशंकित",
+   "examples": [
+    "She felt apprehensive about the live demo.",
+    "I was apprehensive about my first flight.",
+    "Parents are apprehensive about sending kids to a new school.",
+    "She felt apprehensive before the interview."
+   ]
+  },
+  {
+   "id": "pack6-card-1698",
+   "mode": "vocab",
+   "word": "arduous task",
+   "pron": "(collocation)",
+   "def": "A very difficult job\nहिंदी: अत्यंत कठिन कार्य",
+   "examples": [
+    "Rewriting the parser was an arduous task.",
+    "Cleaning the old house was an arduous task.",
+    "Learning a new language as an adult is an arduous task.",
+    "Collecting all the documents was an arduous task."
+   ]
+  },
+  {
+   "id": "pack6-card-1699",
+   "mode": "vocab",
+   "word": "augmentation",
+   "pron": "(noun)",
+   "def": "The act of making something greater\nहिंदी: वृद्धि / संवर्धन",
+   "examples": [
+    "Data augmentation improved the model.",
+    "The team asked for augmentation of its budget.",
+    "Staff augmentation helped us meet the deadline.",
+    "Breast augmentation is a common cosmetic surgery."
+   ]
+  },
+  {
+   "id": "pack6-card-1700",
+   "mode": "vocab",
+   "word": "benevolent",
+   "pron": "(adjective)",
+   "def": "Kind and generous\nहिंदी: परोपकारी",
+   "examples": [
+    "A benevolent manager gave the team flexibility.",
+    "A benevolent donor paid for the new library.",
+    "The king was remembered as a benevolent ruler.",
+    "She gave him a benevolent smile."
+   ]
+  },
+  {
+   "id": "pack6-card-1701",
+   "mode": "vocab",
+   "word": "cacophony",
+   "pron": "(noun)",
+   "def": "A harsh mixture of loud sounds\nहिंदी: कर्कश शोर",
+   "examples": [
+    "A cacophony of alerts overwhelmed the on-call engineer.",
+    "The market was a cacophony of shouting sellers.",
+    "A cacophony of horns filled the street.",
+    "The children's band produced a cacophony of sound."
+   ]
+  },
+  {
+   "id": "pack6-card-1702",
+   "mode": "vocab",
+   "word": "catalyst",
+   "pron": "(noun)",
+   "def": "Something that causes change or action\nहिंदी: उत्प्रेरक",
+   "examples": [
+    "The outage was a catalyst for reform.",
+    "The new coach was a catalyst for the team's success.",
+    "Her speech was a catalyst for change.",
+    "Heat acts as a catalyst in the reaction."
+   ]
+  },
+  {
+   "id": "pack6-card-1703",
+   "mode": "vocab",
+   "word": "chagrin",
+   "pron": "(noun)",
+   "def": "Annoyance from failure or embarrassment\nहिंदी: खिन्नता",
+   "examples": [
+    "To his chagrin, the bug was his own.",
+    "To my chagrin, I forgot her name.",
+    "Much to the chagrin of fans, the match was cancelled.",
+    "He felt chagrin after losing to a beginner."
+   ]
+  },
+  {
+   "id": "pack6-card-1704",
+   "mode": "vocab",
+   "word": "coalesce",
+   "pron": "(verb)",
+   "def": "To come together to form a whole\nहिंदी: एक में घुल-मिल जाना",
+   "examples": [
+    "Ideas coalesced into a clear plan.",
+    "The small groups coalesced into one movement.",
+    "Raindrops coalesced into larger drops.",
+    "Their opinions coalesced around one candidate."
+   ]
+  },
+  {
+   "id": "pack6-card-1705",
+   "mode": "vocab",
+   "word": "conducive",
+   "pron": "(adjective)",
+   "def": "Making a certain result likely\nहिंदी: अनुकूल",
+   "examples": [
+    "A quiet space is conducive to deep work.",
+    "Good lighting is conducive to studying.",
+    "A calm home is conducive to good sleep.",
+    "The weather was conducive to a picnic."
+   ]
+  },
+  {
+   "id": "pack6-card-1706",
+   "mode": "vocab",
+   "word": "conundrum",
+   "pron": "(noun)",
+   "def": "A confusing and difficult problem\nहिंदी: उलझन भरी पहेली",
+   "examples": [
+    "The schema change posed a conundrum.",
+    "Choosing between two good offers was a real conundrum.",
+    "How to reduce traffic is a conundrum for city planners.",
+    "The detective faced a puzzling conundrum."
+   ]
+  },
+  {
+   "id": "pack6-card-1707",
+   "mode": "vocab",
+   "word": "convoluted logic",
+   "pron": "(collocation)",
+   "def": "Unnecessarily complicated reasoning\nहिंदी: उलझा हुआ तर्क",
+   "examples": [
+    "The convoluted logic made debugging painful.",
+    "His convoluted logic confused the whole jury.",
+    "The policy's convoluted logic makes it hard to follow.",
+    "Simplify the convoluted logic before adding new features."
+   ]
+  },
+  {
+   "id": "pack6-card-1708",
+   "mode": "vocab",
+   "word": "credulous",
+   "pron": "(adjective)",
+   "def": "Too ready to believe things\nहिंदी: ज़रूरत से ज़्यादा भरोसा करने वाला",
+   "examples": [
+    "Don't be credulous about vendor claims.",
+    "Credulous people fall for online scams.",
+    "Only a credulous reader would believe that headline.",
+    "Don't be so credulous; check the facts."
+   ]
+  },
+  {
+   "id": "pack6-card-1709",
+   "mode": "vocab",
+   "word": "dichotomy",
+   "pron": "(noun)",
+   "def": "A division into two contrasting parts\nहिंदी: दो विपरीत भागों में बँटवारा",
+   "examples": [
+    "There's a dichotomy between speed and quality.",
+    "There's a dichotomy between what he says and what he does.",
+    "The dichotomy of city and village life fascinates writers.",
+    "The essay discusses the dichotomy between work and family."
+   ]
+  },
+  {
+   "id": "pack6-card-1711",
+   "mode": "vocab",
+   "word": "discord",
+   "pron": "(noun)",
+   "def": "Disagreement between people\nहिंदी: मतभेद",
+   "examples": [
+    "Discord within the team slowed progress.",
+    "Money caused discord in the family.",
+    "The decision created discord between the partners.",
+    "There was discord among members over the new rules."
+   ]
+  },
+  {
+   "id": "pack6-card-1712",
+   "mode": "vocab",
+   "word": "eclectic",
+   "pron": "(adjective)",
+   "def": "Drawing from a wide range of sources\nहिंदी: विविध स्रोतों से लिया गया",
+   "examples": [
+    "The team has an eclectic mix of skills.",
+    "She has eclectic taste in music.",
+    "The cafe has an eclectic menu of Indian and Italian food.",
+    "His library is an eclectic collection of books."
+   ]
+  },
+  {
+   "id": "pack6-card-1713",
+   "mode": "vocab",
+   "word": "efficacy",
+   "pron": "(noun)",
+   "def": "The ability to produce a desired result\nहिंदी: प्रभावशीलता",
+   "examples": [
+    "We tested the efficacy of the new alerts.",
+    "The efficacy of the vaccine was over ninety percent.",
+    "Doctors questioned the efficacy of the treatment.",
+    "We measured the efficacy of the new training."
+   ]
+  },
+  {
+   "id": "pack6-card-1714",
+   "mode": "vocab",
+   "word": "ephemeral nature",
+   "pron": "(collocation)",
+   "def": "A short-lived quality\nहिंदी: क्षणभंगुर स्वभाव",
+   "examples": [
+    "The ephemeral nature of containers requires external storage.",
+    "The ephemeral nature of fame worries young actors.",
+    "Social media posts have an ephemeral nature.",
+    "The ephemeral nature of cherry blossoms makes them special."
+   ]
+  },
+  {
+   "id": "pack6-card-1716",
+   "mode": "vocab",
+   "word": "exacting",
+   "pron": "(adjective)",
+   "def": "Demanding great care and effort\nहिंदी: अत्यंत कठोर मानकों वाला",
+   "examples": [
+    "The client's exacting standards raised quality.",
+    "Surgery is an exacting job.",
+    "The professor has exacting standards for essays.",
+    "The exacting work required total focus."
+   ]
+  },
+  {
+   "id": "pack6-card-1717",
+   "mode": "vocab",
+   "word": "flamboyant",
+   "pron": "(adjective)",
+   "def": "Showy and attracting attention\nहिंदी: दिखावटी और आकर्षक",
+   "examples": [
+    "He gave a flamboyant presentation.",
+    "The singer wore a flamboyant gold jacket.",
+    "His flamboyant style made him popular on TV.",
+    "The wedding was a flamboyant affair."
+   ]
+  }
+ ]
+}

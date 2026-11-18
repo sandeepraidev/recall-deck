@@ -1,0 +1,60 @@
+{
+ "id": "deck-21",
+ "categoryId": "cat-14",
+ "title": "Chapter 1: Naming What You Feel",
+ "sub": "Move past 'good' and 'bad' with sharper words.",
+ "cards": [
+  {
+   "id": "card-15",
+   "mode": "vocab",
+   "word": "Wistful",
+   "pron": "/ˈwɪstfəl/",
+   "def": "Having or showing a feeling of vague or regretful longing.",
+   "examples": [
+    "She felt wistful looking at old photos from summer camp.",
+    "My grandmother grew wistful talking about her village.",
+    "He gave a wistful smile as the train left the station.",
+    "Old songs always make me feel a little wistful."
+   ]
+  },
+  {
+   "id": "card-16",
+   "mode": "vocab",
+   "word": "Elated",
+   "pron": "/ɪˈleɪtɪd/",
+   "def": "Extremely happy and excited.",
+   "examples": [
+    "He was elated after getting the acceptance letter.",
+    "The whole family was elated when my sister got the job.",
+    "Fans were elated after India won the match.",
+    "She felt elated when her first article was published."
+   ]
+  },
+  {
+   "id": "card-18",
+   "mode": "vocab",
+   "word": "Content",
+   "pron": "/kənˈtɛnt/",
+   "def": "In a state of peaceful happiness.",
+   "examples": [
+    "He seemed content just sitting on the porch with his coffee.",
+    "My father is content with a simple life in our hometown.",
+    "The baby looked content after her afternoon nap.",
+    "I'm content with my salary as long as the work is interesting."
+   ]
+  },
+  {
+   "id": "card-20",
+   "mode": "vocab",
+   "word": "Nostalgic",
+   "pron": "/nɒˈstældʒɪk/",
+   "def": "A sentimental longing for the past.",
+   "examples": [
+    "The song made him nostalgic for his college years.",
+    "Walking past my old school made me nostalgic.",
+    "The office reunion left everyone feeling nostalgic.",
+    "Rain and hot pakoras make me nostalgic for childhood."
+   ]
+  }
+ ]
+}

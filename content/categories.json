@@ -1,0 +1,234 @@
+[
+ {
+  "id": "cat-14",
+  "title": "Emotions & Feelings",
+  "sub": "Precise words for describing how people feel.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "cat-30",
+  "title": "Travel & Places",
+  "sub": "Words for getting around and describing new places.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "cat-38",
+  "title": "Everyday Conversation",
+  "sub": "Natural words that make casual speech sound fluent.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "cat-46",
+  "title": "Story",
+  "sub": "Short stories and fables, scrolled and read start to finish.",
+  "mode": "story",
+  "glyph": "☰",
+  "hue": 265
+ },
+ {
+  "id": "cat-51",
+  "title": "PM Interview Cases",
+  "sub": "Product-sense and analytical scenarios. Read the situation, structure your answer, then compare.",
+  "mode": "case",
+  "glyph": "C",
+  "hue": 155
+ },
+ {
+  "id": "cat-56",
+  "title": "English Sentence Patterns",
+  "sub": "Reusable grammatical frames. See the pattern and its use, then study natural examples.",
+  "mode": "pattern",
+  "glyph": "S",
+  "hue": 60
+ },
+ {
+  "id": "cat-61",
+  "title": "Everyday Japanese",
+  "sub": "Practical phrases for daily conversation. Recall the meaning behind each phrase.",
+  "mode": "phrase",
+  "glyph": "語",
+  "hue": 25
+ },
+ {
+  "id": "cat-66",
+  "title": "Trivia & Knowledge",
+  "sub": "Quick recall across topics. Answer, then check.",
+  "mode": "qa",
+  "glyph": "Q",
+  "hue": 250
+ },
+ {
+  "id": "cat-71",
+  "title": "Python Idioms",
+  "sub": "Clean, idiomatic patterns. Recall the one-liner, then confirm.",
+  "mode": "code",
+  "glyph": "{ }",
+  "hue": 320
+ },
+ {
+  "id": "cat-76",
+  "title": "Speeches & Talks",
+  "sub": "Rehearsal cards for a talk. See the cue, recall your line, then check delivery.",
+  "mode": "speech",
+  "glyph": "“",
+  "hue": 200
+ },
+ {
+  "id": "cat-82",
+  "title": "Data Structures",
+  "sub": "Classic structures, visualized as a stack of blocks (and fittingly, a stack of cards).",
+  "mode": "stack",
+  "glyph": "▤",
+  "hue": 340
+ },
+ {
+  "id": "cat-88",
+  "title": "Shayari & Poems",
+  "sub": "Verses to savor. Scroll through the lines, then sit with what they mean.",
+  "mode": "poem",
+  "glyph": "❝",
+  "hue": 15
+ },
+ {
+  "id": "cat-95",
+  "title": "Professional Email Templates",
+  "sub": "Recall the situation, draft it in your head, then compare with a clean model email.",
+  "mode": "email",
+  "glyph": "@",
+  "hue": 100
+ },
+ {
+  "id": "pack1-cat-1",
+  "title": "Software Engineering Vocab",
+  "sub": "The jargon you hear in every standup and design review.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack1-cat-2",
+  "title": "Humanities Vocab",
+  "sub": "Words from philosophy, history, literature, and the social sciences.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack1-cat-3",
+  "title": "Phrasal Verbs",
+  "sub": "The everyday verb + particle combinations native speakers use constantly.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack1-cat-4",
+  "title": "Proverbs",
+  "sub": "Old sayings with lasting wisdom. Recall what each really means.",
+  "mode": "qa",
+  "glyph": "Q",
+  "hue": 250
+ },
+ {
+  "id": "pack1-cat-5",
+  "title": "Motivation Quotes",
+  "sub": "Short lines to read slowly and carry with you.",
+  "mode": "poem",
+  "glyph": "❝",
+  "hue": 15
+ },
+ {
+  "id": "pack2-cat-1",
+  "title": "Newspaper Reading",
+  "sub": "Vocabulary from headlines and editorials, with Hindi meanings and five tense-wise examples.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack2-cat-2",
+  "title": "Speaking Fluency",
+  "sub": "Connectors, adjectives, verbs, and everyday words for confident speech.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack3-cat-1",
+  "title": "English–Hindi Guide",
+  "sub": "1,000 words across 20 themes, with definitions, Hindi meanings and five examples each.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack4-cat-1",
+  "title": "Workplace Communication",
+  "sub": "Stand-ups, demos, and conveying messages and ideas clearly.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack4-cat-2",
+  "title": "English Expressions",
+  "sub": "Newspaper English, phrasal verbs, idioms and proverbs.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack5-cat-1",
+  "title": "Infographics",
+  "sub": "Processes, picture vocabulary and stories as visual cards.",
+  "mode": "infographic",
+  "glyph": "◈",
+  "hue": 45
+ },
+ {
+  "id": "pack6-cat-1",
+  "title": "Workplace English",
+  "sub": "How engineers talk, debate, lead and reason at work — with Hindi meanings.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack6-cat-2",
+  "title": "Tech & Finance Domain",
+  "sub": "System-design and wealth-management vocabulary for domain conversations.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack6-cat-3",
+  "title": "IELTS & Academic Vocabulary",
+  "sub": "Topic words for IELTS essays and speaking, plus precise words that lift your band.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack6-cat-4",
+  "title": "Idioms, Phrasal Verbs & Proverbs",
+  "sub": "Natural expressions native speakers reach for, with real-world examples.",
+  "mode": "vocab",
+  "glyph": "V",
+  "hue": 285
+ },
+ {
+  "id": "pack6-cat-5",
+  "title": "Meeting Phrases: Say It",
+  "sub": "See the situation, recall the phrase. Ready-made lines for meetings and discussions.",
+  "mode": "expression",
+  "glyph": "»",
+  "hue": 180
+ }
+]

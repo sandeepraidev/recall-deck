@@ -1,0 +1,1411 @@
+{
+  "name": "Advanced Vocab 04 - Leadership, Influence & Career Growth",
+  "templateId": "vocabulary",
+  "color": "slate",
+  "cards": [
+    {
+      "id": "1",
+      "word": "leadership",
+      "definition": "The ability to guide and inspire others toward a goal (नेतृत्व क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Strong leadership kept the team calm during the outage."
+    },
+    {
+      "id": "2",
+      "word": "mentorship",
+      "definition": "Guidance given by an experienced person to a less experienced one (मार्गदर्शन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Her mentorship helped me grow into a senior role."
+    },
+    {
+      "id": "3",
+      "word": "mentor",
+      "definition": "To guide and advise a less experienced person (मार्गदर्शन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I mentor two junior engineers on design basics."
+    },
+    {
+      "id": "4",
+      "word": "coach",
+      "definition": "To help someone improve through guidance and feedback (कौशल सुधारने में मदद करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "He coaches new joiners on writing clear pull requests."
+    },
+    {
+      "id": "5",
+      "word": "delegate",
+      "definition": "To assign responsibility or tasks to others (काम दूसरों को सौंपना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Learn to delegate instead of doing everything yourself."
+    },
+    {
+      "id": "6",
+      "word": "empower",
+      "definition": "To give people authority and confidence to act (सशक्त बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Good managers empower engineers to make decisions."
+    },
+    {
+      "id": "7",
+      "word": "cultivate",
+      "definition": "To develop and nurture a quality or relationship (विकसित और पोषित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She cultivated strong relationships with the business teams."
+    },
+    {
+      "id": "8",
+      "word": "foster",
+      "definition": "To encourage the development of something (बढ़ावा देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "We want to foster a culture of open feedback."
+    },
+    {
+      "id": "9",
+      "word": "nurture",
+      "definition": "To care for and help something grow (पालना-पोसना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Nurture talent and the team will outperform expectations."
+    },
+    {
+      "id": "10",
+      "word": "inspire",
+      "definition": "To fill someone with the urge to do something (प्रेरित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "His clear vision inspired the whole team."
+    },
+    {
+      "id": "11",
+      "word": "motivate",
+      "definition": "To give someone a reason to act (उत्साहित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Recognition motivates people more than rules do."
+    },
+    {
+      "id": "12",
+      "word": "influence",
+      "definition": "To affect someone's decisions or behaviour (प्रभावित करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "You can influence decisions without formal authority."
+    },
+    {
+      "id": "13",
+      "word": "sway",
+      "definition": "To persuade or change someone's opinion (राय बदलना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The prototype swayed the sceptics."
+    },
+    {
+      "id": "14",
+      "word": "negotiate",
+      "definition": "To reach agreement through discussion (बातचीत से सहमति बनाना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She negotiated a longer deadline for the first phase."
+    },
+    {
+      "id": "15",
+      "word": "mediate",
+      "definition": "To help resolve a dispute between parties (विवाद सुलझाने में मध्यस्थता करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "He mediated between the two teams on API ownership."
+    },
+    {
+      "id": "16",
+      "word": "de-escalate",
+      "definition": "To reduce the intensity of a conflict (तनाव कम करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "A calm tone helped de-escalate the situation."
+    },
+    {
+      "id": "17",
+      "word": "navigate",
+      "definition": "To manage a complex or difficult situation (जटिल स्थिति से निपटना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She navigated competing priorities with great skill."
+    },
+    {
+      "id": "18",
+      "word": "spearhead",
+      "definition": "To lead an initiative or effort (किसी पहल का नेतृत्व करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "He spearheaded the move to automated testing."
+    },
+    {
+      "id": "19",
+      "word": "oversee",
+      "definition": "To supervise and ensure work is done properly (देखरेख करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "He oversees the migration across four teams."
+    },
+    {
+      "id": "20",
+      "word": "steward",
+      "definition": "A person responsible for caring for something (देखभाल का ज़िम्मेदार व्यक्ति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "He acts as steward of the shared platform."
+    },
+    {
+      "id": "21",
+      "word": "visionary",
+      "definition": "Having original ideas about the future (दूरदर्शी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The architect has a visionary approach to data platforms."
+    },
+    {
+      "id": "22",
+      "word": "strategic",
+      "definition": "Relating to long-term planning (रणनीतिक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "This is a strategic investment, not a quick fix."
+    },
+    {
+      "id": "23",
+      "word": "tactical",
+      "definition": "Relating to short-term actions toward a goal (युक्तिपरक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "The patch is a tactical fix while we plan the real solution."
+    },
+    {
+      "id": "24",
+      "word": "holistic",
+      "definition": "Considering the whole rather than just the parts (समग्र)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We need a holistic view of reliability, cost and speed."
+    },
+    {
+      "id": "25",
+      "word": "big picture",
+      "definition": "The overall view or general situation (बड़ी तस्वीर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Keep the big picture in mind while solving details."
+    },
+    {
+      "id": "26",
+      "word": "roadmap",
+      "definition": "A strategic plan outlining future goals and timing (भविष्य की कार्ययोजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The roadmap prioritises resilience in the next two quarters."
+    },
+    {
+      "id": "27",
+      "word": "vision",
+      "definition": "A clear idea of what the future should look like (भविष्य की स्पष्ट कल्पना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The team needs a shared vision for the platform."
+    },
+    {
+      "id": "28",
+      "word": "key result",
+      "definition": "A measurable outcome showing progress towards an objective (मापने योग्य परिणाम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "One key result is zero missed file deadlines."
+    },
+    {
+      "id": "29",
+      "word": "KPI",
+      "definition": "A measurable value showing how well goals are met (प्रदर्शन मापक संकेतक)",
+      "partOfSpeech": "abbreviation",
+      "exampleSentence": "File delivery time is our main KPI."
+    },
+    {
+      "id": "30",
+      "word": "metric",
+      "definition": "A quantifiable measure used to track performance (मापदंड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Choose metrics that reflect customer impact."
+    },
+    {
+      "id": "31",
+      "word": "impact",
+      "definition": "The effect or influence of an action (प्रभाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Focus on work with measurable business impact."
+    },
+    {
+      "id": "32",
+      "word": "visibility",
+      "definition": "The degree to which work is seen and recognised (कार्य की दृश्यता/पहचान)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Increase your visibility by sharing results in team forums."
+    },
+    {
+      "id": "33",
+      "word": "credibility",
+      "definition": "The quality of being trusted and believed (विश्वसनीयता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Consistent delivery builds credibility."
+    },
+    {
+      "id": "34",
+      "word": "reputation",
+      "definition": "The general opinion about someone's character or ability (प्रतिष्ठा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She has a reputation for calm, thorough debugging."
+    },
+    {
+      "id": "35",
+      "word": "integrity",
+      "definition": "Honesty and strong moral principles (ईमानदारी और नैतिकता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Integrity means admitting mistakes openly."
+    },
+    {
+      "id": "36",
+      "word": "trustworthy",
+      "definition": "Deserving of confidence (भरोसेमंद)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A trustworthy engineer raises issues early."
+    },
+    {
+      "id": "37",
+      "word": "dependable",
+      "definition": "Consistently reliable (भरोसेमंद)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She's the most dependable person on the team."
+    },
+    {
+      "id": "38",
+      "word": "accountability",
+      "definition": "Being answerable for one's actions and decisions (जवाबदेही)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Accountability starts with owning the outcome."
+    },
+    {
+      "id": "39",
+      "word": "initiative",
+      "definition": "The ability to act independently and take the first step (पहल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She showed initiative by fixing the flaky tests unprompted."
+    },
+    {
+      "id": "40",
+      "word": "self-starter",
+      "definition": "A person who works without needing direction (स्वयं पहल करने वाला)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We want a self-starter who can pick up ambiguous problems."
+    },
+    {
+      "id": "41",
+      "word": "go-getter",
+      "definition": "An ambitious person who actively pursues goals (महत्वाकांक्षी और सक्रिय व्यक्ति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "He's a go-getter who volunteers for challenging tasks."
+    },
+    {
+      "id": "42",
+      "word": "resourceful",
+      "definition": "Able to find clever solutions with limited means (संसाधनपूर्ण / तरकीबी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A resourceful engineer finds a way around blockers."
+    },
+    {
+      "id": "43",
+      "word": "adaptable",
+      "definition": "Able to adjust to new conditions (परिस्थिति के अनुसार ढलने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Adaptable teams recover quickly from changing priorities."
+    },
+    {
+      "id": "44",
+      "word": "versatile",
+      "definition": "Able to do many different things well (बहुमुखी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A versatile engineer moves easily between backend and cloud."
+    },
+    {
+      "id": "45",
+      "word": "agile",
+      "definition": "Able to move and respond quickly (फुर्तीला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We stay agile by releasing small changes often."
+    },
+    {
+      "id": "46",
+      "word": "well-rounded",
+      "definition": "Having a balanced set of skills (संतुलित क्षमताओं वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Senior roles need well-rounded engineers, not just coders."
+    },
+    {
+      "id": "47",
+      "word": "T-shaped",
+      "definition": "Having deep expertise in one area and broad knowledge in others (एक क्षेत्र में गहरा और बाकी में व्यापक ज्ञान)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Our best engineers are T-shaped."
+    },
+    {
+      "id": "48",
+      "word": "subject matter expert",
+      "definition": "A person with deep knowledge in a particular area (विषय विशेषज्ञ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She's our subject matter expert on market data vendors."
+    },
+    {
+      "id": "49",
+      "word": "thought leader",
+      "definition": "An expert whose ideas influence others (विचार-नेता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "He became a thought leader on data resilience."
+    },
+    {
+      "id": "50",
+      "word": "go-to person",
+      "definition": "The person others turn to for help in a topic (जिनसे सब सलाह लेते हैं)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She's the go-to person for Kafka issues."
+    },
+    {
+      "id": "51",
+      "word": "force multiplier",
+      "definition": "Someone or something that greatly increases others' effectiveness (दूसरों की क्षमता बढ़ाने वाला)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Good tooling is a force multiplier for the whole team."
+    },
+    {
+      "id": "52",
+      "word": "trailblazer",
+      "definition": "A pioneer who creates a new path (नई राह बनाने वाला)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She's a trailblazer in adopting infrastructure as code."
+    },
+    {
+      "id": "53",
+      "word": "cross-functional",
+      "definition": "Involving people from different specialities (विभिन्न विशेषज्ञताओं को जोड़ने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A cross-functional team ships features faster."
+    },
+    {
+      "id": "54",
+      "word": "collaboration",
+      "definition": "Working jointly with others on a task (सहयोग)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Collaboration between engineers and analysts improved data quality."
+    },
+    {
+      "id": "55",
+      "word": "synergy",
+      "definition": "Combined effect greater than the sum of parts (सहयोग से बढ़ा हुआ प्रभाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "There's real synergy between the platform and data teams."
+    },
+    {
+      "id": "56",
+      "word": "rapport",
+      "definition": "A harmonious relationship of mutual understanding (आपसी तालमेल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Building rapport with stakeholders makes negotiations easier."
+    },
+    {
+      "id": "57",
+      "word": "camaraderie",
+      "definition": "Friendship and mutual trust within a group (मित्रवत साथ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The team's camaraderie helped us through a tough quarter."
+    },
+    {
+      "id": "58",
+      "word": "inclusive",
+      "definition": "Welcoming and including all people (सबको साथ लेकर चलने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We aim to run inclusive meetings where everyone speaks."
+    },
+    {
+      "id": "59",
+      "word": "psychological safety",
+      "definition": "A climate where people feel safe to speak up (बोलने में सुरक्षित महसूस करने का वातावरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Psychological safety lets people admit mistakes early."
+    },
+    {
+      "id": "60",
+      "word": "blameless",
+      "definition": "Focused on learning rather than assigning fault (दोषारोपण से मुक्त)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We hold blameless postmortems after every incident."
+    },
+    {
+      "id": "61",
+      "word": "transparent",
+      "definition": "Open and honest about information (पारदर्शी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Be transparent about risks, even when the news is bad."
+    },
+    {
+      "id": "62",
+      "word": "candour",
+      "definition": "Honest and open expression (स्पष्टवादिता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Her candour about delays built trust with the client."
+    },
+    {
+      "id": "63",
+      "word": "feedback loop",
+      "definition": "A cycle where results inform future actions (प्रतिक्रिया चक्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A fast feedback loop helps us catch issues early."
+    },
+    {
+      "id": "64",
+      "word": "actionable",
+      "definition": "Specific enough to act upon (कार्रवाई योग्य)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Give actionable feedback, not general criticism."
+    },
+    {
+      "id": "65",
+      "word": "growth mindset",
+      "definition": "The belief that abilities develop through effort (विकास की सोच)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A growth mindset turns failures into lessons."
+    },
+    {
+      "id": "66",
+      "word": "upskill",
+      "definition": "To learn new skills to stay relevant (नए कौशल सीखना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I'm upskilling in cloud security this year."
+    },
+    {
+      "id": "67",
+      "word": "reskill",
+      "definition": "To learn entirely new skills for a different role (नए क्षेत्र के कौशल सीखना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Many analysts reskilled into data engineering."
+    },
+    {
+      "id": "68",
+      "word": "proficiency",
+      "definition": "A high degree of skill (दक्षता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Proficiency in system design is expected at senior level."
+    },
+    {
+      "id": "69",
+      "word": "expertise",
+      "definition": "Expert skill or knowledge in a field (विशेषज्ञता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Her expertise in distributed systems is widely recognised."
+    },
+    {
+      "id": "70",
+      "word": "competence",
+      "definition": "The ability to do something successfully (सक्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Technical competence alone isn't enough for leadership."
+    },
+    {
+      "id": "71",
+      "word": "competency",
+      "definition": "A specific skill or ability required for a role (विशिष्ट कौशल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Communication is a core competency for staff engineers."
+    },
+    {
+      "id": "72",
+      "word": "calibre",
+      "definition": "The quality of a person's ability (योग्यता का स्तर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The team hired engineers of exceptional calibre."
+    },
+    {
+      "id": "73",
+      "word": "track record",
+      "definition": "A history of past achievements (पिछली उपलब्धियों का रिकॉर्ड)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She has a strong track record of delivering on time."
+    },
+    {
+      "id": "74",
+      "word": "portfolio",
+      "definition": "A collection of work demonstrating skills (कार्यों का संग्रह)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "His portfolio includes three large migrations."
+    },
+    {
+      "id": "75",
+      "word": "accomplishment",
+      "definition": "Something successfully achieved (उपलब्धि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "List measurable accomplishments on your resume."
+    },
+    {
+      "id": "76",
+      "word": "milestone achievement",
+      "definition": "Reaching a significant point of progress (महत्वपूर्ण उपलब्धि)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The launch was a milestone achievement for the team."
+    },
+    {
+      "id": "77",
+      "word": "promotion",
+      "definition": "Advancement to a higher position (पदोन्नति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She earned the promotion through consistent impact."
+    },
+    {
+      "id": "78",
+      "word": "appraisal",
+      "definition": "A formal assessment of performance (मूल्यांकन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "My annual appraisal highlighted communication as a strength."
+    },
+    {
+      "id": "79",
+      "word": "performance review",
+      "definition": "A periodic evaluation of an employee's work (कार्य-प्रदर्शन समीक्षा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Prepare examples before your performance review."
+    },
+    {
+      "id": "80",
+      "word": "self-assessment",
+      "definition": "An evaluation of one's own performance (स्वयं का मूल्यांकन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Be specific and honest in your self-assessment."
+    },
+    {
+      "id": "81",
+      "word": "growth area",
+      "definition": "A skill or aspect needing development (सुधार का क्षेत्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "My growth area is presenting to senior leaders."
+    },
+    {
+      "id": "82",
+      "word": "stretch assignment",
+      "definition": "A challenging task beyond a person's current level (चुनौतीपूर्ण अतिरिक्त ज़िम्मेदारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The migration was a stretch assignment for me."
+    },
+    {
+      "id": "83",
+      "word": "career trajectory",
+      "definition": "The path of someone's professional progress (करियर की दिशा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Leading incidents has shaped my career trajectory."
+    },
+    {
+      "id": "84",
+      "word": "career ladder",
+      "definition": "The structured progression of job levels (पदोन्नति की सीढ़ी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The company defines expectations at each rung of the career ladder."
+    },
+    {
+      "id": "85",
+      "word": "lateral move",
+      "definition": "A job change to a similar level in a different area (समान स्तर पर दूसरे क्षेत्र में बदलाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A lateral move into data engineering broadened my skills."
+    },
+    {
+      "id": "86",
+      "word": "individual contributor",
+      "definition": "An employee who doesn't manage others (बिना टीम संभाले योगदान देने वाला कर्मचारी)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "You can grow as an individual contributor without managing people."
+    },
+    {
+      "id": "87",
+      "word": "staff engineer",
+      "definition": "A senior technical role focused on cross-team impact (वरिष्ठ तकनीकी भूमिका)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A staff engineer shapes technical direction across teams."
+    },
+    {
+      "id": "88",
+      "word": "tech lead",
+      "definition": "An engineer who guides a team's technical decisions (तकनीकी अगुआ)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "The tech lead reviews all design proposals."
+    },
+    {
+      "id": "89",
+      "word": "scope",
+      "definition": "The extent of responsibility or work (दायरा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Her scope expanded from one service to the whole platform."
+    },
+    {
+      "id": "90",
+      "word": "span of influence",
+      "definition": "The range of people and decisions one affects (प्रभाव का दायरा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Senior engineers widen their span of influence."
+    },
+    {
+      "id": "91",
+      "word": "sphere of influence",
+      "definition": "The area in which someone has influence (प्रभाव क्षेत्र)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Focus on what's within your sphere of influence."
+    },
+    {
+      "id": "92",
+      "word": "stakeholder management",
+      "definition": "Handling expectations and communication with interested parties (हितधारकों के साथ संवाद प्रबंधन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Stakeholder management is half of a lead's job."
+    },
+    {
+      "id": "93",
+      "word": "expectation setting",
+      "definition": "Agreeing clearly on what will be delivered (अपेक्षाओं का स्पष्ट निर्धारण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Early expectation setting prevents painful surprises."
+    },
+    {
+      "id": "94",
+      "word": "manage up",
+      "definition": "To work effectively with and support one's manager (अपने प्रबंधक के साथ प्रभावी तालमेल बनाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Learning to manage up helps you get the support you need."
+    },
+    {
+      "id": "95",
+      "word": "advocate for",
+      "definition": "To publicly support something on behalf of others (पक्ष में आवाज़ उठाना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "He advocated for more time to pay down technical debt."
+    },
+    {
+      "id": "96",
+      "word": "speak up",
+      "definition": "To express an opinion openly (खुलकर बोलना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Please speak up if you see a risk in the plan."
+    },
+    {
+      "id": "97",
+      "word": "step in",
+      "definition": "To become involved to help or solve a problem (मदद के लिए आगे आना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "She stepped in to resolve the vendor dispute."
+    },
+    {
+      "id": "98",
+      "word": "own up",
+      "definition": "To admit a mistake honestly (ग़लती स्वीकार करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "He owned up to the config error immediately."
+    },
+    {
+      "id": "99",
+      "word": "follow through",
+      "definition": "To complete something that has been started or promised (वादा पूरा करना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "Reliable people follow through on commitments."
+    },
+    {
+      "id": "100",
+      "word": "see through",
+      "definition": "To continue something until it's finished (काम पूरा होने तक डटे रहना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "She saw the migration through to the end."
+    },
+    {
+      "id": "101",
+      "word": "hold yourself accountable",
+      "definition": "To take responsibility for your own commitments (अपनी जवाबदेही खुद तय करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Hold yourself accountable for deadlines you set."
+    },
+    {
+      "id": "102",
+      "word": "lead by example",
+      "definition": "To behave in a way that others will follow (उदाहरण पेश कर नेतृत्व करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Good leaders lead by example during incidents."
+    },
+    {
+      "id": "103",
+      "word": "walk the talk",
+      "definition": "To act in accordance with what one says (कथनी और करनी एक रखना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She walks the talk on code quality."
+    },
+    {
+      "id": "104",
+      "word": "raise the bar",
+      "definition": "To set a higher standard (मानक ऊँचा करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The new review process raised the bar for quality."
+    },
+    {
+      "id": "105",
+      "word": "go the extra mile",
+      "definition": "To make additional effort beyond what is required (अतिरिक्त प्रयास करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He went the extra mile to document the system."
+    },
+    {
+      "id": "106",
+      "word": "take the initiative",
+      "definition": "To act first without being told (आगे बढ़कर पहल करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She took the initiative to improve onboarding docs."
+    },
+    {
+      "id": "107",
+      "word": "step out of your comfort zone",
+      "definition": "To try something unfamiliar and challenging (सहज दायरे से बाहर निकलना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Presenting to executives pushed me out of my comfort zone."
+    },
+    {
+      "id": "108",
+      "word": "hit the ground running",
+      "definition": "To start a new role or task with immediate effectiveness (पहले दिन से प्रभावी शुरुआत करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She hit the ground running and fixed bugs in week one."
+    },
+    {
+      "id": "109",
+      "word": "learn the ropes",
+      "definition": "To learn how a job or environment works (काम के तौर-तरीके सीखना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "It takes a few weeks to learn the ropes here."
+    },
+    {
+      "id": "110",
+      "word": "pull your weight",
+      "definition": "To do your fair share of work (अपने हिस्से का काम करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Everyone on the team has to pull their weight."
+    },
+    {
+      "id": "111",
+      "word": "carry the load",
+      "definition": "To take on a large share of the work (ज़्यादा काम का बोझ उठाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He carried the load while the team was short-staffed."
+    },
+    {
+      "id": "112",
+      "word": "wear many hats",
+      "definition": "To have many different roles or responsibilities (कई भूमिकाएँ निभाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "In a small team, you wear many hats."
+    },
+    {
+      "id": "113",
+      "word": "juggle",
+      "definition": "To manage several tasks simultaneously (एक साथ कई काम संभालना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She juggles incident work and roadmap planning."
+    },
+    {
+      "id": "114",
+      "word": "multitask",
+      "definition": "To handle more than one task at a time (एक साथ कई काम करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Constant multitasking reduces the quality of deep work."
+    },
+    {
+      "id": "115",
+      "word": "context switching",
+      "definition": "Shifting attention between different tasks (एक काम से दूसरे पर ध्यान बदलना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Context switching is the biggest productivity drain."
+    },
+    {
+      "id": "116",
+      "word": "deep work",
+      "definition": "Focused work free from distraction (एकाग्र होकर किया गया काम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Block mornings for deep work."
+    },
+    {
+      "id": "117",
+      "word": "work-life balance",
+      "definition": "Healthy division of time between work and personal life (काम और निजी जीवन का संतुलन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Good work-life balance reduces burnout."
+    },
+    {
+      "id": "118",
+      "word": "burnout",
+      "definition": "Exhaustion caused by prolonged stress (अत्यधिक थकान / मानसिक थकावट)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Unrealistic deadlines lead to burnout."
+    },
+    {
+      "id": "119",
+      "word": "resilience",
+      "definition": "The capacity to recover quickly from difficulties (विपरीत स्थितियों से उबरने की क्षमता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Resilience helped her bounce back after the failed launch."
+    },
+    {
+      "id": "120",
+      "word": "perseverance",
+      "definition": "Persistence in spite of difficulty (दृढ़ता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "His perseverance solved a bug that others had abandoned."
+    },
+    {
+      "id": "121",
+      "word": "tenacity",
+      "definition": "Determination and persistence (दृढ़ संकल्प)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Her tenacity kept the migration moving through every setback."
+    },
+    {
+      "id": "122",
+      "word": "grit",
+      "definition": "Courage and resolve in the face of adversity (साहस और जुझारूपन)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "It took real grit to finish the project alone."
+    },
+    {
+      "id": "123",
+      "word": "composure",
+      "definition": "A calm and controlled state of mind (धैर्य और संयम)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "He maintained his composure during the escalation."
+    },
+    {
+      "id": "124",
+      "word": "poise",
+      "definition": "Calm confidence under pressure (संतुलित आत्मविश्वास)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She handled tough questions with poise."
+    },
+    {
+      "id": "125",
+      "word": "levelheaded",
+      "definition": "Calm and sensible (शांत और समझदार)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A levelheaded response prevented panic."
+    },
+    {
+      "id": "126",
+      "word": "steadfast",
+      "definition": "Firmly committed and unwavering (अडिग)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She was steadfast in her commitment to quality."
+    },
+    {
+      "id": "127",
+      "word": "conscientious",
+      "definition": "Careful and thorough in doing one's work (कर्तव्यनिष्ठ)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A conscientious reviewer catches subtle bugs."
+    },
+    {
+      "id": "128",
+      "word": "dedicated",
+      "definition": "Devoted to a task or purpose (समर्पित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A dedicated team worked through the weekend."
+    },
+    {
+      "id": "129",
+      "word": "committed",
+      "definition": "Pledged to a cause or activity (प्रतिबद्ध)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "We're committed to delivering by the end of March."
+    },
+    {
+      "id": "130",
+      "word": "passionate",
+      "definition": "Having strong enthusiasm for something (उत्साही / जुनूनी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "He's passionate about clean architecture."
+    },
+    {
+      "id": "131",
+      "word": "driven",
+      "definition": "Motivated by a strong desire to succeed (लक्ष्य के प्रति प्रेरित)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A driven engineer seeks out hard problems."
+    },
+    {
+      "id": "132",
+      "word": "ambitious goal",
+      "definition": "A challenging target requiring significant effort (महत्वाकांक्षी लक्ष्य)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "They set an ambitious goal of zero downtime."
+    },
+    {
+      "id": "133",
+      "word": "thrive",
+      "definition": "To flourish and grow successfully (फलना-फूलना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She thrives in ambiguous, fast-moving projects."
+    },
+    {
+      "id": "134",
+      "word": "flourish",
+      "definition": "To grow and develop successfully (पनपना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Mentored engineers tend to flourish quickly."
+    },
+    {
+      "id": "135",
+      "word": "excel",
+      "definition": "To be exceptionally good at something (उत्कृष्ट प्रदर्शन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "He excels at explaining complex systems simply."
+    },
+    {
+      "id": "136",
+      "word": "outperform",
+      "definition": "To do better than expected or others (अपेक्षा से बेहतर प्रदर्शन करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "The new design outperformed the old one by far."
+    },
+    {
+      "id": "137",
+      "word": "exceed expectations",
+      "definition": "To do better than what was anticipated (अपेक्षाओं से आगे निकलना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "The team exceeded expectations by delivering early."
+    },
+    {
+      "id": "138",
+      "word": "rise to the occasion",
+      "definition": "To perform well in a challenging situation (चुनौती पर खरा उतरना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She rose to the occasion during the outage."
+    },
+    {
+      "id": "139",
+      "word": "make a difference",
+      "definition": "To have a positive effect (फ़र्क़ पैदा करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Clear documentation makes a real difference to new joiners."
+    },
+    {
+      "id": "140",
+      "word": "make an impact",
+      "definition": "To have a strong effect on something (गहरा प्रभाव डालना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "You can make an impact by solving customer pain points."
+    },
+    {
+      "id": "141",
+      "word": "add value",
+      "definition": "To contribute something useful or beneficial (मूल्य जोड़ना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Think about how your work adds value to the business."
+    },
+    {
+      "id": "142",
+      "word": "value proposition",
+      "definition": "The benefit a product or service promises to deliver (मूल्य प्रस्ताव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our value proposition is faster, cleaner data."
+    },
+    {
+      "id": "143",
+      "word": "pitch",
+      "definition": "To present an idea persuasively (विचार प्रभावी ढंग से प्रस्तुत करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "She pitched the automation project to the director."
+    },
+    {
+      "id": "144",
+      "word": "elevator pitch",
+      "definition": "A brief persuasive summary of an idea (संक्षिप्त प्रेरक परिचय)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Prepare a thirty-second elevator pitch for your project."
+    },
+    {
+      "id": "145",
+      "word": "storytelling",
+      "definition": "Using narrative to communicate ideas effectively (कहानी के माध्यम से बात रखना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Good storytelling makes technical updates memorable."
+    },
+    {
+      "id": "146",
+      "word": "executive summary",
+      "definition": "A short overview for senior readers (वरिष्ठों के लिए संक्षिप्त सारांश)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Start the report with an executive summary."
+    },
+    {
+      "id": "147",
+      "word": "present",
+      "definition": "To show or explain something to an audience (प्रस्तुत करना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "I'll present the findings at Thursday's review."
+    },
+    {
+      "id": "148",
+      "word": "executive presence",
+      "definition": "A commanding, confident manner that inspires trust (प्रभावशाली व आत्मविश्वासी व्यक्तित्व)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Executive presence helps you influence senior leaders."
+    },
+    {
+      "id": "149",
+      "word": "gravitas",
+      "definition": "Dignity and seriousness of manner (गंभीरता और प्रभाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "She speaks with gravitas about reliability."
+    },
+    {
+      "id": "150",
+      "word": "credit",
+      "definition": "To acknowledge someone's contribution (श्रेय देना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Always credit teammates for their ideas."
+    },
+    {
+      "id": "151",
+      "word": "take credit",
+      "definition": "To claim recognition for work (श्रेय लेना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Don't take credit for work the team did."
+    },
+    {
+      "id": "152",
+      "word": "share the spotlight",
+      "definition": "To give others recognition (दूसरों को भी श्रेय देना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "Great leaders share the spotlight."
+    },
+    {
+      "id": "153",
+      "word": "sponsor",
+      "definition": "A senior person who advocates for your career (वरिष्ठ संरक्षक जो आगे बढ़ाए)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A sponsor recommended her for the lead role."
+    },
+    {
+      "id": "154",
+      "word": "skip-level meeting",
+      "definition": "A meeting with your manager's manager (प्रबंधक के प्रबंधक से बैठक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "A skip-level meeting gives a broader view of priorities."
+    },
+    {
+      "id": "155",
+      "word": "one-on-one",
+      "definition": "A private meeting between two people (आमने-सामने की बैठक)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Use your one-on-one to discuss career goals."
+    },
+    {
+      "id": "156",
+      "word": "career conversation",
+      "definition": "A discussion about professional growth (करियर विकास पर चर्चा)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "I asked for a career conversation with my manager."
+    },
+    {
+      "id": "157",
+      "word": "development plan",
+      "definition": "A structured plan for building skills (कौशल विकास योजना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We agreed on a six-month development plan."
+    },
+    {
+      "id": "158",
+      "word": "skill gap",
+      "definition": "The difference between current and required skills (कौशल का अंतर)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We identified a skill gap in cloud security."
+    },
+    {
+      "id": "159",
+      "word": "knowledge transfer",
+      "definition": "Passing expertise from one person to another (ज्ञान का हस्तांतरण)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Knowledge transfer prevents single-person dependency."
+    },
+    {
+      "id": "160",
+      "word": "bus factor",
+      "definition": "The number of people whose absence would stall a project (कितने लोगों के जाने से काम रुक जाए)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Our bus factor on this service is one."
+    },
+    {
+      "id": "161",
+      "word": "succession planning",
+      "definition": "Preparing people to take over key roles (उत्तराधिकारी तैयार करना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Succession planning reduces risk when leads leave."
+    },
+    {
+      "id": "162",
+      "word": "backfill role",
+      "definition": "A position created to replace a departing employee (जाने वाले कर्मचारी की जगह भरने वाली नियुक्ति)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "We're hiring a backfill for the senior engineer."
+    },
+    {
+      "id": "163",
+      "word": "attrition",
+      "definition": "Gradual loss of employees (कर्मचारियों का धीरे-धीरे छोड़ना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "High attrition hurt delivery."
+    },
+    {
+      "id": "164",
+      "word": "retention",
+      "definition": "The ability to keep employees (कर्मचारियों को रोके रखना)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Good culture improves retention."
+    },
+    {
+      "id": "165",
+      "word": "morale",
+      "definition": "The confidence and enthusiasm of a group (टीम का मनोबल)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Frequent outages lowered team morale."
+    },
+    {
+      "id": "166",
+      "word": "engagement",
+      "definition": "The level of commitment and enthusiasm at work (कार्य में जुड़ाव)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Autonomy increases employee engagement."
+    },
+    {
+      "id": "167",
+      "word": "autonomy",
+      "definition": "Freedom to make one's own decisions (स्वायत्तता)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "Autonomy motivates skilled engineers."
+    },
+    {
+      "id": "168",
+      "word": "micromanage",
+      "definition": "To control every detail of someone's work (हर छोटी बात पर नियंत्रण रखना)",
+      "partOfSpeech": "verb",
+      "exampleSentence": "Micromanaging kills creativity."
+    },
+    {
+      "id": "169",
+      "word": "hands-on",
+      "definition": "Directly involved in practical work (प्रत्यक्ष भागीदारी वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She's a hands-on lead who still writes code."
+    },
+    {
+      "id": "170",
+      "word": "hands-off",
+      "definition": "Not directly involved; allowing independence (हस्तक्षेप न करने वाला)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "He takes a hands-off approach with senior engineers."
+    },
+    {
+      "id": "171",
+      "word": "approachable",
+      "definition": "Friendly and easy to talk to (सहज उपलब्ध और मिलनसार)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "An approachable lead encourages questions."
+    },
+    {
+      "id": "172",
+      "word": "empathetic",
+      "definition": "Able to understand others' feelings (संवेदनशील / सहानुभूतिपूर्ण)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Empathetic managers handle conflict better."
+    },
+    {
+      "id": "173",
+      "word": "supportive",
+      "definition": "Providing encouragement and help (सहयोगी)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Her supportive feedback built my confidence."
+    },
+    {
+      "id": "174",
+      "word": "decisive",
+      "definition": "Able to make decisions quickly and effectively (निर्णायक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "A decisive lead prevents endless debate."
+    },
+    {
+      "id": "175",
+      "word": "indecisive",
+      "definition": "Unable to make decisions (अनिर्णायक)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "Indecisive leadership delays delivery."
+    },
+    {
+      "id": "176",
+      "word": "influential",
+      "definition": "Having great influence on others (प्रभावशाली)",
+      "partOfSpeech": "adjective",
+      "exampleSentence": "She is an influential voice in design reviews."
+    },
+    {
+      "id": "177",
+      "word": "credible voice",
+      "definition": "A person whose opinion is trusted (विश्वसनीय आवाज़)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "He became a credible voice on data quality."
+    },
+    {
+      "id": "178",
+      "word": "build trust",
+      "definition": "To develop confidence between people (भरोसा बनाना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Delivering small promises builds trust."
+    },
+    {
+      "id": "179",
+      "word": "earn respect",
+      "definition": "To gain admiration through actions (सम्मान अर्जित करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "You earn respect by listening first."
+    },
+    {
+      "id": "180",
+      "word": "set boundaries",
+      "definition": "To define acceptable limits (सीमाएँ तय करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Set boundaries to protect your focus time."
+    },
+    {
+      "id": "181",
+      "word": "say no gracefully",
+      "definition": "To decline politely and professionally (विनम्रता से मना करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Learn to say no gracefully to low-priority requests."
+    },
+    {
+      "id": "182",
+      "word": "negotiate a raise",
+      "definition": "To discuss a salary increase (वेतन वृद्धि पर बातचीत करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Prepare evidence before you negotiate a raise."
+    },
+    {
+      "id": "183",
+      "word": "make a business case",
+      "definition": "To justify a proposal with benefits and costs (व्यावसायिक औचित्य प्रस्तुत करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "She made a business case for hiring two engineers."
+    },
+    {
+      "id": "184",
+      "word": "secure funding",
+      "definition": "To obtain money for a project (धन की व्यवस्था करना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "We secured funding for the platform upgrade."
+    },
+    {
+      "id": "185",
+      "word": "win over",
+      "definition": "To gain someone's support (समर्थन जीतना)",
+      "partOfSpeech": "phrasal verb",
+      "exampleSentence": "His demo won over the sceptical director."
+    },
+    {
+      "id": "186",
+      "word": "rally support",
+      "definition": "To gather backing from others (समर्थन जुटाना)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "She rallied support for the new standard."
+    },
+    {
+      "id": "187",
+      "word": "get everyone on board",
+      "definition": "To gain agreement and support from everyone (सबको साथ लेना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We need to get everyone on board before launching."
+    },
+    {
+      "id": "188",
+      "word": "bring to the table",
+      "definition": "To contribute skills or value (योगदान या कौशल लाना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She brings deep domain expertise to the table."
+    },
+    {
+      "id": "189",
+      "word": "punch above your weight",
+      "definition": "To perform better than expected for your size or level (अपने स्तर से बेहतर प्रदर्शन करना)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The small team punches above its weight."
+    },
+    {
+      "id": "190",
+      "word": "a safe pair of hands",
+      "definition": "A reliable person who can be trusted with tasks (भरोसेमंद व्यक्ति)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "He is a safe pair of hands for critical releases."
+    },
+    {
+      "id": "191",
+      "word": "a team player",
+      "definition": "Someone who cooperates well with others (टीम भावना वाला व्यक्ति)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "We value a team player over a lone hero."
+    },
+    {
+      "id": "192",
+      "word": "a quick study",
+      "definition": "Someone who learns fast (जल्दी सीखने वाला)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She's a quick study and mastered Kafka in weeks."
+    },
+    {
+      "id": "193",
+      "word": "a fast learner",
+      "definition": "A person who picks up new skills quickly (तेज़ी से सीखने वाला)",
+      "partOfSpeech": "noun",
+      "exampleSentence": "As a fast learner, he adapted to the new stack."
+    },
+    {
+      "id": "194",
+      "word": "a rising star",
+      "definition": "A person who is rapidly becoming successful (उभरता सितारा)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "She's a rising star in the platform team."
+    },
+    {
+      "id": "195",
+      "word": "an unsung hero",
+      "definition": "A person who contributes a lot without recognition (अनदेखा नायक)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "The on-call engineers are the unsung heroes."
+    },
+    {
+      "id": "196",
+      "word": "a seasoned professional",
+      "definition": "A highly experienced person (अनुभवी पेशेवर)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "A seasoned professional stays calm in crises."
+    },
+    {
+      "id": "197",
+      "word": "a well-oiled machine",
+      "definition": "A team that works very smoothly (सुचारू रूप से चलने वाली टीम)",
+      "partOfSpeech": "idiom",
+      "exampleSentence": "After a year, the team ran like a well-oiled machine."
+    },
+    {
+      "id": "198",
+      "word": "a tight-knit team",
+      "definition": "A close and supportive group (आपस में जुड़ी टीम)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "A tight-knit team communicates with little friction."
+    },
+    {
+      "id": "199",
+      "word": "a high-performing team",
+      "definition": "A group consistently achieving excellent results (उच्च प्रदर्शन करने वाली टीम)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "High-performing teams value feedback."
+    },
+    {
+      "id": "200",
+      "word": "a steep ask",
+      "definition": "A demanding request (कठिन माँग)",
+      "partOfSpeech": "collocation",
+      "exampleSentence": "Delivering in two weeks is a steep ask."
+    }
+  ],
+  "id": "564f27d4-ff30-45e9-88f1-1ed95cec2ff8",
+  "createdAt": "2026-11-17T07:40:43.000Z",
+  "updatedAt": "2026-11-17T07:40:43.000Z",
+  "textAlign": "left"
+}

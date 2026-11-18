@@ -1,0 +1,632 @@
+{
+ "id": "pack3-deck-14",
+ "categoryId": "pack3-cat-1",
+ "title": "14. Social Justice",
+ "sub": "50 words",
+ "cards": [
+  {
+   "id": "pack3-card-651",
+   "mode": "vocab",
+   "word": "Social Justice",
+   "pron": "",
+   "def": "Fairness in the distribution of rights and opportunities.\nहिंदी: सामाजिक न्याय",
+   "examples": [
+    "Social Justice ensures equal dignity.",
+    "Social Justice must guide policy.",
+    "Social Justice corrects historical wrongs.",
+    "Social Justice strengthens democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-652",
+   "mode": "vocab",
+   "word": "Social Parity",
+   "pron": "",
+   "def": "A state of complete equality in social standing, civil rights, and societal recognition.\nहिंदी: सामाजिक समता",
+   "examples": [
+    "Grassroots movements fought for decades to attain social parity for oppressed minorities.",
+    "Legislation alone cannot establish social parity without deep cultural transformations.",
+    "Achieving gender social parity remains an active global struggle across workplaces.",
+    "Social parity requires dismantling age-old hierarchies and discriminatory conventions."
+   ]
+  },
+  {
+   "id": "pack3-card-654",
+   "mode": "vocab",
+   "word": "Equitable Justice",
+   "pron": "",
+   "def": "Justice administered according to fairness and moral conscience rather than rigid technical rules.\nहिंदी: न्यायसंगत न्याय",
+   "examples": [
+    "Equitable justice takes historical disadvantages into account when crafting remedies.",
+    "The tribunal prioritized equitable justice over technical legal loopholes.",
+    "Displaced communities demanded equitable justice and immediate land restitution.",
+    "Equitable justice ensures that vulnerable litigants are not disadvantaged by financial weakness."
+   ]
+  },
+  {
+   "id": "pack3-card-655",
+   "mode": "vocab",
+   "word": "Injustice",
+   "pron": "",
+   "def": "Unfair treatment or violation of rights.\nहिंदी: अन्याय",
+   "examples": [
+    "Injustice must be resisted.",
+    "Injustice harms the vulnerable.",
+    "Injustice breeds resentment.",
+    "Injustice must be corrected."
+   ]
+  },
+  {
+   "id": "pack3-card-656",
+   "mode": "vocab",
+   "word": "Systemic Exclusion",
+   "pron": "",
+   "def": "The institutionalized denial of resources, rights, and opportunities to specific social groups.\nहिंदी: व्यवस्थागत बहिष्कार",
+   "examples": [
+    "Systemic exclusion prevented generations of indigenous youth from accessing elite colleges.",
+    "Audits revealed how lending policies perpetuated systemic exclusion in urban housing.",
+    "Dismantling systemic exclusion requires sweeping policy reforms and proactive oversight.",
+    "Civil rights organizations document how voting restrictions enforce systemic exclusion."
+   ]
+  },
+  {
+   "id": "pack3-card-657",
+   "mode": "vocab",
+   "word": "Caste Discrimination",
+   "pron": "",
+   "def": "Unfair treatment based on caste.\nहिंदी: जातिगत भेदभाव",
+   "examples": [
+    "Caste Discrimination is outlawed.",
+    "Caste Discrimination persists socially.",
+    "Caste Discrimination must be eradicated.",
+    "Caste Discrimination harms dignity."
+   ]
+  },
+  {
+   "id": "pack3-card-658",
+   "mode": "vocab",
+   "word": "Untouchability",
+   "pron": "",
+   "def": "The practice of excluding certain castes.\nहिंदी: अस्पृश्यता / छुआछूत",
+   "examples": [
+    "Untouchability is abolished by law.",
+    "Untouchability violates human dignity.",
+    "Untouchability must be eliminated.",
+    "Untouchability persists in pockets."
+   ]
+  },
+  {
+   "id": "pack3-card-659",
+   "mode": "vocab",
+   "word": "Gender Discrimination",
+   "pron": "",
+   "def": "Unfair treatment based on gender.\nहिंदी: लैंगिक भेदभाव",
+   "examples": [
+    "Gender Discrimination limits women.",
+    "Gender Discrimination must end.",
+    "Gender Discrimination affects wages.",
+    "Gender Discrimination harms economies."
+   ]
+  },
+  {
+   "id": "pack3-card-660",
+   "mode": "vocab",
+   "word": "Gender Equality",
+   "pron": "",
+   "def": "Equal rights and opportunities for all genders.\nहिंदी: लैंगिक समानता",
+   "examples": [
+    "Gender Equality empowers societies.",
+    "Gender Equality must be achieved.",
+    "Gender Equality boosts growth.",
+    "Gender Equality is a human right."
+   ]
+  },
+  {
+   "id": "pack3-card-661",
+   "mode": "vocab",
+   "word": "Feminism",
+   "pron": "",
+   "def": "Advocacy for women's rights and equality.\nहिंदी: नारीवाद",
+   "examples": [
+    "Feminism seeks equality.",
+    "Feminism challenges patriarchy.",
+    "Feminism must be understood correctly.",
+    "Feminism benefits all genders."
+   ]
+  },
+  {
+   "id": "pack3-card-662",
+   "mode": "vocab",
+   "word": "Patriarchy",
+   "pron": "",
+   "def": "A system favoring male dominance.\nहिंदी: पितृसत्ता",
+   "examples": [
+    "Patriarchy limits women.",
+    "Patriarchy must be dismantled.",
+    "Patriarchy shapes institutions.",
+    "Patriarchy harms men too."
+   ]
+  },
+  {
+   "id": "pack3-card-663",
+   "mode": "vocab",
+   "word": "Empowerment",
+   "pron": "",
+   "def": "Giving power and confidence to others.\nहिंदी: सशक्तिकरण",
+   "examples": [
+    "Empowerment transforms lives.",
+    "Empowerment must be genuine.",
+    "Empowerment includes education.",
+    "Empowerment builds agency."
+   ]
+  },
+  {
+   "id": "pack3-card-664",
+   "mode": "vocab",
+   "word": "Women's Empowerment",
+   "pron": "",
+   "def": "Enabling women to claim their rights.\nहिंदी: महिला सशक्तिकरण",
+   "examples": [
+    "Women's Empowerment drives development.",
+    "Women's Empowerment must be prioritized.",
+    "Women's Empowerment reduces poverty.",
+    "Women's Empowerment transforms families."
+   ]
+  },
+  {
+   "id": "pack3-card-665",
+   "mode": "vocab",
+   "word": "Marginalization",
+   "pron": "",
+   "def": "Pushing groups to the edge of society.\nहिंदी: हाशिए पर धकेलना",
+   "examples": [
+    "Marginalization denies opportunity.",
+    "Marginalization must be reversed.",
+    "Marginalization breeds poverty.",
+    "Marginalization harms democracy."
+   ]
+  },
+  {
+   "id": "pack3-card-666",
+   "mode": "vocab",
+   "word": "Marginalized",
+   "pron": "",
+   "def": "Excluded from mainstream society.\nहिंदी: हाशिए पर रहने वाला",
+   "examples": [
+    "Marginalized groups need support.",
+    "Marginalized voices must be heard.",
+    "Marginalized communities face barriers.",
+    "Marginalized people deserve dignity."
+   ]
+  },
+  {
+   "id": "pack3-card-668",
+   "mode": "vocab",
+   "word": "Exclusion",
+   "pron": "",
+   "def": "The act of shutting someone out.\nहिंदी: बहिष्कार",
+   "examples": [
+    "Exclusion denies belonging.",
+    "Exclusion harms social cohesion.",
+    "Exclusion must be ended.",
+    "Exclusion breeds resentment."
+   ]
+  },
+  {
+   "id": "pack3-card-669",
+   "mode": "vocab",
+   "word": "Inclusion",
+   "pron": "",
+   "def": "The practice of including all people.\nहिंदी: समावेश",
+   "examples": [
+    "Inclusion strengthens society.",
+    "Inclusion must be intentional.",
+    "Inclusion benefits everyone.",
+    "Inclusion requires accessibility."
+   ]
+  },
+  {
+   "id": "pack3-card-670",
+   "mode": "vocab",
+   "word": "Affirmative Action",
+   "pron": "",
+   "def": "Policies favoring disadvantaged groups.\nहिंदी: सकारात्मक कार्रवाई",
+   "examples": [
+    "Affirmative Action corrects historical wrongs.",
+    "Affirmative Action is debated.",
+    "Affirmative Action expands access.",
+    "Affirmative Action must be fair."
+   ]
+  },
+  {
+   "id": "pack3-card-671",
+   "mode": "vocab",
+   "word": "Positive Action",
+   "pron": "",
+   "def": "Deliberate policy measures implemented to support members of historically disadvantaged groups.\nहिंदी: सकारात्मक कदम",
+   "examples": [
+    "The university implemented positive action policies to enhance student body diversity.",
+    "Positive action in recruitment helps overcome unexamined systemic hiring biases.",
+    "Courts upheld government positive action as a legitimate constitutional mechanism.",
+    "Special scholarship grants were distributed as an act of educational positive action."
+   ]
+  },
+  {
+   "id": "pack3-card-672",
+   "mode": "vocab",
+   "word": "Representation",
+   "pron": "",
+   "def": "Presence of diverse groups in decision-making.\nहिंदी: प्रतिनिधित्व",
+   "examples": [
+    "Representation strengthens democracy.",
+    "Representation must be inclusive.",
+    "Representation gives voice.",
+    "Representation must reflect society."
+   ]
+  },
+  {
+   "id": "pack3-card-673",
+   "mode": "vocab",
+   "word": "Cultural Plurality",
+   "pron": "",
+   "def": "The harmonious existence and celebration of multiple diverse cultural heritages within a nation.\nहिंदी: सांस्कृतिक बहुलता",
+   "examples": [
+    "India's vibrant democracy draws immense strength from its rich cultural plurality.",
+    "National festivals showcase the breathtaking cultural plurality of different states.",
+    "Cultural plurality enriches artistic expression, culinary traditions, and social discourse.",
+    "Democratic institutions must protect cultural plurality from majoritarian assimilation."
+   ]
+  },
+  {
+   "id": "pack3-card-674",
+   "mode": "vocab",
+   "word": "Pluralism",
+   "pron": "",
+   "def": "Coexistence of diverse groups and views.\nहिंदी: बहुलवाद",
+   "examples": [
+    "Pluralism respects difference.",
+    "Pluralism strengthens democracy.",
+    "Pluralism must be defended.",
+    "Pluralism promotes tolerance."
+   ]
+  },
+  {
+   "id": "pack3-card-675",
+   "mode": "vocab",
+   "word": "Tolerance",
+   "pron": "",
+   "def": "Acceptance of different views and people.\nहिंदी: सहिष्णुता",
+   "examples": [
+    "Tolerance builds harmony.",
+    "Tolerance must be practiced.",
+    "Tolerance is a democratic value.",
+    "Tolerance rejects bigotry."
+   ]
+  },
+  {
+   "id": "pack3-card-676",
+   "mode": "vocab",
+   "word": "Social Stratification",
+   "pron": "",
+   "def": "The hierarchical ranking of individuals and groups into socioeconomic tiers within a society.\nहिंदी: सामाजिक स्तरीकरण",
+   "examples": [
+    "Caste and class systems are deeply entrenched examples of historical social stratification.",
+    "Sociologists analyze how educational credentials reinforce contemporary social stratification.",
+    "Social stratification determines an individual's unequal access to healthcare, wealth, and power.",
+    "Progressive taxation and free schooling are designed to mitigate rigid social stratification."
+   ]
+  },
+  {
+   "id": "pack3-card-677",
+   "mode": "vocab",
+   "word": "Bigotry",
+   "pron": "",
+   "def": "Stubborn prejudice against a group.\nहिंदी: कट्टर संकीर्णता",
+   "examples": [
+    "Bigotry harms its targets.",
+    "Bigotry must be opposed.",
+    "Bigotry stems from ignorance.",
+    "Bigotry threatens harmony."
+   ]
+  },
+  {
+   "id": "pack3-card-678",
+   "mode": "vocab",
+   "word": "Racism",
+   "pron": "",
+   "def": "Prejudice based on race.\nहिंदी: नस्लवाद",
+   "examples": [
+    "Racism violates equality.",
+    "Racism must be eradicated.",
+    "Racism harms societies.",
+    "Racism takes many forms."
+   ]
+  },
+  {
+   "id": "pack3-card-679",
+   "mode": "vocab",
+   "word": "Xenophobia",
+   "pron": "",
+   "def": "Fear or hatred of foreigners.\nहिंदी: विदेशी-द्वेष",
+   "examples": [
+    "Xenophobia divides communities.",
+    "Xenophobia must be resisted.",
+    "Xenophobia targets migrants.",
+    "Xenophobia fuels conflict."
+   ]
+  },
+  {
+   "id": "pack3-card-680",
+   "mode": "vocab",
+   "word": "Communalism",
+   "pron": "",
+   "def": "Politics based on religious identity.\nहिंदी: सांप्रदायिकता",
+   "examples": [
+    "Communalism divides society.",
+    "Communalism must be opposed.",
+    "Communalism fuels violence.",
+    "Communalism threatens secularism."
+   ]
+  },
+  {
+   "id": "pack3-card-681",
+   "mode": "vocab",
+   "word": "Interfaith Concord",
+   "pron": "",
+   "def": "Peaceful coexistence, mutual understanding, and mutual respect among different religious communities.\nहिंदी: अंतर-धार्मिक सौहार्द",
+   "examples": [
+    "Community leaders organized an interfaith concord march to defuse local tensions.",
+    "Interfaith concord is essential for the stability and prosperity of diverse democracies.",
+    "Joint social welfare projects fostered deep interfaith concord among neighborhood youth.",
+    "Historical leaders championed interfaith concord as the cornerstone of national unity."
+   ]
+  },
+  {
+   "id": "pack3-card-682",
+   "mode": "vocab",
+   "word": "Community Autonomy",
+   "pron": "",
+   "def": "The recognized right of local cultural or indigenous communities to govern their internal affairs.\nहिंदी: सामुदायिक स्वायत्तता",
+   "examples": [
+    "Constitutional provisions protect tribal community autonomy in managing local forests.",
+    "Community autonomy allows indigenous groups to preserve their ancestral languages and customs.",
+    "Negotiations concluded with a historic agreement granting enhanced community autonomy.",
+    "Respecting community autonomy strengthens national integration rather than weakening it."
+   ]
+  },
+  {
+   "id": "pack3-card-683",
+   "mode": "vocab",
+   "word": "Human Dignity",
+   "pron": "",
+   "def": "The inherent worth of every person.\nहिंदी: मानवीय गरिमा",
+   "examples": [
+    "Human Dignity is inviolable.",
+    "Human Dignity must be protected.",
+    "Human Dignity underpins rights.",
+    "Human Dignity rejects exploitation."
+   ]
+  },
+  {
+   "id": "pack3-card-684",
+   "mode": "vocab",
+   "word": "Indentured Servitude",
+   "pron": "",
+   "def": "A historical system in which individuals were bound by contract to work without pay for a period.\nहिंदी: बंधुआ सेवा",
+   "examples": [
+    "Colonial empires transported millions of laborers under exploitative indentured servitude.",
+    "Historical records document the grueling hardships endured under indentured servitude.",
+    "Descendants of indentured servitude laborers built thriving communities abroad.",
+    "Modern laws classify contracts that force labor through debt as illegal indentured servitude."
+   ]
+  },
+  {
+   "id": "pack3-card-685",
+   "mode": "vocab",
+   "word": "Oppression",
+   "pron": "",
+   "def": "Cruel and unjust exercise of power.\nहिंदी: उत्पीड़न",
+   "examples": [
+    "Oppression silences voices.",
+    "Oppression must be resisted.",
+    "Oppression harms societies.",
+    "Oppression breeds rebellion."
+   ]
+  },
+  {
+   "id": "pack3-card-686",
+   "mode": "vocab",
+   "word": "Liberation",
+   "pron": "",
+   "def": "Freedom from oppression or confinement.\nहिंदी: मुक्ति",
+   "examples": [
+    "Liberation inspires hope.",
+    "Liberation requires struggle.",
+    "Liberation must be inclusive.",
+    "Liberation transforms lives."
+   ]
+  },
+  {
+   "id": "pack3-card-687",
+   "mode": "vocab",
+   "word": "Emancipation",
+   "pron": "",
+   "def": "The process of being set free.\nहिंदी: दासता से मुक्ति",
+   "examples": [
+    "Emancipation ended slavery.",
+    "Emancipation empowers the oppressed.",
+    "Emancipation must be complete.",
+    "Emancipation advances justice."
+   ]
+  },
+  {
+   "id": "pack3-card-688",
+   "mode": "vocab",
+   "word": "Mutual Aid",
+   "pron": "",
+   "def": "Voluntary reciprocal exchange of resources and services among community members for shared benefit.\nहिंदी: आपसी सहायता",
+   "examples": [
+    "Neighbors organized a mutual aid network to distribute groceries during the pandemic lockdown.",
+    "Mutual aid differs from charity because it is grounded in solidarity rather than hierarchy.",
+    "Working-class communities relied on mutual aid societies for sickness and burial funds.",
+    "Grassroots mutual aid groups responded faster than official agencies after the flood."
+   ]
+  },
+  {
+   "id": "pack3-card-689",
+   "mode": "vocab",
+   "word": "Activism",
+   "pron": "",
+   "def": "Action to bring social change.\nहिंदी: सक्रियता / आंदोलनकारी भूमिका",
+   "examples": [
+    "Activism drives reform.",
+    "Activism must be peaceful.",
+    "Activism amplifies voices.",
+    "Activism challenges injustice."
+   ]
+  },
+  {
+   "id": "pack3-card-690",
+   "mode": "vocab",
+   "word": "Civil Disobedience",
+   "pron": "",
+   "def": "Peaceful refusal to obey unjust laws.\nहिंदी: सविनय अवज्ञा",
+   "examples": [
+    "Civil Disobedience resists tyranny.",
+    "Civil Disobedience inspired freedom.",
+    "Civil Disobedience must be nonviolent.",
+    "Civil Disobedience demands courage."
+   ]
+  },
+  {
+   "id": "pack3-card-691",
+   "mode": "vocab",
+   "word": "Nonviolence",
+   "pron": "",
+   "def": "Rejection of violence in pursuit of change.\nहिंदी: अहिंसा",
+   "examples": [
+    "Nonviolence transforms societies.",
+    "Nonviolence requires discipline.",
+    "Nonviolence inspired movements.",
+    "Nonviolence must be practiced."
+   ]
+  },
+  {
+   "id": "pack3-card-692",
+   "mode": "vocab",
+   "word": "Constitutional Liberties",
+   "pron": "",
+   "def": "Fundamental political and civil freedoms explicitly protected from governmental infringement by a charter.\nहिंदी: संवैधानिक स्वतंत्रताएँ",
+   "examples": [
+    "Independent courts serve as the ultimate guardians of citizens' constitutional liberties.",
+    "Emergency proclamations must never permanently extinguish essential constitutional liberties.",
+    "Freedom of the press and assembly are indispensable constitutional liberties in any republic.",
+    "Citizens took to the streets to peacefully defend their hard-won constitutional liberties."
+   ]
+  },
+  {
+   "id": "pack3-card-693",
+   "mode": "vocab",
+   "word": "Democratic Franchise",
+   "pron": "",
+   "def": "The constitutional right and privilege granted to citizens to participate in electing their leaders.\nहिंदी: लोकतांत्रिक मताधिकार",
+   "examples": [
+    "Universal adult suffrage expanded the democratic franchise to every adult citizen.",
+    "Suffragettes waged relentless historical campaigns to win the democratic franchise for women.",
+    "Exercising one's democratic franchise is both a civic right and a vital social responsibility.",
+    "Voter suppression tactics threaten the integrity and fairness of the democratic franchise."
+   ]
+  },
+  {
+   "id": "pack3-card-694",
+   "mode": "vocab",
+   "word": "Economic Justice",
+   "pron": "",
+   "def": "Fairness in economic opportunities.\nहिंदी: आर्थिक न्याय",
+   "examples": [
+    "Economic Justice reduces inequality.",
+    "Economic Justice must guide policy.",
+    "Economic Justice empowers the poor.",
+    "Economic Justice strengthens societies."
+   ]
+  },
+  {
+   "id": "pack3-card-695",
+   "mode": "vocab",
+   "word": "Distributive Justice",
+   "pron": "",
+   "def": "Fair distribution of resources.\nहिंदी: वितरणात्मक न्याय",
+   "examples": [
+    "Distributive Justice ensures fairness.",
+    "Distributive Justice must be pursued.",
+    "Distributive Justice reduces inequality.",
+    "Distributive Justice guides policy."
+   ]
+  },
+  {
+   "id": "pack3-card-696",
+   "mode": "vocab",
+   "word": "Restorative Justice",
+   "pron": "",
+   "def": "Justice focused on repairing harm.\nहिंदी: पुनर्स्थापनात्मक न्याय",
+   "examples": [
+    "Restorative Justice heals victims.",
+    "Restorative Justice must be practiced.",
+    "Restorative Justice reduces recidivism.",
+    "Restorative Justice builds community."
+   ]
+  },
+  {
+   "id": "pack3-card-697",
+   "mode": "vocab",
+   "word": "Reparations",
+   "pron": "",
+   "def": "Compensation for historical wrongs.\nहिंदी: क्षतिपूर्ति / हर्जाना",
+   "examples": [
+    "Reparations address injustice.",
+    "Reparations are debated.",
+    "Reparations must be fair.",
+    "Reparations heal communities."
+   ]
+  },
+  {
+   "id": "pack3-card-698",
+   "mode": "vocab",
+   "word": "Social Safety Net",
+   "pron": "",
+   "def": "Programs protecting the vulnerable.\nहिंदी: सामाजिक सुरक्षा जाल",
+   "examples": [
+    "Social Safety Net prevents destitution.",
+    "Social Safety Net must be strong.",
+    "Social Safety Net reduces poverty.",
+    "Social Safety Net needs funding."
+   ]
+  },
+  {
+   "id": "pack3-card-699",
+   "mode": "vocab",
+   "word": "Human Worth",
+   "pron": "",
+   "def": "The inherent, irreplaceable value and dignity that belongs equally to every human being.\nहिंदी: मानवीय मूल्य / हर इंसान का महत्व",
+   "examples": [
+    "Every social justice philosophy begins with the affirmation of unconditional human worth.",
+    "Treating sanitation workers with respect affirms their equal human worth and dignity.",
+    "Economic systems should serve human worth rather than reducing individuals to mere commodities.",
+    "Human worth is not diminished by poverty, illness, social background, or disability."
+   ]
+  },
+  {
+   "id": "pack3-card-700",
+   "mode": "vocab",
+   "word": "Justice for All",
+   "pron": "",
+   "def": "Fairness extended to every person.\nहिंदी: सबके लिए न्याय",
+   "examples": [
+    "Justice for All is the ultimate goal.",
+    "Justice for All must guide law.",
+    "Justice for All requires inclusion.",
+    "Justice for All strengthens democracy."
+   ]
+  }
+ ]
+}

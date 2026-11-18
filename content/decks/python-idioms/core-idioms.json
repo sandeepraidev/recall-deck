@@ -1,0 +1,29 @@
+{
+ "id": "deck-75",
+ "categoryId": "cat-71",
+ "title": "Core Idioms",
+ "sub": "The everyday one-liners.",
+ "cards": [
+  {
+   "id": "card-72",
+   "mode": "code",
+   "task": "Swap two variables without a temp",
+   "code": "a, b = b, a",
+   "note": "Tuple packing then unpacking — atomic and clear."
+  },
+  {
+   "id": "card-73",
+   "mode": "code",
+   "task": "Merge two dicts (3.9+)",
+   "code": "merged = a | b",
+   "note": "Values in b win on key conflicts."
+  },
+  {
+   "id": "card-74",
+   "mode": "code",
+   "task": "Flatten a list of lists",
+   "code": "flat = [x for row in grid\n        for x in row]",
+   "note": "Nested comprehension reads left-to-right like nested loops."
+  }
+ ]
+}
